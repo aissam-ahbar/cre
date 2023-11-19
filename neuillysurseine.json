@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12849418",
+    "mail": "bebeexplorateurs@people-and-baby.com",
+    "distance": 4513,
+    "latitude": 48.88239342624553,
+    "telephone": "0147226353",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesbébés explorateurs",
+    "resultStructId": "181602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue louis philippe 92200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271925876434521,
+    "ville": "neuillysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12536654",
+    "mail": "",
+    "distance": 5676,
+    "latitude": 48.89725334160996,
+    "telephone": "0155626475",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ILEDE LA JATTE",
+    "resultStructId": "94801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85/87 boulevard georges seurat 92200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2721158886351356,
+    "ville": "neuillysurseine",
+    "cp": ""
+  }
+]

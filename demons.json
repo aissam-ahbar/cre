@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12520529",
+    "mail": "crechepirouette43@orange.fr",
+    "distance": 189535,
+    "latitude": 45.24443902968732,
+    "telephone": "0471750901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPirouette",
+    "resultStructId": "192004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du pontonnet 43620 st pal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.276492532187617,
+    "ville": "demons",
+    "cp": ""
+  },
+  {
+    "resultId": "18177670",
+    "mail": "macfa@cdcsudgironde.fr",
+    "distance": 22740,
+    "latitude": 44.55145295651775,
+    "telephone": "0556622920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIALE LA CLE DES CHANTS",
+    "resultStructId": "14712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2lieu-dit du peage 33210 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22197042517059729,
+    "ville": "demons",
+    "cp": ""
+  },
+  {
+    "resultId": "12520529",
+    "mail": "crechepirouette43@orange.fr",
+    "distance": 185486,
+    "latitude": 45.24443902968732,
+    "telephone": "0471750901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPirouette",
+    "resultStructId": "192004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du pontonnet 43620 st pal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.276492532187617,
+    "ville": "demons",
+    "cp": ""
+  }
+]

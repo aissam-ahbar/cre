@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12981514",
+    "mail": "terredeveil@mairie-serris.net",
+    "distance": 129307,
+    "latitude": 48.85250193427849,
+    "telephone": "0160047436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Terre d'Eveil",
+    "resultStructId": "11636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de navarre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7887017124327413,
+    "ville": "serris",
+    "cp": "77700"
+  },
+  {
+    "resultId": "12981557",
+    "mail": "1001bulles@mairie-serris.net",
+    "distance": 129829,
+    "latitude": 48.84477707316207,
+    "telephone": "0160431958",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective 1001 Bulles",
+    "resultStructId": "11637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2bis rue de l'hermiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7804860949101204,
+    "ville": "serris",
+    "cp": "77700"
+  },
+  {
+    "resultId": "12981385",
+    "mail": "carroussel@serris.fr",
+    "distance": 130174,
+    "latitude": 48.85703459361174,
+    "telephone": "0160423792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Carrousel des Bébés",
+    "resultStructId": "373001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 cours du danube",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7774464063823205,
+    "ville": "serris",
+    "cp": "77700"
+  },
+  {
+    "resultId": "12942212",
+    "mail": "kidsnclub@lapartdereve.com",
+    "distance": 131284,
+    "latitude": 48.87965384728976,
+    "telephone": "0160044106",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheKids n'club - La Part de Rêve",
+    "resultStructId": "10722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard mickaelfaraday",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7658211919659674,
+    "ville": "serris",
+    "cp": "77700"
+  },
+  {
+    "resultId": "12942986",
+    "mail": "serris@lpcr.fr",
+    "distance": 131284,
+    "latitude": 48.87965384728976,
+    "telephone": "0173097803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges - Serris",
+    "resultStructId": "10740",
+    "omegaId": "17163",
+    "avip": false,
+    "adresse": "1 avenuechristian doppler - bat faraday",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7658211919659674,
+    "ville": "serris",
+    "cp": "77700"
+  }
+]

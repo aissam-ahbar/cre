@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12773773",
+    "mail": "laruche@roussillon-conflent.fr",
+    "distance": 189759,
+    "latitude": 42.67137391251001,
+    "telephone": "0468343007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRuche",
+    "resultStructId": "6805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du colonel fabien 66130 ille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.628352160614752,
+    "ville": "surtet",
+    "cp": ""
+  },
+  {
+    "resultId": "12773773",
+    "mail": "laruche@roussillon-conflent.fr",
+    "distance": 145676,
+    "latitude": 42.67137391251001,
+    "telephone": "0468343007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRuche",
+    "resultStructId": "6805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du colonel fabien 66130 ille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.628352160614752,
+    "ville": "surtet",
+    "cp": ""
+  }
+]

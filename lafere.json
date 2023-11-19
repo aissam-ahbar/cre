@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13043270",
+    "mail": "lagrandeaventure@orange.fr",
+    "distance": 134334,
+    "latitude": 49.661333243305315,
+    "telephone": "0323565586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGrande Aventure",
+    "resultStructId": "179101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis rue albert catalifaud 02800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3643198865075807,
+    "ville": "lafere",
+    "cp": ""
+  },
+  {
+    "resultId": "13043270",
+    "mail": "lagrandeaventure@orange.fr",
+    "distance": 101363,
+    "latitude": 49.661333243305315,
+    "telephone": "0323565586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGrande Aventure",
+    "resultStructId": "179101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis rue albert catalifaud 02800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3643198865075807,
+    "ville": "lafere",
+    "cp": ""
+  }
+]

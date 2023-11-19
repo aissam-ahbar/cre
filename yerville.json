@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12980611",
+    "mail": "lanourserie@plateaudecaux.fr",
+    "distance": 157657,
+    "latitude": 49.67008932937413,
+    "telephone": "0235963311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LANOURSERIE",
+    "resultStructId": "705102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place bernard alexandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.898718097058931,
+    "ville": "yerville",
+    "cp": "76760"
+  },
+  {
+    "resultId": "12980611",
+    "mail": "lanourserie@plateaudecaux.fr",
+    "distance": 131610,
+    "latitude": 49.67008932937413,
+    "telephone": "0235963311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LANOURSERIE",
+    "resultStructId": "705102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place bernard alexandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.898718097058931,
+    "ville": "yerville",
+    "cp": "76760"
+  }
+]

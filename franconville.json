@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12624073",
+    "mail": "",
+    "distance": 168225,
+    "latitude": 48.99582045436014,
+    "telephone": "0134441270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Maison de l'Enfance",
+    "resultStructId": "3294",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue des folles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2164677180511436,
+    "ville": "franconville",
+    "cp": "95130"
+  },
+  {
+    "resultId": "12624116",
+    "mail": "",
+    "distance": 168833,
+    "latitude": 48.98730826708928,
+    "telephone": "0134441270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieQuatre Noyers",
+    "resultStructId": "3295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue victor basch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2375594555667413,
+    "ville": "franconville",
+    "cp": "95130"
+  },
+  {
+    "resultId": "12623901",
+    "mail": "",
+    "distance": 169353,
+    "latitude": 48.98282196711128,
+    "telephone": "0130726872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chaletdes P'tits Loups Franconville",
+    "resultStructId": "3290",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du saut du loup",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.23541659007922,
+    "ville": "franconville",
+    "cp": "95130"
+  },
+  {
+    "resultId": "12623987",
+    "mail": "",
+    "distance": 169353,
+    "latitude": 48.98282196711128,
+    "telephone": "0130726870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeChalet des P'tits Loups",
+    "resultStructId": "3292",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du saut du loup",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.23541659007922,
+    "ville": "franconville",
+    "cp": "95130"
+  }
+]

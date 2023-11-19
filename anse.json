@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "27568470",
+    "mail": "lacrechedanse@cc-pierresdorees.com",
+    "distance": 151634,
+    "latitude": 45.93641729850392,
+    "telephone": "0474602233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACRECHE D'ANSE",
+    "resultStructId": "40302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.710727992964026,
+    "ville": "anse",
+    "cp": "69480"
+  },
+  {
+    "resultId": "60141613",
+    "mail": "petits.plongeurs@cc-pierresdoree.com",
+    "distance": 152685,
+    "latitude": 45.92627544852347,
+    "telephone": "0451141551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Plongeurs",
+    "resultStructId": "705401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 allee aquazergues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.709204419363337,
+    "ville": "anse",
+    "cp": "69480"
+  }
+]

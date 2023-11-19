@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "36971374",
+    "mail": "pian@lesdoudous.net",
+    "distance": 26707,
+    "latitude": 44.58673526109154,
+    "telephone": "0556270911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Doudous",
+    "resultStructId": "677902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 grand rue 33490 le pian",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.21181544378886627,
+    "ville": "surgaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "12827308",
+    "mail": "kbrousse@vg-agglo.com",
+    "distance": 33523,
+    "latitude": 44.448965706235185,
+    "telephone": "0553830593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Canalous",
+    "resultStructId": "8050",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "au bourg 47200 fourques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15999056265284997,
+    "ville": "surgaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "12679981",
+    "mail": "creche.verdun@gmail.com",
+    "distance": 129795,
+    "latitude": 43.850179319192875,
+    "telephone": "0563653122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\" A deux Mains\"",
+    "resultStructId": "677815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue louis pasteur 82600 verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2335008186621625,
+    "ville": "surgaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "13018021",
+    "mail": "contact@crechedesmerveilles.fr",
+    "distance": 148153,
+    "latitude": 43.69532757268945,
+    "telephone": "0781314903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMERVEILLES",
+    "resultStructId": "673328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de la gravette 31150 gagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.378795860587061,
+    "ville": "surgaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "12489174",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 160349,
+    "latitude": 43.53187274720437,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Bambou Bambin",
+    "resultStructId": "673518",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "20 rue joachim du bellay 31120portet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4146749025875958,
+    "ville": "surgaronne",
+    "cp": ""
+  }
+]

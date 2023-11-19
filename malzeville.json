@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12500448",
+    "mail": "crechemunicipale.malzeville@malzeville.fr",
+    "distance": 120268,
+    "latitude": 48.708541493666615,
+    "telephone": "0383184075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Le Château des Diablotins\"",
+    "resultStructId": "683210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du liond'or - la douera",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.183397771386881,
+    "ville": "malzeville",
+    "cp": "54220"
+  },
+  {
+    "resultId": "13023920",
+    "mail": "lesptitslutins015@orange.fr",
+    "distance": 120268,
+    "latitude": 48.708541493666615,
+    "telephone": "0383216506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Les P'tits Lutins\"",
+    "resultStructId": "171401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue jean rene schwartz batetna entree a",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.183397771386881,
+    "ville": "malzeville",
+    "cp": "54220"
+  }
+]

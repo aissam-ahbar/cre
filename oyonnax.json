@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12856900",
+    "mail": "multiaccueil.gribouille@oyonnax.fr",
+    "distance": 158028,
+    "latitude": 46.25690076859615,
+    "telephone": "0474495767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GRIBOUILLE",
+    "resultStructId": "201204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.644023379586199,
+    "ville": "oyonnax",
+    "cp": "01100"
+  },
+  {
+    "resultId": "12856943",
+    "mail": "polepetiteenfance@oyonnax.fr",
+    "distance": 158331,
+    "latitude": 46.26154688253376,
+    "telephone": "0474812135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE OYONNAX",
+    "resultStructId": "8739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis rue rene nicod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.656117521870814,
+    "ville": "oyonnax",
+    "cp": "01100"
+  }
+]

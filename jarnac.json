@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12556735",
+    "mail": "",
+    "distance": 148448,
+    "latitude": 45.68155815712116,
+    "telephone": "0545830938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de Jarnac",
+    "resultStructId": "1728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue burgaud des marets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.17580397614811125,
+    "ville": "jarnac",
+    "cp": "16200"
+  }
+]

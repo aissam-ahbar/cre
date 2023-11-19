@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12793725",
+    "mail": "microcrechelamarelle@outlook.fr",
+    "distance": 74446,
+    "latitude": 47.19891603323755,
+    "telephone": "0983547985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMarelle",
+    "resultStructId": "7269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du clos grille 44640",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7552213895843687,
+    "ville": "lepellerin",
+    "cp": ""
+  },
+  {
+    "resultId": "42980236",
+    "mail": "bac-a-sable@orange.fr",
+    "distance": 74911,
+    "latitude": 47.19487838918064,
+    "telephone": "0240056060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Bac à sable",
+    "resultStructId": "231803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des asphodeles 44640",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.75833961680963,
+    "ville": "lepellerin",
+    "cp": ""
+  },
+  {
+    "resultId": "12793725",
+    "mail": "microcrechelamarelle@outlook.fr",
+    "distance": 74446,
+    "latitude": 47.19891603323755,
+    "telephone": "0983547985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMarelle",
+    "resultStructId": "7269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du clos grille 44640",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7552213895843687,
+    "ville": "lepellerin",
+    "cp": ""
+  },
+  {
+    "resultId": "42980236",
+    "mail": "bac-a-sable@orange.fr",
+    "distance": 74911,
+    "latitude": 47.19487838918064,
+    "telephone": "0240056060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Bac à sable",
+    "resultStructId": "231803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des asphodeles 44640",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.75833961680963,
+    "ville": "lepellerin",
+    "cp": ""
+  }
+]

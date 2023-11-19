@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13074574",
+    "mail": "creche.lacabriole@cc-payslafrancaisain.fr",
+    "distance": 120554,
+    "latitude": 44.1254961896345,
+    "telephone": "0563659088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabriole",
+    "resultStructId": "709208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2440313143238635,
+    "ville": "lafrancaise",
+    "cp": "82130"
+  }
+]

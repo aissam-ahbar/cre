@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12532612",
+    "mail": "lesrazmokets@maurienne-galibier.com",
+    "distance": 402466,
+    "latitude": 45.223930760212625,
+    "telephone": "0479568678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRaz'mokets",
+    "resultStructId": "702705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 avenue de vigny 73140 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.462649678178329,
+    "ville": "demaurienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12530505",
+    "mail": "ribambelle@cias-3cma73.com",
+    "distance": 412519,
+    "latitude": 45.27996268022926,
+    "telephone": "0479642043",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRibambelle",
+    "resultStructId": "700917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue louis sibue 73300 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.349616254098362,
+    "ville": "demaurienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12649787",
+    "mail": "microcreche-apetitspas@orange.fr",
+    "distance": 426557,
+    "latitude": 45.39214638864386,
+    "telephone": "0479051119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits Pas",
+    "resultStructId": "700810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la mairie 73660 st remy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.265414616420582,
+    "ville": "demaurienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12532612",
+    "mail": "lesrazmokets@maurienne-galibier.com",
+    "distance": 144426,
+    "latitude": 45.223930760212625,
+    "telephone": "0479568678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRaz'mokets",
+    "resultStructId": "702705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 avenue de vigny 73140 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.462649678178329,
+    "ville": "demaurienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12530505",
+    "mail": "ribambelle@cias-3cma73.com",
+    "distance": 148881,
+    "latitude": 45.27996268022926,
+    "telephone": "0479642043",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRibambelle",
+    "resultStructId": "700917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue louis sibue 73300 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.349616254098362,
+    "ville": "demaurienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12649787",
+    "mail": "microcreche-apetitspas@orange.fr",
+    "distance": 160414,
+    "latitude": 45.39214638864386,
+    "telephone": "0479051119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits Pas",
+    "resultStructId": "700810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la mairie 73660 st remy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.265414616420582,
+    "ville": "demaurienne",
+    "cp": ""
+  }
+]

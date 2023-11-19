@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12742985",
+    "mail": "creche@mairie-jurancon.fr",
+    "distance": 118368,
+    "latitude": 43.28867974756879,
+    "telephone": "0559064982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Municipale",
+    "resultStructId": "6089",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3931191545378971,
+    "ville": "jurancon",
+    "cp": "64110"
+  },
+  {
+    "resultId": "12952317",
+    "mail": "creche.jurancon@agglo-pau.fr",
+    "distance": 118368,
+    "latitude": 43.28867974756879,
+    "telephone": "0559064982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPTITS BOUCHONS - MULTI ACCUEIL DE JURANCON",
+    "resultStructId": "312501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue jeanmoulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3931191545378971,
+    "ville": "jurancon",
+    "cp": "64110"
+  },
+  {
+    "resultId": "12953220",
+    "mail": "secreteriat.jearcenciel@gmail.com",
+    "distance": 118618,
+    "latitude": 43.285502352364624,
+    "telephone": "0559065164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants L'arc en ciel",
+    "resultStructId": "27802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue bernadotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.38065897793452824,
+    "ville": "jurancon",
+    "cp": "64110"
+  },
+  {
+    "resultId": "12953263",
+    "mail": "creche@ogfa.net",
+    "distance": 118788,
+    "latitude": 43.284291911776705,
+    "telephone": "0559069024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mulitiaccueil 1 2 3 soleil",
+    "resultStructId": "10979",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 avenue henri iv",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.38523539425592007,
+    "ville": "jurancon",
+    "cp": "64110"
+  }
+]

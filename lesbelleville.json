@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12529602",
+    "mail": "crecheouistitis@abesmb.fr",
+    "distance": 420718,
+    "latitude": 45.42689868412795,
+    "telephone": "0479000920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOuistitis",
+    "resultStructId": "700749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble l'orciere 73440",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.484985096108043,
+    "ville": "lesbelleville",
+    "cp": ""
+  },
+  {
+    "resultId": "12869026",
+    "mail": "crecheminipouss@abesmb.fr",
+    "distance": 420718,
+    "latitude": 45.42689868412795,
+    "telephone": "0479002057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMini Pouss",
+    "resultStructId": "700748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 rue notre dame - les grangeraies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.484985096108043,
+    "ville": "lesbelleville",
+    "cp": "73440"
+  },
+  {
+    "resultId": "12529602",
+    "mail": "crecheouistitis@abesmb.fr",
+    "distance": 166852,
+    "latitude": 45.42689868412795,
+    "telephone": "0479000920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOuistitis",
+    "resultStructId": "700749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble l'orciere 73440",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.484985096108043,
+    "ville": "lesbelleville",
+    "cp": ""
+  },
+  {
+    "resultId": "12869026",
+    "mail": "crecheminipouss@abesmb.fr",
+    "distance": 166852,
+    "latitude": 45.42689868412795,
+    "telephone": "0479002057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMini Pouss",
+    "resultStructId": "700748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 rue notre dame - les grangeraies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.484985096108043,
+    "ville": "lesbelleville",
+    "cp": "73440"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12567872",
+    "mail": "actionsociale@ville-martignas.fr",
+    "distance": 69435,
+    "latitude": 44.840000105890034,
+    "telephone": "0557970051",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL Calinière enchantée",
+    "resultStructId": "688413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place charles de gaulle33127 martignas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7758488852251039,
+    "ville": "surjalle",
+    "cp": ""
+  },
+  {
+    "resultId": "12499588",
+    "mail": "crechedolto@ville-martignas.fr",
+    "distance": 69738,
+    "latitude": 44.84263539495712,
+    "telephone": "0557970054",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil FRANCOISE DOLTO",
+    "resultStructId": "688414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de la marne 33127martignas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7773327777529211,
+    "ville": "surjalle",
+    "cp": ""
+  }
+]

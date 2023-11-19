@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12701352",
+    "mail": "micro.creches.hermonville@gmail.com",
+    "distance": 81589,
+    "latitude": 49.33667616068258,
+    "telephone": "0326615075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Calinou Hermonville",
+    "resultStructId": "5091",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du luxembourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9119271677626717,
+    "ville": "hermonville",
+    "cp": "51220"
+  },
+  {
+    "resultId": "12701395",
+    "mail": "micro.creches.hermonville@gmail.com",
+    "distance": 81589,
+    "latitude": 49.33667616068258,
+    "telephone": "0326615075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pirouette Hermonville",
+    "resultStructId": "5092",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du luxembourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9119271677626717,
+    "ville": "hermonville",
+    "cp": "51220"
+  },
+  {
+    "resultId": "12701352",
+    "mail": "micro.creches.hermonville@gmail.com",
+    "distance": 152554,
+    "latitude": 49.33667616068258,
+    "telephone": "0326615075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Calinou Hermonville",
+    "resultStructId": "5091",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du luxembourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9119271677626717,
+    "ville": "hermonville",
+    "cp": "51220"
+  },
+  {
+    "resultId": "12701395",
+    "mail": "micro.creches.hermonville@gmail.com",
+    "distance": 152554,
+    "latitude": 49.33667616068258,
+    "telephone": "0326615075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pirouette Hermonville",
+    "resultStructId": "5092",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du luxembourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9119271677626717,
+    "ville": "hermonville",
+    "cp": "51220"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13060943",
+    "mail": "sucre.dorge.creche@wanadoo.fr",
+    "distance": 146573,
+    "latitude": 43.65184195808617,
+    "telephone": "0561069752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSucre d'Orge",
+    "resultStructId": "636401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean monnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.319567384395865,
+    "ville": "cornebarrieu",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13077197",
+    "mail": "contact@crechejeuxdemots.com",
+    "distance": 146615,
+    "latitude": 43.65585085549051,
+    "telephone": "0534522977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jeuxde Mots",
+    "resultStructId": "673720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 route d aussonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3236848548943967,
+    "ville": "cornebarrieu",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13073284",
+    "mail": "pitchounets@cornebarrieu.fr",
+    "distance": 146797,
+    "latitude": 43.64574543527247,
+    "telephone": "0534390907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pitchounets",
+    "resultStructId": "616701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue helene boucher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3174957426892755,
+    "ville": "cornebarrieu",
+    "cp": "31700"
+  },
+  {
+    "resultId": "12726516",
+    "mail": "tompouce@cornebarrieu.fr",
+    "distance": 147097,
+    "latitude": 43.649799960859454,
+    "telephone": "0562134301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTom Pouce",
+    "resultStructId": "616401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue de versailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.325490407745858,
+    "ville": "cornebarrieu",
+    "cp": "31700"
+  }
+]

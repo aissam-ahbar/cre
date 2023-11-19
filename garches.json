@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12741652",
+    "mail": "",
+    "distance": 8953,
+    "latitude": 48.84989589756157,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Muscade",
+    "resultStructId": "25104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue du 19 janvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.198543522224859,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "12669919",
+    "mail": "accueilcreche@mairie-de-garches.fr",
+    "distance": 8959,
+    "latitude": 48.849211953054315,
+    "telephone": "0147665553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPINS",
+    "resultStructId": "90101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 sente des 4 chemins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1985601405948563,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "12669833",
+    "mail": "accueilcreche@mairie-de-garches.fr",
+    "distance": 9034,
+    "latitude": 48.85291477710119,
+    "telephone": "0147665553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMAGNOLIAS",
+    "resultStructId": "710215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 / 68 rue du docteur debat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1970890703585,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "12669876",
+    "mail": "accueilcreche@mairie-de-garches.fr",
+    "distance": 9299,
+    "latitude": 48.84305926244215,
+    "telephone": "0147685553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT PRINCE",
+    "resultStructId": "90103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.195150995208579,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "12659075",
+    "mail": "crechefamilialeaglae@gmail.com",
+    "distance": 9823,
+    "latitude": 48.84355428534443,
+    "telephone": "0147413773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamilial Aglaé",
+    "resultStructId": "89606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des quatre vents - batimentbourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1877788195837424,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "12669747",
+    "mail": "accueilcreche@mairie-de-garches.fr",
+    "distance": 9953,
+    "latitude": 48.85017482420138,
+    "telephone": "0147956666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS",
+    "resultStructId": "90015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 ter rue du 19 janvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1847919637888533,
+    "ville": "garches",
+    "cp": "92380"
+  },
+  {
+    "resultId": "32103874",
+    "mail": "accueilcreche@mairie-de-garches.fr",
+    "distance": 9953,
+    "latitude": 48.85017482420138,
+    "telephone": "0147665553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAROSE DES VENTS",
+    "resultStructId": "90016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 ter rue du 19 janvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1847919637888533,
+    "ville": "garches",
+    "cp": "92380"
+  }
+]

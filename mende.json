@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12655033",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 139030,
+    "latitude": 44.51703920604064,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Familial MENDE",
+    "resultStructId": "699905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 allee raymond fages",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.509321454346386,
+    "ville": "mende",
+    "cp": "48000"
+  },
+  {
+    "resultId": "12655076",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 139030,
+    "latitude": 44.51703920604064,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrêcheMulti Accueil Anne Frank MENDE",
+    "resultStructId": "708503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 allee raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.509321454346386,
+    "ville": "mende",
+    "cp": "48000"
+  },
+  {
+    "resultId": "12654947",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 141975,
+    "latitude": 44.52866313877925,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMarie Curie de Valcroze",
+    "resultStructId": "86202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des milans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4712873496755328,
+    "ville": "mende",
+    "cp": "48000"
+  },
+  {
+    "resultId": "12655033",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 106727,
+    "latitude": 44.51703920604064,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Familial MENDE",
+    "resultStructId": "699905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 allee raymond fages",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.509321454346386,
+    "ville": "mende",
+    "cp": "48000"
+  },
+  {
+    "resultId": "12655076",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 106727,
+    "latitude": 44.51703920604064,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrêcheMulti Accueil Anne Frank MENDE",
+    "resultStructId": "708503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 allee raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.509321454346386,
+    "ville": "mende",
+    "cp": "48000"
+  },
+  {
+    "resultId": "12654947",
+    "mail": "creche.cias@coeurdelozere.fr",
+    "distance": 108874,
+    "latitude": 44.52866313877925,
+    "telephone": "0466942007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMarie Curie de Valcroze",
+    "resultStructId": "86202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des milans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4712873496755328,
+    "ville": "mende",
+    "cp": "48000"
+  }
+]

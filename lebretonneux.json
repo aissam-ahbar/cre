@@ -1,0 +1,678 @@
+[
+  {
+    "resultId": "12582922",
+    "mail": "creches@voisins78.fr",
+    "distance": 197147,
+    "latitude": 48.75873482129575,
+    "telephone": "0130443517",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - L'ILE AUXENFANTS",
+    "resultStructId": "684204",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "71 bis et teravenue de la grande ile 78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.0512713105759532,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671338",
+    "mail": "petite.enfance@montigny78.fr",
+    "distance": 197342,
+    "latitude": 48.76227243595938,
+    "telephone": "0130573087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE LA FONTAINE",
+    "resultStructId": "683829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue marcel pagnol 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.032060944824619,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12582836",
+    "mail": "creches@voisins78.fr",
+    "distance": 197368,
+    "latitude": 48.76110722556458,
+    "telephone": "0130441233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LESDIABLOTINS",
+    "resultStructId": "684202",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "ruegilbert voisins 78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.0473673422024103,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12647336",
+    "mail": "c.chatbotte@montigny78.fr",
+    "distance": 197607,
+    "latitude": 48.7658252420508,
+    "telephone": "0130433121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LE CHAT BOTTE",
+    "resultStructId": "707811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue auguste rodin 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0189446593245903,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "59865508",
+    "mail": "creche.cameleon@gmail.com",
+    "distance": 197882,
+    "latitude": 48.765014510696496,
+    "telephone": "0626696473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CAMELEON MANDARINE",
+    "resultStructId": "700628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "142 avenue joseph kessel78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.055379942483648,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "36562632",
+    "mail": "creche.cameleon@gmail.com",
+    "distance": 198059,
+    "latitude": 48.7665539835495,
+    "telephone": "0626696473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CAMELEON MARINE",
+    "resultStructId": "671202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 avenue joseph kessel 78960voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0561734845043746,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60274458",
+    "mail": "montigny2@berceaudesrois.fr",
+    "distance": 198635,
+    "latitude": 48.775334427908454,
+    "telephone": "0980713773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LE BERCEAU DES ROIS MONTIGNY BOSQUETS 2",
+    "resultStructId": "707902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2avenue des bosquets 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016789596654271,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60274322",
+    "mail": "montigny1@berceaudesrois.fr",
+    "distance": 198635,
+    "latitude": 48.775334427908454,
+    "telephone": "0953574789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LE BERCEAU DES ROIS MONTIGNY BOSQUETS 1",
+    "resultStructId": "707901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2avenue des bosquets 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016789596654271,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60268979",
+    "mail": "m.a.archipel.odyssee@montigny78.fr",
+    "distance": 199254,
+    "latitude": 48.77917640837806,
+    "telephone": "0130644110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - COLLECTIF ET FAMILIAL DE L'ODYSEE",
+    "resultStructId": "707801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 alleedes boutons d'or 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0370373697348247,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671424",
+    "mail": "m.a.archipel.lagon@montigny78.fr",
+    "distance": 199254,
+    "latitude": 48.77917640837806,
+    "telephone": "0130430103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - L'ARCHIPEL",
+    "resultStructId": "707810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee des boutons d'or 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0370373697348247,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "13046151",
+    "mail": "c.comtessedesegur@montigny78.fr",
+    "distance": 199719,
+    "latitude": 48.78265717038648,
+    "telephone": "0130435173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - COMTESSE DE SEGUR",
+    "resultStructId": "707808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue sully 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0452026101437344,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671381",
+    "mail": "creche.collective.stephenson@montigny78.fr",
+    "distance": 200127,
+    "latitude": 48.78621609025501,
+    "telephone": "0130435027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - STEPHENSON",
+    "resultStructId": "707804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue de la gare 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0468288581173697,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12583137",
+    "mail": "m.a.perrault@montigny78.fr",
+    "distance": 200345,
+    "latitude": 48.78894861082596,
+    "telephone": "0130433264",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - CHARLES PERRAULT",
+    "resultStructId": "707806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des mouettes 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0384651545267545,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60274458",
+    "mail": "montigny2@berceaudesrois.fr",
+    "distance": 186190,
+    "latitude": 48.775334427908454,
+    "telephone": "0980713773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LE BERCEAU DES ROIS MONTIGNY BOSQUETS 2",
+    "resultStructId": "707902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2avenue des bosquets 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016789596654271,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60274322",
+    "mail": "montigny1@berceaudesrois.fr",
+    "distance": 186190,
+    "latitude": 48.775334427908454,
+    "telephone": "0953574789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LE BERCEAU DES ROIS MONTIGNY BOSQUETS 1",
+    "resultStructId": "707901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2avenue des bosquets 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016789596654271,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12647336",
+    "mail": "c.chatbotte@montigny78.fr",
+    "distance": 186465,
+    "latitude": 48.7658252420508,
+    "telephone": "0130433121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LE CHAT BOTTE",
+    "resultStructId": "707811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue auguste rodin 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0189446593245903,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "25665238",
+    "mail": "cre-387@babilou.com",
+    "distance": 187444,
+    "latitude": 48.792505408276085,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - MONTIGNY LE BRETONNEUX TIMBAUD",
+    "resultStructId": "689807",
+    "omegaId": "16437",
+    "avip": false,
+    "adresse": "6 ruejean-pierre timbaud 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0366952962950915,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671338",
+    "mail": "petite.enfance@montigny78.fr",
+    "distance": 187465,
+    "latitude": 48.76227243595938,
+    "telephone": "0130573087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE LA FONTAINE",
+    "resultStructId": "683829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue marcel pagnol 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.032060944824619,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12583137",
+    "mail": "m.a.perrault@montigny78.fr",
+    "distance": 187612,
+    "latitude": 48.78894861082596,
+    "telephone": "0130433264",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - CHARLES PERRAULT",
+    "resultStructId": "707806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des mouettes 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0384651545267545,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "60268979",
+    "mail": "m.a.archipel.odyssee@montigny78.fr",
+    "distance": 187620,
+    "latitude": 48.77917640837806,
+    "telephone": "0130644110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - COLLECTIF ET FAMILIAL DE L'ODYSEE",
+    "resultStructId": "707801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 alleedes boutons d'or 78180 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0370373697348247,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671424",
+    "mail": "m.a.archipel.lagon@montigny78.fr",
+    "distance": 187620,
+    "latitude": 48.77917640837806,
+    "telephone": "0130430103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - L'ARCHIPEL",
+    "resultStructId": "707810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee des boutons d'or 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0370373697348247,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12795617",
+    "mail": "montipi@people-and-baby.com",
+    "distance": 187631,
+    "latitude": 48.79336958379787,
+    "telephone": "0954570266",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - MON TIPI",
+    "resultStructId": "685914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue du vieil etang 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.039399163744808,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "13046151",
+    "mail": "c.comtessedesegur@montigny78.fr",
+    "distance": 188174,
+    "latitude": 48.78265717038648,
+    "telephone": "0130435173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - COMTESSE DE SEGUR",
+    "resultStructId": "707808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue sully 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0452026101437344,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12671381",
+    "mail": "creche.collective.stephenson@montigny78.fr",
+    "distance": 188252,
+    "latitude": 48.78621609025501,
+    "telephone": "0130435027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - STEPHENSON",
+    "resultStructId": "707804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue de la gare 78180montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0468288581173697,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12582836",
+    "mail": "creches@voisins78.fr",
+    "distance": 188595,
+    "latitude": 48.76110722556458,
+    "telephone": "0130441233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LESDIABLOTINS",
+    "resultStructId": "684202",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "ruegilbert voisins 78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.0473673422024103,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12582922",
+    "mail": "creches@voisins78.fr",
+    "distance": 188910,
+    "latitude": 48.75873482129575,
+    "telephone": "0130443517",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - L'ILE AUXENFANTS",
+    "resultStructId": "684204",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "71 bis et teravenue de la grande ile 78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.0512713105759532,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "59865508",
+    "mail": "creche.cameleon@gmail.com",
+    "distance": 189128,
+    "latitude": 48.765014510696496,
+    "telephone": "0626696473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CAMELEON MANDARINE",
+    "resultStructId": "700628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "142 avenue joseph kessel78960 voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.055379942483648,
+    "ville": "lebretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "36562632",
+    "mail": "creche.cameleon@gmail.com",
+    "distance": 189167,
+    "latitude": 48.7665539835495,
+    "telephone": "0626696473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CAMELEON MARINE",
+    "resultStructId": "671202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 avenue joseph kessel 78960voisins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0561734845043746,
+    "ville": "lebretonneux",
+    "cp": ""
+  }
+]

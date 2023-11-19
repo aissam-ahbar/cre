@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "45837245",
+    "mail": "lesminibulles@agglo-fecampcauxlittorel.fr",
+    "distance": 111108,
+    "latitude": 49.74465161926929,
+    "telephone": "0235289695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLES MINI'BULLES",
+    "resultStructId": "305301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue d'alsace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.36977291175118066,
+    "ville": "fecamp",
+    "cp": "76400"
+  },
+  {
+    "resultId": "12827523",
+    "mail": "crechefamiliale@agglo-fecampcauxlittoral.fr",
+    "distance": 111108,
+    "latitude": 49.74465161926929,
+    "telephone": "0235289695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "C.F.DE BULLE A BULLE",
+    "resultStructId": "305401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue d'alsace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.36977291175118066,
+    "ville": "fecamp",
+    "cp": "76400"
+  },
+  {
+    "resultId": "12828211",
+    "mail": "creche.leondufour@agglo-fecampcauxlittoral.fr",
+    "distance": 112806,
+    "latitude": 49.75835551012934,
+    "telephone": "0235281800",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "ESPACEMULTI-ACCUEIL LEON DUFOUR",
+    "resultStructId": "711107",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "37 bis boulevard de larepublique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.38075941826991505,
+    "ville": "fecamp",
+    "cp": "76400"
+  }
+]

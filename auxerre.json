@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "12818106",
+    "mail": "loupiots@mfbssam.fr",
+    "distance": 73507,
+    "latitude": 47.78183387934524,
+    "telephone": "0386514670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loupiots",
+    "resultStructId": "7836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du cadran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.581747135963515,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755713",
+    "mail": "crecherivedroite@auxerre.com",
+    "distance": 74463,
+    "latitude": 47.79573868105097,
+    "telephone": "0386180275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIVE DROITE",
+    "resultStructId": "682712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16-18 avenue de la resistance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.588778902453034,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12716746",
+    "mail": "crechedupont@auxerre.com",
+    "distance": 74834,
+    "latitude": 47.793305464225895,
+    "telephone": "0386522020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE DU PONT",
+    "resultStructId": "682710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue courtilliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.575051609429027,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755670",
+    "mail": "crechekiehlmann@auxerre.com",
+    "distance": 75065,
+    "latitude": 47.795490586714656,
+    "telephone": "0386521116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEKIEHLMANN",
+    "resultStructId": "682711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5742975605857903,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "54998145",
+    "mail": "association.cabriole@orange.fr",
+    "distance": 75100,
+    "latitude": 47.79765064034755,
+    "telephone": "0386483683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CABRIOLE",
+    "resultStructId": "684510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue etienne dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.577988979183258,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "36163596",
+    "mail": "lesapprentissages.microcreche@gmail.com",
+    "distance": 75278,
+    "latitude": 47.796012049675525,
+    "telephone": "0980633515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Apprentis'Sages",
+    "resultStructId": "606402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee bellevue - laborde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5704924201980996,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755756",
+    "mail": "crechedesrosoirs@auxerre.com",
+    "distance": 76215,
+    "latitude": 47.80139852337985,
+    "telephone": "0386427973",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche des rosoirs",
+    "resultStructId": "682713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5601753069203785,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "39870609",
+    "mail": "creche.interhospitaliere@orange.fr",
+    "distance": 76453,
+    "latitude": 47.801170612487475,
+    "telephone": "0386466836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GCSCrèche Interhospitalière",
+    "resultStructId": "683702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue de fleurus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5542976417664445,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59998519",
+    "mail": "bureauleslutins@gmail.com",
+    "distance": 77221,
+    "latitude": 47.81041230656918,
+    "telephone": "0386462799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "702908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee heurtebise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5557378455665285,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59425179",
+    "mail": "creche-ribambelle@orange.fr",
+    "distance": 77263,
+    "latitude": 47.80975240387923,
+    "telephone": "0386463872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIBAMBELLE",
+    "resultStructId": "697807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de montois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.553424381259194,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "39870609",
+    "mail": "creche.interhospitaliere@orange.fr",
+    "distance": 166524,
+    "latitude": 47.801170612487475,
+    "telephone": "0386466836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GCSCrèche Interhospitalière",
+    "resultStructId": "683702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue de fleurus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5542976417664445,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755756",
+    "mail": "crechedesrosoirs@auxerre.com",
+    "distance": 166912,
+    "latitude": 47.80139852337985,
+    "telephone": "0386427973",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche des rosoirs",
+    "resultStructId": "682713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5601753069203785,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59425179",
+    "mail": "creche-ribambelle@orange.fr",
+    "distance": 166970,
+    "latitude": 47.80975240387923,
+    "telephone": "0386463872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIBAMBELLE",
+    "resultStructId": "697807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de montois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.553424381259194,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59998519",
+    "mail": "bureauleslutins@gmail.com",
+    "distance": 167155,
+    "latitude": 47.81041230656918,
+    "telephone": "0386462799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "702908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee heurtebise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5557378455665285,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12818106",
+    "mail": "loupiots@mfbssam.fr",
+    "distance": 167175,
+    "latitude": 47.78183387934524,
+    "telephone": "0386514670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loupiots",
+    "resultStructId": "7836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du cadran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.581747135963515,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "36163596",
+    "mail": "lesapprentissages.microcreche@gmail.com",
+    "distance": 167260,
+    "latitude": 47.796012049675525,
+    "telephone": "0980633515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Apprentis'Sages",
+    "resultStructId": "606402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee bellevue - laborde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5704924201980996,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12716746",
+    "mail": "crechedupont@auxerre.com",
+    "distance": 167397,
+    "latitude": 47.793305464225895,
+    "telephone": "0386522020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE DU PONT",
+    "resultStructId": "682710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue courtilliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.575051609429027,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755670",
+    "mail": "crechekiehlmann@auxerre.com",
+    "distance": 167473,
+    "latitude": 47.795490586714656,
+    "telephone": "0386521116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEKIEHLMANN",
+    "resultStructId": "682711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5742975605857903,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "54998145",
+    "mail": "association.cabriole@orange.fr",
+    "distance": 167834,
+    "latitude": 47.79765064034755,
+    "telephone": "0386483683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CABRIOLE",
+    "resultStructId": "684510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue etienne dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.577988979183258,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755713",
+    "mail": "crecherivedroite@auxerre.com",
+    "distance": 168415,
+    "latitude": 47.79573868105097,
+    "telephone": "0386180275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIVE DROITE",
+    "resultStructId": "682712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16-18 avenue de la resistance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.588778902453034,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755713",
+    "mail": "crecherivedroite@auxerre.com",
+    "distance": 125791,
+    "latitude": 47.79573868105097,
+    "telephone": "0386180275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIVE DROITE",
+    "resultStructId": "682712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16-18 avenue de la resistance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.588778902453034,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59998519",
+    "mail": "bureauleslutins@gmail.com",
+    "distance": 125845,
+    "latitude": 47.81041230656918,
+    "telephone": "0386462799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "702908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee heurtebise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5557378455665285,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "59425179",
+    "mail": "creche-ribambelle@orange.fr",
+    "distance": 126005,
+    "latitude": 47.80975240387923,
+    "telephone": "0386463872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE RIBAMBELLE",
+    "resultStructId": "697807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de montois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.553424381259194,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "54998145",
+    "mail": "association.cabriole@orange.fr",
+    "distance": 126066,
+    "latitude": 47.79765064034755,
+    "telephone": "0386483683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CABRIOLE",
+    "resultStructId": "684510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue etienne dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.577988979183258,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755670",
+    "mail": "crechekiehlmann@auxerre.com",
+    "distance": 126420,
+    "latitude": 47.795490586714656,
+    "telephone": "0386521116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEKIEHLMANN",
+    "resultStructId": "682711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5742975605857903,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12755756",
+    "mail": "crechedesrosoirs@auxerre.com",
+    "distance": 126476,
+    "latitude": 47.80139852337985,
+    "telephone": "0386427973",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche des rosoirs",
+    "resultStructId": "682713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5601753069203785,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "36163596",
+    "mail": "lesapprentissages.microcreche@gmail.com",
+    "distance": 126532,
+    "latitude": 47.796012049675525,
+    "telephone": "0980633515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Apprentis'Sages",
+    "resultStructId": "606402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee bellevue - laborde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5704924201980996,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12716746",
+    "mail": "crechedupont@auxerre.com",
+    "distance": 126589,
+    "latitude": 47.793305464225895,
+    "telephone": "0386522020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE DU PONT",
+    "resultStructId": "682710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue courtilliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.575051609429027,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "39870609",
+    "mail": "creche.interhospitaliere@orange.fr",
+    "distance": 126748,
+    "latitude": 47.801170612487475,
+    "telephone": "0386466836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GCSCrèche Interhospitalière",
+    "resultStructId": "683702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue de fleurus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5542976417664445,
+    "ville": "auxerre",
+    "cp": "89000"
+  },
+  {
+    "resultId": "12818106",
+    "mail": "loupiots@mfbssam.fr",
+    "distance": 127368,
+    "latitude": 47.78183387934524,
+    "telephone": "0386514670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loupiots",
+    "resultStructId": "7836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du cadran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.581747135963515,
+    "ville": "auxerre",
+    "cp": "89000"
+  }
+]

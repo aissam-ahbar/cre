@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12696364",
+    "mail": "chapi.chapeau@orange.fr",
+    "distance": 142573,
+    "latitude": 44.1598705547274,
+    "telephone": "0563260430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chapi-Chapeau",
+    "resultStructId": "684227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue de la solidarite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5337283578213379,
+    "ville": "caussade",
+    "cp": "82300"
+  },
+  {
+    "resultId": "12590877",
+    "mail": "jardindespitchouns.quercycaussadais@orange.fr",
+    "distance": 143477,
+    "latitude": 44.158852118665145,
+    "telephone": "0563305213",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin des pitchouns",
+    "resultStructId": "2522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue lavoisier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5449801084747232,
+    "ville": "caussade",
+    "cp": "82300"
+  }
+]

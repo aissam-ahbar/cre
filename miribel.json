@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12857201",
+    "mail": "cchapelan@miribel.fr",
+    "distance": 169501,
+    "latitude": 45.8247555711431,
+    "telephone": "0478558426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF MIRIBEL",
+    "resultStructId": "8745",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "176 allee pierre perret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.95755186613683,
+    "ville": "miribel",
+    "cp": "01700"
+  },
+  {
+    "resultId": "12858835",
+    "mail": "amarion@miribel.fr",
+    "distance": 169501,
+    "latitude": 45.8247555711431,
+    "telephone": "0478558427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE MIRIBEL",
+    "resultStructId": "8783",
+    "omegaId": "2681",
+    "avip": false,
+    "adresse": "176 allee pierre perret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.95755186613683,
+    "ville": "miribel",
+    "cp": "01700"
+  },
+  {
+    "resultId": "12857158",
+    "mail": "aldury@miribel.fr",
+    "distance": 169610,
+    "latitude": 45.822461310276275,
+    "telephone": "0478555913",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LA RIBAMBELLE",
+    "resultStructId": "8744",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la paix -quartier du treves",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9529058540788125,
+    "ville": "miribel",
+    "cp": "01700"
+  }
+]

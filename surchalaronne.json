@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12856513",
+    "mail": "ppe-microcreche@ccvsc01.org",
+    "distance": 133664,
+    "latitude": 46.14784355212821,
+    "telephone": "0474524750",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcroèche Ma p'tite maison",
+    "resultStructId": "204702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de la dombes 01140 stetienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8688224386020975,
+    "ville": "surchalaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "12857588",
+    "mail": "brindemalice@creche-tompouce.com",
+    "distance": 139158,
+    "latitude": 46.1211810494407,
+    "telephone": "0474554697",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BRIND'MALICE",
+    "resultStructId": "671807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 avenue foch 01400 chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.955491950023884,
+    "ville": "surchalaronne",
+    "cp": ""
+  },
+  {
+    "resultId": "12857631",
+    "mail": "secretariat@creche-tompouce.com",
+    "distance": 139430,
+    "latitude": 46.11884946871017,
+    "telephone": "0474551756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHETOM POUCE",
+    "resultStructId": "140602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 place des halles 01400 chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9566313672227835,
+    "ville": "surchalaronne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "resultId": "12819998",
+    "mail": "garderie.vernet@ville-saint-amand-montrond.fr",
+    "distance": 137803,
+    "latitude": 46.73176027565762,
+    "telephone": "0248961217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieVernet",
+    "resultStructId": "675605",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "8 rue victorhugo 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4998315009014798,
+    "ville": "amandmontrond",
+    "cp": ""
+  },
+  {
+    "resultId": "12820127",
+    "mail": "ma.jacques-barry@ville-saint-amand-montrond.fr",
+    "distance": 137861,
+    "latitude": 46.73049212602519,
+    "telephone": "0248969268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil du Docteur JacquesBARRY",
+    "resultStructId": "676202",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "4 rue victorhugo 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4998582718663287,
+    "ville": "amandmontrond",
+    "cp": ""
+  },
+  {
+    "resultId": "12950210",
+    "mail": "ma.douce-chaume@ville-saint-amand-montrond.fr",
+    "distance": 138294,
+    "latitude": 46.7249196618337,
+    "telephone": "0248635466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DOUCECHAUME",
+    "resultStructId": "675607",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "13 rue rogerpearon 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4974057540310244,
+    "ville": "amandmontrond",
+    "cp": ""
+  },
+  {
+    "resultId": "12819998",
+    "mail": "garderie.vernet@ville-saint-amand-montrond.fr",
+    "distance": 69114,
+    "latitude": 46.73176027565762,
+    "telephone": "0248961217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieVernet",
+    "resultStructId": "675605",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "8 rue victorhugo 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4998315009014798,
+    "ville": "amandmontrond",
+    "cp": ""
+  },
+  {
+    "resultId": "12820127",
+    "mail": "ma.jacques-barry@ville-saint-amand-montrond.fr",
+    "distance": 69179,
+    "latitude": 46.73049212602519,
+    "telephone": "0248969268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil du Docteur JacquesBARRY",
+    "resultStructId": "676202",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "4 rue victorhugo 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4998582718663287,
+    "ville": "amandmontrond",
+    "cp": ""
+  },
+  {
+    "resultId": "12950210",
+    "mail": "ma.douce-chaume@ville-saint-amand-montrond.fr",
+    "distance": 69288,
+    "latitude": 46.7249196618337,
+    "telephone": "0248635466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DOUCECHAUME",
+    "resultStructId": "675607",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "13 rue rogerpearon 18200 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.4974057540310244,
+    "ville": "amandmontrond",
+    "cp": ""
+  }
+]

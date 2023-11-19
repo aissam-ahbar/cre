@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12782760",
+    "mail": "lanneg@les-cherubuns.com",
+    "distance": 136556,
+    "latitude": 47.68218550787247,
+    "telephone": "0297462573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Chérubins de Lanneg",
+    "resultStructId": "7014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue blaise pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.8001509438592684,
+    "ville": "plescop",
+    "cp": "56890"
+  },
+  {
+    "resultId": "12608507",
+    "mail": "plescop.maisonenfance.multiaccueil@megalis.org",
+    "distance": 137731,
+    "latitude": 47.67948638584703,
+    "telephone": "0297607533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Tamm Ha Tamm\"",
+    "resultStructId": "2932",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 route de sainte-anne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.8160372724952696,
+    "ville": "plescop",
+    "cp": "56890"
+  },
+  {
+    "resultId": "12782760",
+    "mail": "lanneg@les-cherubuns.com",
+    "distance": 136556,
+    "latitude": 47.68218550787247,
+    "telephone": "0297462573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Chérubins de Lanneg",
+    "resultStructId": "7014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue blaise pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.8001509438592684,
+    "ville": "plescop",
+    "cp": "56890"
+  },
+  {
+    "resultId": "12608507",
+    "mail": "plescop.maisonenfance.multiaccueil@megalis.org",
+    "distance": 137731,
+    "latitude": 47.67948638584703,
+    "telephone": "0297607533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Tamm Ha Tamm\"",
+    "resultStructId": "2932",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 route de sainte-anne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.8160372724952696,
+    "ville": "plescop",
+    "cp": "56890"
+  }
+]

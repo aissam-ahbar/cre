@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12858749",
+    "mail": "garderie123soleil01@bbox.fr",
+    "distance": 108371,
+    "latitude": 46.43209666742069,
+    "telephone": "0385364845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE 1,2,3 SOLEIL",
+    "resultStructId": "8781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue herbet 01190 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9388870451660924,
+    "ville": "devaux",
+    "cp": ""
+  },
+  {
+    "resultId": "12858964",
+    "mail": "multiaccueil.pontdevaux@orange.fr",
+    "distance": 108613,
+    "latitude": 46.432896375740036,
+    "telephone": "0385205012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES MOUSSAILLONS",
+    "resultStructId": "367701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des sports 01190 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.946394875034713,
+    "ville": "devaux",
+    "cp": ""
+  }
+]

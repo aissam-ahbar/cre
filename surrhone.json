@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "13031359",
+    "mail": "multiaccueil@mjclavoulte.com",
+    "distance": 138576,
+    "latitude": 44.79954921934307,
+    "telephone": "0475624660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Quaide l'Eveil",
+    "resultStructId": "14838",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc baboin jaubert bp 21 07800 la voulte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.78075874635942,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12887258",
+    "mail": "etoile.rhone@lpcr.fr",
+    "distance": 143813,
+    "latitude": 44.837284815689486,
+    "telephone": "0469118601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLes Malicieux des Chassans",
+    "resultStructId": "29001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "225 chemin des chassanquartier les pecolets 26800 etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8935530834092456,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "50311170",
+    "mail": "lesptitscharrons@orange.fr",
+    "distance": 144293,
+    "latitude": 44.84290901974106,
+    "telephone": "0475790818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Charrons",
+    "resultStructId": "410801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 chemin de blacheronde 26800etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8815640269647975,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "13033681",
+    "mail": "direction.sud@planetemome.fr",
+    "distance": 167581,
+    "latitude": 45.05716207368339,
+    "telephone": "0475083465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlanèteMôme Tournon Sud Luettes",
+    "resultStructId": "12849",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue des luettes 07300tournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8451652462544725,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12576257",
+    "mail": "",
+    "distance": 182342,
+    "latitude": 46.06732960779229,
+    "telephone": "0450771268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants",
+    "resultStructId": "2182",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment mairie 74910 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.815760391498438,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12659505",
+    "mail": "",
+    "distance": 182342,
+    "latitude": 46.06732960779229,
+    "telephone": "0450771268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ilôtCoquin",
+    "resultStructId": "4118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment mairie 74910 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.815760391498438,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12887258",
+    "mail": "etoile.rhone@lpcr.fr",
+    "distance": 452391,
+    "latitude": 44.837284815689486,
+    "telephone": "0469118601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLes Malicieux des Chassans",
+    "resultStructId": "29001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "225 chemin des chassanquartier les pecolets 26800 etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8935530834092456,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "50311170",
+    "mail": "lesptitscharrons@orange.fr",
+    "distance": 453518,
+    "latitude": 44.84290901974106,
+    "telephone": "0475790818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Charrons",
+    "resultStructId": "410801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 chemin de blacheronde 26800etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8815640269647975,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "13031359",
+    "mail": "multiaccueil@mjclavoulte.com",
+    "distance": 150997,
+    "latitude": 44.79954921934307,
+    "telephone": "0475624660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Quaide l'Eveil",
+    "resultStructId": "14838",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc baboin jaubert bp 21 07800 la voulte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.78075874635942,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12887258",
+    "mail": "etoile.rhone@lpcr.fr",
+    "distance": 159003,
+    "latitude": 44.837284815689486,
+    "telephone": "0469118601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLes Malicieux des Chassans",
+    "resultStructId": "29001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "225 chemin des chassanquartier les pecolets 26800 etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8935530834092456,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "50311170",
+    "mail": "lesptitscharrons@orange.fr",
+    "distance": 159070,
+    "latitude": 44.84290901974106,
+    "telephone": "0475790818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Charrons",
+    "resultStructId": "410801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 chemin de blacheronde 26800etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8815640269647975,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "13033681",
+    "mail": "direction.sud@planetemome.fr",
+    "distance": 178875,
+    "latitude": 45.05716207368339,
+    "telephone": "0475083465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlanèteMôme Tournon Sud Luettes",
+    "resultStructId": "12849",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue des luettes 07300tournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8451652462544725,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "12887258",
+    "mail": "etoile.rhone@lpcr.fr",
+    "distance": 134935,
+    "latitude": 44.837284815689486,
+    "telephone": "0469118601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLes Malicieux des Chassans",
+    "resultStructId": "29001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "225 chemin des chassanquartier les pecolets 26800 etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8935530834092456,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "50311170",
+    "mail": "lesptitscharrons@orange.fr",
+    "distance": 136041,
+    "latitude": 44.84290901974106,
+    "telephone": "0475790818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Charrons",
+    "resultStructId": "410801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 chemin de blacheronde 26800etoile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8815640269647975,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "13031359",
+    "mail": "multiaccueil@mjclavoulte.com",
+    "distance": 138399,
+    "latitude": 44.79954921934307,
+    "telephone": "0475624660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Quaide l'Eveil",
+    "resultStructId": "14838",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc baboin jaubert bp 21 07800 la voulte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.78075874635942,
+    "ville": "surrhone",
+    "cp": ""
+  },
+  {
+    "resultId": "13033681",
+    "mail": "direction.sud@planetemome.fr",
+    "distance": 155839,
+    "latitude": 45.05716207368339,
+    "telephone": "0475083465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlanèteMôme Tournon Sud Luettes",
+    "resultStructId": "12849",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue des luettes 07300tournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8451652462544725,
+    "ville": "surrhone",
+    "cp": ""
+  }
+]

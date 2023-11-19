@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12771408",
+    "mail": "lacoccinelle81@yahoo.fr",
+    "distance": 176256,
+    "latitude": 44.06613135071082,
+    "telephone": "0563561447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCoccinelle - Les Cabannes",
+    "resultStructId": "6750",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin saint-jean 81170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9390809574801506,
+    "ville": "lescabannes",
+    "cp": ""
+  },
+  {
+    "resultId": "12645917",
+    "mail": "creche.cabannes@cchauteariege.fr",
+    "distance": 232773,
+    "latitude": 42.78474571877185,
+    "telephone": "0561029035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"colin-maillard\"",
+    "resultStructId": "401701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "espace germain authie 09310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6857529295101732,
+    "ville": "lescabannes",
+    "cp": ""
+  },
+  {
+    "resultId": "12771408",
+    "mail": "lacoccinelle81@yahoo.fr",
+    "distance": 165417,
+    "latitude": 44.06613135071082,
+    "telephone": "0563561447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCoccinelle - Les Cabannes",
+    "resultStructId": "6750",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin saint-jean 81170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9390809574801506,
+    "ville": "lescabannes",
+    "cp": ""
+  }
+]

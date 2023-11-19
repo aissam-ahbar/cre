@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12883689",
+    "mail": "creche@valberg.com",
+    "distance": 281773,
+    "latitude": 44.10967312516908,
+    "telephone": "0493025710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes petits poucets",
+    "resultStructId": "585303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de guillaumes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.9044495807851005,
+    "ville": "peone",
+    "cp": "06470"
+  },
+  {
+    "resultId": "12883689",
+    "mail": "creche@valberg.com",
+    "distance": 69440,
+    "latitude": 44.10967312516908,
+    "telephone": "0493025710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes petits poucets",
+    "resultStructId": "585303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de guillaumes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.9044495807851005,
+    "ville": "peone",
+    "cp": "06470"
+  }
+]

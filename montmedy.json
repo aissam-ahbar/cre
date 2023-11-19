@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "13067909",
+    "mail": "creche@cscmontmedy.fr",
+    "distance": 105515,
+    "latitude": 49.514415770519925,
+    "telephone": "0329800877",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Multi-Accueil deMontmedy",
+    "resultStructId": "665501",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "46 rue destilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.363107849316001,
+    "ville": "montmedy",
+    "cp": "55600"
+  }
+]

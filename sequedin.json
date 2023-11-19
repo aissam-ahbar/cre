@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12823997",
+    "mail": "multiaccueil@sequedin.fr",
+    "distance": 25022,
+    "latitude": 50.62365072241342,
+    "telephone": "0320575504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL",
+    "resultStructId": "713006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.982800528633267,
+    "ville": "sequedin",
+    "cp": "59320"
+  }
+]

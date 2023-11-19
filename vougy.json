@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12551102",
+    "mail": "lesenfantsdabord42@orange.fr",
+    "distance": 127099,
+    "latitude": 46.10240470811269,
+    "telephone": "0477652260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesenfants d'abord",
+    "resultStructId": "1597",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.121048871491057,
+    "ville": "vougy",
+    "cp": "42720"
+  },
+  {
+    "resultId": "59376543",
+    "mail": "envougycrois@gmail.com",
+    "distance": 127277,
+    "latitude": 46.10083590047191,
+    "telephone": "0477663773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE En Vou'gy crois",
+    "resultStructId": "696208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue de la croix girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.118567635993586,
+    "ville": "vougy",
+    "cp": "42720"
+  }
+]

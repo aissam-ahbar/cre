@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12635081",
+    "mail": "creche.lpc@terres-du-lauragais.fr",
+    "distance": 180373,
+    "latitude": 43.540216765698766,
+    "telephone": "0562160523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Coeurs",
+    "resultStructId": "95418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit lourman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.717194541570019,
+    "ville": "maureville",
+    "cp": "31460"
+  },
+  {
+    "resultId": "12635081",
+    "mail": "creche.lpc@terres-du-lauragais.fr",
+    "distance": 175718,
+    "latitude": 43.540216765698766,
+    "telephone": "0562160523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Coeurs",
+    "resultStructId": "95418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit lourman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.717194541570019,
+    "ville": "maureville",
+    "cp": "31460"
+  }
+]

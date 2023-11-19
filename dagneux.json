@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12858233",
+    "mail": "dir-petite-enfance@ville-dagneux.fr",
+    "distance": 169263,
+    "latitude": 45.856881696314275,
+    "telephone": "0472250757",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES CHAPOTIERES",
+    "resultStructId": "343101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 chemin des chapotieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061204701294699,
+    "ville": "dagneux",
+    "cp": "01120"
+  },
+  {
+    "resultId": "34094642",
+    "mail": "dir-petite-enfance@ville-dagneux.fr",
+    "distance": 170332,
+    "latitude": 45.85087029274224,
+    "telephone": "0478062184",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Bambins du Cottey",
+    "resultStructId": "259103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 place des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.075738268739316,
+    "ville": "dagneux",
+    "cp": "01120"
+  }
+]

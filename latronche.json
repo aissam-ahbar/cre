@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12897836",
+    "mail": "",
+    "distance": 433019,
+    "latitude": 45.1993932824722,
+    "telephone": "0476765131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îleaux enfants",
+    "resultStructId": "129501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de la chantourne 38700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.755873316094759,
+    "ville": "latronche",
+    "cp": ""
+  },
+  {
+    "resultId": "12900373",
+    "mail": "jdm@ville-latronche.fr",
+    "distance": 434215,
+    "latitude": 45.205673318011385,
+    "telephone": "0476637706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin de Manon",
+    "resultStructId": "699611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin de la pallud 38700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7427219169159,
+    "ville": "latronche",
+    "cp": ""
+  },
+  {
+    "resultId": "12897836",
+    "mail": "",
+    "distance": 140289,
+    "latitude": 45.1993932824722,
+    "telephone": "0476765131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îleaux enfants",
+    "resultStructId": "129501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de la chantourne 38700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.755873316094759,
+    "ville": "latronche",
+    "cp": ""
+  },
+  {
+    "resultId": "12900373",
+    "mail": "jdm@ville-latronche.fr",
+    "distance": 141160,
+    "latitude": 45.205673318011385,
+    "telephone": "0476637706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin de Manon",
+    "resultStructId": "699611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin de la pallud 38700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7427219169159,
+    "ville": "latronche",
+    "cp": ""
+  }
+]

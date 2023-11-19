@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12515412",
+    "mail": "lesboutsdchoux.dormans@orange.fr",
+    "distance": 75788,
+    "latitude": 49.07822750695628,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Bouts d'Choux Dormans",
+    "resultStructId": "767",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6517730083704962,
+    "ville": "dormans",
+    "cp": "51700"
+  },
+  {
+    "resultId": "12515412",
+    "mail": "lesboutsdchoux.dormans@orange.fr",
+    "distance": 168973,
+    "latitude": 49.07822750695628,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Bouts d'Choux Dormans",
+    "resultStructId": "767",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6517730083704962,
+    "ville": "dormans",
+    "cp": "51700"
+  }
+]

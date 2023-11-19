@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12751972",
+    "mail": "multiaccueil.lesptitsmousses@ventoux-comtat.com",
+    "distance": 64212,
+    "latitude": 44.054763752328114,
+    "telephone": "0490377103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Mousses\"",
+    "resultStructId": "6298",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.034391195042443,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "60047889",
+    "mail": "",
+    "distance": 64488,
+    "latitude": 44.05143204766435,
+    "telephone": "0490631558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« LES PETITS BERLINGOTS »",
+    "resultStructId": "703608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12555703",
+    "mail": "",
+    "distance": 64488,
+    "latitude": 44.05143204766435,
+    "telephone": "0490602140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (halte-garderie)",
+    "resultStructId": "1704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553983",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 64856,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hameau les Vignes\"",
+    "resultStructId": "1664",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12551231",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 64856,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bois de L'Ubac\"",
+    "resultStructId": "1600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553424",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 64856,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (crèche collective)",
+    "resultStructId": "1651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "60047889",
+    "mail": "",
+    "distance": 391354,
+    "latitude": 44.05143204766435,
+    "telephone": "0490631558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« LES PETITS BERLINGOTS »",
+    "resultStructId": "703608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12555703",
+    "mail": "",
+    "distance": 391354,
+    "latitude": 44.05143204766435,
+    "telephone": "0490602140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (halte-garderie)",
+    "resultStructId": "1704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553983",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 391591,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hameau les Vignes\"",
+    "resultStructId": "1664",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12551231",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 391591,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bois de L'Ubac\"",
+    "resultStructId": "1600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553424",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 391591,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (crèche collective)",
+    "resultStructId": "1651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12751972",
+    "mail": "multiaccueil.lesptitsmousses@ventoux-comtat.com",
+    "distance": 392519,
+    "latitude": 44.054763752328114,
+    "telephone": "0490377103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Mousses\"",
+    "resultStructId": "6298",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.034391195042443,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12751972",
+    "mail": "multiaccueil.lesptitsmousses@ventoux-comtat.com",
+    "distance": 104407,
+    "latitude": 44.054763752328114,
+    "telephone": "0490377103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Mousses\"",
+    "resultStructId": "6298",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.034391195042443,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "60047889",
+    "mail": "",
+    "distance": 105232,
+    "latitude": 44.05143204766435,
+    "telephone": "0490631558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« LES PETITS BERLINGOTS »",
+    "resultStructId": "703608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12555703",
+    "mail": "",
+    "distance": 105232,
+    "latitude": 44.05143204766435,
+    "telephone": "0490602140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (halte-garderie)",
+    "resultStructId": "1704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553983",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 105431,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hameau les Vignes\"",
+    "resultStructId": "1664",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12551231",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 105431,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bois de L'Ubac\"",
+    "resultStructId": "1600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553424",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 105431,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (crèche collective)",
+    "resultStructId": "1651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "60047889",
+    "mail": "",
+    "distance": 81750,
+    "latitude": 44.05143204766435,
+    "telephone": "0490631558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« LES PETITS BERLINGOTS »",
+    "resultStructId": "703608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12555703",
+    "mail": "",
+    "distance": 81750,
+    "latitude": 44.05143204766435,
+    "telephone": "0490602140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (halte-garderie)",
+    "resultStructId": "1704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 boulevard emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048638547663226,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553983",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 81816,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hameau les Vignes\"",
+    "resultStructId": "1664",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12551231",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 81816,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bois de L'Ubac\"",
+    "resultStructId": "1600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice charretier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12553424",
+    "mail": "rougeoux-a@carpentras.fr",
+    "distance": 81816,
+    "latitude": 44.055380271697906,
+    "telephone": "0490605959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Zola\" (crèche collective)",
+    "resultStructId": "1651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048503267869412,
+    "ville": "carpentras",
+    "cp": "84200"
+  },
+  {
+    "resultId": "12751972",
+    "mail": "multiaccueil.lesptitsmousses@ventoux-comtat.com",
+    "distance": 82926,
+    "latitude": 44.054763752328114,
+    "telephone": "0490377103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Mousses\"",
+    "resultStructId": "6298",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.034391195042443,
+    "ville": "carpentras",
+    "cp": "84200"
+  }
+]

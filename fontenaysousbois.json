@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12510596",
+    "mail": "creche.alouettes@fontenay-sous-bois.fr",
+    "distance": 150746,
+    "latitude": 48.855232093284435,
+    "telephone": "0171335840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les Alouettes",
+    "resultStructId": "626503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue alouettes 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4949532361957196,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12503845",
+    "mail": "creche-grands-chemins@fontenay-sous-bois.fr",
+    "distance": 151228,
+    "latitude": 48.85010348229562,
+    "telephone": "0171335872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles Grands Chemins",
+    "resultStructId": "618704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue fernand leger 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.487748737123349,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12538589",
+    "mail": "",
+    "distance": 152076,
+    "latitude": 48.85665233598733,
+    "telephone": "0148772238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Les Larris",
+    "resultStructId": "15323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue j.mace 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.476885416564533,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "57317306",
+    "mail": "",
+    "distance": 152689,
+    "latitude": 48.85662358210315,
+    "telephone": "0148757491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants GAN PARDESS",
+    "resultStructId": "682410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue emile zola 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.468475522097212,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12513606",
+    "mail": "creche-petits-ruisseaux@fontenay-sous-bois.fr",
+    "distance": 153050,
+    "latitude": 48.8516680009589,
+    "telephone": "0171335384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PETITS RUISSEAUX",
+    "resultStructId": "626202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue jules ferry 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4629544968224186,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12513606",
+    "mail": "creche-petits-ruisseaux@fontenay-sous-bois.fr",
+    "distance": 10448,
+    "latitude": 48.8516680009589,
+    "telephone": "0171335384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PETITS RUISSEAUX",
+    "resultStructId": "626202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue jules ferry 94120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4629544968224186,
+    "ville": "fontenaysousbois",
+    "cp": ""
+  }
+]

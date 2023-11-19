@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "18187447",
+    "mail": "halte.garderie.menot@portdebouc.fr",
+    "distance": 33334,
+    "latitude": 43.40275003583256,
+    "telephone": "0442066493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCVE Odette Menot",
+    "resultStructId": "192003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de turenne 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.978974135546242,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187534",
+    "mail": "halte.garderie.tichadou@portdebouc.fr",
+    "distance": 33407,
+    "latitude": 43.41221984603938,
+    "telephone": "0442064773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACHalte-garderie Lucia Tichadou",
+    "resultStructId": "21902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue joseph millat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.987637737064457,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18186849",
+    "mail": "contact@crechesdefrance.com",
+    "distance": 33615,
+    "latitude": 43.40985093869625,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITES BOBINES",
+    "resultStructId": "194926",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue ambroise croizat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9887463065982365,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "12531064",
+    "mail": "lepetitjardindesaiguesdouces@creches-du-sud.fr",
+    "distance": 33661,
+    "latitude": 43.40543978142932,
+    "telephone": "0442351094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACJARDIN DES AIGUES DOUCES",
+    "resultStructId": "190502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucien giorgettiquartier des aigues douces 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.985903391144768,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18186849",
+    "mail": "contact@crechesdefrance.com",
+    "distance": 363992,
+    "latitude": 43.40985093869625,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITES BOBINES",
+    "resultStructId": "194926",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue ambroise croizat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9887463065982365,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "12531064",
+    "mail": "lepetitjardindesaiguesdouces@creches-du-sud.fr",
+    "distance": 364029,
+    "latitude": 43.40543978142932,
+    "telephone": "0442351094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACJARDIN DES AIGUES DOUCES",
+    "resultStructId": "190502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucien giorgettiquartier des aigues douces 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.985903391144768,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187534",
+    "mail": "halte.garderie.tichadou@portdebouc.fr",
+    "distance": 364171,
+    "latitude": 43.41221984603938,
+    "telephone": "0442064773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACHalte-garderie Lucia Tichadou",
+    "resultStructId": "21902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue joseph millat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.987637737064457,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187447",
+    "mail": "halte.garderie.menot@portdebouc.fr",
+    "distance": 364443,
+    "latitude": 43.40275003583256,
+    "telephone": "0442066493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCVE Odette Menot",
+    "resultStructId": "192003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de turenne 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.978974135546242,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187447",
+    "mail": "halte.garderie.menot@portdebouc.fr",
+    "distance": 89953,
+    "latitude": 43.40275003583256,
+    "telephone": "0442066493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCVE Odette Menot",
+    "resultStructId": "192003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de turenne 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.978974135546242,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187534",
+    "mail": "halte.garderie.tichadou@portdebouc.fr",
+    "distance": 90377,
+    "latitude": 43.41221984603938,
+    "telephone": "0442064773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACHalte-garderie Lucia Tichadou",
+    "resultStructId": "21902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue joseph millat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.987637737064457,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "12531064",
+    "mail": "lepetitjardindesaiguesdouces@creches-du-sud.fr",
+    "distance": 90422,
+    "latitude": 43.40543978142932,
+    "telephone": "0442351094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACJARDIN DES AIGUES DOUCES",
+    "resultStructId": "190502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucien giorgettiquartier des aigues douces 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.985903391144768,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18186849",
+    "mail": "contact@crechesdefrance.com",
+    "distance": 90527,
+    "latitude": 43.40985093869625,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITES BOBINES",
+    "resultStructId": "194926",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue ambroise croizat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9887463065982365,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187534",
+    "mail": "halte.garderie.tichadou@portdebouc.fr",
+    "distance": 105512,
+    "latitude": 43.41221984603938,
+    "telephone": "0442064773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACHalte-garderie Lucia Tichadou",
+    "resultStructId": "21902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue joseph millat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.987637737064457,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18186849",
+    "mail": "contact@crechesdefrance.com",
+    "distance": 105591,
+    "latitude": 43.40985093869625,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITES BOBINES",
+    "resultStructId": "194926",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue ambroise croizat 13110port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9887463065982365,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "12531064",
+    "mail": "lepetitjardindesaiguesdouces@creches-du-sud.fr",
+    "distance": 106064,
+    "latitude": 43.40543978142932,
+    "telephone": "0442351094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACJARDIN DES AIGUES DOUCES",
+    "resultStructId": "190502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucien giorgettiquartier des aigues douces 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.985903391144768,
+    "ville": "debouc",
+    "cp": ""
+  },
+  {
+    "resultId": "18187447",
+    "mail": "halte.garderie.menot@portdebouc.fr",
+    "distance": 106693,
+    "latitude": 43.40275003583256,
+    "telephone": "0442066493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCVE Odette Menot",
+    "resultStructId": "192003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de turenne 13110 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.978974135546242,
+    "ville": "debouc",
+    "cp": ""
+  }
+]

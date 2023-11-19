@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12648454",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 135385,
+    "latitude": 46.13849265718024,
+    "telephone": "0470987449",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Les Moussaillons \" Vichy",
+    "resultStructId": "205613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard du marechalfranchet d'esperey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.413404264590312,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "57781993",
+    "mail": "cre-107@babilou.com",
+    "distance": 135772,
+    "latitude": 46.12930587431744,
+    "telephone": "0470967319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainede malice",
+    "resultStructId": "699912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 avenue de gramont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.430818574479274,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "12648497",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 135867,
+    "latitude": 46.129244534623695,
+    "telephone": "0470965720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" L'Ilôt calin \" Vichy",
+    "resultStructId": "205612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue d'alsace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.427950607997487,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "12773386",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 136475,
+    "latitude": 46.119148700327614,
+    "telephone": "0463011093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Garets\" Vichy",
+    "resultStructId": "205614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des paquerettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4416627769155728,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "12648454",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 163585,
+    "latitude": 46.13849265718024,
+    "telephone": "0470987449",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Les Moussaillons \" Vichy",
+    "resultStructId": "205613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard du marechalfranchet d'esperey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.413404264590312,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "12648497",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 165098,
+    "latitude": 46.129244534623695,
+    "telephone": "0470965720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" L'Ilôt calin \" Vichy",
+    "resultStructId": "205612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue d'alsace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.427950607997487,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "57781993",
+    "mail": "cre-107@babilou.com",
+    "distance": 165271,
+    "latitude": 46.12930587431744,
+    "telephone": "0470967319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainede malice",
+    "resultStructId": "699912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 avenue de gramont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.430818574479274,
+    "ville": "vichy",
+    "cp": "03200"
+  },
+  {
+    "resultId": "12773386",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 166616,
+    "latitude": 46.119148700327614,
+    "telephone": "0463011093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Garets\" Vichy",
+    "resultStructId": "205614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des paquerettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4416627769155728,
+    "ville": "vichy",
+    "cp": "03200"
+  }
+]

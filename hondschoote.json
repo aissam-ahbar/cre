@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12997381",
+    "mail": "auparadisdesboutchoux@gmail.com",
+    "distance": 56721,
+    "latitude": 50.97571407606316,
+    "telephone": "0980627508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Auparadis des Bout'choux",
+    "resultStructId": "12005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue de bergues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.578583887550598,
+    "ville": "hondschoote",
+    "cp": "59122"
+  },
+  {
+    "resultId": "54851004",
+    "mail": "bambibus@cchf.fr",
+    "distance": 56936,
+    "latitude": 50.97834095390215,
+    "telephone": "0612226587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE ITINERANTE BAMBIBUS",
+    "resultStructId": "599103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5847056802911914,
+    "ville": "hondschoote",
+    "cp": "59122"
+  }
+]

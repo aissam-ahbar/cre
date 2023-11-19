@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "60318222",
+    "mail": "monsenbaroeul1@la-maison-bleue.fr",
+    "distance": 33177,
+    "latitude": 50.641615469701215,
+    "telephone": "0320422292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Crèche de l'Europe\"",
+    "resultStructId": "708760",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue du marechal lyautey 59370mons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.107043909311694,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "58682961",
+    "mail": "cre-491@babilou.com",
+    "distance": 33193,
+    "latitude": 50.65878840618363,
+    "telephone": "0359614400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouStahl",
+    "resultStructId": "687519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de l'abbe stahl 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.087500284880641,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "58817347",
+    "mail": "cre-614@babilou.com",
+    "distance": 33231,
+    "latitude": 50.660383663765856,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMarcq Maginot",
+    "resultStructId": "689220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue sergent maginot 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.086188507603055,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12951715",
+    "mail": "",
+    "distance": 33266,
+    "latitude": 50.662586953480286,
+    "telephone": "0320454545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"La Baleine Bleue\"",
+    "resultStructId": "10943",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "122 rue du docteurcharcot 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.084031957656911,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12611861",
+    "mail": "mcrabouinlamaisonbleue.59@orange.fr",
+    "distance": 33279,
+    "latitude": 50.6571487794241,
+    "telephone": "0320139749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"CAPUCINE\"",
+    "resultStructId": "3010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue robert schuman 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0910756959637653,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12735976",
+    "mail": "marcqenbaroeul@creche-la-maison-bleue.fr",
+    "distance": 33279,
+    "latitude": 50.6571487794241,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison Bleue \"Capucine\"",
+    "resultStructId": "5926",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue robert-schuman 59700marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0910756959637653,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "58981044",
+    "mail": "marcqenbaroeul-buissonniere@rigolocommelavie.fr",
+    "distance": 33312,
+    "latitude": 50.65478493843665,
+    "telephone": "0310039909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie La Buisssonière",
+    "resultStructId": "691405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue robert schuman59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0945157649468205,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "13035358",
+    "mail": "multi.accueil@centresocialetculturel-marcqenbaroeul.fr",
+    "distance": 33429,
+    "latitude": 50.66492212031711,
+    "telephone": "0320518246",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesZ'Artistes",
+    "resultStructId": "690402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "69 boulevard clemenceau 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0840051866920626,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12546286",
+    "mail": "",
+    "distance": 33432,
+    "latitude": 50.642549624552075,
+    "telephone": "0320042222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Halte Garderie Camille Guerin",
+    "resultStructId": "1485",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "mail henri dunan59370 mons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1104155741383974,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12977128",
+    "mail": "mons-mondilous@rigolocommelavie.fr",
+    "distance": 33514,
+    "latitude": 50.64457884941288,
+    "telephone": "320562763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Mons en Baroeul - les Mondilous",
+    "resultStructId": "11534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place dela republique 59370 mons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1096385549916556,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12832812",
+    "mail": "",
+    "distance": 34393,
+    "latitude": 50.667462820705296,
+    "telephone": "0320459923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "8178",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du marquisat 59700 marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0983710266139894,
+    "ville": "enbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "58748471",
+    "mail": "cre-613@babilou.fr",
+    "distance": 34582,
+    "latitude": 50.67645672506695,
+    "telephone": "0359617385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMarcq en Baroeul",
+    "resultStructId": "688409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du general de gaulle 59700marcq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.090095581195138,
+    "ville": "enbaroeul",
+    "cp": ""
+  }
+]

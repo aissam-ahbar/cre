@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12924496",
+    "mail": "maleslutins@ville-hazebrouck.fr",
+    "distance": 30160,
+    "latitude": 50.718000024331396,
+    "telephone": "0328434431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES LUTINS",
+    "resultStructId": "596901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue d'aire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.53437199465958,
+    "ville": "hazebrouck",
+    "cp": "59190"
+  },
+  {
+    "resultId": "13020042",
+    "mail": "creche@ville-hazebrouck.fr",
+    "distance": 30160,
+    "latitude": 50.718000024331396,
+    "telephone": "0359684000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE MUNICIPALE \"LES PETITS PAS\"",
+    "resultStructId": "387501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.53437199465958,
+    "ville": "hazebrouck",
+    "cp": "59190"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "resultId": "12823223",
+    "mail": "lepetitnavire@ville-le-treport.fr",
+    "distance": 105572,
+    "latitude": 50.058325485310704,
+    "telephone": "0235865593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT NAVIRE",
+    "resultStructId": "686101",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "25avenue des canadiens 76470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.3832695862684403,
+    "ville": "letreport",
+    "cp": ""
+  },
+  {
+    "resultId": "12823223",
+    "mail": "lepetitnavire@ville-le-treport.fr",
+    "distance": 185987,
+    "latitude": 50.058325485310704,
+    "telephone": "0235865593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT NAVIRE",
+    "resultStructId": "686101",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "25avenue des canadiens 76470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.3832695862684403,
+    "ville": "letreport",
+    "cp": ""
+  }
+]

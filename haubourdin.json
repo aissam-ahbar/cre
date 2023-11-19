@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12786974",
+    "mail": "petite.enfance@haubourdin.fr",
+    "distance": 24103,
+    "latitude": 50.61105926965441,
+    "telephone": "0320443297",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Récréa-crèche",
+    "resultStructId": "696708",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "placejean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9826366759891796,
+    "ville": "haubourdin",
+    "cp": "59320"
+  },
+  {
+    "resultId": "12512058",
+    "mail": "mac@centresocial-haubourdin.fr",
+    "distance": 24244,
+    "latitude": 50.61664060513013,
+    "telephone": "0320072472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU CENTRE SOCIAL LE PARC",
+    "resultStructId": "707622",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9778241037230613,
+    "ville": "haubourdin",
+    "cp": "59320"
+  }
+]

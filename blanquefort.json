@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12567958",
+    "mail": "spe@ville-blanquefort.fr",
+    "distance": 69697,
+    "latitude": 44.908463934214836,
+    "telephone": "0556574858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "187001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue dupaty",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6294004925947091,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12490034",
+    "mail": "spe@ville-blanquefort.fr",
+    "distance": 69876,
+    "latitude": 44.90926390122341,
+    "telephone": "0556574859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil L'ILE AUX DOUDOUS",
+    "resultStructId": "177",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6322151771323551,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12495194",
+    "mail": "spe@ville-blanquefort.fr",
+    "distance": 69876,
+    "latitude": 44.90926390122341,
+    "telephone": "0556574857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ESPACE SAINT LOUIS",
+    "resultStructId": "297",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6322151771323551,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "38761988",
+    "mail": "",
+    "distance": 69876,
+    "latitude": 44.90926390122341,
+    "telephone": "0556574856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Saint Louis",
+    "resultStructId": "175501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6322151771323551,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12845849",
+    "mail": "blanquefort.degaulle@crechesetmalices.com",
+    "distance": 69976,
+    "latitude": 44.9076886208323,
+    "telephone": "0524440790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8481",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue du general de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.639402744920618,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12561035",
+    "mail": "administration.sucepouce@aliceadsl.fr",
+    "distance": 70896,
+    "latitude": 44.919694480526694,
+    "telephone": "0556953950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil SUCE POUCE",
+    "resultStructId": "215702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue maurian",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6317050868248458,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12490120",
+    "mail": "creche.lespoussins@gmail.com",
+    "distance": 71399,
+    "latitude": 44.92341415022892,
+    "telephone": "0556578639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLES POUSSINS",
+    "resultStructId": "235104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de saint julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6355086658108938,
+    "ville": "blanquefort",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12900459",
+    "mail": "caychac@mcpremierspas.fr",
+    "distance": 72766,
+    "latitude": 44.93744550083434,
+    "telephone": "0973892564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePREMIERS PAS - CAYCHAC",
+    "resultStructId": "673604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6344803435141592,
+    "ville": "blanquefort",
+    "cp": "33290"
+  }
+]

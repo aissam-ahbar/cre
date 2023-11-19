@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12875906",
+    "mail": "service.petite.enfance@ville-noisylegrand.fr",
+    "distance": 146179,
+    "latitude": 48.84678142501554,
+    "telephone": "0145927818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheRobert Debré",
+    "resultStructId": "170204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue du marechal joffre 93160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.556575403280839,
+    "ville": "noisylegrand",
+    "cp": ""
+  },
+  {
+    "resultId": "12875992",
+    "mail": "creche.familiale@ville-noisylegrand.fr",
+    "distance": 146497,
+    "latitude": 48.849255381126106,
+    "telephone": "0143059835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale du Champy",
+    "resultStructId": "170205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du 11 novembre 93160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.552497746675755,
+    "ville": "noisylegrand",
+    "cp": ""
+  },
+  {
+    "resultId": "12876121",
+    "mail": "creche.lepetitprince@ville-noisylegrand.fr",
+    "distance": 146611,
+    "latitude": 48.846556311188664,
+    "telephone": "0155851125",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Petit Prince",
+    "resultStructId": "170203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la voute 93160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5506232361721066,
+    "ville": "noisylegrand",
+    "cp": ""
+  }
+]

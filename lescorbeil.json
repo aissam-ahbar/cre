@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12683593",
+    "mail": "lesptitsloups@sipej.fr",
+    "distance": 189641,
+    "latitude": 48.62045953840416,
+    "telephone": "0160754122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits loups - St Germain les Corbeil",
+    "resultStructId": "4678",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de brie -maison de la petite enfance 91250 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4879277215416935,
+    "ville": "lescorbeil",
+    "cp": ""
+  },
+  {
+    "resultId": "12506038",
+    "mail": "creche.sglc@wanadoo.fr",
+    "distance": 189826,
+    "latitude": 48.61881496008799,
+    "telephone": "0160751871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEnfantines",
+    "resultStructId": "549",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de brie 91250 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5029139443624877,
+    "ville": "lescorbeil",
+    "cp": ""
+  },
+  {
+    "resultId": "12506038",
+    "mail": "creche.sglc@wanadoo.fr",
+    "distance": 150404,
+    "latitude": 48.61881496008799,
+    "telephone": "0160751871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEnfantines",
+    "resultStructId": "549",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de brie 91250 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5029139443624877,
+    "ville": "lescorbeil",
+    "cp": ""
+  },
+  {
+    "resultId": "12683593",
+    "mail": "lesptitsloups@sipej.fr",
+    "distance": 151483,
+    "latitude": 48.62045953840416,
+    "telephone": "0160754122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits loups - St Germain les Corbeil",
+    "resultStructId": "4678",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de brie -maison de la petite enfance 91250 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4879277215416935,
+    "ville": "lescorbeil",
+    "cp": ""
+  }
+]

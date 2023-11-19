@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "24320607",
+    "mail": "lesfouletonnets.francas39@gmail.com",
+    "distance": 156129,
+    "latitude": 46.57575859239588,
+    "telephone": "0384416147",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheMulti-accueil Les Fouletonnets",
+    "resultStructId": "421701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue des pesieres 39150st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.960178002554278,
+    "ville": "engrandvaux",
+    "cp": ""
+  },
+  {
+    "resultId": "13039185",
+    "mail": "lesfouletonnets.francas@gmail.com",
+    "distance": 156129,
+    "latitude": 46.57575859239588,
+    "telephone": "0384416147",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilcollectif \"Les Fouletonnets\" - ST LAURENT ENGRANDVAUX",
+    "resultStructId": "12977",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des pesieres 39150 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.960178002554278,
+    "ville": "engrandvaux",
+    "cp": ""
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "12615989",
+    "mail": "",
+    "distance": 7581,
+    "latitude": 48.88792599052939,
+    "telephone": "0147789089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AMITIE-ROSIERS",
+    "resultStructId": "241303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95rue des rosiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.227803690165742,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "51137860",
+    "mail": "nanterre@tinticreches.fr",
+    "distance": 7690,
+    "latitude": 48.88192926915015,
+    "telephone": "0180889550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTintinnabules",
+    "resultStructId": "450301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50/52 route des fusilles de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2221526425601668,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "22354067",
+    "mail": "nanterre.arena@lpcr.fr",
+    "distance": 7889,
+    "latitude": 48.895579052256934,
+    "telephone": "0173293472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - NANTERRE ARENA",
+    "resultStructId": "399701",
+    "omegaId": "31664",
+    "avip": false,
+    "adresse": "103boulevard aime cesaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.229590508960626,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12618741",
+    "mail": "",
+    "distance": 8151,
+    "latitude": 48.89434972571945,
+    "telephone": "0147787246",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGPARC",
+    "resultStructId": "241408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2242371492545128,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616419",
+    "mail": "",
+    "distance": 8151,
+    "latitude": 48.89434972571945,
+    "telephone": "0147787987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCPARC",
+    "resultStructId": "241401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2242371492545128,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616032",
+    "mail": "",
+    "distance": 8245,
+    "latitude": 48.887797356759606,
+    "telephone": "0147253350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHAMPAUX MELLES",
+    "resultStructId": "241304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee fernand leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.217656258778447,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "41593609",
+    "mail": "nanterre.lespetitscalissons@family-creche.fr",
+    "distance": 8325,
+    "latitude": 48.88542634864599,
+    "telephone": "0147932861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS CALISSONS",
+    "resultStructId": "263801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue felix faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.214916123967991,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616204",
+    "mail": "",
+    "distance": 8343,
+    "latitude": 48.894683162418886,
+    "telephone": "0140970656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFARANDOLE",
+    "resultStructId": "241302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee de la danse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2214915969100044,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "33734112",
+    "mail": "contact@babilou.com",
+    "distance": 8436,
+    "latitude": 48.88829695863445,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUNANTERRE PIERREUX",
+    "resultStructId": "429606",
+    "omegaId": "1519",
+    "avip": false,
+    "adresse": "55 avenue des champs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.215128238839037,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616161",
+    "mail": "",
+    "distance": 8497,
+    "latitude": 48.885062473481455,
+    "telephone": "0141447850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "COURTEECHELLE",
+    "resultStructId": "241301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue de suresnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.212167724944826,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12618612",
+    "mail": "",
+    "distance": 8619,
+    "latitude": 48.87971543357711,
+    "telephone": "0141383715",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PINOCCHIO",
+    "resultStructId": "241405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "207rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.207598745095245,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12618698",
+    "mail": "",
+    "distance": 8619,
+    "latitude": 48.87971543357711,
+    "telephone": "0141383716",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGPINOCCHIO",
+    "resultStructId": "241407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "207 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.207598745095245,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "32745832",
+    "mail": "contact@lagirafeetoilee.fr",
+    "distance": 8754,
+    "latitude": 48.87886298294981,
+    "telephone": "0622423968",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA GIRAFE ETOILEE ANTARES",
+    "resultStructId": "351501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "90 rue de garche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2053003201879204,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616118",
+    "mail": "",
+    "distance": 8785,
+    "latitude": 48.88976156735945,
+    "telephone": "0147299414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHATPERCHE",
+    "resultStructId": "241202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.210888648554644,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "13030241",
+    "mail": "",
+    "distance": 8874,
+    "latitude": 48.89576852747542,
+    "telephone": "0147217841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEINTERADMINISTRATIVE - Fondation Jean Moulin",
+    "resultStructId": "241201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61boulevard emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.214098237915125,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616548",
+    "mail": "",
+    "distance": 9043,
+    "latitude": 48.8978678108539,
+    "telephone": "0141370773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT PRINCE",
+    "resultStructId": "241403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 boulevard mansart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2132296558083038,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12837069",
+    "mail": "nanterre2@lpcr.fr",
+    "distance": 9136,
+    "latitude": 48.89201147537102,
+    "telephone": "0141055876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - NANTERRE CHALLENGE92",
+    "resultStructId": "396602",
+    "omegaId": "10329",
+    "avip": false,
+    "adresse": "79/105 avenue francois arago immeuble challenge92",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2071811811738606,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12869413",
+    "mail": "",
+    "distance": 9252,
+    "latitude": 48.912458844414246,
+    "telephone": "0147845943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCANIBOUTS",
+    "resultStructId": "9029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de strasbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2256926621438327,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616376",
+    "mail": "",
+    "distance": 9325,
+    "latitude": 48.9098704388299,
+    "telephone": "0147812139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPAQUERETTES",
+    "resultStructId": "3115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des aubepines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.22106270309005,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "13030198",
+    "mail": "crechepommedapi@ch-nanterre.fr",
+    "distance": 9347,
+    "latitude": 48.91230929139736,
+    "telephone": "0147696644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPOMME D'API",
+    "resultStructId": "60801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "403 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.223762149181478,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "22364449",
+    "mail": "nanterre.boule@lpcr.fr",
+    "distance": 9414,
+    "latitude": 48.88657996451457,
+    "telephone": "0173293436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGE - LA BOULE",
+    "resultStructId": "399601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3/5 avenue dumarechal joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1996305132060914,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "44691975",
+    "mail": "crhgnanterre@igesa.fr",
+    "distance": 9484,
+    "latitude": 48.90207503226168,
+    "telephone": "0147252902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACLE DES CHAMPS",
+    "resultStructId": "708007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15-17 rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.210025395483713,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12618655",
+    "mail": "",
+    "distance": 9652,
+    "latitude": 48.89101660568024,
+    "telephone": "0147242900",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRANDCHAMP",
+    "resultStructId": "241406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5/7 rue grand champ",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.198788675115921,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12836940",
+    "mail": "nanterre@lpcr.fr",
+    "distance": 9730,
+    "latitude": 48.88932474957169,
+    "telephone": "0141055875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - NANTERRE SUD EST",
+    "resultStructId": "396001",
+    "omegaId": "11054",
+    "avip": false,
+    "adresse": "20boulevard du sud-est",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.196595294784624,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616634",
+    "mail": "",
+    "distance": 9767,
+    "latitude": 48.88957976779494,
+    "telephone": "0147247459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CASTELMARLY",
+    "resultStructId": "3121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue castel marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.196200146165451,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616591",
+    "mail": "",
+    "distance": 9896,
+    "latitude": 48.89474031475666,
+    "telephone": "0147214245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PONGERVILLE",
+    "resultStructId": "241404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4rue de pongerville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1976518645011893,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12969431",
+    "mail": "contact@kidsup.fr",
+    "distance": 9912,
+    "latitude": 48.91576551340435,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KID'SUP NENUPHAR",
+    "resultStructId": "66228",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des hautes patures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.218079183057319,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616333",
+    "mail": "",
+    "distance": 10167,
+    "latitude": 48.897068001127,
+    "telephone": "0147257731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ILEAUX TRESORS",
+    "resultStructId": "241307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 boulevard du general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1952169881786543,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616075",
+    "mail": "",
+    "distance": 10199,
+    "latitude": 48.89710711192469,
+    "telephone": "0147240252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESROBINSONS",
+    "resultStructId": "241305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 a 5 rue de la chasse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1947678241439617,
+    "ville": "nanterre",
+    "cp": "92000"
+  },
+  {
+    "resultId": "12616505",
+    "mail": "",
+    "distance": 10350,
+    "latitude": 48.898385040403596,
+    "telephone": "0147245563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VOLTAIRE",
+    "resultStructId": "241402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue voltaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.193414382847373,
+    "ville": "nanterre",
+    "cp": "92000"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "55059750",
+    "mail": "micro-creche-stchristophe@admr.org",
+    "distance": 106738,
+    "latitude": 46.28542228136927,
+    "telephone": "0972992485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Coeurs du Brionnais\"",
+    "resultStructId": "607401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 route de marcigny71800 st christophe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.176410767376639,
+    "ville": "enbrionnais",
+    "cp": ""
+  },
+  {
+    "resultId": "29655183",
+    "mail": "micro-creche-stchristophe@admr.org",
+    "distance": 106738,
+    "latitude": 46.28542228136927,
+    "telephone": "0972992485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\" Les P'tits Coeurs du Brionnais \"",
+    "resultStructId": "55903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 route de marcigny71800 st christophe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.176410767376639,
+    "ville": "enbrionnais",
+    "cp": ""
+  }
+]

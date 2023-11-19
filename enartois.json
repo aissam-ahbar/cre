@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "57206129",
+    "mail": "frederic-c@hotmail.fr",
+    "distance": 16141,
+    "latitude": 50.35255711435439,
+    "telephone": "0680902775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABOITE A DOUDOU",
+    "resultStructId": "673016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis rue de la gare 62690 aubigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5929498403001476,
+    "ville": "enartois",
+    "cp": ""
+  },
+  {
+    "resultId": "60326739",
+    "mail": "",
+    "distance": 22461,
+    "latitude": 50.588262975104456,
+    "telephone": "0980512064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tites Pousses",
+    "resultStructId": "708819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue d'en haut 62190 ham",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4576910276780026,
+    "ville": "enartois",
+    "cp": ""
+  },
+  {
+    "resultId": "24321357",
+    "mail": "lmcpetitprince@gmail.com",
+    "distance": 24399,
+    "latitude": 50.327430402878065,
+    "telephone": "0660354583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "23502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue sigebert 62490 vitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9761267771760256,
+    "ville": "enartois",
+    "cp": ""
+  },
+  {
+    "resultId": "12775020",
+    "mail": "adm.ccl@wanadoo.fr",
+    "distance": 24889,
+    "latitude": 50.326539608389425,
+    "telephone": "0321241103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Papillons",
+    "resultStructId": "217303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue de douai 62490 vitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9840962756123997,
+    "ville": "enartois",
+    "cp": ""
+  },
+  {
+    "resultId": "12987233",
+    "mail": "multi-accueil@vitryenartois.fr",
+    "distance": 25242,
+    "latitude": 50.32217308982898,
+    "telephone": "0619382477",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Jacques Brel\"",
+    "resultStructId": "176201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du midi 62490 vitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.984688454359273,
+    "ville": "enartois",
+    "cp": ""
+  }
+]

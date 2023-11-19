@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57204387",
+    "mail": "lespirates@ub4kids.com",
+    "distance": 113749,
+    "latitude": 45.18680309318194,
+    "telephone": "0962505890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPirates",
+    "resultStructId": "673009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de la cote d'argent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.060470347117175,
+    "ville": "hourtin",
+    "cp": "33990"
+  },
+  {
+    "resultId": "12565464",
+    "mail": "crechehourtin@orange.fr",
+    "distance": 113925,
+    "latitude": 45.1916110163155,
+    "telephone": "0556730984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PETITS MOUSSES",
+    "resultStructId": "1931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue francois fontanie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0546254922469809,
+    "ville": "hourtin",
+    "cp": "33990"
+  }
+]

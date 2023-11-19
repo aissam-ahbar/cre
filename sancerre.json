@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12484530",
+    "mail": "jeux-et-merveilles-direction@orange.fr",
+    "distance": 100174,
+    "latitude": 47.32746765890018,
+    "telephone": "0248543103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jeuxet merveilles",
+    "resultStructId": "708307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "241 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8308247357389447,
+    "ville": "sancerre",
+    "cp": "18300"
+  },
+  {
+    "resultId": "12484530",
+    "mail": "jeux-et-merveilles-direction@orange.fr",
+    "distance": 94046,
+    "latitude": 47.32746765890018,
+    "telephone": "0248543103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jeuxet merveilles",
+    "resultStructId": "708307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "241 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8308247357389447,
+    "ville": "sancerre",
+    "cp": "18300"
+  }
+]

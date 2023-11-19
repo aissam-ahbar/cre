@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12488056",
+    "mail": "creche.jussey@orange.fr",
+    "distance": 146635,
+    "latitude": 47.8267406674943,
+    "telephone": "0384922981",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMançounets",
+    "resultStructId": "690815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de la pecherie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90658401820304,
+    "ville": "jussey",
+    "cp": "70500"
+  },
+  {
+    "resultId": "12488056",
+    "mail": "creche.jussey@orange.fr",
+    "distance": 142399,
+    "latitude": 47.8267406674943,
+    "telephone": "0384922981",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMançounets",
+    "resultStructId": "690815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de la pecherie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90658401820304,
+    "ville": "jussey",
+    "cp": "70500"
+  }
+]

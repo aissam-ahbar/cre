@@ -1,0 +1,986 @@
+[
+  {
+    "resultId": "35322414",
+    "mail": "microcreche.kirikou@gmail.com",
+    "distance": 189554,
+    "latitude": 43.59568771668638,
+    "telephone": "0563441221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKIRYKOU",
+    "resultStructId": "135702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 chemin de saint hyppolite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2731497804242946,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "35344573",
+    "mail": "microchechekirykou@gmail.com",
+    "distance": 189675,
+    "latitude": 43.59521264478975,
+    "telephone": "0962642127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche KIRYKOU 2",
+    "resultStructId": "135701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue olympe de gouges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271634238219126,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "26009212",
+    "mail": "info@bebenou.com",
+    "distance": 190156,
+    "latitude": 43.62142354999123,
+    "telephone": "0534605169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche BEBENOU Castres",
+    "resultStructId": "696904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue beaubourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2662070774926484,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12770892",
+    "mail": "contact@babilou.com",
+    "distance": 190347,
+    "latitude": 43.56746106352366,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCastres Alphonse Laveran",
+    "resultStructId": "556901",
+    "omegaId": "51559",
+    "avip": false,
+    "adresse": "1 rue alphonse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2633219246699663,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787361",
+    "mail": "l.soulet-gouget@ville-castres.fr",
+    "distance": 190625,
+    "latitude": 43.60217438354588,
+    "telephone": "0563352864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Roulandou - Castres",
+    "resultStructId": "66513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du commerce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2599301451253573,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787189",
+    "mail": "o.perle@ville-castres.fr",
+    "distance": 190847,
+    "latitude": 43.59164938742636,
+    "telephone": "0563624092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"CESAR FRANCK\" - CASTRES",
+    "resultStructId": "64802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue cesar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.25705384102622,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787490",
+    "mail": "f.lazles@ville-castres.fr",
+    "distance": 191012,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de Bisséous - CASTRES",
+    "resultStructId": "66510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787404",
+    "mail": "m.granier@ville-castres.fr",
+    "distance": 191012,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceAccueil Familial - CASTRES",
+    "resultStructId": "66511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787318",
+    "mail": "a.maurel@ville-castres.fr",
+    "distance": 191260,
+    "latitude": 43.59138142495001,
+    "telephone": "0563624309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Lameilhé - Castres",
+    "resultStructId": "64804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue van gogh",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.251922755415442,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "60625332",
+    "mail": "odyssee@les-cherubins.com",
+    "distance": 212374,
+    "latitude": 43.59108983438453,
+    "telephone": "0670446784",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheL'Odyssée des Chérubins de Castres",
+    "resultStructId": "713308",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue claudeberthollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1998479670137394,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "58845297",
+    "mail": "contact@o-loulous.com",
+    "distance": 214010,
+    "latitude": 43.61574410884526,
+    "telephone": "0953324764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Ô LOULOUS",
+    "resultStructId": "689515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 avenue d'albi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.236956986121488,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787447",
+    "mail": "f.raygot@ville-castres.fr",
+    "distance": 214350,
+    "latitude": 43.59754457925179,
+    "telephone": "0563597792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie de Laden \"Les coccinelles bleues\" - Castres",
+    "resultStructId": "66509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue du petit train",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2306565766543467,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787232",
+    "mail": "m.delean@ville-castres.fr",
+    "distance": 214496,
+    "latitude": 43.59440925371531,
+    "telephone": "0563624116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Laden \"Les Petits Princes\" - Castres",
+    "resultStructId": "64803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2307241916905567,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787275",
+    "mail": "c.cavailles@ville-castres.fr",
+    "distance": 214617,
+    "latitude": 43.60764724583524,
+    "telephone": "0563592682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Castelmoutou - CASTRES",
+    "resultStructId": "66501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.240352352150916,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787533",
+    "mail": "s.djelilahne@ville-castres.fr",
+    "distance": 214621,
+    "latitude": 43.60455003650479,
+    "telephone": "0563715627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de la La Platé - Castres",
+    "resultStructId": "66508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.238560270791554,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787404",
+    "mail": "m.granier@ville-castres.fr",
+    "distance": 215599,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceAccueil Familial - CASTRES",
+    "resultStructId": "66511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787490",
+    "mail": "f.lazles@ville-castres.fr",
+    "distance": 215599,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de Bisséous - CASTRES",
+    "resultStructId": "66510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "28630174",
+    "mail": "sas.lespouparous@gmail.com",
+    "distance": 215690,
+    "latitude": 43.58065162349439,
+    "telephone": "0677437261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Pouparous",
+    "resultStructId": "47002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit salavy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.238505649799875,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "26009212",
+    "mail": "info@bebenou.com",
+    "distance": 215930,
+    "latitude": 43.62142354999123,
+    "telephone": "0534605169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche BEBENOU Castres",
+    "resultStructId": "696904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue beaubourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2662070774926484,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787318",
+    "mail": "a.maurel@ville-castres.fr",
+    "distance": 216194,
+    "latitude": 43.59138142495001,
+    "telephone": "0563624309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Lameilhé - Castres",
+    "resultStructId": "64804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue van gogh",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.251922755415442,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787361",
+    "mail": "l.soulet-gouget@ville-castres.fr",
+    "distance": 216305,
+    "latitude": 43.60217438354588,
+    "telephone": "0563352864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Roulandou - Castres",
+    "resultStructId": "66513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du commerce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2599301451253573,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787189",
+    "mail": "o.perle@ville-castres.fr",
+    "distance": 216560,
+    "latitude": 43.59164938742636,
+    "telephone": "0563624092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"CESAR FRANCK\" - CASTRES",
+    "resultStructId": "64802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue cesar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.25705384102622,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "35344573",
+    "mail": "microchechekirykou@gmail.com",
+    "distance": 217478,
+    "latitude": 43.59521264478975,
+    "telephone": "0962642127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche KIRYKOU 2",
+    "resultStructId": "135701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue olympe de gouges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271634238219126,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "35322414",
+    "mail": "microcreche.kirikou@gmail.com",
+    "distance": 217569,
+    "latitude": 43.59568771668638,
+    "telephone": "0563441221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKIRYKOU",
+    "resultStructId": "135702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 chemin de saint hyppolite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2731497804242946,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12770892",
+    "mail": "contact@babilou.com",
+    "distance": 218115,
+    "latitude": 43.56746106352366,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCastres Alphonse Laveran",
+    "resultStructId": "556901",
+    "omegaId": "51559",
+    "avip": false,
+    "adresse": "1 rue alphonse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2633219246699663,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "35322414",
+    "mail": "microcreche.kirikou@gmail.com",
+    "distance": 130751,
+    "latitude": 43.59568771668638,
+    "telephone": "0563441221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKIRYKOU",
+    "resultStructId": "135702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 chemin de saint hyppolite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2731497804242946,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "35344573",
+    "mail": "microchechekirykou@gmail.com",
+    "distance": 130874,
+    "latitude": 43.59521264478975,
+    "telephone": "0962642127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche KIRYKOU 2",
+    "resultStructId": "135701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue olympe de gouges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271634238219126,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "26009212",
+    "mail": "info@bebenou.com",
+    "distance": 131306,
+    "latitude": 43.62142354999123,
+    "telephone": "0534605169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche BEBENOU Castres",
+    "resultStructId": "696904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue beaubourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2662070774926484,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12770892",
+    "mail": "contact@babilou.com",
+    "distance": 131618,
+    "latitude": 43.56746106352366,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCastres Alphonse Laveran",
+    "resultStructId": "556901",
+    "omegaId": "51559",
+    "avip": false,
+    "adresse": "1 rue alphonse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2633219246699663,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787361",
+    "mail": "l.soulet-gouget@ville-castres.fr",
+    "distance": 131809,
+    "latitude": 43.60217438354588,
+    "telephone": "0563352864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Roulandou - Castres",
+    "resultStructId": "66513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du commerce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2599301451253573,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787189",
+    "mail": "o.perle@ville-castres.fr",
+    "distance": 132054,
+    "latitude": 43.59164938742636,
+    "telephone": "0563624092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"CESAR FRANCK\" - CASTRES",
+    "resultStructId": "64802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue cesar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.25705384102622,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787490",
+    "mail": "f.lazles@ville-castres.fr",
+    "distance": 132180,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de Bisséous - CASTRES",
+    "resultStructId": "66510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787404",
+    "mail": "m.granier@ville-castres.fr",
+    "distance": 132180,
+    "latitude": 43.610437193915814,
+    "telephone": "0563624201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceAccueil Familial - CASTRES",
+    "resultStructId": "66511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2552854825129454,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787318",
+    "mail": "a.maurel@ville-castres.fr",
+    "distance": 132467,
+    "latitude": 43.59138142495001,
+    "telephone": "0563624309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Lameilhé - Castres",
+    "resultStructId": "64804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue van gogh",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.251922755415442,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787275",
+    "mail": "c.cavailles@ville-castres.fr",
+    "distance": 133382,
+    "latitude": 43.60764724583524,
+    "telephone": "0563592682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Castelmoutou - CASTRES",
+    "resultStructId": "66501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.240352352150916,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787533",
+    "mail": "s.djelilahne@ville-castres.fr",
+    "distance": 133528,
+    "latitude": 43.60455003650479,
+    "telephone": "0563715627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de la La Platé - Castres",
+    "resultStructId": "66508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.238560270791554,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "28630174",
+    "mail": "sas.lespouparous@gmail.com",
+    "distance": 133572,
+    "latitude": 43.58065162349439,
+    "telephone": "0677437261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Pouparous",
+    "resultStructId": "47002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit salavy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.238505649799875,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "58845297",
+    "mail": "contact@o-loulous.com",
+    "distance": 133657,
+    "latitude": 43.61574410884526,
+    "telephone": "0953324764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Ô LOULOUS",
+    "resultStructId": "689515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 avenue d'albi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.236956986121488,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787232",
+    "mail": "m.delean@ville-castres.fr",
+    "distance": 134169,
+    "latitude": 43.59440925371531,
+    "telephone": "0563624116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Laden \"Les Petits Princes\" - Castres",
+    "resultStructId": "64803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2307241916905567,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "12787447",
+    "mail": "f.raygot@ville-castres.fr",
+    "distance": 134170,
+    "latitude": 43.59754457925179,
+    "telephone": "0563597792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie de Laden \"Les coccinelles bleues\" - Castres",
+    "resultStructId": "66509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue du petit train",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2306565766543467,
+    "ville": "castres",
+    "cp": "81100"
+  },
+  {
+    "resultId": "60625332",
+    "mail": "odyssee@les-cherubins.com",
+    "distance": 136661,
+    "latitude": 43.59108983438453,
+    "telephone": "0670446784",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheL'Odyssée des Chérubins de Castres",
+    "resultStructId": "713308",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue claudeberthollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1998479670137394,
+    "ville": "castres",
+    "cp": "81100"
+  }
+]

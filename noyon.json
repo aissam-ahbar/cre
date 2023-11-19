@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "29315622",
+    "mail": "petits.tresors@paysnoyonnais.fr",
+    "distance": 146236,
+    "latitude": 49.57585301285311,
+    "telephone": "0364606200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS TRESORS",
+    "resultStructId": "52004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "324 rue du moulin st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0028379712792788,
+    "ville": "noyon",
+    "cp": "60400"
+  },
+  {
+    "resultId": "12925958",
+    "mail": "petite.enfance@paysnoyonnais.fr",
+    "distance": 147623,
+    "latitude": 49.59816634948734,
+    "telephone": "0344096040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DU PAYS NOYONNAIS",
+    "resultStructId": "108203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1435 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0064563156705413,
+    "ville": "noyon",
+    "cp": "60400"
+  },
+  {
+    "resultId": "12925958",
+    "mail": "petite.enfance@paysnoyonnais.fr",
+    "distance": 99463,
+    "latitude": 49.59816634948734,
+    "telephone": "0344096040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DU PAYS NOYONNAIS",
+    "resultStructId": "108203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1435 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0064563156705413,
+    "ville": "noyon",
+    "cp": "60400"
+  },
+  {
+    "resultId": "29315622",
+    "mail": "petits.tresors@paysnoyonnais.fr",
+    "distance": 101842,
+    "latitude": 49.57585301285311,
+    "telephone": "0364606200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS TRESORS",
+    "resultStructId": "52004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "324 rue du moulin st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0028379712792788,
+    "ville": "noyon",
+    "cp": "60400"
+  }
+]

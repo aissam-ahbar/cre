@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "40988149",
+    "mail": "vielle-saint-girons@creches-calinsdoudou.com",
+    "distance": 95268,
+    "latitude": 43.955495168959914,
+    "telephone": "0637937542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCâlins Doudou",
+    "resultStructId": "213906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "215 rue des palombes 40560 vielle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2992106494422189,
+    "ville": "stgirons",
+    "cp": ""
+  },
+  {
+    "resultId": "12742211",
+    "mail": "petite.enfance@couserans-pyrenees.fr",
+    "distance": 188826,
+    "latitude": 42.97797005581189,
+    "telephone": "0561024415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Babilous",
+    "resultStructId": "399101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade mendes france 09200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1513506594920464,
+    "ville": "stgirons",
+    "cp": ""
+  },
+  {
+    "resultId": "12943588",
+    "mail": "sophie.oundjian@couserans-pyrenees.fr",
+    "distance": 188826,
+    "latitude": 42.97797005581189,
+    "telephone": "0561024417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Picoti Picota",
+    "resultStructId": "225501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade mendes france 09200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1513506594920464,
+    "ville": "stgirons",
+    "cp": ""
+  }
+]

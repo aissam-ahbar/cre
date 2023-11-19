@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12897965",
+    "mail": "halte.garderie@ville-claix.fr",
+    "distance": 429288,
+    "latitude": 45.11808756399787,
+    "telephone": "0476985753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Petit Prince",
+    "resultStructId": "484201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place du petit rochefort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693458731530209,
+    "ville": "claix",
+    "cp": "38640"
+  },
+  {
+    "resultId": "12892762",
+    "mail": "halte.garderie@ville-claix.fr",
+    "distance": 430420,
+    "latitude": 45.119378634303054,
+    "telephone": "0476983540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Coeur Village",
+    "resultStructId": "484101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee du 18 juin 1940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.673583633587241,
+    "ville": "claix",
+    "cp": "38640"
+  },
+  {
+    "resultId": "12897965",
+    "mail": "halte.garderie@ville-claix.fr",
+    "distance": 132401,
+    "latitude": 45.11808756399787,
+    "telephone": "0476985753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Petit Prince",
+    "resultStructId": "484201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place du petit rochefort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693458731530209,
+    "ville": "claix",
+    "cp": "38640"
+  },
+  {
+    "resultId": "12892762",
+    "mail": "halte.garderie@ville-claix.fr",
+    "distance": 132897,
+    "latitude": 45.119378634303054,
+    "telephone": "0476983540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Coeur Village",
+    "resultStructId": "484101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee du 18 juin 1940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.673583633587241,
+    "ville": "claix",
+    "cp": "38640"
+  }
+]

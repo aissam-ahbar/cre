@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12487540",
+    "mail": "cognac.multiaccueil.sautegrenouille@grand-cognac.fr",
+    "distance": 149453,
+    "latitude": 45.68994973782833,
+    "telephone": "0545364514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Saute Grenouille\"",
+    "resultStructId": "134308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue lohmeyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.32225519406039105,
+    "ville": "cognac",
+    "cp": "16100"
+  },
+  {
+    "resultId": "35237016",
+    "mail": "",
+    "distance": 149808,
+    "latitude": 45.692049274494266,
+    "telephone": "0545823957",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "134303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse alphonse daudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.351843031357885,
+    "ville": "cognac",
+    "cp": "16100"
+  },
+  {
+    "resultId": "12556477",
+    "mail": "cognac.multiaccueil.gribouille@grand-cognac.fr",
+    "distance": 149808,
+    "latitude": 45.692049274494266,
+    "telephone": "0545823957",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Gribouille\"",
+    "resultStructId": "134304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse alphonse daudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.351843031357885,
+    "ville": "cognac",
+    "cp": "16100"
+  },
+  {
+    "resultId": "35237941",
+    "mail": "cognac.multiaccueil.boutsdchoux@grand-cognac.fr",
+    "distance": 150182,
+    "latitude": 45.69646923318755,
+    "telephone": "0545353433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil'Bouts d'Choux\"",
+    "resultStructId": "134305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fontenelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.32376226081830967,
+    "ville": "cognac",
+    "cp": "16100"
+  },
+  {
+    "resultId": "60330964",
+    "mail": "monenfant@caf16.caf.fr",
+    "distance": 150350,
+    "latitude": 45.697905956152205,
+    "telephone": "0500000001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- SCAM161 - CAF16 - Test",
+    "resultStructId": "709018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue des enfants de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3260536778150102,
+    "ville": "cognac",
+    "cp": "1616100"
+  }
+]

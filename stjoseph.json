@@ -1,0 +1,962 @@
+[
+  {
+    "resultId": "52118734",
+    "mail": "creche-les-pitchouns@hotmail.com",
+    "distance": 1358333,
+    "latitude": 14.649274928374838,
+    "telephone": "0596579969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PITCHOUNS",
+    "resultStructId": "473001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 lotissement gondeau monrose 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03198306686703,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "46191318",
+    "mail": "les-petites-libellules@orange.fr",
+    "distance": 1360699,
+    "latitude": 14.670248118272518,
+    "telephone": "0596506717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES LIBELLULES",
+    "resultStructId": "315501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "res dany blameble belle-etoile97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723334",
+    "mail": "lemondedestoutpetits@orange.fr",
+    "distance": 1360699,
+    "latitude": 14.670248118272518,
+    "telephone": "0596561898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONDE DES TOUT-PETITS",
+    "resultStructId": "5632",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin morne marc - bois du parc97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723291",
+    "mail": "",
+    "distance": 1360699,
+    "latitude": 14.670248118272518,
+    "telephone": "0596500991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIMERO",
+    "resultStructId": "5631",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartiergondeau - chemin calimero 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "52118734",
+    "mail": "creche-les-pitchouns@hotmail.com",
+    "distance": 1275402,
+    "latitude": 14.649274928374838,
+    "telephone": "0596579969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PITCHOUNS",
+    "resultStructId": "473001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 lotissement gondeau monrose 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03198306686703,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "46191318",
+    "mail": "les-petites-libellules@orange.fr",
+    "distance": 1277730,
+    "latitude": 14.670248118272518,
+    "telephone": "0596506717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES LIBELLULES",
+    "resultStructId": "315501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "res dany blameble belle-etoile97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723334",
+    "mail": "lemondedestoutpetits@orange.fr",
+    "distance": 1277730,
+    "latitude": 14.670248118272518,
+    "telephone": "0596561898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONDE DES TOUT-PETITS",
+    "resultStructId": "5632",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin morne marc - bois du parc97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723291",
+    "mail": "",
+    "distance": 1277730,
+    "latitude": 14.670248118272518,
+    "telephone": "0596500991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIMERO",
+    "resultStructId": "5631",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartiergondeau - chemin calimero 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "52118734",
+    "mail": "creche-les-pitchouns@hotmail.com",
+    "distance": 10150,
+    "latitude": 14.649274928374838,
+    "telephone": "0596579969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PITCHOUNS",
+    "resultStructId": "473001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 lotissement gondeau monrose 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03198306686703,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "46191318",
+    "mail": "les-petites-libellules@orange.fr",
+    "distance": 12535,
+    "latitude": 14.670248118272518,
+    "telephone": "0596506717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES LIBELLULES",
+    "resultStructId": "315501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "res dany blameble belle-etoile97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723334",
+    "mail": "lemondedestoutpetits@orange.fr",
+    "distance": 12535,
+    "latitude": 14.670248118272518,
+    "telephone": "0596561898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONDE DES TOUT-PETITS",
+    "resultStructId": "5632",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin morne marc - bois du parc97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12723291",
+    "mail": "",
+    "distance": 12535,
+    "latitude": 14.670248118272518,
+    "telephone": "0596500991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIMERO",
+    "resultStructId": "5631",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartiergondeau - chemin calimero 97212",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.03964806604909,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12713306",
+    "mail": "bibi.v@wanadoo.fr",
+    "distance": 1463574,
+    "latitude": -21.371652209394693,
+    "telephone": "0262563126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Ti'Zabitans",
+    "resultStructId": "65311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue marius et ary leblond 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61368780408942,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671252",
+    "mail": "yvrin5@orange.fr",
+    "distance": 1463656,
+    "latitude": -21.375558036580422,
+    "telephone": "0262409737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'Tits Babas",
+    "resultStructId": "80402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la creche 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61134108836609,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12603476",
+    "mail": "babyjo123soleil@babyland.re",
+    "distance": 1463687,
+    "latitude": -21.376154580624114,
+    "telephone": "0692675070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babyjo\"1, 2, 3, Soleil\"",
+    "resultStructId": "674539",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la creche 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.6112216179157,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671123",
+    "mail": "english.world@hotmail.fr",
+    "distance": 1463746,
+    "latitude": -21.3770780936966,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World II",
+    "resultStructId": "80403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue roland garros 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61115811580122,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671295",
+    "mail": "english.world@hotmail.fr",
+    "distance": 1463803,
+    "latitude": -21.378289209298305,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World III",
+    "resultStructId": "80501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue roland garros 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61081904672527,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "58309802",
+    "mail": "contact@lespetitspas.re",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Pinpins",
+    "resultStructId": "683404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue joseph adrien badera -batiment a - entree 6 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653270",
+    "mail": "eje.ccas-stjooseph@orange.fr",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0262931730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchemunicipale de Vincendo",
+    "resultStructId": "65307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis chemin du club - vincendo97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12614441",
+    "mail": "english.world@hotmail.fr",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World I",
+    "resultStructId": "65302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse chenieu - le butor 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653141",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0262931730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchemunicipale de Langevin",
+    "resultStructId": "65305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin de la carriere -langevin 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653098",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0262203939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Centre Ville",
+    "resultStructId": "65306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue guy de la ferriere - bas de jeanpetit 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12713048",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheContes et Fleurettes",
+    "resultStructId": "65309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 allee des cormorans -manapany-les-bains 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12673230",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Roses\"",
+    "resultStructId": "65310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 bis chemin des oignons - les jacques97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "21749267",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 1464505,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Lulu fait des siennes\"",
+    "resultStructId": "65401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 route de la grande corniche- manapany 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "31170122",
+    "mail": "babyjovincendo@babyland.re",
+    "distance": 1468339,
+    "latitude": -21.374974587786966,
+    "telephone": "0693119311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyjoTi' Train Vincendo",
+    "resultStructId": "473101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des marsouins 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.66973848524745,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12713306",
+    "mail": "bibi.v@wanadoo.fr",
+    "distance": 53028,
+    "latitude": -21.371652209394693,
+    "telephone": "0262563126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Ti'Zabitans",
+    "resultStructId": "65311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue marius et ary leblond 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61368780408942,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671252",
+    "mail": "yvrin5@orange.fr",
+    "distance": 53422,
+    "latitude": -21.375558036580422,
+    "telephone": "0262409737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'Tits Babas",
+    "resultStructId": "80402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la creche 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61134108836609,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12603476",
+    "mail": "babyjo123soleil@babyland.re",
+    "distance": 53485,
+    "latitude": -21.376154580624114,
+    "telephone": "0692675070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babyjo\"1, 2, 3, Soleil\"",
+    "resultStructId": "674539",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la creche 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.6112216179157,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671123",
+    "mail": "english.world@hotmail.fr",
+    "distance": 53586,
+    "latitude": -21.3770780936966,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World II",
+    "resultStructId": "80403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue roland garros 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61115811580122,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12671295",
+    "mail": "english.world@hotmail.fr",
+    "distance": 53714,
+    "latitude": -21.378289209298305,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World III",
+    "resultStructId": "80501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue roland garros 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61081904672527,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "58309802",
+    "mail": "contact@lespetitspas.re",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Pinpins",
+    "resultStructId": "683404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue joseph adrien badera -batiment a - entree 6 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653270",
+    "mail": "eje.ccas-stjooseph@orange.fr",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0262931730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchemunicipale de Vincendo",
+    "resultStructId": "65307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis chemin du club - vincendo97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12614441",
+    "mail": "english.world@hotmail.fr",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0262314348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby World I",
+    "resultStructId": "65302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse chenieu - le butor 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653141",
+    "mail": "lmaleck@babyland.re",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0262931730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchemunicipale de Langevin",
+    "resultStructId": "65305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin de la carriere -langevin 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12653098",
+    "mail": "lmaleck@babyland.re",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0262203939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Centre Ville",
+    "resultStructId": "65306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue guy de la ferriere - bas de jeanpetit 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12713048",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheContes et Fleurettes",
+    "resultStructId": "65309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 allee des cormorans -manapany-les-bains 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "12673230",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Roses\"",
+    "resultStructId": "65310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 bis chemin des oignons - les jacques97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "21749267",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 53878,
+    "latitude": -21.378566667301897,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Lulu fait des siennes\"",
+    "resultStructId": "65401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 route de la grande corniche- manapany 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.61926583868273,
+    "ville": "stjoseph",
+    "cp": ""
+  },
+  {
+    "resultId": "31170122",
+    "mail": "babyjovincendo@babyland.re",
+    "distance": 54573,
+    "latitude": -21.374974587786966,
+    "telephone": "0693119311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyjoTi' Train Vincendo",
+    "resultStructId": "473101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des marsouins 97480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.66973848524745,
+    "ville": "stjoseph",
+    "cp": ""
+  }
+]

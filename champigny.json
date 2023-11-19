@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12712102",
+    "mail": "la.marelle.champigny@free.fr",
+    "distance": 72745,
+    "latitude": 49.26709529447283,
+    "telephone": "0326791940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Marelle Champigny",
+    "resultStructId": "5341",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.972177765969541,
+    "ville": "champigny",
+    "cp": "51370"
+  },
+  {
+    "resultId": "57112277",
+    "mail": "dir.lesminipousses@leaetleo.com",
+    "distance": 72824,
+    "latitude": 49.26837859996365,
+    "telephone": "0326796428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMini Pousses",
+    "resultStructId": "671913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee jean marie amelin - batiment b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.973063561181903,
+    "ville": "champigny",
+    "cp": "51370"
+  },
+  {
+    "resultId": "57112277",
+    "mail": "dir.lesminipousses@leaetleo.com",
+    "distance": 161333,
+    "latitude": 49.26837859996365,
+    "telephone": "0326796428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMini Pousses",
+    "resultStructId": "671913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee jean marie amelin - batiment b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.973063561181903,
+    "ville": "champigny",
+    "cp": "51370"
+  },
+  {
+    "resultId": "12712102",
+    "mail": "la.marelle.champigny@free.fr",
+    "distance": 161417,
+    "latitude": 49.26709529447283,
+    "telephone": "0326791940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Marelle Champigny",
+    "resultStructId": "5341",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.972177765969541,
+    "ville": "champigny",
+    "cp": "51370"
+  }
+]

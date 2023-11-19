@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "59898108",
+    "mail": "lpaec@edenbabypark.com",
+    "distance": 169915,
+    "latitude": 48.95750483028969,
+    "telephone": "0148950534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEEDEN BABY LES PETITS ARCS EN CIEL DUGNY",
+    "resultStructId": "701014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jacqueset sebastien lorenzi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.421389599343189,
+    "ville": "dugny",
+    "cp": "93440"
+  },
+  {
+    "resultId": "12630480",
+    "mail": "",
+    "distance": 170233,
+    "latitude": 48.95477852083749,
+    "telephone": "0171294468",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Guynemer\"",
+    "resultStructId": "116219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4194814503540005,
+    "ville": "dugny",
+    "cp": "93440"
+  },
+  {
+    "resultId": "12663082",
+    "mail": "magali.gunoo@mairie-dugny.fr",
+    "distance": 170258,
+    "latitude": 48.95452033400494,
+    "telephone": "0149926610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \" Les Cigognes\"",
+    "resultStructId": "702225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue guynemer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4198547306918647,
+    "ville": "dugny",
+    "cp": "93440"
+  }
+]

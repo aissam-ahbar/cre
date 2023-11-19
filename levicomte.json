@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "35142514",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 180133,
+    "latitude": 48.54799556956822,
+    "telephone": "0970160721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS FONTENAY LE VICOMTE",
+    "resultStructId": "414101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de l'orme 91540fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.407522186545509,
+    "ville": "levicomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12959713",
+    "mail": "petiteenfance@larochesuryon.fr",
+    "distance": 107375,
+    "latitude": 46.67232997173962,
+    "telephone": "0251474866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Abricadabra",
+    "resultStructId": "689817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedes ecoliers 85310 la chaize",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.289398543636087,
+    "ville": "levicomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12959713",
+    "mail": "petiteenfance@larochesuryon.fr",
+    "distance": 107375,
+    "latitude": 46.67232997173962,
+    "telephone": "0251474866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Abricadabra",
+    "resultStructId": "689817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedes ecoliers 85310 la chaize",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.289398543636087,
+    "ville": "levicomte",
+    "cp": ""
+  }
+]

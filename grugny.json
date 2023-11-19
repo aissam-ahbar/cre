@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12835908",
+    "mail": "creche@epd-grugny.fr",
+    "distance": 149334,
+    "latitude": 49.620819973634916,
+    "telephone": "0232938023",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUTS D'CHOUX",
+    "resultStructId": "196203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "634 rue andre martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1031335806235627,
+    "ville": "grugny",
+    "cp": "76690"
+  },
+  {
+    "resultId": "12835908",
+    "mail": "creche@epd-grugny.fr",
+    "distance": 140449,
+    "latitude": 49.620819973634916,
+    "telephone": "0232938023",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUTS D'CHOUX",
+    "resultStructId": "196203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "634 rue andre martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1031335806235627,
+    "ville": "grugny",
+    "cp": "76690"
+  }
+]

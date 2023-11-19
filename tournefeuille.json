@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12488185",
+    "mail": "crecheteh@gmail.com",
+    "distance": 150027,
+    "latitude": 43.591738916006285,
+    "telephone": "0561303085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTournefeuille en Herbe",
+    "resultStructId": "75809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 chemin de fournaulis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.316077491008426,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13064297",
+    "mail": "grainedelutins@mairie-tournefeuille.fr",
+    "distance": 150893,
+    "latitude": 43.57544681748368,
+    "telephone": "0561863892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE Graine de lutins",
+    "resultStructId": "189908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 boulevard alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3134985027694739,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13064340",
+    "mail": "grainedelutins@mairie-tournefeuille.fr",
+    "distance": 150893,
+    "latitude": 43.57544681748368,
+    "telephone": "0561863892",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrecheGraine de Lutins",
+    "resultStructId": "673625",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 boulevard alain savary",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3134985027694739,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13064254",
+    "mail": "crecheileauxbambins@mairie-tournefeuille.fr",
+    "distance": 151738,
+    "latitude": 43.58604723689264,
+    "telephone": "0562489157",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchel'Ile aux Bambins",
+    "resultStructId": "673627",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue george sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3364590669546936,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13064426",
+    "mail": "les.ptits.bouts.du.touch@wanadoo.fr",
+    "distance": 152293,
+    "latitude": 43.58323651373458,
+    "telephone": "0561072239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Bouts du Touch",
+    "resultStructId": "697601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue belbeze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3421538460883384,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13064383",
+    "mail": "crechemoulincalin@mairie-tournefeuille.fr",
+    "distance": 152611,
+    "latitude": 43.58919473272703,
+    "telephone": "0534521919",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MoulinCâlin",
+    "resultStructId": "673626",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3525379111308669,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "13018064",
+    "mail": "tournefeuille@creche-la-maison-bleu.fr",
+    "distance": 152633,
+    "latitude": 43.58825995612642,
+    "telephone": "0963654358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Arc En Ciel",
+    "resultStructId": "638401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 boulevard vincent auriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3519906883944048,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  },
+  {
+    "resultId": "39018989",
+    "mail": "lespetitscalinssucres@gmail.com",
+    "distance": 154157,
+    "latitude": 43.56061849389425,
+    "telephone": "0754359566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits câlins sucrés",
+    "resultStructId": "673701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 chemin de larramet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3486365187778946,
+    "ville": "tournefeuille",
+    "cp": "31170"
+  }
+]

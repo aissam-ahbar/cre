@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12633490",
+    "mail": "contact@creche-pleinsud.fr",
+    "distance": 57366,
+    "latitude": 48.10651187248042,
+    "telephone": "0299755190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil collectif - Ass Plein Sud - Vitré",
+    "resultStructId": "689406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevarddenis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2124565509422718,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "39972938",
+    "mail": "hpichot@achilleetcamille.com",
+    "distance": 57525,
+    "latitude": 48.1073179535018,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille et Camille - SARL Doudou & Cie -Vitré",
+    "resultStructId": "199505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 b boulevard denis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2156933077282974,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "12915208",
+    "mail": "asteroide@asteroide-b-612.fr",
+    "distance": 57579,
+    "latitude": 48.110380943377486,
+    "telephone": "0299758155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental - Ass Astéroïde B612 - Vitré",
+    "resultStructId": "558001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard renecrinon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2035269468894114,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "58616979",
+    "mail": "contact@lacabanedespetitsloups.fr",
+    "distance": 57881,
+    "latitude": 48.109720560464744,
+    "telephone": "0299963571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane des Petits Loups - Société - Vitré",
+    "resultStructId": "686703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dufougeray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2201651015428676,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "13065157",
+    "mail": "karine.gasdoue@centresocialdevitre.fr",
+    "distance": 58545,
+    "latitude": 48.11955748337368,
+    "telephone": "0299744859",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa Malabizou - Vitré",
+    "resultStructId": "699606",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 allee de la hodeyere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2029775763697177,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "37739386",
+    "mail": "contact@vivamini.fr",
+    "distance": 59683,
+    "latitude": 48.12507828719181,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Vitré",
+    "resultStructId": "541503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue liliane ackermann",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2278796611405207,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "13065157",
+    "mail": "karine.gasdoue@centresocialdevitre.fr",
+    "distance": 103256,
+    "latitude": 48.11955748337368,
+    "telephone": "0299744859",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa Malabizou - Vitré",
+    "resultStructId": "699606",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 allee de la hodeyere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2029775763697177,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "37739386",
+    "mail": "contact@vivamini.fr",
+    "distance": 103634,
+    "latitude": 48.12507828719181,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Vitré",
+    "resultStructId": "541503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue liliane ackermann",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2278796611405207,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "12915208",
+    "mail": "asteroide@asteroide-b-612.fr",
+    "distance": 104169,
+    "latitude": 48.110380943377486,
+    "telephone": "0299758155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental - Ass Astéroïde B612 - Vitré",
+    "resultStructId": "558001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard renecrinon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2035269468894114,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "58616979",
+    "mail": "contact@lacabanedespetitsloups.fr",
+    "distance": 104833,
+    "latitude": 48.109720560464744,
+    "telephone": "0299963571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane des Petits Loups - Société - Vitré",
+    "resultStructId": "686703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dufougeray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2201651015428676,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "12633490",
+    "mail": "contact@creche-pleinsud.fr",
+    "distance": 104866,
+    "latitude": 48.10651187248042,
+    "telephone": "0299755190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil collectif - Ass Plein Sud - Vitré",
+    "resultStructId": "689406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevarddenis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2124565509422718,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "39972938",
+    "mail": "hpichot@achilleetcamille.com",
+    "distance": 104905,
+    "latitude": 48.1073179535018,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille et Camille - SARL Doudou & Cie -Vitré",
+    "resultStructId": "199505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 b boulevard denis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2156933077282974,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "12633490",
+    "mail": "contact@creche-pleinsud.fr",
+    "distance": 57366,
+    "latitude": 48.10651187248042,
+    "telephone": "0299755190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil collectif - Ass Plein Sud - Vitré",
+    "resultStructId": "689406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevarddenis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2124565509422718,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "39972938",
+    "mail": "hpichot@achilleetcamille.com",
+    "distance": 57525,
+    "latitude": 48.1073179535018,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille et Camille - SARL Doudou & Cie -Vitré",
+    "resultStructId": "199505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 b boulevard denis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2156933077282974,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "12915208",
+    "mail": "asteroide@asteroide-b-612.fr",
+    "distance": 57579,
+    "latitude": 48.110380943377486,
+    "telephone": "0299758155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental - Ass Astéroïde B612 - Vitré",
+    "resultStructId": "558001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard renecrinon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2035269468894114,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "58616979",
+    "mail": "contact@lacabanedespetitsloups.fr",
+    "distance": 57881,
+    "latitude": 48.109720560464744,
+    "telephone": "0299963571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane des Petits Loups - Société - Vitré",
+    "resultStructId": "686703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dufougeray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2201651015428676,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "13065157",
+    "mail": "karine.gasdoue@centresocialdevitre.fr",
+    "distance": 58545,
+    "latitude": 48.11955748337368,
+    "telephone": "0299744859",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa Malabizou - Vitré",
+    "resultStructId": "699606",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 allee de la hodeyere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2029775763697177,
+    "ville": "vitre",
+    "cp": "35500"
+  },
+  {
+    "resultId": "37739386",
+    "mail": "contact@vivamini.fr",
+    "distance": 59683,
+    "latitude": 48.12507828719181,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Vitré",
+    "resultStructId": "541503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue liliane ackermann",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2278796611405207,
+    "ville": "vitre",
+    "cp": "35500"
+  }
+]

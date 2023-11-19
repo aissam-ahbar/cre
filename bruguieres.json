@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12635167",
+    "mail": "euronord@babilou.com",
+    "distance": 148080,
+    "latitude": 43.72050448833912,
+    "telephone": "0534277856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouEuronord",
+    "resultStructId": "676805",
+    "omegaId": "47507",
+    "avip": false,
+    "adresse": "7 rue gutenberg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3972484917469274,
+    "ville": "bruguieres",
+    "cp": "31150"
+  },
+  {
+    "resultId": "13059696",
+    "mail": "creche@mairie-bruguieres.fr",
+    "distance": 148815,
+    "latitude": 43.728198513896345,
+    "telephone": "0561823528",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES 3 POMMES",
+    "resultStructId": "95832",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 parc de xeraco",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4134062801120584,
+    "ville": "bruguieres",
+    "cp": "31150"
+  }
+]

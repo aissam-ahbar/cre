@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "55301677",
+    "mail": "saintjeandemonts@lesptitsbabadins.com",
+    "distance": 120648,
+    "latitude": 46.79200201154596,
+    "telephone": "0279400626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Babadins de St Jean de Monts",
+    "resultStructId": "663204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue deschevilles 85160 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.021089466262508,
+    "ville": "demonts",
+    "cp": ""
+  },
+  {
+    "resultId": "12950726",
+    "mail": "frimousse@mairie-saintjeandemonts.fr",
+    "distance": 123741,
+    "latitude": 46.78662635783794,
+    "telephone": "0251582500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Frimousse\"",
+    "resultStructId": "674606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue neuve 85160 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.074071475642592,
+    "ville": "demonts",
+    "cp": ""
+  },
+  {
+    "resultId": "55301677",
+    "mail": "saintjeandemonts@lesptitsbabadins.com",
+    "distance": 120648,
+    "latitude": 46.79200201154596,
+    "telephone": "0279400626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Babadins de St Jean de Monts",
+    "resultStructId": "663204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue deschevilles 85160 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.021089466262508,
+    "ville": "demonts",
+    "cp": ""
+  },
+  {
+    "resultId": "12950726",
+    "mail": "frimousse@mairie-saintjeandemonts.fr",
+    "distance": 123741,
+    "latitude": 46.78662635783794,
+    "telephone": "0251582500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Frimousse\"",
+    "resultStructId": "674606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue neuve 85160 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.074071475642592,
+    "ville": "demonts",
+    "cp": ""
+  }
+]

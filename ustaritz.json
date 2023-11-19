@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58974058",
+    "mail": "creche.ppsr@gmail.com",
+    "distance": 143204,
+    "latitude": 43.42243787052316,
+    "telephone": "0559636824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Petits pois sont rouges",
+    "resultStructId": "693215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "386 route du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4808830663767152,
+    "ville": "ustaritz",
+    "cp": "64480"
+  },
+  {
+    "resultId": "12955800",
+    "mail": "urraska@wanadoo.fr",
+    "distance": 143899,
+    "latitude": 43.39699110994664,
+    "telephone": "0559932828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheURRASKA",
+    "resultStructId": "33412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 place du labourd",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.455939824985067,
+    "ville": "ustaritz",
+    "cp": "64480"
+  }
+]

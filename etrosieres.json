@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12633576",
+    "mail": "nnoulez@utas.fr",
+    "distance": 44537,
+    "latitude": 50.44513873476153,
+    "telephone": "0327332269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetitPatapon",
+    "resultStructId": "3515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de l'epau 59230 sars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.346699741097238,
+    "ville": "etrosieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12789296",
+    "mail": "pausedoudou@sivs.fr",
+    "distance": 44537,
+    "latitude": 50.44513873476153,
+    "telephone": "0327352008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Pause Doudou",
+    "resultStructId": "7166",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de l'epau 59230 sars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.346699741097238,
+    "ville": "etrosieres",
+    "cp": ""
+  }
+]

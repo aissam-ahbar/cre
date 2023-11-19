@@ -1,0 +1,770 @@
+[
+  {
+    "resultId": "12612119",
+    "mail": "association.grain-de-sel@orange.fr",
+    "distance": 70491,
+    "latitude": 49.07096143774849,
+    "telephone": "0326583827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Grain de sel Mareuil le Port",
+    "resultStructId": "334701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place kennedy51700 mareuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.730040827809881,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12612119",
+    "mail": "association.grain-de-sel@orange.fr",
+    "distance": 172012,
+    "latitude": 49.07096143774849,
+    "telephone": "0326583827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Grain de sel Mareuil le Port",
+    "resultStructId": "334701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place kennedy51700 mareuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.730040827809881,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12629233",
+    "mail": "les-petits-pandas@wannadoo.fr",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262435270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Pandas",
+    "resultStructId": "620902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue joseph massonel - zac desmascareignes 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "58074392",
+    "mail": "contact@lespetitspas.re",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Tamarins",
+    "resultStructId": "682611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue eugene adois - riviere desgalets 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12563658",
+    "mail": "ccas@ville-port.re",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262433365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants municipal du Port",
+    "resultStructId": "62716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue louis aragon - zacii - centre de l'enfance et de la famille 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "21804485",
+    "mail": "lespetitspandas@yahoo.fr",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262252602",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBambou Pandas",
+    "resultStructId": "62908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue amilcar cabral - bat 11 sidr emilezola 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12601928",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262421356",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Lé Zazakel\"",
+    "resultStructId": "62910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 allee montaigne - apt 33 -bat b 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12602057",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262550883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin d'Eveil",
+    "resultStructId": "63311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue salvador allende - residence lesheliotropes 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12681228",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1407146,
+    "latitude": -20.935271624852408,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go \"Parc 2000\"",
+    "resultStructId": "36946",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue theodore drouet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": "97420"
+  },
+  {
+    "resultId": "12603433",
+    "mail": "ccas@ville-port.re",
+    "distance": 1407405,
+    "latitude": -20.94180518418804,
+    "telephone": "0262420993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheIsnelle AMELIN",
+    "resultStructId": "62715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue ambroise croizat 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28793814137141,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12629190",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 1407974,
+    "latitude": -20.945187979358227,
+    "telephone": "0262439112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Quatre Epices\"",
+    "resultStructId": "62909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue titan 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29205955319106,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "13002627",
+    "mail": "directionlespetitspas@gmail.com",
+    "distance": 1408196,
+    "latitude": -20.93811959323193,
+    "telephone": "0262186163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePaille en queue 1",
+    "resultStructId": "63313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue du pere lafosse 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30072192299754,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "13002670",
+    "mail": "directionlespetitspas@gmail.com",
+    "distance": 1408287,
+    "latitude": -20.93838898644949,
+    "telephone": "0262186163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePaille en queue 2",
+    "resultStructId": "63401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du pere lafosse 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30160620444051,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "57315683",
+    "mail": "lespetitsoursons1@gmail.com",
+    "distance": 1408306,
+    "latitude": -20.934758144476408,
+    "telephone": "0692883490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Petits Oursons 1",
+    "resultStructId": "674411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee edmond albius 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30489633991047,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "33191076",
+    "mail": "pandasnature@gmail.com",
+    "distance": 1411050,
+    "latitude": -20.957895249846377,
+    "telephone": "0262440050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePandas Nature",
+    "resultStructId": "100001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue joseph richard 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.31904881196469,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "33191283",
+    "mail": "pandaszen1@gmail.com",
+    "distance": 1411050,
+    "latitude": -20.957895249846377,
+    "telephone": "0262440379",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePandas Zen",
+    "resultStructId": "100002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue joseph richard 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.31904881196469,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12565679",
+    "mail": "association-coccinelles@orange.fr",
+    "distance": 1411342,
+    "latitude": -20.960956606005965,
+    "telephone": "0262439033",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Coccinelles",
+    "resultStructId": "691402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue karl marx 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.320048709381055,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12565679",
+    "mail": "association-coccinelles@orange.fr",
+    "distance": 23431,
+    "latitude": -20.960956606005965,
+    "telephone": "0262439033",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Coccinelles",
+    "resultStructId": "691402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue karl marx 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.320048709381055,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "33191076",
+    "mail": "pandasnature@gmail.com",
+    "distance": 23435,
+    "latitude": -20.957895249846377,
+    "telephone": "0262440050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePandas Nature",
+    "resultStructId": "100001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue joseph richard 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.31904881196469,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "33191283",
+    "mail": "pandaszen1@gmail.com",
+    "distance": 23435,
+    "latitude": -20.957895249846377,
+    "telephone": "0262440379",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePandas Zen",
+    "resultStructId": "100002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue joseph richard 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.31904881196469,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "57315683",
+    "mail": "lespetitsoursons1@gmail.com",
+    "distance": 24318,
+    "latitude": -20.934758144476408,
+    "telephone": "0692883490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Petits Oursons 1",
+    "resultStructId": "674411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee edmond albius 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30489633991047,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "13002670",
+    "mail": "directionlespetitspas@gmail.com",
+    "distance": 24721,
+    "latitude": -20.93838898644949,
+    "telephone": "0262186163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePaille en queue 2",
+    "resultStructId": "63401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du pere lafosse 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30160620444051,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "13002627",
+    "mail": "directionlespetitspas@gmail.com",
+    "distance": 24807,
+    "latitude": -20.93811959323193,
+    "telephone": "0262186163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePaille en queue 1",
+    "resultStructId": "63313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue du pere lafosse 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30072192299754,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12629233",
+    "mail": "les-petits-pandas@wannadoo.fr",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262435270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Pandas",
+    "resultStructId": "620902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue joseph massonel - zac desmascareignes 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "58074392",
+    "mail": "contact@lespetitspas.re",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Tamarins",
+    "resultStructId": "682611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue eugene adois - riviere desgalets 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12563658",
+    "mail": "ccas@ville-port.re",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262433365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants municipal du Port",
+    "resultStructId": "62716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue louis aragon - zacii - centre de l'enfance et de la famille 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "21804485",
+    "mail": "lespetitspandas@yahoo.fr",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262252602",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBambou Pandas",
+    "resultStructId": "62908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue amilcar cabral - bat 11 sidr emilezola 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12601928",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262421356",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Lé Zazakel\"",
+    "resultStructId": "62910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 allee montaigne - apt 33 -bat b 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12602057",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262550883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin d'Eveil",
+    "resultStructId": "63311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue salvador allende - residence lesheliotropes 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12681228",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 25828,
+    "latitude": -20.935271624852408,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go \"Parc 2000\"",
+    "resultStructId": "36946",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue theodore drouet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29026675289448,
+    "ville": "leport",
+    "cp": "97420"
+  },
+  {
+    "resultId": "12629190",
+    "mail": "a-p-e-f@wanadoo.fr",
+    "distance": 25834,
+    "latitude": -20.945187979358227,
+    "telephone": "0262439112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Quatre Epices\"",
+    "resultStructId": "62909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue titan 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29205955319106,
+    "ville": "leport",
+    "cp": ""
+  },
+  {
+    "resultId": "12603433",
+    "mail": "ccas@ville-port.re",
+    "distance": 26185,
+    "latitude": -20.94180518418804,
+    "telephone": "0262420993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheIsnelle AMELIN",
+    "resultStructId": "62715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue ambroise croizat 97420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28793814137141,
+    "ville": "leport",
+    "cp": ""
+  }
+]

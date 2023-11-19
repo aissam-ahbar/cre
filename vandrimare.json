@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13067565",
+    "mail": "creche-oisillon@wanadoo.fr",
+    "distance": 156342,
+    "latitude": 49.38009115168464,
+    "telephone": "0232490396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Oisillon(Vandrimare)",
+    "resultStructId": "13637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3457596254866526,
+    "ville": "vandrimare",
+    "cp": "27380"
+  },
+  {
+    "resultId": "13067565",
+    "mail": "creche-oisillon@wanadoo.fr",
+    "distance": 144446,
+    "latitude": 49.38009115168464,
+    "telephone": "0232490396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Oisillon(Vandrimare)",
+    "resultStructId": "13637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3457596254866526,
+    "ville": "vandrimare",
+    "cp": "27380"
+  }
+]

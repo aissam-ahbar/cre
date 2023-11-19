@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12626825",
+    "mail": "petiteenfance@saintbrice95.fr",
+    "distance": 165384,
+    "latitude": 49.004240254729794,
+    "telephone": "0134294272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "3358",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue mozart 95350 st brice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3605377089663078,
+    "ville": "sousforet",
+    "cp": ""
+  },
+  {
+    "resultId": "12626782",
+    "mail": "petiteenfance@saintbrice95.fr",
+    "distance": 166151,
+    "latitude": 48.99760416071912,
+    "telephone": "0134294272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie",
+    "resultStructId": "3357",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des muriers - centre de l'enfance 95350 stbrice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3572155108567547,
+    "ville": "sousforet",
+    "cp": ""
+  },
+  {
+    "resultId": "12626739",
+    "mail": "petiteenfance@saintbrice95.fr",
+    "distance": 166151,
+    "latitude": 48.99760416071912,
+    "telephone": "0134294272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3356",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des muriers - centre de l'enfance 95350st brice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3572155108567547,
+    "ville": "sousforet",
+    "cp": ""
+  }
+]

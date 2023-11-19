@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57684535",
+    "mail": "mpe@ville-sangatte.fr",
+    "distance": 82993,
+    "latitude": 50.95940407971377,
+    "telephone": "0321363438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance Françoise Dolto - LesMoussaillons",
+    "resultStructId": "677813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du docteur drujon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8244149305274606,
+    "ville": "sangatte",
+    "cp": "62231"
+  },
+  {
+    "resultId": "13019010",
+    "mail": "mpe@ville-sangatte.fr",
+    "distance": 83042,
+    "latitude": 50.95868279024226,
+    "telephone": "0321363438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance Françoise Dolto - Les P'titsMousses",
+    "resultStructId": "677817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du docteur druyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8225184159871766,
+    "ville": "sangatte",
+    "cp": "62231"
+  }
+]

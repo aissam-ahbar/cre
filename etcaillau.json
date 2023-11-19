@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "12734944",
+    "mail": "poleenfancegalipette@gmail.com",
+    "distance": 59126,
+    "latitude": 44.87034112544571,
+    "telephone": "0556725186",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil GALIPETTE",
+    "resultStructId": "686407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 bourg de beychac 33750 beychac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3712005377239478,
+    "ville": "etcaillau",
+    "cp": ""
+  },
+  {
+    "resultId": "18178219",
+    "mail": "laptitegalipette@gmail.com",
+    "distance": 59207,
+    "latitude": 44.87083100900732,
+    "telephone": "0557047537",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEGALIPETTE",
+    "resultStructId": "686408",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "19 route dela trappe 33750 beychac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.373140022414255,
+    "ville": "etcaillau",
+    "cp": ""
+  }
+]

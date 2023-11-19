@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13058922",
+    "mail": "brindeveil@mutualite-mhg.fr",
+    "distance": 156685,
+    "latitude": 43.37289766847784,
+    "telephone": "0561765999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brind'Eveil",
+    "resultStructId": "675710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "225 chemin du moulin a vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1746827731752245,
+    "ville": "berat",
+    "cp": "31370"
+  }
+]

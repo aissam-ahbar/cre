@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13061115",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 173604,
+    "latitude": 43.46521009646298,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "94301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du ruisseau de fontbazi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.550934791321318,
+    "ville": "donneville",
+    "cp": "31450"
+  },
+  {
+    "resultId": "13061115",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 189690,
+    "latitude": 43.46521009646298,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "94301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du ruisseau de fontbazi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.550934791321318,
+    "ville": "donneville",
+    "cp": "31450"
+  }
+]

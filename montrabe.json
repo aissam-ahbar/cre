@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13018408",
+    "mail": "hakoonamatata31850@gmail.com",
+    "distance": 160119,
+    "latitude": 43.64779118340029,
+    "telephone": "0561225607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEHAKOONA MATATA",
+    "resultStructId": "587001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee de longueterre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5125892991535583,
+    "ville": "montrabe",
+    "cp": "31850"
+  },
+  {
+    "resultId": "12726301",
+    "mail": "creche@mairie-montrabe.fr",
+    "distance": 161161,
+    "latitude": 43.64447246347459,
+    "telephone": "0561847385",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchemunicipale \"Les Galopins Montrabéens\"",
+    "resultStructId": "641901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5248887955137673,
+    "ville": "montrabe",
+    "cp": "31850"
+  },
+  {
+    "resultId": "12726301",
+    "mail": "creche@mairie-montrabe.fr",
+    "distance": 190993,
+    "latitude": 43.64447246347459,
+    "telephone": "0561847385",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchemunicipale \"Les Galopins Montrabéens\"",
+    "resultStructId": "641901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5248887955137673,
+    "ville": "montrabe",
+    "cp": "31850"
+  },
+  {
+    "resultId": "13018408",
+    "mail": "hakoonamatata31850@gmail.com",
+    "distance": 191988,
+    "latitude": 43.64779118340029,
+    "telephone": "0561225607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEHAKOONA MATATA",
+    "resultStructId": "587001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee de longueterre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5125892991535583,
+    "ville": "montrabe",
+    "cp": "31850"
+  }
+]

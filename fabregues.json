@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12791145",
+    "mail": "creche.lespremierspas@famillesrurales.org",
+    "distance": 68333,
+    "latitude": 43.548311804656905,
+    "telephone": "0467851708",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Premiers Pas",
+    "resultStructId": "49007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7779172963608523,
+    "ville": "fabregues",
+    "cp": "34690"
+  },
+  {
+    "resultId": "34736109",
+    "mail": "beebabyconcept.microcreche@gmail.com",
+    "distance": 68348,
+    "latitude": 43.5484786757793,
+    "telephone": "0768545417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BeeBabyConcept",
+    "resultStructId": "126001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7777245059692297,
+    "ville": "fabregues",
+    "cp": "34690"
+  },
+  {
+    "resultId": "12791145",
+    "mail": "creche.lespremierspas@famillesrurales.org",
+    "distance": 11087,
+    "latitude": 43.548311804656905,
+    "telephone": "0467851708",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Premiers Pas",
+    "resultStructId": "49007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7779172963608523,
+    "ville": "fabregues",
+    "cp": "34690"
+  },
+  {
+    "resultId": "34736109",
+    "mail": "beebabyconcept.microcreche@gmail.com",
+    "distance": 11091,
+    "latitude": 43.5484786757793,
+    "telephone": "0768545417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BeeBabyConcept",
+    "resultStructId": "126001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7777245059692297,
+    "ville": "fabregues",
+    "cp": "34690"
+  }
+]

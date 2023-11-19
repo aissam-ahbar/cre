@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58009667",
+    "mail": "contact@lamaisondepilou.fr",
+    "distance": 158256,
+    "latitude": 45.897984247178755,
+    "telephone": "0478290226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison de Pilou Genay",
+    "resultStructId": "681801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "662 rue des joncheres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8209564996165675,
+    "ville": "genay",
+    "cp": "69730"
+  },
+  {
+    "resultId": "34074552",
+    "mail": "lemanege.enchante@leolagrange.org",
+    "distance": 158665,
+    "latitude": 45.89817612637736,
+    "telephone": "0478982913",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Pôle Petite Enfance Le Manège Enchanté",
+    "resultStructId": "210402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 placecolette besson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.838172658402006,
+    "ville": "genay",
+    "cp": "69730"
+  }
+]

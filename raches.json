@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12643208",
+    "mail": "lesgalopins@laposte.net",
+    "distance": 30063,
+    "latitude": 50.41626172822051,
+    "telephone": "0672940842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins (Itinérant)",
+    "resultStructId": "3739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.134084055915857,
+    "ville": "raches",
+    "cp": "59194"
+  }
+]

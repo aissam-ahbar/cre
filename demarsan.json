@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12929441",
+    "mail": "petite-enfance@cc-villeneuvedemarsan.com",
+    "distance": 50687,
+    "latitude": 43.894283989649125,
+    "telephone": "0558034350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Villeneuve de Marsan",
+    "resultStructId": "576608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la birole 40190villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.30872529413208666,
+    "ville": "demarsan",
+    "cp": ""
+  },
+  {
+    "resultId": "12545426",
+    "mail": "direction.usagers@ch-mt-marsan.fr",
+    "distance": 53413,
+    "latitude": 43.899259601106756,
+    "telephone": "0558051187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif Barbe d'Or Mont de Marsan",
+    "resultStructId": "183802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 ter avenue debarbe d'or 40000 mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4787650831058702,
+    "ville": "demarsan",
+    "cp": ""
+  },
+  {
+    "resultId": "57881799",
+    "mail": "smamontdemarsan@igesa.fr",
+    "distance": 53546,
+    "latitude": 43.904014208979326,
+    "telephone": "0495553076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Ecureuils",
+    "resultStructId": "706806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1281 avenue de noneres 40000 mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4995352772413114,
+    "ville": "demarsan",
+    "cp": ""
+  },
+  {
+    "resultId": "12793983",
+    "mail": "laurence.valero@ccas-montdemarsan.fr",
+    "distance": 54134,
+    "latitude": 43.895119041451146,
+    "telephone": "0558447053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Bourg-Neuf",
+    "resultStructId": "266901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "240 avenue pasteur 40000 mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4887806103700215,
+    "ville": "demarsan",
+    "cp": ""
+  },
+  {
+    "resultId": "12659978",
+    "mail": "laurence.valero@ccas-montdemarsan.fr",
+    "distance": 54267,
+    "latitude": 43.89962437448478,
+    "telephone": "0558757921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Peyrouat Mont de Marsan",
+    "resultStructId": "266801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "420 avenue du peyrouat 40000mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5081613421986628,
+    "ville": "demarsan",
+    "cp": ""
+  }
+]

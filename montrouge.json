@@ -1,0 +1,626 @@
+[
+  {
+    "resultId": "12497180",
+    "mail": "cr.11novembre@ville-montrouge.fr",
+    "distance": 4145,
+    "latitude": 48.82007408483547,
+    "telephone": "0146127663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE DU ONZE NOVEMBRE",
+    "resultStructId": "88520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 /5 rue du onze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.316834291059948,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497610",
+    "mail": "je.onzenovembre@ville-montrouge.fr",
+    "distance": 4153,
+    "latitude": 48.82000807447726,
+    "telephone": "0146127283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND''ENFANTS DU ONZE NOVEMBRE",
+    "resultStructId": "71412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du onze novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3167341928826954,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "30635063",
+    "mail": "lechemindesenfants@orange.fr",
+    "distance": 4202,
+    "latitude": 48.819870395125406,
+    "telephone": "0146563145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECHEMIN DES ENFANTS",
+    "resultStructId": "67001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "90 rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.312216230391141,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497352",
+    "mail": "cr.familiale@ville-montrouge.fr",
+    "distance": 4213,
+    "latitude": 48.8193891655099,
+    "telephone": "0146127665",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE GILLON",
+    "resultStructId": "71404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30/36 rue du colonel gillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.319427290193527,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "32042321",
+    "mail": "cr.messier@ville-montrouge.fr",
+    "distance": 4213,
+    "latitude": 48.8193891655099,
+    "telephone": "0146127665",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLES PETITS ARTISTES",
+    "resultStructId": "88418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30/36 rue du colonel gillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.319427290193527,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497567",
+    "mail": "je.oliviers@ville-montrouge.fr",
+    "distance": 4331,
+    "latitude": 48.8183564062436,
+    "telephone": "0146127220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS LES OLIVIERS",
+    "resultStructId": "71411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43/47 avenue henri ginoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.322665986996307,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497266",
+    "mail": "cr.scandas@ville-montrouge.fr",
+    "distance": 4466,
+    "latitude": 48.81716751099341,
+    "telephone": "0146127669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SYLVINECANDAS",
+    "resultStructId": "71403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue marcelin berthelot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3171347252805923,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "22972269",
+    "mail": "contact@tilloucreche.com",
+    "distance": 4523,
+    "latitude": 48.817023790621214,
+    "telephone": "0146664413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TILLOUMONTROUGE ARNOUX",
+    "resultStructId": "710114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue maurice arnoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3114814031569213,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497524",
+    "mail": "je.boileau@ville-montrouge.fr",
+    "distance": 4576,
+    "latitude": 48.816476097658104,
+    "telephone": "0146127618",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS BOILEAU",
+    "resultStructId": "71405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la vanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.328607742993695,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497653",
+    "mail": "je.vanne@ville-montrouge.fr",
+    "distance": 4576,
+    "latitude": 48.816476097658104,
+    "telephone": "0146127282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS DE LA VANNE",
+    "resultStructId": "71406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la vanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.328607742993695,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "33734023",
+    "mail": "contact@babilou.com",
+    "distance": 4668,
+    "latitude": 48.815384381508444,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUMONTROUGE VERDIER",
+    "resultStructId": "425905",
+    "omegaId": "17237",
+    "avip": false,
+    "adresse": "37 avenue verdier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3161886311428157,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12502211",
+    "mail": "cr.adgaulle@ville-montrouge.fr",
+    "distance": 4678,
+    "latitude": 48.815488907416295,
+    "telephone": "0146127664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ANNEDE GAULLE",
+    "resultStructId": "71402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 boulevard du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3277793179397412,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "33733854",
+    "mail": "contact@babilou.com",
+    "distance": 4808,
+    "latitude": 48.81427280420963,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUMONTROUGE BRIAND",
+    "resultStructId": "425803",
+    "omegaId": "8012",
+    "avip": false,
+    "adresse": "93 avenue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.327273297865995,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497481",
+    "mail": "je.105ginoux@ville-montrouge.fr",
+    "distance": 4820,
+    "latitude": 48.81392973402424,
+    "telephone": "0146127220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS HENRI GINOUX",
+    "resultStructId": "71407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 avenue henri ginoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.320222356181863,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12837026",
+    "mail": "montrouge@lpcr.fr",
+    "distance": 4852,
+    "latitude": 48.81368125875338,
+    "telephone": "0155904448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - MONTROUGE GAMBETTA",
+    "resultStructId": "396301",
+    "omegaId": "10328",
+    "avip": false,
+    "adresse": "19/25avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3232130348639446,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "24506724",
+    "mail": "",
+    "distance": 4855,
+    "latitude": 48.813612408877596,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Grenadine",
+    "resultStructId": "25302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "122 avenue henri ginoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.319860942738217,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "24487967",
+    "mail": "",
+    "distance": 4956,
+    "latitude": 48.81287001689217,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Cannelle",
+    "resultStructId": "24707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 avenue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.32623104059474,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "24487452",
+    "mail": "",
+    "distance": 4956,
+    "latitude": 48.81287001689217,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Bambou",
+    "resultStructId": "24706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 avenue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.32623104059474,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497223",
+    "mail": "cr.carves@ville-montrouge.fr",
+    "distance": 4959,
+    "latitude": 48.81267805094883,
+    "telephone": "0146127663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE CARVES",
+    "resultStructId": "88411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 rue carves",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3211087858625743,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "32745717",
+    "mail": "contact@lagirafeetoilee.fr",
+    "distance": 4978,
+    "latitude": 48.81295356991769,
+    "telephone": "0622423968",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA GIRAFE ETOILEE POLARIS",
+    "resultStructId": "353102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue corneille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.310771972588432,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497438",
+    "mail": "",
+    "distance": 4985,
+    "latitude": 48.813263740659856,
+    "telephone": "0146127677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS JULES GUESDE",
+    "resultStructId": "71410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307434566928913,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "33432459",
+    "mail": "montrouge4@creche-la-maison-bleue.fr",
+    "distance": 5010,
+    "latitude": 48.812219680315394,
+    "telephone": "0147351113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Micro crèche Basch",
+    "resultStructId": "104504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue victor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3203874462734047,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "32947179",
+    "mail": "contact@tilloucreche.com",
+    "distance": 5078,
+    "latitude": 48.81161667124656,
+    "telephone": "0147460762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TILLOUMONTROUGE BARBARA",
+    "resultStructId": "710111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "147 avenue henri ginoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3188835749375825,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12498857",
+    "mail": "je.renaudel@ville-montrouge.fr",
+    "distance": 5087,
+    "latitude": 48.81213544935858,
+    "telephone": "0146127566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS RENAUDEL",
+    "resultStructId": "71413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "146 rue maurice arnoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3090735694593563,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497309",
+    "mail": "cr.hmulin@ville-montrouge.fr",
+    "distance": 5094,
+    "latitude": 48.81185924918185,
+    "telephone": "0146127668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE HIPPOLYTE MULIN",
+    "resultStructId": "88413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue hippolyte mulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3113060039404774,
+    "ville": "montrouge",
+    "cp": "92120"
+  },
+  {
+    "resultId": "12497696",
+    "mail": "cr.messier@ville-montrouge.fr",
+    "distance": 5183,
+    "latitude": 48.810881679021634,
+    "telephone": "0146127668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILMESSIER",
+    "resultStructId": "88421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue georges messier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.313567290675385,
+    "ville": "montrouge",
+    "cp": "92120"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12827136",
+    "mail": "vmougeville@vg-agglo.com",
+    "distance": 36126,
+    "latitude": 44.50043312993089,
+    "telephone": "0553646414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheFamiliale F. DOLTO",
+    "resultStructId": "8046",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre beregovoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16395177087821342,
+    "ville": "marmande",
+    "cp": "47200"
+  },
+  {
+    "resultId": "12827179",
+    "mail": "sbouty@vg-agglo.com",
+    "distance": 36126,
+    "latitude": 44.50043312993089,
+    "telephone": "0553647502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieFrançoise Dolto",
+    "resultStructId": "8047",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre beregovoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16395177087821342,
+    "ville": "marmande",
+    "cp": "47200"
+  },
+  {
+    "resultId": "12826964",
+    "mail": "",
+    "distance": 36233,
+    "latitude": 44.49915173708995,
+    "telephone": "0553939181",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Ateliers d'Eveil \" Les Petits Pas\"",
+    "resultStructId": "8042",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rueportogruaro residence le chateau d'eau bat c",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16641442794764097,
+    "ville": "marmande",
+    "cp": "47200"
+  },
+  {
+    "resultId": "54600570",
+    "mail": "creche.marmelade@people-and-baby.com",
+    "distance": 39162,
+    "latitude": 44.508331611022065,
+    "telephone": "0158055640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EajeMarmelade",
+    "resultStructId": "589801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit dispans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.20134823747375621,
+    "ville": "marmande",
+    "cp": "47200"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "12886355",
+    "mail": "",
+    "distance": 435199,
+    "latitude": 45.187331560406555,
+    "telephone": "0476263045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEGeorge Sand",
+    "resultStructId": "91414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692150325007006,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886312",
+    "mail": "",
+    "distance": 435991,
+    "latitude": 45.197437710910606,
+    "telephone": "0476278478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJERomain Rolland",
+    "resultStructId": "91415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "113 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693442831443613,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886269",
+    "mail": "",
+    "distance": 436027,
+    "latitude": 45.19346049538285,
+    "telephone": "0476473854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEBleu Cerise",
+    "resultStructId": "91401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 rue charles michels",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.6860608477176475,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "13001767",
+    "mail": "creche-mosaique@wanadoo.fr",
+    "distance": 436072,
+    "latitude": 45.19493781301142,
+    "telephone": "0476264245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Mosaïque",
+    "resultStructId": "635901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 bis mail marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.687646605843036,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886226",
+    "mail": "",
+    "distance": 436337,
+    "latitude": 45.197623713344065,
+    "telephone": "0476265915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELéa Blain",
+    "resultStructId": "91416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue jean pain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.68691987760255,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "57744798",
+    "mail": "creche-les-ecrins@depann-familles.fr",
+    "distance": 436347,
+    "latitude": 45.19692598350146,
+    "telephone": "0748139358",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHELES ECRINS",
+    "resultStructId": "678603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue du grand veymont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.685545085102415,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886398",
+    "mail": "",
+    "distance": 436379,
+    "latitude": 45.19689266753287,
+    "telephone": "0476272909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Cabris",
+    "resultStructId": "91412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 place les ecrins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.684872943761548,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886355",
+    "mail": "",
+    "distance": 139939,
+    "latitude": 45.187331560406555,
+    "telephone": "0476263045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEGeorge Sand",
+    "resultStructId": "91414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692150325007006,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886269",
+    "mail": "",
+    "distance": 140706,
+    "latitude": 45.19346049538285,
+    "telephone": "0476473854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEBleu Cerise",
+    "resultStructId": "91401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 rue charles michels",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.6860608477176475,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "13001767",
+    "mail": "creche-mosaique@wanadoo.fr",
+    "distance": 140840,
+    "latitude": 45.19493781301142,
+    "telephone": "0476264245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Mosaïque",
+    "resultStructId": "635901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 bis mail marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.687646605843036,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886312",
+    "mail": "",
+    "distance": 141016,
+    "latitude": 45.197437710910606,
+    "telephone": "0476278478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJERomain Rolland",
+    "resultStructId": "91415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "113 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693442831443613,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "57744798",
+    "mail": "creche-les-ecrins@depann-familles.fr",
+    "distance": 141091,
+    "latitude": 45.19692598350146,
+    "telephone": "0748139358",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHELES ECRINS",
+    "resultStructId": "678603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue du grand veymont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.685545085102415,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886398",
+    "mail": "",
+    "distance": 141099,
+    "latitude": 45.19689266753287,
+    "telephone": "0476272909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Cabris",
+    "resultStructId": "91412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 place les ecrins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.684872943761548,
+    "ville": "fontaine",
+    "cp": "38600"
+  },
+  {
+    "resultId": "12886226",
+    "mail": "",
+    "distance": 141144,
+    "latitude": 45.197623713344065,
+    "telephone": "0476265915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELéa Blain",
+    "resultStructId": "91416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue jean pain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.68691987760255,
+    "ville": "fontaine",
+    "cp": "38600"
+  }
+]

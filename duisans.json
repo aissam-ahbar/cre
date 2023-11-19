@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60258885",
+    "mail": "topla.pigny@gmail.com",
+    "distance": 18635,
+    "latitude": 50.30625025002058,
+    "telephone": "0620274229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Toplà ! Duisans",
+    "resultStructId": "707635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 bis rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7005051661313813,
+    "ville": "duisans",
+    "cp": "62161"
+  },
+  {
+    "resultId": "13026027",
+    "mail": "gabrielle.dauchy@citycreche.fr",
+    "distance": 18767,
+    "latitude": 50.3060670362499,
+    "telephone": "0321589655",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CityCrèche - Duisans",
+    "resultStructId": "12671",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des coquelicots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6848045123052713,
+    "ville": "duisans",
+    "cp": "62161"
+  }
+]

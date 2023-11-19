@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "28320222",
+    "mail": "info@laforetdeslutins.fr",
+    "distance": 130081,
+    "latitude": 49.30652779217477,
+    "telephone": "0382840473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaForêt des Lutins",
+    "resultStructId": "199402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de la saone",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0975993505240105,
+    "ville": "fameck",
+    "cp": "57290"
+  },
+  {
+    "resultId": "60392519",
+    "mail": "herissons@alys.fr",
+    "distance": 130660,
+    "latitude": 49.31238890098051,
+    "telephone": "0354658167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits hérissons FAMECK",
+    "resultStructId": "713017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 boucle jardins dutriangle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.101755156670644,
+    "ville": "fameck",
+    "cp": "57290"
+  },
+  {
+    "resultId": "12548608",
+    "mail": "ma.revebleu@orange.fr",
+    "distance": 130679,
+    "latitude": 49.30689344470537,
+    "telephone": "0382584977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Le Rêve Bleu \" - Fameck",
+    "resultStructId": "188719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue du general",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1067121682965935,
+    "ville": "fameck",
+    "cp": "57290"
+  }
+]

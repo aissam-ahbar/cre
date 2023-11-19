@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "48752833",
+    "mail": "chavenay@lescolories.fr",
+    "distance": 182769,
+    "latitude": 48.85443454935571,
+    "telephone": "0648476039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES COLORIES DE CHAVENAY",
+    "resultStructId": "707006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de gally",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.980201124085246,
+    "ville": "chavenay",
+    "cp": "78450"
+  },
+  {
+    "resultId": "12591780",
+    "mail": "creche-doremi@hotmail.fr",
+    "distance": 182964,
+    "latitude": 48.85455197993429,
+    "telephone": "0134590007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - DOREMI",
+    "resultStructId": "688415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.982887144225063,
+    "ville": "chavenay",
+    "cp": "78450"
+  }
+]

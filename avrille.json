@@ -1,0 +1,486 @@
+[
+  {
+    "resultId": "60364486",
+    "mail": "mc-buissonnets-pdl@vyv3.fr",
+    "distance": 179358,
+    "latitude": 47.49856421950637,
+    "telephone": "0241243959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Buissonnets, Avrillé",
+    "resultStructId": "709701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue mailfert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5796385995384976,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12901749",
+    "mail": "multiaccueil@ville-avrille.fr",
+    "distance": 179551,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif municipal \"Adrienne Bolland\",Avrillé",
+    "resultStructId": "29802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12949995",
+    "mail": "",
+    "distance": 179551,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale \"Adrienne Bolland\", Avrillé",
+    "resultStructId": "213203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12902050",
+    "mail": "direction@poucepoucette.fr",
+    "distance": 180888,
+    "latitude": 47.50468937987228,
+    "telephone": "0241692772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif \"Pouce Poucette\", Avrillé",
+    "resultStructId": "677714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis avenuedes 3 cormiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5981625551452713,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "24507592",
+    "mail": "happycrechemc@gmail.com",
+    "distance": 181665,
+    "latitude": 47.507191602320006,
+    "telephone": "0987468245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy crèche,Avrillé",
+    "resultStructId": "712105",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2 avenuesalvatore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6078352434075247,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "24507592",
+    "mail": "happycrechemc@gmail.com",
+    "distance": 30373,
+    "latitude": 47.507191602320006,
+    "telephone": "0987468245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy crèche,Avrillé",
+    "resultStructId": "712105",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2 avenuesalvatore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6078352434075247,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12902050",
+    "mail": "direction@poucepoucette.fr",
+    "distance": 31150,
+    "latitude": 47.50468937987228,
+    "telephone": "0241692772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif \"Pouce Poucette\", Avrillé",
+    "resultStructId": "677714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis avenuedes 3 cormiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5981625551452713,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12901749",
+    "mail": "multiaccueil@ville-avrille.fr",
+    "distance": 32474,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif municipal \"Adrienne Bolland\",Avrillé",
+    "resultStructId": "29802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12949995",
+    "mail": "",
+    "distance": 32474,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale \"Adrienne Bolland\", Avrillé",
+    "resultStructId": "213203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "60364486",
+    "mail": "mc-buissonnets-pdl@vyv3.fr",
+    "distance": 32697,
+    "latitude": 47.49856421950637,
+    "telephone": "0241243959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Buissonnets, Avrillé",
+    "resultStructId": "709701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue mailfert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5796385995384976,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "24507592",
+    "mail": "happycrechemc@gmail.com",
+    "distance": 158301,
+    "latitude": 47.507191602320006,
+    "telephone": "0987468245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy crèche,Avrillé",
+    "resultStructId": "712105",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2 avenuesalvatore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6078352434075247,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12902050",
+    "mail": "direction@poucepoucette.fr",
+    "distance": 158551,
+    "latitude": 47.50468937987228,
+    "telephone": "0241692772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif \"Pouce Poucette\", Avrillé",
+    "resultStructId": "677714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis avenuedes 3 cormiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5981625551452713,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12901749",
+    "mail": "multiaccueil@ville-avrille.fr",
+    "distance": 158844,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif municipal \"Adrienne Bolland\",Avrillé",
+    "resultStructId": "29802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12949995",
+    "mail": "",
+    "distance": 158844,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale \"Adrienne Bolland\", Avrillé",
+    "resultStructId": "213203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "60364486",
+    "mail": "mc-buissonnets-pdl@vyv3.fr",
+    "distance": 159185,
+    "latitude": 47.49856421950637,
+    "telephone": "0241243959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Buissonnets, Avrillé",
+    "resultStructId": "709701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue mailfert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5796385995384976,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "24507592",
+    "mail": "happycrechemc@gmail.com",
+    "distance": 30373,
+    "latitude": 47.507191602320006,
+    "telephone": "0987468245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy crèche,Avrillé",
+    "resultStructId": "712105",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2 avenuesalvatore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6078352434075247,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12902050",
+    "mail": "direction@poucepoucette.fr",
+    "distance": 31150,
+    "latitude": 47.50468937987228,
+    "telephone": "0241692772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif \"Pouce Poucette\", Avrillé",
+    "resultStructId": "677714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis avenuedes 3 cormiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5981625551452713,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12901749",
+    "mail": "multiaccueil@ville-avrille.fr",
+    "distance": 32474,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif municipal \"Adrienne Bolland\",Avrillé",
+    "resultStructId": "29802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "12949995",
+    "mail": "",
+    "distance": 32474,
+    "latitude": 47.501656798804724,
+    "telephone": "0241730301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale \"Adrienne Bolland\", Avrillé",
+    "resultStructId": "213203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6boulevard adrienne bolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5809186677375981,
+    "ville": "avrille",
+    "cp": "49240"
+  },
+  {
+    "resultId": "60364486",
+    "mail": "mc-buissonnets-pdl@vyv3.fr",
+    "distance": 32697,
+    "latitude": 47.49856421950637,
+    "telephone": "0241243959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Buissonnets, Avrillé",
+    "resultStructId": "709701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue mailfert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5796385995384976,
+    "ville": "avrille",
+    "cp": "49240"
+  }
+]

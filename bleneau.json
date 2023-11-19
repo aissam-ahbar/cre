@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12505479",
+    "mail": "les.marmottes89@outlook.fr",
+    "distance": 104080,
+    "latitude": 47.70535080708256,
+    "telephone": "0386748046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Marmottes",
+    "resultStructId": "708804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.947407825827483,
+    "ville": "bleneau",
+    "cp": "89220"
+  },
+  {
+    "resultId": "12505479",
+    "mail": "les.marmottes89@outlook.fr",
+    "distance": 123224,
+    "latitude": 47.70535080708256,
+    "telephone": "0386748046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Marmottes",
+    "resultStructId": "708804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.947407825827483,
+    "ville": "bleneau",
+    "cp": "89220"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12906694",
+    "mail": "v.vidal@mairie-dardilly.fr",
+    "distance": 165905,
+    "latitude": 45.8111536339184,
+    "telephone": "0478350735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueildu Levant",
+    "resultStructId": "439001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 allee du levant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.752032617173894,
+    "ville": "dardilly",
+    "cp": "69570"
+  },
+  {
+    "resultId": "12906651",
+    "mail": "auparadilly@creche-attitude.fr",
+    "distance": 165974,
+    "latitude": 45.811869137246546,
+    "telephone": "0474711318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Attitude Au Paradilly",
+    "resultStructId": "117904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.758872161428672,
+    "ville": "dardilly",
+    "cp": "69570"
+  },
+  {
+    "resultId": "12906737",
+    "mail": "v.vidal@mairie-dardilly.fr",
+    "distance": 166239,
+    "latitude": 45.808214799405235,
+    "telephone": "0478356857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JardinPasserelle des Noyeraies",
+    "resultStructId": "439002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des ecoliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.75296293716766,
+    "ville": "dardilly",
+    "cp": "69570"
+  },
+  {
+    "resultId": "37111312",
+    "mail": "contact.lespetitschats@gmail.com",
+    "distance": 167456,
+    "latitude": 45.79985071940006,
+    "telephone": "0786482272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MIcro-crècheLes Petits Chats",
+    "resultStructId": "679906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin des cuers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.768095196083103,
+    "ville": "dardilly",
+    "cp": "69570"
+  }
+]

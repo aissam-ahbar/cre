@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "29191077",
+    "mail": "creche.mailly@gmail.com",
+    "distance": 158620,
+    "latitude": 48.67144264379898,
+    "telephone": "0325377302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Envol",
+    "resultStructId": "180102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue des ecoles 10230 mailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.195598112794021,
+    "ville": "lecamp",
+    "cp": ""
+  },
+  {
+    "resultId": "12742727",
+    "mail": "sma.vercel@famillesrurales.org",
+    "distance": 169727,
+    "latitude": 47.18236262424839,
+    "telephone": "0381481595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les p'tits Gibus Vercel",
+    "resultStructId": "112715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de jesus 25530vercel villedieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.398683829837632,
+    "ville": "lecamp",
+    "cp": ""
+  },
+  {
+    "resultId": "29191077",
+    "mail": "creche.mailly@gmail.com",
+    "distance": 26439,
+    "latitude": 48.67144264379898,
+    "telephone": "0325377302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Envol",
+    "resultStructId": "180102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue des ecoles 10230 mailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.195598112794021,
+    "ville": "lecamp",
+    "cp": ""
+  }
+]

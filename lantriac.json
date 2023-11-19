@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "24444317",
+    "mail": "multiaccueil.lantriac@mezencloiremeygal.fr",
+    "distance": 167861,
+    "latitude": 45.00090667210873,
+    "telephone": "0471050673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLantriac",
+    "resultStructId": "35602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le vourzet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.004609301719287,
+    "ville": "lantriac",
+    "cp": "43260"
+  },
+  {
+    "resultId": "24444317",
+    "mail": "multiaccueil.lantriac@mezencloiremeygal.fr",
+    "distance": 156176,
+    "latitude": 45.00090667210873,
+    "telephone": "0471050673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLantriac",
+    "resultStructId": "35602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le vourzet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.004609301719287,
+    "ville": "lantriac",
+    "cp": "43260"
+  }
+]

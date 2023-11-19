@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "39022812",
+    "mail": "multi-accueil.flamanville@orange.fr",
+    "distance": 118763,
+    "latitude": 49.53185650125138,
+    "telephone": "0233085861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFlamanville",
+    "resultStructId": "183404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue de la coquaise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.868038810915067,
+    "ville": "flamanville",
+    "cp": "50340"
+  }
+]

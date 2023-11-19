@@ -1,0 +1,532 @@
+[
+  {
+    "resultId": "12518981",
+    "mail": "",
+    "distance": 192815,
+    "latitude": 48.72481306890091,
+    "telephone": "0237645672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFarandole",
+    "resultStructId": "689016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean poulmarch’",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3739732136514993,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12703029",
+    "mail": "",
+    "distance": 193017,
+    "latitude": 48.726381284199974,
+    "telephone": "0237385565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchouns",
+    "resultStructId": "689017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis rue leon frapie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.370748211098382,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12513821",
+    "mail": "",
+    "distance": 193698,
+    "latitude": 48.733740882437736,
+    "telephone": "0237421642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Arcen Ciel",
+    "resultStructId": "730",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue moronval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3857756460334423,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12518938",
+    "mail": "",
+    "distance": 193698,
+    "latitude": 48.733740882437736,
+    "telephone": "0237385588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MillePattes",
+    "resultStructId": "689015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue moronval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3857756460334423,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "54997331",
+    "mail": "bebebonheur@people-and-baby.com",
+    "distance": 193903,
+    "latitude": 48.73457757595087,
+    "telephone": "0975956811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bébé bonheur\"",
+    "resultStructId": "605401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue pastrre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.372797518513282,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12512918",
+    "mail": "",
+    "distance": 194100,
+    "latitude": 48.73542317731035,
+    "telephone": "0237460700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "689012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue saint thibault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3614140680211408,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "45329335",
+    "mail": "contact@babilou.com",
+    "distance": 194413,
+    "latitude": 48.738901376403405,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Dreux Saint-Jean",
+    "resultStructId": "413701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3691761605514337,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "54336930",
+    "mail": "doudou.cigogne@doudou-tetine.com",
+    "distance": 194465,
+    "latitude": 48.74051778408607,
+    "telephone": "0237155770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Doudou et cigogne\"",
+    "resultStructId": "573201",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "88 avenuedu general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3836473543279721,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12515584",
+    "mail": "",
+    "distance": 194539,
+    "latitude": 48.738151824776565,
+    "telephone": "0237462102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pirouette",
+    "resultStructId": "689013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevardde l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3466987169773235,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12513864",
+    "mail": "",
+    "distance": 194539,
+    "latitude": 48.738151824776565,
+    "telephone": "0237469516",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capucine",
+    "resultStructId": "689018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevardde l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3466987169773235,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12518895",
+    "mail": "",
+    "distance": 195508,
+    "latitude": 48.74639795678497,
+    "telephone": "0237385583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance",
+    "resultStructId": "120902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des grandes bruyeres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3404024868808173,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12518895",
+    "mail": "",
+    "distance": 137471,
+    "latitude": 48.74639795678497,
+    "telephone": "0237385583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance",
+    "resultStructId": "120902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des grandes bruyeres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3404024868808173,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12515584",
+    "mail": "",
+    "distance": 138077,
+    "latitude": 48.738151824776565,
+    "telephone": "0237462102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pirouette",
+    "resultStructId": "689013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevardde l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3466987169773235,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12513864",
+    "mail": "",
+    "distance": 138077,
+    "latitude": 48.738151824776565,
+    "telephone": "0237469516",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capucine",
+    "resultStructId": "689018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevardde l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3466987169773235,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12512918",
+    "mail": "",
+    "distance": 139191,
+    "latitude": 48.73542317731035,
+    "telephone": "0237460700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "689012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue saint thibault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3614140680211408,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "45329335",
+    "mail": "contact@babilou.com",
+    "distance": 139689,
+    "latitude": 48.738901376403405,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Dreux Saint-Jean",
+    "resultStructId": "413701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3691761605514337,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "54997331",
+    "mail": "bebebonheur@people-and-baby.com",
+    "distance": 140030,
+    "latitude": 48.73457757595087,
+    "telephone": "0975956811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bébé bonheur\"",
+    "resultStructId": "605401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue pastrre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.372797518513282,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12703029",
+    "mail": "",
+    "distance": 140037,
+    "latitude": 48.726381284199974,
+    "telephone": "0237385565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchouns",
+    "resultStructId": "689017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis rue leon frapie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.370748211098382,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12518981",
+    "mail": "",
+    "distance": 140300,
+    "latitude": 48.72481306890091,
+    "telephone": "0237645672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFarandole",
+    "resultStructId": "689016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean poulmarch’",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3739732136514993,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "54336930",
+    "mail": "doudou.cigogne@doudou-tetine.com",
+    "distance": 140706,
+    "latitude": 48.74051778408607,
+    "telephone": "0237155770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Doudou et cigogne\"",
+    "resultStructId": "573201",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "88 avenuedu general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3836473543279721,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12513821",
+    "mail": "",
+    "distance": 140984,
+    "latitude": 48.733740882437736,
+    "telephone": "0237421642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Arcen Ciel",
+    "resultStructId": "730",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue moronval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3857756460334423,
+    "ville": "dreux",
+    "cp": "28100"
+  },
+  {
+    "resultId": "12518938",
+    "mail": "",
+    "distance": 140984,
+    "latitude": 48.733740882437736,
+    "telephone": "0237385588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MillePattes",
+    "resultStructId": "689015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue moronval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3857756460334423,
+    "ville": "dreux",
+    "cp": "28100"
+  }
+]

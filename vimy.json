@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "25968364",
+    "mail": "jardindenfants@ville-de-vimy.fr",
+    "distance": 12481,
+    "latitude": 50.375140938349055,
+    "telephone": "0971318187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants",
+    "resultStructId": "214608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 bis rue adam de la halle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8042492113639894,
+    "ville": "vimy",
+    "cp": "62580"
+  },
+  {
+    "resultId": "13019225",
+    "mail": "multiaccueils@ville-de-vimy.fr",
+    "distance": 12533,
+    "latitude": 50.37714149878878,
+    "telephone": "0321739641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Simonne Dupuis\"",
+    "resultStructId": "214702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de saint nazaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.811122799337351,
+    "ville": "vimy",
+    "cp": "62580"
+  },
+  {
+    "resultId": "32068930",
+    "mail": "avosmerveilles@gmail.com",
+    "distance": 12812,
+    "latitude": 50.37361282123115,
+    "telephone": "0612798025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "A'vosmerveilles",
+    "resultStructId": "215309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8095038356506348,
+    "ville": "vimy",
+    "cp": "62580"
+  }
+]

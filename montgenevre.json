@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12702384",
+    "mail": "creche@montgenevre.com",
+    "distance": 364024,
+    "latitude": 44.93305902015918,
+    "telephone": "0492215250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti-Accueil Les sourires Montgenèvre",
+    "resultStructId": "298601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.727282061064653,
+    "ville": "montgenevre",
+    "cp": "05100"
+  },
+  {
+    "resultId": "12702384",
+    "mail": "creche@montgenevre.com",
+    "distance": 120715,
+    "latitude": 44.93305902015918,
+    "telephone": "0492215250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti-Accueil Les sourires Montgenèvre",
+    "resultStructId": "298601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.727282061064653,
+    "ville": "montgenevre",
+    "cp": "05100"
+  }
+]

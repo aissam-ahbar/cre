@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12827996",
+    "mail": "creche.tignieujameyzieu@gmail.com",
+    "distance": 183778,
+    "latitude": 45.75682746715081,
+    "telephone": "0472058767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Au Saut du Nid",
+    "resultStructId": "8066",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard ampere 38230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.197400337499881,
+    "ville": "tignieujameyzieu",
+    "cp": ""
+  },
+  {
+    "resultId": "12882743",
+    "mail": "pomdereinette@balconsdudauphine.fr",
+    "distance": 185733,
+    "latitude": 45.73370805027515,
+    "telephone": "0478321051",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPom' de Reinette",
+    "resultStructId": "9339",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place de la mairie 38230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1860543028592385,
+    "ville": "tignieujameyzieu",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "38749111",
+    "mail": "contact.letipidespetits@gmail.com",
+    "distance": 8828,
+    "latitude": 50.51290788489932,
+    "telephone": "0675841974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeTipi des Petits",
+    "resultStructId": "656201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 bis avenue des anciens combattants62232 fouquieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6108447430256683,
+    "ville": "lesbethune",
+    "cp": ""
+  },
+  {
+    "resultId": "60262944",
+    "mail": "creche.vendinlesbethune@gmail.com",
+    "distance": 10791,
+    "latitude": 50.5391450485024,
+    "telephone": "0761777624",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TETEDE LINOTTE VENDIN LES BETHUNE",
+    "resultStructId": "707702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 du 11 novembre 62232vendin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.60684116376489,
+    "ville": "lesbethune",
+    "cp": ""
+  }
+]

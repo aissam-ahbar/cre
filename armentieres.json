@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12822320",
+    "mail": "canailloux@ville-armentieres.fr",
+    "distance": 25569,
+    "latitude": 50.684322757633495,
+    "telephone": "0699379311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes canailloux",
+    "resultStructId": "673906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 bis rue jean-baptiste lebas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8634343253156156,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "12997510",
+    "mail": "contact@petits-poissons.fr",
+    "distance": 26186,
+    "latitude": 50.68773693860516,
+    "telephone": "0663256369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits poissons",
+    "resultStructId": "711702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue butin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8728411668863743,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "49596731",
+    "mail": "creche.lm@ghtpsy-npdc.fr",
+    "distance": 26402,
+    "latitude": 50.68449920204731,
+    "telephone": "0320102475",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheEPSM Lille Métropole",
+    "resultStructId": "677403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8903826961481394,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "12792220",
+    "mail": "creche.lm@ghtpsy-npdc.fr",
+    "distance": 26402,
+    "latitude": 50.68449920204731,
+    "telephone": "0320102475",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEEtablissement Public de Santé Mentale LilleMétropole",
+    "resultStructId": "689827",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8903826961481394,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "13016172",
+    "mail": "creche@ville-armentieres.fr",
+    "distance": 26964,
+    "latitude": 50.690218756415454,
+    "telephone": "0361760618",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMUNICIPALE JANINE FOLENS",
+    "resultStructId": "673907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "248 quai de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.890238430393121,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "12822277",
+    "mail": "petiteenfance@ville-armentieres.fr",
+    "distance": 26964,
+    "latitude": 50.690218756415454,
+    "telephone": "0361760621",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale",
+    "resultStructId": "7933",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "248 quai de la derivation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.890238430393121,
+    "ville": "armentieres",
+    "cp": "59280"
+  },
+  {
+    "resultId": "57278116",
+    "mail": "aupetitjardin@ville-armentieres.fr",
+    "distance": 28243,
+    "latitude": 50.70408166022657,
+    "telephone": "0366190700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL AU PETIT JARDIN",
+    "resultStructId": "673909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "420 avenue leon blum",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8866321583714107,
+    "ville": "armentieres",
+    "cp": "59280"
+  }
+]

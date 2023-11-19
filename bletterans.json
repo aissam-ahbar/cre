@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "35967954",
+    "mail": "lesptitscurieuxbletterans@gmail.com",
+    "distance": 113144,
+    "latitude": 46.750080894181316,
+    "telephone": "0788514342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS CURIEUX",
+    "resultStructId": "691912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du rondeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.456788677746244,
+    "ville": "bletterans",
+    "cp": "39140"
+  },
+  {
+    "resultId": "35968002",
+    "mail": "lesptitscurieuxbletterans@gmail.com",
+    "distance": 113179,
+    "latitude": 46.74734160589699,
+    "telephone": "0671080274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS CURIEUX - Granges",
+    "resultStructId": "691914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des granges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.455036666824481,
+    "ville": "bletterans",
+    "cp": "39140"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13058664",
+    "mail": "eauvive12@live.fr",
+    "distance": 165062,
+    "latitude": 43.53017532446399,
+    "telephone": "0561751088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchel'Eau Vive",
+    "resultStructId": "635201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la gerbiere 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4839873421021181,
+    "ville": "auzevilletolosane",
+    "cp": ""
+  },
+  {
+    "resultId": "13018623",
+    "mail": "apetitspas@creches-expansion.com",
+    "distance": 165094,
+    "latitude": 43.52928364876244,
+    "telephone": "0624510960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARLCreches expansion à Petits Pas",
+    "resultStructId": "638801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue danielbrisebois - zac du pont de bois 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4836322416702097,
+    "ville": "auzevilletolosane",
+    "cp": ""
+  },
+  {
+    "resultId": "39069697",
+    "mail": "apetitspas@creches-expansion.com",
+    "distance": 165459,
+    "latitude": 43.53337321982843,
+    "telephone": "0624510960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leslutins du bois joli",
+    "resultStructId": "673320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue daniel brisebois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4928758364137227,
+    "ville": "auzevilletolosane",
+    "cp": "31320"
+  },
+  {
+    "resultId": "12634952",
+    "mail": "lepetitpont12@orange.fr",
+    "distance": 165571,
+    "latitude": 43.530407371221884,
+    "telephone": "0561738961",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lepetit pont",
+    "resultStructId": "469001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee du viognier 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4918139505232506,
+    "ville": "auzevilletolosane",
+    "cp": ""
+  }
+]

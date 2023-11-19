@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12607518",
+    "mail": "fgressier@villeneuvedascq.fr",
+    "distance": 33302,
+    "latitude": 50.6220685975658,
+    "telephone": "0320913038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE VALENTINE",
+    "resultStructId": "2909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des victoires 59650",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1282931894720445,
+    "ville": "villeneuvedascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12545985",
+    "mail": "crecheadage@free.fr",
+    "distance": 33638,
+    "latitude": 50.623444636630644,
+    "telephone": "0320470505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE \"ADAGE\"",
+    "resultStructId": "1478",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des veterans 59650",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1325395312902367,
+    "ville": "villeneuvedascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12548264",
+    "mail": "ebonte@villeneuvedascq.fr",
+    "distance": 36033,
+    "latitude": 50.64325647174812,
+    "telephone": "0320610766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS \"CARROUSSEL\"",
+    "resultStructId": "1531",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des comices 59650",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.153546435668596,
+    "ville": "villeneuvedascq",
+    "cp": ""
+  }
+]

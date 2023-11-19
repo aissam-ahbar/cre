@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12755240",
+    "mail": "contact@mairie-blagnac.fr",
+    "distance": 149850,
+    "latitude": 43.65347207166112,
+    "telephone": "0561717200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCASSIOPEE",
+    "resultStructId": "681607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue george sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3689703410301977,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13059481",
+    "mail": "contact@babilou.com",
+    "distance": 150796,
+    "latitude": 43.63641243519442,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBlagnac L'imagin'R",
+    "resultStructId": "707305",
+    "omegaId": "4789",
+    "avip": false,
+    "adresse": "4 allee saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3681673048938414,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "12487884",
+    "mail": "creche.enfanceanimations@gmail.com",
+    "distance": 150932,
+    "latitude": 43.64557484176765,
+    "telephone": "0561715921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheEnfance Animation",
+    "resultStructId": "502502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 impasse joachim du bellay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.378050735398772,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "12755326",
+    "mail": "contact@mairie-blagnac.fr",
+    "distance": 150980,
+    "latitude": 43.64424891531711,
+    "telephone": "0561717200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL NEPTUNE",
+    "resultStructId": "681610",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 mail louis aragon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.377610501754594,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13059438",
+    "mail": "contact@babilou.com",
+    "distance": 151047,
+    "latitude": 43.647103064844714,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBlagnac Briquetiers",
+    "resultStructId": "557201",
+    "omegaId": "11813",
+    "avip": false,
+    "adresse": "5 rue des briquetiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3810327234277506,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13065931",
+    "mail": "blagnac@creche-la-maison-bleue.fr",
+    "distance": 151197,
+    "latitude": 43.636129130006545,
+    "telephone": "0561060117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BelEnvol",
+    "resultStructId": "681809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue escadrille normandie niemen",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.373801588366956,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13059309",
+    "mail": "moufletsmonenfant@gmail.com",
+    "distance": 151333,
+    "latitude": 43.64359239869324,
+    "telephone": "0561712340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOMPAGNIE DES MOUFLETS",
+    "resultStructId": "610801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 chemin d'aussonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3822195695360417,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "32966830",
+    "mail": "contact@mairie-blagnac.fr",
+    "distance": 151969,
+    "latitude": 43.63759839304684,
+    "telephone": "0561717200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTI-ACCUEILLES DAUPHINS",
+    "resultStructId": "703909",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "31 avenue de cornebarrieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3863869163974871,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13059567",
+    "mail": "lesecureuils31@people-and-baby.com",
+    "distance": 152236,
+    "latitude": 43.63233038352829,
+    "telephone": "0567030819",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "274501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 chemin de belisaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3857548520540843,
+    "ville": "blagnac",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13059051",
+    "mail": "contact@mairie-blagnac.fr",
+    "distance": 152513,
+    "latitude": 43.6370958111545,
+    "telephone": "0561717200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BLANCHENEIGE",
+    "resultStructId": "681606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 allee des muriers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3939079111458839,
+    "ville": "blagnac",
+    "cp": "31700"
+  }
+]

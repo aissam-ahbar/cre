@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12537729",
+    "mail": "",
+    "distance": 200398,
+    "latitude": 48.740249608039456,
+    "telephone": "0148525001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale du Parc de la Cloche",
+    "resultStructId": "15405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3976555583075103,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "17894965",
+    "mail": "",
+    "distance": 200591,
+    "latitude": 48.742092870735334,
+    "telephone": "0148904391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Crèche Attitude Orly",
+    "resultStructId": "619202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.397405175413512,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "13039615",
+    "mail": "",
+    "distance": 155975,
+    "latitude": 48.749409688580286,
+    "telephone": "0148530313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Charles de Foucauld",
+    "resultStructId": "14633",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue amundsen",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4173592067684915,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "57322160",
+    "mail": "",
+    "distance": 156018,
+    "latitude": 48.7494326424737,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche Charles Foucault",
+    "resultStructId": "674513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 square charles de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4167746941891357,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "12539793",
+    "mail": "",
+    "distance": 156527,
+    "latitude": 48.74981379181703,
+    "telephone": "0148925143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des Hautes Bornes 2",
+    "resultStructId": "15403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des hautesbornes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.40983355533044,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "12539836",
+    "mail": "",
+    "distance": 156527,
+    "latitude": 48.74981379181703,
+    "telephone": "0148523291",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des Hautes Bornes 1",
+    "resultStructId": "15404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des hautesbornes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.40983355533044,
+    "ville": "orly",
+    "cp": "94310"
+  },
+  {
+    "resultId": "13057374",
+    "mail": "",
+    "distance": 157003,
+    "latitude": 48.74767201219264,
+    "telephone": "0148902177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les P'tits Loupings",
+    "resultStructId": "13400",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue alfred de musset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.403350422816645,
+    "ville": "orly",
+    "cp": "94310"
+  }
+]

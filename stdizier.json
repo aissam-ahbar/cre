@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12807313",
+    "mail": "cfstdizier@igesa.fr",
+    "distance": 163829,
+    "latitude": 48.63073034818409,
+    "telephone": "0325078098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Les Rafalous\"",
+    "resultStructId": "702704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "base aerienne 113 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.901480753567898,
+    "ville": "stdizier",
+    "cp": ""
+  },
+  {
+    "resultId": "52178414",
+    "mail": "creche-centreville@agglo-saintdizier.fr",
+    "distance": 165599,
+    "latitude": 48.6369825416224,
+    "telephone": "0325077970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILDU CENTRE VILLE",
+    "resultStructId": "477201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de la republique 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.944685403879965,
+    "ville": "stdizier",
+    "cp": ""
+  },
+  {
+    "resultId": "12939417",
+    "mail": "creche@mairie-saintdizier.fr",
+    "distance": 166801,
+    "latitude": 48.64109651216404,
+    "telephone": "0325052074",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureAccueil de la Petite Enfance",
+    "resultStructId": "474402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue marcel thil 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.97355788946927,
+    "ville": "stdizier",
+    "cp": ""
+  },
+  {
+    "resultId": "12807313",
+    "mail": "cfstdizier@igesa.fr",
+    "distance": 28506,
+    "latitude": 48.63073034818409,
+    "telephone": "0325078098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Les Rafalous\"",
+    "resultStructId": "702704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "base aerienne 113 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.901480753567898,
+    "ville": "stdizier",
+    "cp": ""
+  },
+  {
+    "resultId": "52178414",
+    "mail": "creche-centreville@agglo-saintdizier.fr",
+    "distance": 31207,
+    "latitude": 48.6369825416224,
+    "telephone": "0325077970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILDU CENTRE VILLE",
+    "resultStructId": "477201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de la republique 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.944685403879965,
+    "ville": "stdizier",
+    "cp": ""
+  },
+  {
+    "resultId": "12939417",
+    "mail": "creche@mairie-saintdizier.fr",
+    "distance": 33068,
+    "latitude": 48.64109651216404,
+    "telephone": "0325052074",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureAccueil de la Petite Enfance",
+    "resultStructId": "474402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue marcel thil 52100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.97355788946927,
+    "ville": "stdizier",
+    "cp": ""
+  }
+]

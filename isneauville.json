@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "35888515",
+    "mail": "microcreche-isneauville@orange.fr",
+    "distance": 154611,
+    "latitude": 49.50775178952552,
+    "telephone": "0983019283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHEPAS A PAS",
+    "resultStructId": "139703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2941 route de neuchatel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1629150511576862,
+    "ville": "isneauville",
+    "cp": "76230"
+  },
+  {
+    "resultId": "35374215",
+    "mail": "microcreche-isneauville@orange.fr",
+    "distance": 156557,
+    "latitude": 49.49767566199192,
+    "telephone": "0983089060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHEA 2 MAINS",
+    "resultStructId": "136306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1208 rue de la ronce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1403835113690466,
+    "ville": "isneauville",
+    "cp": "76230"
+  },
+  {
+    "resultId": "35374215",
+    "mail": "microcreche-isneauville@orange.fr",
+    "distance": 135968,
+    "latitude": 49.49767566199192,
+    "telephone": "0983089060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHEA 2 MAINS",
+    "resultStructId": "136306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1208 rue de la ronce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1403835113690466,
+    "ville": "isneauville",
+    "cp": "76230"
+  },
+  {
+    "resultId": "35888515",
+    "mail": "microcreche-isneauville@orange.fr",
+    "distance": 137927,
+    "latitude": 49.50775178952552,
+    "telephone": "0983019283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHEPAS A PAS",
+    "resultStructId": "139703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2941 route de neuchatel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1629150511576862,
+    "ville": "isneauville",
+    "cp": "76230"
+  }
+]

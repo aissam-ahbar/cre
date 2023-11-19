@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12906436",
+    "mail": "lespetitspirates@mutualitelimousine.fr",
+    "distance": 130093,
+    "latitude": 45.860264645482665,
+    "telephone": "0555361173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Pirates",
+    "resultStructId": "9890",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des cedres 87410 le palais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.318643940431503,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "60408063",
+    "mail": "lespetitspas87200@gmail.com",
+    "distance": 136696,
+    "latitude": 45.88168060272535,
+    "telephone": "0666561632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pas de Saint-Brice",
+    "resultStructId": "711005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des ecoles 87200 stbrice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9509923386331899,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "40016124",
+    "mail": "lesdoudousdaixe@gmail.com",
+    "distance": 139785,
+    "latitude": 45.80146137109702,
+    "telephone": "0685275401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CalinsDoudous",
+    "resultStructId": "197210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue du general durand 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.146398466111434,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12740362",
+    "mail": "lerepairedeslutins@orange.fr",
+    "distance": 140492,
+    "latitude": 45.79699956460185,
+    "telephone": "0662065120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Le Repaire des Lutins",
+    "resultStructId": "6028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone d'activite du grandrieux - beauchabrol 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1361149487795619,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12906479",
+    "mail": "lespetitsmousses@mutualitelimousine.fr",
+    "distance": 140848,
+    "latitude": 45.794325951109904,
+    "telephone": "0555702524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Mousses",
+    "resultStructId": "9891",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des grangettes 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.132981886794805,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12906479",
+    "mail": "lespetitsmousses@mutualitelimousine.fr",
+    "distance": 193564,
+    "latitude": 45.794325951109904,
+    "telephone": "0555702524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Mousses",
+    "resultStructId": "9891",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des grangettes 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.132981886794805,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12740362",
+    "mail": "lerepairedeslutins@orange.fr",
+    "distance": 193946,
+    "latitude": 45.79699956460185,
+    "telephone": "0662065120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Le Repaire des Lutins",
+    "resultStructId": "6028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone d'activite du grandrieux - beauchabrol 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1361149487795619,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "60408063",
+    "mail": "lespetitspas87200@gmail.com",
+    "distance": 194430,
+    "latitude": 45.88168060272535,
+    "telephone": "0666561632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pas de Saint-Brice",
+    "resultStructId": "711005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des ecoles 87200 stbrice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9509923386331899,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "40016124",
+    "mail": "lesdoudousdaixe@gmail.com",
+    "distance": 194806,
+    "latitude": 45.80146137109702,
+    "telephone": "0685275401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CalinsDoudous",
+    "resultStructId": "197210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue du general durand 87700 aixe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.146398466111434,
+    "ville": "survienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12906436",
+    "mail": "lespetitspirates@mutualitelimousine.fr",
+    "distance": 207875,
+    "latitude": 45.860264645482665,
+    "telephone": "0555361173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Pirates",
+    "resultStructId": "9890",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des cedres 87410 le palais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.318643940431503,
+    "ville": "survienne",
+    "cp": ""
+  }
+]

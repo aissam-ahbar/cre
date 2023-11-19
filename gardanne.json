@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12568560",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 68142,
+    "latitude": 43.45871493199877,
+    "telephone": "0442512094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "197805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul decoppet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4594954444233945,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12508489",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 69085,
+    "latitude": 43.45572488544457,
+    "telephone": "0442658706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACVELINE EN COMPTINES",
+    "resultStructId": "190509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin d'estrec - les coteaux develines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12717520",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 69085,
+    "latitude": 43.45572488544457,
+    "telephone": "0442517275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES LUCIOLES",
+    "resultStructId": "197808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 avenue henri barbusse - biver",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12864038",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 69398,
+    "latitude": 43.45660244599233,
+    "telephone": "0442583364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA FARANDOLE",
+    "resultStructId": "197809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.474784378331972,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12864038",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 329904,
+    "latitude": 43.45660244599233,
+    "telephone": "0442583364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA FARANDOLE",
+    "resultStructId": "197809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.474784378331972,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12717520",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 330166,
+    "latitude": 43.45572488544457,
+    "telephone": "0442517275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES LUCIOLES",
+    "resultStructId": "197808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 avenue henri barbusse - biver",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12508489",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 330166,
+    "latitude": 43.45572488544457,
+    "telephone": "0442658706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACVELINE EN COMPTINES",
+    "resultStructId": "190509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin d'estrec - les coteaux develines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12568560",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 331123,
+    "latitude": 43.45871493199877,
+    "telephone": "0442512094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "197805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul decoppet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4594954444233945,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12568560",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 126933,
+    "latitude": 43.45871493199877,
+    "telephone": "0442512094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "197805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul decoppet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4594954444233945,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12508489",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 127869,
+    "latitude": 43.45572488544457,
+    "telephone": "0442658706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACVELINE EN COMPTINES",
+    "resultStructId": "190509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin d'estrec - les coteaux develines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12717520",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 127869,
+    "latitude": 43.45572488544457,
+    "telephone": "0442517275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES LUCIOLES",
+    "resultStructId": "197808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 avenue henri barbusse - biver",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12864038",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 128187,
+    "latitude": 43.45660244599233,
+    "telephone": "0442583364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA FARANDOLE",
+    "resultStructId": "197809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.474784378331972,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12864038",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 72957,
+    "latitude": 43.45660244599233,
+    "telephone": "0442583364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA FARANDOLE",
+    "resultStructId": "197809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.474784378331972,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12508489",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 73247,
+    "latitude": 43.45572488544457,
+    "telephone": "0442658706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACVELINE EN COMPTINES",
+    "resultStructId": "190509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin d'estrec - les coteaux develines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12717520",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 73247,
+    "latitude": 43.45572488544457,
+    "telephone": "0442517275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES LUCIOLES",
+    "resultStructId": "197808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 avenue henri barbusse - biver",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.47064591845088,
+    "ville": "gardanne",
+    "cp": "13120"
+  },
+  {
+    "resultId": "12568560",
+    "mail": "petite-enfance@ville-gardanne.fr",
+    "distance": 73581,
+    "latitude": 43.45871493199877,
+    "telephone": "0442512094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "197805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul decoppet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4594954444233945,
+    "ville": "gardanne",
+    "cp": "13120"
+  }
+]

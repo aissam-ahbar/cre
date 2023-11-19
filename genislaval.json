@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12574580",
+    "mail": "sucredorge2@wanadoo.fr",
+    "distance": 178865,
+    "latitude": 45.698491242138715,
+    "telephone": "0478564650",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Sucre d'Orge",
+    "resultStructId": "89420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue georges clemenceau69230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794893082432775,
+    "ville": "genislaval",
+    "cp": ""
+  },
+  {
+    "resultId": "12903082",
+    "mail": "ptitsmomes.collectif@saintgenislaval.fr",
+    "distance": 179232,
+    "latitude": 45.69504210658403,
+    "telephone": "0478566764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les P'tits Mômes",
+    "resultStructId": "89415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place coupat 69230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794809838181147,
+    "ville": "genislaval",
+    "cp": ""
+  },
+  {
+    "resultId": "12903125",
+    "mail": "petite.enfance@mairie-saintgenislaval.fr",
+    "distance": 179232,
+    "latitude": 45.69504210658403,
+    "telephone": "0478566764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes petits momes",
+    "resultStructId": "9813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place coupat 69230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794809838181147,
+    "ville": "genislaval",
+    "cp": ""
+  },
+  {
+    "resultId": "12574537",
+    "mail": "c.sandrin-roulevirou@outlook.fr",
+    "distance": 179705,
+    "latitude": 45.69275375194207,
+    "telephone": "0472671295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRoule Virou",
+    "resultStructId": "107901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 place des collonges 69230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805586353094638,
+    "ville": "genislaval",
+    "cp": ""
+  },
+  {
+    "resultId": "12574451",
+    "mail": "",
+    "distance": 180728,
+    "latitude": 45.67892890666415,
+    "telephone": "0478565244",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPom'Cerises",
+    "resultStructId": "302602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee paul frantz 69230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.783661307317293,
+    "ville": "genislaval",
+    "cp": ""
+  }
+]

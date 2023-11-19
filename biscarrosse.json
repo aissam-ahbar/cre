@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12545254",
+    "mail": "",
+    "distance": 73778,
+    "latitude": 44.39605910418355,
+    "telephone": "0558781809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"L'île aux pitchouns\" Biscarrosse",
+    "resultStructId": "1461",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des tchicoys, bp30073",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1629229564718087,
+    "ville": "biscarrosse",
+    "cp": "40600"
+  },
+  {
+    "resultId": "12645487",
+    "mail": "crhgbiscarrosse@igesa.fr",
+    "distance": 74095,
+    "latitude": 44.395816740005664,
+    "telephone": "0558822137",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Laforêt enchantée",
+    "resultStructId": "706801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "dga em route de la plage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1669455205649606,
+    "ville": "biscarrosse",
+    "cp": "40600"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "59555770",
+    "mail": "maxeville@lpcr.fr",
+    "distance": 116073,
+    "latitude": 48.69979100859038,
+    "telephone": "0352790325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesColibris - LPCR Maxéville",
+    "resultStructId": "705908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue de l'orne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125719055143848,
+    "ville": "maxeville",
+    "cp": "54320"
+  },
+  {
+    "resultId": "12607045",
+    "mail": "maxeville@creche-la-maison-bleue.fr",
+    "distance": 116991,
+    "latitude": 48.70417318631232,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"MIRABELLE\"",
+    "resultStructId": "122201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue blaise pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.138490515260655,
+    "ville": "maxeville",
+    "cp": "54320"
+  },
+  {
+    "resultId": "12501050",
+    "mail": "falc1@orange.fr",
+    "distance": 118856,
+    "latitude": 48.7086184578148,
+    "telephone": "0967500638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants Franco-Allemand Kindergarten \"Pumuckl\"",
+    "resultStructId": "696715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34rue general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.164140034633092,
+    "ville": "maxeville",
+    "cp": "54320"
+  }
+]

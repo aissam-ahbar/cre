@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12981600",
+    "mail": "ribambelles@bailly-romainvilliers.fr",
+    "distance": 126840,
+    "latitude": 48.850266564025354,
+    "telephone": "0160434643",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Ribambelles",
+    "resultStructId": "674419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue du bois du trou 77700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8222446415049416,
+    "ville": "baillyromainvilliers",
+    "cp": ""
+  },
+  {
+    "resultId": "12981643",
+    "mail": "saperlipopette@bailly-romainvilliers.fr",
+    "distance": 127034,
+    "latitude": 48.85001413612434,
+    "telephone": "0164632651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Saperlipopette",
+    "resultStructId": "674416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place de l'europe 77700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8195452818048694,
+    "ville": "baillyromainvilliers",
+    "cp": ""
+  }
+]

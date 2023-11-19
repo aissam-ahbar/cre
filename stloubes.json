@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12562798",
+    "mail": "cabriole@saint-loubes.fr",
+    "distance": 64542,
+    "latitude": 44.912125095042605,
+    "telephone": "0556789974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CABRIOLE",
+    "resultStructId": "208509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des bouleaux 33450",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.42475065578627796,
+    "ville": "stloubes",
+    "cp": ""
+  }
+]

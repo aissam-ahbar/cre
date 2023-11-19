@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "44126020",
+    "mail": "",
+    "distance": 69437,
+    "latitude": 49.90217366359691,
+    "telephone": "0647573383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYZOU",
+    "resultStructId": "258501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 rue thuillier delambre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.325112595440916,
+    "ville": "rivery",
+    "cp": "80136"
+  },
+  {
+    "resultId": "12754079",
+    "mail": "pruvot.christelle@orange.fr",
+    "distance": 69487,
+    "latitude": 49.902583484103054,
+    "telephone": "0322925220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBARBAPAPAS",
+    "resultStructId": "258001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3219451997812923,
+    "ville": "rivery",
+    "cp": "80136"
+  }
+]

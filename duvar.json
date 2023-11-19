@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "60612722",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 119024,
+    "latitude": 43.14040977782217,
+    "telephone": "0494235873",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL COLLECTIF \"LES OLIVIERS\"",
+    "resultStructId": "713233",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "45 avenue lacondamine 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.98100050758259,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612603",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 120201,
+    "latitude": 43.132941357989296,
+    "telephone": "0494237669",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE LA PETITE ENFANCE \"LES MAGNOLIAS\"",
+    "resultStructId": "713232",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "169 avenuegermain nouveau 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992364644070525,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "44206979",
+    "mail": "direction@babycamp.fr",
+    "distance": 120585,
+    "latitude": 43.13413311684442,
+    "telephone": "0767660120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babycamp",
+    "resultStructId": "261601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 rue andre ampere 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9982426447819455,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21829480",
+    "mail": "frimousse.associationcreche@sfr.fr",
+    "distance": 128405,
+    "latitude": 43.22344438858607,
+    "telephone": "0494282351",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "16601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8avenue general de gaulle 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.146632904400537,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21346511",
+    "mail": "m.poggionovo@pierrefeu-du-var.fr",
+    "distance": 129218,
+    "latitude": 43.231791487472194,
+    "telephone": "0494318065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMusardière",
+    "resultStructId": "15304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 chemin de la joselette 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.160657371821074,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "57350897",
+    "mail": "cmizera@admr06.org",
+    "distance": 229594,
+    "latitude": 43.660353391919806,
+    "telephone": "0493266982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCADMR LES LAURENTINS (PAJE)",
+    "resultStructId": "674931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 avenue pierre ziller06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.183849471400413,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12903641",
+    "mail": "creche.moussaillons@saintlaurentduvar.fr",
+    "distance": 229648,
+    "latitude": 43.65934143753217,
+    "telephone": "0492271454",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MALes moussaillons",
+    "resultStructId": "695202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "37 avenue bailli de suffren 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.181418851573141,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12868897",
+    "mail": "creche.lutins@saintlaurentduvar.fr",
+    "distance": 230021,
+    "latitude": 43.66574210403257,
+    "telephone": "0493193705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes lutins",
+    "resultStructId": "695205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "90 chemin du jacquon 06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.183979940543665,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "13064684",
+    "mail": "lesptitsrobinsons@hotmail.com",
+    "distance": 230350,
+    "latitude": 43.67519303354513,
+    "telephone": "0493310192",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes p'tits Robinsons",
+    "resultStructId": "703607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "429 rue albert camus - batiment l- residence saint joseph 06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.191849520337599,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12868940",
+    "mail": "creche.renardeaux@saintlaurentduvar.fr",
+    "distance": 230350,
+    "latitude": 43.67519303354513,
+    "telephone": "0493144583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes renardeaux",
+    "resultStructId": "695204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 avenue francis teysseire 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.191849520337599,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12829372",
+    "mail": "contact@orevesdebebe.fr",
+    "distance": 230703,
+    "latitude": 43.67313714957386,
+    "telephone": "0646011479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCÔ rêves de bébé",
+    "resultStructId": "582509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "366 avenue des plantiers 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.182443584616516,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "27883803",
+    "mail": "contact@eden-eveil.fr",
+    "distance": 230755,
+    "latitude": 43.67790422958366,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCLe petit jardin d'Eden",
+    "resultStructId": "582510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "269 avenue des pugets 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.188483863646598,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12964959",
+    "mail": "creche.stmartin@svdb.fr",
+    "distance": 242541,
+    "latitude": 43.82187363820622,
+    "telephone": "0492080860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'oustalet",
+    "resultStructId": "585102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue pasteur 06670 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190895773129574,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21346511",
+    "mail": "m.poggionovo@pierrefeu-du-var.fr",
+    "distance": 269076,
+    "latitude": 43.231791487472194,
+    "telephone": "0494318065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMusardière",
+    "resultStructId": "15304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 chemin de la joselette 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.160657371821074,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21829480",
+    "mail": "frimousse.associationcreche@sfr.fr",
+    "distance": 269704,
+    "latitude": 43.22344438858607,
+    "telephone": "0494282351",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "16601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8avenue general de gaulle 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.146632904400537,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "44206979",
+    "mail": "direction@babycamp.fr",
+    "distance": 276719,
+    "latitude": 43.13413311684442,
+    "telephone": "0767660120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babycamp",
+    "resultStructId": "261601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 rue andre ampere 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9982426447819455,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612603",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 277110,
+    "latitude": 43.132941357989296,
+    "telephone": "0494237669",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE LA PETITE ENFANCE \"LES MAGNOLIAS\"",
+    "resultStructId": "713232",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "169 avenuegermain nouveau 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992364644070525,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612722",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 278278,
+    "latitude": 43.14040977782217,
+    "telephone": "0494235873",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL COLLECTIF \"LES OLIVIERS\"",
+    "resultStructId": "713233",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "45 avenue lacondamine 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.98100050758259,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612722",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 175992,
+    "latitude": 43.14040977782217,
+    "telephone": "0494235873",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL COLLECTIF \"LES OLIVIERS\"",
+    "resultStructId": "713233",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "45 avenue lacondamine 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.98100050758259,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612603",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 177123,
+    "latitude": 43.132941357989296,
+    "telephone": "0494237669",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE LA PETITE ENFANCE \"LES MAGNOLIAS\"",
+    "resultStructId": "713232",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "169 avenuegermain nouveau 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992364644070525,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "44206979",
+    "mail": "direction@babycamp.fr",
+    "distance": 177537,
+    "latitude": 43.13413311684442,
+    "telephone": "0767660120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babycamp",
+    "resultStructId": "261601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 rue andre ampere 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9982426447819455,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21829480",
+    "mail": "frimousse.associationcreche@sfr.fr",
+    "distance": 186447,
+    "latitude": 43.22344438858607,
+    "telephone": "0494282351",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "16601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8avenue general de gaulle 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.146632904400537,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21346511",
+    "mail": "m.poggionovo@pierrefeu-du-var.fr",
+    "distance": 187335,
+    "latitude": 43.231791487472194,
+    "telephone": "0494318065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMusardière",
+    "resultStructId": "15304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 chemin de la joselette 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.160657371821074,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21346511",
+    "mail": "m.poggionovo@pierrefeu-du-var.fr",
+    "distance": 81000,
+    "latitude": 43.231791487472194,
+    "telephone": "0494318065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMusardière",
+    "resultStructId": "15304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 chemin de la joselette 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.160657371821074,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "21829480",
+    "mail": "frimousse.associationcreche@sfr.fr",
+    "distance": 81822,
+    "latitude": 43.22344438858607,
+    "telephone": "0494282351",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "16601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8avenue general de gaulle 83390 pierrefeu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.146632904400537,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612722",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 91008,
+    "latitude": 43.14040977782217,
+    "telephone": "0494235873",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL COLLECTIF \"LES OLIVIERS\"",
+    "resultStructId": "713233",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "45 avenue lacondamine 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.98100050758259,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "44206979",
+    "mail": "direction@babycamp.fr",
+    "distance": 91616,
+    "latitude": 43.13413311684442,
+    "telephone": "0767660120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babycamp",
+    "resultStructId": "261601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 rue andre ampere 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9982426447819455,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12964959",
+    "mail": "creche.stmartin@svdb.fr",
+    "distance": 91678,
+    "latitude": 43.82187363820622,
+    "telephone": "0492080860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'oustalet",
+    "resultStructId": "585102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue pasteur 06670 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190895773129574,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60612603",
+    "mail": "enfance.aspe@lavalette83.fr",
+    "distance": 91776,
+    "latitude": 43.132941357989296,
+    "telephone": "0494237669",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE LA PETITE ENFANCE \"LES MAGNOLIAS\"",
+    "resultStructId": "713232",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "169 avenuegermain nouveau 83160 la valette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992364644070525,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12829372",
+    "mail": "contact@orevesdebebe.fr",
+    "distance": 95250,
+    "latitude": 43.67313714957386,
+    "telephone": "0646011479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCÔ rêves de bébé",
+    "resultStructId": "582509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "366 avenue des plantiers 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.182443584616516,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "27883803",
+    "mail": "contact@eden-eveil.fr",
+    "distance": 95531,
+    "latitude": 43.67790422958366,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCLe petit jardin d'Eden",
+    "resultStructId": "582510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "269 avenue des pugets 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.188483863646598,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12868897",
+    "mail": "creche.lutins@saintlaurentduvar.fr",
+    "distance": 95647,
+    "latitude": 43.66574210403257,
+    "telephone": "0493193705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes lutins",
+    "resultStructId": "695205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "90 chemin du jacquon 06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.183979940543665,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12903641",
+    "mail": "creche.moussaillons@saintlaurentduvar.fr",
+    "distance": 95701,
+    "latitude": 43.65934143753217,
+    "telephone": "0492271454",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MALes moussaillons",
+    "resultStructId": "695202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "37 avenue bailli de suffren 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.181418851573141,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "57350897",
+    "mail": "cmizera@admr06.org",
+    "distance": 95845,
+    "latitude": 43.660353391919806,
+    "telephone": "0493266982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCADMR LES LAURENTINS (PAJE)",
+    "resultStructId": "674931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 avenue pierre ziller06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.183849471400413,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "13064684",
+    "mail": "lesptitsrobinsons@hotmail.com",
+    "distance": 95886,
+    "latitude": 43.67519303354513,
+    "telephone": "0493310192",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes p'tits Robinsons",
+    "resultStructId": "703607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "429 rue albert camus - batiment l- residence saint joseph 06700 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.191849520337599,
+    "ville": "duvar",
+    "cp": ""
+  },
+  {
+    "resultId": "12868940",
+    "mail": "creche.renardeaux@saintlaurentduvar.fr",
+    "distance": 95886,
+    "latitude": 43.67519303354513,
+    "telephone": "0493144583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes renardeaux",
+    "resultStructId": "695204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 avenue francis teysseire 06700 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.191849520337599,
+    "ville": "duvar",
+    "cp": ""
+  }
+]

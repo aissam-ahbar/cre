@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12594962",
+    "mail": "creche.lacapucine@orange.fr",
+    "distance": 84279,
+    "latitude": 46.6095570637761,
+    "telephone": "0470431151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacapucine",
+    "resultStructId": "2617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis route nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.548891601684074,
+    "ville": "chevagnes",
+    "cp": "03230"
+  },
+  {
+    "resultId": "12594962",
+    "mail": "creche.lacapucine@orange.fr",
+    "distance": 148676,
+    "latitude": 46.6095570637761,
+    "telephone": "0470431151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacapucine",
+    "resultStructId": "2617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis route nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.548891601684074,
+    "ville": "chevagnes",
+    "cp": "03230"
+  }
+]

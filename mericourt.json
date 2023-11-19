@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "56478296",
+    "mail": "contact@betidouchou.fr",
+    "distance": 12105,
+    "latitude": 50.40533529943762,
+    "telephone": "0624823956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BETIDOUCHOU",
+    "resultStructId": "652804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106c rue blanqui",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8525092172663773,
+    "ville": "mericourt",
+    "cp": "62680"
+  },
+  {
+    "resultId": "56478344",
+    "mail": "contact@betidouchou.fr",
+    "distance": 12105,
+    "latitude": 50.40533529943762,
+    "telephone": "0624823956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BETIDOUCHOU N°2",
+    "resultStructId": "652805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106b rue blanqui",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8525092172663773,
+    "ville": "mericourt",
+    "cp": "62680"
+  },
+  {
+    "resultId": "13000477",
+    "mail": "lacourteechelle.mericourt@epdef.fr",
+    "distance": 13600,
+    "latitude": 50.40192469650201,
+    "telephone": "0321741982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOURTE ECHELLE",
+    "resultStructId": "671901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "286 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8749283367156053,
+    "ville": "mericourt",
+    "cp": "62680"
+  }
+]

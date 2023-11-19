@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12891300",
+    "mail": "",
+    "distance": 178784,
+    "latitude": 45.739086551685645,
+    "telephone": "0478902027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPirouette",
+    "resultStructId": "97003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue louis pergaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9709534849225605,
+    "ville": "chassieu",
+    "cp": "69680"
+  },
+  {
+    "resultId": "12905619",
+    "mail": "direction.louiseetmartin@gmail.com",
+    "distance": 179112,
+    "latitude": 45.73677378331941,
+    "telephone": "0622132345",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche de Louise & Martin",
+    "resultStructId": "9871",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 route de genas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9741779472510546,
+    "ville": "chassieu",
+    "cp": "69680"
+  }
+]

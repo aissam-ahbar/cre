@@ -1,0 +1,1274 @@
+[
+  {
+    "resultId": "13015140",
+    "mail": "bbaccueil@ville-boisleroi.fr",
+    "distance": 174888,
+    "latitude": 48.47475195271737,
+    "telephone": "0160663239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBébé Accueil",
+    "resultStructId": "154901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue gallieni 77590 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6914019531910864,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12765044",
+    "mail": "creche.boisleroi@free.fr",
+    "distance": 174898,
+    "latitude": 48.476339409169746,
+    "telephone": "0160691195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDessine-moi un mouton",
+    "resultStructId": "674415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du cos de la cure 77590bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.694139295608018,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "59696691",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 184788,
+    "latitude": 48.52680287715254,
+    "telephone": "0183866190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC- LES PETITES CANAILLES - BOISSISE LE ROI",
+    "resultStructId": "699104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue duchevalier de beause 77310 boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.575585895044128,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12763109",
+    "mail": "alpage.hg@gmail.com",
+    "distance": 184957,
+    "latitude": 48.525303719074074,
+    "telephone": "0160633139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil ALPAGE",
+    "resultStructId": "442001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du docteur limoge 77310boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5693601584409835,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13015140",
+    "mail": "bbaccueil@ville-boisleroi.fr",
+    "distance": 180206,
+    "latitude": 48.47475195271737,
+    "telephone": "0160663239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBébé Accueil",
+    "resultStructId": "154901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue gallieni 77590 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6914019531910864,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12765044",
+    "mail": "creche.boisleroi@free.fr",
+    "distance": 180451,
+    "latitude": 48.476339409169746,
+    "telephone": "0160691195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDessine-moi un mouton",
+    "resultStructId": "674415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du cos de la cure 77590bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.694139295608018,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12763109",
+    "mail": "alpage.hg@gmail.com",
+    "distance": 181788,
+    "latitude": 48.525303719074074,
+    "telephone": "0160633139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil ALPAGE",
+    "resultStructId": "442001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du docteur limoge 77310boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5693601584409835,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "59696691",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 182113,
+    "latitude": 48.52680287715254,
+    "telephone": "0183866190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC- LES PETITES CANAILLES - BOISSISE LE ROI",
+    "resultStructId": "699104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue duchevalier de beause 77310 boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.575585895044128,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12518852",
+    "mail": "haltegarderie@porteseureliennesidf.fr",
+    "distance": 183060,
+    "latitude": 48.645949987348935,
+    "telephone": "0237513169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Poussins Poussinettes\"",
+    "resultStructId": "702301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue eugene mesquite28210 nogent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.522595531737693,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25460020",
+    "mail": "m.chezbaw@gmail.com",
+    "distance": 190847,
+    "latitude": 48.71526921303028,
+    "telephone": "0130415803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABIES AND WORLD",
+    "resultStructId": "687508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du perray 78690 lesessarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.860554245797357,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12510295",
+    "mail": "multiacc.les-essarts@orange.fr",
+    "distance": 191124,
+    "latitude": 48.71633588212903,
+    "telephone": "0130415646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES ENFANTS D'ABORD",
+    "resultStructId": "684721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue du roussillon78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8888511556424157,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "60229580",
+    "mail": "contact@mrlapin.com",
+    "distance": 191195,
+    "latitude": 48.71796577163095,
+    "telephone": "0185400348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - VIOLETTE",
+    "resultStructId": "706905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie aux vaches 78690les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25324389",
+    "mail": "sbenrezig@hotmail.fr",
+    "distance": 191195,
+    "latitude": 48.71796577163095,
+    "telephone": "0981438508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheClamalylo - Les Petits Ateliers 2",
+    "resultStructId": "30003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie auxvaches 78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25324644",
+    "mail": "sbenrezig@hotmail.fr",
+    "distance": 191195,
+    "latitude": 48.71796577163095,
+    "telephone": "0981438508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheClamalylo - Les Petits Ateliers 1",
+    "resultStructId": "30004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie auxvaches 78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "57891223",
+    "mail": "villeneuve-le-roi@micro-stars.fr",
+    "distance": 199818,
+    "latitude": 48.72664813995948,
+    "telephone": "0146805655",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars de Villeneuve-le-Roi",
+    "resultStructId": "680309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 quai de halage 94290villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4401917403219144,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13069586",
+    "mail": "lespetitspas@ville-villeneuve-le-roi.fr",
+    "distance": 199952,
+    "latitude": 48.73377214186939,
+    "telephone": "0141659222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Petits Pas",
+    "resultStructId": "284201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue le blanc barbedienne94290 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4099250956414426,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "45195148",
+    "mail": "lesfrimousses@ville-villeneuve-le-roi.fr",
+    "distance": 200096,
+    "latitude": 48.73626322231129,
+    "telephone": "0145973860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFrimousses",
+    "resultStructId": "283101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 voie normande 94290 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.403868427807541,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "35948614",
+    "mail": "lesoisillions@ville-villeneuve-le-roi.fr",
+    "distance": 200586,
+    "latitude": 48.73358098792565,
+    "telephone": "0149614240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"les Oisillons\"",
+    "resultStructId": "284501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 ter rue paul bert 94290villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.441610601458894,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12765044",
+    "mail": "creche.boisleroi@free.fr",
+    "distance": 138957,
+    "latitude": 48.476339409169746,
+    "telephone": "0160691195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDessine-moi un mouton",
+    "resultStructId": "674415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du cos de la cure 77590bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.694139295608018,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13015140",
+    "mail": "bbaccueil@ville-boisleroi.fr",
+    "distance": 139193,
+    "latitude": 48.47475195271737,
+    "telephone": "0160663239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBébé Accueil",
+    "resultStructId": "154901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue gallieni 77590 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6914019531910864,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "59696691",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 146455,
+    "latitude": 48.52680287715254,
+    "telephone": "0183866190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC- LES PETITES CANAILLES - BOISSISE LE ROI",
+    "resultStructId": "699104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue duchevalier de beause 77310 boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.575585895044128,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12763109",
+    "mail": "alpage.hg@gmail.com",
+    "distance": 146935,
+    "latitude": 48.525303719074074,
+    "telephone": "0160633139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil ALPAGE",
+    "resultStructId": "442001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du docteur limoge 77310boissise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5693601584409835,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "35948614",
+    "mail": "lesoisillions@ville-villeneuve-le-roi.fr",
+    "distance": 154209,
+    "latitude": 48.73358098792565,
+    "telephone": "0149614240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"les Oisillons\"",
+    "resultStructId": "284501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 ter rue paul bert 94290villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.441610601458894,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "57891223",
+    "mail": "villeneuve-le-roi@micro-stars.fr",
+    "distance": 154324,
+    "latitude": 48.72664813995948,
+    "telephone": "0146805655",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars de Villeneuve-le-Roi",
+    "resultStructId": "680309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 quai de halage 94290villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4401917403219144,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13060255",
+    "mail": "lespetitsmatelots@ville-villeneuve-le-roi.fr",
+    "distance": 154740,
+    "latitude": 48.74368629517311,
+    "telephone": "0145973220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Matelots",
+    "resultStructId": "296901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue du marechal de turenne 94290villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.43423211521351,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12538804",
+    "mail": "",
+    "distance": 155452,
+    "latitude": 48.73969227410636,
+    "telephone": "0145975075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Jean Jacques Rousseau",
+    "resultStructId": "15417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue j.j.rousseau94290 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.424561431574191,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "18186459",
+    "mail": "",
+    "distance": 156156,
+    "latitude": 48.761959603218955,
+    "telephone": "0180511166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSUNNY",
+    "resultStructId": "15565",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue pierre mendes france 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4149647338513374,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "18186637",
+    "mail": "",
+    "distance": 156156,
+    "latitude": 48.761959603218955,
+    "telephone": "0180511166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMERRY",
+    "resultStructId": "15566",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue pierre mendes france 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4149647338513374,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13066533",
+    "mail": "petite.enfance@choisyleroi.fr",
+    "distance": 156159,
+    "latitude": 48.77170485841725,
+    "telephone": "0170139225",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Arc en Ciel",
+    "resultStructId": "690706",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 avenue de la folie 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4150924735004495,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12538159",
+    "mail": "",
+    "distance": 156170,
+    "latitude": 48.76633787691247,
+    "telephone": "0148909668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Des Gondoles",
+    "resultStructId": "15312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 et 7 avenue de villeneuve-saint -georges 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.414837603343109,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12523195",
+    "mail": "petite.enfance@choisyleroi.fr",
+    "distance": 156240,
+    "latitude": 48.756356416982726,
+    "telephone": "0148527083",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchecollective Jean Effel",
+    "resultStructId": "690704",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "114 avenue anatole france 94600choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.413771772567914,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13056557",
+    "mail": "contact@bambinseneveil.fr",
+    "distance": 156330,
+    "latitude": 48.76371774236113,
+    "telephone": "0148905443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Bambins en Eveil",
+    "resultStructId": "618702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue louis luc 94600choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412609063829291,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13069586",
+    "mail": "lespetitspas@ville-villeneuve-le-roi.fr",
+    "distance": 156532,
+    "latitude": 48.73377214186939,
+    "telephone": "0141659222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Petits Pas",
+    "resultStructId": "284201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue le blanc barbedienne94290 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4099250956414426,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12525689",
+    "mail": "petite.enfance@choisyleroi.fr",
+    "distance": 156556,
+    "latitude": 48.7623792983075,
+    "telephone": "0158424703",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Maison Capucine\"",
+    "resultStructId": "690705",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 bis avenue anatole france94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4095047782261987,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12538073",
+    "mail": "creche-choisy-parc@valdemarne.fr",
+    "distance": 156734,
+    "latitude": 48.76311255257155,
+    "telephone": "0148524625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Du Parc(Gourdault)",
+    "resultStructId": "15311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue leongourdault 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4070850284009855,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "17094480",
+    "mail": "",
+    "distance": 156798,
+    "latitude": 48.76284588636664,
+    "telephone": "0180511166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants EPONA",
+    "resultStructId": "15564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue leon gourdault 94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4062149589996156,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12538030",
+    "mail": "",
+    "distance": 156907,
+    "latitude": 48.76570675901218,
+    "telephone": "0148840686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Rouget De Lisle",
+    "resultStructId": "15315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard des allies94600 choisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4047655392733773,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "45195148",
+    "mail": "lesfrimousses@ville-villeneuve-le-roi.fr",
+    "distance": 156973,
+    "latitude": 48.73626322231129,
+    "telephone": "0145973860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFrimousses",
+    "resultStructId": "283101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 voie normande 94290 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.403868427807541,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12518852",
+    "mail": "haltegarderie@porteseureliennesidf.fr",
+    "distance": 152728,
+    "latitude": 48.645949987348935,
+    "telephone": "0237513169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Poussins Poussinettes\"",
+    "resultStructId": "702301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue eugene mesquite28210 nogent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.522595531737693,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25460020",
+    "mail": "m.chezbaw@gmail.com",
+    "distance": 175696,
+    "latitude": 48.71526921303028,
+    "telephone": "0130415803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABIES AND WORLD",
+    "resultStructId": "687508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du perray 78690 lesessarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.860554245797357,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "60229580",
+    "mail": "contact@mrlapin.com",
+    "distance": 176315,
+    "latitude": 48.71796577163095,
+    "telephone": "0185400348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - VIOLETTE",
+    "resultStructId": "706905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie aux vaches 78690les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25324389",
+    "mail": "sbenrezig@hotmail.fr",
+    "distance": 176315,
+    "latitude": 48.71796577163095,
+    "telephone": "0981438508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheClamalylo - Les Petits Ateliers 2",
+    "resultStructId": "30003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie auxvaches 78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "25324644",
+    "mail": "sbenrezig@hotmail.fr",
+    "distance": 176315,
+    "latitude": 48.71796577163095,
+    "telephone": "0981438508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheClamalylo - Les Petits Ateliers 1",
+    "resultStructId": "30004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la haie auxvaches 78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8697084284997818,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "48758231",
+    "mail": "lesalluets@lescolories.fr",
+    "distance": 177438,
+    "latitude": 48.914338131155766,
+    "telephone": "0648476039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- MICRO CRECHE - LES COLORIES DES ALLUETS",
+    "resultStructId": "707018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee descoquelicots 78580 les alluets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9112251898978099,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12510295",
+    "mail": "multiacc.les-essarts@orange.fr",
+    "distance": 177731,
+    "latitude": 48.71633588212903,
+    "telephone": "0130415646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES ENFANTS D'ABORD",
+    "resultStructId": "684721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue du roussillon78690 les essarts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8888511556424157,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12593285",
+    "mail": "multi-accueil@noisyleroi.fr",
+    "distance": 188683,
+    "latitude": 48.84389403314594,
+    "telephone": "0130804289",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - DES 2 OIES",
+    "resultStructId": "704209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 chemin de l'abreuvoir 78590noisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0601511233300123,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12592167",
+    "mail": "",
+    "distance": 190608,
+    "latitude": 48.87486919343541,
+    "telephone": "0139162918",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES PETITS PAS",
+    "resultStructId": "683432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 bis rue de montval 78160marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.089255623948006,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "57826444",
+    "mail": "lpm@sogecreche.fr",
+    "distance": 190858,
+    "latitude": 48.87572945386701,
+    "telephone": "0787342371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITS MOUSQUETAIRES",
+    "resultStructId": "684215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 - 19 chemin desmoines 78160 marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.092749000429657,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12592210",
+    "mail": "",
+    "distance": 191109,
+    "latitude": 48.87690453037944,
+    "telephone": "0139581626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE BALLON ROUGE",
+    "resultStructId": "683434",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue de saint germain78160 marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.096266911652478,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12592339",
+    "mail": "",
+    "distance": 191145,
+    "latitude": 48.871300541983935,
+    "telephone": "0139163100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFONTENELLE",
+    "resultStructId": "683430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la gare 78160 marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.096338253858114,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12592296",
+    "mail": "",
+    "distance": 191390,
+    "latitude": 48.87887834160712,
+    "telephone": "0130087025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES LUTINS",
+    "resultStructId": "683433",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue de l'amiral lemonnier78160 marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.10025558815258,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12599176",
+    "mail": "",
+    "distance": 191390,
+    "latitude": 48.87887834160712,
+    "telephone": "0130087028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LA FARANDOLE",
+    "resultStructId": "683435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue amiral lemonnier 78160marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.10025558815258,
+    "ville": "leroi",
+    "cp": ""
+  },
+  {
+    "resultId": "12593242",
+    "mail": "creche@ville-lemesnilleroi.fr",
+    "distance": 193113,
+    "latitude": 48.939911463675244,
+    "telephone": "0139627589",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Aglaé - Le Mesnil-le-Roi",
+    "resultStructId": "581901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue aristide briand78600 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.126530263238169,
+    "ville": "leroi",
+    "cp": ""
+  }
+]

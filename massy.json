@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "37679072",
+    "mail": "",
+    "distance": 195723,
+    "latitude": 48.719609439591345,
+    "telephone": "0185608604",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges - Emile Baudot",
+    "resultStructId": "160213",
+    "omegaId": "52065",
+    "avip": false,
+    "adresse": "avenue emilebaudot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2629859500048606,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "32439147",
+    "mail": "",
+    "distance": 196001,
+    "latitude": 48.72200867060345,
+    "telephone": "0160137219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Atlantis",
+    "resultStructId": "92207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue charcot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2640768520763905,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "32439922",
+    "mail": "",
+    "distance": 196187,
+    "latitude": 48.723536096821135,
+    "telephone": "0185530693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Graînede Sésame",
+    "resultStructId": "92209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "93 avenue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2653018568980414,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512660",
+    "mail": "multi.accueils.villaine@mairie-massy.fr",
+    "distance": 196204,
+    "latitude": 48.72793840181583,
+    "telephone": "0180380390",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif et familial Villaine",
+    "resultStructId": "696511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue joliotcurie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2367743159912448,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512574",
+    "mail": "creche.collective.pileu@mairie-massy.fr",
+    "distance": 196230,
+    "latitude": 48.7282486549502,
+    "telephone": "0180380231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePileu",
+    "resultStructId": "682623",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la vieille vigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2362765814315932,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "34127687",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 196440,
+    "latitude": 48.726197820043886,
+    "telephone": "0160116837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS MASSY",
+    "resultStructId": "414301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 mail atlantis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.263188069845722,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512187",
+    "mail": "creche.collective.vilmorin@mairie-massy.fr",
+    "distance": 196446,
+    "latitude": 48.729436757801,
+    "telephone": "0160137255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Vilmorin",
+    "resultStructId": "682620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14rue jean monet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.241790002587618,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "32431960",
+    "mail": "",
+    "distance": 196751,
+    "latitude": 48.72791980895272,
+    "telephone": "0170616761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCap Enfants",
+    "resultStructId": "92104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue victor bash",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.270666541592329,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "32438390",
+    "mail": "",
+    "distance": 196751,
+    "latitude": 48.72791980895272,
+    "telephone": "0160131574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCap Enfants",
+    "resultStructId": "92203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue victor bash",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.270666541592329,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "32438893",
+    "mail": "",
+    "distance": 196851,
+    "latitude": 48.730754793023344,
+    "telephone": "0180380038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LouisMoreau",
+    "resultStructId": "92205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 square du clos de la villaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2580763028354496,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "31989959",
+    "mail": "gmellinger@lecarrouseldesrois.com",
+    "distance": 197122,
+    "latitude": 48.73086999765524,
+    "telephone": "0699688030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCarrousel des Rois",
+    "resultStructId": "87101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2737665993412155,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512488",
+    "mail": "creche.collective.ferry@mairie-massy.fr",
+    "distance": 197162,
+    "latitude": 48.731109915444655,
+    "telephone": "0160137498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JulesFerry",
+    "resultStructId": "682621",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.274614810008635,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512789",
+    "mail": "v.gillet@mairie-massy.fr",
+    "distance": 197248,
+    "latitude": 48.73424823548527,
+    "telephone": "0160112478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Villaine",
+    "resultStructId": "706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rue edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.259213796032858,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12521862",
+    "mail": "",
+    "distance": 197351,
+    "latitude": 48.728304687552644,
+    "telephone": "0160110091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Meuniers",
+    "resultStructId": "917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue du saule trapu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.30335911241143,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12854105",
+    "mail": "massy@lpcr.fr",
+    "distance": 197534,
+    "latitude": 48.73207859618123,
+    "telephone": "0141055397",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8673",
+    "omegaId": "12196",
+    "avip": false,
+    "adresse": "3 rue du theatre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.290393105047045,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512746",
+    "mail": "v.mambour@mairie-massy.fr",
+    "distance": 197556,
+    "latitude": 48.7321256838475,
+    "telephone": "0169209702",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OpéraMassy",
+    "resultStructId": "705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2913702599131986,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512703",
+    "mail": "c.despontin@mairie-massy.fr",
+    "distance": 197801,
+    "latitude": 48.73472966665217,
+    "telephone": "0169817748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Opera",
+    "resultStructId": "704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2avenue de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2892391931951415,
+    "ville": "massy",
+    "cp": "91300"
+  },
+  {
+    "resultId": "12512144",
+    "mail": "creche.familiale.opera@mairie-massy.fr",
+    "distance": 197936,
+    "latitude": 48.73468846769817,
+    "telephone": "0169817748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MassyOpéra",
+    "resultStructId": "696510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du roussillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.29738649016409,
+    "ville": "massy",
+    "cp": "91300"
+  }
+]

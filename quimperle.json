@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12613753",
+    "mail": "creche.capucine@wanadoo.fr",
+    "distance": 194011,
+    "latitude": 47.87719028771751,
+    "telephone": "0298393179",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTURED'ACCUEIL PETITE ENFANCE - QUIMPERLE - CAPUCINE",
+    "resultStructId": "683703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruede la passerelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.5453096606488184,
+    "ville": "quimperle",
+    "cp": "29300"
+  },
+  {
+    "resultId": "12880851",
+    "mail": "crechelestournesols@ville-quimperle.fr",
+    "distance": 194983,
+    "latitude": 47.866492807621846,
+    "telephone": "0298090742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTURED'ACCUEIL PETITE ENFANCE - QUIMPERLE - LES TOURNESOLS",
+    "resultStructId": "9295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4rue de kerjouanneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.5605603673957096,
+    "ville": "quimperle",
+    "cp": "29300"
+  },
+  {
+    "resultId": "12613753",
+    "mail": "creche.capucine@wanadoo.fr",
+    "distance": 194011,
+    "latitude": 47.87719028771751,
+    "telephone": "0298393179",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTURED'ACCUEIL PETITE ENFANCE - QUIMPERLE - CAPUCINE",
+    "resultStructId": "683703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruede la passerelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.5453096606488184,
+    "ville": "quimperle",
+    "cp": "29300"
+  },
+  {
+    "resultId": "12880851",
+    "mail": "crechelestournesols@ville-quimperle.fr",
+    "distance": 194983,
+    "latitude": 47.866492807621846,
+    "telephone": "0298090742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTURED'ACCUEIL PETITE ENFANCE - QUIMPERLE - LES TOURNESOLS",
+    "resultStructId": "9295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4rue de kerjouanneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.5605603673957096,
+    "ville": "quimperle",
+    "cp": "29300"
+  }
+]

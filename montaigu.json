@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13048473",
+    "mail": "multiaccueil@ville-montaigu.com",
+    "distance": 75657,
+    "latitude": 46.971178268075796,
+    "telephone": "0251989589",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "13193",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue de l'aurore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3054624374917918,
+    "ville": "montaigu",
+    "cp": "85600"
+  },
+  {
+    "resultId": "13048473",
+    "mail": "multiaccueil@ville-montaigu.com",
+    "distance": 75657,
+    "latitude": 46.971178268075796,
+    "telephone": "0251989589",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "13193",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue de l'aurore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3054624374917918,
+    "ville": "montaigu",
+    "cp": "85600"
+  }
+]

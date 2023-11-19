@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12884420",
+    "mail": "creche@bernin.fr",
+    "distance": 433389,
+    "latitude": 45.26679173705249,
+    "telephone": "0476088841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ribambelle",
+    "resultStructId": "9378",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la proula",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8672439539818955,
+    "ville": "bernin",
+    "cp": "38190"
+  },
+  {
+    "resultId": "12884420",
+    "mail": "creche@bernin.fr",
+    "distance": 146485,
+    "latitude": 45.26679173705249,
+    "telephone": "0476088841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ribambelle",
+    "resultStructId": "9378",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la proula",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8672439539818955,
+    "ville": "bernin",
+    "cp": "38190"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12718853",
+    "mail": "multiaccueilbezenet.csr@orange.fr",
+    "distance": 142297,
+    "latitude": 46.331179381932564,
+    "telephone": "0470059727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Bézenet",
+    "resultStructId": "5498",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.845197499417704,
+    "ville": "bezenet",
+    "cp": "03170"
+  },
+  {
+    "resultId": "12718853",
+    "mail": "multiaccueilbezenet.csr@orange.fr",
+    "distance": 116023,
+    "latitude": 46.331179381932564,
+    "telephone": "0470059727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Bézenet",
+    "resultStructId": "5498",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.845197499417704,
+    "ville": "bezenet",
+    "cp": "03170"
+  }
+]

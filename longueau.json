@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12699589",
+    "mail": "creche.kangourous@orange.fr",
+    "distance": 71156,
+    "latitude": 49.8759056059401,
+    "telephone": "0322468662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESKANGOUROUS",
+    "resultStructId": "256302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lucette bonard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.361409837421148,
+    "ville": "longueau",
+    "cp": "80330"
+  },
+  {
+    "resultId": "12707630",
+    "mail": "angeline.gambart@ville-longueau.fr",
+    "distance": 71996,
+    "latitude": 49.86884999300345,
+    "telephone": "0322415893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESKOALAS",
+    "resultStructId": "256401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 bis rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.357224058428371,
+    "ville": "longueau",
+    "cp": "80330"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12622224",
+    "mail": "petite.enfance@animatcion.asso.fr",
+    "distance": 78967,
+    "latitude": 47.13261942300452,
+    "telephone": "0240311434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Port St Père",
+    "resultStructId": "444001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de pornic 44710 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7498732593488058,
+    "ville": "stpere",
+    "cp": ""
+  },
+  {
+    "resultId": "12776138",
+    "mail": "lespetitscocosdufort@orange.fr",
+    "distance": 128058,
+    "latitude": 48.58492178172962,
+    "telephone": "0299582413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"les petits cocos du Fort\"",
+    "resultStructId": "6860",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "beaulieu 35430",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9091966795289061,
+    "ville": "stpere",
+    "cp": ""
+  },
+  {
+    "resultId": "12776138",
+    "mail": "lespetitscocosdufort@orange.fr",
+    "distance": 108992,
+    "latitude": 48.58492178172962,
+    "telephone": "0299582413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"les petits cocos du Fort\"",
+    "resultStructId": "6860",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "beaulieu 35430",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9091966795289061,
+    "ville": "stpere",
+    "cp": ""
+  },
+  {
+    "resultId": "12622224",
+    "mail": "petite.enfance@animatcion.asso.fr",
+    "distance": 78967,
+    "latitude": 47.13261942300452,
+    "telephone": "0240311434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Port St Père",
+    "resultStructId": "444001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de pornic 44710 port",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7498732593488058,
+    "ville": "stpere",
+    "cp": ""
+  },
+  {
+    "resultId": "12776138",
+    "mail": "lespetitscocosdufort@orange.fr",
+    "distance": 128058,
+    "latitude": 48.58492178172962,
+    "telephone": "0299582413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"les petits cocos du Fort\"",
+    "resultStructId": "6860",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "beaulieu 35430",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9091966795289061,
+    "ville": "stpere",
+    "cp": ""
+  }
+]

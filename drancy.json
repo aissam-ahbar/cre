@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12862834",
+    "mail": "creche.farandole@drancy.fr",
+    "distance": 153998,
+    "latitude": 48.91799853912597,
+    "telephone": "0148965088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective La Farandole",
+    "resultStructId": "701227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue jacqueline",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.459829730314248,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "34227971",
+    "mail": "",
+    "distance": 154247,
+    "latitude": 48.91717267476383,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Drancy Jaurès",
+    "resultStructId": "701103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "152-158 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4562364719212244,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663254",
+    "mail": "",
+    "distance": 154534,
+    "latitude": 48.93543874630346,
+    "telephone": "0171295803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Division Leclerc\"",
+    "resultStructId": "116210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19avenue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4558356862438773,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12864296",
+    "mail": "",
+    "distance": 155059,
+    "latitude": 48.92374147501797,
+    "telephone": "0171292267",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Anatole France\"",
+    "resultStructId": "116019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.446272359319422,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12862963",
+    "mail": "deborah-guillemard@drancy.fr",
+    "distance": 155093,
+    "latitude": 48.921994747851784,
+    "telephone": "0148963941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEJEUX DE DRANCY",
+    "resultStructId": "701229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue charles-de-gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.445474544052054,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663211",
+    "mail": "",
+    "distance": 155144,
+    "latitude": 48.92372737874385,
+    "telephone": "0148963941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux La Frandole",
+    "resultStructId": "4204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue sadi carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.445095860623331,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12666264",
+    "mail": "",
+    "distance": 155519,
+    "latitude": 48.92110346712838,
+    "telephone": "0171295972",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Aimé Césaire\"",
+    "resultStructId": "116018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 ruemarc seguin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4394290923808106,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12700363",
+    "mail": "",
+    "distance": 155709,
+    "latitude": 48.915848417687855,
+    "telephone": "0171292052",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Gaston Roulaud\"",
+    "resultStructId": "116213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110rue roger salengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4358454650289043,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12896546",
+    "mail": "drancy@creche-la-maison-bleue.fr",
+    "distance": 156446,
+    "latitude": 48.9296534498008,
+    "telephone": "0967092847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison Bleue \" Francoise Dolto\"",
+    "resultStructId": "117312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue pierresemard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4282730554187255,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663340",
+    "mail": "",
+    "distance": 156743,
+    "latitude": 48.921565095247374,
+    "telephone": "0148362759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Védrines",
+    "resultStructId": "4207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue saint stenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422637704862732,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "34190700",
+    "mail": "",
+    "distance": 156743,
+    "latitude": 48.921565095247374,
+    "telephone": "0171295980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Saint-Stenay\"",
+    "resultStructId": "116216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100rue saint-stenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422637704862732,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663125",
+    "mail": "",
+    "distance": 157061,
+    "latitude": 48.917983435478114,
+    "telephone": "0148311885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Maison des Titis Doudous",
+    "resultStructId": "4202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 - 5 allee gabriel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417598702518183,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "34231273",
+    "mail": "lesptitsloupsdrancy@crechesdefrance.com",
+    "distance": 157061,
+    "latitude": 48.917983435478114,
+    "telephone": "0185781790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Ptits Loups de Drancy",
+    "resultStructId": "117308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4-5 allee gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417598702518183,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663254",
+    "mail": "",
+    "distance": 172060,
+    "latitude": 48.93543874630346,
+    "telephone": "0171295803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Division Leclerc\"",
+    "resultStructId": "116210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19avenue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4558356862438773,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663125",
+    "mail": "",
+    "distance": 9801,
+    "latitude": 48.917983435478114,
+    "telephone": "0148311885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Maison des Titis Doudous",
+    "resultStructId": "4202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 - 5 allee gabriel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417598702518183,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "34231273",
+    "mail": "lesptitsloupsdrancy@crechesdefrance.com",
+    "distance": 9801,
+    "latitude": 48.917983435478114,
+    "telephone": "0185781790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Ptits Loups de Drancy",
+    "resultStructId": "117308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4-5 allee gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417598702518183,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "12663340",
+    "mail": "",
+    "distance": 10342,
+    "latitude": 48.921565095247374,
+    "telephone": "0148362759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Védrines",
+    "resultStructId": "4207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue saint stenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422637704862732,
+    "ville": "drancy",
+    "cp": "93700"
+  },
+  {
+    "resultId": "34190700",
+    "mail": "",
+    "distance": 10342,
+    "latitude": 48.921565095247374,
+    "telephone": "0171295980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Saint-Stenay\"",
+    "resultStructId": "116216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100rue saint-stenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422637704862732,
+    "ville": "drancy",
+    "cp": "93700"
+  }
+]

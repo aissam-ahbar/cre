@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12888419",
+    "mail": "lafarandole.direction@orange.fr",
+    "distance": 133575,
+    "latitude": 46.1113841040051,
+    "telephone": "0437551368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Cococinelles",
+    "resultStructId": "9471",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.731833129358129,
+    "ville": "belleville",
+    "cp": "69220"
+  },
+  {
+    "resultId": "12888462",
+    "mail": "csbelleville@aol.com",
+    "distance": 134045,
+    "latitude": 46.10844028546594,
+    "telephone": "0474064984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Farandole",
+    "resultStructId": "9472",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard rosselli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.738186866935309,
+    "ville": "belleville",
+    "cp": "69220"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12836166",
+    "mail": "d-delassus@ville-canteleu.fr",
+    "distance": 165241,
+    "latitude": 49.45642453491643,
+    "telephone": "0235363875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS",
+    "resultStructId": "583205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue pablo picasso",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0344989434956253,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12832382",
+    "mail": "onm.crechemariecurie@orange.fr",
+    "distance": 165565,
+    "latitude": 49.45119371086279,
+    "telephone": "0235980118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MARIECURIE",
+    "resultStructId": "635902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gaston boulet - bapeaume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0360286607699982,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12829845",
+    "mail": "halteverte@csfcanteleu.org",
+    "distance": 165565,
+    "latitude": 49.45119371086279,
+    "telephone": "0232830946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEVERTE",
+    "resultStructId": "708026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue alexande dumas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0360286607699982,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12836639",
+    "mail": "lespetitspas@csfcanteleu.org",
+    "distance": 165871,
+    "latitude": 49.44852221100894,
+    "telephone": "0235363098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteLes Petits Pas",
+    "resultStructId": "303101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'armes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.034105191375719,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12826061",
+    "mail": "maureen.charmel@onm.fr",
+    "distance": 166048,
+    "latitude": 49.44816667199098,
+    "telephone": "0235362025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TRAMPOLINE",
+    "resultStructId": "608202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1avenue de buchholz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0312299112324361,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12826061",
+    "mail": "maureen.charmel@onm.fr",
+    "distance": 126446,
+    "latitude": 49.44816667199098,
+    "telephone": "0235362025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TRAMPOLINE",
+    "resultStructId": "608202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1avenue de buchholz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0312299112324361,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12836639",
+    "mail": "lespetitspas@csfcanteleu.org",
+    "distance": 126650,
+    "latitude": 49.44852221100894,
+    "telephone": "0235363098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteLes Petits Pas",
+    "resultStructId": "303101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'armes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.034105191375719,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12829845",
+    "mail": "halteverte@csfcanteleu.org",
+    "distance": 126907,
+    "latitude": 49.45119371086279,
+    "telephone": "0232830946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEVERTE",
+    "resultStructId": "708026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue alexande dumas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0360286607699982,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12832382",
+    "mail": "onm.crechemariecurie@orange.fr",
+    "distance": 126907,
+    "latitude": 49.45119371086279,
+    "telephone": "0235980118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MARIECURIE",
+    "resultStructId": "635902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gaston boulet - bapeaume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0360286607699982,
+    "ville": "canteleu",
+    "cp": "76380"
+  },
+  {
+    "resultId": "12836166",
+    "mail": "d-delassus@ville-canteleu.fr",
+    "distance": 127070,
+    "latitude": 49.45642453491643,
+    "telephone": "0235363875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS",
+    "resultStructId": "583205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue pablo picasso",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0344989434956253,
+    "ville": "canteleu",
+    "cp": "76380"
+  }
+]

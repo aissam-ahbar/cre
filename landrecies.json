@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12615731",
+    "mail": "petitdome@sfr.fr",
+    "distance": 78973,
+    "latitude": 50.125085510404865,
+    "telephone": "0327778959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche",
+    "resultStructId": "3100",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3boulevard vauban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6880711041089986,
+    "ville": "landrecies",
+    "cp": "59550"
+  }
+]

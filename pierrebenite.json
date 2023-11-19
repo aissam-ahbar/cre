@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12601670",
+    "mail": "pierredelune@pierrebenite.fr",
+    "distance": 178651,
+    "latitude": 45.70445230792803,
+    "telephone": "0478501480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Pierre de Lune",
+    "resultStructId": "87907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue du 19-mars-1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814689582593677,
+    "ville": "pierrebenite",
+    "cp": "69310"
+  },
+  {
+    "resultId": "12601713",
+    "mail": "pierredelune@pierrebenite.fr",
+    "distance": 178651,
+    "latitude": 45.70445230792803,
+    "telephone": "0478501480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierre de Lune",
+    "resultStructId": "362603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue du 19-mars-1962 69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814689582593677,
+    "ville": "pierrebenite",
+    "cp": ""
+  },
+  {
+    "resultId": "32031134",
+    "mail": "",
+    "distance": 178932,
+    "latitude": 45.703738457584514,
+    "telephone": "0478861075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJules Courmont",
+    "resultStructId": "87908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 chemin du grand perron - batiment 2/o69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824097175996842,
+    "ville": "pierrebenite",
+    "cp": ""
+  },
+  {
+    "resultId": "32031340",
+    "mail": "",
+    "distance": 179027,
+    "latitude": 45.699899610111544,
+    "telephone": "0478861119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSainte Eugénie",
+    "resultStructId": "87910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "165 chemin du grand revoyet 69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8096149218544735,
+    "ville": "pierrebenite",
+    "cp": ""
+  },
+  {
+    "resultId": "12601627",
+    "mail": "pre-en-bulle@pierrebenite.fr",
+    "distance": 179209,
+    "latitude": 45.700001150456195,
+    "telephone": "0478866224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPré en bulle",
+    "resultStructId": "362604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue charles de gaulle 69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.818527232030548,
+    "ville": "pierrebenite",
+    "cp": ""
+  },
+  {
+    "resultId": "12769817",
+    "mail": "ruche.grainedevie@orange.fr",
+    "distance": 179247,
+    "latitude": 45.700928406351295,
+    "telephone": "0478505514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ruche",
+    "resultStructId": "130401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 mai 1945 69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8247746459839576,
+    "ville": "pierrebenite",
+    "cp": ""
+  },
+  {
+    "resultId": "12595693",
+    "mail": "maud.leger@garderisettes.fr",
+    "distance": 179496,
+    "latitude": 45.699049064093764,
+    "telephone": "0478071658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGarderisettes Pierre-Bénite",
+    "resultStructId": "2634",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 avenue de haute roche69310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826994925098008,
+    "ville": "pierrebenite",
+    "cp": ""
+  }
+]

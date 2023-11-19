@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "60199460",
+    "mail": "fwalckenaer@gmail.com",
+    "distance": 114252,
+    "latitude": 49.37909757131817,
+    "telephone": "0622801572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Mamie",
+    "resultStructId": "706308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue brouilliaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3272417114797204,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32494789",
+    "mail": "lateliermontessorisoissons@gmail.com",
+    "distance": 114297,
+    "latitude": 49.378105439890085,
+    "telephone": "0323724807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ATELIERMONTESSORI",
+    "resultStructId": "92507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de panleu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.325232828862302,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13044646",
+    "mail": "leslutins@ville-soissons.fr",
+    "distance": 114450,
+    "latitude": 49.38007905687147,
+    "telephone": "0323533434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "13104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de l'eveche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3249531183477017,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "12828942",
+    "mail": "creche.hopital@ch-soissons.fr",
+    "distance": 114496,
+    "latitude": 49.383755541637036,
+    "telephone": "0323757160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aquarelle",
+    "resultStructId": "8088",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue d'oulchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3286650230030346,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32493230",
+    "mail": "crechepasapas@gmail.com",
+    "distance": 114699,
+    "latitude": 49.38045454438874,
+    "telephone": "0323729591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "UNPAS DE PLUS",
+    "resultStructId": "92504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3210059275995807,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32493412",
+    "mail": "crechepasapas@gmail.com",
+    "distance": 114699,
+    "latitude": 49.38045454438874,
+    "telephone": "0323729591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PASA PAS",
+    "resultStructId": "92505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3210059275995807,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13044603",
+    "mail": "lespetitsdiables@ville-soissons.fr",
+    "distance": 114763,
+    "latitude": 49.372658033400924,
+    "telephone": "0323532215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Diables",
+    "resultStructId": "13103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.310450810531411,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13052472",
+    "mail": "larondedesenfants@ville-soissons.fr",
+    "distance": 114763,
+    "latitude": 49.372658033400924,
+    "telephone": "0323732574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde des Enfants",
+    "resultStructId": "13286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.310450810531411,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "29556948",
+    "mail": "m.laroche@les-cherubins.com",
+    "distance": 114982,
+    "latitude": 49.3816687530638,
+    "telephone": "0623715304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaClé des Chérubins",
+    "resultStructId": "53401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de compiegne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.317506315118517,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "12571054",
+    "mail": "lespitchounes@ville-soissons.fr",
+    "distance": 115683,
+    "latitude": 49.380666272734004,
+    "telephone": "0323726281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchounes",
+    "resultStructId": "2061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3039341081119784,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "12571054",
+    "mail": "lespitchounes@ville-soissons.fr",
+    "distance": 128516,
+    "latitude": 49.380666272734004,
+    "telephone": "0323726281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchounes",
+    "resultStructId": "2061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3039341081119784,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "29556948",
+    "mail": "m.laroche@les-cherubins.com",
+    "distance": 128731,
+    "latitude": 49.3816687530638,
+    "telephone": "0623715304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaClé des Chérubins",
+    "resultStructId": "53401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de compiegne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.317506315118517,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "12828942",
+    "mail": "creche.hopital@ch-soissons.fr",
+    "distance": 128780,
+    "latitude": 49.383755541637036,
+    "telephone": "0323757160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aquarelle",
+    "resultStructId": "8088",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue d'oulchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3286650230030346,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32493230",
+    "mail": "crechepasapas@gmail.com",
+    "distance": 128942,
+    "latitude": 49.38045454438874,
+    "telephone": "0323729591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "UNPAS DE PLUS",
+    "resultStructId": "92504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3210059275995807,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32493412",
+    "mail": "crechepasapas@gmail.com",
+    "distance": 128942,
+    "latitude": 49.38045454438874,
+    "telephone": "0323729591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PASA PAS",
+    "resultStructId": "92505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3210059275995807,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13044646",
+    "mail": "leslutins@ville-soissons.fr",
+    "distance": 129076,
+    "latitude": 49.38007905687147,
+    "telephone": "0323533434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "13104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de l'eveche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3249531183477017,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "60199460",
+    "mail": "fwalckenaer@gmail.com",
+    "distance": 129234,
+    "latitude": 49.37909757131817,
+    "telephone": "0622801572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Mamie",
+    "resultStructId": "706308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue brouilliaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3272417114797204,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "32494789",
+    "mail": "lateliermontessorisoissons@gmail.com",
+    "distance": 129290,
+    "latitude": 49.378105439890085,
+    "telephone": "0323724807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ATELIERMONTESSORI",
+    "resultStructId": "92507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de panleu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.325232828862302,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13044603",
+    "mail": "lespetitsdiables@ville-soissons.fr",
+    "distance": 129511,
+    "latitude": 49.372658033400924,
+    "telephone": "0323532215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Diables",
+    "resultStructId": "13103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.310450810531411,
+    "ville": "soissons",
+    "cp": "02200"
+  },
+  {
+    "resultId": "13052472",
+    "mail": "larondedesenfants@ville-soissons.fr",
+    "distance": 129511,
+    "latitude": 49.372658033400924,
+    "telephone": "0323732574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde des Enfants",
+    "resultStructId": "13286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.310450810531411,
+    "ville": "soissons",
+    "cp": "02200"
+  }
+]

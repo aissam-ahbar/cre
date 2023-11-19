@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12923292",
+    "mail": "loustics05100@gamil.com",
+    "distance": 364326,
+    "latitude": 44.893691942271694,
+    "telephone": "0950837312",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLoustics de la Durance",
+    "resultStructId": "10282",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la soie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.635630267548094,
+    "ville": "briancon",
+    "cp": "05100"
+  },
+  {
+    "resultId": "13041851",
+    "mail": "accueil@ccbrianconnais.fr",
+    "distance": 365547,
+    "latitude": 44.904562128838165,
+    "telephone": "0492211674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES BOUCLES",
+    "resultStructId": "13039",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.630666641714586,
+    "ville": "briancon",
+    "cp": "05100"
+  },
+  {
+    "resultId": "12923292",
+    "mail": "loustics05100@gamil.com",
+    "distance": 113697,
+    "latitude": 44.893691942271694,
+    "telephone": "0950837312",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLoustics de la Durance",
+    "resultStructId": "10282",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la soie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.635630267548094,
+    "ville": "briancon",
+    "cp": "05100"
+  },
+  {
+    "resultId": "13041851",
+    "mail": "accueil@ccbrianconnais.fr",
+    "distance": 114648,
+    "latitude": 44.904562128838165,
+    "telephone": "0492211674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES BOUCLES",
+    "resultStructId": "13039",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.630666641714586,
+    "ville": "briancon",
+    "cp": "05100"
+  }
+]

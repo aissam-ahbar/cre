@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "53432267",
+    "mail": "dixpetitsdoigts@histoiresdemomes.fr",
+    "distance": 176235,
+    "latitude": 46.77669508268849,
+    "telephone": "0381895303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDix Petits Doigts",
+    "resultStructId": "712116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place de la mairie 25370",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.374022911770941,
+    "ville": "leshopitauxneufs",
+    "cp": ""
+  },
+  {
+    "resultId": "54119161",
+    "mail": "joursdeveil@histoiresdemomes.fr",
+    "distance": 176273,
+    "latitude": 46.777021018106524,
+    "telephone": "0381382319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Jours d'Eveil",
+    "resultStructId": "706606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 route de lausanne 25370",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.374696647719632,
+    "ville": "leshopitauxneufs",
+    "cp": ""
+  }
+]

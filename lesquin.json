@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "57716127",
+    "mail": "lesquincrt1@babilou.com",
+    "distance": 30283,
+    "latitude": 50.58218347053381,
+    "telephone": "0320730948",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEBABILOU PIC AU VENT",
+    "resultStructId": "678301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du pic au vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.111888633857791,
+    "ville": "lesquin",
+    "cp": "59810"
+  },
+  {
+    "resultId": "12508188",
+    "mail": "lesquincrt1@orange.fr",
+    "distance": 30295,
+    "latitude": 50.581738651419215,
+    "telephone": "0320320739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE123 SOLEIL",
+    "resultStructId": "599",
+    "omegaId": "15326",
+    "avip": false,
+    "adresse": "1 rue pic au vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1123734546441955,
+    "ville": "lesquin",
+    "cp": "59810"
+  },
+  {
+    "resultId": "12514896",
+    "mail": "multiaccueil@ville-lesquin.fr",
+    "distance": 30471,
+    "latitude": 50.590253422053124,
+    "telephone": "0320163358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Ribambelle",
+    "resultStructId": "696015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 bis rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.109095529858578,
+    "ville": "lesquin",
+    "cp": "59810"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12611990",
+    "mail": "le-ptit-coucou@cchc.fr",
+    "distance": 164234,
+    "latitude": 47.92154851237713,
+    "telephone": "0384924622",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeP'tit Coucou",
+    "resultStructId": "628803",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du jard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.100135951935828,
+    "ville": "vauvillers",
+    "cp": "70210"
+  },
+  {
+    "resultId": "12611990",
+    "mail": "le-ptit-coucou@cchc.fr",
+    "distance": 146069,
+    "latitude": 47.92154851237713,
+    "telephone": "0384924622",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeP'tit Coucou",
+    "resultStructId": "628803",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du jard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.100135951935828,
+    "ville": "vauvillers",
+    "cp": "70210"
+  }
+]

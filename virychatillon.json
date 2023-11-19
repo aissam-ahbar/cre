@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12614742",
+    "mail": "",
+    "distance": 191040,
+    "latitude": 48.657856077313134,
+    "telephone": "0169248226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ariane",
+    "resultStructId": "3077",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11avenue jean mermoz 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3705163432479903,
+    "ville": "virychatillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12502039",
+    "mail": "",
+    "distance": 191040,
+    "latitude": 48.657856077313134,
+    "telephone": "0169052090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ariane",
+    "resultStructId": "456",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11avenue jean mermoz 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3705163432479903,
+    "ville": "virychatillon",
+    "cp": ""
+  },
+  {
+    "resultId": "32000599",
+    "mail": "frimoussesetenfantillages@gmail.com",
+    "distance": 192456,
+    "latitude": 48.66999806971798,
+    "telephone": "0669448058",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousseset Enfantillages",
+    "resultStructId": "87508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue francoeur 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3763275577122065,
+    "ville": "virychatillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12502125",
+    "mail": "",
+    "distance": 192573,
+    "latitude": 48.67134616788017,
+    "telephone": "0169123868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil S. Lacore",
+    "resultStructId": "458",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de bretagne - les coteaux del'orge 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.375011534629695,
+    "ville": "virychatillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12614699",
+    "mail": "",
+    "distance": 192573,
+    "latitude": 48.67134616788017,
+    "telephone": "0169123860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "S.Lacore",
+    "resultStructId": "3076",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de bretagne espace suzanne lacore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.375011534629695,
+    "ville": "virychatillon",
+    "cp": "91170"
+  },
+  {
+    "resultId": "12502082",
+    "mail": "",
+    "distance": 192725,
+    "latitude": 48.672325148600265,
+    "telephone": "0169451778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "F.Dolto",
+    "resultStructId": "457",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue de la republique 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3773702992215617,
+    "ville": "virychatillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12614785",
+    "mail": "",
+    "distance": 193676,
+    "latitude": 48.680162631995785,
+    "telephone": "0169575354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Olympesde Gouges",
+    "resultStructId": "3078",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard meder 91170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3829499721177148,
+    "ville": "virychatillon",
+    "cp": ""
+  }
+]

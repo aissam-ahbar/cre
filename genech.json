@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12777858",
+    "mail": "pommedapi-genech@orange.fr",
+    "distance": 35514,
+    "latitude": 50.53083051515104,
+    "telephone": "0320845168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMED'API",
+    "resultStructId": "693304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "935 rue de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.213093291916586,
+    "ville": "genech",
+    "cp": "59242"
+  }
+]

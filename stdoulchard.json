@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12484315",
+    "mail": "",
+    "distance": 135662,
+    "latitude": 47.103008973159,
+    "telephone": "0680207331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCASde St Doulchard",
+    "resultStructId": "44",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des vignes 18230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3707880139517035,
+    "ville": "stdoulchard",
+    "cp": ""
+  },
+  {
+    "resultId": "57650481",
+    "mail": "saint.doulchard@lpcr.fr",
+    "distance": 136952,
+    "latitude": 47.11009503882512,
+    "telephone": "0975905861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLPCR Saint Doulchard Vouzeron",
+    "resultStructId": "677506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "675 route de vouzeron18230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3523100991028127,
+    "ville": "stdoulchard",
+    "cp": ""
+  },
+  {
+    "resultId": "57650481",
+    "mail": "saint.doulchard@lpcr.fr",
+    "distance": 52160,
+    "latitude": 47.11009503882512,
+    "telephone": "0975905861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLPCR Saint Doulchard Vouzeron",
+    "resultStructId": "677506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "675 route de vouzeron18230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3523100991028127,
+    "ville": "stdoulchard",
+    "cp": ""
+  },
+  {
+    "resultId": "12484315",
+    "mail": "",
+    "distance": 53357,
+    "latitude": 47.103008973159,
+    "telephone": "0680207331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCASde St Doulchard",
+    "resultStructId": "44",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des vignes 18230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3707880139517035,
+    "ville": "stdoulchard",
+    "cp": ""
+  }
+]

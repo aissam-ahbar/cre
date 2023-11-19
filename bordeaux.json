@@ -1,0 +1,2762 @@
+[
+  {
+    "resultId": "27789730",
+    "mail": "creche.ernestine@gmail.com",
+    "distance": 57623,
+    "latitude": 44.812624461074066,
+    "telephone": "0556910102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ERNESTINE",
+    "resultStructId": "41906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "244 boulevard albert 1er",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5572533204501108,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "19915463",
+    "mail": "canaillous.33@orange.fr",
+    "distance": 57832,
+    "latitude": 44.81494907351765,
+    "telephone": "0556853566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CANAILLOUS BRASCASSAT",
+    "resultStructId": "685703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4/6 rue brascassat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5565872467352665,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "21436810",
+    "mail": "contact@babilou.com",
+    "distance": 58214,
+    "latitude": 44.81405016055805,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL Babilou Bordeaux Albert 1er",
+    "resultStructId": "556104",
+    "omegaId": "52086",
+    "avip": false,
+    "adresse": "35 boulevardalbert 1er",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5699638055046585,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12675036",
+    "mail": "canaillous.armagnac@hotmail.fr",
+    "distance": 58348,
+    "latitude": 44.82216264191635,
+    "telephone": "0980827268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CANAILLOUS ARMAGNAC",
+    "resultStructId": "14979",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue beck",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5505270084591618,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "21519369",
+    "mail": "bordeaux.boca@lpcr.fr",
+    "distance": 58653,
+    "latitude": 44.8259349862988,
+    "telephone": "0540248110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS CHAPERONS ROUGES BORDEAUX BOCA",
+    "resultStructId": "15909",
+    "omegaId": "33561",
+    "avip": false,
+    "adresse": "1rue de la seigliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.548283717408364,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12507758",
+    "mail": "direction.lafiteau@canaillous.org",
+    "distance": 58699,
+    "latitude": 44.824590405339954,
+    "telephone": "0556853979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CANAILLOUS LAFFITEAU",
+    "resultStructId": "684508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue laffiteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5537049061865587,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12689871",
+    "mail": "creche.mimosa@yahoo.fr",
+    "distance": 58724,
+    "latitude": 44.82157428402398,
+    "telephone": "0983041451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMIMOSA",
+    "resultStructId": "4824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue lefol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5632218478136936,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12672198",
+    "mail": "ma-mirassou@eponyme.pro",
+    "distance": 58862,
+    "latitude": 44.82160185984385,
+    "telephone": "0557801884",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MIRASSOU",
+    "resultStructId": "683005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33-35 rue roger mirassou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.567106748644974,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12672069",
+    "mail": "mirassou.occasionnel@babilou.com",
+    "distance": 58862,
+    "latitude": 44.82160185984385,
+    "telephone": "0557800514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MIRASSOU OCCASIONNEL",
+    "resultStructId": "4410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33-35 rue roger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.567106748644974,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "21339816",
+    "mail": "creche.malbec@mairie-bordeaux.fr",
+    "distance": 58916,
+    "latitude": 44.8205457000298,
+    "telephone": "0556565050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MALBEC",
+    "resultStructId": "15260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 rue malbec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5716027727311597,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "59798109",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 59006,
+    "latitude": 44.827985956092284,
+    "telephone": "0547743175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCBORDEAUX",
+    "resultStructId": "700003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 quai de paludate",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5526890967981336,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "18401216",
+    "mail": "les.argonautes@people-and-baby.com",
+    "distance": 59466,
+    "latitude": 44.82259559742353,
+    "telephone": "0954290080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES ARGONAUTES",
+    "resultStructId": "447801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "255 cours l'argonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5812462799125535,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12995532",
+    "mail": "globetrotteurs@pitchoun.org",
+    "distance": 59469,
+    "latitude": 44.82588367068152,
+    "telephone": "0557019998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PITCHOUN'GLOBE TROTTEURS",
+    "resultStructId": "440001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 cours de la somme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5722363629651467,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12558111",
+    "mail": "creche.marqueaux@mairie-bordeaux.fr",
+    "distance": 59551,
+    "latitude": 44.82434620681302,
+    "telephone": "0556915590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil régulier JEAN MARQUAUX",
+    "resultStructId": "433001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "208 cours de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5788235648674452,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "58498555",
+    "mail": "crescendo@groupe-sos.org",
+    "distance": 59572,
+    "latitude": 44.82578987756587,
+    "telephone": "0973156831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRESCENDOA PETITS PAS",
+    "resultStructId": "685201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue des sablieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5754138762515623,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12693956",
+    "mail": "contact@alema.asso.fr",
+    "distance": 59572,
+    "latitude": 44.825789932170096,
+    "telephone": "0556946101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEALEMA \"SABLIERES\"",
+    "resultStructId": "4919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue des sablieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5754137322361728,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "21339988",
+    "mail": "creche.georgesv@mairie-bordeaux.fr",
+    "distance": 59620,
+    "latitude": 44.822765308614485,
+    "telephone": "0556577893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GEORGE V",
+    "resultStructId": "15261",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "154 boulevard george v",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5850211763878368,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12555101",
+    "mail": "miaudouard@fondationcos.org",
+    "distance": 59796,
+    "latitude": 44.82534780242898,
+    "telephone": "0763710960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil VILLA PIA",
+    "resultStructId": "690009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue des treuils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5828629487342487,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12560605",
+    "mail": "pouponniere@9business.fr",
+    "distance": 59989,
+    "latitude": 44.82318817805479,
+    "telephone": "0556963450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil PAIN D'EPICE",
+    "resultStructId": "1818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de caulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5938904130980633,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558240",
+    "mail": "creche.philippe@mairie-bordeaux.fr",
+    "distance": 60028,
+    "latitude": 44.83332412957769,
+    "telephone": "0556917817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier GASPARD PHILIPPE",
+    "resultStructId": "433004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue gaspardphilippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5669996647855794,
+    "ville": "bordeaux",
+    "cp": "33800"
+  },
+  {
+    "resultId": "12565163",
+    "mail": "creche@ch-perrens.fr",
+    "distance": 60165,
+    "latitude": 44.82208151902966,
+    "telephone": "0556964663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEHOSPTALIERE PERRENS",
+    "resultStructId": "1924",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue tauzin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6014359305998136,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12993855",
+    "mail": "bassinsaflot@babilou.com",
+    "distance": 60234,
+    "latitude": 44.835249474012365,
+    "telephone": "0556392505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBordeaux Bassins à Flot",
+    "resultStructId": "556201",
+    "omegaId": "15388",
+    "avip": false,
+    "adresse": "68-70 rue lucien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5673708030171555,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21437153",
+    "mail": "contact@babilou.com",
+    "distance": 60300,
+    "latitude": 44.840669770148196,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BABILOU BASTIDE BENAUGE",
+    "resultStructId": "556103",
+    "omegaId": "52384",
+    "avip": false,
+    "adresse": "112 rue de labenauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5531204067873621,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "12557939",
+    "mail": "elodie.beneteau@apeef.com",
+    "distance": 60329,
+    "latitude": 44.833114240373334,
+    "telephone": "0556338650",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie MAISON DES ENFANTS",
+    "resultStructId": "688605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue magendie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5762252367276004,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558068",
+    "mail": "creche.magendie@mairie-bordeaux.fr",
+    "distance": 60336,
+    "latitude": 44.833298816347344,
+    "telephone": "0556917388",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil MAGENDIE",
+    "resultStructId": "421501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue magendie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5759010105977662,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12560562",
+    "mail": "pouponniere@9business.fr",
+    "distance": 60360,
+    "latitude": 44.83038222283244,
+    "telephone": "0556245003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ESCALE DES BAMBINS",
+    "resultStructId": "1817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue du tondu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5846985113925204,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12560089",
+    "mail": "lamaisondusoleil@wanadoo.fr",
+    "distance": 60365,
+    "latitude": 44.84156088610664,
+    "telephone": "0556327264",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie LA MAISON DU SOLEIL",
+    "resultStructId": "1806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5523574342891746,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "59853533",
+    "mail": "",
+    "distance": 60383,
+    "latitude": 44.82776338961504,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYLOUBORDEAUX LECLERC",
+    "resultStructId": "700507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "126 boulevard marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5924038231511546,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "18180739",
+    "mail": "bordeaux2@creche-la-maison-bleue.fr",
+    "distance": 60447,
+    "latitude": 44.83712318304461,
+    "telephone": "0146540574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CADET ROUSSELLE",
+    "resultStructId": "14725",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de la rousselle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5681091094425831,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558197",
+    "mail": "creche.benauge.halte@mairie-bordeaux.fr",
+    "distance": 60485,
+    "latitude": 44.84540897232032,
+    "telephone": "0556861617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier BENAUGE \"GALIPETTE\"",
+    "resultStructId": "433003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rueraymond poincare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.543971649776157,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "57595364",
+    "mail": "lesminots@ub4kids.com",
+    "distance": 60501,
+    "latitude": 44.83219029689757,
+    "telephone": "0962555245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMinots",
+    "resultStructId": "676917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "139 rue de belleville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5836363321632108,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12590318",
+    "mail": "bastide@pitchoun.org",
+    "distance": 60515,
+    "latitude": 44.842440388224176,
+    "telephone": "0557019994",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PITCHOUN BASTIDE",
+    "resultStructId": "679820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de nuits",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5542254527252831,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "12559573",
+    "mail": "creche.stecolombe@mairie-bordeaux.fr",
+    "distance": 60534,
+    "latitude": 44.837414179667945,
+    "telephone": "0556565740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil régulier SAINTE COLOMBE",
+    "resultStructId": "433802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2/4 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5697927687847918,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559143",
+    "mail": "creche.stecolombe.maco@mairie-bordeaux.fr",
+    "distance": 60534,
+    "latitude": 44.837414179667945,
+    "telephone": "0556565741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel SAINTE COLOMBE",
+    "resultStructId": "433402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue saintecolombe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5697927687847918,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558584",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60548,
+    "latitude": 44.84609872902946,
+    "telephone": "0557544924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel BENAUGE GALIPETTE",
+    "resultStructId": "1771",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue raymondpoincare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5437486535023572,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12713693",
+    "mail": "creche.tralalayres@groupe-sos.org",
+    "distance": 60606,
+    "latitude": 44.83640804161231,
+    "telephone": "0973687268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TRALALAYRES",
+    "resultStructId": "683007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58rue des ayres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5747870410048961,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558326",
+    "mail": "creche.carreire@mairie-bordeaux.fr",
+    "distance": 60622,
+    "latitude": 44.82368659264192,
+    "telephone": "0556986718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier CARREIRE",
+    "resultStructId": "433006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue camille saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6092932361375767,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12567829",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60648,
+    "latitude": 44.83223460814811,
+    "telephone": "0556813370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Serviceaccueil familial BORDEAUX CENTRE",
+    "resultStructId": "1986",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue jean renauddandicolle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5876001513313838,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12506253",
+    "mail": "pouponniere@9business.fr",
+    "distance": 60654,
+    "latitude": 44.83000059704103,
+    "telephone": "0556988563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil POUPONNIERE DU CENTRE",
+    "resultStructId": "554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "144 rue manon cormier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5937992099038767,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "57965433",
+    "mail": "bordeaux.thomas@lcpr.fr",
+    "distance": 60672,
+    "latitude": 44.82907557009248,
+    "telephone": "0554060038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lespetits chaperons rouges",
+    "resultStructId": "681302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5967243594225669,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "22971398",
+    "mail": "bordeaux.thomas@lpcr.fr",
+    "distance": 60672,
+    "latitude": 44.82907557009248,
+    "telephone": "0554060038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CHRISTIANE LARRALDE",
+    "resultStructId": "122203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5967243594225669,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "18403012",
+    "mail": "crechepetitsbouchons@gmail.com",
+    "distance": 60713,
+    "latitude": 44.83686048951548,
+    "telephone": "0556007455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PETITS BOUCHONS",
+    "resultStructId": "14853",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des palanques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.576556899236559,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559272",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60768,
+    "latitude": 44.8395860423997,
+    "telephone": "0556518970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILCOLLECTIF BORDEAUX CENTRE",
+    "resultStructId": "1787",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3/5 rue des argentiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5702996722710544,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "18177520",
+    "mail": "lesenfantsdosiris@gmail.com",
+    "distance": 60783,
+    "latitude": 44.83160147575041,
+    "telephone": "0953194701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL EDEN ART",
+    "resultStructId": "14710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "190 rue lecocq",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5930008108806932,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12699417",
+    "mail": "melodieetritournelle@people-and-baby.com",
+    "distance": 60839,
+    "latitude": 44.8363177303538,
+    "telephone": "0950235955",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MELODIE",
+    "resultStructId": "5046",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7cours du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.581647345219873,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12711070",
+    "mail": "ritournelle@people-and-baby.com",
+    "distance": 60839,
+    "latitude": 44.8363177303538,
+    "telephone": "0950235955",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RITOURNELLE",
+    "resultStructId": "5317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7cours du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.581647345219873,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "57595114",
+    "mail": "lesmias@ub4kids.com",
+    "distance": 60882,
+    "latitude": 44.83391054963483,
+    "telephone": "0962555245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMias",
+    "resultStructId": "676914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "144 rue ornano",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5894932243617724,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21340183",
+    "mail": "creche.grdparc.collec@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0524996122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GRAND PARC 1",
+    "resultStructId": "15262",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue pierre trebod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21446342",
+    "mail": "creche.baby.art@people-and-baby.com",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0665774592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BABY'ART",
+    "resultStructId": "15681",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 cours barbey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558971",
+    "mail": "creche.grand-parc.halte@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556501311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel GRAND PARC",
+    "resultStructId": "433401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21340256",
+    "mail": "creche.grdparc.collec@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556503304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE GRAND PARC",
+    "resultStructId": "15266",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559487",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556986797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective ST AUGUSTIN",
+    "resultStructId": "1792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 cite de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558025",
+    "mail": "creche.vernet.maco@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556844540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel CARLE VERNET",
+    "resultStructId": "421301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du professeurdevaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12557853",
+    "mail": "creche.vernet.macr@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556857327",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL REGULIER CARLE VERNET",
+    "resultStructId": "420801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du professeurdevaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559315",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556509325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilfamilial BORDEAUX NORD",
+    "resultStructId": "1788",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "489 avenue de laroque residence dulac - entree h",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559444",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556503304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheaccueil familial GRAND PARC",
+    "resultStructId": "1791",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue louis gendreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558283",
+    "mail": "creche.cite@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556242926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier CITE ADMINISTRATIVE",
+    "resultStructId": "433005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rue julesferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12711113",
+    "mail": "marine.marcantoine@apprentis-auteuil.org",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556800015",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES POUSSES DU LAC",
+    "resultStructId": "344701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du jonc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12557982",
+    "mail": "creche.arc-en-ciel.multi@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556691233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel ARC EN CIEL",
+    "resultStructId": "421201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des genetsresidence du lac ent. t",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12846107",
+    "mail": "bordeaux@lpcr.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0984330322",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8487",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 esplanade charle de gaulle -immeuble le cardinal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12805464",
+    "mail": "grainedemalice@people-and-baby.com",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRAINEDE MALICE",
+    "resultStructId": "7542",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de boutaut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12802454",
+    "mail": "tourniquai@people-and-baby.com",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOURNIQUAI",
+    "resultStructId": "7472",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51-59 rue leonce motelay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558154",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556502943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier du GRAND PARC",
+    "resultStructId": "1761",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "58770081",
+    "mail": "elodie.beneteau@apeef.com",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556327264",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONSOLEIL",
+    "resultStructId": "688609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559358",
+    "mail": "creche.faulat.halte@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0557229154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel ARMAND FAULAT L'ESCALE",
+    "resultStructId": "433801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559401",
+    "mail": "formulaire.personnel@mairie-bordeaux.fr",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556029721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheaccueil familial CAUDERAN",
+    "resultStructId": "1790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bahr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12565851",
+    "mail": "",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556503711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie",
+    "resultStructId": "1940",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue samuel kirsy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12563529",
+    "mail": "",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0556432367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil BABILOU L'ILE AUX OISEAUX",
+    "resultStructId": "1886",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade charles degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12805507",
+    "mail": "bilboquai@people-and-baby.com",
+    "distance": 60893,
+    "latitude": 44.83768522866586,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BILBO'QUAI",
+    "resultStructId": "7543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51-59 rue leon motelay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5793438778978893,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12546974",
+    "mail": "apimiasso@orange.fr",
+    "distance": 60933,
+    "latitude": 44.84587778886325,
+    "telephone": "0556678706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LE JARDIN D'HORTENSE",
+    "resultStructId": "1501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 rue hortense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5563647770060032,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "12559229",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 60959,
+    "latitude": 44.831629165222566,
+    "telephone": "0556930698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ORNANO CACHE CACHE",
+    "resultStructId": "1786",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "300 rue d'ornano",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5977219809452701,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "18181905",
+    "mail": "apimiasso@orange.fr",
+    "distance": 60965,
+    "latitude": 44.846153342094325,
+    "telephone": "0556678706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA CABANE DE GUSTAVE",
+    "resultStructId": "692308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "136 rue hortense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5564801628758719,
+    "ville": "bordeaux",
+    "cp": "33100"
+  },
+  {
+    "resultId": "51319261",
+    "mail": "contact@welovelittle.com",
+    "distance": 60972,
+    "latitude": 44.83169984143151,
+    "telephone": "0547500365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheLittle Ornano",
+    "resultStructId": "674532",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "295 rue d'ornano",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5978829472901849,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12604121",
+    "mail": "",
+    "distance": 61058,
+    "latitude": 44.83038258955121,
+    "telephone": "0556795679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PELLEGRIN",
+    "resultStructId": "2830",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place amelie raba leon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6036184136436874,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "40920120",
+    "mail": "contact@babilou.com",
+    "distance": 61128,
+    "latitude": 44.83856689276461,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBordeaux Mériadeck",
+    "resultStructId": "556101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue du chateau d'eau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5834920664081927,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12805421",
+    "mail": "lepetittheatre@people-and-baby.com",
+    "distance": 61204,
+    "latitude": 44.84305018107131,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT THEATRE",
+    "resultStructId": "7541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue esprit des lois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5729004514459541,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12560476",
+    "mail": "coucou.directrice@gmail.com",
+    "distance": 61240,
+    "latitude": 44.83262379277012,
+    "telephone": "0556514196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COUCOU",
+    "resultStructId": "688612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois daunes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6026452044816007,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12497094",
+    "mail": "multiaccueil@saint-bruno.org",
+    "distance": 61431,
+    "latitude": 44.8386312246551,
+    "telephone": "0556969652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEILUNION SAINT-BRUNO",
+    "resultStructId": "366401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue brizard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.591765781822261,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "51222980",
+    "mail": "contact@welovelittle.com",
+    "distance": 61607,
+    "latitude": 44.841962674711006,
+    "telephone": "0547500365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheLittle Saint Seurin",
+    "resultStructId": "674533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue segalier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5874987874805457,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12693913",
+    "mail": "directricebrinsdeveil@gmail.com",
+    "distance": 61656,
+    "latitude": 44.847184069647184,
+    "telephone": "0556010820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BRINS D' EVEIL",
+    "resultStructId": "4918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue vauban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5740054490248961,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558369",
+    "mail": "creche.barraud.collec@mairie-bordeaux.fr",
+    "distance": 61832,
+    "latitude": 44.84447141734893,
+    "telephone": "0556444512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilcollectif régulier ALBERT BARRAUD",
+    "resultStructId": "433101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue du dr albertbarraud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5868161278769042,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12534117",
+    "mail": "creche@alema.asso.fr",
+    "distance": 61858,
+    "latitude": 44.84228115082659,
+    "telephone": "0556028083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ALEMA",
+    "resultStructId": "1202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 rue georges mandel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5936159529484697,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "58455780",
+    "mail": "creche.babillot@groupe-sos.org",
+    "distance": 61858,
+    "latitude": 44.84228115082659,
+    "telephone": "0984356714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRESCENDOBABILLOT",
+    "resultStructId": "684718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 rue georges mandel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5936159529484697,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "56961274",
+    "mail": "contact@pommeetlune.fr",
+    "distance": 61928,
+    "latitude": 44.83908998277538,
+    "telephone": "0983938382",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommeet Lune",
+    "resultStructId": "669801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue solle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6040908365834292,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "18416971",
+    "mail": "odelices@people-and-baby.com",
+    "distance": 61988,
+    "latitude": 44.851015651207184,
+    "telephone": "0973139538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL O'DELICES",
+    "resultStructId": "14949",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue cornac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5724713548344071,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12503931",
+    "mail": "ptitboutchou.eaje@gmail.com",
+    "distance": 62117,
+    "latitude": 44.84641029187665,
+    "telephone": "0556811922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL P'TIT BOUT'CHOU",
+    "resultStructId": "15165",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue mondenard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5894252492614046,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21168690",
+    "mail": "millecouleurs.eaje@gmail.com",
+    "distance": 62128,
+    "latitude": 44.84644038574755,
+    "telephone": "0532091596",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MILLE COULEURS",
+    "resultStructId": "15166",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74b rue mondenard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5896442985796971,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12805249",
+    "mail": "odes.sens@people-and-baby.com",
+    "distance": 62158,
+    "latitude": 44.844269507473854,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ODES SENS",
+    "resultStructId": "7537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue de marseille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.596469786831651,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12723807",
+    "mail": "lesenfantsdosiris@gmail.com",
+    "distance": 62243,
+    "latitude": 44.846084814309854,
+    "telephone": "0606519176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESENFANTS D'OSIRIS",
+    "resultStructId": "5643",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 cours marc nouaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5938418011728246,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "18177577",
+    "mail": "lesenfantsdosiris@gmail.com",
+    "distance": 62243,
+    "latitude": 44.846084814309854,
+    "telephone": "0950504642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES ENFANTS D'OSIRIS",
+    "resultStructId": "14711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 cours marc nouaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5938418011728246,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "21438341",
+    "mail": "cre-479@babilou.com",
+    "distance": 62263,
+    "latitude": 44.84851006311721,
+    "telephone": "0556448619",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBordeaux Naujac",
+    "resultStructId": "676105",
+    "omegaId": "34469",
+    "avip": false,
+    "adresse": "83 rue naujac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5876430532355638,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "44476940",
+    "mail": "lespetitspreneurs@gmail.com",
+    "distance": 62332,
+    "latitude": 44.844179316322595,
+    "telephone": "0630341798",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Preneurs",
+    "resultStructId": "685011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6014762056832081,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "34546947",
+    "mail": "bordeaux.detrois@lpcr.fr",
+    "distance": 62371,
+    "latitude": 44.841264374656355,
+    "telephone": "0554060036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES -DETROIS",
+    "resultStructId": "122202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue detrois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6102530618902177,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "12557896",
+    "mail": "creche.barreyre.mult@mairie-bordeaux.fr",
+    "distance": 62469,
+    "latitude": 44.85649583602047,
+    "telephone": "0556004975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil JARDIN D'ENFANTS BARREYRE",
+    "resultStructId": "420901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "97 rue barreyre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.570395115493887,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "12546243",
+    "mail": "sourisverte@foyerfraternel.fr",
+    "distance": 62470,
+    "latitude": 44.85598182312337,
+    "telephone": "0557874726",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA SOURIS VERTE",
+    "resultStructId": "499201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue gouffrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5719564511897027,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12994801",
+    "mail": "quatresaisons@pitchoun.org",
+    "distance": 62572,
+    "latitude": 44.8519042046213,
+    "telephone": "0557019995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PITCHOUN'4 SAISONS",
+    "resultStructId": "691604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jean odin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5868250515318538,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "22972014",
+    "mail": "multiaccueil.lucilann@gmail.com",
+    "distance": 62595,
+    "latitude": 44.84136368175076,
+    "telephone": "0980319526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LUCILANN",
+    "resultStructId": "689309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du professeur moreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6159399630806215,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "51318979",
+    "mail": "contact@welovelittle.com",
+    "distance": 62624,
+    "latitude": 44.85478258353874,
+    "telephone": "0547500365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheLittle Chartrons",
+    "resultStructId": "444502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "118 rue camille godard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.580034150115238,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12561680",
+    "mail": "n.david@belorme.com",
+    "distance": 62676,
+    "latitude": 44.850248807998696,
+    "telephone": "0556698005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Câlins D'Orme",
+    "resultStructId": "689125",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue naujac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.59442503099723,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "41216279",
+    "mail": "bassinsaflot@babilou.com",
+    "distance": 62701,
+    "latitude": 44.863032956787166,
+    "telephone": "0776305485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBabilou Aloha",
+    "resultStructId": "214907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68/70 rue lucien faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.557272225359597,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "18401173",
+    "mail": "creche.lucienfaure@mairie-bordeaux.fr",
+    "distance": 62748,
+    "latitude": 44.863305808950116,
+    "telephone": "0524996138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHELUCIEN FAURE",
+    "resultStructId": "48801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue sente des mariniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5578726585643837,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "12558412",
+    "mail": "creche.chartrons@mairie-bordeaux.fr",
+    "distance": 62904,
+    "latitude": 44.86214200679195,
+    "telephone": "0556502428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil régulier DES CHARTRONS",
+    "resultStructId": "433201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5663091350815256,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12558713",
+    "mail": "creche.chartrons.multi@mairie-bordeaux.fr",
+    "distance": 62904,
+    "latitude": 44.86214200679195,
+    "telephone": "0556191101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil occasionnel LES CHARTRONS",
+    "resultStructId": "433301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5663091350815256,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12559186",
+    "mail": "creche.faulat.collec@mairie-bordeaux.fr",
+    "distance": 63003,
+    "latitude": 44.84641485325467,
+    "telephone": "0557229150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil régulier ARMAND FAULAT",
+    "resultStructId": "433701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bahr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6136674056201334,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "12579482",
+    "mail": "cauderan@pitchoun.com",
+    "distance": 63038,
+    "latitude": 44.850006293669736,
+    "telephone": "0557019992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil PITCHOUN CAUDERAN",
+    "resultStructId": "686909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "152 avenue charles de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6050962350410797,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "21416008",
+    "mail": "central.parc@people-and-baby.com",
+    "distance": 63144,
+    "latitude": 44.85065715080201,
+    "telephone": "0952568020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CENTRAL PARC",
+    "resultStructId": "15529",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "163 avenue charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6062419459925226,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "58778258",
+    "mail": "contact@nuage-bleu.fr",
+    "distance": 63162,
+    "latitude": 44.86362136510897,
+    "telephone": "0556503711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCNUAGE BLEU",
+    "resultStructId": "688710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue samuel kirsz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5696217320649251,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "12995575",
+    "mail": "creche.grandparc.gendreau@mairie-bordeaux.fr",
+    "distance": 63253,
+    "latitude": 44.86025217816918,
+    "telephone": "0556502943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GRAND PARC GENDREAU",
+    "resultStructId": "433803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue louis gendreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5824112167239607,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "12559616",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 63342,
+    "latitude": 44.86408311696952,
+    "telephone": "0556392028",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil régulier HAUSSMANN",
+    "resultStructId": "675719",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "181 cours du medoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.573650518670028,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "12542459",
+    "mail": "apcd2@wanadoo.fr",
+    "distance": 63412,
+    "latitude": 44.844923801935835,
+    "telephone": "0556349792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PARENTS DE CAUDERAN",
+    "resultStructId": "681716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6282382468769414,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "12558498",
+    "mail": "formulaire-personnel@mairie-bordeaux.fr",
+    "distance": 63898,
+    "latitude": 44.87894774307346,
+    "telephone": "0556396385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil régulier CLAVEAU",
+    "resultStructId": "1769",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "135 rue joseph brunet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.543398464317181,
+    "ville": "bordeaux",
+    "cp": "33000"
+  },
+  {
+    "resultId": "22058841",
+    "mail": "bordeauxperinot@creche-attitude.fr",
+    "distance": 64207,
+    "latitude": 44.85275329213793,
+    "telephone": "0556142895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CRECHE ATTITUDE BORDEAUX PERINOT",
+    "resultStructId": "16801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6291403878788228,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "12693999",
+    "mail": "labergedulacmr@people-and-baby.com",
+    "distance": 64900,
+    "latitude": 44.88048175080155,
+    "telephone": "0954607841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABERGE DU LAC MR",
+    "resultStructId": "4920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue xavier arsene henry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5705691151095179,
+    "ville": "bordeaux",
+    "cp": "33300"
+  },
+  {
+    "resultId": "12555144",
+    "mail": "lacoccinelle.asso@orange.fr",
+    "distance": 65169,
+    "latitude": 44.86013830497654,
+    "telephone": "0556971248",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LA COCCINELLE",
+    "resultStructId": "689310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "502 avenue du marechal de lattrede tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6355407711773321,
+    "ville": "bordeaux",
+    "cp": "33200"
+  },
+  {
+    "resultId": "22972775",
+    "mail": "microcreche.lucilann@gmail.com",
+    "distance": 65378,
+    "latitude": 44.86492007935789,
+    "telephone": "0556462433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LUCILANN",
+    "resultStructId": "692304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee davezac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6287498697607162,
+    "ville": "bordeaux",
+    "cp": "33200"
+  }
+]

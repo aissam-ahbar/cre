@@ -1,0 +1,4754 @@
+[
+  {
+    "resultId": "12835306",
+    "mail": "dpe-poterie@ville-rennes.fr",
+    "distance": 72235,
+    "latitude": 48.09057768563994,
+    "telephone": "0223621453",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal La Poterie - Rennes",
+    "resultStructId": "554601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28 rue jean monnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6390221302895345,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "58109916",
+    "mail": "contact@lbbe.fr",
+    "distance": 72275,
+    "latitude": 48.09477178976885,
+    "telephone": "0977701779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise Les Explorateurs de La Poterie - SAS Crecheo -Rennes",
+    "resultStructId": "683001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee de la gueriniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6330566669557534,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36970269",
+    "mail": "bignon@leszouzousrennais.fr",
+    "distance": 72518,
+    "latitude": 48.09533501739482,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Bignon - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b ruedu bignon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6369741514786105,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "39004016",
+    "mail": "contact.landry@bebe-breizh-montessori.com",
+    "distance": 72547,
+    "latitude": 48.095977705226694,
+    "telephone": "0609561318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBébé Breizh Montessori Landry - Rennes",
+    "resultStructId": "361301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.636498223214634,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12806539",
+    "mail": "lespetitsmerlins@merlinpinpin.com",
+    "distance": 72588,
+    "latitude": 48.087318605150266,
+    "telephone": "0223354010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Merlins - Ass Merlinpinpin - Rennes",
+    "resultStructId": "130503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12quater avenue de pologne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.651069827968704,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "58654033",
+    "mail": "rennes@lesptitsbabadins.com",
+    "distance": 72745,
+    "latitude": 48.101523218418855,
+    "telephone": "0230210985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion Rennes",
+    "resultStructId": "687113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rueambroisine garnier leray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6313790938884583,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632372",
+    "mail": "cs.ty-blosne@assoarcs.com",
+    "distance": 73046,
+    "latitude": 48.08850136823848,
+    "telephone": "0299509047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Ty-Blosne - ARCS - Rennes",
+    "resultStructId": "692610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevardde yougoslavie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6581202391574201,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12683249",
+    "mail": "dpe-wallon@ville-rennes.fr",
+    "distance": 73141,
+    "latitude": 48.09018161347284,
+    "telephone": "0223621454",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Henri Wallon - Rennes",
+    "resultStructId": "554002",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue de hongrie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.657347465985465,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12835091",
+    "mail": "infos@etoilerennes.fr",
+    "distance": 73505,
+    "latitude": 48.08718698619188,
+    "telephone": "0299506525",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Municipale Les Champs d'Andorre - Rennes",
+    "resultStructId": "555401",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rued'andorre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.668953556266187,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12716832",
+    "mail": "referent.petitspotes@gmail.com",
+    "distance": 73508,
+    "latitude": 48.09018182444601,
+    "telephone": "0299321930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental Les Petits Potes - Association - Rennes",
+    "resultStructId": "180905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rueraymond hermer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6644584857180316,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12661061",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 73655,
+    "latitude": 48.09007570590026,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Jardins d'Emile RENNES",
+    "resultStructId": "4154",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6674425417220944,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12915165",
+    "mail": "c18@assoarcs.com",
+    "distance": 73674,
+    "latitude": 48.08701908462961,
+    "telephone": "0299513225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Carrefour 18 - ARCS - Rennes",
+    "resultStructId": "692603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rued'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6724575781097146,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12835564",
+    "mail": "dpe-bodin@ville-rennes.fr",
+    "distance": 73816,
+    "latitude": 48.085734470513806,
+    "telephone": "0223621861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Louise Bodin - Rennes",
+    "resultStructId": "555101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 square de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.677083005925237,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "57952762",
+    "mail": "accueil@koalakids.fr",
+    "distance": 74113,
+    "latitude": 48.09071577267595,
+    "telephone": "0805690425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKoalaKids Fréville - SARL Ma Cabane en Bois - Rennes",
+    "resultStructId": "681113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12avenue henri freville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.675259605763877,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "50226631",
+    "mail": "associationlaclefdeschamps@gmail.com",
+    "distance": 74208,
+    "latitude": 48.10792167311959,
+    "telephone": "0678444105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPlein Air - Ass La Clef des Champs - Rennes",
+    "resultStructId": "677511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 ruefrancoise elie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.650107826539449,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "31819186",
+    "mail": "bureaubbr@gmail.com",
+    "distance": 74270,
+    "latitude": 48.08958722315419,
+    "telephone": "0299535622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBisougou - Rennes",
+    "resultStructId": "694307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 boulevard albert 1er",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6799668337497702,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "37734956",
+    "mail": "contact@tometjosette.fr",
+    "distance": 74298,
+    "latitude": 48.10249423475113,
+    "telephone": "0221074438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTom et Josette - Les Roseraies - Rennes",
+    "resultStructId": "162303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "137 ruesaint-helier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6606034089699468,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12997940",
+    "mail": "dpe-malaguzzi@ville-rennes.fr",
+    "distance": 74470,
+    "latitude": 48.095568720984396,
+    "telephone": "0223621456",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Loris Malaguzzi - Rennes",
+    "resultStructId": "554502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "101 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6747260722299568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12869800",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 74513,
+    "latitude": 48.109132663573924,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Thabor - Rennes",
+    "resultStructId": "572501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du sous-lieutenantlay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6542027546345628,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632458",
+    "mail": "halte.champsmanceaux@assoarcs.com",
+    "distance": 74522,
+    "latitude": 48.09178369946055,
+    "telephone": "0299508670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social des Champs Manceaux - ARCS - Rennes",
+    "resultStructId": "692604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15rue louis et rene moine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.681458571402172,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "38116889",
+    "mail": "eurorennes@liveli.fr",
+    "distance": 74800,
+    "latitude": 48.104822284829815,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACrèche Eurorennes - Crèche Attitude - Rennes",
+    "resultStructId": "226706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35-37boulevard solferino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6667444629409505,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "59536664",
+    "mail": "rennes.solferino@lpcr.fr",
+    "distance": 74817,
+    "latitude": 48.10488014155654,
+    "telephone": "0299019873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLPCR Rennes Solferino - Renes",
+    "resultStructId": "699302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.666985890349809,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12828469",
+    "mail": "rennes@rigolocommelavie.fr",
+    "distance": 74966,
+    "latitude": 48.10536852704129,
+    "telephone": "0299663732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRigolo Comme La Vie - Rennes",
+    "resultStructId": "130505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue des francaislibres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6691434748216063,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834919",
+    "mail": "dpe-bouchart@ville-rennes.fr",
+    "distance": 75089,
+    "latitude": 48.097843143108406,
+    "telephone": "0223621461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Bouchart - Rennes",
+    "resultStructId": "555001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6831644767733627,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834962",
+    "mail": "dpe-gerbault@ville-rennes.fr",
+    "distance": 75094,
+    "latitude": 48.10732126330357,
+    "telephone": "0223621830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Gerbault - Rennes",
+    "resultStructId": "555501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6685579408967566,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969999",
+    "mail": "oberthur@leszouzousrennais.fr",
+    "distance": 75219,
+    "latitude": 48.113370806470826,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Oberthur - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 brue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661341108841494,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631985",
+    "mail": "tybugale@free.fr",
+    "distance": 75435,
+    "latitude": 48.09828714311133,
+    "telephone": "0299515222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale - Ass Ty Bugale - Rennes",
+    "resultStructId": "689606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6891031691422957,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58855790",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 75487,
+    "latitude": 48.100236923234164,
+    "telephone": "0966865564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche-parentaleles Fruits de la Passion - Rennes",
+    "resultStructId": "689633",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6871533505358167,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "53707825",
+    "mail": "creche@crechecannelle.fr",
+    "distance": 75495,
+    "latitude": 48.12059444703571,
+    "telephone": "0223204615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Ass Crèche Cannelle - Rennes",
+    "resultStructId": "539302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 boulevard alexiscarrel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6550118326833232,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "57951696",
+    "mail": "cre-656@babilou.com",
+    "distance": 75525,
+    "latitude": 48.10373998476326,
+    "telephone": "0603122898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Couëdic",
+    "resultStructId": "681103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 passage du couedic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6825279227202943,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835177",
+    "mail": "dpe-piaget@ville-rennes.fr",
+    "distance": 75567,
+    "latitude": 48.10439270682186,
+    "telephone": "0223621451",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Jean Piaget - Rennes",
+    "resultStructId": "554202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des colombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.682345178854804,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12776439",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 75651,
+    "latitude": 48.10304710253827,
+    "telephone": "0222935124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 mail annecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6860324140125198,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969586",
+    "mail": "mathilou@leszouzousrennais.fr",
+    "distance": 75664,
+    "latitude": 48.131525737823,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 a rue patistatelin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6399210412003236,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "36971100",
+    "mail": "republique@leszouzousrennais.fr",
+    "distance": 75996,
+    "latitude": 48.109289382559126,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou République - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31rue de la chalotais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830675598970568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12958165",
+    "mail": "rennes@lpcr.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0256854100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Rennes-Paris - LPCR Groupe - Rennes",
+    "resultStructId": "694715",
+    "omegaId": "17291",
+    "avip": false,
+    "adresse": "74rue de paris - bat d",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631856",
+    "mail": "creche.clairlune@gmail.com",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0299141471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAu Clair de la Lune - Association - Rennes",
+    "resultStructId": "214501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place durecteur henri le moal - cs 24307",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835220",
+    "mail": "dpe-rostand@ville-rennes.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Jean Rostand - Rennes",
+    "resultStructId": "554201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue du doyen albertbouzat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835005",
+    "mail": "dpe-fratellini@ville-rennes.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Annie Fratellini - Rennes",
+    "resultStructId": "555301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue du perewresinski",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "58484539",
+    "mail": "dpe-veil@ville-rennes.fr",
+    "distance": 76042,
+    "latitude": 48.096754738121554,
+    "telephone": "0230215190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Simone Veil - Rennes",
+    "resultStructId": "685007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue elise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7029315174146318,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835134",
+    "mail": "dpe-dolto@ville-rennes.fr",
+    "distance": 76063,
+    "latitude": 48.12583545197293,
+    "telephone": "0223621498",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Françoise Dolto - Rennes",
+    "resultStructId": "617701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue gustavecharpentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6577246237879895,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "57440115",
+    "mail": "babao@parenbouge.fr",
+    "distance": 76330,
+    "latitude": 48.11403921168389,
+    "telephone": "0221022245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabao - Ass Parenbouge - Rennes",
+    "resultStructId": "675721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6821323073508636,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12633361",
+    "mail": "halte.maurepas@assoarcs.com",
+    "distance": 76402,
+    "latitude": 48.12634473120042,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Maurepas Gros Chêne - ARCS -Rennes",
+    "resultStructId": "692607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11c place du gros chene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6637168580866197,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835435",
+    "mail": "dpe-curie@ville-rennes.fr",
+    "distance": 76455,
+    "latitude": 48.1320645927084,
+    "telephone": "0223621433",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Marie Curie - Rennes",
+    "resultStructId": "617702",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue des longs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6551828694031896,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835478",
+    "mail": "dpe-faouet@ville-rennes.fr",
+    "distance": 76463,
+    "latitude": 48.10664991672484,
+    "telephone": "0223621452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Marion du Faouët - Rennes",
+    "resultStructId": "554401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue julesrieffel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6961364965183747,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12681529",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 76480,
+    "latitude": 48.10919919953927,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 mail francoismitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6925789327451495,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835521",
+    "mail": "dpe-papu@ville-rennes.fr",
+    "distance": 76517,
+    "latitude": 48.11107011589428,
+    "telephone": "0223621455",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Muli-accueilMunicipal Papu - Rennes",
+    "resultStructId": "554302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue jean turmeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.690397099109982,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632415",
+    "mail": "halte.garderie.maurepaslongspres@assoarcs.com",
+    "distance": 76524,
+    "latitude": 48.13234461283105,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Longs-Prés Centre Social de Maurepas - ARCS -Rennes",
+    "resultStructId": "692618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des longs pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6561201393555005,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12632329",
+    "mail": "halte.cleunay@assoarcs.com",
+    "distance": 76561,
+    "latitude": 48.10002138826204,
+    "telephone": "0299673214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Cleunay - ARCS - Rennes",
+    "resultStructId": "692605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 ruejules lallemand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7079231574309197,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12683163",
+    "mail": "dpe-tannou@ville-rennes.fr",
+    "distance": 76626,
+    "latitude": 48.11716998204166,
+    "telephone": "0223621999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Gaston Tannou - Rennes",
+    "resultStructId": "554101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue de dinan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830038509842709,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632114",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 76910,
+    "latitude": 48.13407996137785,
+    "telephone": "0299381493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Fruits de la Passion RENNES",
+    "resultStructId": "3481",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue stvincent ferrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6610367487106434,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12635683",
+    "mail": "contact@parenbouge.fr",
+    "distance": 76980,
+    "latitude": 48.11740331757869,
+    "telephone": "0299591386",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-CrècheCroc Mahon - Ass Parenbouge - Rennes",
+    "resultStructId": "541601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue du cardinalpaul gouyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6895434027864742,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12646734",
+    "mail": "melbacreche@gmail.com",
+    "distance": 77260,
+    "latitude": 48.122699561369195,
+    "telephone": "0952418573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Melba - Ass Avant Première - Rennes",
+    "resultStructId": "180709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue decoetlogon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6866642258696587,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12759626",
+    "mail": "creche.ty-breizh@chu-rennes.fr",
+    "distance": 77280,
+    "latitude": 48.119365244537306,
+    "telephone": "0299289303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTy Breizh - CHU - Rennes",
+    "resultStructId": "183315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri le guilloux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923200415520854,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631942",
+    "mail": "poupenn@gmail.com",
+    "distance": 77369,
+    "latitude": 48.131843235396126,
+    "telephone": "0299631796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Poupenn - Rennes",
+    "resultStructId": "617901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du scorff",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6740117813467632,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12683120",
+    "mail": "mtimoun@asfad.fr",
+    "distance": 77634,
+    "latitude": 48.10945044651221,
+    "telephone": "0299598033",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilM'Ti moun - ASFAD - Rennes",
+    "resultStructId": "518602",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "146 d rue de lorient",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.714282748858307,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12781814",
+    "mail": "rennes.horizons@koalakids.fr",
+    "distance": 77667,
+    "latitude": 48.12710542767336,
+    "telephone": "0299859000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Rennes Nord St Martin / Koala k",
+    "resultStructId": "6992",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue charlestillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6876519486038204,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "33210632",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 77716,
+    "latitude": 48.13105209854799,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Nord St Martin - Rennes",
+    "resultStructId": "572505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis allee dubatiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6822393912102585,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35104403",
+    "mail": "contact@babilou.com",
+    "distance": 77896,
+    "latitude": 48.11288138403267,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Anjou",
+    "resultStructId": "681102",
+    "omegaId": "12969",
+    "avip": false,
+    "adresse": "1 allee ermangarde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7141295594483394,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12633404",
+    "mail": "halte.villejean@assoarcs.com",
+    "distance": 78064,
+    "latitude": 48.120066246390806,
+    "telephone": "0223464610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social Ker Yann Villejean - ARCS - Rennes",
+    "resultStructId": "692613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9avenue du doyen colas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7064492670884173,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885882",
+    "mail": "",
+    "distance": 78094,
+    "latitude": 48.115588930049284,
+    "telephone": "0299673828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 1 - Société TEE - Rennes",
+    "resultStructId": "520001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885839",
+    "mail": "piccolino@tee-cg.com",
+    "distance": 78094,
+    "latitude": 48.115588930049284,
+    "telephone": "0951069165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 2 - Société TEE - Rennes",
+    "resultStructId": "520002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58847377",
+    "mail": "lunasam@parenbouge.fr",
+    "distance": 78263,
+    "latitude": 48.12236368106147,
+    "telephone": "0299305182",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLunasam - Rennes",
+    "resultStructId": "689524",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue de flandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7067541586325272,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35961404",
+    "mail": "regardenfants@asfad.fr",
+    "distance": 78298,
+    "latitude": 48.12791621791906,
+    "telephone": "0230964050",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilRegard'enfants - ASFAD - Rennes",
+    "resultStructId": "518603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6987600510735457,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835263",
+    "mail": "dpe-kergomard@ville-rennes.fr",
+    "distance": 78643,
+    "latitude": 48.121976967863276,
+    "telephone": "0223621815",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Pauline Kergomard - Rennes",
+    "resultStructId": "554701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7146779414402427,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835048",
+    "mail": "dpe-colette@ville-rennes.fr",
+    "distance": 78690,
+    "latitude": 48.13021826483793,
+    "telephone": "0223621450",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Colette - Rennes",
+    "resultStructId": "554901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 rue colette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7027846194557976,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885968",
+    "mail": "beauregard@microcreche-piccolino.fr",
+    "distance": 78749,
+    "latitude": 48.13356344447042,
+    "telephone": "0223479706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Beauregard - Société TEE - Rennes",
+    "resultStructId": "520004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenuegermaine dulac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6986336326284268,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969586",
+    "mail": "mathilou@leszouzousrennais.fr",
+    "distance": 121273,
+    "latitude": 48.131525737823,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 a rue patistatelin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6399210412003236,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835435",
+    "mail": "dpe-curie@ville-rennes.fr",
+    "distance": 121998,
+    "latitude": 48.1320645927084,
+    "telephone": "0223621433",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Marie Curie - Rennes",
+    "resultStructId": "617702",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue des longs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6551828694031896,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12632415",
+    "mail": "halte.garderie.maurepaslongspres@assoarcs.com",
+    "distance": 122023,
+    "latitude": 48.13234461283105,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Longs-Prés Centre Social de Maurepas - ARCS -Rennes",
+    "resultStructId": "692618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des longs pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6561201393555005,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12632114",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 122131,
+    "latitude": 48.13407996137785,
+    "telephone": "0299381493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Fruits de la Passion RENNES",
+    "resultStructId": "3481",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue stvincent ferrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6610367487106434,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835134",
+    "mail": "dpe-dolto@ville-rennes.fr",
+    "distance": 122634,
+    "latitude": 48.12583545197293,
+    "telephone": "0223621498",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Françoise Dolto - Rennes",
+    "resultStructId": "617701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue gustavecharpentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6577246237879895,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12633361",
+    "mail": "halte.maurepas@assoarcs.com",
+    "distance": 122895,
+    "latitude": 48.12634473120042,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Maurepas Gros Chêne - ARCS -Rennes",
+    "resultStructId": "692607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11c place du gros chene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6637168580866197,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "53707825",
+    "mail": "creche@crechecannelle.fr",
+    "distance": 122926,
+    "latitude": 48.12059444703571,
+    "telephone": "0223204615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Ass Crèche Cannelle - Rennes",
+    "resultStructId": "539302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 boulevard alexiscarrel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6550118326833232,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12631942",
+    "mail": "poupenn@gmail.com",
+    "distance": 122972,
+    "latitude": 48.131843235396126,
+    "telephone": "0299631796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Poupenn - Rennes",
+    "resultStructId": "617901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du scorff",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6740117813467632,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "58654033",
+    "mail": "rennes@lesptitsbabadins.com",
+    "distance": 123332,
+    "latitude": 48.101523218418855,
+    "telephone": "0230210985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion Rennes",
+    "resultStructId": "687113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rueambroisine garnier leray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6313790938884583,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "33210632",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 123456,
+    "latitude": 48.13105209854799,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Nord St Martin - Rennes",
+    "resultStructId": "572505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis allee dubatiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6822393912102585,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "50226631",
+    "mail": "associationlaclefdeschamps@gmail.com",
+    "distance": 123724,
+    "latitude": 48.10792167311959,
+    "telephone": "0678444105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPlein Air - Ass La Clef des Champs - Rennes",
+    "resultStructId": "677511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 ruefrancoise elie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.650107826539449,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12869800",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 123828,
+    "latitude": 48.109132663573924,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Thabor - Rennes",
+    "resultStructId": "572501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du sous-lieutenantlay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6542027546345628,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969999",
+    "mail": "oberthur@leszouzousrennais.fr",
+    "distance": 123836,
+    "latitude": 48.113370806470826,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Oberthur - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 brue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661341108841494,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58109916",
+    "mail": "contact@lbbe.fr",
+    "distance": 123979,
+    "latitude": 48.09477178976885,
+    "telephone": "0977701779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise Les Explorateurs de La Poterie - SAS Crecheo -Rennes",
+    "resultStructId": "683001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee de la gueriniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6330566669557534,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "39004016",
+    "mail": "contact.landry@bebe-breizh-montessori.com",
+    "distance": 124046,
+    "latitude": 48.095977705226694,
+    "telephone": "0609561318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBébé Breizh Montessori Landry - Rennes",
+    "resultStructId": "361301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.636498223214634,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12781814",
+    "mail": "rennes.horizons@koalakids.fr",
+    "distance": 124051,
+    "latitude": 48.12710542767336,
+    "telephone": "0299859000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Rennes Nord St Martin / Koala k",
+    "resultStructId": "6992",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue charlestillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6876519486038204,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885968",
+    "mail": "beauregard@microcreche-piccolino.fr",
+    "distance": 124097,
+    "latitude": 48.13356344447042,
+    "telephone": "0223479706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Beauregard - Société TEE - Rennes",
+    "resultStructId": "520004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenuegermaine dulac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6986336326284268,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36970269",
+    "mail": "bignon@leszouzousrennais.fr",
+    "distance": 124123,
+    "latitude": 48.09533501739482,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Bignon - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b ruedu bignon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6369741514786105,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12646734",
+    "mail": "melbacreche@gmail.com",
+    "distance": 124356,
+    "latitude": 48.122699561369195,
+    "telephone": "0952418573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Melba - Ass Avant Première - Rennes",
+    "resultStructId": "180709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue decoetlogon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6866642258696587,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35961404",
+    "mail": "regardenfants@asfad.fr",
+    "distance": 124556,
+    "latitude": 48.12791621791906,
+    "telephone": "0230964050",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilRegard'enfants - ASFAD - Rennes",
+    "resultStructId": "518603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6987600510735457,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835048",
+    "mail": "dpe-colette@ville-rennes.fr",
+    "distance": 124579,
+    "latitude": 48.13021826483793,
+    "telephone": "0223621450",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Colette - Rennes",
+    "resultStructId": "554901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 rue colette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7027846194557976,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12683163",
+    "mail": "dpe-tannou@ville-rennes.fr",
+    "distance": 124618,
+    "latitude": 48.11716998204166,
+    "telephone": "0223621999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Gaston Tannou - Rennes",
+    "resultStructId": "554101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue de dinan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830038509842709,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835306",
+    "mail": "dpe-poterie@ville-rennes.fr",
+    "distance": 124622,
+    "latitude": 48.09057768563994,
+    "telephone": "0223621453",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal La Poterie - Rennes",
+    "resultStructId": "554601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28 rue jean monnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6390221302895345,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "37734956",
+    "mail": "contact@tometjosette.fr",
+    "distance": 124694,
+    "latitude": 48.10249423475113,
+    "telephone": "0221074438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTom et Josette - Les Roseraies - Rennes",
+    "resultStructId": "162303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "137 ruesaint-helier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6606034089699468,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834962",
+    "mail": "dpe-gerbault@ville-rennes.fr",
+    "distance": 124694,
+    "latitude": 48.10732126330357,
+    "telephone": "0223621830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Gerbault - Rennes",
+    "resultStructId": "555501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6685579408967566,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "38116889",
+    "mail": "eurorennes@liveli.fr",
+    "distance": 124808,
+    "latitude": 48.104822284829815,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACrèche Eurorennes - Crèche Attitude - Rennes",
+    "resultStructId": "226706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35-37boulevard solferino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6667444629409505,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "59536664",
+    "mail": "rennes.solferino@lpcr.fr",
+    "distance": 124816,
+    "latitude": 48.10488014155654,
+    "telephone": "0299019873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLPCR Rennes Solferino - Renes",
+    "resultStructId": "699302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.666985890349809,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "57440115",
+    "mail": "babao@parenbouge.fr",
+    "distance": 124828,
+    "latitude": 48.11403921168389,
+    "telephone": "0221022245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabao - Ass Parenbouge - Rennes",
+    "resultStructId": "675721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6821323073508636,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12828469",
+    "mail": "rennes@rigolocommelavie.fr",
+    "distance": 124884,
+    "latitude": 48.10536852704129,
+    "telephone": "0299663732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRigolo Comme La Vie - Rennes",
+    "resultStructId": "130505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue des francaislibres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6691434748216063,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12759626",
+    "mail": "creche.ty-breizh@chu-rennes.fr",
+    "distance": 124914,
+    "latitude": 48.119365244537306,
+    "telephone": "0299289303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTy Breizh - CHU - Rennes",
+    "resultStructId": "183315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri le guilloux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923200415520854,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12635683",
+    "mail": "contact@parenbouge.fr",
+    "distance": 124931,
+    "latitude": 48.11740331757869,
+    "telephone": "0299591386",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-CrècheCroc Mahon - Ass Parenbouge - Rennes",
+    "resultStructId": "541601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue du cardinalpaul gouyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6895434027864742,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12958165",
+    "mail": "rennes@lpcr.fr",
+    "distance": 124944,
+    "latitude": 48.11136459729997,
+    "telephone": "0256854100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Rennes-Paris - LPCR Groupe - Rennes",
+    "resultStructId": "694715",
+    "omegaId": "17291",
+    "avip": false,
+    "adresse": "74rue de paris - bat d",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631856",
+    "mail": "creche.clairlune@gmail.com",
+    "distance": 124944,
+    "latitude": 48.11136459729997,
+    "telephone": "0299141471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAu Clair de la Lune - Association - Rennes",
+    "resultStructId": "214501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place durecteur henri le moal - cs 24307",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835220",
+    "mail": "dpe-rostand@ville-rennes.fr",
+    "distance": 124944,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Jean Rostand - Rennes",
+    "resultStructId": "554201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue du doyen albertbouzat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835005",
+    "mail": "dpe-fratellini@ville-rennes.fr",
+    "distance": 124944,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Annie Fratellini - Rennes",
+    "resultStructId": "555301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue du perewresinski",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "36971100",
+    "mail": "republique@leszouzousrennais.fr",
+    "distance": 125262,
+    "latitude": 48.109289382559126,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou République - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31rue de la chalotais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830675598970568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58847377",
+    "mail": "lunasam@parenbouge.fr",
+    "distance": 125412,
+    "latitude": 48.12236368106147,
+    "telephone": "0299305182",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLunasam - Rennes",
+    "resultStructId": "689524",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue de flandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7067541586325272,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12806539",
+    "mail": "lespetitsmerlins@merlinpinpin.com",
+    "distance": 125484,
+    "latitude": 48.087318605150266,
+    "telephone": "0223354010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Merlins - Ass Merlinpinpin - Rennes",
+    "resultStructId": "130503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12quater avenue de pologne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.651069827968704,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12835521",
+    "mail": "dpe-papu@ville-rennes.fr",
+    "distance": 125488,
+    "latitude": 48.11107011589428,
+    "telephone": "0223621455",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Muli-accueilMunicipal Papu - Rennes",
+    "resultStructId": "554302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue jean turmeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.690397099109982,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12683249",
+    "mail": "dpe-wallon@ville-rennes.fr",
+    "distance": 125554,
+    "latitude": 48.09018161347284,
+    "telephone": "0223621454",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Henri Wallon - Rennes",
+    "resultStructId": "554002",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue de hongrie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.657347465985465,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12633404",
+    "mail": "halte.villejean@assoarcs.com",
+    "distance": 125581,
+    "latitude": 48.120066246390806,
+    "telephone": "0223464610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social Ker Yann Villejean - ARCS - Rennes",
+    "resultStructId": "692613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9avenue du doyen colas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7064492670884173,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835177",
+    "mail": "dpe-piaget@ville-rennes.fr",
+    "distance": 125626,
+    "latitude": 48.10439270682186,
+    "telephone": "0223621451",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Jean Piaget - Rennes",
+    "resultStructId": "554202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des colombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.682345178854804,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "57951696",
+    "mail": "cre-656@babilou.com",
+    "distance": 125688,
+    "latitude": 48.10373998476326,
+    "telephone": "0603122898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Couëdic",
+    "resultStructId": "681103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 passage du couedic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6825279227202943,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632372",
+    "mail": "cs.ty-blosne@assoarcs.com",
+    "distance": 125732,
+    "latitude": 48.08850136823848,
+    "telephone": "0299509047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Ty-Blosne - ARCS - Rennes",
+    "resultStructId": "692610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevardde yougoslavie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6581202391574201,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12681529",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 125751,
+    "latitude": 48.10919919953927,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 mail francoismitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6925789327451495,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835263",
+    "mail": "dpe-kergomard@ville-rennes.fr",
+    "distance": 125851,
+    "latitude": 48.121976967863276,
+    "telephone": "0223621815",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Pauline Kergomard - Rennes",
+    "resultStructId": "554701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7146779414402427,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12716832",
+    "mail": "referent.petitspotes@gmail.com",
+    "distance": 125905,
+    "latitude": 48.09018182444601,
+    "telephone": "0299321930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental Les Petits Potes - Association - Rennes",
+    "resultStructId": "180905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rueraymond hermer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6644584857180316,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12776439",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 125921,
+    "latitude": 48.10304710253827,
+    "telephone": "0222935124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 mail annecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6860324140125198,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12997940",
+    "mail": "dpe-malaguzzi@ville-rennes.fr",
+    "distance": 125969,
+    "latitude": 48.095568720984396,
+    "telephone": "0223621456",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Loris Malaguzzi - Rennes",
+    "resultStructId": "554502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "101 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6747260722299568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12661061",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 126061,
+    "latitude": 48.09007570590026,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Jardins d'Emile RENNES",
+    "resultStructId": "4154",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6674425417220944,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835478",
+    "mail": "dpe-faouet@ville-rennes.fr",
+    "distance": 126138,
+    "latitude": 48.10664991672484,
+    "telephone": "0223621452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Marion du Faouët - Rennes",
+    "resultStructId": "554401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue julesrieffel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6961364965183747,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834919",
+    "mail": "dpe-bouchart@ville-rennes.fr",
+    "distance": 126204,
+    "latitude": 48.097843143108406,
+    "telephone": "0223621461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Bouchart - Rennes",
+    "resultStructId": "555001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6831644767733627,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58855790",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 126208,
+    "latitude": 48.100236923234164,
+    "telephone": "0966865564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche-parentaleles Fruits de la Passion - Rennes",
+    "resultStructId": "689633",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6871533505358167,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885882",
+    "mail": "",
+    "distance": 126320,
+    "latitude": 48.115588930049284,
+    "telephone": "0299673828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 1 - Société TEE - Rennes",
+    "resultStructId": "520001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885839",
+    "mail": "piccolino@tee-cg.com",
+    "distance": 126320,
+    "latitude": 48.115588930049284,
+    "telephone": "0951069165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 2 - Société TEE - Rennes",
+    "resultStructId": "520002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835091",
+    "mail": "infos@etoilerennes.fr",
+    "distance": 126375,
+    "latitude": 48.08718698619188,
+    "telephone": "0299506525",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Municipale Les Champs d'Andorre - Rennes",
+    "resultStructId": "555401",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rued'andorre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.668953556266187,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "57952762",
+    "mail": "accueil@koalakids.fr",
+    "distance": 126396,
+    "latitude": 48.09071577267595,
+    "telephone": "0805690425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKoalaKids Fréville - SARL Ma Cabane en Bois - Rennes",
+    "resultStructId": "681113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12avenue henri freville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.675259605763877,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12631985",
+    "mail": "tybugale@free.fr",
+    "distance": 126465,
+    "latitude": 48.09828714311133,
+    "telephone": "0299515222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale - Ass Ty Bugale - Rennes",
+    "resultStructId": "689606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6891031691422957,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35104403",
+    "mail": "contact@babilou.com",
+    "distance": 126552,
+    "latitude": 48.11288138403267,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Anjou",
+    "resultStructId": "681102",
+    "omegaId": "12969",
+    "avip": false,
+    "adresse": "1 allee ermangarde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7141295594483394,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12915165",
+    "mail": "c18@assoarcs.com",
+    "distance": 126563,
+    "latitude": 48.08701908462961,
+    "telephone": "0299513225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Carrefour 18 - ARCS - Rennes",
+    "resultStructId": "692603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rued'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6724575781097146,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12632458",
+    "mail": "halte.champsmanceaux@assoarcs.com",
+    "distance": 126616,
+    "latitude": 48.09178369946055,
+    "telephone": "0299508670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social des Champs Manceaux - ARCS - Rennes",
+    "resultStructId": "692604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15rue louis et rene moine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.681458571402172,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "31819186",
+    "mail": "bureaubbr@gmail.com",
+    "distance": 126723,
+    "latitude": 48.08958722315419,
+    "telephone": "0299535622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBisougou - Rennes",
+    "resultStructId": "694307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 boulevard albert 1er",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6799668337497702,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12683120",
+    "mail": "mtimoun@asfad.fr",
+    "distance": 126836,
+    "latitude": 48.10945044651221,
+    "telephone": "0299598033",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilM'Ti moun - ASFAD - Rennes",
+    "resultStructId": "518602",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "146 d rue de lorient",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.714282748858307,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835564",
+    "mail": "dpe-bodin@ville-rennes.fr",
+    "distance": 126898,
+    "latitude": 48.085734470513806,
+    "telephone": "0223621861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Louise Bodin - Rennes",
+    "resultStructId": "555101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 square de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.677083005925237,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12632329",
+    "mail": "halte.cleunay@assoarcs.com",
+    "distance": 127274,
+    "latitude": 48.10002138826204,
+    "telephone": "0299673214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Cleunay - ARCS - Rennes",
+    "resultStructId": "692605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 ruejules lallemand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7079231574309197,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58484539",
+    "mail": "dpe-veil@ville-rennes.fr",
+    "distance": 127287,
+    "latitude": 48.096754738121554,
+    "telephone": "0230215190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Simone Veil - Rennes",
+    "resultStructId": "685007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue elise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7029315174146318,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835306",
+    "mail": "dpe-poterie@ville-rennes.fr",
+    "distance": 72235,
+    "latitude": 48.09057768563994,
+    "telephone": "0223621453",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal La Poterie - Rennes",
+    "resultStructId": "554601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28 rue jean monnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6390221302895345,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "58109916",
+    "mail": "contact@lbbe.fr",
+    "distance": 72275,
+    "latitude": 48.09477178976885,
+    "telephone": "0977701779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise Les Explorateurs de La Poterie - SAS Crecheo -Rennes",
+    "resultStructId": "683001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee de la gueriniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6330566669557534,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36970269",
+    "mail": "bignon@leszouzousrennais.fr",
+    "distance": 72518,
+    "latitude": 48.09533501739482,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Bignon - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b ruedu bignon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6369741514786105,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "39004016",
+    "mail": "contact.landry@bebe-breizh-montessori.com",
+    "distance": 72547,
+    "latitude": 48.095977705226694,
+    "telephone": "0609561318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBébé Breizh Montessori Landry - Rennes",
+    "resultStructId": "361301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.636498223214634,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12806539",
+    "mail": "lespetitsmerlins@merlinpinpin.com",
+    "distance": 72588,
+    "latitude": 48.087318605150266,
+    "telephone": "0223354010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Merlins - Ass Merlinpinpin - Rennes",
+    "resultStructId": "130503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12quater avenue de pologne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.651069827968704,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "58654033",
+    "mail": "rennes@lesptitsbabadins.com",
+    "distance": 72745,
+    "latitude": 48.101523218418855,
+    "telephone": "0230210985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion Rennes",
+    "resultStructId": "687113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rueambroisine garnier leray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6313790938884583,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632372",
+    "mail": "cs.ty-blosne@assoarcs.com",
+    "distance": 73046,
+    "latitude": 48.08850136823848,
+    "telephone": "0299509047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Ty-Blosne - ARCS - Rennes",
+    "resultStructId": "692610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevardde yougoslavie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6581202391574201,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12683249",
+    "mail": "dpe-wallon@ville-rennes.fr",
+    "distance": 73141,
+    "latitude": 48.09018161347284,
+    "telephone": "0223621454",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Henri Wallon - Rennes",
+    "resultStructId": "554002",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue de hongrie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.657347465985465,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12835091",
+    "mail": "infos@etoilerennes.fr",
+    "distance": 73505,
+    "latitude": 48.08718698619188,
+    "telephone": "0299506525",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Municipale Les Champs d'Andorre - Rennes",
+    "resultStructId": "555401",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rued'andorre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.668953556266187,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12716832",
+    "mail": "referent.petitspotes@gmail.com",
+    "distance": 73508,
+    "latitude": 48.09018182444601,
+    "telephone": "0299321930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental Les Petits Potes - Association - Rennes",
+    "resultStructId": "180905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rueraymond hermer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6644584857180316,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12661061",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 73655,
+    "latitude": 48.09007570590026,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Jardins d'Emile RENNES",
+    "resultStructId": "4154",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6674425417220944,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12915165",
+    "mail": "c18@assoarcs.com",
+    "distance": 73674,
+    "latitude": 48.08701908462961,
+    "telephone": "0299513225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social Carrefour 18 - ARCS - Rennes",
+    "resultStructId": "692603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rued'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6724575781097146,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "12835564",
+    "mail": "dpe-bodin@ville-rennes.fr",
+    "distance": 73816,
+    "latitude": 48.085734470513806,
+    "telephone": "0223621861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Louise Bodin - Rennes",
+    "resultStructId": "555101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 square de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.677083005925237,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "57952762",
+    "mail": "accueil@koalakids.fr",
+    "distance": 74113,
+    "latitude": 48.09071577267595,
+    "telephone": "0805690425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKoalaKids Fréville - SARL Ma Cabane en Bois - Rennes",
+    "resultStructId": "681113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12avenue henri freville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.675259605763877,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "50226631",
+    "mail": "associationlaclefdeschamps@gmail.com",
+    "distance": 74208,
+    "latitude": 48.10792167311959,
+    "telephone": "0678444105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPlein Air - Ass La Clef des Champs - Rennes",
+    "resultStructId": "677511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 ruefrancoise elie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.650107826539449,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "31819186",
+    "mail": "bureaubbr@gmail.com",
+    "distance": 74270,
+    "latitude": 48.08958722315419,
+    "telephone": "0299535622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBisougou - Rennes",
+    "resultStructId": "694307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 boulevard albert 1er",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6799668337497702,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "37734956",
+    "mail": "contact@tometjosette.fr",
+    "distance": 74298,
+    "latitude": 48.10249423475113,
+    "telephone": "0221074438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTom et Josette - Les Roseraies - Rennes",
+    "resultStructId": "162303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "137 ruesaint-helier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6606034089699468,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12997940",
+    "mail": "dpe-malaguzzi@ville-rennes.fr",
+    "distance": 74470,
+    "latitude": 48.095568720984396,
+    "telephone": "0223621456",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Loris Malaguzzi - Rennes",
+    "resultStructId": "554502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "101 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6747260722299568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12869800",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 74513,
+    "latitude": 48.109132663573924,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Thabor - Rennes",
+    "resultStructId": "572501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du sous-lieutenantlay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6542027546345628,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632458",
+    "mail": "halte.champsmanceaux@assoarcs.com",
+    "distance": 74522,
+    "latitude": 48.09178369946055,
+    "telephone": "0299508670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social des Champs Manceaux - ARCS - Rennes",
+    "resultStructId": "692604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15rue louis et rene moine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.681458571402172,
+    "ville": "rennes",
+    "cp": "35200"
+  },
+  {
+    "resultId": "38116889",
+    "mail": "eurorennes@liveli.fr",
+    "distance": 74800,
+    "latitude": 48.104822284829815,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACrèche Eurorennes - Crèche Attitude - Rennes",
+    "resultStructId": "226706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35-37boulevard solferino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6667444629409505,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "59536664",
+    "mail": "rennes.solferino@lpcr.fr",
+    "distance": 74817,
+    "latitude": 48.10488014155654,
+    "telephone": "0299019873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLPCR Rennes Solferino - Renes",
+    "resultStructId": "699302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.666985890349809,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12828469",
+    "mail": "rennes@rigolocommelavie.fr",
+    "distance": 74966,
+    "latitude": 48.10536852704129,
+    "telephone": "0299663732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRigolo Comme La Vie - Rennes",
+    "resultStructId": "130505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue des francaislibres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6691434748216063,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834919",
+    "mail": "dpe-bouchart@ville-rennes.fr",
+    "distance": 75089,
+    "latitude": 48.097843143108406,
+    "telephone": "0223621461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Bouchart - Rennes",
+    "resultStructId": "555001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6831644767733627,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12834962",
+    "mail": "dpe-gerbault@ville-rennes.fr",
+    "distance": 75094,
+    "latitude": 48.10732126330357,
+    "telephone": "0223621830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Alain Gerbault - Rennes",
+    "resultStructId": "555501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue alain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6685579408967566,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969999",
+    "mail": "oberthur@leszouzousrennais.fr",
+    "distance": 75219,
+    "latitude": 48.113370806470826,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Oberthur - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 brue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661341108841494,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631985",
+    "mail": "tybugale@free.fr",
+    "distance": 75435,
+    "latitude": 48.09828714311133,
+    "telephone": "0299515222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale - Ass Ty Bugale - Rennes",
+    "resultStructId": "689606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6891031691422957,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58855790",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 75487,
+    "latitude": 48.100236923234164,
+    "telephone": "0966865564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche-parentaleles Fruits de la Passion - Rennes",
+    "resultStructId": "689633",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6871533505358167,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "53707825",
+    "mail": "creche@crechecannelle.fr",
+    "distance": 75495,
+    "latitude": 48.12059444703571,
+    "telephone": "0223204615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Ass Crèche Cannelle - Rennes",
+    "resultStructId": "539302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 boulevard alexiscarrel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6550118326833232,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "57951696",
+    "mail": "cre-656@babilou.com",
+    "distance": 75525,
+    "latitude": 48.10373998476326,
+    "telephone": "0603122898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Couëdic",
+    "resultStructId": "681103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 passage du couedic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6825279227202943,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835177",
+    "mail": "dpe-piaget@ville-rennes.fr",
+    "distance": 75567,
+    "latitude": 48.10439270682186,
+    "telephone": "0223621451",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Jean Piaget - Rennes",
+    "resultStructId": "554202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des colombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.682345178854804,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12776439",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 75651,
+    "latitude": 48.10304710253827,
+    "telephone": "0222935124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 mail annecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6860324140125198,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "36969586",
+    "mail": "mathilou@leszouzousrennais.fr",
+    "distance": 75664,
+    "latitude": 48.131525737823,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 a rue patistatelin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6399210412003236,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "36971100",
+    "mail": "republique@leszouzousrennais.fr",
+    "distance": 75996,
+    "latitude": 48.109289382559126,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou République - Les Zouzous Rennais - Rennes",
+    "resultStructId": "149904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31rue de la chalotais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830675598970568,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835220",
+    "mail": "dpe-rostand@ville-rennes.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Jean Rostand - Rennes",
+    "resultStructId": "554201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue du doyen albertbouzat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12958165",
+    "mail": "rennes@lpcr.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0256854100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Rennes-Paris - LPCR Groupe - Rennes",
+    "resultStructId": "694715",
+    "omegaId": "17291",
+    "avip": false,
+    "adresse": "74rue de paris - bat d",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631856",
+    "mail": "creche.clairlune@gmail.com",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0299141471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAu Clair de la Lune - Association - Rennes",
+    "resultStructId": "214501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place durecteur henri le moal - cs 24307",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835005",
+    "mail": "dpe-fratellini@ville-rennes.fr",
+    "distance": 76011,
+    "latitude": 48.11136459729997,
+    "telephone": "0223621395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Annie Fratellini - Rennes",
+    "resultStructId": "555301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue du perewresinski",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6801147291316216,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "58484539",
+    "mail": "dpe-veil@ville-rennes.fr",
+    "distance": 76042,
+    "latitude": 48.096754738121554,
+    "telephone": "0230215190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Simone Veil - Rennes",
+    "resultStructId": "685007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue elise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7029315174146318,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835134",
+    "mail": "dpe-dolto@ville-rennes.fr",
+    "distance": 76063,
+    "latitude": 48.12583545197293,
+    "telephone": "0223621498",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Françoise Dolto - Rennes",
+    "resultStructId": "617701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue gustavecharpentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6577246237879895,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "57440115",
+    "mail": "babao@parenbouge.fr",
+    "distance": 76330,
+    "latitude": 48.11403921168389,
+    "telephone": "0221022245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabao - Ass Parenbouge - Rennes",
+    "resultStructId": "675721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6821323073508636,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12633361",
+    "mail": "halte.maurepas@assoarcs.com",
+    "distance": 76402,
+    "latitude": 48.12634473120042,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Maurepas Gros Chêne - ARCS -Rennes",
+    "resultStructId": "692607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11c place du gros chene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6637168580866197,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835435",
+    "mail": "dpe-curie@ville-rennes.fr",
+    "distance": 76455,
+    "latitude": 48.1320645927084,
+    "telephone": "0223621433",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Marie Curie - Rennes",
+    "resultStructId": "617702",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue des longs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6551828694031896,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12835478",
+    "mail": "dpe-faouet@ville-rennes.fr",
+    "distance": 76463,
+    "latitude": 48.10664991672484,
+    "telephone": "0223621452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Marion du Faouët - Rennes",
+    "resultStructId": "554401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue julesrieffel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6961364965183747,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12681529",
+    "mail": "contact@lesjardinsdemile-microcreche.fr",
+    "distance": 76480,
+    "latitude": 48.10919919953927,
+    "telephone": "0981648411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Jardins d'Emile - EURL - Rennes",
+    "resultStructId": "520201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 mail francoismitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6925789327451495,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835521",
+    "mail": "dpe-papu@ville-rennes.fr",
+    "distance": 76517,
+    "latitude": 48.11107011589428,
+    "telephone": "0223621455",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Muli-accueilMunicipal Papu - Rennes",
+    "resultStructId": "554302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue jean turmeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.690397099109982,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632415",
+    "mail": "halte.garderie.maurepaslongspres@assoarcs.com",
+    "distance": 76524,
+    "latitude": 48.13234461283105,
+    "telephone": "0299274827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Longs-Prés Centre Social de Maurepas - ARCS -Rennes",
+    "resultStructId": "692618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des longs pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6561201393555005,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12632329",
+    "mail": "halte.cleunay@assoarcs.com",
+    "distance": 76561,
+    "latitude": 48.10002138826204,
+    "telephone": "0299673214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Centre Social de Cleunay - ARCS - Rennes",
+    "resultStructId": "692605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 ruejules lallemand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7079231574309197,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12683163",
+    "mail": "dpe-tannou@ville-rennes.fr",
+    "distance": 76626,
+    "latitude": 48.11716998204166,
+    "telephone": "0223621999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal Gaston Tannou - Rennes",
+    "resultStructId": "554101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue de dinan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6830038509842709,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12632114",
+    "mail": "contact@lesfruitsdelapassion.fr",
+    "distance": 76910,
+    "latitude": 48.13407996137785,
+    "telephone": "0299381493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Fruits de la Passion RENNES",
+    "resultStructId": "3481",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue stvincent ferrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6610367487106434,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12635683",
+    "mail": "contact@parenbouge.fr",
+    "distance": 76980,
+    "latitude": 48.11740331757869,
+    "telephone": "0299591386",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-CrècheCroc Mahon - Ass Parenbouge - Rennes",
+    "resultStructId": "541601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue du cardinalpaul gouyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6895434027864742,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12646734",
+    "mail": "melbacreche@gmail.com",
+    "distance": 77260,
+    "latitude": 48.122699561369195,
+    "telephone": "0952418573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Melba - Ass Avant Première - Rennes",
+    "resultStructId": "180709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue decoetlogon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6866642258696587,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12759626",
+    "mail": "creche.ty-breizh@chu-rennes.fr",
+    "distance": 77280,
+    "latitude": 48.119365244537306,
+    "telephone": "0299289303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTy Breizh - CHU - Rennes",
+    "resultStructId": "183315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri le guilloux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923200415520854,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12631942",
+    "mail": "poupenn@gmail.com",
+    "distance": 77369,
+    "latitude": 48.131843235396126,
+    "telephone": "0299631796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Poupenn - Rennes",
+    "resultStructId": "617901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du scorff",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6740117813467632,
+    "ville": "rennes",
+    "cp": "35700"
+  },
+  {
+    "resultId": "12683120",
+    "mail": "mtimoun@asfad.fr",
+    "distance": 77634,
+    "latitude": 48.10945044651221,
+    "telephone": "0299598033",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilM'Ti moun - ASFAD - Rennes",
+    "resultStructId": "518602",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "146 d rue de lorient",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.714282748858307,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12781814",
+    "mail": "rennes.horizons@koalakids.fr",
+    "distance": 77667,
+    "latitude": 48.12710542767336,
+    "telephone": "0299859000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Rennes Nord St Martin / Koala k",
+    "resultStructId": "6992",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue charlestillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6876519486038204,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "33210632",
+    "mail": "contact@crechendo-creches.com",
+    "distance": 77716,
+    "latitude": 48.13105209854799,
+    "telephone": "0756918073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Crèche'n'do Nord St Martin - Rennes",
+    "resultStructId": "572505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis allee dubatiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6822393912102585,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35104403",
+    "mail": "contact@babilou.com",
+    "distance": 77896,
+    "latitude": 48.11288138403267,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Rennes Anjou",
+    "resultStructId": "681102",
+    "omegaId": "12969",
+    "avip": false,
+    "adresse": "1 allee ermangarde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7141295594483394,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12633404",
+    "mail": "halte.villejean@assoarcs.com",
+    "distance": 78064,
+    "latitude": 48.120066246390806,
+    "telephone": "0223464610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu centre social Ker Yann Villejean - ARCS - Rennes",
+    "resultStructId": "692613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9avenue du doyen colas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7064492670884173,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885882",
+    "mail": "",
+    "distance": 78094,
+    "latitude": 48.115588930049284,
+    "telephone": "0299673828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 1 - Société TEE - Rennes",
+    "resultStructId": "520001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885839",
+    "mail": "piccolino@tee-cg.com",
+    "distance": 78094,
+    "latitude": 48.115588930049284,
+    "telephone": "0951069165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Rennes 2 - Société TEE - Rennes",
+    "resultStructId": "520002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 2 ruejules maillard de la gournerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.713841899825623,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "58847377",
+    "mail": "lunasam@parenbouge.fr",
+    "distance": 78263,
+    "latitude": 48.12236368106147,
+    "telephone": "0299305182",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLunasam - Rennes",
+    "resultStructId": "689524",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue de flandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7067541586325272,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "35961404",
+    "mail": "regardenfants@asfad.fr",
+    "distance": 78298,
+    "latitude": 48.12791621791906,
+    "telephone": "0230964050",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilRegard'enfants - ASFAD - Rennes",
+    "resultStructId": "518603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6987600510735457,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835263",
+    "mail": "dpe-kergomard@ville-rennes.fr",
+    "distance": 78643,
+    "latitude": 48.121976967863276,
+    "telephone": "0223621815",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Pauline Kergomard - Rennes",
+    "resultStructId": "554701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7146779414402427,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12835048",
+    "mail": "dpe-colette@ville-rennes.fr",
+    "distance": 78690,
+    "latitude": 48.13021826483793,
+    "telephone": "0223621450",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilMunicipal Colette - Rennes",
+    "resultStructId": "554901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 rue colette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7027846194557976,
+    "ville": "rennes",
+    "cp": "35000"
+  },
+  {
+    "resultId": "12885968",
+    "mail": "beauregard@microcreche-piccolino.fr",
+    "distance": 78749,
+    "latitude": 48.13356344447042,
+    "telephone": "0223479706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePiccolino Beauregard - Société TEE - Rennes",
+    "resultStructId": "520004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenuegermaine dulac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6986336326284268,
+    "ville": "rennes",
+    "cp": "35000"
+  }
+]

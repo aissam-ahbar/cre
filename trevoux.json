@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "41522945",
+    "mail": "creche.interentreprises@valhorizon.fr",
+    "distance": 151444,
+    "latitude": 45.947428593895246,
+    "telephone": "0749767891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchesles Frimousses",
+    "resultStructId": "219504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 allee de forquevaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.754742544715649,
+    "ville": "trevoux",
+    "cp": "01600"
+  },
+  {
+    "resultId": "12855438",
+    "mail": "",
+    "distance": 151763,
+    "latitude": 45.94553213670994,
+    "telephone": "0474085823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche Le Tournesol",
+    "resultStructId": "8704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 allee de fetan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.759809207032935,
+    "ville": "trevoux",
+    "cp": "01600"
+  },
+  {
+    "resultId": "12855395",
+    "mail": "petite.enfance@valhorizon.fr",
+    "distance": 152840,
+    "latitude": 45.93983924583682,
+    "telephone": "0474005715",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE LA PETITE ENFANCE DE TREVOUX",
+    "resultStructId": "8703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.77989381789496,
+    "ville": "trevoux",
+    "cp": "01600"
+  }
+]

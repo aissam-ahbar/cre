@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13028005",
+    "mail": "",
+    "distance": 101047,
+    "latitude": 47.07002626155369,
+    "telephone": "0951097225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Ptits Ecureuils\"",
+    "resultStructId": "23415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 rue nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4647493111688314,
+    "ville": "dole",
+    "cp": "39100"
+  },
+  {
+    "resultId": "24321658",
+    "mail": "multi-accueil.les.petits.loups@dole.org",
+    "distance": 101282,
+    "latitude": 47.07620094252233,
+    "telephone": "0384724348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Petits Loups",
+    "resultStructId": "678614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 a rue du marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.469733926526407,
+    "ville": "dole",
+    "cp": "39100"
+  },
+  {
+    "resultId": "12751241",
+    "mail": "creche.les.lutins@dole.org",
+    "distance": 101889,
+    "latitude": 47.09381086560213,
+    "telephone": "0384722147",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Lutins\"",
+    "resultStructId": "678612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jules machard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.482722306305493,
+    "ville": "dole",
+    "cp": "39100"
+  },
+  {
+    "resultId": "13038970",
+    "mail": "garderie.ile.enchantee@dole.org",
+    "distance": 102239,
+    "latitude": 47.088809255709464,
+    "telephone": "0384826594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderie\"L'Ile Enchantée\" - DOLE",
+    "resultStructId": "226702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue sombardier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.486108013535032,
+    "ville": "dole",
+    "cp": "39100"
+  },
+  {
+    "resultId": "13038712",
+    "mail": "creche.le.petit.prince@dole.org",
+    "distance": 102455,
+    "latitude": 47.08807886581932,
+    "telephone": "0384721850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"Le Petit Prince\" - DOLE",
+    "resultStructId": "678613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 place fredericbarberousse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.488811912144746,
+    "ville": "dole",
+    "cp": "39100"
+  },
+  {
+    "resultId": "12684238",
+    "mail": "creche-familiale.dole@wanadoo.fr",
+    "distance": 102749,
+    "latitude": 47.09211057372436,
+    "telephone": "0384724086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale - DOLE",
+    "resultStructId": "4693",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 place nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.493816114307645,
+    "ville": "dole",
+    "cp": "39100"
+  }
+]

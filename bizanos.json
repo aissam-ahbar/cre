@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12873369",
+    "mail": "crechearche@agglo-pau.fr",
+    "distance": 117323,
+    "latitude": 43.294235487662185,
+    "telephone": "0559270215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede l'ARCHE",
+    "resultStructId": "315402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin cambets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3298855116843629,
+    "ville": "bizanos",
+    "cp": "64320"
+  },
+  {
+    "resultId": "12897793",
+    "mail": "creche.larondedesoussons@wanadoo.fr",
+    "distance": 117942,
+    "latitude": 43.28974154887119,
+    "telephone": "0559270410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif La ronde des oussons",
+    "resultStructId": "669201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.35126881910411856,
+    "ville": "bizanos",
+    "cp": "64320"
+  }
+]

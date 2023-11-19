@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "13034111",
+    "mail": "gabrielle.dauchy@citycreche.fr",
+    "distance": 18984,
+    "latitude": 50.30314708731318,
+    "telephone": "0321503658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CityCrèche - Arras Bonnettes 1",
+    "resultStructId": "84501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 place mere teresa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.738615096089548,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13034154",
+    "mail": "gabrielle.dauchy@citycreche.fr",
+    "distance": 18984,
+    "latitude": 50.30314708731318,
+    "telephone": "0321503658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CityCrèche 2",
+    "resultStructId": "84502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place mere teresa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.738615096089548,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "12777514",
+    "mail": "genevieve.naux@citycreche.fr",
+    "distance": 18984,
+    "latitude": 50.30314708731318,
+    "telephone": "0321503658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CityCrèche Micro crèche 1",
+    "resultStructId": "6892",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 place mere teresa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.738615096089548,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13021297",
+    "mail": "ma-verlaine@ville-arras.fr",
+    "distance": 19185,
+    "latitude": 50.30176566206282,
+    "telephone": "0321233698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Verlaine\" d'Arras",
+    "resultStructId": "235205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean racine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7465379915924006,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13021469",
+    "mail": "cr-mauriceleroy@ville-arras.fr",
+    "distance": 19588,
+    "latitude": 50.297993575941355,
+    "telephone": "0321234645",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Maurice Leroy\" d'Arras",
+    "resultStructId": "217301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7442902746269993,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13021426",
+    "mail": "ma-meaulens@ville-arras.fr",
+    "distance": 20088,
+    "latitude": 50.29619802209923,
+    "telephone": "0321710775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Meaulens\" d'ARRAS",
+    "resultStructId": "12564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quai du rivage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7741407819529535,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13021125",
+    "mail": "creche-loupiots@ville-arras.fr",
+    "distance": 20179,
+    "latitude": 50.29280865086089,
+    "telephone": "0321716096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits Loupiots\"",
+    "resultStructId": "196702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.746869304429801,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13021383",
+    "mail": "ma-blum@ville-arras.fr",
+    "distance": 20179,
+    "latitude": 50.29280865086089,
+    "telephone": "0321716096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Léon Blum",
+    "resultStructId": "196801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de l' hippodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.746869304429801,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13027317",
+    "mail": "auclairdelalune@micro-baby.com",
+    "distance": 20347,
+    "latitude": 50.292886142163994,
+    "telephone": "0952036007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AUXCLAIRS DE LA LUNE",
+    "resultStructId": "683110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place de la prefecture",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.765966124289711,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "12846365",
+    "mail": "auclairdelalune@micro-baby.com",
+    "distance": 20347,
+    "latitude": 50.292886142163994,
+    "telephone": "0952036007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITELUNE",
+    "resultStructId": "683109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place de la prefecture",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.765966124289711,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "30375845",
+    "mail": "ma-valdescarpe@ville-arras.fr",
+    "distance": 20452,
+    "latitude": 50.294275264581934,
+    "telephone": "0321507391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Val de Scarpe",
+    "resultStructId": "196803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue jean bodel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7844886574133487,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "58012427",
+    "mail": "direction@1001comptines.fr",
+    "distance": 20490,
+    "latitude": 50.29285193617559,
+    "telephone": "0658630912",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Milleet une comptines - Les Pirates",
+    "resultStructId": "681819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du marche au",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.776799441398477,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13020386",
+    "mail": "creche.tempsdunreve@free.fr",
+    "distance": 20507,
+    "latitude": 50.2942083136006,
+    "telephone": "0321732929",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAssociative \"Le Temps d'un Rêve\"",
+    "resultStructId": "214902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7874204330443226,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "41250217",
+    "mail": "ledouxcalinarras@people-and-baby.com",
+    "distance": 20568,
+    "latitude": 50.29217399072296,
+    "telephone": "0982422890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJONQUILLES",
+    "resultStructId": "215302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue des trois visages",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7771060205258173,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "49538696",
+    "mail": "arras@les-cherubins.com",
+    "distance": 21433,
+    "latitude": 50.28348427098026,
+    "telephone": "0787083959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LATANIERE DES P'TITS OURSONS CHERUBINS ARRAS",
+    "resultStructId": "655401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue adamde la halle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7706108866909567,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "13001466",
+    "mail": "arras@lpcr.fr",
+    "distance": 21523,
+    "latitude": 50.2857802702464,
+    "telephone": "0359858099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges - LPCR Arras",
+    "resultStructId": "685403",
+    "omegaId": "29430",
+    "avip": false,
+    "adresse": "41 rue georgesclemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.793651763770723,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "57436366",
+    "mail": "contact@pasapas-arras.fr",
+    "distance": 21552,
+    "latitude": 50.28428256143124,
+    "telephone": "0983515522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pasà Pas",
+    "resultStructId": "675711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue du commandant dumetz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7855401614215727,
+    "ville": "arras",
+    "cp": "62000"
+  },
+  {
+    "resultId": "12891687",
+    "mail": "ma-torchy@ville-arras.fr",
+    "distance": 21809,
+    "latitude": 50.2817507941834,
+    "telephone": "0321236479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACTorchy Arras",
+    "resultStructId": "686803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 bis rue du docteur baude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7844172681737533,
+    "ville": "arras",
+    "cp": "62000"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12822922",
+    "mail": "contact@lepetithome.org",
+    "distance": 14868,
+    "latitude": 50.42566169315063,
+    "telephone": "0366632000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Home",
+    "resultStructId": "7948",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de la paix 62740 fouquieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9152605888313277,
+    "ville": "leslens",
+    "cp": ""
+  },
+  {
+    "resultId": "13021168",
+    "mail": "multiaccueil@courcelles-les-lens.fr",
+    "distance": 21920,
+    "latitude": 50.41574193850284,
+    "telephone": "0321293559",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Municipal - Courcelles-Les-Lens",
+    "resultStructId": "175213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue clovisenvent 62970 courcelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0151318244312884,
+    "ville": "leslens",
+    "cp": ""
+  }
+]

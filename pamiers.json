@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "37212671",
+    "mail": "smapamiers@igesa.fr",
+    "distance": 201881,
+    "latitude": 43.11477879831401,
+    "telephone": "0699159544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Cam'mouflets",
+    "resultStructId": "706803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit delpa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6079265309560726,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717649",
+    "mail": "pole.enfance@cc-paysdepamiers.fr",
+    "distance": 202175,
+    "latitude": 43.11188806874,
+    "telephone": "0534012530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale de PAMIERS",
+    "resultStructId": "5470",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la maternite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.609160013109977,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717692",
+    "mail": "pole.enfance@ccpap.fr",
+    "distance": 202175,
+    "latitude": 43.11188806874,
+    "telephone": "0534012533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Royaume d'Apamée\" de Pamiers",
+    "resultStructId": "371303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de lamaternite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.609160013109977,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717606",
+    "mail": "pole.enfance@ccpap.fr",
+    "distance": 202628,
+    "latitude": 43.11050339803409,
+    "telephone": "0534012173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"les Pitchouns\" de PAMIERS",
+    "resultStructId": "175601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6150502470638524,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717735",
+    "mail": "pole.enfance@ccpap.fr",
+    "distance": 202782,
+    "latitude": 43.11460996297411,
+    "telephone": "0561607423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Canongeous\" Pamiers",
+    "resultStructId": "370501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue emile gaillard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6229500345586982,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12986803",
+    "mail": "pamiers@lesminipouces.com",
+    "distance": 203402,
+    "latitude": 43.109578681592815,
+    "telephone": "0534018778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMINIPOUCES Pamiers",
+    "resultStructId": "11759",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 chemin des canonges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6269619435748601,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12986803",
+    "mail": "pamiers@lesminipouces.com",
+    "distance": 191401,
+    "latitude": 43.109578681592815,
+    "telephone": "0534018778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMINIPOUCES Pamiers",
+    "resultStructId": "11759",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 chemin des canonges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6269619435748601,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717735",
+    "mail": "pole.enfance@ccpap.fr",
+    "distance": 191547,
+    "latitude": 43.11460996297411,
+    "telephone": "0561607423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Canongeous\" Pamiers",
+    "resultStructId": "370501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue emile gaillard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6229500345586982,
+    "ville": "pamiers",
+    "cp": "09100"
+  },
+  {
+    "resultId": "12717606",
+    "mail": "pole.enfance@ccpap.fr",
+    "distance": 192295,
+    "latitude": 43.11050339803409,
+    "telephone": "0534012173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"les Pitchouns\" de PAMIERS",
+    "resultStructId": "175601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6150502470638524,
+    "ville": "pamiers",
+    "cp": "09100"
+  }
+]

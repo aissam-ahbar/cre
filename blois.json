@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "12786028",
+    "mail": "",
+    "distance": 69392,
+    "latitude": 47.5834425826106,
+    "telephone": "0254783086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MutliAccueil de Vienne",
+    "resultStructId": "160201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue bergevin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.343478919228656,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786071",
+    "mail": "isabelle.brucker@blois.fr",
+    "distance": 70212,
+    "latitude": 47.58137618508984,
+    "telephone": "0254519520",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Quinière",
+    "resultStructId": "96710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3079409782642901,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786286",
+    "mail": "sophie.potet@blois.fr",
+    "distance": 70222,
+    "latitude": 47.58772473994497,
+    "telephone": "0254781508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Luciole",
+    "resultStructId": "161201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rampe chambourdin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3296705734930223,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786157",
+    "mail": "frederique.menoret@blois.fr",
+    "distance": 70599,
+    "latitude": 47.593714677585325,
+    "telephone": "0254559563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Provinces Blois",
+    "resultStructId": "162101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3382416459804924,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786243",
+    "mail": "sylvie.thavelin@blois.fr",
+    "distance": 70850,
+    "latitude": 47.589687529058594,
+    "telephone": "0254432190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Mirablle",
+    "resultStructId": "96706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de la laicite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3149411952432186,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699253",
+    "mail": "leszoziosblois@ilcaper.fr",
+    "distance": 70903,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Coucous Blois",
+    "resultStructId": "160905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699150",
+    "mail": "leszoziosblois@ilcapero.fr",
+    "distance": 70903,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Piou-Piou Blois",
+    "resultStructId": "160903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786200",
+    "mail": "morgane.godeau@blois.fr",
+    "distance": 71179,
+    "latitude": 47.59375269152686,
+    "telephone": "0254445489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMarie Curie",
+    "resultStructId": "708508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue weimar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3179317453552932,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "13012517",
+    "mail": "garciaac@ch-blois.fr",
+    "distance": 71274,
+    "latitude": 47.60162300349714,
+    "telephone": "0254556053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Centre Hospitalier Simone Veil Blois",
+    "resultStructId": "85901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "mail pierrecharlot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3434804580654836,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12785985",
+    "mail": "annie.vieville@blois.fr",
+    "distance": 72805,
+    "latitude": 47.61146042422505,
+    "telephone": "0254429770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Tom Pouce",
+    "resultStructId": "96709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee de villejoint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.324774879320957,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786071",
+    "mail": "isabelle.brucker@blois.fr",
+    "distance": 171581,
+    "latitude": 47.58137618508984,
+    "telephone": "0254519520",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Quinière",
+    "resultStructId": "96710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3079409782642901,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786243",
+    "mail": "sylvie.thavelin@blois.fr",
+    "distance": 172074,
+    "latitude": 47.589687529058594,
+    "telephone": "0254432190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Mirablle",
+    "resultStructId": "96706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de la laicite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3149411952432186,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786200",
+    "mail": "morgane.godeau@blois.fr",
+    "distance": 172285,
+    "latitude": 47.59375269152686,
+    "telephone": "0254445489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMarie Curie",
+    "resultStructId": "708508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue weimar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3179317453552932,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12785985",
+    "mail": "annie.vieville@blois.fr",
+    "distance": 172753,
+    "latitude": 47.61146042422505,
+    "telephone": "0254429770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Tom Pouce",
+    "resultStructId": "96709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee de villejoint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.324774879320957,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786286",
+    "mail": "sophie.potet@blois.fr",
+    "distance": 173185,
+    "latitude": 47.58772473994497,
+    "telephone": "0254781508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Luciole",
+    "resultStructId": "161201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rampe chambourdin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3296705734930223,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786157",
+    "mail": "frederique.menoret@blois.fr",
+    "distance": 173808,
+    "latitude": 47.593714677585325,
+    "telephone": "0254559563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Provinces Blois",
+    "resultStructId": "162101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3382416459804924,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699253",
+    "mail": "leszoziosblois@ilcaper.fr",
+    "distance": 174070,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Coucous Blois",
+    "resultStructId": "160905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699150",
+    "mail": "leszoziosblois@ilcapero.fr",
+    "distance": 174070,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Piou-Piou Blois",
+    "resultStructId": "160903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "13012517",
+    "mail": "garciaac@ch-blois.fr",
+    "distance": 174177,
+    "latitude": 47.60162300349714,
+    "telephone": "0254556053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Centre Hospitalier Simone Veil Blois",
+    "resultStructId": "85901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "mail pierrecharlot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3434804580654836,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786028",
+    "mail": "",
+    "distance": 174236,
+    "latitude": 47.5834425826106,
+    "telephone": "0254783086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MutliAccueil de Vienne",
+    "resultStructId": "160201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue bergevin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.343478919228656,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786071",
+    "mail": "isabelle.brucker@blois.fr",
+    "distance": 171581,
+    "latitude": 47.58137618508984,
+    "telephone": "0254519520",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Quinière",
+    "resultStructId": "96710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3079409782642901,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786243",
+    "mail": "sylvie.thavelin@blois.fr",
+    "distance": 172074,
+    "latitude": 47.589687529058594,
+    "telephone": "0254432190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Mirablle",
+    "resultStructId": "96706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de la laicite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3149411952432186,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786200",
+    "mail": "morgane.godeau@blois.fr",
+    "distance": 172285,
+    "latitude": 47.59375269152686,
+    "telephone": "0254445489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMarie Curie",
+    "resultStructId": "708508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue weimar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3179317453552932,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12785985",
+    "mail": "annie.vieville@blois.fr",
+    "distance": 172753,
+    "latitude": 47.61146042422505,
+    "telephone": "0254429770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Tom Pouce",
+    "resultStructId": "96709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee de villejoint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.324774879320957,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786286",
+    "mail": "sophie.potet@blois.fr",
+    "distance": 173185,
+    "latitude": 47.58772473994497,
+    "telephone": "0254781508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Luciole",
+    "resultStructId": "161201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rampe chambourdin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3296705734930223,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786157",
+    "mail": "frederique.menoret@blois.fr",
+    "distance": 173808,
+    "latitude": 47.593714677585325,
+    "telephone": "0254559563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Provinces Blois",
+    "resultStructId": "162101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3382416459804924,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699253",
+    "mail": "leszoziosblois@ilcaper.fr",
+    "distance": 174070,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Coucous Blois",
+    "resultStructId": "160905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "37699150",
+    "mail": "leszoziosblois@ilcapero.fr",
+    "distance": 174070,
+    "latitude": 47.59763290368804,
+    "telephone": "0234460506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Piou-Piou Blois",
+    "resultStructId": "160903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de signeulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3419028988668122,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "13012517",
+    "mail": "garciaac@ch-blois.fr",
+    "distance": 174177,
+    "latitude": 47.60162300349714,
+    "telephone": "0254556053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Centre Hospitalier Simone Veil Blois",
+    "resultStructId": "85901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "mail pierrecharlot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3434804580654836,
+    "ville": "blois",
+    "cp": "41000"
+  },
+  {
+    "resultId": "12786028",
+    "mail": "",
+    "distance": 174236,
+    "latitude": 47.5834425826106,
+    "telephone": "0254783086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MutliAccueil de Vienne",
+    "resultStructId": "160201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue bergevin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.343478919228656,
+    "ville": "blois",
+    "cp": "41000"
+  }
+]

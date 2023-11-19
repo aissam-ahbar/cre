@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12939374",
+    "mail": "creche@mairie-saintdizier.fr",
+    "distance": 151258,
+    "latitude": 48.49761869484038,
+    "telephone": "0325550101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "10656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue abbe oudot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.94497660839521,
+    "ville": "wassy",
+    "cp": "52130"
+  },
+  {
+    "resultId": "12939374",
+    "mail": "creche@mairie-saintdizier.fr",
+    "distance": 39276,
+    "latitude": 48.49761869484038,
+    "telephone": "0325550101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "10656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue abbe oudot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.94497660839521,
+    "ville": "wassy",
+    "cp": "52130"
+  }
+]

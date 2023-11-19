@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12741136",
+    "mail": "firminmarbeau.iepc@gmal.com",
+    "distance": 171386,
+    "latitude": 48.957485207479316,
+    "telephone": "0130765194",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil associatif Firmin Marbeau",
+    "resultStructId": "6046",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 rue carrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2882513957513666,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "12780438",
+    "mail": "lespetitspas.argenteuil@gmail.com",
+    "distance": 172010,
+    "latitude": 48.955088602961375,
+    "telephone": "0139611201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"LES PETITS PAS\"",
+    "resultStructId": "6960",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2612033921046883,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "12928151",
+    "mail": "argenteuil@lpcr.fr",
+    "distance": 172010,
+    "latitude": 48.955088602961375,
+    "telephone": "0173269705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "10395",
+    "omegaId": "16814",
+    "avip": false,
+    "adresse": "88 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2612033921046883,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "12873197",
+    "mail": "grillons@ville-argenteuil.fr",
+    "distance": 172063,
+    "latitude": 48.95713861408053,
+    "telephone": "0139963001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Grillons",
+    "resultStructId": "707314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43/45 rue marcelle laget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.241519948352364,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "12622869",
+    "mail": "marie-laurence.lemarec@ville-argenteuil.fr",
+    "distance": 172063,
+    "latitude": 48.95713861408053,
+    "telephone": "0139963001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Maison de l'enfance Les Grillons",
+    "resultStructId": "3266",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43/45 ruemarcelle laget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.241519948352364,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "53176837",
+    "mail": "contact@babilou.com",
+    "distance": 172317,
+    "latitude": 48.95185991912986,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouArgenteuil Raspail Anne Sylvestre",
+    "resultStructId": "547704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26-28 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2645444653980555,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "34396857",
+    "mail": "contact@babilou.com",
+    "distance": 172361,
+    "latitude": 48.9519185201045,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouArgenteuil République Chantal Goya",
+    "resultStructId": "430201",
+    "omegaId": "5097",
+    "avip": false,
+    "adresse": "50 rue de larepublique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.260842635869813,
+    "ville": "argenteuil",
+    "cp": "95100"
+  },
+  {
+    "resultId": "12803830",
+    "mail": "vcour@capenfants.com",
+    "distance": 10323,
+    "latitude": 48.93108788862527,
+    "telephone": "0170616761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"EUCLIDE\"",
+    "resultStructId": "7504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 rue michel carre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2347473331105645,
+    "ville": "argenteuil",
+    "cp": "95100"
+  }
+]

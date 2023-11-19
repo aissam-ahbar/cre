@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33320632",
+    "mail": "creche.apetitspas@mfgs.fr",
+    "distance": 94959,
+    "latitude": 43.568256114661004,
+    "telephone": "0467965115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAA Petits Pas",
+    "resultStructId": "101211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saute la paille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.447288349727107,
+    "ville": "aspiran",
+    "cp": "34800"
+  },
+  {
+    "resultId": "33320632",
+    "mail": "creche.apetitspas@mfgs.fr",
+    "distance": 36366,
+    "latitude": 43.568256114661004,
+    "telephone": "0467965115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAA Petits Pas",
+    "resultStructId": "101211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saute la paille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.447288349727107,
+    "ville": "aspiran",
+    "cp": "34800"
+  }
+]

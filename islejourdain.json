@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12496277",
+    "mail": "mac@apiengascogne.fr",
+    "distance": 133384,
+    "latitude": 43.61341768610823,
+    "telephone": "0562070572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil API en Gascogne",
+    "resultStructId": "678616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard des poumaderes -maison de l'enfance 32600 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0815529580568854,
+    "ville": "islejourdain",
+    "cp": ""
+  },
+  {
+    "resultId": "59189884",
+    "mail": "o.capucines@gmail.com",
+    "distance": 133384,
+    "latitude": 43.61341768610823,
+    "telephone": "0562665983",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OCapucines",
+    "resultStructId": "708405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1281 chemin du tuco 32600 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0815529580568854,
+    "ville": "islejourdain",
+    "cp": ""
+  },
+  {
+    "resultId": "55602207",
+    "mail": "",
+    "distance": 133520,
+    "latitude": 43.60538348725825,
+    "telephone": "0581672189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Lou Lapinot",
+    "resultStructId": "638101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue aygobere 32600 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0749160189542086,
+    "ville": "islejourdain",
+    "cp": ""
+  },
+  {
+    "resultId": "59376084",
+    "mail": "info@bebenou.com",
+    "distance": 134194,
+    "latitude": 43.62055596312024,
+    "telephone": "0534605169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BebenouJourdain",
+    "resultStructId": "696905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 route de segoufielle 32600 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1019439276044072,
+    "ville": "islejourdain",
+    "cp": ""
+  },
+  {
+    "resultId": "42428640",
+    "mail": "",
+    "distance": 134899,
+    "latitude": 43.606712792244984,
+    "telephone": "0618915976",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Microcrèche Abracaptipas",
+    "resultStructId": "227701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place becquerel 32600 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.09820439093746,
+    "ville": "islejourdain",
+    "cp": ""
+  }
+]

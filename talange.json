@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "57081705",
+    "mail": "talange1@creche-la-maison-bleue.fr",
+    "distance": 130957,
+    "latitude": 49.232977583671264,
+    "telephone": "0356690000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTout P'tits Rives",
+    "resultStructId": "671509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "262 rue de metz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.167883835097652,
+    "ville": "talange",
+    "cp": "57525"
+  },
+  {
+    "resultId": "58384471",
+    "mail": "holababytalange@gmail.com",
+    "distance": 131570,
+    "latitude": 49.24068033350712,
+    "telephone": "0357561151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HOLABABY 2 - TALANGE",
+    "resultStructId": "683922",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 clos de la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.171740014098468,
+    "ville": "talange",
+    "cp": "57525"
+  },
+  {
+    "resultId": "58384559",
+    "mail": "holababytalange@gmail.com",
+    "distance": 131570,
+    "latitude": 49.24068033350712,
+    "telephone": "0357561151",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HOLABABY 1 - TALANGE",
+    "resultStructId": "683923",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 clos de la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.171740014098468,
+    "ville": "talange",
+    "cp": "57525"
+  }
+]

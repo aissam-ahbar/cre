@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12517992",
+    "mail": "crechedenoiseau@orange.fr",
+    "distance": 146377,
+    "latitude": 48.77465374275795,
+    "telephone": "0145904590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Maison de la Petite Enfance",
+    "resultStructId": "15145",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5486773077044593,
+    "ville": "noiseau",
+    "cp": "94880"
+  },
+  {
+    "resultId": "45093826",
+    "mail": "creche@noiseau.fr",
+    "distance": 146452,
+    "latitude": 48.77225573084429,
+    "telephone": "0145900842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance",
+    "resultStructId": "277801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee rene dessert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.547576029433281,
+    "ville": "noiseau",
+    "cp": "94880"
+  }
+]

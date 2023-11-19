@@ -1,0 +1,266 @@
+[
+  {
+    "resultId": "12811785",
+    "mail": "baleine.bleue@ville-epernay.fr",
+    "distance": 53895,
+    "latitude": 49.03763158734795,
+    "telephone": "0326557961",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Baleine Bleue Epernay",
+    "resultStructId": "7689",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9731135123820622,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12644928",
+    "mail": "les-amis-de-juliette@orange.fr",
+    "distance": 54133,
+    "latitude": 49.02711709702706,
+    "telephone": "0326546209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Amis de Juliette Epernay",
+    "resultStructId": "3779",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9563950800435648,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12811140",
+    "mail": "creche.tompouce@ville-epernay.fr",
+    "distance": 54195,
+    "latitude": 49.03616339701022,
+    "telephone": "0326544075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Tom Pouce Epernay",
+    "resultStructId": "7674",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des hautes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9660378639120326,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12811226",
+    "mail": "piraterie@ville-epernay.fr",
+    "distance": 54373,
+    "latitude": 49.03069699229542,
+    "telephone": "0326557808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Piraterie Epernay",
+    "resultStructId": "7676",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 bis rue louise auban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.956422816963203,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12602401",
+    "mail": "",
+    "distance": 54510,
+    "latitude": 49.04176765703887,
+    "telephone": "0805620515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Ronde des Petits Loups Epernay",
+    "resultStructId": "2790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue dechampagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9673648692467522,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12602358",
+    "mail": "",
+    "distance": 54510,
+    "latitude": 49.04176765703887,
+    "telephone": "0805620515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Marmottines Epernay",
+    "resultStructId": "2789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9673648692467522,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12811183",
+    "mail": "creche.familiale@ville-epernay.fr",
+    "distance": 55436,
+    "latitude": 49.04263705002662,
+    "telephone": "0326557806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale l'Autre Boule Epernay",
+    "resultStructId": "705609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9521531907969454,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12811269",
+    "mail": "petite.bouchons@ville-epernay.fr",
+    "distance": 55456,
+    "latitude": 49.04269455127008,
+    "telephone": "0326540988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les P'tits Bouchons Epernay",
+    "resultStructId": "7677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.951858882731536,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "12811097",
+    "mail": "creche.thiercelin@ville-epernay.fr",
+    "distance": 55885,
+    "latitude": 49.04877981259649,
+    "telephone": "0326552368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Thiercelin Epernay",
+    "resultStructId": "7673",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue thiercelinparrichault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9517519468744524,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "57834653",
+    "mail": "contact.epernay.lm@family-creche.fr",
+    "distance": 56108,
+    "latitude": 49.05363694891721,
+    "telephone": "0616260552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FAMILYCRECHE LES MUTATCHOUS",
+    "resultStructId": "679602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee general alberico",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9538549856527934,
+    "ville": "epernay",
+    "cp": "51200"
+  },
+  {
+    "resultId": "58370331",
+    "mail": "contact.epernay.lm@family-creche.fr",
+    "distance": 56108,
+    "latitude": 49.05363694891721,
+    "telephone": "0351252235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMoutatchous",
+    "resultStructId": "683808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee general alberico albrici",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9538549856527934,
+    "ville": "epernay",
+    "cp": "51200"
+  }
+]

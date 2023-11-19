@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12496707",
+    "mail": "jardincoquelicots@free.fr",
+    "distance": 200243,
+    "latitude": 48.76224098020475,
+    "telephone": "0146317472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS DE CHATENAY \"LES COQUELICOTS\"",
+    "resultStructId": "66229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 squarebassompierre 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.256640361466394,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  },
+  {
+    "resultId": "12492227",
+    "mail": "tonylaine@chatenay-malabry.fr",
+    "distance": 200308,
+    "latitude": 48.76289980795611,
+    "telephone": "0145370836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TONYLAINE",
+    "resultStructId": "67411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 - 20 rue benoit malon 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2562164815016246,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  },
+  {
+    "resultId": "12492915",
+    "mail": "magdeleinerendu@chatenay-malabry.fr",
+    "distance": 200316,
+    "latitude": 48.76266693092587,
+    "telephone": "0146322166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGDELEINERENDU",
+    "resultStructId": "67405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place francois simiand 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2583389328392722,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  },
+  {
+    "resultId": "12642735",
+    "mail": "mirabelle.iepc@gmail.fr",
+    "distance": 200357,
+    "latitude": 48.76267725847692,
+    "telephone": "0146304739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MIRABELLE",
+    "resultStructId": "60701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6place leon blum 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2607884359286494,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  },
+  {
+    "resultId": "30667613",
+    "mail": "lepetitrobin@chatenay-malabry.fr",
+    "distance": 9118,
+    "latitude": 48.780006694996196,
+    "telephone": "0146328413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT ROBIN",
+    "resultStructId": "67412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 - 18 rue gustave robin 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.278714840193107,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  },
+  {
+    "resultId": "12493001",
+    "mail": "lescoccinelles@chatenay-malabry.fr",
+    "distance": 10352,
+    "latitude": 48.76986599040197,
+    "telephone": "0143506116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOCCINELLES",
+    "resultStructId": "67403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "135-137 avenue jean jaures 92290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271731975510321,
+    "ville": "chatenaymalabry",
+    "cp": ""
+  }
+]

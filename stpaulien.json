@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13040690",
+    "mail": "multi-acc.pa@orange.fr",
+    "distance": 186979,
+    "latitude": 45.135945658973014,
+    "telephone": "0471004279",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Enfants des Portes d'Auvergne",
+    "resultStructId": "108801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 placejeanne d'arc 43350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8120394483811926,
+    "ville": "stpaulien",
+    "cp": ""
+  },
+  {
+    "resultId": "13040690",
+    "mail": "multi-acc.pa@orange.fr",
+    "distance": 171089,
+    "latitude": 45.135945658973014,
+    "telephone": "0471004279",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Enfants des Portes d'Auvergne",
+    "resultStructId": "108801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 placejeanne d'arc 43350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8120394483811926,
+    "ville": "stpaulien",
+    "cp": ""
+  }
+]

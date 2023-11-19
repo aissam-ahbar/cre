@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12822621",
+    "mail": "creche@ville-annoeullin.fr",
+    "distance": 16258,
+    "latitude": 50.52963028206539,
+    "telephone": "0320854536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrancoise Dolto",
+    "resultStructId": "7941",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue maurice wattrelos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9313408559623055,
+    "ville": "annoeullin",
+    "cp": "59112"
+  },
+  {
+    "resultId": "12822578",
+    "mail": "haltegarderie@ville-annoeullin.fr",
+    "distance": 16572,
+    "latitude": 50.52468471142879,
+    "telephone": "0320868021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"La fontinelle\"",
+    "resultStructId": "7940",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du vent de bise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9391266714916795,
+    "ville": "annoeullin",
+    "cp": "59112"
+  }
+]

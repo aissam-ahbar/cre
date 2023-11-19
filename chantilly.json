@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "55484978",
+    "mail": "m-chevrinais@fondation-conde.com",
+    "distance": 143536,
+    "latitude": 49.19321034426023,
+    "telephone": "0344674467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS PRINCES DE CONDE",
+    "resultStructId": "619501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place mauriceversepuy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.462652467938078,
+    "ville": "chantilly",
+    "cp": "60500"
+  },
+  {
+    "resultId": "12993511",
+    "mail": "creche@ville-chantilly.fr",
+    "distance": 143563,
+    "latitude": 49.192917381000136,
+    "telephone": "0344570404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES FRIMOUSSES\" DE CHANTILLY",
+    "resultStructId": "109404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue degouvieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.463198785841977,
+    "ville": "chantilly",
+    "cp": "60500"
+  },
+  {
+    "resultId": "12964228",
+    "mail": "creche@ville-chantilly.fr",
+    "distance": 143563,
+    "latitude": 49.192917381000136,
+    "telephone": "0344570404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE \"LES CANTILOUS\" A CHANTILLY",
+    "resultStructId": "109407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue degouvieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.463198785841977,
+    "ville": "chantilly",
+    "cp": "60500"
+  },
+  {
+    "resultId": "31723417",
+    "mail": "chantilly@creche-la-maison-bleue.fr",
+    "distance": 144190,
+    "latitude": 49.187610301698186,
+    "telephone": "0344582135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA MAISON BLEUE DE CHANTILLY",
+    "resultStructId": "80528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue victorhugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4586844150843006,
+    "ville": "chantilly",
+    "cp": "60500"
+  }
+]

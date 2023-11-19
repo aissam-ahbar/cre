@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "35142296",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 184722,
+    "latitude": 48.58390555899244,
+    "telephone": "0970160636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS VILLABÉ",
+    "resultStructId": "237314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 route de villoison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4423072811848763,
+    "ville": "villabe",
+    "cp": "91100"
+  },
+  {
+    "resultId": "12825330",
+    "mail": "halte.garderie@mairie-villabe.fr",
+    "distance": 185737,
+    "latitude": 48.589116300152845,
+    "telephone": "0786769566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Melusine",
+    "resultStructId": "687609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6rue orion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.462355049255257,
+    "ville": "villabe",
+    "cp": "91100"
+  },
+  {
+    "resultId": "12825330",
+    "mail": "halte.garderie@mairie-villabe.fr",
+    "distance": 153721,
+    "latitude": 48.589116300152845,
+    "telephone": "0786769566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Melusine",
+    "resultStructId": "687609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6rue orion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.462355049255257,
+    "ville": "villabe",
+    "cp": "91100"
+  },
+  {
+    "resultId": "35142296",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 155254,
+    "latitude": 48.58390555899244,
+    "telephone": "0970160636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS VILLABÉ",
+    "resultStructId": "237314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 route de villoison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4423072811848763,
+    "ville": "villabe",
+    "cp": "91100"
+  }
+]

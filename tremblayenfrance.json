@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12879346",
+    "mail": "a.lostetter@tremblayenfrance.fr",
+    "distance": 146901,
+    "latitude": 48.95377396602068,
+    "telephone": "0148618790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de La Paix",
+    "resultStructId": "465901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue de la paix 93290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5655296350890984,
+    "ville": "tremblayenfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879346",
+    "mail": "a.lostetter@tremblayenfrance.fr",
+    "distance": 169337,
+    "latitude": 48.95377396602068,
+    "telephone": "0148618790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de La Paix",
+    "resultStructId": "465901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue de la paix 93290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5655296350890984,
+    "ville": "tremblayenfrance",
+    "cp": ""
+  }
+]

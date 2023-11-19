@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "21420608",
+    "mail": "ptits.rocs@lechesnay-rocquencourt.fr",
+    "distance": 192700,
+    "latitude": 48.83280349519711,
+    "telephone": "0139231141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES P'TITS ROCS",
+    "resultStructId": "685905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de l'etang 78150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1139975490389333,
+    "ville": "lechesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "12725957",
+    "mail": "hirondelles@lechesnay-rocquencourt.fr",
+    "distance": 193125,
+    "latitude": 48.82318627490336,
+    "telephone": "0139238183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES HIRONDELLES",
+    "resultStructId": "685909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du hameau 78150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.118711121660681,
+    "ville": "lechesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "21420665",
+    "mail": "petit.prince@lechesnay-rocquencourt.fr",
+    "distance": 193569,
+    "latitude": 48.82254783245192,
+    "telephone": "0139232373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE PETIT PRINCE",
+    "resultStructId": "685906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue cimarosa 78150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.124712279614261,
+    "ville": "lechesnayrocquencourt",
+    "cp": ""
+  }
+]

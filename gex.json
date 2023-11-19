@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12858921",
+    "mail": "",
+    "distance": 176760,
+    "latitude": 46.33574897502623,
+    "telephone": "0450401898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BULLE D'ETOILES PERDTEMPS",
+    "resultStructId": "8785",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 place perdtemps",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.057759405120472,
+    "ville": "gex",
+    "cp": "01170"
+  },
+  {
+    "resultId": "12858878",
+    "mail": "",
+    "distance": 177038,
+    "latitude": 46.33143645273556,
+    "telephone": "0967621887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BULLE D'ETOILES LES ANGES",
+    "resultStructId": "8784",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue de geneve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.05773972632792,
+    "ville": "gex",
+    "cp": "01170"
+  },
+  {
+    "resultId": "41740173",
+    "mail": "lesdiablotins.paysdegexagglo@leolagrange.org",
+    "distance": 177148,
+    "latitude": 46.337618233641365,
+    "telephone": "0450201737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Diablotins",
+    "resultStructId": "222114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place georges charpak",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.065903569134616,
+    "ville": "gex",
+    "cp": "01170"
+  },
+  {
+    "resultId": "12752144",
+    "mail": "creche.mesanges@hopital-gex.org",
+    "distance": 177697,
+    "latitude": 46.32204310334553,
+    "telephone": "0450403847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES MESANGES",
+    "resultStructId": "376301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 rue marc panissod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0584973455127145,
+    "ville": "gex",
+    "cp": "01170"
+  }
+]

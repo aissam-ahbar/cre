@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12765474",
+    "mail": "creche.municipale@croissy-beaubourg.fr",
+    "distance": 139537,
+    "latitude": 48.82628213103497,
+    "telephone": "0160374897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMunicipale",
+    "resultStructId": "182014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee henry aubry 77183",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6453760253183143,
+    "ville": "croissybeaubourg",
+    "cp": ""
+  },
+  {
+    "resultId": "56721875",
+    "mail": "microcreche.julesetvalentin@gmail.com",
+    "distance": 139980,
+    "latitude": 48.81380129614809,
+    "telephone": "0612742832",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Juleset Valentin",
+    "resultStructId": "661401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 allee des vendanges 77183",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6382137402632866,
+    "ville": "croissybeaubourg",
+    "cp": ""
+  }
+]

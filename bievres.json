@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12757734",
+    "mail": "mpe@bievres.fr",
+    "distance": 198886,
+    "latitude": 48.75524628486457,
+    "telephone": "0160191060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "6432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2180702592685875,
+    "ville": "bievres",
+    "cp": "91570"
+  }
+]

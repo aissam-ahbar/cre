@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12789941",
+    "mail": "multi.accueil@arzon.fr",
+    "distance": 143553,
+    "latitude": 47.54673325855443,
+    "telephone": "0297539410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL- ARZON",
+    "resultStructId": "487201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.891183443708627,
+    "ville": "arzon",
+    "cp": "56640"
+  },
+  {
+    "resultId": "12789941",
+    "mail": "multi.accueil@arzon.fr",
+    "distance": 143553,
+    "latitude": 47.54673325855443,
+    "telephone": "0297539410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL- ARZON",
+    "resultStructId": "487201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.891183443708627,
+    "ville": "arzon",
+    "cp": "56640"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "59276034",
+    "mail": "pascale.branet@ville-nevers.fr",
+    "distance": 78650,
+    "latitude": 46.984325265166184,
+    "telephone": "0386684624",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LES LUCIOLES",
+    "resultStructId": "694711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard jacques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.187284594526631,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "59276149",
+    "mail": "nicole.lacour@ville-nevers.fr",
+    "distance": 78650,
+    "latitude": 46.984325265166184,
+    "telephone": "0386684503",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE FRIMOUSSE",
+    "resultStructId": "694801",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 bis boulevard jacques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.187284594526631,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "59815289",
+    "mail": "citrouillecreche@gmail.com",
+    "distance": 79646,
+    "latitude": 46.99914778175526,
+    "telephone": "0749371973",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CITROUILLE",
+    "resultStructId": "700202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de parigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1647642639855893,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650131",
+    "mail": "jennifer.decoster@ville-nevers.fr",
+    "distance": 79814,
+    "latitude": 47.00290272112913,
+    "telephone": "0386570151",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE PIROUETTE",
+    "resultStructId": "694706",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1603708511987554,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12649959",
+    "mail": "katia.loury@ville-nevers.fr",
+    "distance": 80063,
+    "latitude": 46.99232187984634,
+    "telephone": "0358583258",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE CALINOURS",
+    "resultStructId": "694712",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue du sort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.162671666899917,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650045",
+    "mail": "cecile.pitois@ville-nevers.fr",
+    "distance": 80416,
+    "latitude": 46.995345733665395,
+    "telephone": "0358583320",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE CLAPOTIS",
+    "resultStructId": "694708",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee du docteur chanel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.156011895147633,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650002",
+    "mail": "stephanie.minel@ville-nevers.fr",
+    "distance": 82053,
+    "latitude": 46.98981000441757,
+    "telephone": "0358583310",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE SOURICETTE",
+    "resultStructId": "694709",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue filiato",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.136000349531504,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650088",
+    "mail": "celine.schiltz@ville-nevers.fr",
+    "distance": 82488,
+    "latitude": 46.992438675591885,
+    "telephone": "0386611958",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE GRIBOUILLE",
+    "resultStructId": "694707",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue achille vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1284478533410613,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12796692",
+    "mail": "papouillecreche@gmail.com",
+    "distance": 83244,
+    "latitude": 46.97846045601483,
+    "telephone": "0695325527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePAPOUILLE",
+    "resultStructId": "697004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "161 rue de la raie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.125552236861394,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12796692",
+    "mail": "papouillecreche@gmail.com",
+    "distance": 109530,
+    "latitude": 46.97846045601483,
+    "telephone": "0695325527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePAPOUILLE",
+    "resultStructId": "697004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "161 rue de la raie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.125552236861394,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650088",
+    "mail": "celine.schiltz@ville-nevers.fr",
+    "distance": 109707,
+    "latitude": 46.992438675591885,
+    "telephone": "0386611958",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE GRIBOUILLE",
+    "resultStructId": "694707",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue achille vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1284478533410613,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650002",
+    "mail": "stephanie.minel@ville-nevers.fr",
+    "distance": 110286,
+    "latitude": 46.98981000441757,
+    "telephone": "0358583310",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE SOURICETTE",
+    "resultStructId": "694709",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue filiato",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.136000349531504,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650045",
+    "mail": "cecile.pitois@ville-nevers.fr",
+    "distance": 111791,
+    "latitude": 46.995345733665395,
+    "telephone": "0358583320",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE CLAPOTIS",
+    "resultStructId": "694708",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee du docteur chanel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.156011895147633,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12650131",
+    "mail": "jennifer.decoster@ville-nevers.fr",
+    "distance": 112110,
+    "latitude": 47.00290272112913,
+    "telephone": "0386570151",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE PIROUETTE",
+    "resultStructId": "694706",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1603708511987554,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "12649959",
+    "mail": "katia.loury@ville-nevers.fr",
+    "distance": 112302,
+    "latitude": 46.99232187984634,
+    "telephone": "0358583258",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE CALINOURS",
+    "resultStructId": "694712",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue du sort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.162671666899917,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "59815289",
+    "mail": "citrouillecreche@gmail.com",
+    "distance": 112448,
+    "latitude": 46.99914778175526,
+    "telephone": "0749371973",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CITROUILLE",
+    "resultStructId": "700202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de parigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1647642639855893,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "59276034",
+    "mail": "pascale.branet@ville-nevers.fr",
+    "distance": 114190,
+    "latitude": 46.984325265166184,
+    "telephone": "0386684624",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LES LUCIOLES",
+    "resultStructId": "694711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard jacques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.187284594526631,
+    "ville": "nevers",
+    "cp": "58000"
+  },
+  {
+    "resultId": "59276149",
+    "mail": "nicole.lacour@ville-nevers.fr",
+    "distance": 114190,
+    "latitude": 46.984325265166184,
+    "telephone": "0386684503",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE FRIMOUSSE",
+    "resultStructId": "694801",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 bis boulevard jacques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.187284594526631,
+    "ville": "nevers",
+    "cp": "58000"
+  }
+]

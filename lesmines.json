@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12701653",
+    "mail": "creche@mairie-sanvignes.fr",
+    "distance": 65436,
+    "latitude": 46.66500636009217,
+    "telephone": "0385670307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif \"La souris verte\"",
+    "resultStructId": "676009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5b rue leolagrange 71410 sanvignes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.297414041216862,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "57481168",
+    "mail": "creche@mairie-sanvignes.fr",
+    "distance": 65436,
+    "latitude": 46.66500636009217,
+    "telephone": "0385670307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "676010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5b rue leo lagrange 71410 sanvignes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.297414041216862,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "13069113",
+    "mail": "petiteenfance@montceaulesmines.fr",
+    "distance": 67156,
+    "latitude": 46.65814401432272,
+    "telephone": "0385581290",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil\"Bébébulle\"",
+    "resultStructId": "703904",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4-6 rue de lutterbach 71300 montceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.361114064798477,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12985212",
+    "mail": "",
+    "distance": 156942,
+    "latitude": 46.161257055355144,
+    "telephone": "0473850753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les bout'chous",
+    "resultStructId": "11722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "carreau saint-joseph 63700 steloy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835129987959406,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12985212",
+    "mail": "",
+    "distance": 128570,
+    "latitude": 46.161257055355144,
+    "telephone": "0473850753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les bout'chous",
+    "resultStructId": "11722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "carreau saint-joseph 63700 steloy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835129987959406,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "41335862",
+    "mail": "lpmec@hotmail.com",
+    "distance": 3146,
+    "latitude": 50.44530448085311,
+    "telephone": "0988301256",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites mains en Couleurs",
+    "resultStructId": "439011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue roger salengro 62160bully",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7240859243355966,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12996908",
+    "mail": "creche.noeux@wanadoo.fr",
+    "distance": 3606,
+    "latitude": 50.471805563952216,
+    "telephone": "0321669815",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \" Les P'tites Frimousses\"",
+    "resultStructId": "177301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue sonis 62290noeux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6682192955473067,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "43306548",
+    "mail": "celine.leonardczyk@people-and-baby.com",
+    "distance": 6201,
+    "latitude": 50.50919710891823,
+    "telephone": "0321265230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche KAKI",
+    "resultStructId": "236502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue francoise dolto 62138 auchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7863699626956744,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12815268",
+    "mail": "leskangourous@hotmail.com",
+    "distance": 6427,
+    "latitude": 50.51756365735561,
+    "telephone": "0661561275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les Louveteaux\"",
+    "resultStructId": "652301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 route nationale 62138auchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7777884798220542,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12831694",
+    "mail": "haltegarderie.douchy@orange.fr",
+    "distance": 51478,
+    "latitude": 50.300142633226045,
+    "telephone": "0327222731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemunicipale \"les diablotins\"",
+    "resultStructId": "8152",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue julien renard59282 douchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.392434210285498,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12768355",
+    "mail": "lespetitescoccinelles@gmail.com",
+    "distance": 192244,
+    "latitude": 44.018469411256284,
+    "telephone": "0563562407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Coccinelles",
+    "resultStructId": "658501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "393 chemin de reguelongue 81400blaye",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1297791998954576,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "33745916",
+    "mail": "micro-creche.lesninous@sfr.fr",
+    "distance": 194027,
+    "latitude": 43.983440189362405,
+    "telephone": "0581400485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES NINOUS",
+    "resultStructId": "689905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard seguier 81130cagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.141960217355938,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "59249858",
+    "mail": "angeline.lesminispandas@gmail.com",
+    "distance": 194648,
+    "latitude": 43.97886402913488,
+    "telephone": "0630952955",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Minis Pandas",
+    "resultStructId": "694602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 t rue andre raust 81130cagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1484640745383428,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "59249858",
+    "mail": "angeline.lesminispandas@gmail.com",
+    "distance": 146576,
+    "latitude": 43.97886402913488,
+    "telephone": "0630952955",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Minis Pandas",
+    "resultStructId": "694602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 t rue andre raust 81130cagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1484640745383428,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "33745916",
+    "mail": "micro-creche.lesninous@sfr.fr",
+    "distance": 147217,
+    "latitude": 43.983440189362405,
+    "telephone": "0581400485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES NINOUS",
+    "resultStructId": "689905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard seguier 81130cagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.141960217355938,
+    "ville": "lesmines",
+    "cp": ""
+  },
+  {
+    "resultId": "12768355",
+    "mail": "lespetitescoccinelles@gmail.com",
+    "distance": 149285,
+    "latitude": 44.018469411256284,
+    "telephone": "0563562407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Coccinelles",
+    "resultStructId": "658501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "393 chemin de reguelongue 81400blaye",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1297791998954576,
+    "ville": "lesmines",
+    "cp": ""
+  }
+]

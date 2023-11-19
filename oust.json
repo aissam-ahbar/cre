@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12655764",
+    "mail": "associationlesoursons@orange.fr",
+    "distance": 201257,
+    "latitude": 42.87457086653854,
+    "telephone": "0561669203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Oursons",
+    "resultStructId": "4031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ecole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2162327191320825,
+    "ville": "oust",
+    "cp": "09140"
+  }
+]

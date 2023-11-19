@@ -1,0 +1,698 @@
+[
+  {
+    "resultId": "12653313",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 127764,
+    "latitude": 46.206744785422806,
+    "telephone": "0470024845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Bout'en Train\" Saint Germain des Fossés",
+    "resultStructId": "205615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue desecoles 03260 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.43599526153459,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12653313",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 160611,
+    "latitude": 46.206744785422806,
+    "telephone": "0470024845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Bout'en Train\" Saint Germain des Fossés",
+    "resultStructId": "205615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue desecoles 03260 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.43599526153459,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "57314131",
+    "mail": "contact@lbbe.fr",
+    "distance": 148805,
+    "latitude": 48.79062317855534,
+    "telephone": "0641824017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesExplorateurs de La Varenne",
+    "resultStructId": "674403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue chanzy 94210 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.516135018494327,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12511628",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 148976,
+    "latitude": 48.79455657666112,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil du Mesnil",
+    "resultStructId": "686225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue du mesnil 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.513996508424474,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13058191",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 149268,
+    "latitude": 48.80621437664795,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Champignol",
+    "resultStructId": "686221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "134 avenue pierre semard 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5106866357262425,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "60031353",
+    "mail": "",
+    "distance": 149421,
+    "latitude": 48.80597877821847,
+    "telephone": "0986635698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesexplorateurs de Champignol",
+    "resultStructId": "703406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 boulevard de champigny94210 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.508581144579524,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12544652",
+    "mail": "halte.luc.noyelle@mairie-saint-maur.com",
+    "distance": 149805,
+    "latitude": 48.78992570593664,
+    "telephone": "0148839359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieLuc Noyelle",
+    "resultStructId": "686226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue de bonneuil 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.502451931988069,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12505006",
+    "mail": "",
+    "distance": 150338,
+    "latitude": 48.808398174102074,
+    "telephone": "0155961982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiacceuil Brosolette",
+    "resultStructId": "678802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16-18 rue de l'entreprise 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4962025478886583,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13057933",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 150338,
+    "latitude": 48.808398174102074,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Brossolette",
+    "resultStructId": "686222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16/18 rue de l'entreprise 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4962025478886583,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "59090149",
+    "mail": "saintmaur@creches-plume.fr",
+    "distance": 150379,
+    "latitude": 48.79774804028285,
+    "telephone": "0986313979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlumeSaint-Maur",
+    "resultStructId": "692508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 boulevard de creteil 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4950067781254175,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21356375",
+    "mail": "ptitsloups@les-cherubins.com",
+    "distance": 150519,
+    "latitude": 48.78529650714518,
+    "telephone": "0981943350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups des Chérubins",
+    "resultStructId": "682218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 boulevard des corneilles94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4925007183604153,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21356225",
+    "mail": "les-reinettes@les-cherubins.com",
+    "distance": 150523,
+    "latitude": 48.78485847202982,
+    "telephone": "0983801397",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesReinettes des Chrérubins",
+    "resultStructId": "682216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 boulevard des corneilles94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4924293291208186,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12540051",
+    "mail": "",
+    "distance": 150613,
+    "latitude": 48.80190820145941,
+    "telephone": "0148859168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale du 8 mai 1945",
+    "resultStructId": "15410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 8 mai 1945 94100st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.492034819739409,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "57801871",
+    "mail": "crecheaujardindeden@gmail.com",
+    "distance": 150697,
+    "latitude": 48.807102293576975,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuJardin d'Eden",
+    "resultStructId": "679222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue jeanne d'arc 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.491206788392729,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13057890",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 150750,
+    "latitude": 48.80099073218159,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Miss Cavell",
+    "resultStructId": "686219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 ter avenue miss cavell 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.490110666109758,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21343473",
+    "mail": "stmaur.republique@lpcr.fr",
+    "distance": 151045,
+    "latitude": 48.7995207561152,
+    "telephone": "0173434581",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux de la République - Saint Maur des Fossés",
+    "resultStructId": "15281",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57avenue de la republique 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.48600404135051,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12505178",
+    "mail": "",
+    "distance": 151103,
+    "latitude": 48.80386436803314,
+    "telephone": "0145114301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLA PARENTELE",
+    "resultStructId": "684701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place charles de gaulle 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4854665292370264,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13057847",
+    "mail": "",
+    "distance": 151109,
+    "latitude": 48.80284545439751,
+    "telephone": "0148838613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des 2 lions",
+    "resultStructId": "15409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue ledru rollin -square des deux lions 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.485321323270339,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "57799774",
+    "mail": "kidibulle@micro-stars.fr",
+    "distance": 151281,
+    "latitude": 48.80418031763057,
+    "telephone": "0148867006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Kidibulle",
+    "resultStructId": "680307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du temple 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4830505677688306,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "17441375",
+    "mail": "cdeiber@eiduloa.fr",
+    "distance": 151301,
+    "latitude": 48.809706402748475,
+    "telephone": "0608567159",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche eiduloa - les bébémousquetaires",
+    "resultStructId": "14213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue deconde 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4831290940806863,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "17442918",
+    "mail": "cdeiber@eiduloa.fr",
+    "distance": 151301,
+    "latitude": 48.809706402748475,
+    "telephone": "0608567159",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche eiduloa - les bébéroyaux",
+    "resultStructId": "14214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue de conde 94100st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4831290940806863,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12844645",
+    "mail": "",
+    "distance": 151342,
+    "latitude": 48.798392155563796,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Cygnes",
+    "resultStructId": "8453",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue louis braille 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4818812509563286,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "57322237",
+    "mail": "",
+    "distance": 151346,
+    "latitude": 48.79834565182749,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLIP FLAP",
+    "resultStructId": "674544",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 boulevard de creteil 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.481829514316565,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12511585",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 151554,
+    "latitude": 48.7906408156009,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilArromanches",
+    "resultStructId": "686218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue d'arromanches 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.478603613052299,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12487024",
+    "mail": "hgarderie@abcd94.fr",
+    "distance": 151788,
+    "latitude": 48.813255224175684,
+    "telephone": "0155121745",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde l'Abbaye",
+    "resultStructId": "277601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse de l'abbaye 94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4767088236513426,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12544695",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 152003,
+    "latitude": 48.80533325975234,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Villa Papillion",
+    "resultStructId": "686223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue des remises 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4732494200825625,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13058234",
+    "mail": "contact@babilou.com",
+    "distance": 152024,
+    "latitude": 48.80791332476531,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Maur Varenne",
+    "resultStructId": "547201",
+    "omegaId": "12183",
+    "avip": false,
+    "adresse": "16 rue de la varenne 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.473124488913269,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "12541298",
+    "mail": "creche-la-pie@wanadoo.fr",
+    "distance": 152108,
+    "latitude": 48.798227565861765,
+    "telephone": "0142839785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"de la Pie\"",
+    "resultStructId": "1369",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue du port de fouarre94100 st maur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4714106721774542,
+    "ville": "desfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13058062",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 152162,
+    "latitude": 48.812192017906355,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Tournelles",
+    "resultStructId": "686220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue des tournelles 94100 stmaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4715223068375636,
+    "ville": "desfosses",
+    "cp": ""
+  }
+]

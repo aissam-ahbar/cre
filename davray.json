@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12501136",
+    "mail": "hg.petitsloups@mairie-villedavray.fr",
+    "distance": 10096,
+    "latitude": 48.82825526355221,
+    "telephone": "0141158871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITSLOUPS",
+    "resultStructId": "435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de saint-cloud 92410 ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.189667327032768,
+    "ville": "davray",
+    "cp": ""
+  },
+  {
+    "resultId": "12501179",
+    "mail": "inscription@crechelespetitsbouts.fr",
+    "distance": 10136,
+    "latitude": 48.82679048518536,
+    "telephone": "0147099078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE LES PETITS BOUTS",
+    "resultStructId": "61003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue de sevres 92410ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1898695995773596,
+    "ville": "davray",
+    "cp": ""
+  },
+  {
+    "resultId": "12987491",
+    "mail": "",
+    "distance": 10156,
+    "latitude": 48.82754344144514,
+    "telephone": "0141150910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Fanny",
+    "resultStructId": "24902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue balzac 92410 ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.189173544056264,
+    "ville": "davray",
+    "cp": ""
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "resultId": "57550066",
+    "mail": "contact@lovelybb.fr",
+    "distance": 191103,
+    "latitude": 48.88104901483622,
+    "telephone": "0672302271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LOVELY 5BB",
+    "resultStructId": "676523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue des vignes benettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0964778353538507,
+    "ville": "lepecq",
+    "cp": "78230"
+  },
+  {
+    "resultId": "13024737",
+    "mail": "lepetitprince-lepecq@orange.fr",
+    "distance": 191111,
+    "latitude": 48.88023543720667,
+    "telephone": "0139161718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - SAINT EXUPERY",
+    "resultStructId": "709112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue des vignes benettes78230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.096537438712271,
+    "ville": "lepecq",
+    "cp": ""
+  },
+  {
+    "resultId": "12593457",
+    "mail": "creche.lafontaine@ville-lepecq.org",
+    "distance": 191540,
+    "latitude": 48.896685893861,
+    "telephone": "0130612699",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LA FONTAINE",
+    "resultStructId": "683816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue adrien descombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.103439773933544,
+    "ville": "lepecq",
+    "cp": "78230"
+  },
+  {
+    "resultId": "12593715",
+    "mail": "",
+    "distance": 191746,
+    "latitude": 48.89742800909244,
+    "telephone": "0130616642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - L'ILE AUX CALINS",
+    "resultStructId": "683815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 quai maurice berteaux78230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.106287906695067,
+    "ville": "lepecq",
+    "cp": ""
+  },
+  {
+    "resultId": "12593543",
+    "mail": "lesdiablotins115@orange.fr",
+    "distance": 192096,
+    "latitude": 48.896878511347516,
+    "telephone": "0130535289",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES DIABLOTINS",
+    "resultStructId": "683813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue de la paix 78230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1110576002656076,
+    "ville": "lepecq",
+    "cp": ""
+  },
+  {
+    "resultId": "12593672",
+    "mail": "lesdauphins-lepecq@orange.fr",
+    "distance": 192163,
+    "latitude": 48.89357161978744,
+    "telephone": "0139766686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES DAUPHINS",
+    "resultStructId": "683811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du president wilson78230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1117863654198215,
+    "ville": "lepecq",
+    "cp": ""
+  },
+  {
+    "resultId": "51354896",
+    "mail": "lepecq@babymontessori.fr",
+    "distance": 192574,
+    "latitude": 48.90347501850945,
+    "telephone": "0134801089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABY MONTESSORI LEPECQ",
+    "resultStructId": "712107",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "66 route desartrouville 78230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.1179392255075444,
+    "ville": "lepecq",
+    "cp": ""
+  }
+]

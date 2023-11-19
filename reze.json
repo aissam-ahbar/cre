@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12532784",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 63384,
+    "latitude": 47.19182249025538,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommede Reinette - Rezé",
+    "resultStructId": "1171",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.544580134089348,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671768",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 63421,
+    "latitude": 47.187478397507874,
+    "telephone": "0251701791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EnfantineBleue",
+    "resultStructId": "4403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des couteaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5381094669665547,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12535278",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64156,
+    "latitude": 47.185468609316324,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRitournelles",
+    "resultStructId": "1229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue chupiet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5494329919026615,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12793897",
+    "mail": "fripouille-et-compagnie@orange.fr",
+    "distance": 64541,
+    "latitude": 47.16963409595297,
+    "telephone": "0228257066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fripouilleet compagnie",
+    "resultStructId": "7273",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la maillardiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5301839514435747,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671725",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64575,
+    "latitude": 47.185207150964054,
+    "telephone": "0240755055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PoussePoussette",
+    "resultStructId": "4402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de provence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5573099985384096,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671811",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64616,
+    "latitude": 47.178421104954474,
+    "telephone": "0251727126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PirouettesGalipettes",
+    "resultStructId": "4404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des deportes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.546891079741566,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12533257",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64740,
+    "latitude": 47.19056168352396,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Enfantd'Eau",
+    "resultStructId": "1182",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rond point raballand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5691273363793823,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "45095151",
+    "mail": "microcreches@anadom.fr",
+    "distance": 65086,
+    "latitude": 47.18209056828727,
+    "telephone": "0240737309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCASTORS",
+    "resultStructId": "278001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place auguste renoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.562331809381839,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12526936",
+    "mail": "crecheapetitspas@wanadoo.fr",
+    "distance": 65577,
+    "latitude": 47.16718834359697,
+    "telephone": "0240756179",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits Pas",
+    "resultStructId": "1035",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place du traite de rome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5471930012603319,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "60315729",
+    "mail": "j.batsalle.aeje@gmail.com",
+    "distance": 65763,
+    "latitude": 47.178409916932814,
+    "telephone": "0783247664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede La Trocardière",
+    "resultStructId": "708714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la trocardiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5696808695039715,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "60315882",
+    "mail": "j.batsalle.aeje@gmail.com",
+    "distance": 65928,
+    "latitude": 47.17263922772093,
+    "telephone": "0953151096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede la Jaguère",
+    "resultStructId": "708713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 avenue willy brandt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5635012384514004,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "51254620",
+    "mail": "",
+    "distance": 66625,
+    "latitude": 47.15521416957494,
+    "telephone": "0255581586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ba'beesMIN",
+    "resultStructId": "678413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue yvette cauchois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5477985802918233,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12532784",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 63384,
+    "latitude": 47.19182249025538,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommede Reinette - Rezé",
+    "resultStructId": "1171",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.544580134089348,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671768",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 63421,
+    "latitude": 47.187478397507874,
+    "telephone": "0251701791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EnfantineBleue",
+    "resultStructId": "4403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des couteaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5381094669665547,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12535278",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64156,
+    "latitude": 47.185468609316324,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRitournelles",
+    "resultStructId": "1229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue chupiet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5494329919026615,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12793897",
+    "mail": "fripouille-et-compagnie@orange.fr",
+    "distance": 64541,
+    "latitude": 47.16963409595297,
+    "telephone": "0228257066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fripouilleet compagnie",
+    "resultStructId": "7273",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la maillardiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5301839514435747,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671725",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64575,
+    "latitude": 47.185207150964054,
+    "telephone": "0240755055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PoussePoussette",
+    "resultStructId": "4402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de provence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5573099985384096,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12671811",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64616,
+    "latitude": 47.178421104954474,
+    "telephone": "0251727126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PirouettesGalipettes",
+    "resultStructId": "4404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des deportes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.546891079741566,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12533257",
+    "mail": "petiteenfance@mairie-reze.fr",
+    "distance": 64740,
+    "latitude": 47.19056168352396,
+    "telephone": "0251707550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Enfantd'Eau",
+    "resultStructId": "1182",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rond point raballand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5691273363793823,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "45095151",
+    "mail": "microcreches@anadom.fr",
+    "distance": 65086,
+    "latitude": 47.18209056828727,
+    "telephone": "0240737309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCASTORS",
+    "resultStructId": "278001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place auguste renoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.562331809381839,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "12526936",
+    "mail": "crecheapetitspas@wanadoo.fr",
+    "distance": 65577,
+    "latitude": 47.16718834359697,
+    "telephone": "0240756179",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits Pas",
+    "resultStructId": "1035",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place du traite de rome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5471930012603319,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "60315729",
+    "mail": "j.batsalle.aeje@gmail.com",
+    "distance": 65763,
+    "latitude": 47.178409916932814,
+    "telephone": "0783247664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede La Trocardière",
+    "resultStructId": "708714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la trocardiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5696808695039715,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "60315882",
+    "mail": "j.batsalle.aeje@gmail.com",
+    "distance": 65928,
+    "latitude": 47.17263922772093,
+    "telephone": "0953151096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede la Jaguère",
+    "resultStructId": "708713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 avenue willy brandt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5635012384514004,
+    "ville": "reze",
+    "cp": "44400"
+  },
+  {
+    "resultId": "51254620",
+    "mail": "",
+    "distance": 66625,
+    "latitude": 47.15521416957494,
+    "telephone": "0255581586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ba'beesMIN",
+    "resultStructId": "678413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue yvette cauchois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5477985802918233,
+    "ville": "reze",
+    "cp": "44400"
+  }
+]

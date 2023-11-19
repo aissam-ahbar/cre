@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12668113",
+    "mail": "creche.municipale.tende@wanadoo.fr",
+    "distance": 248111,
+    "latitude": 44.0897159541899,
+    "telephone": "0493047524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes petites merveilles",
+    "resultStructId": "675801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean medecin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.595361307026531,
+    "ville": "tende",
+    "cp": "06430"
+  },
+  {
+    "resultId": "12668113",
+    "mail": "creche.municipale.tende@wanadoo.fr",
+    "distance": 123466,
+    "latitude": 44.0897159541899,
+    "telephone": "0493047524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes petites merveilles",
+    "resultStructId": "675801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean medecin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.595361307026531,
+    "ville": "tende",
+    "cp": "06430"
+  }
+]

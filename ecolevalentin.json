@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "29623025",
+    "mail": "contact@leveildespetits.com",
+    "distance": 138067,
+    "latitude": 47.27189514107173,
+    "telephone": "0679271752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'éveildes Petits 2 - Ecole Valentin",
+    "resultStructId": "55007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee edmond dunand25480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.982507469960077,
+    "ville": "ecolevalentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12853116",
+    "mail": "contact@leveildespetits.com",
+    "distance": 138947,
+    "latitude": 47.27414474296989,
+    "telephone": "0679271752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'éveil des petits 1 Ecole Valentin",
+    "resultStructId": "53502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue duvallon 25480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.994143202548197,
+    "ville": "ecolevalentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12990200",
+    "mail": "ecolevalentin@lacompagniedarthur.fr",
+    "distance": 139157,
+    "latitude": 47.271085569140226,
+    "telephone": "0381404350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Compagnie d'Arthur - Ecole Valentin",
+    "resultStructId": "553601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 routed'epinal 25480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996962795532194,
+    "ville": "ecolevalentin",
+    "cp": ""
+  }
+]

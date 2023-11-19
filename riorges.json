@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12696837",
+    "mail": "crecheriorges@wanadoo.fr",
+    "distance": 133857,
+    "latitude": 46.044223464095296,
+    "telephone": "0477704784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Mikeys",
+    "resultStructId": "360101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 rue elise gervais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.033470175118748,
+    "ville": "riorges",
+    "cp": "42153"
+  },
+  {
+    "resultId": "12688839",
+    "mail": "hg.micat@orange.fr",
+    "distance": 133930,
+    "latitude": 46.0434750251915,
+    "telephone": "0477239173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Pom'Vanille\"",
+    "resultStructId": "105702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 place jean cocteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0354735356549245,
+    "ville": "riorges",
+    "cp": "42153"
+  }
+]

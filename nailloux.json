@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13062921",
+    "mail": "creche.lpm@terres-du-lauragais.fr",
+    "distance": 182897,
+    "latitude": 43.38384784634057,
+    "telephone": "0561850018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Meuniers",
+    "resultStructId": "522901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du gril",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6120646685635474,
+    "ville": "nailloux",
+    "cp": "31560"
+  },
+  {
+    "resultId": "13062878",
+    "mail": "creche.lkn@terres-du-lauragais.fr",
+    "distance": 185332,
+    "latitude": 43.356771308831014,
+    "telephone": "0562717007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesK'Nailloux",
+    "resultStructId": "522801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des alquiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6218114955409058,
+    "ville": "nailloux",
+    "cp": "31560"
+  },
+  {
+    "resultId": "13062878",
+    "mail": "creche.lkn@terres-du-lauragais.fr",
+    "distance": 185519,
+    "latitude": 43.356771308831014,
+    "telephone": "0562717007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesK'Nailloux",
+    "resultStructId": "522801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des alquiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6218114955409058,
+    "ville": "nailloux",
+    "cp": "31560"
+  },
+  {
+    "resultId": "13062921",
+    "mail": "creche.lpm@terres-du-lauragais.fr",
+    "distance": 185845,
+    "latitude": 43.38384784634057,
+    "telephone": "0561850018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Meuniers",
+    "resultStructId": "522901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du gril",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6120646685635474,
+    "ville": "nailloux",
+    "cp": "31560"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12492442",
+    "mail": "pomme-d-api54@orange.fr",
+    "distance": 111711,
+    "latitude": 49.18883361720256,
+    "telephone": "0382339178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Pomme d'Api\"",
+    "resultStructId": "233",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des vergers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.906514258543702,
+    "ville": "hatrize",
+    "cp": "54800"
+  }
+]

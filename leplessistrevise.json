@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13069758",
+    "mail": "virginie.leclaire@leplessistrevise.fr",
+    "distance": 144873,
+    "latitude": 48.809444791433336,
+    "telephone": "0149625056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Chênes",
+    "resultStructId": "692511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 residence des chenes 94420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.570984572007014,
+    "ville": "leplessistrevise",
+    "cp": ""
+  },
+  {
+    "resultId": "59275498",
+    "mail": "virginie.leclaire@leplessistrevise.fr",
+    "distance": 144902,
+    "latitude": 48.80972782429976,
+    "telephone": "0145941821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "haltegarderie des polissons",
+    "resultStructId": "694705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 residence des chenes 94420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.570606847602135,
+    "ville": "leplessistrevise",
+    "cp": ""
+  }
+]

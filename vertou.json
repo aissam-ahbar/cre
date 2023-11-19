@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "12842022",
+    "mail": "creche44120@les-cherubins.com",
+    "distance": 60708,
+    "latitude": 47.18407197393439,
+    "telephone": "0983431458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheEn Compagnie des Chérubins",
+    "resultStructId": "8392",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue auguste saupin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4756242156297272,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "59856186",
+    "mail": "contact@lbbe.fr",
+    "distance": 61724,
+    "latitude": 47.166245040885045,
+    "telephone": "0667057988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Régianni",
+    "resultStructId": "700515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4630327819259437,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12499932",
+    "mail": "multi-accueil.vannerie@mairie-vertou.fr",
+    "distance": 62061,
+    "latitude": 47.16766936731715,
+    "telephone": "0240131763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaVannerie",
+    "resultStructId": "407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse raymond durand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4734306153558954,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12642090",
+    "mail": "multi-accueil.fontenelle@mairie-vertou.fr",
+    "distance": 62061,
+    "latitude": 47.16766936731715,
+    "telephone": "0251791146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFontenelle -Beautour-",
+    "resultStructId": "3713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la poste -espace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4734306153558954,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "36014769",
+    "mail": "direction.vertou2@na-creches.fr",
+    "distance": 62206,
+    "latitude": 47.179741292101134,
+    "telephone": "0630850714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!VERTOU 2",
+    "resultStructId": "678404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des grands chataigniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4995498652553718,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "34659461",
+    "mail": "direction.vertou@na-creches.fr",
+    "distance": 62339,
+    "latitude": 47.18162760249197,
+    "telephone": "0240477248",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!VERTOU",
+    "resultStructId": "678403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ter boulevard auguste priou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5057741145826906,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12498298",
+    "mail": "multi-accueil.garenne@mairie-vertou.fr",
+    "distance": 62397,
+    "latitude": 47.164496576654784,
+    "telephone": "0240341077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Garenne",
+    "resultStructId": "369",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la garenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4745994672236697,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12842022",
+    "mail": "creche44120@les-cherubins.com",
+    "distance": 60708,
+    "latitude": 47.18407197393439,
+    "telephone": "0983431458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheEn Compagnie des Chérubins",
+    "resultStructId": "8392",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue auguste saupin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4756242156297272,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "59856186",
+    "mail": "contact@lbbe.fr",
+    "distance": 61724,
+    "latitude": 47.166245040885045,
+    "telephone": "0667057988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Régianni",
+    "resultStructId": "700515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4630327819259437,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12642090",
+    "mail": "multi-accueil.fontenelle@mairie-vertou.fr",
+    "distance": 62061,
+    "latitude": 47.16766936731715,
+    "telephone": "0251791146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFontenelle -Beautour-",
+    "resultStructId": "3713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la poste -espace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4734306153558954,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12499932",
+    "mail": "multi-accueil.vannerie@mairie-vertou.fr",
+    "distance": 62061,
+    "latitude": 47.16766936731715,
+    "telephone": "0240131763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaVannerie",
+    "resultStructId": "407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse raymond durand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4734306153558954,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "36014769",
+    "mail": "direction.vertou2@na-creches.fr",
+    "distance": 62206,
+    "latitude": 47.179741292101134,
+    "telephone": "0630850714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!VERTOU 2",
+    "resultStructId": "678404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des grands chataigniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4995498652553718,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "34659461",
+    "mail": "direction.vertou@na-creches.fr",
+    "distance": 62339,
+    "latitude": 47.18162760249197,
+    "telephone": "0240477248",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!VERTOU",
+    "resultStructId": "678403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ter boulevard auguste priou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5057741145826906,
+    "ville": "vertou",
+    "cp": "44120"
+  },
+  {
+    "resultId": "12498298",
+    "mail": "multi-accueil.garenne@mairie-vertou.fr",
+    "distance": 62397,
+    "latitude": 47.164496576654784,
+    "telephone": "0240341077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Garenne",
+    "resultStructId": "369",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la garenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4745994672236697,
+    "ville": "vertou",
+    "cp": "44120"
+  }
+]

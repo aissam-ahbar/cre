@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12637790",
+    "mail": "sabine.houdant@laposte.net",
+    "distance": 49010,
+    "latitude": 50.18387604539721,
+    "telephone": "0327743851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti-Accueil - Les Petits Lapins",
+    "resultStructId": "441401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 4emecuirassier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2396845532895573,
+    "ville": "cambrai",
+    "cp": "59400"
+  },
+  {
+    "resultId": "12637747",
+    "mail": "ma.lesptitsloups.ccas-cambrai@orange.fr",
+    "distance": 49443,
+    "latitude": 50.16991865240652,
+    "telephone": "0327814761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilles p'tits Loups",
+    "resultStructId": "693404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 rue bertrand milcent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.228095443162623,
+    "ville": "cambrai",
+    "cp": "59400"
+  },
+  {
+    "resultId": "13029295",
+    "mail": "ma.maisondelenfant.ccascambrai@orange.fr",
+    "distance": 49534,
+    "latitude": 50.1746361144978,
+    "telephone": "0327741669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfant",
+    "resultStructId": "691902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue du marechal de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2366612939192536,
+    "ville": "cambrai",
+    "cp": "59400"
+  },
+  {
+    "resultId": "13027661",
+    "mail": "ma.lespitchounes.ccas-cambrai@orange.fr",
+    "distance": 51538,
+    "latitude": 50.16366598406386,
+    "telephone": "0327796256",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchounes",
+    "resultStructId": "693803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de londres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2591064188510086,
+    "ville": "cambrai",
+    "cp": "59400"
+  }
+]

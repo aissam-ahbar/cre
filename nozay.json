@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12832984",
+    "mail": "multiaccueil.nozay@orange.fr",
+    "distance": 188976,
+    "latitude": 48.661090945904974,
+    "telephone": "0164499314",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince - Nozay",
+    "resultStructId": "8182",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des verts pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2383064375165094,
+    "ville": "nozay",
+    "cp": "91620"
+  },
+  {
+    "resultId": "12498771",
+    "mail": "multiaccueil@cc-nozay.fr",
+    "distance": 48985,
+    "latitude": 47.566734892002884,
+    "telephone": "0249793777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeManège Enchanté",
+    "resultStructId": "380",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 route de marsac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6292264164773231,
+    "ville": "nozay",
+    "cp": "44170"
+  },
+  {
+    "resultId": "12498771",
+    "mail": "multiaccueil@cc-nozay.fr",
+    "distance": 172456,
+    "latitude": 47.566734892002884,
+    "telephone": "0249793777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeManège Enchanté",
+    "resultStructId": "380",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 route de marsac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6292264164773231,
+    "ville": "nozay",
+    "cp": "44170"
+  },
+  {
+    "resultId": "12498771",
+    "mail": "multiaccueil@cc-nozay.fr",
+    "distance": 48985,
+    "latitude": 47.566734892002884,
+    "telephone": "0249793777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeManège Enchanté",
+    "resultStructId": "380",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 route de marsac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6292264164773231,
+    "ville": "nozay",
+    "cp": "44170"
+  }
+]

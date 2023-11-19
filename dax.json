@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13015914",
+    "mail": "service.crechefamiliale@grand-dax.fr",
+    "distance": 95331,
+    "latitude": 43.71946506672177,
+    "telephone": "0547558010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du Grand Dax",
+    "resultStructId": "276501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0494035277038944,
+    "ville": "dax",
+    "cp": "40100"
+  },
+  {
+    "resultId": "13015742",
+    "mail": "crecheadour@dax.fr",
+    "distance": 95495,
+    "latitude": 43.713734524058594,
+    "telephone": "0558747767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Girafes de l'Adour Dax",
+    "resultStructId": "12432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue francois mauriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0437559391304643,
+    "ville": "dax",
+    "cp": "40100"
+  },
+  {
+    "resultId": "12614226",
+    "mail": "maisonenfance@dax.fr",
+    "distance": 95943,
+    "latitude": 43.706920685300986,
+    "telephone": "0558746810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance Dax",
+    "resultStructId": "129104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "149 avenue georges clemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0416107502205976,
+    "ville": "dax",
+    "cp": "40100"
+  },
+  {
+    "resultId": "21440728",
+    "mail": "crechevictorhugo@dax.fr",
+    "distance": 96605,
+    "latitude": 43.706137666910166,
+    "telephone": "0558354907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche60 Pôle Enfance Famille Dax",
+    "resultStructId": "127802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.052722247918872,
+    "ville": "dax",
+    "cp": "40100"
+  },
+  {
+    "resultId": "13015785",
+    "mail": "creche40@dax.fr",
+    "distance": 96839,
+    "latitude": 43.703462822134235,
+    "telephone": "0558354910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche40 Pôle Enfance Famille Dax",
+    "resultStructId": "15471",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0529755549240136,
+    "ville": "dax",
+    "cp": "40100"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "resultId": "57803141",
+    "mail": "bulleamalice@coulommierspaysdebrie.fr",
+    "distance": 107008,
+    "latitude": 48.81433744285966,
+    "telephone": "0164201208",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bulle à Malice\"",
+    "resultStructId": "682518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de l'aitre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.089503645416817,
+    "ville": "coulommiers",
+    "cp": "77120"
+  },
+  {
+    "resultId": "13072983",
+    "mail": "millepattes@coulommierspaysdebrie.fr",
+    "distance": 107752,
+    "latitude": 48.806215151580695,
+    "telephone": "0964497564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieitinérante \"Mille pattes\"",
+    "resultStructId": "682512",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "2place de l'ile de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0784215048529107,
+    "ville": "coulommiers",
+    "cp": "77120"
+  },
+  {
+    "resultId": "13072897",
+    "mail": "lescigales@coulommierspaysdebrie.fr",
+    "distance": 107752,
+    "latitude": 48.806215151580695,
+    "telephone": "0164753095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Les Cigales\"",
+    "resultStructId": "698005",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "2place de l'ile de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0784215048529107,
+    "ville": "coulommiers",
+    "cp": "77120"
+  },
+  {
+    "resultId": "13072682",
+    "mail": "leslucioles@coulommierspaysdebrie.fr",
+    "distance": 107765,
+    "latitude": 48.80546392003785,
+    "telephone": "0164753098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Les Lucioles\"",
+    "resultStructId": "698004",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "1 place ile defrance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.078162948503389,
+    "ville": "coulommiers",
+    "cp": "77120"
+  },
+  {
+    "resultId": "12840388",
+    "mail": "lesptitsloups77@gmail.com",
+    "distance": 107804,
+    "latitude": 48.8070430291912,
+    "telephone": "0175996944",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Loups",
+    "resultStructId": "8354",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-8 allee de la rotonde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.077791087252077,
+    "ville": "coulommiers",
+    "cp": "77120"
+  }
+]

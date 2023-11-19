@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12975150",
+    "mail": "calinou@micro-baby.com",
+    "distance": 19715,
+    "latitude": 50.33044667327731,
+    "telephone": "0321557984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINOU",
+    "resultStructId": "216005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9route nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.883627799759831,
+    "ville": "gavrelle",
+    "cp": "62580"
+  },
+  {
+    "resultId": "59523309",
+    "mail": "eveilendouceur.gavrelle@gmail.com",
+    "distance": 19749,
+    "latitude": 50.330180733836876,
+    "telephone": "0769341032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVEILEN DOUCEUR GAVRELLE",
+    "resultStructId": "698017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 route nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8838699153107847,
+    "ville": "gavrelle",
+    "cp": "62580"
+  }
+]

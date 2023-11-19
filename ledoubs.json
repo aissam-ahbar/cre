@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "49911530",
+    "mail": "petite.enfance@saonedoubsbresse.fr",
+    "distance": 76408,
+    "latitude": 46.89669818260745,
+    "telephone": "0385488556",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Espacemulti-accueil Verdun-sur-le-Doubs",
+    "resultStructId": "703902",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "24 rue de beaune 71350verdun sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.022902726788692,
+    "ville": "ledoubs",
+    "cp": ""
+  },
+  {
+    "resultId": "12742555",
+    "mail": "mc.islesurledoubs@famillesrurales.org",
+    "distance": 184851,
+    "latitude": 47.447173913746056,
+    "telephone": "0381911926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les mille et une pattes ISLE SUR LE DOUBS",
+    "resultStructId": "101101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 ruedes pres verts 25250 l isle sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.588808693300023,
+    "ville": "ledoubs",
+    "cp": ""
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12966507",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 89195,
+    "latitude": 46.810773166588675,
+    "telephone": "0549932057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCAPUCINE",
+    "resultStructId": "674536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue rasseteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5420158123117809,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966550",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 89661,
+    "latitude": 46.81408024309194,
+    "telephone": "0549024282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCOCCINELLE",
+    "resultStructId": "674537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue creuze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5344872220860015,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12766807",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 89781,
+    "latitude": 46.80180744919781,
+    "telephone": "0549213283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES LOUPIOTS",
+    "resultStructId": "674535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966765",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 89781,
+    "latitude": 46.80180744919781,
+    "telephone": "0549212421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEA PETIT PAS",
+    "resultStructId": "674538",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966550",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 144943,
+    "latitude": 46.81408024309194,
+    "telephone": "0549024282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCOCCINELLE",
+    "resultStructId": "674537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue creuze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5344872220860015,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966507",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145620,
+    "latitude": 46.810773166588675,
+    "telephone": "0549932057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCAPUCINE",
+    "resultStructId": "674536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue rasseteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5420158123117809,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12766807",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145972,
+    "latitude": 46.80180744919781,
+    "telephone": "0549213283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES LOUPIOTS",
+    "resultStructId": "674535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966765",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145972,
+    "latitude": 46.80180744919781,
+    "telephone": "0549212421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEA PETIT PAS",
+    "resultStructId": "674538",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966550",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 144943,
+    "latitude": 46.81408024309194,
+    "telephone": "0549024282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCOCCINELLE",
+    "resultStructId": "674537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue creuze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5344872220860015,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966507",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145620,
+    "latitude": 46.810773166588675,
+    "telephone": "0549932057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCAPUCINE",
+    "resultStructId": "674536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue rasseteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5420158123117809,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12766807",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145972,
+    "latitude": 46.80180744919781,
+    "telephone": "0549213283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES LOUPIOTS",
+    "resultStructId": "674535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  },
+  {
+    "resultId": "12966765",
+    "mail": "petite.enfance@ccas-chatellerault.fr",
+    "distance": 145972,
+    "latitude": 46.80180744919781,
+    "telephone": "0549212421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEA PETIT PAS",
+    "resultStructId": "674538",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5374625033503714,
+    "ville": "chatellerault",
+    "cp": "86100"
+  }
+]

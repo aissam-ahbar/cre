@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12830963",
+    "mail": "mpe@mairie-deville-les-rouen.fr",
+    "distance": 163422,
+    "latitude": 49.46972914208659,
+    "telephone": "0232823579",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE LA PETITE ENFANCE",
+    "resultStructId": "404401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place francois mitterand 76250deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.049749462896542,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "38320878",
+    "mail": "saturne@micro-baby.com",
+    "distance": 164933,
+    "latitude": 49.42256602315569,
+    "telephone": "0235713227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SATURNE",
+    "resultStructId": "171801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45rue cite grenet 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0921702977063783,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "24858943",
+    "mail": "lescherubinsennormandie@outlook.fr",
+    "distance": 165385,
+    "latitude": 49.41550350127908,
+    "telephone": "0983023333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS DOUDOUS- LES CHERUBINS",
+    "resultStructId": "698713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue francois raspail76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0943722063797048,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "59191045",
+    "mail": "lescherubinsennormandie@outlook.fr",
+    "distance": 165521,
+    "latitude": 49.417022570781484,
+    "telephone": "0981504855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGRAND DOUDOUS",
+    "resultStructId": "699313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31b rue benoit malon 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.089260439369431,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010023",
+    "mail": "as.mauger.petite.enfance@sotteville-les-rouen.fr",
+    "distance": 165789,
+    "latitude": 49.414029207477114,
+    "telephone": "0235636225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Municipale",
+    "resultStructId": "346801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "service petite enfance - bp 1976300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0886915768114942,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13076853",
+    "mail": "as.mauger.petite.enfance@mairie-sotteville-les-rouen.fr",
+    "distance": 166035,
+    "latitude": 49.413157182551814,
+    "telephone": "0235724945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesChatons Barbouilleurs",
+    "resultStructId": "347101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de la liberation 76300sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0851883319771878,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010109",
+    "mail": "as.mauger.petite.enfance@mairie.sotteville-les-rouen.fr",
+    "distance": 166297,
+    "latitude": 49.40035510461486,
+    "telephone": "0232911545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOursons Malicieux",
+    "resultStructId": "346901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lenotre 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1004485986378783,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010066",
+    "mail": "as.mauger.petite.enfance@mairie-sotteville-les-rouen.fr",
+    "distance": 166608,
+    "latitude": 49.403668687204416,
+    "telephone": "0235630762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJeunes Pousses",
+    "resultStructId": "346802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cours pierre de coubertin 76300sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0888992609404962,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "38865836",
+    "mail": "isabelle.bourlard@ch-lerouvray.fr",
+    "distance": 166646,
+    "latitude": 49.402138447518546,
+    "telephone": "0232951192",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUT'CHOUX",
+    "resultStructId": "434201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue paul eluard 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0905948673244954,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010066",
+    "mail": "as.mauger.petite.enfance@mairie-sotteville-les-rouen.fr",
+    "distance": 128123,
+    "latitude": 49.403668687204416,
+    "telephone": "0235630762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJeunes Pousses",
+    "resultStructId": "346802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cours pierre de coubertin 76300sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0888992609404962,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "38865836",
+    "mail": "isabelle.bourlard@ch-lerouvray.fr",
+    "distance": 128167,
+    "latitude": 49.402138447518546,
+    "telephone": "0232951192",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUT'CHOUX",
+    "resultStructId": "434201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue paul eluard 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0905948673244954,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13076853",
+    "mail": "as.mauger.petite.enfance@mairie-sotteville-les-rouen.fr",
+    "distance": 128306,
+    "latitude": 49.413157182551814,
+    "telephone": "0235724945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesChatons Barbouilleurs",
+    "resultStructId": "347101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de la liberation 76300sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0851883319771878,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010023",
+    "mail": "as.mauger.petite.enfance@sotteville-les-rouen.fr",
+    "distance": 128577,
+    "latitude": 49.414029207477114,
+    "telephone": "0235636225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Municipale",
+    "resultStructId": "346801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "service petite enfance - bp 1976300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0886915768114942,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "12830963",
+    "mail": "mpe@mairie-deville-les-rouen.fr",
+    "distance": 128724,
+    "latitude": 49.46972914208659,
+    "telephone": "0232823579",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE LA PETITE ENFANCE",
+    "resultStructId": "404401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place francois mitterand 76250deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.049749462896542,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "13010109",
+    "mail": "as.mauger.petite.enfance@mairie.sotteville-les-rouen.fr",
+    "distance": 128742,
+    "latitude": 49.40035510461486,
+    "telephone": "0232911545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOursons Malicieux",
+    "resultStructId": "346901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lenotre 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1004485986378783,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "59191045",
+    "mail": "lescherubinsennormandie@outlook.fr",
+    "distance": 128751,
+    "latitude": 49.417022570781484,
+    "telephone": "0981504855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGRAND DOUDOUS",
+    "resultStructId": "699313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31b rue benoit malon 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.089260439369431,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "24858943",
+    "mail": "lescherubinsennormandie@outlook.fr",
+    "distance": 129019,
+    "latitude": 49.41550350127908,
+    "telephone": "0983023333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS DOUDOUS- LES CHERUBINS",
+    "resultStructId": "698713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue francois raspail76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0943722063797048,
+    "ville": "lesrouen",
+    "cp": ""
+  },
+  {
+    "resultId": "38320878",
+    "mail": "saturne@micro-baby.com",
+    "distance": 129197,
+    "latitude": 49.42256602315569,
+    "telephone": "0235713227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SATURNE",
+    "resultStructId": "171801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45rue cite grenet 76300 sotteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0921702977063783,
+    "ville": "lesrouen",
+    "cp": ""
+  }
+]

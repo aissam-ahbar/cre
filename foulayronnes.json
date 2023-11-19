@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12747199",
+    "mail": "creche-foulayronnes@wanadoo.fr",
+    "distance": 71820,
+    "latitude": 44.23737980237331,
+    "telephone": "0553475169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale de Foulayronnes",
+    "resultStructId": "6187",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1074 avenue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6520037296205141,
+    "ville": "foulayronnes",
+    "cp": "47510"
+  },
+  {
+    "resultId": "12747242",
+    "mail": "creche-foulayronnes@wanadoo.fr",
+    "distance": 71820,
+    "latitude": 44.23737980237331,
+    "telephone": "0553475169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieMunicipale de Foulayronnes",
+    "resultStructId": "6188",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1074 avenue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6520037296205141,
+    "ville": "foulayronnes",
+    "cp": "47510"
+  }
+]

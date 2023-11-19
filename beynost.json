@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12857846",
+    "mail": "eaje.lesacrobates@ville-beynost.fr",
+    "distance": 169329,
+    "latitude": 45.83770566977327,
+    "telephone": "0478552367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POLEPETITE ENFANCE LES ACROBATES",
+    "resultStructId": "460401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "421 rue des thermes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.998560471680708,
+    "ville": "beynost",
+    "cp": "01700"
+  },
+  {
+    "resultId": "31749851",
+    "mail": "nidoandco@outlook.fr",
+    "distance": 170262,
+    "latitude": 45.826980286959746,
+    "telephone": "0980431776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilNido and co",
+    "resultStructId": "80802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue du chat botte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.992593532752508,
+    "ville": "beynost",
+    "cp": "01700"
+  }
+]

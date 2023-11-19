@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "34074921",
+    "mail": "multiaccueils@irigny.fr",
+    "distance": 180579,
+    "latitude": 45.68833520892467,
+    "telephone": "0472392508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins d'Yvours",
+    "resultStructId": "113906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue claudius peymel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824240448976064,
+    "ville": "irigny",
+    "cp": "69540"
+  },
+  {
+    "resultId": "12925743",
+    "mail": "multiaccueils@irigny.fr",
+    "distance": 182228,
+    "latitude": 45.67249285336939,
+    "telephone": "0478464449",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPain d'Epices et Chocolat",
+    "resultStructId": "113907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 a place de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822293575734368,
+    "ville": "irigny",
+    "cp": "69540"
+  }
+]

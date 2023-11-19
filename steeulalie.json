@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12564475",
+    "mail": "crechecadetroussel@yahoo.fr",
+    "distance": 65331,
+    "latitude": 44.90823542852919,
+    "telephone": "0557300207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil CADET ROUSSEL",
+    "resultStructId": "1908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 rue laufach 33560",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4825455486117182,
+    "ville": "steeulalie",
+    "cp": ""
+  },
+  {
+    "resultId": "43254867",
+    "mail": "crechecadetroussel@yahoo.fr",
+    "distance": 65331,
+    "latitude": 44.908235107138964,
+    "telephone": "0557300207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCadet Roussel",
+    "resultStructId": "235508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 rue laufach 33560",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.48254549125448637,
+    "ville": "steeulalie",
+    "cp": ""
+  }
+]

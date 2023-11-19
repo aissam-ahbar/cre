@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12888849",
+    "mail": "brind-enfants@agds.fr",
+    "distance": 174469,
+    "latitude": 45.721323834573674,
+    "telephone": "0478454031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBrind'Enfants",
+    "resultStructId": "362702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 montee du clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.696139454942248,
+    "ville": "brindas",
+    "cp": "69126"
+  },
+  {
+    "resultId": "58345850",
+    "mail": "lesminisetoiles@gmail.com",
+    "distance": 174784,
+    "latitude": 45.718738887263875,
+    "telephone": "0658945584",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Minis Etoiles",
+    "resultStructId": "683603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue pre magne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.6980801993488495,
+    "ville": "brindas",
+    "cp": "69126"
+  }
+]

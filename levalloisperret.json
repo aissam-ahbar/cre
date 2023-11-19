@@ -1,0 +1,794 @@
+[
+  {
+    "resultId": "60033539",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 4160,
+    "latitude": 48.88896976803015,
+    "telephone": "0147157756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POISSONLUNE",
+    "resultStructId": "703409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue gabriel peri 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2901553551032956,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "33334714",
+    "mail": "",
+    "distance": 4308,
+    "latitude": 48.887199544295925,
+    "telephone": "0149688713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Micro crèche Villiers",
+    "resultStructId": "101602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de villiers92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2829655382257807,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587265",
+    "mail": "",
+    "distance": 4323,
+    "latitude": 48.89179380497973,
+    "telephone": "0147378189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GAVROCHE",
+    "resultStructId": "2438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50rue jean jaures 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.293165428746452,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "33339188",
+    "mail": "",
+    "distance": 4350,
+    "latitude": 48.8882889835846,
+    "telephone": "0155216935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Micro crèche Chaptal",
+    "resultStructId": "101703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue chaptal92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2841256307609403,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12837112",
+    "mail": "levallois.aufan@lpcr.fr",
+    "distance": 4397,
+    "latitude": 48.88943134133322,
+    "telephone": "0141055872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LEVALLOIS AUFAN",
+    "resultStructId": "396701",
+    "omegaId": "10326",
+    "avip": false,
+    "adresse": "33 ruemarius aufan 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285394585187705,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12837628",
+    "mail": "levallois.danton@lpcr.fr",
+    "distance": 4397,
+    "latitude": 48.88943134133322,
+    "telephone": "0141055873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LEVALLOIS DANTON",
+    "resultStructId": "398301",
+    "omegaId": "10325",
+    "avip": false,
+    "adresse": "46 ruedanton 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285394585187705,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587308",
+    "mail": "",
+    "distance": 4461,
+    "latitude": 48.894736910451314,
+    "telephone": "0147311804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOMPOUCE",
+    "resultStructId": "2439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 square victor hugo 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2985180258877476,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "60034675",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 4491,
+    "latitude": 48.89335845369016,
+    "telephone": "0147157795",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDINDE DECOUVERTES JULES FERRY",
+    "resultStructId": "703423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 rue louis rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2927878333134166,
+    "ville": "levalloisperret",
+    "cp": "92300"
+  },
+  {
+    "resultId": "60036490",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 4523,
+    "latitude": 48.89510677997459,
+    "telephone": "0147157761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMOUETTES",
+    "resultStructId": "703502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de bretagne 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.297637839778503,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587093",
+    "mail": "",
+    "distance": 4586,
+    "latitude": 48.89444377188309,
+    "telephone": "0147399992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACLAIRIERE",
+    "resultStructId": "2434",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 rue aristide briand 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.293184763622038,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "33730806",
+    "mail": "contact@babilou.com",
+    "distance": 4614,
+    "latitude": 48.89275789672428,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOULEVALLOIS COLLANGE",
+    "resultStructId": "446203",
+    "omegaId": "1452",
+    "avip": false,
+    "adresse": "12 bis rue collabge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2876719309825444,
+    "ville": "levalloisperret",
+    "cp": "92300"
+  },
+  {
+    "resultId": "38820594",
+    "mail": "gregory.tzamanis@petits-tourbillons.com",
+    "distance": 4635,
+    "latitude": 48.89005885209845,
+    "telephone": "0144870603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiCRO-CRECHELES PETITS TOURBILLONS",
+    "resultStructId": "177202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue barbes 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.281231900822162,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12838316",
+    "mail": "levallois.guesde@lpcr.fr",
+    "distance": 4650,
+    "latitude": 48.89472250544656,
+    "telephone": "0174700554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LES MALICIEUX DE JULES GUESDES -LEVALLOIS",
+    "resultStructId": "403302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 rue jules guesdes 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2920590681592024,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12535837",
+    "mail": "carole.gros@people-and-baby.com",
+    "distance": 4694,
+    "latitude": 48.89502752800004,
+    "telephone": "0155469120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CAPUCINE",
+    "resultStructId": "1242",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10rue pierre brossolette 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2916439227676464,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12535966",
+    "mail": "anne-julie.kieffer@people-and-baby.com",
+    "distance": 4694,
+    "latitude": 48.89502752800004,
+    "telephone": "0155469120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NOUGATINE",
+    "resultStructId": "1245",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10rue pierre brossolette 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2916439227676464,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587050",
+    "mail": "",
+    "distance": 4748,
+    "latitude": 48.8944005632301,
+    "telephone": "0147319574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACIGALE",
+    "resultStructId": "2433",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue du president wilson 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2883104362920235,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "60034730",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 4780,
+    "latitude": 48.8936185553198,
+    "telephone": "0147157749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDINDE DECOUVERTES PASTEUR",
+    "resultStructId": "703424",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue pasteur 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285474898082251,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587222",
+    "mail": "",
+    "distance": 4839,
+    "latitude": 48.89627422050065,
+    "telephone": "0147399860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFARANDOLE",
+    "resultStructId": "2437",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19/21 rue camille pelletan 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2910103337676753,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587351",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 5013,
+    "latitude": 48.89617549741804,
+    "telephone": "0147399320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPLANCHETTE",
+    "resultStructId": "703425",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285717324041715,
+    "ville": "levalloisperret",
+    "cp": "92300"
+  },
+  {
+    "resultId": "24520860",
+    "mail": "",
+    "distance": 5034,
+    "latitude": 48.895058817917686,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Gala",
+    "resultStructId": "25602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2824494457774476,
+    "ville": "levalloisperret",
+    "cp": "92300"
+  },
+  {
+    "resultId": "12587394",
+    "mail": "",
+    "distance": 5048,
+    "latitude": 48.89732435147003,
+    "telephone": "0147376769",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESOURSONS",
+    "resultStructId": "2441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "89 rue edouard vaillant 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2878646982396464,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12878013",
+    "mail": "contact@babilou.com",
+    "distance": 5104,
+    "latitude": 48.89633523550489,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOULEVALLOIS EUROPE",
+    "resultStructId": "446202",
+    "omegaId": "1439",
+    "avip": false,
+    "adresse": "1 bis avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2837143917805873,
+    "ville": "levalloisperret",
+    "cp": "92300"
+  },
+  {
+    "resultId": "33335858",
+    "mail": "",
+    "distance": 5122,
+    "latitude": 48.898188688527966,
+    "telephone": "0146174823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Micro crèche Guesde",
+    "resultStructId": "101604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 rue jules guesde92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.28819487842273,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "60036426",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 5133,
+    "latitude": 48.89529270393527,
+    "telephone": "0147157763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESRAINETTES",
+    "resultStructId": "703501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "136 rue marius aufan 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2805759348385197,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587480",
+    "mail": "",
+    "distance": 5178,
+    "latitude": 48.89471658337914,
+    "telephone": "0147575543",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUCIOLES",
+    "resultStructId": "2443",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue ernest cognaq 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2782894729302154,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "60027989",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 5185,
+    "latitude": 48.89922009662075,
+    "telephone": "0141157791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDINDE DECOUVERTES SAINT EXUPERY",
+    "resultStructId": "703422",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place du 11 novembre1918 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.289388383484451,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587437",
+    "mail": "",
+    "distance": 5195,
+    "latitude": 48.90005659869953,
+    "telephone": "0147393234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMARELLE",
+    "resultStructId": "2442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 rue baudin 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2918053977139876,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "42714869",
+    "mail": "",
+    "distance": 5205,
+    "latitude": 48.893803806980706,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONTREE",
+    "resultStructId": "231503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 rue de villiers 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.275870504561875,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12587007",
+    "mail": "",
+    "distance": 5253,
+    "latitude": 48.89790743326315,
+    "telephone": "0147573299",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCABRIS",
+    "resultStructId": "2432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue du parc 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2837248437630593,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12586878",
+    "mail": "",
+    "distance": 5279,
+    "latitude": 48.89577103596159,
+    "telephone": "0147581426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DIABOLOMENTHE",
+    "resultStructId": "2429",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue jean gabin 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2781332909098753,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "12867521",
+    "mail": "danslespasdeneil@sodexo.com",
+    "distance": 5282,
+    "latitude": 48.89915665007102,
+    "telephone": "0142705614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DANSLES PAS DE NEIL",
+    "resultStructId": "63101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 rue edouard vaillant 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2862955987209372,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "60033657",
+    "mail": "dpe@ville-levallois.fr",
+    "distance": 5382,
+    "latitude": 48.9001206562669,
+    "telephone": "0147157771",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POISSONCLOWN",
+    "resultStructId": "703411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue edouard vaillant 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2861218630660947,
+    "ville": "levalloisperret",
+    "cp": ""
+  },
+  {
+    "resultId": "30546872",
+    "mail": "kidsenseine@crechesdefrance.com",
+    "distance": 5491,
+    "latitude": 48.89845170215545,
+    "telephone": "0185782295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KIDSEN SEINE",
+    "resultStructId": "66201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "159 rue anatole france 92300",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2789275238245525,
+    "ville": "levalloisperret",
+    "cp": ""
+  }
+]

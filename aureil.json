@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12740276",
+    "mail": "microcreche.app@orange.fr",
+    "distance": 134903,
+    "latitude": 45.80638412428219,
+    "telephone": "0555589160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheA Petits Pas",
+    "resultStructId": "6026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3929239351261613,
+    "ville": "aureil",
+    "cp": "87220"
+  },
+  {
+    "resultId": "12740276",
+    "mail": "microcreche.app@orange.fr",
+    "distance": 206652,
+    "latitude": 45.80638412428219,
+    "telephone": "0555589160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheA Petits Pas",
+    "resultStructId": "6026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3929239351261613,
+    "ville": "aureil",
+    "cp": "87220"
+  }
+]

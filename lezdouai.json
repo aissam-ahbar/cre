@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12643423",
+    "mail": "sferreira.sourisverte@utas.fr",
+    "distance": 27316,
+    "latitude": 50.356386069492665,
+    "telephone": "0327807016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Unesouris verte",
+    "resultStructId": "3744",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "485 rue georges clemenceau 59552 lambres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.058089405442713,
+    "ville": "lezdouai",
+    "cp": ""
+  },
+  {
+    "resultId": "12974978",
+    "mail": "lambres-lez-douai@rigolocommelavie.fr",
+    "distance": 27316,
+    "latitude": 50.356386069492665,
+    "telephone": "0327807016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE LAMBRES LEZ DOUAI",
+    "resultStructId": "691325",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "485 rue georgesclemenceau 59552 lambres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.058089405442713,
+    "ville": "lezdouai",
+    "cp": ""
+  }
+]

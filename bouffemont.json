@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12576343",
+    "mail": "",
+    "distance": 161344,
+    "latitude": 49.045550290707254,
+    "telephone": "0139911441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale - \"Maison de la Petite Enfance\"",
+    "resultStructId": "2184",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rueferdinand lesseps",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3195492060140035,
+    "ville": "bouffemont",
+    "cp": "95570"
+  },
+  {
+    "resultId": "12723893",
+    "mail": "",
+    "distance": 161462,
+    "latitude": 49.04490271172618,
+    "telephone": "0139911441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Maison de la Petite Enfance\"",
+    "resultStructId": "5645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue champollion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.315873328667931,
+    "ville": "bouffemont",
+    "cp": "95570"
+  }
+]

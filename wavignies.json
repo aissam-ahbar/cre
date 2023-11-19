@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13051698",
+    "mail": "structures.accueil@cc-plateaupicard.fr",
+    "distance": 106124,
+    "latitude": 49.54773763771744,
+    "telephone": "0344517830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE DU PLATEAU PICARD - SITE DEWAVIGNIES",
+    "resultStructId": "112809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la hercherie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.357524900950331,
+    "ville": "wavignies",
+    "cp": "60130"
+  }
+]

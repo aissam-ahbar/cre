@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58730046",
+    "mail": "",
+    "distance": 56690,
+    "latitude": 42.59530374421176,
+    "telephone": "0967258167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniLoups Ortale",
+    "resultStructId": "688121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route d'ortale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.440714942537857,
+    "ville": "biguglia",
+    "cp": "20620"
+  },
+  {
+    "resultId": "12620031",
+    "mail": "audrey.solidr@orange.fr",
+    "distance": 58773,
+    "latitude": 42.618420044152934,
+    "telephone": "0495541078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA NINUCCIA",
+    "resultStructId": "3200",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place place de l eglise biguglia village",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.43612486105341,
+    "ville": "biguglia",
+    "cp": "20620"
+  },
+  {
+    "resultId": "58729667",
+    "mail": "",
+    "distance": 58773,
+    "latitude": 42.618420044152934,
+    "telephone": "0967258167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniLoups Biguglia",
+    "resultStructId": "688206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre commercial",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.43612486105341,
+    "ville": "biguglia",
+    "cp": "20620"
+  },
+  {
+    "resultId": "12534676",
+    "mail": "ejbiguglia@wanadoo.fr",
+    "distance": 59246,
+    "latitude": 42.62466284179056,
+    "telephone": "0495342234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ANINA",
+    "resultStructId": "1215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des roseraies - bp 10",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.432304419042403,
+    "ville": "biguglia",
+    "cp": "20620"
+  }
+]

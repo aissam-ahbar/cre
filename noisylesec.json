@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12665791",
+    "mail": "creche.keller@noisylesec.fr",
+    "distance": 153711,
+    "latitude": 48.880833105474714,
+    "telephone": "0149426607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL HELEN KELLER",
+    "resultStructId": "702501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "119 rue de la fontaine 93130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.457637956922311,
+    "ville": "noisylesec",
+    "cp": ""
+  },
+  {
+    "resultId": "33620637",
+    "mail": "jardinclementine@agapi.fr",
+    "distance": 154209,
+    "latitude": 48.888893490675756,
+    "telephone": "0141713102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Clémentine",
+    "resultStructId": "701219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue anatole france 93130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.451987324889408,
+    "ville": "noisylesec",
+    "cp": ""
+  },
+  {
+    "resultId": "33620637",
+    "mail": "jardinclementine@agapi.fr",
+    "distance": 10245,
+    "latitude": 48.888893490675756,
+    "telephone": "0141713102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Clémentine",
+    "resultStructId": "701219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue anatole france 93130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.451987324889408,
+    "ville": "noisylesec",
+    "cp": ""
+  },
+  {
+    "resultId": "12665791",
+    "mail": "creche.keller@noisylesec.fr",
+    "distance": 10373,
+    "latitude": 48.880833105474714,
+    "telephone": "0149426607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL HELEN KELLER",
+    "resultStructId": "702501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "119 rue de la fontaine 93130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.457637956922311,
+    "ville": "noisylesec",
+    "cp": ""
+  }
+]

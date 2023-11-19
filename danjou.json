@@ -1,0 +1,942 @@
+[
+  {
+    "resultId": "38690942",
+    "mail": "dadoom.creche@gmail.com",
+    "distance": 154018,
+    "latitude": 47.497225122022705,
+    "telephone": "0768392990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée DADOOM, Les Bois d'Anjou",
+    "resultStructId": "709766",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des frenes 49250les bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22446507016329226,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "30841149",
+    "mail": "crechelacoccinelle@creches-expansion.com",
+    "distance": 171880,
+    "latitude": 47.48350705255692,
+    "telephone": "0241325177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée La Coccinelle, St Barthélémy d'Anjou",
+    "resultStructId": "709706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de lamorellerie 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4823513612098692,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037250",
+    "mail": "contact@creche-pigeon-vole.fr",
+    "distance": 171936,
+    "latitude": 47.47065924011148,
+    "telephone": "0241933746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Pigeon Vole\", St Barthélémy d'Anjou",
+    "resultStructId": "708404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruepaul verlaine 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4889623022516688,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037465",
+    "mail": "",
+    "distance": 172296,
+    "latitude": 47.46489020783168,
+    "telephone": "0241932145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ilôt Câlin\", St Barthélémy d'Anjou",
+    "resultStructId": "23809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue germaineharthuis 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49651725532051894,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "37487412",
+    "mail": "contact@creche-kazetlulu.com",
+    "distance": 173411,
+    "latitude": 47.470247147528866,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu, Saint Barthélémyd'Anjou",
+    "resultStructId": "709735",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue de lareux 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.5096324672413921,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13036906",
+    "mail": "ma-bleenherbe-pdl@vyv3.fr",
+    "distance": 180445,
+    "latitude": 47.68071543341544,
+    "telephone": "0241694443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Blé en Herbe\", Châteauneuf-sur-Sarthe - Les Hautsd'Anjou",
+    "resultStructId": "203517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fontaines 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49429112264643893,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12930817",
+    "mail": "ma-chantelune-pdl@vyv3.fr",
+    "distance": 184942,
+    "latitude": 47.66135379381167,
+    "telephone": "0241420281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chantelune\", Champigné - Les Hauts d'Anjou",
+    "resultStructId": "520901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ruechantelune 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5719314714210364,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929785",
+    "mail": "lespitchouns.pouance@gmail.com",
+    "distance": 20231,
+    "latitude": 47.73976701501423,
+    "telephone": "0241925237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieassociative \"Les Pit'Chouns\", Pouancé",
+    "resultStructId": "213401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place de larepublique 49420 ombree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1762692354423674,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12930817",
+    "mail": "ma-chantelune-pdl@vyv3.fr",
+    "distance": 31003,
+    "latitude": 47.66135379381167,
+    "telephone": "0241420281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chantelune\", Champigné - Les Hauts d'Anjou",
+    "resultStructId": "520901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ruechantelune 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5719314714210364,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13036906",
+    "mail": "ma-bleenherbe-pdl@vyv3.fr",
+    "distance": 37109,
+    "latitude": 47.68071543341544,
+    "telephone": "0241694443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Blé en Herbe\", Châteauneuf-sur-Sarthe - Les Hautsd'Anjou",
+    "resultStructId": "203517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fontaines 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49429112264643893,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "37487412",
+    "mail": "contact@creche-kazetlulu.com",
+    "distance": 38785,
+    "latitude": 47.470247147528866,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu, Saint Barthélémyd'Anjou",
+    "resultStructId": "709735",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue de lareux 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.5096324672413921,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037465",
+    "mail": "",
+    "distance": 39929,
+    "latitude": 47.46489020783168,
+    "telephone": "0241932145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ilôt Câlin\", St Barthélémy d'Anjou",
+    "resultStructId": "23809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue germaineharthuis 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49651725532051894,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "30841149",
+    "mail": "crechelacoccinelle@creches-expansion.com",
+    "distance": 40093,
+    "latitude": 47.48350705255692,
+    "telephone": "0241325177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée La Coccinelle, St Barthélémy d'Anjou",
+    "resultStructId": "709706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de lamorellerie 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4823513612098692,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037250",
+    "mail": "contact@creche-pigeon-vole.fr",
+    "distance": 40183,
+    "latitude": 47.47065924011148,
+    "telephone": "0241933746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Pigeon Vole\", St Barthélémy d'Anjou",
+    "resultStructId": "708404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruepaul verlaine 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4889623022516688,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929656",
+    "mail": "petiteenfance.lavarenne@oreedanjou.fr",
+    "distance": 42236,
+    "latitude": 47.31274250546077,
+    "telephone": "0240985841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Loupiots\", La Varenne",
+    "resultStructId": "347901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 route d'anjou49270 oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3206588417573486,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12931462",
+    "mail": "petiteenfance.landemont@oreedanjou.fr",
+    "distance": 43727,
+    "latitude": 47.263995731627034,
+    "telephone": "0240967542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'chou\", Landemont",
+    "resultStructId": "712611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des ecoles 49270oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2427746686334056,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "38690942",
+    "mail": "dadoom.creche@gmail.com",
+    "distance": 58177,
+    "latitude": 47.497225122022705,
+    "telephone": "0768392990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée DADOOM, Les Bois d'Anjou",
+    "resultStructId": "709766",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des frenes 49250les bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22446507016329226,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13036906",
+    "mail": "ma-bleenherbe-pdl@vyv3.fr",
+    "distance": 138874,
+    "latitude": 47.68071543341544,
+    "telephone": "0241694443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Blé en Herbe\", Châteauneuf-sur-Sarthe - Les Hautsd'Anjou",
+    "resultStructId": "203517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fontaines 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49429112264643893,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929785",
+    "mail": "lespitchouns.pouance@gmail.com",
+    "distance": 140980,
+    "latitude": 47.73976701501423,
+    "telephone": "0241925237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieassociative \"Les Pit'Chouns\", Pouancé",
+    "resultStructId": "213401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place de larepublique 49420 ombree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1762692354423674,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12930817",
+    "mail": "ma-chantelune-pdl@vyv3.fr",
+    "distance": 141075,
+    "latitude": 47.66135379381167,
+    "telephone": "0241420281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chantelune\", Champigné - Les Hauts d'Anjou",
+    "resultStructId": "520901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ruechantelune 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5719314714210364,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "38690942",
+    "mail": "dadoom.creche@gmail.com",
+    "distance": 160738,
+    "latitude": 47.497225122022705,
+    "telephone": "0768392990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée DADOOM, Les Bois d'Anjou",
+    "resultStructId": "709766",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des frenes 49250les bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22446507016329226,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "30841149",
+    "mail": "crechelacoccinelle@creches-expansion.com",
+    "distance": 160813,
+    "latitude": 47.48350705255692,
+    "telephone": "0241325177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée La Coccinelle, St Barthélémy d'Anjou",
+    "resultStructId": "709706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de lamorellerie 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4823513612098692,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037250",
+    "mail": "contact@creche-pigeon-vole.fr",
+    "distance": 162235,
+    "latitude": 47.47065924011148,
+    "telephone": "0241933746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Pigeon Vole\", St Barthélémy d'Anjou",
+    "resultStructId": "708404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruepaul verlaine 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4889623022516688,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "37487412",
+    "mail": "contact@creche-kazetlulu.com",
+    "distance": 162268,
+    "latitude": 47.470247147528866,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu, Saint Barthélémyd'Anjou",
+    "resultStructId": "709735",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue de lareux 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.5096324672413921,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037465",
+    "mail": "",
+    "distance": 162870,
+    "latitude": 47.46489020783168,
+    "telephone": "0241932145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ilôt Câlin\", St Barthélémy d'Anjou",
+    "resultStructId": "23809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue germaineharthuis 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49651725532051894,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929656",
+    "mail": "petiteenfance.lavarenne@oreedanjou.fr",
+    "distance": 189410,
+    "latitude": 47.31274250546077,
+    "telephone": "0240985841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Loupiots\", La Varenne",
+    "resultStructId": "347901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 route d'anjou49270 oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3206588417573486,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12931462",
+    "mail": "petiteenfance.landemont@oreedanjou.fr",
+    "distance": 192877,
+    "latitude": 47.263995731627034,
+    "telephone": "0240967542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'chou\", Landemont",
+    "resultStructId": "712611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des ecoles 49270oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2427746686334056,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13014925",
+    "mail": "",
+    "distance": 200569,
+    "latitude": 43.348809000808174,
+    "telephone": "0468230971",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLES BEEBIE'S",
+    "resultStructId": "12413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 grand rue 11320 labastide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8459571929331038,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13014925",
+    "mail": "",
+    "distance": 167801,
+    "latitude": 43.348809000808174,
+    "telephone": "0468230971",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLES BEEBIE'S",
+    "resultStructId": "12413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 grand rue 11320 labastide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8459571929331038,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929785",
+    "mail": "lespitchouns.pouance@gmail.com",
+    "distance": 20231,
+    "latitude": 47.73976701501423,
+    "telephone": "0241925237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieassociative \"Les Pit'Chouns\", Pouancé",
+    "resultStructId": "213401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place de larepublique 49420 ombree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1762692354423674,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12930817",
+    "mail": "ma-chantelune-pdl@vyv3.fr",
+    "distance": 31003,
+    "latitude": 47.66135379381167,
+    "telephone": "0241420281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chantelune\", Champigné - Les Hauts d'Anjou",
+    "resultStructId": "520901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ruechantelune 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5719314714210364,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13036906",
+    "mail": "ma-bleenherbe-pdl@vyv3.fr",
+    "distance": 37109,
+    "latitude": 47.68071543341544,
+    "telephone": "0241694443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Blé en Herbe\", Châteauneuf-sur-Sarthe - Les Hautsd'Anjou",
+    "resultStructId": "203517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fontaines 49330 les hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49429112264643893,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "37487412",
+    "mail": "contact@creche-kazetlulu.com",
+    "distance": 38785,
+    "latitude": 47.470247147528866,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu, Saint Barthélémyd'Anjou",
+    "resultStructId": "709735",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue de lareux 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.5096324672413921,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037465",
+    "mail": "",
+    "distance": 39929,
+    "latitude": 47.46489020783168,
+    "telephone": "0241932145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ilôt Câlin\", St Barthélémy d'Anjou",
+    "resultStructId": "23809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue germaineharthuis 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49651725532051894,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "30841149",
+    "mail": "crechelacoccinelle@creches-expansion.com",
+    "distance": 40093,
+    "latitude": 47.48350705255692,
+    "telephone": "0241325177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée La Coccinelle, St Barthélémy d'Anjou",
+    "resultStructId": "709706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de lamorellerie 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4823513612098692,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "13037250",
+    "mail": "contact@creche-pigeon-vole.fr",
+    "distance": 40183,
+    "latitude": 47.47065924011148,
+    "telephone": "0241933746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Pigeon Vole\", St Barthélémy d'Anjou",
+    "resultStructId": "708404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruepaul verlaine 49124 st barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4889623022516688,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12929656",
+    "mail": "petiteenfance.lavarenne@oreedanjou.fr",
+    "distance": 42236,
+    "latitude": 47.31274250546077,
+    "telephone": "0240985841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Loupiots\", La Varenne",
+    "resultStructId": "347901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 route d'anjou49270 oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3206588417573486,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "12931462",
+    "mail": "petiteenfance.landemont@oreedanjou.fr",
+    "distance": 43727,
+    "latitude": 47.263995731627034,
+    "telephone": "0240967542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'chou\", Landemont",
+    "resultStructId": "712611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des ecoles 49270oree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2427746686334056,
+    "ville": "danjou",
+    "cp": ""
+  },
+  {
+    "resultId": "38690942",
+    "mail": "dadoom.creche@gmail.com",
+    "distance": 58177,
+    "latitude": 47.497225122022705,
+    "telephone": "0768392990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée DADOOM, Les Bois d'Anjou",
+    "resultStructId": "709766",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des frenes 49250les bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22446507016329226,
+    "ville": "danjou",
+    "cp": ""
+  }
+]

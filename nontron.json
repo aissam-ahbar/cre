@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13050752",
+    "mail": "poupy.rosy@orange.fr",
+    "distance": 182313,
+    "latitude": 45.52461612903825,
+    "telephone": "0553566713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS 1",
+    "resultStructId": "13246",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des truffieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6566809256062771,
+    "ville": "nontron",
+    "cp": "24300"
+  },
+  {
+    "resultId": "13050752",
+    "mail": "poupy.rosy@orange.fr",
+    "distance": 148627,
+    "latitude": 45.52461612903825,
+    "telephone": "0553566713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS 1",
+    "resultStructId": "13246",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des truffieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6566809256062771,
+    "ville": "nontron",
+    "cp": "24300"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12751456",
+    "mail": "babylaune.feurs@cneap.fr",
+    "distance": 167888,
+    "latitude": 45.73642980567335,
+    "telephone": "0477266451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babylaune",
+    "resultStructId": "6286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4chemin des quatre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.2358485944940485,
+    "ville": "feurs",
+    "cp": "42110"
+  },
+  {
+    "resultId": "12552392",
+    "mail": "forezenchante@forez-est.fr",
+    "distance": 167975,
+    "latitude": 45.7354513186079,
+    "telephone": "0477263700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilforez-Enchanté",
+    "resultStructId": "182408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 bis boulevard de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.227910667366381,
+    "ville": "feurs",
+    "cp": "42110"
+  }
+]

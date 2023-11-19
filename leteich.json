@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "47296355",
+    "mail": "leteich@marcelle-martin.fr",
+    "distance": 69567,
+    "latitude": 44.63075149520189,
+    "telephone": "0987327270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Marcelle& Martin",
+    "resultStructId": "678209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue des baccharis 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0190050971182154,
+    "ville": "leteich",
+    "cp": ""
+  },
+  {
+    "resultId": "12508102",
+    "mail": "creche@leteich.fr",
+    "distance": 69724,
+    "latitude": 44.63617878201755,
+    "telephone": "0556228039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA POMME DE PIN",
+    "resultStructId": "208109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue saint andre 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0173576424489408,
+    "ville": "leteich",
+    "cp": ""
+  }
+]

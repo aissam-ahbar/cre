@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12567743",
+    "mail": "cma@mairie-lannemezan.fr",
+    "distance": 144804,
+    "latitude": 43.12403848492472,
+    "telephone": "0562501885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA-MULTI ACCUEIL \"L' ILE AUX ENFANTS\"",
+    "resultStructId": "684804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue du bie debagneres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.38128888846358905,
+    "ville": "lannemezan",
+    "cp": "65300"
+  },
+  {
+    "resultId": "12550973",
+    "mail": "creche.administratif@ch-lannemezan.fr",
+    "distance": 146704,
+    "latitude": 43.11399980016285,
+    "telephone": "0562995557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEHOSPITALIERE DE LANNEMEZAN LOUS PITCHOUNS",
+    "resultStructId": "684723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "644 route detoulouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4116427007745206,
+    "ville": "lannemezan",
+    "cp": "65300"
+  }
+]

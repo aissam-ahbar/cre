@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "60330205",
+    "mail": "creche.petitsgabyfamilial@saintlaurentduvar.fr",
+    "distance": 230007,
+    "latitude": 43.66977091443706,
+    "telephone": "0497120055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFLes Petits Gaby",
+    "resultStructId": "709003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 allee simone veil 06700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190111612787432,
+    "ville": "laurentduvar",
+    "cp": ""
+  },
+  {
+    "resultId": "38274145",
+    "mail": "creche.petitsgaby@saintlaurentduvar.fr",
+    "distance": 230007,
+    "latitude": 43.66977091443706,
+    "telephone": "0497120031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits Gaby",
+    "resultStructId": "709004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 allee simone veil 06700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190111612787432,
+    "ville": "laurentduvar",
+    "cp": ""
+  },
+  {
+    "resultId": "60330205",
+    "mail": "creche.petitsgabyfamilial@saintlaurentduvar.fr",
+    "distance": 95957,
+    "latitude": 43.66977091443706,
+    "telephone": "0497120055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFLes Petits Gaby",
+    "resultStructId": "709003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 allee simone veil 06700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190111612787432,
+    "ville": "laurentduvar",
+    "cp": ""
+  },
+  {
+    "resultId": "38274145",
+    "mail": "creche.petitsgaby@saintlaurentduvar.fr",
+    "distance": 95957,
+    "latitude": 43.66977091443706,
+    "telephone": "0497120031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits Gaby",
+    "resultStructId": "709004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 allee simone veil 06700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.190111612787432,
+    "ville": "laurentduvar",
+    "cp": ""
+  }
+]

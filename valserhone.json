@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "30547480",
+    "mail": "e.dupuy@cocondenfance.com",
+    "distance": 178211,
+    "latitude": 46.12640369832526,
+    "telephone": "0972630480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Cocon d'enfance",
+    "resultStructId": "66203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "202 chemin pierre longue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.826345307919799,
+    "ville": "valserhone",
+    "cp": "01200"
+  },
+  {
+    "resultId": "40948967",
+    "mail": "chatillon@maptitecreche.fr",
+    "distance": 178669,
+    "latitude": 46.10705805888783,
+    "telephone": "0626753106",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaPtite crèche Chatillon",
+    "resultStructId": "209301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de l'etang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.806607935862331,
+    "ville": "valserhone",
+    "cp": "01200"
+  },
+  {
+    "resultId": "12858276",
+    "mail": "secretariat.multiaccueil@valserhone.fr",
+    "distance": 179636,
+    "latitude": 46.10512603815486,
+    "telephone": "0450560488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES MILLES PATTES",
+    "resultStructId": "413501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.821690663229452,
+    "ville": "valserhone",
+    "cp": "01200"
+  }
+]

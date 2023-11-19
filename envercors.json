@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12893192",
+    "mail": "directricelesmistouflets@gmail.com",
+    "distance": 166235,
+    "latitude": 44.89739509120577,
+    "telephone": "0476343290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE\" Micro-Créche Les Mistouflets\" de Gresse enVercors",
+    "resultStructId": "438002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1320 route du grand veymont 38650 gresse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.553343930118338,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898610",
+    "mail": "les3pommes@vercors.org",
+    "distance": 178358,
+    "latitude": 45.027730050975684,
+    "telephone": "0476958085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Pommes",
+    "resultStructId": "691304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "245 rue des picauds 38250 correncon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.52427796676237,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12652324",
+    "mail": "vercoquins@cslapaz.fr",
+    "distance": 178477,
+    "latitude": 45.051130338738425,
+    "telephone": "0475455109",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Vercoquins",
+    "resultStructId": "683503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le village 26420 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.449760554879684,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898911",
+    "mail": "les-boutchoux@orange.fr",
+    "distance": 188572,
+    "latitude": 45.12705630087302,
+    "telephone": "0476952384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBou'Choux",
+    "resultStructId": "699542",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "422 route la truite - les gonnets 38112autrans meaudre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.526500706491731,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12881711",
+    "mail": "creche-lans@troispetitstours.fr",
+    "distance": 189850,
+    "latitude": 45.124466675222436,
+    "telephone": "0476954907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes 3 P'tits Tours",
+    "resultStructId": "90703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "771 route de villard 38250 lans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.57638049495419,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12893192",
+    "mail": "directricelesmistouflets@gmail.com",
+    "distance": 418704,
+    "latitude": 44.89739509120577,
+    "telephone": "0476343290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE\" Micro-Créche Les Mistouflets\" de Gresse enVercors",
+    "resultStructId": "438002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1320 route du grand veymont 38650 gresse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.553343930118338,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898610",
+    "mail": "les3pommes@vercors.org",
+    "distance": 430743,
+    "latitude": 45.027730050975684,
+    "telephone": "0476958085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Pommes",
+    "resultStructId": "691304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "245 rue des picauds 38250 correncon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.52427796676237,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12881711",
+    "mail": "creche-lans@troispetitstours.fr",
+    "distance": 435896,
+    "latitude": 45.124466675222436,
+    "telephone": "0476954907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes 3 P'tits Tours",
+    "resultStructId": "90703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "771 route de villard 38250 lans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.57638049495419,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12652324",
+    "mail": "vercoquins@cslapaz.fr",
+    "distance": 436659,
+    "latitude": 45.051130338738425,
+    "telephone": "0475455109",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Vercoquins",
+    "resultStructId": "683503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le village 26420 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.449760554879684,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898911",
+    "mail": "les-boutchoux@orange.fr",
+    "distance": 438732,
+    "latitude": 45.12705630087302,
+    "telephone": "0476952384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBou'Choux",
+    "resultStructId": "699542",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "422 route la truite - les gonnets 38112autrans meaudre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.526500706491731,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12893192",
+    "mail": "directricelesmistouflets@gmail.com",
+    "distance": 112129,
+    "latitude": 44.89739509120577,
+    "telephone": "0476343290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE\" Micro-Créche Les Mistouflets\" de Gresse enVercors",
+    "resultStructId": "438002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1320 route du grand veymont 38650 gresse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.553343930118338,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898610",
+    "mail": "les3pommes@vercors.org",
+    "distance": 126501,
+    "latitude": 45.027730050975684,
+    "telephone": "0476958085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Pommes",
+    "resultStructId": "691304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "245 rue des picauds 38250 correncon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.52427796676237,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12652324",
+    "mail": "vercoquins@cslapaz.fr",
+    "distance": 131024,
+    "latitude": 45.051130338738425,
+    "telephone": "0475455109",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Vercoquins",
+    "resultStructId": "683503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le village 26420 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.449760554879684,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12881711",
+    "mail": "creche-lans@troispetitstours.fr",
+    "distance": 135433,
+    "latitude": 45.124466675222436,
+    "telephone": "0476954907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes 3 P'tits Tours",
+    "resultStructId": "90703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "771 route de villard 38250 lans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.57638049495419,
+    "ville": "envercors",
+    "cp": ""
+  },
+  {
+    "resultId": "12898911",
+    "mail": "les-boutchoux@orange.fr",
+    "distance": 136883,
+    "latitude": 45.12705630087302,
+    "telephone": "0476952384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBou'Choux",
+    "resultStructId": "699542",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "422 route la truite - les gonnets 38112autrans meaudre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.526500706491731,
+    "ville": "envercors",
+    "cp": ""
+  }
+]

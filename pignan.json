@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12789554",
+    "mail": "creche.zebulon@famillesrurales.org",
+    "distance": 69658,
+    "latitude": 43.581833967258746,
+    "telephone": "0467478701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheZébulon",
+    "resultStructId": "210920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du pradarel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7617328069303926,
+    "ville": "pignan",
+    "cp": "34570"
+  },
+  {
+    "resultId": "12926001",
+    "mail": "beebaby.microcreche@gmail.com",
+    "distance": 70184,
+    "latitude": 43.57929167245765,
+    "telephone": "0768545417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche mode Paje \"BeeBaby\"",
+    "resultStructId": "10345",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "0 avenue du passet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.755098689996075,
+    "ville": "pignan",
+    "cp": "34570"
+  },
+  {
+    "resultId": "12789554",
+    "mail": "creche.zebulon@famillesrurales.org",
+    "distance": 11038,
+    "latitude": 43.581833967258746,
+    "telephone": "0467478701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheZébulon",
+    "resultStructId": "210920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du pradarel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7617328069303926,
+    "ville": "pignan",
+    "cp": "34570"
+  },
+  {
+    "resultId": "12926001",
+    "mail": "beebaby.microcreche@gmail.com",
+    "distance": 11614,
+    "latitude": 43.57929167245765,
+    "telephone": "0768545417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche mode Paje \"BeeBaby\"",
+    "resultStructId": "10345",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "0 avenue du passet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.755098689996075,
+    "ville": "pignan",
+    "cp": "34570"
+  }
+]

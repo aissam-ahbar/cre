@@ -1,0 +1,368 @@
+[
+  {
+    "resultId": "58730771",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 26031,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèche\"à petits pas\"",
+    "resultStructId": "688126",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "7rue 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "53938930",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 26031,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA petits pas",
+    "resultStructId": "555701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "12985943",
+    "mail": "multi-accueil.riom@rlv.eu",
+    "distance": 26779,
+    "latitude": 45.88765326019264,
+    "telephone": "0473384993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde Riom",
+    "resultStructId": "11739",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "5 rue amablefaucon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.1099531964417144,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378804",
+    "mail": "contact@babilou.com",
+    "distance": 28795,
+    "latitude": 45.90514052942883,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 2",
+    "resultStructId": "413401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.102825174980687,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378678",
+    "mail": "contact@babilou.com",
+    "distance": 28802,
+    "latitude": 45.90509706283693,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 1",
+    "resultStructId": "413402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1020711261374485,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378804",
+    "mail": "contact@babilou.com",
+    "distance": 169265,
+    "latitude": 45.90514052942883,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 2",
+    "resultStructId": "413401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.102825174980687,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378678",
+    "mail": "contact@babilou.com",
+    "distance": 169296,
+    "latitude": 45.90509706283693,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 1",
+    "resultStructId": "413402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1020711261374485,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "58730771",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 170436,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèche\"à petits pas\"",
+    "resultStructId": "688126",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "7rue 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "53938930",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 170436,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA petits pas",
+    "resultStructId": "555701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "12985943",
+    "mail": "multi-accueil.riom@rlv.eu",
+    "distance": 170730,
+    "latitude": 45.88765326019264,
+    "telephone": "0473384993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde Riom",
+    "resultStructId": "11739",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "5 rue amablefaucon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.1099531964417144,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378678",
+    "mail": "contact@babilou.com",
+    "distance": 163527,
+    "latitude": 45.90509706283693,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 1",
+    "resultStructId": "413402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1020711261374485,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "46378804",
+    "mail": "contact@babilou.com",
+    "distance": 163562,
+    "latitude": 45.90514052942883,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRiom Clos du Gamay 2",
+    "resultStructId": "413401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue clos du gamay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.102825174980687,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "12985943",
+    "mail": "multi-accueil.riom@rlv.eu",
+    "distance": 165391,
+    "latitude": 45.88765326019264,
+    "telephone": "0473384993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde Riom",
+    "resultStructId": "11739",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "5 rue amablefaucon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.1099531964417144,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "58730771",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 166804,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèche\"à petits pas\"",
+    "resultStructId": "688126",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "7rue 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  },
+  {
+    "resultId": "53938930",
+    "mail": "crecheapetitspas@rlv.eu",
+    "distance": 166804,
+    "latitude": 45.88325857396724,
+    "telephone": "0443281012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA petits pas",
+    "resultStructId": "555701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.13051509828116,
+    "ville": "riom",
+    "cp": "63200"
+  }
+]

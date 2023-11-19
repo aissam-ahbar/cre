@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12728451",
+    "mail": "petite.enfance@cc-paysviganais.fr",
+    "distance": 94895,
+    "latitude": 43.98824427597784,
+    "telephone": "0467812904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceMulti-Accueil de jeunes enfants",
+    "resultStructId": "5751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue sergent triaire30120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.604832757234186,
+    "ville": "levigan",
+    "cp": ""
+  },
+  {
+    "resultId": "12728451",
+    "mail": "petite.enfance@cc-paysviganais.fr",
+    "distance": 49269,
+    "latitude": 43.98824427597784,
+    "telephone": "0467812904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceMulti-Accueil de jeunes enfants",
+    "resultStructId": "5751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue sergent triaire30120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.604832757234186,
+    "ville": "levigan",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12568345",
+    "mail": "les3chatons@mairiepia.fr",
+    "distance": 165614,
+    "latitude": 42.74494490727527,
+    "telephone": "0468631833",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Chatons",
+    "resultStructId": "1998",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue francois arago",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9153942188313096,
+    "ville": "pia",
+    "cp": "66380"
+  },
+  {
+    "resultId": "12568345",
+    "mail": "les3chatons@mairiepia.fr",
+    "distance": 123864,
+    "latitude": 42.74494490727527,
+    "telephone": "0468631833",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Chatons",
+    "resultStructId": "1998",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue francois arago",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9153942188313096,
+    "ville": "pia",
+    "cp": "66380"
+  }
+]

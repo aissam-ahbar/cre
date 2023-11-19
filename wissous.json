@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "32431727",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 197292,
+    "latitude": 48.72716183565195,
+    "telephone": "0978317564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS WISSOUS",
+    "resultStructId": "237306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue jeanne garnerin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3070514014424854,
+    "ville": "wissous",
+    "cp": "91320"
+  },
+  {
+    "resultId": "12506726",
+    "mail": "",
+    "distance": 198019,
+    "latitude": 48.730906295274366,
+    "telephone": "0169300623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "565",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue georges collin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.325154236754412,
+    "ville": "wissous",
+    "cp": "91320"
+  },
+  {
+    "resultId": "32440268",
+    "mail": "",
+    "distance": 198924,
+    "latitude": 48.738600310700974,
+    "telephone": "0783307950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins de Saint Eloi",
+    "resultStructId": "92210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue gilbert robert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.329315780055007,
+    "ville": "wissous",
+    "cp": "91320"
+  },
+  {
+    "resultId": "37677785",
+    "mail": "",
+    "distance": 199157,
+    "latitude": 48.74285985274685,
+    "telephone": "0783307950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tites Pousses",
+    "resultStructId": "160203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3167030851831827,
+    "ville": "wissous",
+    "cp": "91320"
+  }
+]

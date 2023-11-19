@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12871520",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1430138,
+    "latitude": -20.902016315427353,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilCrèche & Go Aimé Césaire",
+    "resultStructId": "651103",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue belle eau 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.59719958143829,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "37102798",
+    "mail": "direction@psalesiens.re",
+    "distance": 1430328,
+    "latitude": -20.92929503476982,
+    "telephone": "0693225814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Salésiens",
+    "resultStructId": "152105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du pere fayet 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.57732523355049,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12814236",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1430626,
+    "latitude": -20.908256293093416,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bel Air",
+    "resultStructId": "36944",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue louis hoarau 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.598037206664806,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633791",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 1431023,
+    "latitude": -20.905390033252203,
+    "telephone": "0262521780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTi Fleur Vanille",
+    "resultStructId": "62708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue pierre beregovoy 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.605154741047976,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12670736",
+    "mail": "",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0692669039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLUCastors",
+    "resultStructId": "62713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue des barques - la marine 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633834",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0262581682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Dauphins",
+    "resultStructId": "62707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 bis rue rico carpaye - quartierfrancais 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12814279",
+    "mail": "laetieg3@gmail.com",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0262139765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCap Emma",
+    "resultStructId": "62711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite du levant - bel air 1 - grand hazier97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12811398",
+    "mail": "laetieg3@gmail.com",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0262139765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCap Alyssa",
+    "resultStructId": "62710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite du levant - bel air 1 - grand hazier97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633748",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0262480477",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Calinous\"",
+    "resultStructId": "62709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 bis rue jules ferry - bagatelle97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12716918",
+    "mail": "sabrina.moutounaick@hotmail.fr",
+    "distance": 1431228,
+    "latitude": -20.90556533912049,
+    "telephone": "0692363816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePetit Zé Grand",
+    "resultStructId": "62714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue des barques - la marine 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12601971",
+    "mail": "mce974@orange.fr",
+    "distance": 1435343,
+    "latitude": -20.93042965378426,
+    "telephone": "0262464827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMini-Club Est",
+    "resultStructId": "562501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du commerce 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.63703031530565,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "60198408",
+    "mail": "contact@lespetitspas.re",
+    "distance": 1435499,
+    "latitude": -20.95217422485256,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Deux Rives",
+    "resultStructId": "706302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "151 rue ludovic rochefeuille 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.62124825638238,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "37102798",
+    "mail": "direction@psalesiens.re",
+    "distance": 5361,
+    "latitude": -20.92929503476982,
+    "telephone": "0693225814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Salésiens",
+    "resultStructId": "152105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du pere fayet 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.57732523355049,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12871520",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 6349,
+    "latitude": -20.902016315427353,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilCrèche & Go Aimé Césaire",
+    "resultStructId": "651103",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue belle eau 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.59719958143829,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12814236",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 6494,
+    "latitude": -20.908256293093416,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bel Air",
+    "resultStructId": "36944",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue louis hoarau 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.598037206664806,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633791",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 7195,
+    "latitude": -20.905390033252203,
+    "telephone": "0262521780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTi Fleur Vanille",
+    "resultStructId": "62708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue pierre beregovoy 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.605154741047976,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12670736",
+    "mail": "",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0692669039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLUCastors",
+    "resultStructId": "62713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue des barques - la marine 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633834",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0262581682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'tits Dauphins",
+    "resultStructId": "62707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 bis rue rico carpaye - quartierfrancais 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12814279",
+    "mail": "laetieg3@gmail.com",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0262139765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCap Emma",
+    "resultStructId": "62711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite du levant - bel air 1 - grand hazier97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12811398",
+    "mail": "laetieg3@gmail.com",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0262139765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCap Alyssa",
+    "resultStructId": "62710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite du levant - bel air 1 - grand hazier97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12633748",
+    "mail": "ccasstesuzanne@wanadoo.fr",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0262480477",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Calinous\"",
+    "resultStructId": "62709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 bis rue jules ferry - bagatelle97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12716918",
+    "mail": "sabrina.moutounaick@hotmail.fr",
+    "distance": 7438,
+    "latitude": -20.90556533912049,
+    "telephone": "0692363816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePetit Zé Grand",
+    "resultStructId": "62714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue des barques - la marine 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.60748949529591,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "60198408",
+    "mail": "contact@lespetitspas.re",
+    "distance": 10559,
+    "latitude": -20.95217422485256,
+    "telephone": "0692573718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Deux Rives",
+    "resultStructId": "706302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "151 rue ludovic rochefeuille 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.62124825638238,
+    "ville": "stesuzanne",
+    "cp": ""
+  },
+  {
+    "resultId": "12601971",
+    "mail": "mce974@orange.fr",
+    "distance": 11006,
+    "latitude": -20.93042965378426,
+    "telephone": "0262464827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMini-Club Est",
+    "resultStructId": "562501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du commerce 97441",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.63703031530565,
+    "ville": "stesuzanne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12545168",
+    "mail": "communaute-communes@orthe-arrigans.fr",
+    "distance": 113132,
+    "latitude": 43.54384785763074,
+    "telephone": "0558730073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheCollective du Pays d'Orthe.",
+    "resultStructId": "39301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "387 rue colonnel paullartigue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1043206353038768,
+    "ville": "peyrehorade",
+    "cp": "40300"
+  },
+  {
+    "resultId": "12526549",
+    "mail": "communaute-communes@orthe-arrigans.fr",
+    "distance": 113132,
+    "latitude": 43.54384785763074,
+    "telephone": "0558730073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du pays d'Orthe Peyrehorade",
+    "resultStructId": "39302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "387 rue ducolonnel p. lartigue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1043206353038768,
+    "ville": "peyrehorade",
+    "cp": "40300"
+  }
+]

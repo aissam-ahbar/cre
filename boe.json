@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12550801",
+    "mail": "",
+    "distance": 73359,
+    "latitude": 44.18675009828566,
+    "telephone": "0553982558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale de Boé",
+    "resultStructId": "1590",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ormes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6564178105321854,
+    "ville": "boe",
+    "cp": "47550"
+  },
+  {
+    "resultId": "12550844",
+    "mail": "",
+    "distance": 73359,
+    "latitude": 44.18675009828566,
+    "telephone": "0553982558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"La Petite Maison\"",
+    "resultStructId": "1591",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ormes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6564178105321854,
+    "ville": "boe",
+    "cp": "47550"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12816687",
+    "mail": "ma.honore@orange.fr",
+    "distance": 126856,
+    "latitude": 49.90842070189348,
+    "telephone": "0235852482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE L'ENFANT",
+    "resultStructId": "7803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du calvaire 76370 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1710076652014598,
+    "ville": "encampagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12816687",
+    "mail": "ma.honore@orange.fr",
+    "distance": 163580,
+    "latitude": 49.90842070189348,
+    "telephone": "0235852482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE L'ENFANT",
+    "resultStructId": "7803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du calvaire 76370 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1710076652014598,
+    "ville": "encampagne",
+    "cp": ""
+  }
+]

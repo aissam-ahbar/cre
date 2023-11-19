@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12726903",
+    "mail": "elodie.tiberi@ville-calvi.corsica",
+    "distance": 54594,
+    "latitude": 42.567528660907634,
+    "telephone": "0495652099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil",
+    "resultStructId": "686515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la serra",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 8.756898065928137,
+    "ville": "calvi",
+    "cp": "20260"
+  },
+  {
+    "resultId": "58728918",
+    "mail": "",
+    "distance": 54594,
+    "latitude": 42.567528660907634,
+    "telephone": "0495123456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jehannede Bru",
+    "resultStructId": "707710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cms face au camp raffali",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 8.756898065928137,
+    "ville": "calvi",
+    "cp": "20260"
+  }
+]

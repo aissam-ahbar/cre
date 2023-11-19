@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12888806",
+    "mail": "lacolombe@alpha3a.org",
+    "distance": 171519,
+    "latitude": 45.74826437796824,
+    "telephone": "0478579100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Colombe",
+    "resultStructId": "108301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "maison de l'enfance grande rue - 69290grezieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.693979354883479,
+    "ville": "lavarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "55349090",
+    "mail": "",
+    "distance": 171519,
+    "latitude": 45.74826437796824,
+    "telephone": "0478730190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchesde Demain Grézieu",
+    "resultStructId": "612401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route neuve - col de la luere 69290grezieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.693979354883479,
+    "ville": "lavarenne",
+    "cp": ""
+  }
+]

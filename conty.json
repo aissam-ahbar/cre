@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12704104",
+    "mail": "creche.conty@free.fr",
+    "distance": 91126,
+    "latitude": 49.73907313414415,
+    "telephone": "0952010654",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "SUCRESD'ORGE DE CONTY",
+    "resultStructId": "499102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue des hargers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1518809401387236,
+    "ville": "conty",
+    "cp": "80160"
+  }
+]

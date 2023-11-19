@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13019999",
+    "mail": "csc.accueil.loonplage@gmail.com",
+    "distance": 67777,
+    "latitude": 50.99576640053993,
+    "telephone": "0328264831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL de l'association Dulcie September",
+    "resultStructId": "12531",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60a ruegeorges pompidou 59279",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2227549892692617,
+    "ville": "loonplage",
+    "cp": ""
+  },
+  {
+    "resultId": "12580772",
+    "mail": "csc.multiaccueil@voila.fr",
+    "distance": 67789,
+    "latitude": 50.99585800537658,
+    "telephone": "0328273964",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DulcieSeptember",
+    "resultStructId": "2287",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 a rue georges pompidou 59279",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.222671959658053,
+    "ville": "loonplage",
+    "cp": ""
+  }
+]

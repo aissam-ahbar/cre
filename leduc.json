@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12641875",
+    "mail": "maison-enfance-arnay-le-duc@wanadoo.fr",
+    "distance": 28270,
+    "latitude": 47.128886411002256,
+    "telephone": "0380840541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil (Com Com)",
+    "resultStructId": "199734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue claude guyot 21230 arnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.486025776164469,
+    "ville": "leduc",
+    "cp": ""
+  },
+  {
+    "resultId": "29610955",
+    "mail": "chatillonleduc@lacompagniedarthur.fr",
+    "distance": 139195,
+    "latitude": 47.28879661814168,
+    "telephone": "0381524387",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Compagnie d'Arthur - Châtillon le Duc",
+    "resultStructId": "546702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du prebrenot 25870 chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.997057189558177,
+    "ville": "leduc",
+    "cp": ""
+  },
+  {
+    "resultId": "13067995",
+    "mail": "crecheelisa@barleduc.fr",
+    "distance": 185578,
+    "latitude": 48.771297285690075,
+    "telephone": "0329790368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Elisa",
+    "resultStructId": "64901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue werly 55000 bar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.163390452341321,
+    "ville": "leduc",
+    "cp": ""
+  },
+  {
+    "resultId": "13067995",
+    "mail": "crecheelisa@barleduc.fr",
+    "distance": 45606,
+    "latitude": 48.771297285690075,
+    "telephone": "0329790368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Elisa",
+    "resultStructId": "64901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue werly 55000 bar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.163390452341321,
+    "ville": "leduc",
+    "cp": ""
+  },
+  {
+    "resultId": "13068038",
+    "mail": "b.bentebra@barleduc.fr",
+    "distance": 46080,
+    "latitude": 48.7815944146632,
+    "telephone": "0329464851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Louise-Marie",
+    "resultStructId": "58510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de gascogne 55000 bar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.168244935547915,
+    "ville": "leduc",
+    "cp": ""
+  },
+  {
+    "resultId": "13068081",
+    "mail": "eje@creche-varicelle.fr",
+    "distance": 47193,
+    "latitude": 48.76968657488249,
+    "telephone": "0329453999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE-Varicelle et Compagnie - Crèche Parentale",
+    "resultStructId": "486201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin deresson 55000 bar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.185353403317975,
+    "ville": "leduc",
+    "cp": ""
+  }
+]

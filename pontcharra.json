@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12860254",
+    "mail": "multiaccueil@pontcharra.fr",
+    "distance": 441751,
+    "latitude": 45.437603331409356,
+    "telephone": "0476977586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Chapontains",
+    "resultStructId": "700802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "895 rue des mettanies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014790368036657,
+    "ville": "pontcharra",
+    "cp": "38530"
+  },
+  {
+    "resultId": "12815870",
+    "mail": "kiddycrechepontcharra@gmail.com",
+    "distance": 441864,
+    "latitude": 45.436232851593616,
+    "telephone": "0687617029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Kiddy Farm",
+    "resultStructId": "186002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue de la ganterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.009540756954791,
+    "ville": "pontcharra",
+    "cp": "38530"
+  },
+  {
+    "resultId": "12815870",
+    "mail": "kiddycrechepontcharra@gmail.com",
+    "distance": 164563,
+    "latitude": 45.436232851593616,
+    "telephone": "0687617029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Kiddy Farm",
+    "resultStructId": "186002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue de la ganterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.009540756954791,
+    "ville": "pontcharra",
+    "cp": "38530"
+  },
+  {
+    "resultId": "12860254",
+    "mail": "multiaccueil@pontcharra.fr",
+    "distance": 164706,
+    "latitude": 45.437603331409356,
+    "telephone": "0476977586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Chapontains",
+    "resultStructId": "700802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "895 rue des mettanies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014790368036657,
+    "ville": "pontcharra",
+    "cp": "38530"
+  }
+]

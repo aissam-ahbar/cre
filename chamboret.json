@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12739330",
+    "mail": "multi-accueil@elan87.fr",
+    "distance": 118503,
+    "latitude": 46.00583204317017,
+    "telephone": "0555536921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Boît'à Mômes",
+    "resultStructId": "229601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue meucquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.135967837360598,
+    "ville": "chamboret",
+    "cp": "87140"
+  },
+  {
+    "resultId": "12739330",
+    "mail": "multi-accueil@elan87.fr",
+    "distance": 213531,
+    "latitude": 46.00583204317017,
+    "telephone": "0555536921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Boît'à Mômes",
+    "resultStructId": "229601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue meucquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.135967837360598,
+    "ville": "chamboret",
+    "cp": "87140"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12938514",
+    "mail": "",
+    "distance": 229499,
+    "latitude": 43.19918764366028,
+    "telephone": "0468762441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Montréal",
+    "resultStructId": "10636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des moulins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1383311744470617,
+    "ville": "montreal",
+    "cp": "11290"
+  },
+  {
+    "resultId": "12938514",
+    "mail": "",
+    "distance": 148848,
+    "latitude": 43.19918764366028,
+    "telephone": "0468762441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Montréal",
+    "resultStructId": "10636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des moulins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1383311744470617,
+    "ville": "montreal",
+    "cp": "11290"
+  }
+]

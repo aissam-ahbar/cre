@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12710898",
+    "mail": "linas@creche-la-maison-bleue.fr",
+    "distance": 186176,
+    "latitude": 48.631515505597754,
+    "telephone": "0966952089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"LesPetits Bolides\"",
+    "resultStructId": "5313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 chemin de la roue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.262021169752001,
+    "ville": "linas",
+    "cp": "91310"
+  },
+  {
+    "resultId": "31998685",
+    "mail": "creches.avenir@hotmail.fr",
+    "distance": 186245,
+    "latitude": 48.629788569301816,
+    "telephone": "0169808353",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchesAvenir",
+    "resultStructId": "87405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue des mesanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2766043641579907,
+    "ville": "linas",
+    "cp": "91310"
+  }
+]

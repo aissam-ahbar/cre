@@ -1,0 +1,938 @@
+[
+  {
+    "resultId": "13069328",
+    "mail": "contact@babilou.com",
+    "distance": 151798,
+    "latitude": 48.76786230612167,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCréteil Soddy",
+    "resultStructId": "547301",
+    "omegaId": "12085",
+    "avip": false,
+    "adresse": "5 rue soddy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.474525502740349,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12538245",
+    "mail": "",
+    "distance": 152228,
+    "latitude": 48.780954402168206,
+    "telephone": "0143774492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Amédée-Laplace",
+    "resultStructId": "15320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue amedee laplace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.469001249219815,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543147",
+    "mail": "creche.sarrazins@ville-creteil.fr",
+    "distance": 152252,
+    "latitude": 48.76922086008341,
+    "telephone": "0156712084",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDES SARRAZINS",
+    "resultStructId": "281401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue des sarrazins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4683502383059808,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12542932",
+    "mail": "mc.moulin@ville-creteil.fr",
+    "distance": 152309,
+    "latitude": 48.78775823784976,
+    "telephone": "0142075739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINICRECHE DU MOULIN",
+    "resultStructId": "281201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 rue du general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.468162838741391,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543319",
+    "mail": "hg.habette@ville-creteil.fr",
+    "distance": 152372,
+    "latitude": 48.773108492965875,
+    "telephone": "0149805802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA HABETTE",
+    "resultStructId": "272401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du docteur ramon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.466809515760629,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12487067",
+    "mail": "mc.habette@ville-creteil.fr",
+    "distance": 152378,
+    "latitude": 48.77293790110671,
+    "telephone": "0149809003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche \"de la Habette\"",
+    "resultStructId": "272101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du docteur ramon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.466712723063015,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12538374",
+    "mail": "",
+    "distance": 152486,
+    "latitude": 48.779627411104016,
+    "telephone": "0143393752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Juliette Savar",
+    "resultStructId": "15322",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue juliette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4654466067082375,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12538288",
+    "mail": "",
+    "distance": 152554,
+    "latitude": 48.79368448097927,
+    "telephone": "0142070146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale de la Terrasse",
+    "resultStructId": "15318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de la terrasse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4650822186683463,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "58717537",
+    "mail": "lise.mardon@mnhsae.fr",
+    "distance": 152573,
+    "latitude": 48.79833242215486,
+    "telephone": "0141789061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Sous Le Soleil",
+    "resultStructId": "688002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4650553595805342,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "18409879",
+    "mail": "nahla.orlandi@mnhsae.fr",
+    "distance": 152573,
+    "latitude": 48.79833242215486,
+    "telephone": "0141789006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Sous Le Vent",
+    "resultStructId": "688018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4650553595805342,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543233",
+    "mail": "hc.bordsdemarne@ville-creteil.fr",
+    "distance": 152726,
+    "latitude": 48.8065101467793,
+    "telephone": "0148993354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINICRECHE DES BORDS DE MARNE",
+    "resultStructId": "303201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de mayenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.463442154471479,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13069672",
+    "mail": "",
+    "distance": 152785,
+    "latitude": 48.7710118966136,
+    "telephone": "0984307522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AFAACLutins Bavards",
+    "resultStructId": "14911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue falkirk",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4611155945769743,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12508274",
+    "mail": "creche-creteil-degas@valdemarne.fr",
+    "distance": 152788,
+    "latitude": 48.77889627696121,
+    "telephone": "0143390424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Edgar Degas",
+    "resultStructId": "15317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue degas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4612940703516153,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12544566",
+    "mail": "",
+    "distance": 152795,
+    "latitude": 48.77115038837124,
+    "telephone": "0149803763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AFAACPetits Genies",
+    "resultStructId": "14916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue falkirk",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4609788646070174,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543018",
+    "mail": "hg.port@ville-creteil.fr",
+    "distance": 152913,
+    "latitude": 48.773931244957886,
+    "telephone": "0149801242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU PORT",
+    "resultStructId": "280801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue benjamin moloise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4594418164983525,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "45163490",
+    "mail": "creche.familiale@ville-creteil.fr",
+    "distance": 152918,
+    "latitude": 48.791619901474256,
+    "telephone": "0149808857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "281102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de mesly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4600169068742486,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12513649",
+    "mail": "contact@creche-ptitschoux.fr",
+    "distance": 152950,
+    "latitude": 48.79185383752452,
+    "telephone": "0142075998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Les P'tits Choux\"",
+    "resultStructId": "683019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de mesly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4595858170789597,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13056471",
+    "mail": "",
+    "distance": 152972,
+    "latitude": 48.77124029053438,
+    "telephone": "0980596701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Poisson Clown",
+    "resultStructId": "14522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.458573802086478,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543190",
+    "mail": "creche.dolto@ville-creteil.fr",
+    "distance": 152989,
+    "latitude": 48.7751658373027,
+    "telephone": "0143999188",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDOLTO",
+    "resultStructId": "271301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges ohm",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4584403708546807,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13059395",
+    "mail": "sylvie.porcheron@aphp.fr",
+    "distance": 153088,
+    "latitude": 48.78945854057722,
+    "telephone": "0149813097",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEH.C.ANDERSEN",
+    "resultStructId": "624206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de mesly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.457594825636127,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "50893512",
+    "mail": "familles+creteil@berceaudesrois.fr",
+    "distance": 153117,
+    "latitude": 48.80112642458023,
+    "telephone": "0185461099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARLBDR 94 CRETEIL 91 LAFERRIERE",
+    "resultStructId": "434902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4577747875943388,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "60030700",
+    "mail": "crechedesoiliviers@ville-creteil.fr",
+    "distance": 153150,
+    "latitude": 48.76775947441622,
+    "telephone": "0158433800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Oliviers",
+    "resultStructId": "703404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue martin luther king",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4560631880925183,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "57935953",
+    "mail": "polefamille@capenfants.com",
+    "distance": 153150,
+    "latitude": 48.76775947441622,
+    "telephone": "0170616761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CAPENFANTS - Créteil",
+    "resultStructId": "680906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue martin lutherking",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4560631880925183,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12510725",
+    "mail": "",
+    "distance": 153194,
+    "latitude": 48.776057885859885,
+    "telephone": "0143398504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AFAACBateau Bavoir",
+    "resultStructId": "14913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.455672083450457,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13055052",
+    "mail": "creche.aime-cesaire@ville-creteil.fr",
+    "distance": 153209,
+    "latitude": 48.76974039976469,
+    "telephone": "0149802040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEAIME CESAIRE",
+    "resultStructId": "281001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue du nouveau monde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4552977099024678,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13055095",
+    "mail": "",
+    "distance": 153322,
+    "latitude": 48.77870026063543,
+    "telephone": "0149808850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil familial",
+    "resultStructId": "13347",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis place salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.453998873063208,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13069414",
+    "mail": "les.abeilles@people-and-baby.com",
+    "distance": 153325,
+    "latitude": 48.78324839064248,
+    "telephone": "0973192629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Abeilles",
+    "resultStructId": "618703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du general de larminat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.454106692939929,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12542975",
+    "mail": "creche.breche@ville-creteil.fr",
+    "distance": 153350,
+    "latitude": 48.784469670665516,
+    "telephone": "0149809692",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Brèche",
+    "resultStructId": "270301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue de la breche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.453815110768103,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543104",
+    "mail": "hg.croixdesmeches@ville-creteil.fr",
+    "distance": 153479,
+    "latitude": 48.78732217748275,
+    "telephone": "0148984385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA CROÎX DES MECHES",
+    "resultStructId": "272301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue charpy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.452160998142781,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12538460",
+    "mail": "",
+    "distance": 153524,
+    "latitude": 48.78562067870383,
+    "telephone": "0142071448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale de la Croix des Mèches",
+    "resultStructId": "15319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la croixdes meches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.451483666479165,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "57317118",
+    "mail": "",
+    "distance": 153620,
+    "latitude": 48.80006203096902,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE ANDERSEN CRETEIL",
+    "resultStructId": "674543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 avenue marechal delattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.450855507986639,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "57317250",
+    "mail": "",
+    "distance": 153620,
+    "latitude": 48.80006203096902,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAARC EN CIEL 2",
+    "resultStructId": "674541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 avenue marechal de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.450855507986639,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "57317186",
+    "mail": "",
+    "distance": 153620,
+    "latitude": 48.80006203096902,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAARC EN CIEL 1",
+    "resultStructId": "674542",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 avenue marechal de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.450855507986639,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13066447",
+    "mail": "",
+    "distance": 153620,
+    "latitude": 48.80006203096902,
+    "telephone": "0149814450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Pierre Pipet APHP",
+    "resultStructId": "612001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 avenue mal de lattre detassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.450855507986639,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "21352743",
+    "mail": "giraudoux@berceaudesrois.fr",
+    "distance": 153655,
+    "latitude": 48.78385425536247,
+    "telephone": "0951326013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Berceaudes Rois",
+    "resultStructId": "15557",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place jean giraudoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4496321657770186,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "13056428",
+    "mail": "contact@babilou.com",
+    "distance": 153759,
+    "latitude": 48.796795765864516,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCréteil Etex",
+    "resultStructId": "547001",
+    "omegaId": "13038",
+    "avip": false,
+    "adresse": "2 rue antoine etex",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.448779270935041,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12541040",
+    "mail": "creche.levriere@ville-creteil.fr",
+    "distance": 153781,
+    "latitude": 48.79105058020058,
+    "telephone": "0148998239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDE LA LEVRIERE",
+    "resultStructId": "272201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue marechal lyautey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.448202785253416,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12541814",
+    "mail": "creche.a-pare@ville-creteil.fr",
+    "distance": 153910,
+    "latitude": 48.78742898812529,
+    "telephone": "0148983500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEAMBROISE PARE",
+    "resultStructId": "281301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue ambroise pare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.446280221330168,
+    "ville": "creteil",
+    "cp": "94000"
+  },
+  {
+    "resultId": "12543276",
+    "mail": "mc.echat@ville-creteil.fr",
+    "distance": 153977,
+    "latitude": 48.79664422462653,
+    "telephone": "0142070093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche \"de l'Echat\"",
+    "resultStructId": "271601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue thomas edison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4457864383504546,
+    "ville": "creteil",
+    "cp": "94000"
+  }
+]

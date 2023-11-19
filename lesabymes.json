@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "38960230",
+    "mail": "associationlecalin@orange.fr",
+    "distance": 1534230,
+    "latitude": 16.25577433682588,
+    "telephone": "0590828290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECALIN",
+    "resultStructId": "181206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 lotissement flory 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.51828707807806,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070575",
+    "mail": "jardindespuces@orange.fr",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590903541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheJardin des Puces",
+    "resultStructId": "632001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 cour kawasaki vieux-bourg 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070661",
+    "mail": "",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590202585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Chouchoupinets",
+    "resultStructId": "180417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "166 rue des rameaux - lot pointed'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071048",
+    "mail": "creche-sweety@live.fr",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590204949",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHESWEETY",
+    "resultStructId": "687836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee immortelle - raizet 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070618",
+    "mail": "lebelage971@yahoo.fr",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590900573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Bel Age",
+    "resultStructId": "144209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "701 residence prisca - dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "38307583",
+    "mail": "microcrecheguadeloupe@gmail.com",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590917304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO- CRECHE FOUFOU-GONGON",
+    "resultStructId": "179605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 route des amandiers raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "41087431",
+    "mail": "bik-a-ti-moun@wanadoo.fr",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590838456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIK'A TI MOUN",
+    "resultStructId": "212303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lotissement lot audebert dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071306",
+    "mail": "touchatout.971@orange.fr",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590885817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOUCHA TOUT",
+    "resultStructId": "231901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee les derbys - rue jean jaures - raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071005",
+    "mail": "",
+    "distance": 1534867,
+    "latitude": 16.271130530606335,
+    "telephone": "0590210298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheRolande LOLO-EPITER",
+    "resultStructId": "13717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "grand-camp plaine pres de l'ecolematernelle mixte ii 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071564",
+    "mail": "",
+    "distance": 1534974,
+    "latitude": 16.25626565331763,
+    "telephone": "0590831105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Raizet",
+    "resultStructId": "183304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du general leclerc 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.52991269554676,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "12575225",
+    "mail": "veschambre2@wanadoo.fr",
+    "distance": 1535271,
+    "latitude": 16.275323612873,
+    "telephone": "0590209472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIN'OURS",
+    "resultStructId": "181207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruellemarcel lollia 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50566647943821,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13069199",
+    "mail": "",
+    "distance": 1535450,
+    "latitude": 16.285120981051247,
+    "telephone": "0590207094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBambino Home",
+    "resultStructId": "13675",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite pointe d'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.49357954631861,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "38960230",
+    "mail": "associationlecalin@orange.fr",
+    "distance": 1448500,
+    "latitude": 16.25577433682588,
+    "telephone": "0590828290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECALIN",
+    "resultStructId": "181206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 lotissement flory 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.51828707807806,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070575",
+    "mail": "jardindespuces@orange.fr",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590903541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheJardin des Puces",
+    "resultStructId": "632001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 cour kawasaki vieux-bourg 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070661",
+    "mail": "",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590202585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Chouchoupinets",
+    "resultStructId": "180417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "166 rue des rameaux - lot pointed'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071048",
+    "mail": "creche-sweety@live.fr",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590204949",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHESWEETY",
+    "resultStructId": "687836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee immortelle - raizet 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070618",
+    "mail": "lebelage971@yahoo.fr",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590900573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Bel Age",
+    "resultStructId": "144209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "701 residence prisca - dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "38307583",
+    "mail": "microcrecheguadeloupe@gmail.com",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590917304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO- CRECHE FOUFOU-GONGON",
+    "resultStructId": "179605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 route des amandiers raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "41087431",
+    "mail": "bik-a-ti-moun@wanadoo.fr",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590838456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIK'A TI MOUN",
+    "resultStructId": "212303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lotissement lot audebert dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071306",
+    "mail": "touchatout.971@orange.fr",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590885817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOUCHA TOUT",
+    "resultStructId": "231901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee les derbys - rue jean jaures - raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071005",
+    "mail": "",
+    "distance": 1449054,
+    "latitude": 16.271130530606335,
+    "telephone": "0590210298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheRolande LOLO-EPITER",
+    "resultStructId": "13717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "grand-camp plaine pres de l'ecolematernelle mixte ii 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071564",
+    "mail": "",
+    "distance": 1449282,
+    "latitude": 16.25626565331763,
+    "telephone": "0590831105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Raizet",
+    "resultStructId": "183304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du general leclerc 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.52991269554676,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "12575225",
+    "mail": "veschambre2@wanadoo.fr",
+    "distance": 1449449,
+    "latitude": 16.275323612873,
+    "telephone": "0590209472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIN'OURS",
+    "resultStructId": "181207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruellemarcel lollia 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50566647943821,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13069199",
+    "mail": "",
+    "distance": 1449561,
+    "latitude": 16.285120981051247,
+    "telephone": "0590207094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBambino Home",
+    "resultStructId": "13675",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite pointe d'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.49357954631861,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "38960230",
+    "mail": "associationlecalin@orange.fr",
+    "distance": 195630,
+    "latitude": 16.25577433682588,
+    "telephone": "0590828290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECALIN",
+    "resultStructId": "181206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 lotissement flory 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.51828707807806,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071564",
+    "mail": "",
+    "distance": 196056,
+    "latitude": 16.25626565331763,
+    "telephone": "0590831105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu Raizet",
+    "resultStructId": "183304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du general leclerc 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.52991269554676,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070575",
+    "mail": "jardindespuces@orange.fr",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590903541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheJardin des Puces",
+    "resultStructId": "632001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 cour kawasaki vieux-bourg 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070661",
+    "mail": "",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590202585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Chouchoupinets",
+    "resultStructId": "180417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "166 rue des rameaux - lot pointed'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071048",
+    "mail": "creche-sweety@live.fr",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590204949",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHESWEETY",
+    "resultStructId": "687836",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee immortelle - raizet 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13070618",
+    "mail": "lebelage971@yahoo.fr",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590900573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Bel Age",
+    "resultStructId": "144209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "701 residence prisca - dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "38307583",
+    "mail": "microcrecheguadeloupe@gmail.com",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590917304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO- CRECHE FOUFOU-GONGON",
+    "resultStructId": "179605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 route des amandiers raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "41087431",
+    "mail": "bik-a-ti-moun@wanadoo.fr",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590838456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIK'A TI MOUN",
+    "resultStructId": "212303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lotissement lot audebert dugazon 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071306",
+    "mail": "touchatout.971@orange.fr",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590885817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOUCHA TOUT",
+    "resultStructId": "231901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee les derbys - rue jean jaures - raizet97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13071005",
+    "mail": "",
+    "distance": 196856,
+    "latitude": 16.271130530606335,
+    "telephone": "0590210298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheRolande LOLO-EPITER",
+    "resultStructId": "13717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "grand-camp plaine pres de l'ecolematernelle mixte ii 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50536121122125,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "12575225",
+    "mail": "veschambre2@wanadoo.fr",
+    "distance": 197312,
+    "latitude": 16.275323612873,
+    "telephone": "0590209472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIN'OURS",
+    "resultStructId": "181207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruellemarcel lollia 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.50566647943821,
+    "ville": "lesabymes",
+    "cp": ""
+  },
+  {
+    "resultId": "13069199",
+    "mail": "",
+    "distance": 197988,
+    "latitude": 16.285120981051247,
+    "telephone": "0590207094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBambino Home",
+    "resultStructId": "13675",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cite pointe d'or 97139",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -61.49357954631861,
+    "ville": "lesabymes",
+    "cp": ""
+  }
+]

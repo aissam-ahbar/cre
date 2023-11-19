@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12503630",
+    "mail": "",
+    "distance": 152338,
+    "latitude": 48.82402236798256,
+    "telephone": "0149766031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "14231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 avenue d'estienne d'orves 94340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.470021535731506,
+    "ville": "joinvillelepont",
+    "cp": ""
+  },
+  {
+    "resultId": "18185704",
+    "mail": "",
+    "distance": 152809,
+    "latitude": 48.818095909367166,
+    "telephone": "0155967412",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINILIONSJOINVILLE-LE-PONT",
+    "resultStructId": "14770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place des canadiens 94340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4631130359548203,
+    "ville": "joinvillelepont",
+    "cp": ""
+  }
+]

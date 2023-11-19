@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12838617",
+    "mail": "microcreche.champbenoist@orange.fr",
+    "distance": 158057,
+    "latitude": 48.54475904711618,
+    "telephone": "0164082587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-Crèchede CHAMPBENOIST",
+    "resultStructId": "109430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des pres de la comtese",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2943129782291782,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838445",
+    "mail": "contact@les-petits-briards.com",
+    "distance": 158945,
+    "latitude": 48.55307973244167,
+    "telephone": "0164082587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Briards",
+    "resultStructId": "8309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue georges dromigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.292856013644084,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838660",
+    "mail": "creche.municipale@mairie-provins.fr",
+    "distance": 159403,
+    "latitude": 48.55893959509509,
+    "telephone": "0164005079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale",
+    "resultStructId": "8314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue fourtier masson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.297435741286796,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838574",
+    "mail": "contact@pelucheetdoudou.fr",
+    "distance": 159443,
+    "latitude": 48.56106145487559,
+    "telephone": "0160589228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePeluche et Doudou",
+    "resultStructId": "8312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue vieille notre-dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.303347236997083,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "13024307",
+    "mail": "creche@ch-provins.fr",
+    "distance": 159479,
+    "latitude": 48.56021194146012,
+    "telephone": "0164604348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière Léon BINET",
+    "resultStructId": "45702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "bp 212 route de chalautre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2992338233665253,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838746",
+    "mail": "creche.emilie@mairie-provins.fr",
+    "distance": 159721,
+    "latitude": 48.56190599941529,
+    "telephone": "0164006052",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche d'Emilie\"",
+    "resultStructId": "8316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue valentin abeille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.296874515570143,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838574",
+    "mail": "contact@pelucheetdoudou.fr",
+    "distance": 93111,
+    "latitude": 48.56106145487559,
+    "telephone": "0160589228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePeluche et Doudou",
+    "resultStructId": "8312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 rue vieille notre-dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.303347236997083,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "13024307",
+    "mail": "creche@ch-provins.fr",
+    "distance": 93427,
+    "latitude": 48.56021194146012,
+    "telephone": "0164604348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière Léon BINET",
+    "resultStructId": "45702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "bp 212 route de chalautre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2992338233665253,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838746",
+    "mail": "creche.emilie@mairie-provins.fr",
+    "distance": 93557,
+    "latitude": 48.56190599941529,
+    "telephone": "0164006052",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche d'Emilie\"",
+    "resultStructId": "8316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue valentin abeille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.296874515570143,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838660",
+    "mail": "creche.municipale@mairie-provins.fr",
+    "distance": 93586,
+    "latitude": 48.55893959509509,
+    "telephone": "0164005079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale",
+    "resultStructId": "8314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue fourtier masson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.297435741286796,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838445",
+    "mail": "contact@les-petits-briards.com",
+    "distance": 94056,
+    "latitude": 48.55307973244167,
+    "telephone": "0164082587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Briards",
+    "resultStructId": "8309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue georges dromigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.292856013644084,
+    "ville": "provins",
+    "cp": "77160"
+  },
+  {
+    "resultId": "12838617",
+    "mail": "microcreche.champbenoist@orange.fr",
+    "distance": 94158,
+    "latitude": 48.54475904711618,
+    "telephone": "0164082587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-Crèchede CHAMPBENOIST",
+    "resultStructId": "109430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des pres de la comtese",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2943129782291782,
+    "ville": "provins",
+    "cp": "77160"
+  }
+]

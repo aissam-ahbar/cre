@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12903297",
+    "mail": "lilotcalin.cs.cours@orange.fr",
+    "distance": 127952,
+    "latitude": 46.10019675710017,
+    "telephone": "0474897643",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'ilot Câlin",
+    "resultStructId": "114102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue de la loire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.319896168507992,
+    "ville": "cours",
+    "cp": "69470"
+  }
+]

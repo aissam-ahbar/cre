@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "57730569",
+    "mail": "iletaitunefois_61@hotmail.com",
+    "distance": 127128,
+    "latitude": 48.72661940828513,
+    "telephone": "0659480629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ilétait une fois",
+    "resultStructId": "678417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue rene prieur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5806447864908798,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12980482",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 128049,
+    "latitude": 48.73386063043589,
+    "telephone": "0233642859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME",
+    "resultStructId": "282301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "284 rue rue de la miniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5726416861140642,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850020",
+    "mail": "farandole@flers-agglo.fr.fr",
+    "distance": 128817,
+    "latitude": 48.74279713671499,
+    "telephone": "0233623315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandole",
+    "resultStructId": "216701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue du mont st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5841607817433021,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850063",
+    "mail": "brindemalice@flers-agglo.fr",
+    "distance": 129087,
+    "latitude": 48.74141955310381,
+    "telephone": "0233656656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brinde Malice",
+    "resultStructId": "216702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee claude chappe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5601217780121097,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850106",
+    "mail": "les.pitchouns@orange.fr",
+    "distance": 129748,
+    "latitude": 48.75009204351355,
+    "telephone": "0233962817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPit'chouns",
+    "resultStructId": "711109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 pourtour du champ de foire- bat b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.575842923321316,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850106",
+    "mail": "les.pitchouns@orange.fr",
+    "distance": 20410,
+    "latitude": 48.75009204351355,
+    "telephone": "0233962817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPit'chouns",
+    "resultStructId": "711109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 pourtour du champ de foire- bat b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.575842923321316,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850063",
+    "mail": "brindemalice@flers-agglo.fr",
+    "distance": 21153,
+    "latitude": 48.74141955310381,
+    "telephone": "0233656656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brinde Malice",
+    "resultStructId": "216702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee claude chappe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5601217780121097,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850020",
+    "mail": "farandole@flers-agglo.fr.fr",
+    "distance": 21335,
+    "latitude": 48.74279713671499,
+    "telephone": "0233623315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandole",
+    "resultStructId": "216701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue du mont st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5841607817433021,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12980482",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 22134,
+    "latitude": 48.73386063043589,
+    "telephone": "0233642859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME",
+    "resultStructId": "282301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "284 rue rue de la miniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5726416861140642,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "57730569",
+    "mail": "iletaitunefois_61@hotmail.com",
+    "distance": 23037,
+    "latitude": 48.72661940828513,
+    "telephone": "0659480629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ilétait une fois",
+    "resultStructId": "678417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue rene prieur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5806447864908798,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "57730569",
+    "mail": "iletaitunefois_61@hotmail.com",
+    "distance": 127128,
+    "latitude": 48.72661940828513,
+    "telephone": "0659480629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ilétait une fois",
+    "resultStructId": "678417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue rene prieur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5806447864908798,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12980482",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 128049,
+    "latitude": 48.73386063043589,
+    "telephone": "0233642859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME",
+    "resultStructId": "282301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "284 rue rue de la miniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5726416861140642,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850020",
+    "mail": "farandole@flers-agglo.fr.fr",
+    "distance": 128817,
+    "latitude": 48.74279713671499,
+    "telephone": "0233623315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandole",
+    "resultStructId": "216701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue du mont st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5841607817433021,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850063",
+    "mail": "brindemalice@flers-agglo.fr",
+    "distance": 129087,
+    "latitude": 48.74141955310381,
+    "telephone": "0233656656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brinde Malice",
+    "resultStructId": "216702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee claude chappe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5601217780121097,
+    "ville": "flers",
+    "cp": "61100"
+  },
+  {
+    "resultId": "12850106",
+    "mail": "les.pitchouns@orange.fr",
+    "distance": 129748,
+    "latitude": 48.75009204351355,
+    "telephone": "0233962817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPit'chouns",
+    "resultStructId": "711109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 pourtour du champ de foire- bat b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.575842923321316,
+    "ville": "flers",
+    "cp": "61100"
+  }
+]

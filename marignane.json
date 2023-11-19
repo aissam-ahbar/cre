@@ -1,0 +1,770 @@
+[
+  {
+    "resultId": "12531236",
+    "mail": "marignane@creches-du-sud.fr",
+    "distance": 49549,
+    "latitude": 43.41469133444857,
+    "telephone": "0442313032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PANDAS",
+    "resultStructId": "197919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue marius ruinat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.20719574304868,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128673",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 49699,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE PETIT PRINCE MARIGNANE",
+    "resultStructId": "197107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576214",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 49699,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLA PLANETE BLEUE",
+    "resultStructId": "197108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128989",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 49837,
+    "latitude": 43.41301675870344,
+    "telephone": "0442311175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACl'île des enfants",
+    "resultStructId": "28810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210164491605193,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128874",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 49886,
+    "latitude": 43.41334673928683,
+    "telephone": "0442752558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELi Parpaioun Marignane",
+    "resultStructId": "197109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210963383473274,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12721046",
+    "mail": "marignane-lesflorides@creches-du-sud.fr",
+    "distance": 50095,
+    "latitude": 43.41714231341305,
+    "telephone": "0442313160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PILOTES",
+    "resultStructId": "199002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jacqueline auriol.floricity",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215467045504324,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576429",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 50858,
+    "latitude": 43.418182256425254,
+    "telephone": "0442311415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLE CAP FRIMOUSSE",
+    "resultStructId": "197110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du couvent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.22588618394456,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18411588",
+    "mail": "contact@pure-baby.fr",
+    "distance": 51173,
+    "latitude": 43.422572866993264,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEDoudou Lapin",
+    "resultStructId": "195309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de carthage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.231917261063136,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18411588",
+    "mail": "contact@pure-baby.fr",
+    "distance": 346312,
+    "latitude": 43.422572866993264,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEDoudou Lapin",
+    "resultStructId": "195309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de carthage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.231917261063136,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576429",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 346572,
+    "latitude": 43.418182256425254,
+    "telephone": "0442311415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLE CAP FRIMOUSSE",
+    "resultStructId": "197110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du couvent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.22588618394456,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12721046",
+    "mail": "marignane-lesflorides@creches-du-sud.fr",
+    "distance": 347305,
+    "latitude": 43.41714231341305,
+    "telephone": "0442313160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PILOTES",
+    "resultStructId": "199002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jacqueline auriol.floricity",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215467045504324,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128874",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 347479,
+    "latitude": 43.41334673928683,
+    "telephone": "0442752558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELi Parpaioun Marignane",
+    "resultStructId": "197109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210963383473274,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128989",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 347524,
+    "latitude": 43.41301675870344,
+    "telephone": "0442311175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACl'île des enfants",
+    "resultStructId": "28810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210164491605193,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128673",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 347701,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE PETIT PRINCE MARIGNANE",
+    "resultStructId": "197107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576214",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 347701,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLA PLANETE BLEUE",
+    "resultStructId": "197108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12531236",
+    "mail": "marignane@creches-du-sud.fr",
+    "distance": 347817,
+    "latitude": 43.41469133444857,
+    "telephone": "0442313032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PANDAS",
+    "resultStructId": "197919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue marius ruinat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.20719574304868,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12531236",
+    "mail": "marignane@creches-du-sud.fr",
+    "distance": 107635,
+    "latitude": 43.41469133444857,
+    "telephone": "0442313032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PANDAS",
+    "resultStructId": "197919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue marius ruinat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.20719574304868,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128673",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 107848,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE PETIT PRINCE MARIGNANE",
+    "resultStructId": "197107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576214",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 107848,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLA PLANETE BLEUE",
+    "resultStructId": "197108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128989",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 107907,
+    "latitude": 43.41301675870344,
+    "telephone": "0442311175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACl'île des enfants",
+    "resultStructId": "28810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210164491605193,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128874",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 107963,
+    "latitude": 43.41334673928683,
+    "telephone": "0442752558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELi Parpaioun Marignane",
+    "resultStructId": "197109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210963383473274,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12721046",
+    "mail": "marignane-lesflorides@creches-du-sud.fr",
+    "distance": 108237,
+    "latitude": 43.41714231341305,
+    "telephone": "0442313160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PILOTES",
+    "resultStructId": "199002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jacqueline auriol.floricity",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215467045504324,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576429",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 109040,
+    "latitude": 43.418182256425254,
+    "telephone": "0442311415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLE CAP FRIMOUSSE",
+    "resultStructId": "197110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du couvent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.22588618394456,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18411588",
+    "mail": "contact@pure-baby.fr",
+    "distance": 109426,
+    "latitude": 43.422572866993264,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEDoudou Lapin",
+    "resultStructId": "195309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de carthage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.231917261063136,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18411588",
+    "mail": "contact@pure-baby.fr",
+    "distance": 89359,
+    "latitude": 43.422572866993264,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEDoudou Lapin",
+    "resultStructId": "195309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de carthage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.231917261063136,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576429",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 90048,
+    "latitude": 43.418182256425254,
+    "telephone": "0442311415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLE CAP FRIMOUSSE",
+    "resultStructId": "197110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du couvent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.22588618394456,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12721046",
+    "mail": "marignane-lesflorides@creches-du-sud.fr",
+    "distance": 90752,
+    "latitude": 43.41714231341305,
+    "telephone": "0442313160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PILOTES",
+    "resultStructId": "199002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jacqueline auriol.floricity",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215467045504324,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128673",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 90924,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE PETIT PRINCE MARIGNANE",
+    "resultStructId": "197107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12576214",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 90924,
+    "latitude": 43.41852068632468,
+    "telephone": "0442311260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLA PLANETE BLEUE",
+    "resultStructId": "197108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place paul codos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210936734229081,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128874",
+    "mail": "petite-enfance@ville-marignane.fr",
+    "distance": 91305,
+    "latitude": 43.41334673928683,
+    "telephone": "0442752558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELi Parpaioun Marignane",
+    "resultStructId": "197109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210963383473274,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "18128989",
+    "mail": "desl@ville-marignane.fr",
+    "distance": 91377,
+    "latitude": 43.41301675870344,
+    "telephone": "0442311175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACl'île des enfants",
+    "resultStructId": "28810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.210164491605193,
+    "ville": "marignane",
+    "cp": "13700"
+  },
+  {
+    "resultId": "12531236",
+    "mail": "marignane@creches-du-sud.fr",
+    "distance": 91433,
+    "latitude": 43.41469133444857,
+    "telephone": "0442313032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PANDAS",
+    "resultStructId": "197919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue marius ruinat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.20719574304868,
+    "ville": "marignane",
+    "cp": "13700"
+  }
+]

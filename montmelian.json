@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12529688",
+    "mail": "",
+    "distance": 445461,
+    "latitude": 45.50276167479831,
+    "telephone": "0479449704",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet 1 - Village des Enfants",
+    "resultStructId": "700743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "418 avenue edouardherriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0652837250892455,
+    "ville": "montmelian",
+    "cp": "73800"
+  },
+  {
+    "resultId": "58283355",
+    "mail": "melimelou.microcreche@gmail.com",
+    "distance": 445650,
+    "latitude": 45.500458835617145,
+    "telephone": "0629203294",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MéliMélou",
+    "resultStructId": "683214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue antoine borrel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.056162179487642,
+    "ville": "montmelian",
+    "cp": "73800"
+  },
+  {
+    "resultId": "58283355",
+    "mail": "melimelou.microcreche@gmail.com",
+    "distance": 171653,
+    "latitude": 45.500458835617145,
+    "telephone": "0629203294",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MéliMélou",
+    "resultStructId": "683214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue antoine borrel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.056162179487642,
+    "ville": "montmelian",
+    "cp": "73800"
+  },
+  {
+    "resultId": "12529688",
+    "mail": "",
+    "distance": 171908,
+    "latitude": 45.50276167479831,
+    "telephone": "0479449704",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet 1 - Village des Enfants",
+    "resultStructId": "700743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "418 avenue edouardherriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0652837250892455,
+    "ville": "montmelian",
+    "cp": "73800"
+  }
+]

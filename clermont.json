@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12772397",
+    "mail": "guichet.unique@pays-clermontois.fr",
+    "distance": 123156,
+    "latitude": 49.3847129281864,
+    "telephone": "0344685080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"MAISON DE LA PETITE ENFANCE\" CLERMONT",
+    "resultStructId": "110001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57place wenceslas coutellier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.402908985311796,
+    "ville": "clermont",
+    "cp": "60600"
+  }
+]

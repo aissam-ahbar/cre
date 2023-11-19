@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12522679",
+    "mail": "leslutins@laravoire.com",
+    "distance": 455130,
+    "latitude": 45.55920136736286,
+    "telephone": "0479725700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "706529",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de l'hotel de ville 73490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963326801491953,
+    "ville": "laravoire",
+    "cp": ""
+  },
+  {
+    "resultId": "58375497",
+    "mail": "j.yvrai@lesbambinsdabord.fr",
+    "distance": 455651,
+    "latitude": 45.56405379721789,
+    "telephone": "0769836331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBAMBINS D ABORD",
+    "resultStructId": "683844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue bertrand de la perousse 73490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.961595520930744,
+    "ville": "laravoire",
+    "cp": ""
+  },
+  {
+    "resultId": "41267668",
+    "mail": "microcreche@laravoire.com",
+    "distance": 456153,
+    "latitude": 45.57225707852213,
+    "telephone": "0964145036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHELES LUCIOLES",
+    "resultStructId": "706530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "245 rue de la dent du chat 73490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.967202845131371,
+    "ville": "laravoire",
+    "cp": ""
+  }
+]

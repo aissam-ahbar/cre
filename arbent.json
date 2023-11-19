@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59809566",
+    "mail": "microcrecheleslutain@gmail.com",
+    "distance": 157345,
+    "latitude": 46.2921709534239,
+    "telephone": "0788041597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Lut'Ain",
+    "resultStructId": "700118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.6805626093814965,
+    "ville": "arbent",
+    "cp": "01100"
+  },
+  {
+    "resultId": "12858147",
+    "mail": "csocial.arbent@wibox.fr",
+    "distance": 158148,
+    "latitude": 46.27978851562745,
+    "telephone": "0474738385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES EPICEAS",
+    "resultStructId": "8767",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1400 avenue general andrea",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.678110975822258,
+    "ville": "arbent",
+    "cp": "01100"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12690559",
+    "mail": "",
+    "distance": 185292,
+    "latitude": 45.5880187858883,
+    "telephone": "0477364733",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Gargalous\"",
+    "resultStructId": "4840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "za de villedieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.406681308451024,
+    "ville": "chevrieres",
+    "cp": "42140"
+  },
+  {
+    "resultId": "27747938",
+    "mail": "lesgargalous@cc-mdl.fr",
+    "distance": 185309,
+    "latitude": 45.58798177533341,
+    "telephone": "0477364733",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Gargalous",
+    "resultStructId": "41303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 zone artisanale de villedieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.408375533785729,
+    "ville": "chevrieres",
+    "cp": "42140"
+  },
+  {
+    "resultId": "13058492",
+    "mail": "hg@cc-pe.fr",
+    "distance": 152125,
+    "latitude": 49.34690864525077,
+    "telephone": "0344418325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE \"CARAMELLE\" CC DE LA PLAINE D'ESTREES-CHEVRIERES",
+    "resultStructId": "97615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue de beauvais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6804876056775004,
+    "ville": "chevrieres",
+    "cp": "60710"
+  },
+  {
+    "resultId": "13058492",
+    "mail": "hg@cc-pe.fr",
+    "distance": 125293,
+    "latitude": 49.34690864525077,
+    "telephone": "0344418325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE \"CARAMELLE\" CC DE LA PLAINE D'ESTREES-CHEVRIERES",
+    "resultStructId": "97615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue de beauvais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6804876056775004,
+    "ville": "chevrieres",
+    "cp": "60710"
+  }
+]

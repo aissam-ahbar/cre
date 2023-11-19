@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "43503960",
+    "mail": "aupaysdesmerveilles@cchpm.fr",
+    "distance": 60406,
+    "latitude": 50.57212006203322,
+    "telephone": "0321059635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuPays des Merveilles",
+    "resultStructId": "689638",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue d'hucqueliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8788700475813311,
+    "ville": "preures",
+    "cp": "62650"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "resultId": "13020214",
+    "mail": "lecarrousel@les-cherubins.com",
+    "distance": 31608,
+    "latitude": 50.65119827585846,
+    "telephone": "0328535692",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCarrousel",
+    "resultStructId": "12536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 ter rue du parc 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0682931544981975,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12813247",
+    "mail": "",
+    "distance": 31642,
+    "latitude": 50.65287587672298,
+    "telephone": "0320745707",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRuche",
+    "resultStructId": "7723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de flandre 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0667910202838784,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12690172",
+    "mail": "la.madeleine@lpcr.fr",
+    "distance": 31665,
+    "latitude": 50.64627458276459,
+    "telephone": "0383221907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges La Madeleine",
+    "resultStructId": "4831",
+    "omegaId": "11660",
+    "avip": false,
+    "adresse": "101 avenue de larepublique 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.07536971896267,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12813333",
+    "mail": "ass.lavoliere@orange.fr",
+    "distance": 31831,
+    "latitude": 50.653230583701976,
+    "telephone": "0320310821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmarmottes",
+    "resultStructId": "7725",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue gantois 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0697779652046764,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "25127391",
+    "mail": "alainlemarchadour@people-and-baby.com",
+    "distance": 32047,
+    "latitude": 50.65500746703238,
+    "telephone": "0954550518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Alain le Marc Hadour\"",
+    "resultStructId": "401201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue gambetta 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.07145555328133,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12710597",
+    "mail": "madeleine.hadour@lpcr.fr",
+    "distance": 32063,
+    "latitude": 50.65509744444763,
+    "telephone": "0383222519",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMadeleine Hadour",
+    "resultStructId": "5306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue gambetta 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0716321387820864,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12508231",
+    "mail": "contact@babilou.com",
+    "distance": 32113,
+    "latitude": 50.654047592604705,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLa Madeleine Promenades",
+    "resultStructId": "543201",
+    "omegaId": "15293",
+    "avip": false,
+    "adresse": "1 rue des promenades (batiment le tertial) 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073881419121575,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "49986930",
+    "mail": "lesgazouillisdespetits@people-and-baby.com",
+    "distance": 32113,
+    "latitude": 50.654047592604705,
+    "telephone": "0384496354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE\"LESGAZOUILLIS DES PETITS\"",
+    "resultStructId": "401001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 allee vauban, residenceplein ciel 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073881419121575,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "49987414",
+    "mail": "larecredesbebes@people-and-baby.com",
+    "distance": 32113,
+    "latitude": 50.654047592604705,
+    "telephone": "0984496354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE\"LA RECRE DES BEBES\"",
+    "resultStructId": "401102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 allee vauban, residence pleinciel 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073881419121575,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "12813204",
+    "mail": "ass.lavoliere@orange.fr",
+    "distance": 32291,
+    "latitude": 50.65506161317471,
+    "telephone": "0320515082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leszebulons",
+    "resultStructId": "7722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue fontaine 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.07583078138049,
+    "ville": "lamadeleine",
+    "cp": ""
+  },
+  {
+    "resultId": "13016430",
+    "mail": "lafarandole@les-cherubins.com",
+    "distance": 32344,
+    "latitude": 50.65662024827993,
+    "telephone": "0320423748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "12448",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de turenne 59110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0748194186575306,
+    "ville": "lamadeleine",
+    "cp": ""
+  }
+]

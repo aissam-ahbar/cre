@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13075391",
+    "mail": "millepattes@lpcr.fr",
+    "distance": 189635,
+    "latitude": 48.83690005224788,
+    "telephone": "0130566164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MILLE PATTES",
+    "resultStructId": "677009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 chemin des princes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.072456843505457,
+    "ville": "bailly",
+    "cp": "78870"
+  },
+  {
+    "resultId": "57595223",
+    "mail": "bailly@liveli.fr",
+    "distance": 190005,
+    "latitude": 48.83892248495128,
+    "telephone": "0171497225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BAILLY HALTE",
+    "resultStructId": "676915",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 impasse de la halte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.077748570890546,
+    "ville": "bailly",
+    "cp": "78870"
+  }
+]

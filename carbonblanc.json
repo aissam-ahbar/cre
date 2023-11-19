@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12518250",
+    "mail": "multi-accueil@carbon-blanc.fr",
+    "distance": 64403,
+    "latitude": 44.892412842724646,
+    "telephone": "0557959549",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil RIBAMBELLE",
+    "resultStructId": "689008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue pasteur 33560",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5119689719874616,
+    "ville": "carbonblanc",
+    "cp": ""
+  },
+  {
+    "resultId": "12518293",
+    "mail": "creche@carbon-blanc.fr",
+    "distance": 64403,
+    "latitude": 44.892412842724646,
+    "telephone": "0557959548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE Carbon-Blanc",
+    "resultStructId": "689009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue pasteur 33560",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5119689719874616,
+    "ville": "carbonblanc",
+    "cp": ""
+  },
+  {
+    "resultId": "58981674",
+    "mail": "lartdesbebes@gmail.com",
+    "distance": 65564,
+    "latitude": 44.90669836850287,
+    "telephone": "0749543439",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRÈCHEL'ART DES BÉBÉS - ZOUZOU",
+    "resultStructId": "691408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue racine 33560",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.49885268648743236,
+    "ville": "carbonblanc",
+    "cp": ""
+  }
+]

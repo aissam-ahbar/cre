@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12498083",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 60344,
+    "latitude": 47.268917062090644,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRaguenotte",
+    "resultStructId": "364",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des sonnailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5982662825260938,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12621407",
+    "mail": "cabanesadoudous@free.fr",
+    "distance": 60751,
+    "latitude": 47.24900667268031,
+    "telephone": "0240400993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COMME TROIS POMMES",
+    "resultStructId": "3232",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue felix vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5798897631743636,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "60316045",
+    "mail": "contact@lesptitesmadeleines.fr",
+    "distance": 61169,
+    "latitude": 47.245887863732335,
+    "telephone": "0981750433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites madeleines",
+    "resultStructId": "708717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des lilas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5832002067525563,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "37661514",
+    "mail": "contact@babilou.com",
+    "distance": 61417,
+    "latitude": 47.25664955746857,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLes Bambins du Petit Chantilly",
+    "resultStructId": "559901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue d'auteuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6016067323618508,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "56802673",
+    "mail": "deej-petite-enfance@mairie-orvault.fr",
+    "distance": 61644,
+    "latitude": 47.247838456778275,
+    "telephone": "0251783309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPousses d'Or",
+    "resultStructId": "664101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis rue alfred nobel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.594258102510887,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "34686916",
+    "mail": "orvault@farandoles-galipettes.fr",
+    "distance": 61691,
+    "latitude": 47.27417482894777,
+    "telephone": "0962684253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandoleset Galipettes",
+    "resultStructId": "126704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue du patureau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.627491690743633,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "43746190",
+    "mail": "deej-petite-enfance@mairie-orvault.fr",
+    "distance": 61736,
+    "latitude": 47.244863066865314,
+    "telephone": "0240632703",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCourte Echelle (2)",
+    "resultStructId": "662701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis avenue de la jeunesse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.59195877408555,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12497137",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61744,
+    "latitude": 47.270842503875336,
+    "telephone": "0251783292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "342",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue du pont marchand - la bugalliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6245080987369027,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12498470",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61744,
+    "latitude": 47.270842503875336,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "373",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de basse indre - le haut cormier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6245080987369027,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12493474",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61989,
+    "latitude": 47.27213536181879,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "257",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue du landreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6301569289892222,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12485304",
+    "mail": "",
+    "distance": 62069,
+    "latitude": 47.2451698735055,
+    "telephone": "0240408787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCroquignoles",
+    "resultStructId": "67",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la botte d'asperges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5982900792961436,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "37576374",
+    "mail": "ma-zephirandco-pdl@vyv3.fr",
+    "distance": 62474,
+    "latitude": 47.26139749406045,
+    "telephone": "0285298040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ZEPHIR& CO",
+    "resultStructId": "157703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue clement ader",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6257268816014907,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12498083",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 60344,
+    "latitude": 47.268917062090644,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRaguenotte",
+    "resultStructId": "364",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des sonnailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5982662825260938,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12621407",
+    "mail": "cabanesadoudous@free.fr",
+    "distance": 60751,
+    "latitude": 47.24900667268031,
+    "telephone": "0240400993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COMME TROIS POMMES",
+    "resultStructId": "3232",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue felix vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5798897631743636,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "60316045",
+    "mail": "contact@lesptitesmadeleines.fr",
+    "distance": 61169,
+    "latitude": 47.245887863732335,
+    "telephone": "0981750433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites madeleines",
+    "resultStructId": "708717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des lilas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5832002067525563,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "37661514",
+    "mail": "contact@babilou.com",
+    "distance": 61417,
+    "latitude": 47.25664955746857,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLes Bambins du Petit Chantilly",
+    "resultStructId": "559901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue d'auteuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6016067323618508,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "56802673",
+    "mail": "deej-petite-enfance@mairie-orvault.fr",
+    "distance": 61644,
+    "latitude": 47.247838456778275,
+    "telephone": "0251783309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPousses d'Or",
+    "resultStructId": "664101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis rue alfred nobel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.594258102510887,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "34686916",
+    "mail": "orvault@farandoles-galipettes.fr",
+    "distance": 61691,
+    "latitude": 47.27417482894777,
+    "telephone": "0962684253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandoleset Galipettes",
+    "resultStructId": "126704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue du patureau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.627491690743633,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "43746190",
+    "mail": "deej-petite-enfance@mairie-orvault.fr",
+    "distance": 61736,
+    "latitude": 47.244863066865314,
+    "telephone": "0240632703",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCourte Echelle (2)",
+    "resultStructId": "662701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis avenue de la jeunesse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.59195877408555,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12497137",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61744,
+    "latitude": 47.270842503875336,
+    "telephone": "0251783292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "342",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue du pont marchand - la bugalliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6245080987369027,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12498470",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61744,
+    "latitude": 47.270842503875336,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "373",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de basse indre - le haut cormier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6245080987369027,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12493474",
+    "mail": "contact@mairie-orvault.fr",
+    "distance": 61989,
+    "latitude": 47.27213536181879,
+    "telephone": "0251783282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "257",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue du landreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6301569289892222,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "12485304",
+    "mail": "",
+    "distance": 62069,
+    "latitude": 47.2451698735055,
+    "telephone": "0240408787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCroquignoles",
+    "resultStructId": "67",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la botte d'asperges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5982900792961436,
+    "ville": "orvault",
+    "cp": "44700"
+  },
+  {
+    "resultId": "37576374",
+    "mail": "ma-zephirandco-pdl@vyv3.fr",
+    "distance": 62474,
+    "latitude": 47.26139749406045,
+    "telephone": "0285298040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ZEPHIR& CO",
+    "resultStructId": "157703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue clement ader",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6257268816014907,
+    "ville": "orvault",
+    "cp": "44700"
+  }
+]

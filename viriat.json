@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12855309",
+    "mail": "premierpas@viriat.fr",
+    "distance": 136514,
+    "latitude": 46.255703429055224,
+    "telephone": "0474251633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE PREMIER PAS",
+    "resultStructId": "8701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "79 chemin de thevenon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.214063775842361,
+    "ville": "viriat",
+    "cp": "01440"
+  },
+  {
+    "resultId": "12858448",
+    "mail": "maindanlamain@viriat.fr",
+    "distance": 136514,
+    "latitude": 46.255703429055224,
+    "telephone": "0474251187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MAIN DANS LA MAIN",
+    "resultStructId": "565301",
+    "omegaId": "1902",
+    "avip": false,
+    "adresse": "79 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.214063775842361,
+    "ville": "viriat",
+    "cp": "01440"
+  },
+  {
+    "resultId": "12771494",
+    "mail": "premierpas@viriat.fr",
+    "distance": 140498,
+    "latitude": 46.212517785975955,
+    "telephone": "0474224298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MUNICIPALE",
+    "resultStructId": "372701",
+    "omegaId": "12911",
+    "avip": false,
+    "adresse": "171 avenue de macon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215591208114561,
+    "ville": "viriat",
+    "cp": "01440"
+  }
+]

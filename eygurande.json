@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12961734",
+    "mail": "creche@chpe.fr",
+    "distance": 160447,
+    "latitude": 45.66270864131061,
+    "telephone": "0555942722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEdu Centre Hospitalier du Pays d' EYGURANDE",
+    "resultStructId": "11176",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 route dela pouge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4556323968710156,
+    "ville": "eygurande",
+    "cp": "19340"
+  }
+]

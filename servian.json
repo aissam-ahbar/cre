@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12801379",
+    "mail": "creche@ccas-servian.fr",
+    "distance": 107699,
+    "latitude": 43.425866841521994,
+    "telephone": "0467322291",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLos Pitchonets",
+    "resultStructId": "436001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 grand'rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.303192082669722,
+    "ville": "servian",
+    "cp": "34290"
+  },
+  {
+    "resultId": "12801379",
+    "mail": "creche@ccas-servian.fr",
+    "distance": 51578,
+    "latitude": 43.425866841521994,
+    "telephone": "0467322291",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLos Pitchonets",
+    "resultStructId": "436001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 grand'rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.303192082669722,
+    "ville": "servian",
+    "cp": "34290"
+  }
+]

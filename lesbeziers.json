@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12801078",
+    "mail": "creche@villeneuve-les-beziers.fr",
+    "distance": 111543,
+    "latitude": 43.31471407538608,
+    "telephone": "0467392790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilPamplemousse",
+    "resultStructId": "689920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des mimosas 34420 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2856051934280246,
+    "ville": "lesbeziers",
+    "cp": ""
+  },
+  {
+    "resultId": "12816773",
+    "mail": "n.martinez.creche@mairiecazoulslesbeziers.fr",
+    "distance": 124181,
+    "latitude": 43.39103623306422,
+    "telephone": "0499437868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Petits Filous à Cazouls lès Béziers",
+    "resultStructId": "7805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bisavenue jean jaures 34370 cazouls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.10412960274777,
+    "ville": "lesbeziers",
+    "cp": ""
+  },
+  {
+    "resultId": "12801078",
+    "mail": "creche@villeneuve-les-beziers.fr",
+    "distance": 58564,
+    "latitude": 43.31471407538608,
+    "telephone": "0467392790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilPamplemousse",
+    "resultStructId": "689920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des mimosas 34420 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2856051934280246,
+    "ville": "lesbeziers",
+    "cp": ""
+  },
+  {
+    "resultId": "12816773",
+    "mail": "n.martinez.creche@mairiecazoulslesbeziers.fr",
+    "distance": 67978,
+    "latitude": 43.39103623306422,
+    "telephone": "0499437868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Petits Filous à Cazouls lès Béziers",
+    "resultStructId": "7805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bisavenue jean jaures 34370 cazouls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.10412960274777,
+    "ville": "lesbeziers",
+    "cp": ""
+  }
+]

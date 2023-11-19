@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "22377835",
+    "mail": "leroyaumedestoutpetits@gmail.com",
+    "distance": 112482,
+    "latitude": 49.73741218484797,
+    "telephone": "0695112917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Le royaume Des Tout Petits",
+    "resultStructId": "18503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue ravaude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.704624122985399,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12688452",
+    "mail": "christine.pequegnot@mairie-charlevillemezieres.fr",
+    "distance": 113407,
+    "latitude": 49.744499137716836,
+    "telephone": "0324574376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFerroul",
+    "resultStructId": "19103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue ferroul 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.722580897802008,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "21747729",
+    "mail": "contact@minikids.fr",
+    "distance": 115100,
+    "latitude": 49.760050238805675,
+    "telephone": "0324327135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Mini kids",
+    "resultStructId": "16202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue bourdon 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.719492041269383,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12749005",
+    "mail": "",
+    "distance": 115192,
+    "latitude": 49.762142767340286,
+    "telephone": "0324587228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilhospitalier - Le berceau d'Arthur",
+    "resultStructId": "22703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue demanchester 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.701210078020998,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12689011",
+    "mail": "corinne.clarinval@mairie-charlevillemezieres.fr",
+    "distance": 115200,
+    "latitude": 49.76191802204313,
+    "telephone": "0324562796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale M.P.E",
+    "resultStructId": "19101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de warcq 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.705662331504326,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12688968",
+    "mail": "stephanie.heller@mairie-charlevillemezieres.fr",
+    "distance": 115274,
+    "latitude": 49.76172813720885,
+    "telephone": "0324377870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche Mialaret",
+    "resultStructId": "20008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 quai mialaret 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.718033977382221,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12749693",
+    "mail": "sect.petitenfance.csmanchester@gmail.com",
+    "distance": 115339,
+    "latitude": 49.76404214608258,
+    "telephone": "0324576897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie - Les Calinous",
+    "resultStructId": "157801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue jules raulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.692116223290892,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12748360",
+    "mail": "lesaventuresdegrooky@micro-baby.com",
+    "distance": 115647,
+    "latitude": 49.7649282785214,
+    "telephone": "0984493688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les aventures de Grooky\"",
+    "resultStructId": "86301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard du prefet frain08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7204508368304685,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12748317",
+    "mail": "ducoconaupapillon@micro-baby.com",
+    "distance": 115647,
+    "latitude": 49.7649282785214,
+    "telephone": "0984493688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Du Cocon au Papillon\"",
+    "resultStructId": "86303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard du prefet frain08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7204508368304685,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12688925",
+    "mail": "gauthier.feret-du-longbois@mairie-charlevillemezieres.fr",
+    "distance": 116804,
+    "latitude": 49.7755757347934,
+    "telephone": "0324332653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGonzague",
+    "resultStructId": "694808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de gonzague 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.718040928195191,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12748962",
+    "mail": "lesmarmousets@outlook.com",
+    "distance": 117359,
+    "latitude": 49.78108907866762,
+    "telephone": "0324593075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie- Les Marmousets",
+    "resultStructId": "18401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue camille pelletan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.710826530683011,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12718767",
+    "mail": "karine.damperon@mairie-charlevillemezieres.fr",
+    "distance": 117837,
+    "latitude": 49.785329582398454,
+    "telephone": "0324590358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHarar",
+    "resultStructId": "20010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue harar 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.712141089749621,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12749693",
+    "mail": "sect.petitenfance.csmanchester@gmail.com",
+    "distance": 161269,
+    "latitude": 49.76404214608258,
+    "telephone": "0324576897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie - Les Calinous",
+    "resultStructId": "157801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue jules raulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.692116223290892,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12718767",
+    "mail": "karine.damperon@mairie-charlevillemezieres.fr",
+    "distance": 161352,
+    "latitude": 49.785329582398454,
+    "telephone": "0324590358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHarar",
+    "resultStructId": "20010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue harar 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.712141089749621,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12748962",
+    "mail": "lesmarmousets@outlook.com",
+    "distance": 161499,
+    "latitude": 49.78108907866762,
+    "telephone": "0324593075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie- Les Marmousets",
+    "resultStructId": "18401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue camille pelletan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.710826530683011,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12749005",
+    "mail": "",
+    "distance": 161940,
+    "latitude": 49.762142767340286,
+    "telephone": "0324587228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilhospitalier - Le berceau d'Arthur",
+    "resultStructId": "22703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue demanchester 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.701210078020998,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12689011",
+    "mail": "corinne.clarinval@mairie-charlevillemezieres.fr",
+    "distance": 162229,
+    "latitude": 49.76191802204313,
+    "telephone": "0324562796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale M.P.E",
+    "resultStructId": "19101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de warcq 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.705662331504326,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12688925",
+    "mail": "gauthier.feret-du-longbois@mairie-charlevillemezieres.fr",
+    "distance": 162251,
+    "latitude": 49.7755757347934,
+    "telephone": "0324332653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGonzague",
+    "resultStructId": "694808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de gonzague 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.718040928195191,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12748360",
+    "mail": "lesaventuresdegrooky@micro-baby.com",
+    "distance": 162985,
+    "latitude": 49.7649282785214,
+    "telephone": "0984493688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les aventures de Grooky\"",
+    "resultStructId": "86301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard du prefet frain08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7204508368304685,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12748317",
+    "mail": "ducoconaupapillon@micro-baby.com",
+    "distance": 162985,
+    "latitude": 49.7649282785214,
+    "telephone": "0984493688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Du Cocon au Papillon\"",
+    "resultStructId": "86303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard du prefet frain08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7204508368304685,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12688968",
+    "mail": "stephanie.heller@mairie-charlevillemezieres.fr",
+    "distance": 163010,
+    "latitude": 49.76172813720885,
+    "telephone": "0324377870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche Mialaret",
+    "resultStructId": "20008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 quai mialaret 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.718033977382221,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "21747729",
+    "mail": "contact@minikids.fr",
+    "distance": 163194,
+    "latitude": 49.760050238805675,
+    "telephone": "0324327135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Mini kids",
+    "resultStructId": "16202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue bourdon 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.719492041269383,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  },
+  {
+    "resultId": "22377835",
+    "mail": "leroyaumedestoutpetits@gmail.com",
+    "distance": 163543,
+    "latitude": 49.73741218484797,
+    "telephone": "0695112917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Le royaume Des Tout Petits",
+    "resultStructId": "18503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue ravaude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.704624122985399,
+    "ville": "charlevillemezieres",
+    "cp": "08000"
+  },
+  {
+    "resultId": "12688452",
+    "mail": "christine.pequegnot@mairie-charlevillemezieres.fr",
+    "distance": 164253,
+    "latitude": 49.744499137716836,
+    "telephone": "0324574376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFerroul",
+    "resultStructId": "19103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue ferroul 08000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.722580897802008,
+    "ville": "charlevillemezieres",
+    "cp": ""
+  }
+]

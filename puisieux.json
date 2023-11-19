@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12840345",
+    "mail": "lespetitsmultiens@hotmail.fr",
+    "distance": 124732,
+    "latitude": 49.06555822253006,
+    "telephone": "0160253467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Multiens",
+    "resultStructId": "8353",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9154331154134794,
+    "ville": "puisieux",
+    "cp": "77139"
+  },
+  {
+    "resultId": "12840345",
+    "mail": "lespetitsmultiens@hotmail.fr",
+    "distance": 157180,
+    "latitude": 49.06555822253006,
+    "telephone": "0160253467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Multiens",
+    "resultStructId": "8353",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9154331154134794,
+    "ville": "puisieux",
+    "cp": "77139"
+  }
+]

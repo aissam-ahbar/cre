@@ -1,0 +1,52 @@
+[
+  {
+    "resultId": "46759130",
+    "mail": "pirouette@cpremery.fr",
+    "distance": 62642,
+    "latitude": 47.177072442660965,
+    "telephone": "0781766920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIEPIROUETTE",
+    "resultStructId": "671808",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "10 place de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3301433866141528,
+    "ville": "premery",
+    "cp": "58700"
+  },
+  {
+    "resultId": "46759130",
+    "mail": "pirouette@cpremery.fr",
+    "distance": 126270,
+    "latitude": 47.177072442660965,
+    "telephone": "0781766920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIEPIROUETTE",
+    "resultStructId": "671808",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "10 place de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3301433866141528,
+    "ville": "premery",
+    "cp": "58700"
+  }
+]

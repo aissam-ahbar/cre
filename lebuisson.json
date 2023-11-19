@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12746554",
+    "mail": "lavaudonniere@verrieres-le-buisson.fr",
+    "distance": 197626,
+    "latitude": 48.73916684813866,
+    "telephone": "0160112616",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaVaudonnière",
+    "resultStructId": "6172",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de la vaudonniere 91370 verrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.249557783634842,
+    "ville": "lebuisson",
+    "cp": ""
+  },
+  {
+    "resultId": "12746511",
+    "mail": "pouponniere@verrieres-le-buisson.fr",
+    "distance": 198962,
+    "latitude": 48.748586810602255,
+    "telephone": "0169530858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPouponnière",
+    "resultStructId": "6171",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue d'antony 91370 verrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2689973864202546,
+    "ville": "lebuisson",
+    "cp": ""
+  },
+  {
+    "resultId": "12509263",
+    "mail": "louisedevilmorin@verrieres-le-buisson.fr",
+    "distance": 199056,
+    "latitude": 48.7486926390769,
+    "telephone": "0160131465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Louisede Vilmorin",
+    "resultStructId": "624",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue henri bourrelier 91370 verrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2740196821737957,
+    "ville": "lebuisson",
+    "cp": ""
+  },
+  {
+    "resultId": "12514380",
+    "mail": "multiaccueil@verriers-le-buisson.fr",
+    "distance": 199569,
+    "latitude": 48.754136299738114,
+    "telephone": "0160116215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SaintFiacre",
+    "resultStructId": "743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 square des begonias 91370 verrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2693225525526817,
+    "ville": "lebuisson",
+    "cp": ""
+  }
+]

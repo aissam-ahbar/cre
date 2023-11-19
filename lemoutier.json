@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12725828",
+    "mail": "",
+    "distance": 169113,
+    "latitude": 49.02040025276695,
+    "telephone": "0134327161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueils - les petits pas",
+    "resultStructId": "5690",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue des valanchards 95280jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0238172261505074,
+    "ville": "lemoutier",
+    "cp": ""
+  },
+  {
+    "resultId": "12725871",
+    "mail": "",
+    "distance": 169744,
+    "latitude": 49.01058809097851,
+    "telephone": "0134415295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale - les kangourous",
+    "resultStructId": "5691",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120-134 boulevard d'ecancourt95280 jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0436698875114456,
+    "ville": "lemoutier",
+    "cp": ""
+  },
+  {
+    "resultId": "12725828",
+    "mail": "",
+    "distance": 185733,
+    "latitude": 49.02040025276695,
+    "telephone": "0134327161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueils - les petits pas",
+    "resultStructId": "5690",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue des valanchards 95280jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0238172261505074,
+    "ville": "lemoutier",
+    "cp": ""
+  },
+  {
+    "resultId": "12725871",
+    "mail": "",
+    "distance": 187142,
+    "latitude": 49.01058809097851,
+    "telephone": "0134415295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale - les kangourous",
+    "resultStructId": "5691",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120-134 boulevard d'ecancourt95280 jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0436698875114456,
+    "ville": "lemoutier",
+    "cp": ""
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "resultId": "38841339",
+    "mail": "dir.lejardinmagique@leaetleo.com",
+    "distance": 180000,
+    "latitude": 45.718325100986654,
+    "telephone": "0426782860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin Magique",
+    "resultStructId": "178304",
+    "omegaId": "57772",
+    "avip": false,
+    "adresse": "9 allee irene jolliot-curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.934269839866514,
+    "ville": "stpriest",
+    "cp": "69800"
+  },
+  {
+    "resultId": "38816545",
+    "mail": "dir.jaunecitron@leaetleo.com",
+    "distance": 180081,
+    "latitude": 45.71038069026591,
+    "telephone": "0426781450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJaune Citron",
+    "resultStructId": "176904",
+    "omegaId": "4575",
+    "avip": false,
+    "adresse": "71 rue jean zay 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.90394085643791,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "13006067",
+    "mail": "saint.priest@lpcr.fr",
+    "distance": 180476,
+    "latitude": 45.70949335424289,
+    "telephone": "0427180027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLCPR Saint Priest",
+    "resultStructId": "688204",
+    "omegaId": "12804",
+    "avip": false,
+    "adresse": "1 rue buster keaton 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.916218944590866,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "13040346",
+    "mail": "contact@babilou.com",
+    "distance": 180590,
+    "latitude": 45.704945315905555,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Priest Les Lionceaux",
+    "resultStructId": "412601",
+    "omegaId": "3419",
+    "avip": false,
+    "adresse": "22 avenue c -cite berliet 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.901279258929476,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "33488822",
+    "mail": "contact@babilou.com",
+    "distance": 180903,
+    "latitude": 45.70956813049771,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Priest Les Funambules",
+    "resultStructId": "412701",
+    "omegaId": "3420",
+    "avip": false,
+    "adresse": "97/273 alleealexandre borodine 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933582889846886,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "57129573",
+    "mail": "creche@lesmimidoux.fr",
+    "distance": 181323,
+    "latitude": 45.70847763354006,
+    "telephone": "0616900675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Mimidoux du Petit Bois",
+    "resultStructId": "672102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue de la deserte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.945574794823272,
+    "ville": "stpriest",
+    "cp": "69800"
+  },
+  {
+    "resultId": "12886054",
+    "mail": "mpe.roulegalette@mairie-saint-priest.fr",
+    "distance": 181558,
+    "latitude": 45.7037659170099,
+    "telephone": "0478218498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilMPE Roule Galette",
+    "resultStructId": "94503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue florian 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.935347567881898,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "60274694",
+    "mail": "cverrier@achilleeetcamille.com",
+    "distance": 181682,
+    "latitude": 45.699536863580136,
+    "telephone": "0680656555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro*crècheLes p'tits Koellya - La Cabane d'Achille & Camille",
+    "resultStructId": "707903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20avenue des etats unis 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922519330027844,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "36369577",
+    "mail": "crehce-pomme-de-reinette@leaetleo.com",
+    "distance": 181989,
+    "latitude": 45.69772441773914,
+    "telephone": "0428383370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPomme de Reinette",
+    "resultStructId": "148403",
+    "omegaId": "32361",
+    "avip": false,
+    "adresse": "89 avenue jean jaures 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.927191788074795,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "12850235",
+    "mail": "",
+    "distance": 182384,
+    "latitude": 45.69768056574609,
+    "telephone": "0472794141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance \"Le Château de Sable\"",
+    "resultStructId": "362704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 monteede la carniere 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.942719225239412,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "12783620",
+    "mail": "contact@babilou.com",
+    "distance": 182834,
+    "latitude": 45.6925601883609,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Priest Le Jardin de Pom d’Api",
+    "resultStructId": "412802",
+    "omegaId": "14989",
+    "avip": false,
+    "adresse": "31 ruehenri marechal 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939233050705783,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "12783534",
+    "mail": "contact@babilou.com",
+    "distance": 182834,
+    "latitude": 45.6925601883609,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Priest Pic et Colegram",
+    "resultStructId": "412803",
+    "omegaId": "12959",
+    "avip": false,
+    "adresse": "31 rue henrimarechal 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939233050705783,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "12903168",
+    "mail": "mpe.3petitspas@mairie-saint-priest.fr",
+    "distance": 183298,
+    "latitude": 45.69199225824493,
+    "telephone": "0478207600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMPE 3 Petits Pas",
+    "resultStructId": "94501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue henri alain fournier 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.955146480481952,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "12595607",
+    "mail": "mpe.courteechelle@mairie-saint-priest.fr",
+    "distance": 183456,
+    "latitude": 45.68880462094293,
+    "telephone": "0478209265",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMPE La Courte Echelle",
+    "resultStructId": "94502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue judith gautier 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.948222183606399,
+    "ville": "stpriest",
+    "cp": ""
+  },
+  {
+    "resultId": "31388491",
+    "mail": "destresorsdepirates@gmail.com",
+    "distance": 184470,
+    "latitude": 45.68705700005871,
+    "telephone": "0695704395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedes Trésors dePirates",
+    "resultStructId": "678307",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "18 chemin dela fouillouse 69800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 4.980339867230937,
+    "ville": "stpriest",
+    "cp": ""
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12867048",
+    "mail": "creche.sentes@leslilas.fr",
+    "distance": 156081,
+    "latitude": 48.881206222085204,
+    "telephone": "0143608603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Sentes",
+    "resultStructId": "169102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du docteur calmette 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425143837882762,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867693",
+    "mail": "multiaccueilsentes@leslilas.fr",
+    "distance": 156081,
+    "latitude": 48.881206222085204,
+    "telephone": "0143621646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Sentes",
+    "resultStructId": "170303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du docteur calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425143837882762,
+    "ville": "leslilas",
+    "cp": "93260"
+  },
+  {
+    "resultId": "12867779",
+    "mail": "crecheribambelle.leslilas@gmail.com",
+    "distance": 156534,
+    "latitude": 48.87860935458844,
+    "telephone": "0148978706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationCrèche Ribambelle",
+    "resultStructId": "115219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du centre 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4185565588159657,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12663770",
+    "mail": "",
+    "distance": 156736,
+    "latitude": 48.878816705361274,
+    "telephone": "0171292250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Jacques Prévert\"",
+    "resultStructId": "116801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1allee jean yanne 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4158080362606853,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867650",
+    "mail": "",
+    "distance": 156739,
+    "latitude": 48.87935969716807,
+    "telephone": "0143608603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Louise Michel",
+    "resultStructId": "8988",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue du general leclerc 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.415838668327214,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867005",
+    "mail": "creche.bruyeres@leslilas.fr",
+    "distance": 156912,
+    "latitude": 48.87792954869688,
+    "telephone": "0141631318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Bruyères",
+    "resultStructId": "8973",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des bruyeres 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4132662393960147,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867005",
+    "mail": "creche.bruyeres@leslilas.fr",
+    "distance": 7170,
+    "latitude": 48.87792954869688,
+    "telephone": "0141631318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Bruyères",
+    "resultStructId": "8973",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des bruyeres 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4132662393960147,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12663770",
+    "mail": "",
+    "distance": 7378,
+    "latitude": 48.878816705361274,
+    "telephone": "0171292250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Jacques Prévert\"",
+    "resultStructId": "116801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1allee jean yanne 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4158080362606853,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867650",
+    "mail": "",
+    "distance": 7399,
+    "latitude": 48.87935969716807,
+    "telephone": "0143608603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Louise Michel",
+    "resultStructId": "8988",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue du general leclerc 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.415838668327214,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867779",
+    "mail": "crecheribambelle.leslilas@gmail.com",
+    "distance": 7561,
+    "latitude": 48.87860935458844,
+    "telephone": "0148978706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationCrèche Ribambelle",
+    "resultStructId": "115219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du centre 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4185565588159657,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867048",
+    "mail": "creche.sentes@leslilas.fr",
+    "distance": 8110,
+    "latitude": 48.881206222085204,
+    "telephone": "0143608603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Sentes",
+    "resultStructId": "169102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du docteur calmette 93260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425143837882762,
+    "ville": "leslilas",
+    "cp": ""
+  },
+  {
+    "resultId": "12867693",
+    "mail": "multiaccueilsentes@leslilas.fr",
+    "distance": 8110,
+    "latitude": 48.881206222085204,
+    "telephone": "0143621646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Sentes",
+    "resultStructId": "170303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du docteur calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425143837882762,
+    "ville": "leslilas",
+    "cp": "93260"
+  }
+]

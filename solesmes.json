@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58748048",
+    "mail": "lesmijuscules@gmail.com",
+    "distance": 63867,
+    "latitude": 50.18536987151497,
+    "telephone": "0610598770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmijuscules Solesmes",
+    "resultStructId": "688406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue halette, place du mol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4975519039223415,
+    "ville": "solesmes",
+    "cp": "59730"
+  },
+  {
+    "resultId": "12517820",
+    "mail": "ccpaysol@nordnet.fr",
+    "distance": 63973,
+    "latitude": 50.18412102523792,
+    "telephone": "0327707430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi- Accueil Itinérant du Pays Solesmois",
+    "resultStructId": "823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4981327228428394,
+    "ville": "solesmes",
+    "cp": "59730"
+  }
+]

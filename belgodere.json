@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "58728276",
+    "mail": "",
+    "distance": 49100,
+    "latitude": 42.586393107279726,
+    "telephone": "0495123456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche de Belgodère",
+    "resultStructId": "688107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le village",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.017872237197544,
+    "ville": "belgodere",
+    "cp": "20226"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13031230",
+    "mail": "lacompagniedesloustics@orange.fr",
+    "distance": 188537,
+    "latitude": 45.25294939624238,
+    "telephone": "0475331951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCompagnie des Loustics",
+    "resultStructId": "12792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "309 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.701814337335219,
+    "ville": "davezieux",
+    "cp": "07430"
+  },
+  {
+    "resultId": "40722629",
+    "mail": "alabordage.microcreche@gmail.com",
+    "distance": 189312,
+    "latitude": 45.259672702661405,
+    "telephone": "0962578806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A l'abordage\"",
+    "resultStructId": "205902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "580 rue de la justice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.712258461701452,
+    "ville": "davezieux",
+    "cp": "07430"
+  }
+]

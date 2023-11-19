@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12803486",
+    "mail": "creche@montady.com",
+    "distance": 123956,
+    "latitude": 43.33222163933718,
+    "telephone": "0486112824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Petits Pas",
+    "resultStructId": "434701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des platanes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.122202485518054,
+    "ville": "montady",
+    "cp": "34310"
+  },
+  {
+    "resultId": "12803486",
+    "mail": "creche@montady.com",
+    "distance": 69173,
+    "latitude": 43.33222163933718,
+    "telephone": "0486112824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Petits Pas",
+    "resultStructId": "434701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des platanes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.122202485518054,
+    "ville": "montady",
+    "cp": "34310"
+  }
+]

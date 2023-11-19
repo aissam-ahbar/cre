@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12491066",
+    "mail": "crechelesconfettis@gmail.com",
+    "distance": 121626,
+    "latitude": 48.70394758501594,
+    "telephone": "0383211267",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE LES CONFETTIS",
+    "resultStructId": "707631",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du general leclerc54130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.201680363730071,
+    "ville": "stmax",
+    "cp": ""
+  },
+  {
+    "resultId": "28564604",
+    "mail": "admr.maxou@fede54.admr.org",
+    "distance": 121775,
+    "latitude": 48.706168789852555,
+    "telephone": "0383218717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ADMR MAXOU ET SES DOUDOUS",
+    "resultStructId": "45801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 avenue generalleclerc 54130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.203829928278262,
+    "ville": "stmax",
+    "cp": ""
+  },
+  {
+    "resultId": "12554929",
+    "mail": "crechelaribambelle@wanadoo.fr",
+    "distance": 122057,
+    "latitude": 48.700718808323174,
+    "telephone": "0383331560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"La Ribambelle\"",
+    "resultStructId": "1686",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue alexandre 1er - bat. charcot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.207376932678123,
+    "ville": "stmax",
+    "cp": "54130"
+  }
+]

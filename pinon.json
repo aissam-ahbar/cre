@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13044431",
+    "mail": "vanille-chocolat@orange.fr",
+    "distance": 116041,
+    "latitude": 49.48815920199724,
+    "telephone": "0323222367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVanille Chocolat 1",
+    "resultStructId": "91801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bis rue du 7eme bca",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.446715249839507,
+    "ville": "pinon",
+    "cp": "02320"
+  },
+  {
+    "resultId": "32415794",
+    "mail": "microcrechevanillechoco2@orange.fr",
+    "distance": 116041,
+    "latitude": 49.48815920199724,
+    "telephone": "0323790025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Vanille Chocolat 2",
+    "resultStructId": "91802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du 7eme bca",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.446715249839507,
+    "ville": "pinon",
+    "cp": "02320"
+  },
+  {
+    "resultId": "13044431",
+    "mail": "vanille-chocolat@orange.fr",
+    "distance": 121279,
+    "latitude": 49.48815920199724,
+    "telephone": "0323222367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVanille Chocolat 1",
+    "resultStructId": "91801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bis rue du 7eme bca",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.446715249839507,
+    "ville": "pinon",
+    "cp": "02320"
+  },
+  {
+    "resultId": "32415794",
+    "mail": "microcrechevanillechoco2@orange.fr",
+    "distance": 121279,
+    "latitude": 49.48815920199724,
+    "telephone": "0323790025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Vanille Chocolat 2",
+    "resultStructId": "91802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du 7eme bca",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.446715249839507,
+    "ville": "pinon",
+    "cp": "02320"
+  }
+]

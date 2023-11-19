@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12514208",
+    "mail": "mairie@cerny.fr",
+    "distance": 170843,
+    "latitude": 48.47710579771304,
+    "telephone": "0169231122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie CCAS de Cerny",
+    "resultStructId": "158006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue r. damiot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3267721630277407,
+    "ville": "cerny",
+    "cp": "91590"
+  }
+]

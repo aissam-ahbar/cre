@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12620977",
+    "mail": "multiaccueil@basse-goulaine.fr",
+    "distance": 57847,
+    "latitude": 47.2102385976275,
+    "telephone": "0240035691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Lutins\"",
+    "resultStructId": "3222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la champagnere 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4633048290284012,
+    "ville": "bassegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "12486207",
+    "mail": "",
+    "distance": 57847,
+    "latitude": 47.2102385976275,
+    "telephone": "0240035691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Lutins",
+    "resultStructId": "88",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la champagnere 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4633048290284012,
+    "ville": "bassegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "34686873",
+    "mail": "contact@farandoles-galipettes.fr",
+    "distance": 59988,
+    "latitude": 47.19027890384231,
+    "telephone": "0981938212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandoleset Galipettes",
+    "resultStructId": "678408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de tasmanie 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.471862738498534,
+    "ville": "bassegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "12620977",
+    "mail": "multiaccueil@basse-goulaine.fr",
+    "distance": 57847,
+    "latitude": 47.2102385976275,
+    "telephone": "0240035691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Lutins\"",
+    "resultStructId": "3222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la champagnere 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4633048290284012,
+    "ville": "bassegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "12486207",
+    "mail": "",
+    "distance": 57847,
+    "latitude": 47.2102385976275,
+    "telephone": "0240035691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Lutins",
+    "resultStructId": "88",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la champagnere 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4633048290284012,
+    "ville": "bassegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "34686873",
+    "mail": "contact@farandoles-galipettes.fr",
+    "distance": 59988,
+    "latitude": 47.19027890384231,
+    "telephone": "0981938212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandoleset Galipettes",
+    "resultStructId": "678408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de tasmanie 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.471862738498534,
+    "ville": "bassegoulaine",
+    "cp": ""
+  }
+]

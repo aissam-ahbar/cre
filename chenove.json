@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12795273",
+    "mail": "petiteenfance@ville-chenove.fr",
+    "distance": 64387,
+    "latitude": 47.29800757128486,
+    "telephone": "0380515600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil AU P'TIT DOUDOU (Ville)",
+    "resultStructId": "199731",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue general",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.003230342624633,
+    "ville": "chenove",
+    "cp": "21300"
+  },
+  {
+    "resultId": "12720616",
+    "mail": "microcrecheenfant@outlook.fr",
+    "distance": 65664,
+    "latitude": 47.29364722585852,
+    "telephone": "0345219400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES P'TITES BOUILLES",
+    "resultStructId": "199748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des freresmontgolfier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.020738378439098,
+    "ville": "chenove",
+    "cp": "21300"
+  }
+]

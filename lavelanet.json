@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12670220",
+    "mail": "multi-accueil@paysdolmes.org",
+    "distance": 229985,
+    "latitude": 42.93141898148552,
+    "telephone": "0561014206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mamours",
+    "resultStructId": "701116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8464682564594759,
+    "ville": "lavelanet",
+    "cp": "09300"
+  },
+  {
+    "resultId": "13027962",
+    "mail": "accueilfamcias@paysdolmes.org",
+    "distance": 229985,
+    "latitude": 42.93141898148552,
+    "telephone": "0534093040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL",
+    "resultStructId": "701115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8464682564594759,
+    "ville": "lavelanet",
+    "cp": "09300"
+  },
+  {
+    "resultId": "12670220",
+    "mail": "multi-accueil@paysdolmes.org",
+    "distance": 181831,
+    "latitude": 42.93141898148552,
+    "telephone": "0561014206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mamours",
+    "resultStructId": "701116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8464682564594759,
+    "ville": "lavelanet",
+    "cp": "09300"
+  },
+  {
+    "resultId": "13027962",
+    "mail": "accueilfamcias@paysdolmes.org",
+    "distance": 181831,
+    "latitude": 42.93141898148552,
+    "telephone": "0534093040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL",
+    "resultStructId": "701115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8464682564594759,
+    "ville": "lavelanet",
+    "cp": "09300"
+  }
+]

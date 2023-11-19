@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "57506986",
+    "mail": "microcreche.chifoumi@gmail.com",
+    "distance": 166570,
+    "latitude": 43.52468246701986,
+    "telephone": "0952295678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CHIFOUMI",
+    "resultStructId": "676219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 impasse elsa triolet 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5014440614896518,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "37146153",
+    "mail": "contact@sirmathis.com",
+    "distance": 166919,
+    "latitude": 43.520187567408286,
+    "telephone": "0952672476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SIRMATHIS",
+    "resultStructId": "562101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse odilon redon 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.50247623091215,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "13060040",
+    "mail": "petite-enfance.ouest@sicoval.fr",
+    "distance": 167297,
+    "latitude": 43.51829613085754,
+    "telephone": "0561754465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Petites Canailles",
+    "resultStructId": "673523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse dels drolets31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5063685165719018,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "13059954",
+    "mail": "petite-enfance.ouest@sicoval.fr",
+    "distance": 167333,
+    "latitude": 43.51774321956702,
+    "telephone": "0561754465",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheCollective Les Drolets",
+    "resultStructId": "515003",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "mail dels drolets 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.506404385465777,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "31237377",
+    "mail": "babylove.castanet@yahoo.com",
+    "distance": 168447,
+    "latitude": 43.50995956029187,
+    "telephone": "0561450286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babylove micro crèche",
+    "resultStructId": "673323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des peniches 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5158170950617436,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "13018795",
+    "mail": "babylove.castanet@yahoo.com",
+    "distance": 168461,
+    "latitude": 43.509860784257164,
+    "telephone": "0615443413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCBABY LOVE",
+    "resultStructId": "12503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des peniches 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5159391253445653,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "13018795",
+    "mail": "babylove.castanet@yahoo.com",
+    "distance": 192113,
+    "latitude": 43.509860784257164,
+    "telephone": "0615443413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCBABY LOVE",
+    "resultStructId": "12503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des peniches 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5159391253445653,
+    "ville": "castanettolosan",
+    "cp": ""
+  },
+  {
+    "resultId": "31237377",
+    "mail": "babylove.castanet@yahoo.com",
+    "distance": 192122,
+    "latitude": 43.50995956029187,
+    "telephone": "0561450286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babylove micro crèche",
+    "resultStructId": "673323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des peniches 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5158170950617436,
+    "ville": "castanettolosan",
+    "cp": ""
+  }
+]

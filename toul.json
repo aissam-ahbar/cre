@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12500491",
+    "mail": "",
+    "distance": 98597,
+    "latitude": 48.670009549570715,
+    "telephone": "0383438840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"La Louvière\"",
+    "resultStructId": "420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "149 allee louviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.884612266183904,
+    "ville": "toul",
+    "cp": "54200"
+  },
+  {
+    "resultId": "12500534",
+    "mail": "",
+    "distance": 98772,
+    "latitude": 48.688522774019546,
+    "telephone": "0383432016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Roger Rolin\"",
+    "resultStructId": "421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "632 rue des traits de laville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888893610837549,
+    "ville": "toul",
+    "cp": "54200"
+  }
+]

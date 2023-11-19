@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "50370646",
+    "mail": "creche@marseillan.com",
+    "distance": 92395,
+    "latitude": 43.366023436203164,
+    "telephone": "0467773654",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALES ZYGO'THAU",
+    "resultStructId": "411301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 route de florensac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5120016756143757,
+    "ville": "marseillan",
+    "cp": "34340"
+  },
+  {
+    "resultId": "50370646",
+    "mail": "creche@marseillan.com",
+    "distance": 40402,
+    "latitude": 43.366023436203164,
+    "telephone": "0467773654",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALES ZYGO'THAU",
+    "resultStructId": "411301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 route de florensac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5120016756143757,
+    "ville": "marseillan",
+    "cp": "34340"
+  }
+]

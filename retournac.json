@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12570968",
+    "mail": "les.coquins@orange.fr",
+    "distance": 189140,
+    "latitude": 45.20595869816424,
+    "telephone": "0471592377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilADMR \"Les Coquins\"",
+    "resultStructId": "71603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean saby",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034633876006656,
+    "ville": "retournac",
+    "cp": "43130"
+  },
+  {
+    "resultId": "12570968",
+    "mail": "les.coquins@orange.fr",
+    "distance": 179076,
+    "latitude": 45.20595869816424,
+    "telephone": "0471592377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilADMR \"Les Coquins\"",
+    "resultStructId": "71603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean saby",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034633876006656,
+    "ville": "retournac",
+    "cp": "43130"
+  }
+]

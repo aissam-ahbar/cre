@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "55554000",
+    "mail": "contact@optitsloulous.com",
+    "distance": 124455,
+    "latitude": 49.01257264961978,
+    "telephone": "0755663110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ÔP'tits Loulous",
+    "resultStructId": "622401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "380 rue clement ader 27930 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1830986202673641,
+    "ville": "vieilevreux",
+    "cp": ""
+  },
+  {
+    "resultId": "29136181",
+    "mail": "helios@people-and-baby.com",
+    "distance": 124581,
+    "latitude": 49.014050282520145,
+    "telephone": "0984541543",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Heïwa",
+    "resultStructId": "49503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "425rue clement ader 27930 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.184685113016646,
+    "ville": "vieilevreux",
+    "cp": ""
+  }
+]

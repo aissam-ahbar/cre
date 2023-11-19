@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "41248496",
+    "mail": "lespetitesplanetes@micro-baby.com",
+    "distance": 32436,
+    "latitude": 50.19917878993123,
+    "telephone": "0321485795",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetites planetes",
+    "resultStructId": "674439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des anciens combattants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8748753354247976,
+    "ville": "croisilles",
+    "cp": "62128"
+  },
+  {
+    "resultId": "13032606",
+    "mail": "multi-croisilles@cc-sudartois.fr",
+    "distance": 32545,
+    "latitude": 50.19883123338857,
+    "telephone": "0681436714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil itinérant \"Les Ch'ti Bambins\" - Croisilles",
+    "resultStructId": "215603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue de saint leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8778490303962423,
+    "ville": "croisilles",
+    "cp": "62128"
+  }
+]

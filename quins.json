@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43122814",
+    "mail": "microcreche@payssegali.fr",
+    "distance": 211387,
+    "latitude": 44.23726358039764,
+    "telephone": "0565470430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits Gastadous",
+    "resultStructId": "513701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la mothe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4143427585719284,
+    "ville": "quins",
+    "cp": "12800"
+  },
+  {
+    "resultId": "43122814",
+    "mail": "microcreche@payssegali.fr",
+    "distance": 138363,
+    "latitude": 44.23726358039764,
+    "telephone": "0565470430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits Gastadous",
+    "resultStructId": "513701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la mothe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4143427585719284,
+    "ville": "quins",
+    "cp": "12800"
+  }
+]

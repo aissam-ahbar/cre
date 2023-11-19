@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12862103",
+    "mail": "lesoisillons@laposte.net",
+    "distance": 188556,
+    "latitude": 48.68071421076529,
+    "telephone": "0160124251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOisillons",
+    "resultStructId": "8859",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la commanderie 91470 boullay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.050523766823993,
+    "ville": "lestroux",
+    "cp": ""
+  },
+  {
+    "resultId": "12862103",
+    "mail": "lesoisillons@laposte.net",
+    "distance": 190069,
+    "latitude": 48.68071421076529,
+    "telephone": "0160124251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesOisillons",
+    "resultStructId": "8859",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la commanderie 91470 boullay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.050523766823993,
+    "ville": "lestroux",
+    "cp": ""
+  }
+]

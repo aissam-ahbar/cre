@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12731074",
+    "mail": "multiaccueil@surzur.fr",
+    "distance": 123817,
+    "latitude": 47.580215140290406,
+    "telephone": "0297420390",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfance",
+    "resultStructId": "358501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des sports",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.630428004174626,
+    "ville": "surzur",
+    "cp": "56450"
+  },
+  {
+    "resultId": "12731074",
+    "mail": "multiaccueil@surzur.fr",
+    "distance": 123817,
+    "latitude": 47.580215140290406,
+    "telephone": "0297420390",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfance",
+    "resultStructId": "358501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des sports",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.630428004174626,
+    "ville": "surzur",
+    "cp": "56450"
+  }
+]

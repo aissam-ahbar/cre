@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "27503463",
+    "mail": "contact@mere-poule.fr",
+    "distance": 50636,
+    "latitude": 44.72466959923996,
+    "telephone": "0953662591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MEREPOULE",
+    "resultStructId": "41904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue de la brede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5946613024414182,
+    "ville": "leognan",
+    "cp": "33850"
+  },
+  {
+    "resultId": "30612974",
+    "mail": "",
+    "distance": 51029,
+    "latitude": 44.72775082183855,
+    "telephone": "0953662591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "merepoule",
+    "resultStructId": "66701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue de la rede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5971339577751127,
+    "ville": "leognan",
+    "cp": "33850"
+  },
+  {
+    "resultId": "12645659",
+    "mail": "multiaccueilleognan@cc-montesquieu.fr",
+    "distance": 51268,
+    "latitude": 44.72838349133214,
+    "telephone": "0556647376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil MAISON DES PITCHOUNS",
+    "resultStructId": "222302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 cours gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6012070087588963,
+    "ville": "leognan",
+    "cp": "33850"
+  }
+]

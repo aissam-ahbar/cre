@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12784523",
+    "mail": "multiaccueil@buchelay.fr",
+    "distance": 159962,
+    "latitude": 48.97974327359062,
+    "telephone": "0130983496",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LA BUSCALIDE",
+    "resultStructId": "705602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6722309190176483,
+    "ville": "buchelay",
+    "cp": "78200"
+  },
+  {
+    "resultId": "12784480",
+    "mail": "coordinatrice78.bullesdeveil@gmail.com",
+    "distance": 161678,
+    "latitude": 48.98758982534854,
+    "telephone": "0752055209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - 1 2 3 SOLEIL",
+    "resultStructId": "699205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 square du moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6954800147129043,
+    "ville": "buchelay",
+    "cp": "78200"
+  }
+]

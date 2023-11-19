@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12819955",
+    "mail": "secretaireacc@orange.fr",
+    "distance": 169173,
+    "latitude": 48.3587262828261,
+    "telephone": "0329940646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Centre social les Charmilles",
+    "resultStructId": "139001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue victor martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.696975372663813,
+    "ville": "neufchateau",
+    "cp": "88300"
+  },
+  {
+    "resultId": "12819955",
+    "mail": "secretaireacc@orange.fr",
+    "distance": 94424,
+    "latitude": 48.3587262828261,
+    "telephone": "0329940646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Centre social les Charmilles",
+    "resultStructId": "139001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue victor martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.696975372663813,
+    "ville": "neufchateau",
+    "cp": "88300"
+  }
+]

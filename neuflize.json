@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12749607",
+    "mail": "microcreche.neuflize@free.fr",
+    "distance": 77334,
+    "latitude": 49.40937219619785,
+    "telephone": "0324390278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A l'aube des sens 2\"",
+    "resultStructId": "6243",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue frederic pate",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.308466671041064,
+    "ville": "neuflize",
+    "cp": "08300"
+  },
+  {
+    "resultId": "12749650",
+    "mail": "microcreche.neuflize@free.fr",
+    "distance": 77350,
+    "latitude": 49.40961738863637,
+    "telephone": "0324393977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A l'aube des sens\"",
+    "resultStructId": "6244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.309074283684288,
+    "ville": "neuflize",
+    "cp": "08300"
+  },
+  {
+    "resultId": "12749607",
+    "mail": "microcreche.neuflize@free.fr",
+    "distance": 164111,
+    "latitude": 49.40937219619785,
+    "telephone": "0324390278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A l'aube des sens 2\"",
+    "resultStructId": "6243",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue frederic pate",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.308466671041064,
+    "ville": "neuflize",
+    "cp": "08300"
+  },
+  {
+    "resultId": "12749650",
+    "mail": "microcreche.neuflize@free.fr",
+    "distance": 164121,
+    "latitude": 49.40961738863637,
+    "telephone": "0324393977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A l'aube des sens\"",
+    "resultStructId": "6244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.309074283684288,
+    "ville": "neuflize",
+    "cp": "08300"
+  }
+]

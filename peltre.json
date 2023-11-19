@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "55727798",
+    "mail": "",
+    "distance": 130010,
+    "latitude": 49.085108226434116,
+    "telephone": "0615855824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes petits lionceaux 2",
+    "resultStructId": "632902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2c rue du jardin d'ecosse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.239823039536144,
+    "ville": "peltre",
+    "cp": "57245"
+  },
+  {
+    "resultId": "40331682",
+    "mail": "lespetitslionceaux@gmail.com",
+    "distance": 130010,
+    "latitude": 49.085108226434116,
+    "telephone": "0615855824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Lionceaux",
+    "resultStructId": "632801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2b rue du jardin d'ecosse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.239823039536144,
+    "ville": "peltre",
+    "cp": "57245"
+  }
+]

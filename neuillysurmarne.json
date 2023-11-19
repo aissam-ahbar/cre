@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "51702580",
+    "mail": "directionsoins@epsve.fr",
+    "distance": 146954,
+    "latitude": 48.861585569180505,
+    "telephone": "0688298357",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES FRIPOUILLES",
+    "resultStructId": "461801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "202 avenue jean jaures 93330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5477559898080964,
+    "ville": "neuillysurmarne",
+    "cp": ""
+  },
+  {
+    "resultId": "12664759",
+    "mail": "creche.lutins@neuillysurmarne.fr",
+    "distance": 147716,
+    "latitude": 48.86935386051378,
+    "telephone": "0143014986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Lutins",
+    "resultStructId": "170309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue leon blum 93330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5383484868915467,
+    "ville": "neuillysurmarne",
+    "cp": ""
+  }
+]

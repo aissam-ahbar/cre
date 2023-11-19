@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12614828",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 415896,
+    "latitude": 45.442546036503636,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCroes de Bozel",
+    "resultStructId": "700719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "maison des familles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.646948824492435,
+    "ville": "bozel",
+    "cp": "73350"
+  },
+  {
+    "resultId": "12614828",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 171553,
+    "latitude": 45.442546036503636,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCroes de Bozel",
+    "resultStructId": "700719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "maison des familles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.646948824492435,
+    "ville": "bozel",
+    "cp": "73350"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12603390",
+    "mail": "kdecoster@utas.fr",
+    "distance": 54616,
+    "latitude": 50.31818326852107,
+    "telephone": "0327435648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AlicePain d'Epice. Une souris verte aéropark Valenciennes",
+    "resultStructId": "2813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedes 9 chemins de douai",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.45013298987606,
+    "ville": "prouvy",
+    "cp": "59121"
+  },
+  {
+    "resultId": "12975107",
+    "mail": "prouvy@rigolocommelavie.fr",
+    "distance": 54616,
+    "latitude": 50.31818326852107,
+    "telephone": "0327435648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RigoloComme La Vie - Prouvy",
+    "resultStructId": "11487",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des 9 chemins de douai",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.45013298987606,
+    "ville": "prouvy",
+    "cp": "59121"
+  }
+]

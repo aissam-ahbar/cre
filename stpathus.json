@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12980912",
+    "mail": "lespetitesabeilles@cc-pmf.fr",
+    "distance": 133590,
+    "latitude": 49.07131178181095,
+    "telephone": "0160614107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petites Abeilles",
+    "resultStructId": "86704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de noefort 77178",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791340021154521,
+    "ville": "stpathus",
+    "cp": ""
+  },
+  {
+    "resultId": "12762894",
+    "mail": "creche.pitchoune@orange.fr",
+    "distance": 134311,
+    "latitude": 49.082337048562636,
+    "telephone": "0160616225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPitchoune",
+    "resultStructId": "6552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue jean mermoz 77178",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.785874542315589,
+    "ville": "stpathus",
+    "cp": ""
+  },
+  {
+    "resultId": "12762894",
+    "mail": "creche.pitchoune@orange.fr",
+    "distance": 154755,
+    "latitude": 49.082337048562636,
+    "telephone": "0160616225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPitchoune",
+    "resultStructId": "6552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue jean mermoz 77178",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.785874542315589,
+    "ville": "stpathus",
+    "cp": ""
+  },
+  {
+    "resultId": "12980912",
+    "mail": "lespetitesabeilles@cc-pmf.fr",
+    "distance": 155993,
+    "latitude": 49.07131178181095,
+    "telephone": "0160614107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petites Abeilles",
+    "resultStructId": "86704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de noefort 77178",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791340021154521,
+    "ville": "stpathus",
+    "cp": ""
+  }
+]

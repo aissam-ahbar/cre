@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13074402",
+    "mail": "cre-573@babilou.com",
+    "distance": 154678,
+    "latitude": 43.67368254382489,
+    "telephone": "0532096855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABABILOU AU PETIT NUAGE",
+    "resultStructId": "676812",
+    "omegaId": "47506",
+    "avip": false,
+    "adresse": "16 rue fignac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.455134754128905,
+    "ville": "launaguet",
+    "cp": "31140"
+  },
+  {
+    "resultId": "13073198",
+    "mail": "mpe@mairie-launaguet.fr",
+    "distance": 155313,
+    "latitude": 43.65483016951513,
+    "telephone": "0562796359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale de Launaguet",
+    "resultStructId": "78202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des sablettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4492461396051155,
+    "ville": "launaguet",
+    "cp": "31140"
+  },
+  {
+    "resultId": "13074273",
+    "mail": "mpe@mairie-launaguet.fr",
+    "distance": 155313,
+    "latitude": 43.65483016951513,
+    "telephone": "0562796359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance - Launaguet",
+    "resultStructId": "78203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4492461396051155,
+    "ville": "launaguet",
+    "cp": "31140"
+  }
+]

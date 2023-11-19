@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12612635",
+    "mail": "multiaccueilcosne@orange.fr",
+    "distance": 131814,
+    "latitude": 46.475360112090726,
+    "telephone": "0470074169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "3028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du coq chantant 03430 cosne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835019367851346,
+    "ville": "dallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12612635",
+    "mail": "multiaccueilcosne@orange.fr",
+    "distance": 105664,
+    "latitude": 46.475360112090726,
+    "telephone": "0470074169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "3028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du coq chantant 03430 cosne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835019367851346,
+    "ville": "dallier",
+    "cp": ""
+  }
+]

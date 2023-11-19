@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13027747",
+    "mail": "v.delmotte@ville-comines.fr",
+    "distance": 37905,
+    "latitude": 50.76153046753646,
+    "telephone": "0328367840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfance",
+    "resultStructId": "646101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.006299395232039,
+    "ville": "comines",
+    "cp": "59560"
+  },
+  {
+    "resultId": "13072166",
+    "mail": "maguilou59@gmail.com",
+    "distance": 38082,
+    "latitude": 50.763699899223305,
+    "telephone": "0000000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT MONDE DE MAGUILOU",
+    "resultStructId": "13744",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue du marechal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.005574007823907,
+    "ville": "comines",
+    "cp": "59560"
+  },
+  {
+    "resultId": "12793166",
+    "mail": "centresocialdecomines@neuf.fr",
+    "distance": 38141,
+    "latitude": 50.76264056961102,
+    "telephone": "0320390464",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE, LES P'TITS MOMES",
+    "resultStructId": "7256",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue du general de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009794666343419,
+    "ville": "comines",
+    "cp": "59560"
+  }
+]

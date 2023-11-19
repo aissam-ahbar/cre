@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "52228730",
+    "mail": "sjuvanon@ville-raismes.fr",
+    "distance": 55070,
+    "latitude": 50.385924463743734,
+    "telephone": "0674860956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie « coquin, coquine » quartier SABATIER",
+    "resultStructId": "480903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue desviolettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4843509420810026,
+    "ville": "raismes",
+    "cp": "59590"
+  },
+  {
+    "resultId": "13016258",
+    "mail": "sjuvanon@ville-raismes.fr",
+    "distance": 55070,
+    "latitude": 50.385924463743734,
+    "telephone": "0674860956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Coquin Coquine quartier Petit Paris",
+    "resultStructId": "480803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue desviolettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4843509420810026,
+    "ville": "raismes",
+    "cp": "59590"
+  },
+  {
+    "resultId": "13016301",
+    "mail": "creche@ville-raismes.fr",
+    "distance": 55070,
+    "latitude": 50.385924463743734,
+    "telephone": "0327237009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Elise Lefebvre",
+    "resultStructId": "12445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des violettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4843509420810026,
+    "ville": "raismes",
+    "cp": "59590"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "31993989",
+    "mail": "gmellinger@lacarrouseldesrois.com",
+    "distance": 188664,
+    "latitude": 48.63943468875094,
+    "telephone": "0699688030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue du canal 91700 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3502107482157335,
+    "ville": "genevievedesbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12515197",
+    "mail": "",
+    "distance": 188890,
+    "latitude": 48.641986878247664,
+    "telephone": "0169257101",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-CrècheCopernic",
+    "resultStructId": "672111",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "105 avenue de la liberte 91700 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3478096024565844,
+    "ville": "genevievedesbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12513692",
+    "mail": "",
+    "distance": 189041,
+    "latitude": 48.6484214735199,
+    "telephone": "0160168826",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie du Parc",
+    "resultStructId": "337501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des ecoles 91700 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3196918154495623,
+    "ville": "genevievedesbois",
+    "cp": ""
+  }
+]

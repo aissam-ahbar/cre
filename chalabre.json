@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12887043",
+    "mail": "ma.vanillechocolat@wanadoo.fr",
+    "distance": 235455,
+    "latitude": 42.98438554332257,
+    "telephone": "0468692874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Vanilleet Chocolat",
+    "resultStructId": "9439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'hopital",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0034084275997253,
+    "ville": "chalabre",
+    "cp": "11230"
+  },
+  {
+    "resultId": "12887043",
+    "mail": "ma.vanillechocolat@wanadoo.fr",
+    "distance": 167767,
+    "latitude": 42.98438554332257,
+    "telephone": "0468692874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Vanilleet Chocolat",
+    "resultStructId": "9439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'hopital",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0034084275997253,
+    "ville": "chalabre",
+    "cp": "11230"
+  }
+]

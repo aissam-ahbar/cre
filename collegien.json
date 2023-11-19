@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13004089",
+    "mail": "petite.enfance@collegien.fr",
+    "distance": 137573,
+    "latitude": 48.83795826657228,
+    "telephone": "0160076280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin des Petits",
+    "resultStructId": "686409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.673493262599061,
+    "ville": "collegien",
+    "cp": "77090"
+  }
+]

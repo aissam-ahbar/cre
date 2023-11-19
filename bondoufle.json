@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12755885",
+    "mail": "petite-enfance@ville-bondoufle.fr",
+    "distance": 186474,
+    "latitude": 48.61324996717611,
+    "telephone": "0160765924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil",
+    "resultStructId": "237205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue des trois parts - maison de la petiteenfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3801440885802396,
+    "ville": "bondoufle",
+    "cp": "91070"
+  },
+  {
+    "resultId": "12755928",
+    "mail": "petite-enfance@ville-bondoufle.fr",
+    "distance": 186474,
+    "latitude": 48.61324996717611,
+    "telephone": "0160765920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TroisParts - Crèche Familiale",
+    "resultStructId": "237207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue des trois parts -maison de la petite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3801440885802396,
+    "ville": "bondoufle",
+    "cp": "91070"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "resultId": "40025685",
+    "mail": "chaponost@halppy-kids.fr",
+    "distance": 176510,
+    "latitude": 45.71099301446,
+    "telephone": "0472243505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBisou PapillonChaponost",
+    "resultStructId": "711914",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "8 ruechapard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 4.745088526347311,
+    "ville": "chaponost",
+    "cp": "69630"
+  },
+  {
+    "resultId": "31880772",
+    "mail": "b.verdier@mairie-chaponost.fr",
+    "distance": 176514,
+    "latitude": 45.71101793922063,
+    "telephone": "0437416146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLéonie",
+    "resultStructId": "131501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse leonie rolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.745412752477145,
+    "ville": "chaponost",
+    "cp": "69630"
+  },
+  {
+    "resultId": "12890440",
+    "mail": "",
+    "distance": 176615,
+    "latitude": 45.70949789503809,
+    "telephone": "0642493534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche de Chaponost",
+    "resultStructId": "9518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marius paire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.742240202553787,
+    "ville": "chaponost",
+    "cp": "69630"
+  },
+  {
+    "resultId": "12890483",
+    "mail": "creche.lesgalipettes@mairie-chaponost.fr",
+    "distance": 176816,
+    "latitude": 45.707283477488566,
+    "telephone": "0478169766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Galipettes",
+    "resultStructId": "128501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue louis martel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.74033577025701,
+    "ville": "chaponost",
+    "cp": "69630"
+  },
+  {
+    "resultId": "12890526",
+    "mail": "creche.lesgalipettes@mairie-chaponost.fr",
+    "distance": 176816,
+    "latitude": 45.707283477488566,
+    "telephone": "0478879976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Les Galipettes",
+    "resultStructId": "128502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue louis martel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.74033577025701,
+    "ville": "chaponost",
+    "cp": "69630"
+  }
+]

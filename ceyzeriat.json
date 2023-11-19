@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12857717",
+    "mail": "creche@ceyzeriat.fede01.admr.org",
+    "distance": 147676,
+    "latitude": 46.18098001304127,
+    "telephone": "0474517073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CEYZE MOMES",
+    "resultStructId": "8757",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "588 chemin de la charbonniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.312195722046858,
+    "ville": "ceyzeriat",
+    "cp": "01250"
+  },
+  {
+    "resultId": "12857674",
+    "mail": "multiaccueil.ceyzeriat@grandbourg.fr",
+    "distance": 148338,
+    "latitude": 46.17865429054399,
+    "telephone": "0437621750",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôlePetite Enfance Ceyzeriat",
+    "resultStructId": "422601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3221291609710395,
+    "ville": "ceyzeriat",
+    "cp": "01250"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12754982",
+    "mail": "creche-noiret@orange.fr",
+    "distance": 87267,
+    "latitude": 49.5071053440889,
+    "telephone": "0324385447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil- Noiret",
+    "resultStructId": "276301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place noiret chaigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.363458244204081,
+    "ville": "rethel",
+    "cp": "08300"
+  },
+  {
+    "resultId": "12754982",
+    "mail": "creche-noiret@orange.fr",
+    "distance": 159253,
+    "latitude": 49.5071053440889,
+    "telephone": "0324385447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil- Noiret",
+    "resultStructId": "276301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place noiret chaigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.363458244204081,
+    "ville": "rethel",
+    "cp": "08300"
+  }
+]

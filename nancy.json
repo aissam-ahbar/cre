@@ -1,0 +1,540 @@
+[
+  {
+    "resultId": "12654775",
+    "mail": "cgarderie@sfr.fr",
+    "distance": 117808,
+    "latitude": 48.691122293946364,
+    "telephone": "0383375625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Super Chouette\"",
+    "resultStructId": "493101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.148788373568198,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "13023705",
+    "mail": "tompouce4@wanadoo.fr",
+    "distance": 117819,
+    "latitude": 48.69105536345845,
+    "telephone": "0383273610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Tom Pouce\"",
+    "resultStructId": "73702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.14894119108588,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12674864",
+    "mail": "crecheboudonville@mairie-nancy.fr",
+    "distance": 118492,
+    "latitude": 48.697562343363394,
+    "telephone": "0383688690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Boudonville",
+    "resultStructId": "691113",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "108-110 ruede boudonville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.158561263013792,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "13024092",
+    "mail": "multiaccueilabensour@mairie-nancy.fr",
+    "distance": 118625,
+    "latitude": 48.6892725908996,
+    "telephone": "0383568588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"David Abensour\"",
+    "resultStructId": "691114",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "35 avenue deboufflers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.15979272739683,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12593930",
+    "mail": "creche.nancy@croix-rouge.fr",
+    "distance": 119288,
+    "latitude": 48.67153202039857,
+    "telephone": "0383284587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE L ENFANCE",
+    "resultStructId": "650101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue leonard de vinci",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.167275212072038,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12701008",
+    "mail": "admr.bulledeveil@fede54.admr.org",
+    "distance": 119540,
+    "latitude": 48.685886201567904,
+    "telephone": "0383414866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil ADMR Bulle d'Eveil",
+    "resultStructId": "694912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jean prouve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.172018134677729,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "60181370",
+    "mail": "lesptitesgrainesmontessori@gmail.com",
+    "distance": 119581,
+    "latitude": 48.67057047701075,
+    "telephone": "0952810667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites graines montessori",
+    "resultStructId": "706115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 bis avenue du generalleclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.171173362009171,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12568947",
+    "mail": "creche.wunschendorff@mairie-nancy.fr",
+    "distance": 119589,
+    "latitude": 48.69664252697837,
+    "telephone": "0383355952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Jeanne Wunschendorff\"",
+    "resultStructId": "691107",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 ruebaron louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.173463766779559,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12593973",
+    "mail": "calins.trotinettes@gmail.com",
+    "distance": 119626,
+    "latitude": 48.67383568623389,
+    "telephone": "0383575026",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Calins et Trotinettes\"",
+    "resultStructId": "2594",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.172120732317238,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12605196",
+    "mail": "nancycraffe@lesptitsmalins.fr",
+    "distance": 119778,
+    "latitude": 48.6985516050634,
+    "telephone": "0383328679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Les P'tits Malins\"",
+    "resultStructId": "163901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.176156340355269,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12577461",
+    "mail": "lesptitsgamins@orange.fr",
+    "distance": 119825,
+    "latitude": 48.678249182349596,
+    "telephone": "0383272045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Les P'Tits Gamins\"",
+    "resultStructId": "2210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du general",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.175250007565926,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12605153",
+    "mail": "patatipatata.creche@gmail.com",
+    "distance": 119912,
+    "latitude": 48.68098981393359,
+    "telephone": "0383403909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilPATATI PATATA",
+    "resultStructId": "170613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue sainte cecile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.176678381998238,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "39011086",
+    "mail": "contact@achilleetcamille.com",
+    "distance": 120018,
+    "latitude": 48.69020985526558,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane d’Achille & Camille",
+    "resultStructId": "183103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue benit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1788721467372145,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12571527",
+    "mail": "crecheclodion@mairie-nancy.fr",
+    "distance": 120067,
+    "latitude": 48.68908211868051,
+    "telephone": "0383390321",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Clodion\"",
+    "resultStructId": "691106",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 rue clodion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179456001078189,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12571441",
+    "mail": "haltegarderie.clodion@mairie-nancy.fr",
+    "distance": 120067,
+    "latitude": 48.68908211868051,
+    "telephone": "0383390322",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Clodion\"",
+    "resultStructId": "691111",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "6 rueclodion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 6.179456001078189,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "13024006",
+    "mail": "crechefamiliale.ccas@mairie-nancy.fr",
+    "distance": 120076,
+    "latitude": 48.68889262756206,
+    "telephone": "0383390367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchefamiliale de Nancy",
+    "resultStructId": "691105",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "14 rue saintthiebaut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179555648558459,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12571484",
+    "mail": "crecheosiris@mairie-nancy.fr",
+    "distance": 120076,
+    "latitude": 48.68889262756206,
+    "telephone": "0383390320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Osiris\"",
+    "resultStructId": "691112",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "14 ruesaint-thiebaut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179555648558459,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12569205",
+    "mail": "creche.bodson@mairie-nancy.fr",
+    "distance": 120357,
+    "latitude": 48.692932180598014,
+    "telephone": "0383964056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"JeanineBodson\"",
+    "resultStructId": "691108",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "15 rue gustave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.183681592407309,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12569420",
+    "mail": "karine.perrin@mairie-nancy.fr",
+    "distance": 120357,
+    "latitude": 48.692932180598014,
+    "telephone": "0383961442",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieJEANINE BODSON",
+    "resultStructId": "702219",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1117avenue raymond pinchard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 6.183681592407309,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12500147",
+    "mail": "multi.accueil.maternite@chru-nancy.fr",
+    "distance": 120905,
+    "latitude": 48.681249058604905,
+    "telephone": "0383342935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Maternité A. Pinard",
+    "resultStructId": "121401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du dr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.190247002821067,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12500835",
+    "mail": "",
+    "distance": 121011,
+    "latitude": 48.67747218041209,
+    "telephone": "0383852580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Hospitalière \"Jacques Callot\"",
+    "resultStructId": "428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 38 quai dela bataille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.191366735551491,
+    "ville": "nancy",
+    "cp": "54000"
+  },
+  {
+    "resultId": "12569463",
+    "mail": "haltegarderiereneii@mairie-nancy.fr",
+    "distance": 121068,
+    "latitude": 48.67922567095253,
+    "telephone": "0383302214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"René II\"",
+    "resultStructId": "691110",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "6 bis ruegeorges chepfer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 6.192292678723132,
+    "ville": "nancy",
+    "cp": "54000"
+  }
+]

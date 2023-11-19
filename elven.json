@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "45923226",
+    "mail": "direction.elven@leptitclub.com",
+    "distance": 121073,
+    "latitude": 47.72409450342155,
+    "telephone": "0297676108",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe p'tit club d'Elven",
+    "resultStructId": "697809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "za de lamboux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.5886858900758707,
+    "ville": "elven",
+    "cp": "56250"
+  },
+  {
+    "resultId": "12714467",
+    "mail": "multiaccueil@elven.fr",
+    "distance": 121123,
+    "latitude": 47.72817825477196,
+    "telephone": "0297530431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite Enfance",
+    "resultStructId": "358601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.58879201026033,
+    "ville": "elven",
+    "cp": "56250"
+  },
+  {
+    "resultId": "45923226",
+    "mail": "direction.elven@leptitclub.com",
+    "distance": 121073,
+    "latitude": 47.72409450342155,
+    "telephone": "0297676108",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe p'tit club d'Elven",
+    "resultStructId": "697809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "za de lamboux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.5886858900758707,
+    "ville": "elven",
+    "cp": "56250"
+  },
+  {
+    "resultId": "12714467",
+    "mail": "multiaccueil@elven.fr",
+    "distance": 121123,
+    "latitude": 47.72817825477196,
+    "telephone": "0297530431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite Enfance",
+    "resultStructId": "358601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.58879201026033,
+    "ville": "elven",
+    "cp": "56250"
+  }
+]

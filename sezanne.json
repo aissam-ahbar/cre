@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12596467",
+    "mail": "mpe.cias.coteauxsezannais@wanadoo.fr",
+    "distance": 167308,
+    "latitude": 48.72344815292177,
+    "telephone": "0326806288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de la petite enfance Sézanne",
+    "resultStructId": "2652",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "394 boulevardd'holbeach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.733963762614361,
+    "ville": "sezanne",
+    "cp": "51120"
+  },
+  {
+    "resultId": "12596510",
+    "mail": "mpe.cias.coteauxsezannais@wanadoo.fr",
+    "distance": 167308,
+    "latitude": 48.72344815292177,
+    "telephone": "0326806288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Maison de la petite enfance Sézanne",
+    "resultStructId": "2653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "394boulevard d'holbeach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.733963762614361,
+    "ville": "sezanne",
+    "cp": "51120"
+  },
+  {
+    "resultId": "12596467",
+    "mail": "mpe.cias.coteauxsezannais@wanadoo.fr",
+    "distance": 59442,
+    "latitude": 48.72344815292177,
+    "telephone": "0326806288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de la petite enfance Sézanne",
+    "resultStructId": "2652",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "394 boulevardd'holbeach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.733963762614361,
+    "ville": "sezanne",
+    "cp": "51120"
+  },
+  {
+    "resultId": "12596510",
+    "mail": "mpe.cias.coteauxsezannais@wanadoo.fr",
+    "distance": 59442,
+    "latitude": 48.72344815292177,
+    "telephone": "0326806288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Maison de la petite enfance Sézanne",
+    "resultStructId": "2653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "394boulevard d'holbeach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.733963762614361,
+    "ville": "sezanne",
+    "cp": "51120"
+  }
+]

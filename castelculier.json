@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12559960",
+    "mail": "creche-sucredorge@orange.fr",
+    "distance": 76627,
+    "latitude": 44.18462545989177,
+    "telephone": "0553685495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte-garderie \"Le Sucre d'Orge\"",
+    "resultStructId": "653101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "840 route saintcaprais de lerm",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6979358606938096,
+    "ville": "castelculier",
+    "cp": "47240"
+  },
+  {
+    "resultId": "55213873",
+    "mail": "creche-sucredorge@orange.fr",
+    "distance": 77518,
+    "latitude": 44.19099926169641,
+    "telephone": "0553685495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSucre d'Orge",
+    "resultStructId": "609501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route saint caprais de lerm",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7115859683081098,
+    "ville": "castelculier",
+    "cp": "47240"
+  }
+]

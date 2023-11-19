@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12787662",
+    "mail": "maisondelenfance@chevigny-saint-sauveur.fr",
+    "distance": 73830,
+    "latitude": 47.300633928219504,
+    "telephone": "0380481325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil (Ville)",
+    "resultStructId": "199729",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de sennecey 21800 chevigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.128550939786995,
+    "ville": "stsauveur",
+    "cp": ""
+  },
+  {
+    "resultId": "12873756",
+    "mail": "lesptitspoussins@free.fr",
+    "distance": 74477,
+    "latitude": 47.30033983729108,
+    "telephone": "0952880372",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES PETITS POUSSINS",
+    "resultStructId": "199767",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 allee du breuil 21800chevigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.137189359976435,
+    "ville": "stsauveur",
+    "cp": ""
+  },
+  {
+    "resultId": "37621128",
+    "mail": "micro-creche-varennes@admr.org",
+    "distance": 118542,
+    "latitude": 46.482069665648666,
+    "telephone": "0385760718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Monde des doudous",
+    "resultStructId": "158716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "420 route de real - espace reneebeaumont 71480 varennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.242134333633012,
+    "ville": "stsauveur",
+    "cp": ""
+  },
+  {
+    "resultId": "13050322",
+    "mail": "creche.leauvive@la-cab.fr",
+    "distance": 87112,
+    "latitude": 44.869353102692116,
+    "telephone": "0553232609",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'EAUVIVE",
+    "resultStructId": "13236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "bourg - le vignal 24520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5832116597138134,
+    "ville": "stsauveur",
+    "cp": ""
+  },
+  {
+    "resultId": "40901731",
+    "mail": "microcrecheluz65@gmail.com",
+    "distance": 165095,
+    "latitude": 42.87210425833201,
+    "telephone": "0781718585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Marmo'Toy",
+    "resultStructId": "684821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre de vacances ceveo 65120 luz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.004206584546734057,
+    "ville": "stsauveur",
+    "cp": ""
+  }
+]

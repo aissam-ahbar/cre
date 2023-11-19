@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60383514",
+    "mail": "multi-accueil@mairie-domene.fr",
+    "distance": 429253,
+    "latitude": 45.19706537292265,
+    "telephone": "0476771017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACABANE DES BAMBINS",
+    "resultStructId": "710204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue des alpes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.827694446621446,
+    "ville": "domene",
+    "cp": "38420"
+  },
+  {
+    "resultId": "60383514",
+    "mail": "multi-accueil@mairie-domene.fr",
+    "distance": 139162,
+    "latitude": 45.19706537292265,
+    "telephone": "0476771017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACABANE DES BAMBINS",
+    "resultStructId": "710204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue des alpes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.827694446621446,
+    "ville": "domene",
+    "cp": "38420"
+  }
+]

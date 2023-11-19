@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12583739",
+    "mail": "multi.accueil@chevreuse.fr",
+    "distance": 191374,
+    "latitude": 48.70747408990928,
+    "telephone": "0130526400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "682813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de dampierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.038707580486218,
+    "ville": "chevreuse",
+    "cp": "78460"
+  },
+  {
+    "resultId": "12583782",
+    "mail": "multi.accueil@chevreuse.fr",
+    "distance": 191374,
+    "latitude": 48.70747408990928,
+    "telephone": "0130526400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE",
+    "resultStructId": "682812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de dampierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.038707580486218,
+    "ville": "chevreuse",
+    "cp": "78460"
+  },
+  {
+    "resultId": "12583739",
+    "mail": "multi.accueil@chevreuse.fr",
+    "distance": 188751,
+    "latitude": 48.70747408990928,
+    "telephone": "0130526400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "682813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de dampierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.038707580486218,
+    "ville": "chevreuse",
+    "cp": "78460"
+  },
+  {
+    "resultId": "12583782",
+    "mail": "multi.accueil@chevreuse.fr",
+    "distance": 188751,
+    "latitude": 48.70747408990928,
+    "telephone": "0130526400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE",
+    "resultStructId": "682812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de dampierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.038707580486218,
+    "ville": "chevreuse",
+    "cp": "78460"
+  }
+]

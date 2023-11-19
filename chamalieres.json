@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12984137",
+    "mail": "",
+    "distance": 15599,
+    "latitude": 45.76795383396048,
+    "telephone": "0473932892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Bout'choux",
+    "resultStructId": "265601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des hautes roches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0653094854133225,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "26134903",
+    "mail": "",
+    "distance": 15767,
+    "latitude": 45.773468708672596,
+    "telephone": "0473195754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Apprenti'Sages\"",
+    "resultStructId": "262804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073784688763822,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12950769",
+    "mail": "",
+    "distance": 16314,
+    "latitude": 45.77498742107425,
+    "telephone": "0473376478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamilialeTom Pousse",
+    "resultStructId": "265501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 ter avenue de royat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0638867196975754,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984438",
+    "mail": "",
+    "distance": 16357,
+    "latitude": 45.77740441221399,
+    "telephone": "0473309087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes pitchounets",
+    "resultStructId": "265701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis avenue joseph claussat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068397694930922,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12982589",
+    "mail": "",
+    "distance": 16407,
+    "latitude": 45.77640196006779,
+    "telephone": "0473312628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Jeanne",
+    "resultStructId": "266101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dolly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.064845923156271,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984395",
+    "mail": "",
+    "distance": 16430,
+    "latitude": 45.77618970572726,
+    "telephone": "0473361280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Poucets",
+    "resultStructId": "262701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de villars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0637900453190166,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984997",
+    "mail": "",
+    "distance": 16481,
+    "latitude": 45.77675385806751,
+    "telephone": "0473379124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil L'îlot tendresse",
+    "resultStructId": "262802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.063856120726364,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12985470",
+    "mail": "",
+    "distance": 16580,
+    "latitude": 45.77982913316033,
+    "telephone": "0473373391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits mousses",
+    "resultStructId": "265802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue bergougnan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068615202266059,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12985470",
+    "mail": "",
+    "distance": 182865,
+    "latitude": 45.77982913316033,
+    "telephone": "0473373391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits mousses",
+    "resultStructId": "265802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue bergougnan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068615202266059,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984438",
+    "mail": "",
+    "distance": 183113,
+    "latitude": 45.77740441221399,
+    "telephone": "0473309087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes pitchounets",
+    "resultStructId": "265701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis avenue joseph claussat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068397694930922,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "26134903",
+    "mail": "",
+    "distance": 183319,
+    "latitude": 45.773468708672596,
+    "telephone": "0473195754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Apprenti'Sages\"",
+    "resultStructId": "262804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073784688763822,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984997",
+    "mail": "",
+    "distance": 183336,
+    "latitude": 45.77675385806751,
+    "telephone": "0473379124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil L'îlot tendresse",
+    "resultStructId": "262802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.063856120726364,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12982589",
+    "mail": "",
+    "distance": 183336,
+    "latitude": 45.77640196006779,
+    "telephone": "0473312628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Jeanne",
+    "resultStructId": "266101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dolly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.064845923156271,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984395",
+    "mail": "",
+    "distance": 183394,
+    "latitude": 45.77618970572726,
+    "telephone": "0473361280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Poucets",
+    "resultStructId": "262701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de villars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0637900453190166,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12950769",
+    "mail": "",
+    "distance": 183510,
+    "latitude": 45.77498742107425,
+    "telephone": "0473376478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamilialeTom Pousse",
+    "resultStructId": "265501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 ter avenue de royat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0638867196975754,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984137",
+    "mail": "",
+    "distance": 184161,
+    "latitude": 45.76795383396048,
+    "telephone": "0473932892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Bout'choux",
+    "resultStructId": "265601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des hautes roches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0653094854133225,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12985470",
+    "mail": "",
+    "distance": 172659,
+    "latitude": 45.77982913316033,
+    "telephone": "0473373391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits mousses",
+    "resultStructId": "265802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue bergougnan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068615202266059,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984997",
+    "mail": "",
+    "distance": 172706,
+    "latitude": 45.77675385806751,
+    "telephone": "0473379124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil L'îlot tendresse",
+    "resultStructId": "262802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.063856120726364,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984395",
+    "mail": "",
+    "distance": 172753,
+    "latitude": 45.77618970572726,
+    "telephone": "0473361280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Poucets",
+    "resultStructId": "262701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de villars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0637900453190166,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12982589",
+    "mail": "",
+    "distance": 172784,
+    "latitude": 45.77640196006779,
+    "telephone": "0473312628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Jeanne",
+    "resultStructId": "266101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dolly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.064845923156271,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984438",
+    "mail": "",
+    "distance": 172863,
+    "latitude": 45.77740441221399,
+    "telephone": "0473309087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes pitchounets",
+    "resultStructId": "265701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis avenue joseph claussat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.068397694930922,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12950769",
+    "mail": "",
+    "distance": 172864,
+    "latitude": 45.77498742107425,
+    "telephone": "0473376478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamilialeTom Pousse",
+    "resultStructId": "265501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 ter avenue de royat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0638867196975754,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "26134903",
+    "mail": "",
+    "distance": 173464,
+    "latitude": 45.773468708672596,
+    "telephone": "0473195754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Apprenti'Sages\"",
+    "resultStructId": "262804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.073784688763822,
+    "ville": "chamalieres",
+    "cp": "63400"
+  },
+  {
+    "resultId": "12984137",
+    "mail": "",
+    "distance": 173553,
+    "latitude": 45.76795383396048,
+    "telephone": "0473932892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Bout'choux",
+    "resultStructId": "265601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des hautes roches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0653094854133225,
+    "ville": "chamalieres",
+    "cp": "63400"
+  }
+]

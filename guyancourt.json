@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12658645",
+    "mail": "guyancourt.bx@lpcr.fr",
+    "distance": 193571,
+    "latitude": 48.723151432356694,
+    "telephone": "0185608617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES BERCEAUX",
+    "resultStructId": "683831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue helene boucher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0819620233025637,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647680",
+    "mail": "",
+    "distance": 197065,
+    "latitude": 48.75643387682056,
+    "telephone": "0130431588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - JEAN PIAGET",
+    "resultStructId": "683118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jeanmonet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0672915345654865,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12694386",
+    "mail": "cre-064@babilou.com",
+    "distance": 197182,
+    "latitude": 48.75764712368645,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU GUYANCOURT GUYNEMER",
+    "resultStructId": "689802",
+    "omegaId": "7710",
+    "avip": false,
+    "adresse": "rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0657787224798647,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12658731",
+    "mail": "contact@babilou.com",
+    "distance": 197767,
+    "latitude": 48.76326163928174,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU GUYANCOURT CARTIER",
+    "resultStructId": "679023",
+    "omegaId": "7711",
+    "avip": false,
+    "adresse": "1 rue jacquescartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0627821142643077,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12581804",
+    "mail": "",
+    "distance": 198258,
+    "latitude": 48.76666147854282,
+    "telephone": "0130434019",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - FRANCOISE DOLTO",
+    "resultStructId": "683115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 ruejacques ange gabriel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.073586017057216,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647508",
+    "mail": "",
+    "distance": 198792,
+    "latitude": 48.77135002279942,
+    "telephone": "0130431588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - DE LA NOEL",
+    "resultStructId": "683117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue larigole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0752782057453425,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647465",
+    "mail": "",
+    "distance": 198947,
+    "latitude": 48.77511392509609,
+    "telephone": "0130575225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - JOSEPH KOSMA",
+    "resultStructId": "683116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "placejacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0509737407831667,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12658602",
+    "mail": "",
+    "distance": 199046,
+    "latitude": 48.773802682238674,
+    "telephone": "0130483333",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LA NOEL",
+    "resultStructId": "683114",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place du marche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0738377367810603,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647723",
+    "mail": "",
+    "distance": 199857,
+    "latitude": 48.783166072251156,
+    "telephone": "0130483333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - MAP",
+    "resultStructId": "683113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 mail des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053215956158378,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "58216637",
+    "mail": "",
+    "distance": 199857,
+    "latitude": 48.783166072251156,
+    "telephone": "0130483421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - FRANCISQUE POULBOT",
+    "resultStructId": "683120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15mail des saules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053215956158378,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12871348",
+    "mail": "guyancourt@lpcr.fr",
+    "distance": 200191,
+    "latitude": 48.78634531008634,
+    "telephone": "0176783226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9074",
+    "omegaId": "13037",
+    "avip": false,
+    "adresse": "1 rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0516520105037244,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12710683",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 200579,
+    "latitude": 48.78989515509861,
+    "telephone": "0158640907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITES CANAILLES GUYANCOURT",
+    "resultStructId": "693402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 boulevarddes chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.051401479651968,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12710683",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 188544,
+    "latitude": 48.78989515509861,
+    "telephone": "0158640907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITES CANAILLES GUYANCOURT",
+    "resultStructId": "693402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 boulevarddes chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.051401479651968,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12871348",
+    "mail": "guyancourt@lpcr.fr",
+    "distance": 188602,
+    "latitude": 48.78634531008634,
+    "telephone": "0176783226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9074",
+    "omegaId": "13037",
+    "avip": false,
+    "adresse": "1 rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0516520105037244,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647465",
+    "mail": "",
+    "distance": 188683,
+    "latitude": 48.77511392509609,
+    "telephone": "0130575225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - JOSEPH KOSMA",
+    "resultStructId": "683116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "placejacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0509737407831667,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647723",
+    "mail": "",
+    "distance": 188752,
+    "latitude": 48.783166072251156,
+    "telephone": "0130483333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - MAP",
+    "resultStructId": "683113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 mail des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053215956158378,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "58216637",
+    "mail": "",
+    "distance": 188752,
+    "latitude": 48.783166072251156,
+    "telephone": "0130483421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - FRANCISQUE POULBOT",
+    "resultStructId": "683120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15mail des saules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053215956158378,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12658731",
+    "mail": "contact@babilou.com",
+    "distance": 189690,
+    "latitude": 48.76326163928174,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU GUYANCOURT CARTIER",
+    "resultStructId": "679023",
+    "omegaId": "7711",
+    "avip": false,
+    "adresse": "1 rue jacquescartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0627821142643077,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12694386",
+    "mail": "cre-064@babilou.com",
+    "distance": 189980,
+    "latitude": 48.75764712368645,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU GUYANCOURT GUYNEMER",
+    "resultStructId": "689802",
+    "omegaId": "7710",
+    "avip": false,
+    "adresse": "rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0657787224798647,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647680",
+    "mail": "",
+    "distance": 190106,
+    "latitude": 48.75643387682056,
+    "telephone": "0130431588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - JEAN PIAGET",
+    "resultStructId": "683118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jeanmonet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0672915345654865,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12658602",
+    "mail": "",
+    "distance": 190365,
+    "latitude": 48.773802682238674,
+    "telephone": "0130483333",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LA NOEL",
+    "resultStructId": "683114",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place du marche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0738377367810603,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12581804",
+    "mail": "",
+    "distance": 190434,
+    "latitude": 48.76666147854282,
+    "telephone": "0130434019",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - FRANCOISE DOLTO",
+    "resultStructId": "683115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 ruejacques ange gabriel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.073586017057216,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12647508",
+    "mail": "",
+    "distance": 190499,
+    "latitude": 48.77135002279942,
+    "telephone": "0130431588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL - DE LA NOEL",
+    "resultStructId": "683117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue larigole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0752782057453425,
+    "ville": "guyancourt",
+    "cp": "78280"
+  },
+  {
+    "resultId": "12658645",
+    "mail": "guyancourt.bx@lpcr.fr",
+    "distance": 191645,
+    "latitude": 48.723151432356694,
+    "telephone": "0185608617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES BERCEAUX",
+    "resultStructId": "683831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue helene boucher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0819620233025637,
+    "ville": "guyancourt",
+    "cp": "78280"
+  }
+]

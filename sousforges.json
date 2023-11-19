@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12524485",
+    "mail": "",
+    "distance": 183935,
+    "latitude": 48.63041794076662,
+    "telephone": "0164901530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux enfants",
+    "resultStructId": "978",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des aulnettes 91640 briis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1242635208213985,
+    "ville": "sousforges",
+    "cp": ""
+  },
+  {
+    "resultId": "37603605",
+    "mail": "contact@babilou.com",
+    "distance": 184297,
+    "latitude": 48.63029820020151,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBriis sous Forges Bligny",
+    "resultStructId": "430703",
+    "omegaId": "11793",
+    "avip": false,
+    "adresse": "route de bligny 91640briis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1514519820653515,
+    "ville": "sousforges",
+    "cp": ""
+  }
+]

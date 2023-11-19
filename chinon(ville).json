@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12567055",
+    "mail": "multiaccueil.chateau@free.fr",
+    "distance": 26359,
+    "latitude": 47.061644995059545,
+    "telephone": "0386851049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILDE CHATEAU-CHINON",
+    "resultStructId": "705201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue gallois 58120 chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.93281432183935,
+    "ville": "chinon(ville)",
+    "cp": ""
+  },
+  {
+    "resultId": "12567055",
+    "mail": "multiaccueil.chateau@free.fr",
+    "distance": 170711,
+    "latitude": 47.061644995059545,
+    "telephone": "0386851049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILDE CHATEAU-CHINON",
+    "resultStructId": "705201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue gallois 58120 chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.93281432183935,
+    "ville": "chinon(ville)",
+    "cp": ""
+  }
+]

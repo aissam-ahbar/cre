@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12785684",
+    "mail": "dir.creche@wambrechies.fr",
+    "distance": 33493,
+    "latitude": 50.68678313068199,
+    "telephone": "0320065020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Troubadours",
+    "resultStructId": "7082",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue robersart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0539661539641,
+    "ville": "wambrechies",
+    "cp": "59118"
+  },
+  {
+    "resultId": "12989899",
+    "mail": "lesamisdegaspard@yahoo.fr",
+    "distance": 33819,
+    "latitude": 50.68510407742827,
+    "telephone": "0320127208",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesamis de Gaspard",
+    "resultStructId": "11831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120 avenue clement ader",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0630504286181504,
+    "ville": "wambrechies",
+    "cp": "59118"
+  }
+]

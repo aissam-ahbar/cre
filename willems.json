@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12525517",
+    "mail": "trottinecocc@yahoo.fr",
+    "distance": 40800,
+    "latitude": 50.631925879485024,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE COCCINELLE",
+    "resultStructId": "1002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2399704894224506,
+    "ville": "willems",
+    "cp": "59780"
+  },
+  {
+    "resultId": "59254905",
+    "mail": "ges-miriad@outlook.fr",
+    "distance": 40801,
+    "latitude": 50.63160401331049,
+    "telephone": "0320736437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison de Louise",
+    "resultStructId": "694504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place du 8 mai 1984",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2402213407266847,
+    "ville": "willems",
+    "cp": "59780"
+  }
+]

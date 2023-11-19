@@ -1,0 +1,962 @@
+[
+  {
+    "resultId": "21377130",
+    "mail": "smateo@ccas-hyeres.fr",
+    "distance": 130158,
+    "latitude": 43.121986805905166,
+    "telephone": "0494018428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "616002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue rondet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11927784665,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376388",
+    "mail": "nbonche@ccas-hyeres.fr",
+    "distance": 130719,
+    "latitude": 43.11936668627209,
+    "telephone": "0494018423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Némo",
+    "resultStructId": "616005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pillement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125283950990325,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21378130",
+    "mail": "gtiran@ccas-hyeres.fr",
+    "distance": 131021,
+    "latitude": 43.11777467218721,
+    "telephone": "0494651281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Dauphins",
+    "resultStructId": "15465",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.128403091319194,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376592",
+    "mail": "petits.loups@ccas-hyeres.fr",
+    "distance": 131055,
+    "latitude": 43.120104822171726,
+    "telephone": "0494007975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "616004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue joseph clothis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.130174021842368,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12602229",
+    "mail": "lucie.laborde@aphp.fr",
+    "distance": 131153,
+    "latitude": 43.086024578933156,
+    "telephone": "0494380807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SanSalvadour",
+    "resultStructId": "708729",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4312 route de l'almanarre bp 30080",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11146221219001,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21380291",
+    "mail": "croche@ccas-hyeres.fr",
+    "distance": 131184,
+    "latitude": 43.10930524051204,
+    "telephone": "0494007943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fantasia",
+    "resultStructId": "616001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverserenaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125727020284173,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377487",
+    "mail": "creche.petitprince@ccas-hyeres.fr",
+    "distance": 131209,
+    "latitude": 43.10905530275537,
+    "telephone": "0483692524",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "PetitPrince",
+    "resultStructId": "675418",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 avenue renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125925969587422,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "24864516",
+    "mail": "hyeres.macany1@lpcr.fr",
+    "distance": 133222,
+    "latitude": 43.11018222510662,
+    "telephone": "0489518310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmalicieux de Macany 1",
+    "resultStructId": "27314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "262 chemin traversier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.153441755203049,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12603304",
+    "mail": "crechelesjoseph@orange.fr",
+    "distance": 135130,
+    "latitude": 43.11109862362847,
+    "telephone": "0494664223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJoseph",
+    "resultStructId": "2811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2642 chemin saint lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179366848767619,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "60612509",
+    "mail": "amandine.masson@chu-lyon.fr",
+    "distance": 135360,
+    "latitude": 43.03779322435897,
+    "telephone": "0494381513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL JEANNE SABRAN",
+    "resultStructId": "713231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.137832410898129,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12603304",
+    "mail": "crechelesjoseph@orange.fr",
+    "distance": 262166,
+    "latitude": 43.11109862362847,
+    "telephone": "0494664223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJoseph",
+    "resultStructId": "2811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2642 chemin saint lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179366848767619,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "60612509",
+    "mail": "amandine.masson@chu-lyon.fr",
+    "distance": 262227,
+    "latitude": 43.03779322435897,
+    "telephone": "0494381513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL JEANNE SABRAN",
+    "resultStructId": "713231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.137832410898129,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "24864516",
+    "mail": "hyeres.macany1@lpcr.fr",
+    "distance": 264064,
+    "latitude": 43.11018222510662,
+    "telephone": "0489518310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmalicieux de Macany 1",
+    "resultStructId": "27314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "262 chemin traversier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.153441755203049,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377487",
+    "mail": "creche.petitprince@ccas-hyeres.fr",
+    "distance": 266076,
+    "latitude": 43.10905530275537,
+    "telephone": "0483692524",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "PetitPrince",
+    "resultStructId": "675418",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 avenue renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125925969587422,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21380291",
+    "mail": "croche@ccas-hyeres.fr",
+    "distance": 266102,
+    "latitude": 43.10930524051204,
+    "telephone": "0494007943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fantasia",
+    "resultStructId": "616001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverserenaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125727020284173,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12602229",
+    "mail": "lucie.laborde@aphp.fr",
+    "distance": 266190,
+    "latitude": 43.086024578933156,
+    "telephone": "0494380807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SanSalvadour",
+    "resultStructId": "708729",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4312 route de l'almanarre bp 30080",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11146221219001,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376592",
+    "mail": "petits.loups@ccas-hyeres.fr",
+    "distance": 266233,
+    "latitude": 43.120104822171726,
+    "telephone": "0494007975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "616004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue joseph clothis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.130174021842368,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21378130",
+    "mail": "gtiran@ccas-hyeres.fr",
+    "distance": 266265,
+    "latitude": 43.11777467218721,
+    "telephone": "0494651281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Dauphins",
+    "resultStructId": "15465",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.128403091319194,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376388",
+    "mail": "nbonche@ccas-hyeres.fr",
+    "distance": 266567,
+    "latitude": 43.11936668627209,
+    "telephone": "0494018423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Némo",
+    "resultStructId": "616005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pillement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125283950990325,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377130",
+    "mail": "smateo@ccas-hyeres.fr",
+    "distance": 267129,
+    "latitude": 43.121986805905166,
+    "telephone": "0494018428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "616002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue rondet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11927784665,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377130",
+    "mail": "smateo@ccas-hyeres.fr",
+    "distance": 187314,
+    "latitude": 43.121986805905166,
+    "telephone": "0494018428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "616002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue rondet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11927784665,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376388",
+    "mail": "nbonche@ccas-hyeres.fr",
+    "distance": 187865,
+    "latitude": 43.11936668627209,
+    "telephone": "0494018423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Némo",
+    "resultStructId": "616005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pillement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125283950990325,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12602229",
+    "mail": "lucie.laborde@aphp.fr",
+    "distance": 187932,
+    "latitude": 43.086024578933156,
+    "telephone": "0494380807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SanSalvadour",
+    "resultStructId": "708729",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4312 route de l'almanarre bp 30080",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11146221219001,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21378130",
+    "mail": "gtiran@ccas-hyeres.fr",
+    "distance": 188160,
+    "latitude": 43.11777467218721,
+    "telephone": "0494651281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Dauphins",
+    "resultStructId": "15465",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.128403091319194,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376592",
+    "mail": "petits.loups@ccas-hyeres.fr",
+    "distance": 188220,
+    "latitude": 43.120104822171726,
+    "telephone": "0494007975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "616004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue joseph clothis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.130174021842368,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21380291",
+    "mail": "croche@ccas-hyeres.fr",
+    "distance": 188234,
+    "latitude": 43.10930524051204,
+    "telephone": "0494007943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fantasia",
+    "resultStructId": "616001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverserenaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125727020284173,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377487",
+    "mail": "creche.petitprince@ccas-hyeres.fr",
+    "distance": 188258,
+    "latitude": 43.10905530275537,
+    "telephone": "0483692524",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "PetitPrince",
+    "resultStructId": "675418",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 avenue renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125925969587422,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "24864516",
+    "mail": "hyeres.macany1@lpcr.fr",
+    "distance": 190351,
+    "latitude": 43.11018222510662,
+    "telephone": "0489518310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmalicieux de Macany 1",
+    "resultStructId": "27314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "262 chemin traversier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.153441755203049,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "60612509",
+    "mail": "amandine.masson@chu-lyon.fr",
+    "distance": 191710,
+    "latitude": 43.03779322435897,
+    "telephone": "0494381513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL JEANNE SABRAN",
+    "resultStructId": "713231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.137832410898129,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12603304",
+    "mail": "crechelesjoseph@orange.fr",
+    "distance": 192331,
+    "latitude": 43.11109862362847,
+    "telephone": "0494664223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJoseph",
+    "resultStructId": "2811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2642 chemin saint lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179366848767619,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377130",
+    "mail": "smateo@ccas-hyeres.fr",
+    "distance": 92935,
+    "latitude": 43.121986805905166,
+    "telephone": "0494018428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Sirène",
+    "resultStructId": "616002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue rondet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11927784665,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376592",
+    "mail": "petits.loups@ccas-hyeres.fr",
+    "distance": 93191,
+    "latitude": 43.120104822171726,
+    "telephone": "0494007975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "616004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue joseph clothis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.130174021842368,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21376388",
+    "mail": "nbonche@ccas-hyeres.fr",
+    "distance": 93251,
+    "latitude": 43.11936668627209,
+    "telephone": "0494018423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Némo",
+    "resultStructId": "616005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pillement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125283950990325,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21378130",
+    "mail": "gtiran@ccas-hyeres.fr",
+    "distance": 93442,
+    "latitude": 43.11777467218721,
+    "telephone": "0494651281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Dauphins",
+    "resultStructId": "15465",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.128403091319194,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21380291",
+    "mail": "croche@ccas-hyeres.fr",
+    "distance": 94370,
+    "latitude": 43.10930524051204,
+    "telephone": "0494007943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fantasia",
+    "resultStructId": "616001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverserenaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125727020284173,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "21377487",
+    "mail": "creche.petitprince@ccas-hyeres.fr",
+    "distance": 94399,
+    "latitude": 43.10905530275537,
+    "telephone": "0483692524",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "PetitPrince",
+    "resultStructId": "675418",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 avenue renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125925969587422,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "24864516",
+    "mail": "hyeres.macany1@lpcr.fr",
+    "distance": 94420,
+    "latitude": 43.11018222510662,
+    "telephone": "0489518310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmalicieux de Macany 1",
+    "resultStructId": "27314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "262 chemin traversier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.153441755203049,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12603304",
+    "mail": "crechelesjoseph@orange.fr",
+    "distance": 94504,
+    "latitude": 43.11109862362847,
+    "telephone": "0494664223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJoseph",
+    "resultStructId": "2811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2642 chemin saint lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179366848767619,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "12602229",
+    "mail": "lucie.laborde@aphp.fr",
+    "distance": 96901,
+    "latitude": 43.086024578933156,
+    "telephone": "0494380807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SanSalvadour",
+    "resultStructId": "708729",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4312 route de l'almanarre bp 30080",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11146221219001,
+    "ville": "hyeres",
+    "cp": "83400"
+  },
+  {
+    "resultId": "60612509",
+    "mail": "amandine.masson@chu-lyon.fr",
+    "distance": 102365,
+    "latitude": 43.03779322435897,
+    "telephone": "0494381513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL JEANNE SABRAN",
+    "resultStructId": "713231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.137832410898129,
+    "ville": "hyeres",
+    "cp": "83400"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12525431",
+    "mail": "creche@ville-louvres.fr",
+    "distance": 152736,
+    "latitude": 49.04476469758962,
+    "telephone": "0134313103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "1000",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de paris - maison de l'enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5103525541032687,
+    "ville": "louvres",
+    "cp": "95380"
+  },
+  {
+    "resultId": "12720229",
+    "mail": "creche@ville-louvres.fr",
+    "distance": 152763,
+    "latitude": 49.04530922700185,
+    "telephone": "0134313103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mélodies",
+    "resultStructId": "5530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.510153195126472,
+    "ville": "louvres",
+    "cp": "95380"
+  },
+  {
+    "resultId": "12720229",
+    "mail": "creche@ville-louvres.fr",
+    "distance": 159506,
+    "latitude": 49.04530922700185,
+    "telephone": "0134313103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mélodies",
+    "resultStructId": "5530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.510153195126472,
+    "ville": "louvres",
+    "cp": "95380"
+  },
+  {
+    "resultId": "12525431",
+    "mail": "creche@ville-louvres.fr",
+    "distance": 159565,
+    "latitude": 49.04476469758962,
+    "telephone": "0134313103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "1000",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de paris - maison de l'enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5103525541032687,
+    "ville": "louvres",
+    "cp": "95380"
+  }
+]

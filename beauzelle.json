@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13065845",
+    "mail": "lepetitprince@mutualite-mhg.fr",
+    "distance": 149525,
+    "latitude": 43.66194095002688,
+    "telephone": "0964468583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELe Petit Prince Beauzelle",
+    "resultStructId": "673715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du vignemale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3713758414965005,
+    "ville": "beauzelle",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13058879",
+    "mail": "petit.poucet783@orange.fr",
+    "distance": 150290,
+    "latitude": 43.66212552142233,
+    "telephone": "0561597065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet",
+    "resultStructId": "101404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue du muguet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.38264598035287,
+    "ville": "beauzelle",
+    "cp": "31700"
+  }
+]

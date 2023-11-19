@@ -1,0 +1,650 @@
+[
+  {
+    "resultId": "12877110",
+    "mail": "",
+    "distance": 156404,
+    "latitude": 48.89253218201715,
+    "telephone": "0149154594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Françoise Dolto",
+    "resultStructId": "170406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue formagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4223786377667658,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "58966621",
+    "mail": "contact@mini-montessori.com",
+    "distance": 156749,
+    "latitude": 48.88825620334244,
+    "telephone": "0148431024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniMontessori",
+    "resultStructId": "691132",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue charles auray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416981452876849,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12666780",
+    "mail": "",
+    "distance": 156792,
+    "latitude": 48.89289194483921,
+    "telephone": "0171292302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Pellat\"",
+    "resultStructId": "117010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dudocteur pellat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4170945447620404,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "59957986",
+    "mail": "pantin@creche-la-maison-bleue.fr",
+    "distance": 156943,
+    "latitude": 48.8933349858074,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRocambole",
+    "resultStructId": "701948",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 avenue jean l'olive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4150924735004495,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12876981",
+    "mail": "",
+    "distance": 157093,
+    "latitude": 48.88438995156606,
+    "telephone": "0149154526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-JeuxCourteline",
+    "resultStructId": "170403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee courteline",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4116913390070636,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877239",
+    "mail": "",
+    "distance": 7038,
+    "latitude": 48.8927984485495,
+    "telephone": "0149154035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Rachel Lempereur",
+    "resultStructId": "165901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue auger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4000569998323207,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877325",
+    "mail": "lespoulains@liveli.fr",
+    "distance": 7086,
+    "latitude": 48.892047168852166,
+    "telephone": "0146949195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPoulains",
+    "resultStructId": "453201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue hoche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4015999072167125,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12876981",
+    "mail": "",
+    "distance": 7326,
+    "latitude": 48.88438995156606,
+    "telephone": "0149154526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-JeuxCourteline",
+    "resultStructId": "170403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee courteline",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4116913390070636,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12666737",
+    "mail": "contact@jolismomes.org",
+    "distance": 7391,
+    "latitude": 48.90150212155363,
+    "telephone": "0148406686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JolisMomes",
+    "resultStructId": "700923",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue edouard vaillant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.39586050980832,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12962809",
+    "mail": "lesbobinos.iepc@gmail.com",
+    "distance": 7423,
+    "latitude": 48.90327565457858,
+    "telephone": "0148469397",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Bobinos",
+    "resultStructId": "109203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue gabrielle josserand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3939774700518064,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "33581030",
+    "mail": "",
+    "distance": 7445,
+    "latitude": 48.90378402941633,
+    "telephone": "0171295970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Annie Fratellini\"",
+    "resultStructId": "117009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11rue gabrielle josserand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.393651751763088,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "33745770",
+    "mail": "n.boniface@b-cluster.com",
+    "distance": 7529,
+    "latitude": 48.88849743331115,
+    "telephone": "0140350153",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LENID DES TOUT PETITS",
+    "resultStructId": "453701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue mehul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.411759488376788,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "51585074",
+    "mail": "anne.fall@kidoms.com",
+    "distance": 7530,
+    "latitude": 48.895207492657526,
+    "telephone": "0148447181",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS D'HOMMES DISTILLERIE",
+    "resultStructId": "461501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.405706275769336,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877153",
+    "mail": "",
+    "distance": 7617,
+    "latitude": 48.8900851501317,
+    "telephone": "0149154506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Rouget de Lisle",
+    "resultStructId": "165703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17/23 rue rouget de lisle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4118332805909852,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "33731307",
+    "mail": "lesbobinos.iepc@gmail.com",
+    "distance": 7625,
+    "latitude": 48.904666051478564,
+    "telephone": "0148469397",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil associatif les Bobinos",
+    "resultStructId": "451402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue gabriellejosserand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3957744077446868,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12692021",
+    "mail": "lph.pantin@kidoms.com",
+    "distance": 7759,
+    "latitude": 48.8957032307705,
+    "telephone": "0148310284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS D'HOMME PANTIN",
+    "resultStructId": "701215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue delizy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4089753080325247,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12876809",
+    "mail": "",
+    "distance": 7855,
+    "latitude": 48.89400000710548,
+    "telephone": "0149154823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale des Berges",
+    "resultStructId": "9201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des berges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412164347148387,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877024",
+    "mail": "",
+    "distance": 7855,
+    "latitude": 48.89400000710548,
+    "telephone": "0149154822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Bergerons",
+    "resultStructId": "170404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des berges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412164347148387,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12876766",
+    "mail": "",
+    "distance": 7855,
+    "latitude": 48.89400000710548,
+    "telephone": "0149154821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective des Berges",
+    "resultStructId": "170306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des berges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412164347148387,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "58966621",
+    "mail": "contact@mini-montessori.com",
+    "distance": 7858,
+    "latitude": 48.88825620334244,
+    "telephone": "0148431024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniMontessori",
+    "resultStructId": "691132",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue charles auray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416981452876849,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12665017",
+    "mail": "raphael.maily@babilou.com",
+    "distance": 7893,
+    "latitude": 48.897834750863694,
+    "telephone": "0141499810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Petits Minotiers",
+    "resultStructId": "4246",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue delizy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.408993155342424,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "34227335",
+    "mail": "cre-197@babilou.com",
+    "distance": 7893,
+    "latitude": 48.897834750863694,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Pantin Delizy",
+    "resultStructId": "701102",
+    "omegaId": "9402",
+    "avip": false,
+    "adresse": "32 rue delizy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.408993155342424,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "59957986",
+    "mail": "pantin@creche-la-maison-bleue.fr",
+    "distance": 8001,
+    "latitude": 48.8933349858074,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRocambole",
+    "resultStructId": "701948",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 avenue jean l'olive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4150924735004495,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12666780",
+    "mail": "",
+    "distance": 8104,
+    "latitude": 48.89289194483921,
+    "telephone": "0171292302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Pellat\"",
+    "resultStructId": "117010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue dudocteur pellat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4170945447620404,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877110",
+    "mail": "",
+    "distance": 8425,
+    "latitude": 48.89253218201715,
+    "telephone": "0149154594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Françoise Dolto",
+    "resultStructId": "170406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue formagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4223786377667658,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12876938",
+    "mail": "",
+    "distance": 9061,
+    "latitude": 48.913847997483145,
+    "telephone": "0149153730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-JeuxCoquelicots",
+    "resultStructId": "170305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue des courtilleres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.40961239135913,
+    "ville": "pantin",
+    "cp": "93500"
+  },
+  {
+    "resultId": "12877282",
+    "mail": "",
+    "distance": 9101,
+    "latitude": 48.91380755870068,
+    "telephone": "0149156100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil des Courtillières",
+    "resultStructId": "170405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue aime cesaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4104245654230936,
+    "ville": "pantin",
+    "cp": "93500"
+  }
+]

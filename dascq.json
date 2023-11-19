@@ -1,0 +1,675 @@
+[
+  {
+    "resultId": "12611560",
+    "mail": "",
+    "distance": 33252,
+    "latitude": 50.62224859383471,
+    "telephone": "0320919898",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE\"VANILLE-CHOCOLAT\"",
+    "resultStructId": "397901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue des vergers 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1273131714381073,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12548350",
+    "mail": "cmarck@villeneuvedascq.fr",
+    "distance": 33302,
+    "latitude": 50.6220685975658,
+    "telephone": "0320564072",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS \"VALENTIN\"",
+    "resultStructId": "1533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des victoires 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1282931894720445,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49957727",
+    "mail": "",
+    "distance": 33302,
+    "latitude": 50.6220686624173,
+    "telephone": "0320913038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE \"VALENTINE\"",
+    "resultStructId": "397802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue simone veil 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.128293623436507,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12607690",
+    "mail": "csvdascq-adsl@nordnet.fr",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0320918134",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIE\"LES P'TITS VEINARDS\"",
+    "resultStructId": "2913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": ". rue centre de la petite enfancerue des victoires 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49913765",
+    "mail": "",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0320053418",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEBULLES ET BILLES",
+    "resultStructId": "448601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rondeloir 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12611517",
+    "mail": "csflers@hotmail.com",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0320999711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CENTRE SOCIAL FLERS SART",
+    "resultStructId": "3002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard albert 1er59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "23050375",
+    "mail": "contact@babilou.com",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVilleneuve-d'Ast Cense",
+    "resultStructId": "417401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue babilou les bambinsd'alesia babilou les bambins d'alesia 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "13028779",
+    "mail": "contact@babilou.com",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVilleneuve d'Ascq Héloïse",
+    "resultStructId": "415203",
+    "omegaId": "15321",
+    "avip": false,
+    "adresse": "10 rue heloise batimentb6 - europarc de la haute borne 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49956974",
+    "mail": "",
+    "distance": 33383,
+    "latitude": 50.6195037629527,
+    "telephone": "0320914675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS \"VALENTIN\"",
+    "resultStructId": "451101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue cezanne 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1318760096200933,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12790414",
+    "mail": "marmousets@bbox.fr",
+    "distance": 33524,
+    "latitude": 50.62124923259708,
+    "telephone": "0320472082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE LES MARMOUSETS",
+    "resultStructId": "7192",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue du vercors 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1326396204483737,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "54814209",
+    "mail": "hgcscv@gmail.com",
+    "distance": 33600,
+    "latitude": 50.625452328759486,
+    "telephone": "0320913285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILBADABOUM",
+    "resultStructId": "596701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place leon blum 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.130115029940042,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12611603",
+    "mail": "aclonguepee@villeneuvedascq.fr",
+    "distance": 33600,
+    "latitude": 50.625452328759486,
+    "telephone": "0320913285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"BERGAMOTTE\"",
+    "resultStructId": "3004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place leon blum 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.130115029940042,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49957427",
+    "mail": "",
+    "distance": 33739,
+    "latitude": 50.60807609249105,
+    "telephone": "0359312922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE\"LES ASTROMOMES\"",
+    "resultStructId": "451201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue paul langevin 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1469678620378914,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12532569",
+    "mail": "centresocialcorneille@wanadoo.fr",
+    "distance": 34229,
+    "latitude": 50.624388508969375,
+    "telephone": "0320340075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE CORNEILLE",
+    "resultStructId": "1166",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue pierre corneille 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1413165176921174,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "25477413",
+    "mail": "baby.city@people-and-baby.com",
+    "distance": 34382,
+    "latitude": 50.60603143993164,
+    "telephone": "0966824938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYCITY",
+    "resultStructId": "31202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue haddock 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.158638174862716,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "58663145",
+    "mail": "cre-371@babilou.com",
+    "distance": 34570,
+    "latitude": 50.626881309065276,
+    "telephone": "0320399145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVilleneuve Petit Boulevard",
+    "resultStructId": "687214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du petit boulevard59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.144659269384229,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12952016",
+    "mail": "creche@crechecharivari.fr",
+    "distance": 34710,
+    "latitude": 50.63831072017934,
+    "telephone": "0320054358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale « Le Charivari »",
+    "resultStructId": "10950",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des chercheurs 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.136314847644275,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12990071",
+    "mail": "contact@happyruche.com",
+    "distance": 34824,
+    "latitude": 50.64781341349939,
+    "telephone": "0320337966",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HappyRuche",
+    "resultStructId": "699109",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "6 rue denispapin 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.128624948715693,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "58816744",
+    "mail": "cre-611@babilou.com",
+    "distance": 34989,
+    "latitude": 50.64417400419207,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVilleneuve Parmentier",
+    "resultStructId": "689214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue parmentier 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1351645005178956,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "13020171",
+    "mail": "latribudespetits@gmail.com",
+    "distance": 35085,
+    "latitude": 50.63921472422653,
+    "telephone": "0952792667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa tribu des petits",
+    "resultStructId": "12535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee du chargement 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.141688570100512,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49957630",
+    "mail": "",
+    "distance": 35106,
+    "latitude": 50.64579537260997,
+    "telephone": "0320471170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE \"NOUGATINE\"",
+    "resultStructId": "397801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du pave bleu 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1354940417103627,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "13020128",
+    "mail": "latribudespetits@gmail.com",
+    "distance": 35602,
+    "latitude": 50.63996918618453,
+    "telephone": "0954879401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa tribu des petits",
+    "resultStructId": "12534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la creativite 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1495461755172447,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12566926",
+    "mail": "hgcoccinelle@wanadoo.fr",
+    "distance": 35749,
+    "latitude": 50.64043451382901,
+    "telephone": "0320053981",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"Les coccinelles\" (CENTRE SOCIAL COCTEAU)",
+    "resultStructId": "1965",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37allee cadran 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.151540204982741,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12607604",
+    "mail": "edebruyne@villeneuvedascq.fr",
+    "distance": 35964,
+    "latitude": 50.64092092133089,
+    "telephone": "0320913061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE NOUGATINE",
+    "resultStructId": "2911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 chemin des crieurs 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1546321850711285,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12607475",
+    "mail": "aclonguepee@villeneuvedascq.fr",
+    "distance": 35964,
+    "latitude": 50.64092092133089,
+    "telephone": "0320050428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE LES CANAILLOUX",
+    "resultStructId": "2908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 chemin des crieurs 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1546321850711285,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "12607647",
+    "mail": "eboussemart@villeneuvedascq.fr",
+    "distance": 36017,
+    "latitude": 50.64261348013112,
+    "telephone": "0320474791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINICRECHE CLEMENTINE",
+    "resultStructId": "2912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de copenhague 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.153907410964585,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49914387",
+    "mail": "",
+    "distance": 36020,
+    "latitude": 50.64009006244609,
+    "telephone": "0320050428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECANAILLOUS",
+    "resultStructId": "450901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des crieurs 59650 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1563419239472137,
+    "ville": "dascq",
+    "cp": ""
+  },
+  {
+    "resultId": "49916870",
+    "mail": "",
+    "distance": 36033,
+    "latitude": 50.64325647174812,
+    "telephone": "0320610766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS \"CARROUSEL\"",
+    "resultStructId": "451002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des comices 59650villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.153546435668596,
+    "ville": "dascq",
+    "cp": ""
+  }
+]

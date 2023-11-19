@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12975838",
+    "mail": "grandesynthe@rigolocommelavie.fr",
+    "distance": 65897,
+    "latitude": 51.00742526509794,
+    "telephone": "0328252691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Grande Synthe",
+    "resultStructId": "691322",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue galilee 59760",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.31301009796565,
+    "ville": "grandesynthe",
+    "cp": ""
+  },
+  {
+    "resultId": "12496148",
+    "mail": "creche@ville-grande-synthe.fr",
+    "distance": 66844,
+    "latitude": 51.01367310470431,
+    "telephone": "0328277769",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial JEAN PIAGET",
+    "resultStructId": "319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place place du marche /atrium",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3024677733929617,
+    "ville": "grandesynthe",
+    "cp": "59760"
+  },
+  {
+    "resultId": "12580815",
+    "mail": "hg.albeck@ville-grande-synthe.fr",
+    "distance": 66844,
+    "latitude": 51.01367310470431,
+    "telephone": "0328613098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits loups - Halte Garderie Albeck",
+    "resultStructId": "2288",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place atrium placedu marche 59760",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3024677733929617,
+    "ville": "grandesynthe",
+    "cp": ""
+  },
+  {
+    "resultId": "12619558",
+    "mail": "hg.courghain@ville-grande-synthe.fr",
+    "distance": 66844,
+    "latitude": 51.01367310470431,
+    "telephone": "0328218601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesbout-choux - Halte Garderie Courghain",
+    "resultStructId": "3189",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue ducourghain, maison du theatre 59760",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3024677733929617,
+    "ville": "grandesynthe",
+    "cp": ""
+  },
+  {
+    "resultId": "12580858",
+    "mail": "hg.europe@ville-grande-synthe.fr",
+    "distance": 67105,
+    "latitude": 51.01649186744553,
+    "telephone": "0328219078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits mousses - Halte Garderie Europe",
+    "resultStructId": "2289",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jeanne d'arc59760",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3031399551935565,
+    "ville": "grandesynthe",
+    "cp": ""
+  },
+  {
+    "resultId": "12517734",
+    "mail": "creche@ville-grande-synthe.fr",
+    "distance": 67209,
+    "latitude": 51.0195545045363,
+    "telephone": "0328277769",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanPiaget",
+    "resultStructId": "821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "atrium place du marche 59760",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3097947193169075,
+    "ville": "grandesynthe",
+    "cp": ""
+  }
+]

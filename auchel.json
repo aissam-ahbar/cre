@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12987018",
+    "mail": "multi-accueil@auchel.fr",
+    "distance": 17805,
+    "latitude": 50.50459816403306,
+    "telephone": "0321680892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les P'tits Loups\"",
+    "resultStructId": "188106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue gandhi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.472249288267046,
+    "ville": "auchel",
+    "cp": "62260"
+  }
+]

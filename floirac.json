@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12505823",
+    "mail": "f.sabate@ville-floirac33.fr",
+    "distance": 58526,
+    "latitude": 44.832738758281735,
+    "telephone": "0556866004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilNICOLAS ET PIMPRENELLE",
+    "resultStructId": "532901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue du president francoismitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5226490996862613,
+    "ville": "floirac",
+    "cp": "33270"
+  },
+  {
+    "resultId": "53500586",
+    "mail": "crechefamiliale@ville-floirac33.fr",
+    "distance": 59315,
+    "latitude": 44.84125506088141,
+    "telephone": "0556408952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL",
+    "resultStructId": "532601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin de bourbon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5198203010672505,
+    "ville": "floirac",
+    "cp": "33270"
+  },
+  {
+    "resultId": "12568001",
+    "mail": "m.sadouq@ville-floirac33.fr",
+    "distance": 59371,
+    "latitude": 44.84174930960101,
+    "telephone": "0556868441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche Petit Prince",
+    "resultStructId": "533301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 chemin de bourbon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5199747447596782,
+    "ville": "floirac",
+    "cp": "33270"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12865199",
+    "mail": "multiaccueil.lumbin@le-gresivaudan.fr",
+    "distance": 434678,
+    "latitude": 45.31054390662201,
+    "telephone": "0476924615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Lumbout'choux\"",
+    "resultStructId": "8931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin pouillot - champ",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.920972051216573,
+    "ville": "lumbin",
+    "cp": "38660"
+  },
+  {
+    "resultId": "12865199",
+    "mail": "multiaccueil.lumbin@le-gresivaudan.fr",
+    "distance": 150949,
+    "latitude": 45.31054390662201,
+    "telephone": "0476924615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Lumbout'choux\"",
+    "resultStructId": "8931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin pouillot - champ",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.920972051216573,
+    "ville": "lumbin",
+    "cp": "38660"
+  }
+]

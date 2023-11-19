@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12925313",
+    "mail": "cr.ile-aux-enfants@wanadoo.fr",
+    "distance": 145455,
+    "latitude": 45.99647003482477,
+    "telephone": "0474681137",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchel'Île aux Enfants",
+    "resultStructId": "119806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "231 rue bointon 69400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.720688804529988,
+    "ville": "villefranchesursaone",
+    "cp": ""
+  },
+  {
+    "resultId": "12925485",
+    "mail": "le.verger@agglo-villefranche.fr",
+    "distance": 147264,
+    "latitude": 45.982286969878125,
+    "telephone": "0474628620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Verger",
+    "resultStructId": "41006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "418 rue condorcet 69400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7339196684238765,
+    "ville": "villefranchesursaone",
+    "cp": ""
+  }
+]

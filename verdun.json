@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "13068124",
+    "mail": "contact55@alys.fr",
+    "distance": 77754,
+    "latitude": 49.15890138105057,
+    "telephone": "0329861089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Coccinelles",
+    "resultStructId": "86705",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "12rue de la 7eme division blindee usa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.386676503674558,
+    "ville": "verdun",
+    "cp": "55100"
+  },
+  {
+    "resultId": "13068511",
+    "mail": "csckergomard@gmail.com",
+    "distance": 78480,
+    "latitude": 49.151065449247554,
+    "telephone": "0329843566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Papillons Joyeux",
+    "resultStructId": "58517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4/3 rue jean pache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.408098661642461,
+    "ville": "verdun",
+    "cp": "55100"
+  }
+]

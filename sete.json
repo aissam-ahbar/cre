@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12808044",
+    "mail": "crecheconcept@free.fr",
+    "distance": 75914,
+    "latitude": 43.41095715976421,
+    "telephone": "0674364354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBlanche Lune à Sète",
+    "resultStructId": "7602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue des charbonniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.706972246716479,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12810366",
+    "mail": "ma.victorhugo-ccas@ville-sete.fr",
+    "distance": 76659,
+    "latitude": 43.40847988273626,
+    "telephone": "0467742019",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheVictor Hugo à Sète",
+    "resultStructId": "7656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6982858676108887,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "13025210",
+    "mail": "",
+    "distance": 77133,
+    "latitude": 43.409692171282806,
+    "telephone": "0467745772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale à Sète",
+    "resultStructId": "12652",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue danton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6918889983881704,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12810323",
+    "mail": "ma.quartierhaut-ccas@ville-sete.fr",
+    "distance": 77191,
+    "latitude": 43.4011790987859,
+    "telephone": "0467743320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheQuartier Haut à Sète",
+    "resultStructId": "7655",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue grande rue haute",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6938736860725983,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12797681",
+    "mail": "ma.chateauvert-ccas@ville-sete.fr",
+    "distance": 77882,
+    "latitude": 43.407037869032905,
+    "telephone": "0467535960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChâteau Vert à Sète",
+    "resultStructId": "7361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 boulevard chevallier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6832051577504834,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "13017892",
+    "mail": "alamizounette34@yahoo.com",
+    "distance": 78030,
+    "latitude": 43.41145221547726,
+    "telephone": "0626883845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje à la Mizounette à Sète",
+    "resultStructId": "12482",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1042 boulevard deverdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6799712785365903,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12785125",
+    "mail": "le-cocon@orange.fr",
+    "distance": 78257,
+    "latitude": 43.40727139700832,
+    "telephone": "0499020118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje La Chrysalide",
+    "resultStructId": "7069",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard chevalier declerville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6783788358928433,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12785168",
+    "mail": "le-cocon@orange.fr",
+    "distance": 78257,
+    "latitude": 43.40727139700832,
+    "telephone": "0467781594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje Le Cocon Sète",
+    "resultStructId": "7070",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard chevalier declerville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6783788358928433,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12809248",
+    "mail": "ma.iledethau-ccas@ville-sete.fr",
+    "distance": 78854,
+    "latitude": 43.416271933785254,
+    "telephone": "0467530937",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Hippocampes à Sète",
+    "resultStructId": "7630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 boulevard mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.668110874102798,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12797896",
+    "mail": "ma.corniche-ccas@ville-sete.fr",
+    "distance": 79028,
+    "latitude": 43.39543273953186,
+    "telephone": "0467534279",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrançoise Dolto à Sète",
+    "resultStructId": "7366",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6723786216237846,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12808044",
+    "mail": "crecheconcept@free.fr",
+    "distance": 25872,
+    "latitude": 43.41095715976421,
+    "telephone": "0674364354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBlanche Lune à Sète",
+    "resultStructId": "7602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue des charbonniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.706972246716479,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12810366",
+    "mail": "ma.victorhugo-ccas@ville-sete.fr",
+    "distance": 26512,
+    "latitude": 43.40847988273626,
+    "telephone": "0467742019",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheVictor Hugo à Sète",
+    "resultStructId": "7656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6982858676108887,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "13025210",
+    "mail": "",
+    "distance": 26721,
+    "latitude": 43.409692171282806,
+    "telephone": "0467745772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale à Sète",
+    "resultStructId": "12652",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue danton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6918889983881704,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "13017892",
+    "mail": "alamizounette34@yahoo.com",
+    "distance": 27175,
+    "latitude": 43.41145221547726,
+    "telephone": "0626883845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje à la Mizounette à Sète",
+    "resultStructId": "12482",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1042 boulevard deverdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6799712785365903,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12810323",
+    "mail": "ma.quartierhaut-ccas@ville-sete.fr",
+    "distance": 27375,
+    "latitude": 43.4011790987859,
+    "telephone": "0467743320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheQuartier Haut à Sète",
+    "resultStructId": "7655",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue grande rue haute",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6938736860725983,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12797681",
+    "mail": "ma.chateauvert-ccas@ville-sete.fr",
+    "distance": 27388,
+    "latitude": 43.407037869032905,
+    "telephone": "0467535960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChâteau Vert à Sète",
+    "resultStructId": "7361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 boulevard chevallier de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6832051577504834,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12809248",
+    "mail": "ma.iledethau-ccas@ville-sete.fr",
+    "distance": 27402,
+    "latitude": 43.416271933785254,
+    "telephone": "0467530937",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Hippocampes à Sète",
+    "resultStructId": "7630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 boulevard mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.668110874102798,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12785125",
+    "mail": "le-cocon@orange.fr",
+    "distance": 27615,
+    "latitude": 43.40727139700832,
+    "telephone": "0499020118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje La Chrysalide",
+    "resultStructId": "7069",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard chevalier declerville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6783788358928433,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12785168",
+    "mail": "le-cocon@orange.fr",
+    "distance": 27615,
+    "latitude": 43.40727139700832,
+    "telephone": "0467781594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje Le Cocon Sète",
+    "resultStructId": "7070",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard chevalier declerville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6783788358928433,
+    "ville": "sete",
+    "cp": "34200"
+  },
+  {
+    "resultId": "12797896",
+    "mail": "ma.corniche-ccas@ville-sete.fr",
+    "distance": 28942,
+    "latitude": 43.39543273953186,
+    "telephone": "0467534279",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrançoise Dolto à Sète",
+    "resultStructId": "7366",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevard joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6723786216237846,
+    "ville": "sete",
+    "cp": "34200"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12965088",
+    "mail": "creche.levens@svdb.fr",
+    "distance": 243848,
+    "latitude": 43.85876749583012,
+    "telephone": "0493851134",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLa ritournelle",
+    "resultStructId": "585101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert preaud - quartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.226459339116451,
+    "ville": "levens",
+    "cp": "06670"
+  },
+  {
+    "resultId": "12965088",
+    "mail": "creche.levens@svdb.fr",
+    "distance": 93899,
+    "latitude": 43.85876749583012,
+    "telephone": "0493851134",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLa ritournelle",
+    "resultStructId": "585101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert preaud - quartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.226459339116451,
+    "ville": "levens",
+    "cp": "06670"
+  }
+]

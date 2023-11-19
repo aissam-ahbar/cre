@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13070102",
+    "mail": "",
+    "distance": 137768,
+    "latitude": 48.937148973714116,
+    "telephone": "0160261368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-JeuxArc-en-Ciel",
+    "resultStructId": "382801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du tour du parc 77410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.68815078390032,
+    "ville": "clayesouilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12957735",
+    "mail": "lesgalopins@sfr.fr",
+    "distance": 138281,
+    "latitude": 48.94205016332695,
+    "telephone": "0160268830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Galopins",
+    "resultStructId": "15619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue pasteur 77410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6822111679112934,
+    "ville": "clayesouilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12957735",
+    "mail": "lesgalopins@sfr.fr",
+    "distance": 170301,
+    "latitude": 48.94205016332695,
+    "telephone": "0160268830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Galopins",
+    "resultStructId": "15619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue pasteur 77410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6822111679112934,
+    "ville": "clayesouilly",
+    "cp": ""
+  },
+  {
+    "resultId": "13070102",
+    "mail": "",
+    "distance": 170840,
+    "latitude": 48.937148973714116,
+    "telephone": "0160261368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-JeuxArc-en-Ciel",
+    "resultStructId": "382801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du tour du parc 77410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.68815078390032,
+    "ville": "clayesouilly",
+    "cp": ""
+  }
+]

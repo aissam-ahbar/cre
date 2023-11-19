@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12566969",
+    "mail": "creche.tournus@ccmt71.fr",
+    "distance": 95386,
+    "latitude": 46.561676754949644,
+    "telephone": "0385510892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche de Tournus",
+    "resultStructId": "700520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 route vielle route d'ozenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.912026711293779,
+    "ville": "tournus",
+    "cp": "71700"
+  }
+]

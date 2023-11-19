@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12927893",
+    "mail": "multiaccueil.chapareillan@le-gresivaudan.fr",
+    "distance": 446268,
+    "latitude": 45.47002998750304,
+    "telephone": "0476455914",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Bambins",
+    "resultStructId": "10389",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des buis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979868265255103,
+    "ville": "chapareillan",
+    "cp": "38530"
+  },
+  {
+    "resultId": "12927893",
+    "mail": "multiaccueil.chapareillan@le-gresivaudan.fr",
+    "distance": 168394,
+    "latitude": 45.47002998750304,
+    "telephone": "0476455914",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Bambins",
+    "resultStructId": "10389",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des buis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979868265255103,
+    "ville": "chapareillan",
+    "cp": "38530"
+  }
+]

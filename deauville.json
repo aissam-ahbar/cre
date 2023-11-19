@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12505522",
+    "mail": "creche@deauville.fr",
+    "distance": 64290,
+    "latitude": 49.35857129162899,
+    "telephone": "0231882777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRÈCHEMUNICIPALE DE DEAUVILLE",
+    "resultStructId": "513601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue robert fossorier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.07525065469257147,
+    "ville": "deauville",
+    "cp": "14800"
+  },
+  {
+    "resultId": "21437953",
+    "mail": "creche.deauvillegare@people-and-baby.com",
+    "distance": 64809,
+    "latitude": 49.36004568460078,
+    "telephone": "0984433552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'ODYSSÉE",
+    "resultStructId": "692208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place louis armand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08338297133099258,
+    "ville": "deauville",
+    "cp": "14800"
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "resultId": "34212510",
+    "mail": "contact@microcreche-lpm.fr",
+    "distance": 161423,
+    "latitude": 48.978996030010116,
+    "telephone": "0231208505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES P'TITS MINEURS",
+    "resultStructId": "335702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du chevalement minier14420 soumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2337568651409295,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12807614",
+    "mail": "balos02@hotmail.fr",
+    "distance": 151845,
+    "latitude": 49.83299722317565,
+    "telephone": "0681185759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BB-Bout'Chou",
+    "resultStructId": "674109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21bis rue de la fere 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.307318164529,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "32056267",
+    "mail": "halte-garderie@saint-quentin.fr",
+    "distance": 152175,
+    "latitude": 49.83615019285237,
+    "telephone": "0323625314",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie municipale",
+    "resultStructId": "88902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place stalingrad 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3061866866005194,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13045119",
+    "mail": "enfance.jeunesse@ville-saint-quentin.fr",
+    "distance": 152183,
+    "latitude": 49.83601372160402,
+    "telephone": "0323684145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale",
+    "resultStructId": "13115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place stalingrad 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.30572542669416,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12698729",
+    "mail": "lesdiablotins02@orange.fr",
+    "distance": 153675,
+    "latitude": 49.844923285354334,
+    "telephone": "0323091661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDiablotins",
+    "resultStructId": "5030",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des plates pierres 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2894368509646097,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12833844",
+    "mail": "lespetiteschenilles02@gmail.com",
+    "distance": 153915,
+    "latitude": 49.84848459085006,
+    "telephone": "0323087674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Chenilles",
+    "resultStructId": "8202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du gouvernement 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2912465794764967,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12612764",
+    "mail": "creche.collective@ville-saint-quentin.fr",
+    "distance": 153917,
+    "latitude": 49.843125303941186,
+    "telephone": "0323089034",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "3031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevard victor hugo 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.280116134397851,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13044001",
+    "mail": "saint.quentin@lpcr.fr",
+    "distance": 153953,
+    "latitude": 49.84696823931739,
+    "telephone": "0383221906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGESAINT QUENTIN",
+    "resultStructId": "111107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "espace creatis, lebois de la chocque 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2872122942814324,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "37504576",
+    "mail": "sabine.lpp@gmail.com",
+    "distance": 153977,
+    "latitude": 49.83550129865248,
+    "telephone": "0323655228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PIERROTS 2",
+    "resultStructId": "156902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean falloux 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2632249518071403,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "37504518",
+    "mail": "sabine.lpp@gmail.com",
+    "distance": 154253,
+    "latitude": 49.84662387593266,
+    "telephone": "0323069644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PIERROTS 3",
+    "resultStructId": "156901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis boulevard henri martin 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.279527226589452,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13043657",
+    "mail": "contact.mppas@creche-saintquentin.com",
+    "distance": 154483,
+    "latitude": 49.848704207389524,
+    "telephone": "0323662660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Mes premiers pas\"",
+    "resultStructId": "13081",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 rue des glacis 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.278479612397255,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13045033",
+    "mail": "les-petites.canailles@orange.fr",
+    "distance": 154689,
+    "latitude": 49.86052333980709,
+    "telephone": "0323655188",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles",
+    "resultStructId": "13113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue robert schumann 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.298372840753307,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "57290432",
+    "mail": "contact@ocomme3pom.fr",
+    "distance": 154773,
+    "latitude": 49.854361338443816,
+    "telephone": "0615163977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OCOMME 3 POM",
+    "resultStructId": "674104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de flavigny 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2834577984696995,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "31936275",
+    "mail": "mpcreche@gmail.com",
+    "distance": 155294,
+    "latitude": 49.85721573722792,
+    "telephone": "0640719668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PONEYS",
+    "resultStructId": "85614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saint laurent 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.277228794676654,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13043227",
+    "mail": "leslutins@ch-stquentin.fr",
+    "distance": 155715,
+    "latitude": 49.857666396094146,
+    "telephone": "0323067551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups et Les Lutins",
+    "resultStructId": "13071",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "239 rue de fayet 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.268365985167661,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13043227",
+    "mail": "leslutins@ch-stquentin.fr",
+    "distance": 78856,
+    "latitude": 49.857666396094146,
+    "telephone": "0323067551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups et Les Lutins",
+    "resultStructId": "13071",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "239 rue de fayet 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.268365985167661,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "31936275",
+    "mail": "mpcreche@gmail.com",
+    "distance": 79215,
+    "latitude": 49.85721573722792,
+    "telephone": "0640719668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PONEYS",
+    "resultStructId": "85614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saint laurent 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.277228794676654,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13045033",
+    "mail": "les-petites.canailles@orange.fr",
+    "distance": 79666,
+    "latitude": 49.86052333980709,
+    "telephone": "0323655188",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles",
+    "resultStructId": "13113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue robert schumann 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.298372840753307,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "57290432",
+    "mail": "contact@ocomme3pom.fr",
+    "distance": 79713,
+    "latitude": 49.854361338443816,
+    "telephone": "0615163977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OCOMME 3 POM",
+    "resultStructId": "674104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de flavigny 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2834577984696995,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13043657",
+    "mail": "contact.mppas@creche-saintquentin.com",
+    "distance": 80081,
+    "latitude": 49.848704207389524,
+    "telephone": "0323662660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Mes premiers pas\"",
+    "resultStructId": "13081",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 rue des glacis 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.278479612397255,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "37504518",
+    "mail": "sabine.lpp@gmail.com",
+    "distance": 80319,
+    "latitude": 49.84662387593266,
+    "telephone": "0323069644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PIERROTS 3",
+    "resultStructId": "156901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis boulevard henri martin 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.279527226589452,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12833844",
+    "mail": "lespetiteschenilles02@gmail.com",
+    "distance": 80558,
+    "latitude": 49.84848459085006,
+    "telephone": "0323087674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Chenilles",
+    "resultStructId": "8202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du gouvernement 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2912465794764967,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13044001",
+    "mail": "saint.quentin@lpcr.fr",
+    "distance": 80560,
+    "latitude": 49.84696823931739,
+    "telephone": "0383221906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGESAINT QUENTIN",
+    "resultStructId": "111107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "espace creatis, lebois de la chocque 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2872122942814324,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12612764",
+    "mail": "creche.collective@ville-saint-quentin.fr",
+    "distance": 80679,
+    "latitude": 49.843125303941186,
+    "telephone": "0323089034",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "3031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 boulevard victor hugo 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.280116134397851,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "37504576",
+    "mail": "sabine.lpp@gmail.com",
+    "distance": 80834,
+    "latitude": 49.83550129865248,
+    "telephone": "0323655228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PIERROTS 2",
+    "resultStructId": "156902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean falloux 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2632249518071403,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12698729",
+    "mail": "lesdiablotins02@orange.fr",
+    "distance": 80836,
+    "latitude": 49.844923285354334,
+    "telephone": "0323091661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDiablotins",
+    "resultStructId": "5030",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des plates pierres 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2894368509646097,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13045119",
+    "mail": "enfance.jeunesse@ville-saint-quentin.fr",
+    "distance": 82279,
+    "latitude": 49.83601372160402,
+    "telephone": "0323684145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale",
+    "resultStructId": "13115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place stalingrad 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.30572542669416,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "32056267",
+    "mail": "halte-garderie@saint-quentin.fr",
+    "distance": 82283,
+    "latitude": 49.83615019285237,
+    "telephone": "0323625314",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie municipale",
+    "resultStructId": "88902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place stalingrad 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3061866866005194,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12807614",
+    "mail": "balos02@hotmail.fr",
+    "distance": 82627,
+    "latitude": 49.83299722317565,
+    "telephone": "0681185759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BB-Bout'Chou",
+    "resultStructId": "674109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21bis rue de la fere 02100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.307318164529,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "34212510",
+    "mail": "contact@microcreche-lpm.fr",
+    "distance": 21419,
+    "latitude": 48.978996030010116,
+    "telephone": "0231208505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES P'TITS MINEURS",
+    "resultStructId": "335702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du chevalement minier14420 soumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2337568651409295,
+    "ville": "stquentin",
+    "cp": ""
+  },
+  {
+    "resultId": "34212510",
+    "mail": "contact@microcreche-lpm.fr",
+    "distance": 161423,
+    "latitude": 48.978996030010116,
+    "telephone": "0231208505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES P'TITS MINEURS",
+    "resultStructId": "335702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place du chevalement minier14420 soumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2337568651409295,
+    "ville": "stquentin",
+    "cp": ""
+  }
+]

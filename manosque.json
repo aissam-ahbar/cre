@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "12602788",
+    "mail": "pommedapi@bbox.fr",
+    "distance": 97897,
+    "latitude": 43.83373397626627,
+    "telephone": "0492872376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "2799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la trinque d'isnard. appartement 65. batiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "204100"
+  },
+  {
+    "resultId": "12602831",
+    "mail": "pma-la-farandole@ville-manosque.fr",
+    "distance": 97897,
+    "latitude": 43.83373397626627,
+    "telephone": "0492703546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "2800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de drouille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12875433",
+    "mail": "les-papillons@creche-manosque.fr",
+    "distance": 97980,
+    "latitude": 43.82505391921587,
+    "telephone": "0492744453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Papillons",
+    "resultStructId": "9169",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 boulevard du temps perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.787219876728806,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12872294",
+    "mail": "florencegudefin@hotmail.fr",
+    "distance": 98422,
+    "latitude": 43.81800107684992,
+    "telephone": "0492745938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheManosque Caloupilé - La Maison Bleue",
+    "resultStructId": "9096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "209 bis avenue lespres combaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.795956806118111,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12903684",
+    "mail": "",
+    "distance": 99612,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMoulin Neuf",
+    "resultStructId": "9826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "41784054",
+    "mail": "",
+    "distance": 99612,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "222504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12601369",
+    "mail": "collectif3@orange.fr",
+    "distance": 101315,
+    "latitude": 43.84450143331215,
+    "telephone": "0492708041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesComptines",
+    "resultStructId": "708512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur henri gennatas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.822299101247824,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12903684",
+    "mail": "",
+    "distance": 326707,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMoulin Neuf",
+    "resultStructId": "9826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "41784054",
+    "mail": "",
+    "distance": 326707,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "222504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12601369",
+    "mail": "collectif3@orange.fr",
+    "distance": 326789,
+    "latitude": 43.84450143331215,
+    "telephone": "0492708041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesComptines",
+    "resultStructId": "708512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur henri gennatas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.822299101247824,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12872294",
+    "mail": "florencegudefin@hotmail.fr",
+    "distance": 326908,
+    "latitude": 43.81800107684992,
+    "telephone": "0492745938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheManosque Caloupilé - La Maison Bleue",
+    "resultStructId": "9096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "209 bis avenue lespres combaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.795956806118111,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12875433",
+    "mail": "les-papillons@creche-manosque.fr",
+    "distance": 327925,
+    "latitude": 43.82505391921587,
+    "telephone": "0492744453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Papillons",
+    "resultStructId": "9169",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 boulevard du temps perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.787219876728806,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12602831",
+    "mail": "pma-la-farandole@ville-manosque.fr",
+    "distance": 328785,
+    "latitude": 43.83373397626627,
+    "telephone": "0492703546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "2800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de drouille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12602788",
+    "mail": "pommedapi@bbox.fr",
+    "distance": 328785,
+    "latitude": 43.83373397626627,
+    "telephone": "0492872376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "2799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la trinque d'isnard. appartement 65. batiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "204100"
+  },
+  {
+    "resultId": "12602788",
+    "mail": "pommedapi@bbox.fr",
+    "distance": 153771,
+    "latitude": 43.83373397626627,
+    "telephone": "0492872376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "2799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la trinque d'isnard. appartement 65. batiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "204100"
+  },
+  {
+    "resultId": "12602831",
+    "mail": "pma-la-farandole@ville-manosque.fr",
+    "distance": 153771,
+    "latitude": 43.83373397626627,
+    "telephone": "0492703546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "2800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de drouille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12875433",
+    "mail": "les-papillons@creche-manosque.fr",
+    "distance": 154008,
+    "latitude": 43.82505391921587,
+    "telephone": "0492744453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Papillons",
+    "resultStructId": "9169",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 boulevard du temps perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.787219876728806,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12872294",
+    "mail": "florencegudefin@hotmail.fr",
+    "distance": 154584,
+    "latitude": 43.81800107684992,
+    "telephone": "0492745938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheManosque Caloupilé - La Maison Bleue",
+    "resultStructId": "9096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "209 bis avenue lespres combaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.795956806118111,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12903684",
+    "mail": "",
+    "distance": 155657,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMoulin Neuf",
+    "resultStructId": "9826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "41784054",
+    "mail": "",
+    "distance": 155657,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "222504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12601369",
+    "mail": "collectif3@orange.fr",
+    "distance": 157127,
+    "latitude": 43.84450143331215,
+    "telephone": "0492708041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesComptines",
+    "resultStructId": "708512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur henri gennatas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.822299101247824,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12601369",
+    "mail": "collectif3@orange.fr",
+    "distance": 22921,
+    "latitude": 43.84450143331215,
+    "telephone": "0492708041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesComptines",
+    "resultStructId": "708512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur henri gennatas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.822299101247824,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12903684",
+    "mail": "",
+    "distance": 24974,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMoulin Neuf",
+    "resultStructId": "9826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "41784054",
+    "mail": "",
+    "distance": 24974,
+    "latitude": 43.827327116480305,
+    "telephone": "0492703887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "222504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin auguste girard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807539782757605,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12602788",
+    "mail": "pommedapi@bbox.fr",
+    "distance": 26271,
+    "latitude": 43.83373397626627,
+    "telephone": "0492872376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "2799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la trinque d'isnard. appartement 65. batiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "204100"
+  },
+  {
+    "resultId": "12602831",
+    "mail": "pma-la-farandole@ville-manosque.fr",
+    "distance": 26271,
+    "latitude": 43.83373397626627,
+    "telephone": "0492703546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "2800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de drouille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.782336379914877,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12872294",
+    "mail": "florencegudefin@hotmail.fr",
+    "distance": 26333,
+    "latitude": 43.81800107684992,
+    "telephone": "0492745938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheManosque Caloupilé - La Maison Bleue",
+    "resultStructId": "9096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "209 bis avenue lespres combaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.795956806118111,
+    "ville": "manosque",
+    "cp": "04100"
+  },
+  {
+    "resultId": "12875433",
+    "mail": "les-papillons@creche-manosque.fr",
+    "distance": 26461,
+    "latitude": 43.82505391921587,
+    "telephone": "0492744453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Papillons",
+    "resultStructId": "9169",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 boulevard du temps perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.787219876728806,
+    "ville": "manosque",
+    "cp": "04100"
+  }
+]

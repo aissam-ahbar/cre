@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "58651263",
+    "mail": "creche.amaryllis@micro-baby.com",
+    "distance": 170829,
+    "latitude": 48.95353292514988,
+    "telephone": "0967180243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - AMARYLLIS",
+    "resultStructId": "687104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 bis avenue du professeur emilesergent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8215027259260987,
+    "ville": "epone",
+    "cp": "78680"
+  },
+  {
+    "resultId": "12557380",
+    "mail": "lesifs78@orange.fr",
+    "distance": 170832,
+    "latitude": 48.95325117128805,
+    "telephone": "0130950049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES IFS",
+    "resultStructId": "687830",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de la breche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8215546450163083,
+    "ville": "epone",
+    "cp": "78680"
+  },
+  {
+    "resultId": "59166982",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 170832,
+    "latitude": 48.95325117128805,
+    "telephone": "0180825631",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITES CANAILLES EPONE",
+    "resultStructId": "693401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue danielbricon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8215546450163083,
+    "ville": "epone",
+    "cp": "78680"
+  }
+]

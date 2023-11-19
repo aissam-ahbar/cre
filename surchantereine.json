@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12768570",
+    "mail": "multi.accueil@brousurchantereine.fr",
+    "distance": 141271,
+    "latitude": 48.8808778524761,
+    "telephone": "0160084871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Joséphine BAKER",
+    "resultStructId": "679818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du marechal joffre77177 brou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6286221509610184,
+    "ville": "surchantereine",
+    "cp": ""
+  },
+  {
+    "resultId": "29188563",
+    "mail": "",
+    "distance": 141496,
+    "latitude": 48.87944662799658,
+    "telephone": "0164800657",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAttitude Brou sur Chantereine",
+    "resultStructId": "50004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue jean jaures77177 brou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6252909977738637,
+    "ville": "surchantereine",
+    "cp": ""
+  }
+]

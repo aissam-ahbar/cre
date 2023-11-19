@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58748402",
+    "mail": "cre-718@babilou.com",
+    "distance": 28171,
+    "latitude": 50.668712062207256,
+    "telephone": "0320548471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouPérenchies",
+    "resultStructId": "688407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence de la filature, rue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.97325126465402,
+    "ville": "perenchies",
+    "cp": "59840"
+  },
+  {
+    "resultId": "12974505",
+    "mail": "genevieve.petit@ville-perenchies.fr",
+    "distance": 28171,
+    "latitude": 50.668712062207256,
+    "telephone": "0320095134",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeTyphanon",
+    "resultStructId": "11473",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place roger dutriez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.97325126465402,
+    "ville": "perenchies",
+    "cp": "59840"
+  }
+]

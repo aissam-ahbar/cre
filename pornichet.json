@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12533988",
+    "mail": "matelots@mairie-pornichet.fr",
+    "distance": 108023,
+    "latitude": 47.25290002503335,
+    "telephone": "0240119326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Matelots",
+    "resultStructId": "1199",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la viree loya",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.31275854173639,
+    "ville": "pornichet",
+    "cp": "44380"
+  },
+  {
+    "resultId": "12534031",
+    "mail": "dauphins@mairie-pornichet.fr",
+    "distance": 108023,
+    "latitude": 47.25290002503335,
+    "telephone": "0240610458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Dauphins - Pornichet -",
+    "resultStructId": "1200",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la viree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.31275854173639,
+    "ville": "pornichet",
+    "cp": "44380"
+  },
+  {
+    "resultId": "12533988",
+    "mail": "matelots@mairie-pornichet.fr",
+    "distance": 108023,
+    "latitude": 47.25290002503335,
+    "telephone": "0240119326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Matelots",
+    "resultStructId": "1199",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la viree loya",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.31275854173639,
+    "ville": "pornichet",
+    "cp": "44380"
+  },
+  {
+    "resultId": "12534031",
+    "mail": "dauphins@mairie-pornichet.fr",
+    "distance": 108023,
+    "latitude": 47.25290002503335,
+    "telephone": "0240610458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Dauphins - Pornichet -",
+    "resultStructId": "1200",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la viree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.31275854173639,
+    "ville": "pornichet",
+    "cp": "44380"
+  }
+]

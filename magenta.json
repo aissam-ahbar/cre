@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12805894",
+    "mail": "ilauxenfants@ville-magenta.fr",
+    "distance": 55254,
+    "latitude": 49.052436857072024,
+    "telephone": "0326564635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil L'île aux enfants Magenta",
+    "resultStructId": "7552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue anatole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.967570457645758,
+    "ville": "magenta",
+    "cp": "51530"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "53851072",
+    "mail": "saone@lacompagniedarthur.fr",
+    "distance": 148263,
+    "latitude": 47.224958852633755,
+    "telephone": "0381511682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Compagnie d'Arthur - Saone",
+    "resultStructId": "546601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue joseph",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.11694353131093,
+    "ville": "saone",
+    "cp": "25660"
+  },
+  {
+    "resultId": "12699460",
+    "mail": "creche-plateau@famillesrurales.org",
+    "distance": 148330,
+    "latitude": 47.225520528526715,
+    "telephone": "0961275684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AFRmulti accueil \"les loupiots\" (MA du Plateau)Saône",
+    "resultStructId": "107118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des loupiots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1178545573517615,
+    "ville": "saone",
+    "cp": "25660"
+  }
+]

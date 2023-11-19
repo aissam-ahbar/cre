@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12710382",
+    "mail": "jean.bernard@mennecy.fr",
+    "distance": 182113,
+    "latitude": 48.56193369970927,
+    "telephone": "0169900473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanBernard",
+    "resultStructId": "485201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4297718858924764,
+    "ville": "mennecy",
+    "cp": "91540"
+  },
+  {
+    "resultId": "44701169",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 182632,
+    "latitude": 48.56242152458422,
+    "telephone": "0973799893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS MENNECY",
+    "resultStructId": "414203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue louise vilmorin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4499348688433518,
+    "ville": "mennecy",
+    "cp": "91540"
+  },
+  {
+    "resultId": "44701169",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 155000,
+    "latitude": 48.56242152458422,
+    "telephone": "0973799893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS MENNECY",
+    "resultStructId": "414203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue louise vilmorin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4499348688433518,
+    "ville": "mennecy",
+    "cp": "91540"
+  },
+  {
+    "resultId": "12710382",
+    "mail": "jean.bernard@mennecy.fr",
+    "distance": 156478,
+    "latitude": 48.56193369970927,
+    "telephone": "0169900473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanBernard",
+    "resultStructId": "485201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4297718858924764,
+    "ville": "mennecy",
+    "cp": "91540"
+  }
+]

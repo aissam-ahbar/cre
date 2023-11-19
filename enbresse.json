@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "29744505",
+    "mail": "micro-creche-beaurepaire@admr.org",
+    "distance": 113559,
+    "latitude": 46.66900470494156,
+    "telephone": "0961638105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\" Le repaire des louveteaux \"",
+    "resultStructId": "57102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "404 route de bourgogne71580 beaurepaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3887756844414465,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "12857072",
+    "mail": "multiaccueil-montrevel@cc-montrevelenbresse.fr",
+    "distance": 125137,
+    "latitude": 46.34010224821722,
+    "telephone": "0474256455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL A P'TITS PAS",
+    "resultStructId": "672015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "200 rue charriere basse 01340montrevel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1302568276185685,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13013119",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 140830,
+    "latitude": 46.20603235258148,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE TERRE DES FLEURS",
+    "resultStructId": "12371",
+    "omegaId": "3167",
+    "avip": false,
+    "adresse": "8 rue des lilas 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.209600879684196,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "31298539",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141033,
+    "latitude": 46.20676696495754,
+    "telephone": "0474424595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspacePetite Enfance Charles Jarrin",
+    "resultStructId": "75812",
+    "omegaId": "50472",
+    "avip": false,
+    "adresse": "8 rue magenta 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.215808720604261,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "12857803",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141229,
+    "latitude": 46.21183841270498,
+    "telephone": "0474479830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Espacepetite enfance Alexandre Dumas",
+    "resultStructId": "700108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 place alexandre dumas01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.230758980822809,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012990",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141272,
+    "latitude": 46.207119293416994,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DU BASTION",
+    "resultStructId": "12368",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue charles jarrin 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.22198263654984,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "12858534",
+    "mail": "bourg.en.bresse@lpcr.fr",
+    "distance": 141650,
+    "latitude": 46.21674745602266,
+    "telephone": "0428690271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "111001",
+    "omegaId": "2585",
+    "avip": false,
+    "adresse": "268 avenue san severo 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.250141651893652,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13013033",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141741,
+    "latitude": 46.19678116280028,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DU PELOUX",
+    "resultStructId": "12369",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du comte de lateyssoniere 01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.211028685881315,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012904",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141742,
+    "latitude": 46.204180849889724,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DES CORDELIERS",
+    "resultStructId": "711110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 passage descordeliers 01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.226568790978346,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012732",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 141742,
+    "latitude": 46.204180849889724,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrecheFamiliale Bourg en Bresse",
+    "resultStructId": "12362",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 passage des cordeliers01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.226568790978346,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012947",
+    "mail": "petiteenfance@biourgenbresse.fr",
+    "distance": 141913,
+    "latitude": 46.210672854637366,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DES DIMES",
+    "resultStructId": "12367",
+    "omegaId": "3169",
+    "avip": false,
+    "adresse": "14 rue du revermont 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.243758440637671,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "41742988",
+    "mail": "bourg.stnicolas@lpcr.fr",
+    "distance": 142162,
+    "latitude": 46.20272154222325,
+    "telephone": "0428690311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - BOURG EN BRESSE ST NICOLAS",
+    "resultStructId": "222122",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5boulevard saint nicolas 01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.233097591528376,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13013076",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 142280,
+    "latitude": 46.200204239627986,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE LAZARE CARNOT",
+    "resultStructId": "12370",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis rue lazare carnot01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.230569957957157,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012861",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 142345,
+    "latitude": 46.20422814605487,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DES BAUDIERES",
+    "resultStructId": "12365",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue amedee mercier01000 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.240319715603561,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "45966169",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 143155,
+    "latitude": 46.190898835755426,
+    "telephone": "0465600069",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspacePetite enfance des Vennes",
+    "resultStructId": "710606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue antoine lorin 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.2311228295542715,
+    "ville": "enbresse",
+    "cp": ""
+  },
+  {
+    "resultId": "13012818",
+    "mail": "petiteenfance@bourgenbresse.fr",
+    "distance": 143378,
+    "latitude": 46.19990507890476,
+    "telephone": "0474453737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEPETITE ENFANCE DE LA REYSSOUZE",
+    "resultStructId": "12364",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue henri dunant 01000bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.254720174704155,
+    "ville": "enbresse",
+    "cp": ""
+  }
+]

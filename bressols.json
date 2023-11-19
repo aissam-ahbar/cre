@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12644240",
+    "mail": "pomdapi.bressols@orange.fr",
+    "distance": 132283,
+    "latitude": 43.96974589605627,
+    "telephone": "0563651123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pomd'Api",
+    "resultStructId": "3763",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3353694633329125,
+    "ville": "bressols",
+    "cp": "82710"
+  }
+]

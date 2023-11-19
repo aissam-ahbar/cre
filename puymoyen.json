@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12556950",
+    "mail": "b.partaud@puymoyen.fr",
+    "distance": 192703,
+    "latitude": 45.614582221199576,
+    "telephone": "0545239646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Puymoyen",
+    "resultStructId": "178616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place genainville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1805326662464633,
+    "ville": "puymoyen",
+    "cp": "16400"
+  },
+  {
+    "resultId": "12556950",
+    "mail": "b.partaud@puymoyen.fr",
+    "distance": 144702,
+    "latitude": 45.614582221199576,
+    "telephone": "0545239646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Puymoyen",
+    "resultStructId": "178616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place genainville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1805326662464633,
+    "ville": "puymoyen",
+    "cp": "16400"
+  }
+]

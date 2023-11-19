@@ -1,0 +1,968 @@
+[
+  {
+    "resultId": "57745376",
+    "mail": "stmande.petitparc@liveli.fr",
+    "distance": 155863,
+    "latitude": 48.84398310344131,
+    "telephone": "0186220725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Petit Parc",
+    "resultStructId": "678608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ter avenue pasteur 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.42359969121903,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57675253",
+    "mail": "",
+    "distance": 155943,
+    "latitude": 48.84578600876996,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PaidouGambetta",
+    "resultStructId": "677713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue gambetta 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422692452965825,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800406",
+    "mail": "amandinetoumegne@la-maison-bleue.fr",
+    "distance": 156043,
+    "latitude": 48.836438973149626,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GrandChêne",
+    "resultStructId": "679213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue herbillon 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4204109718503872,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "13057804",
+    "mail": "crechesmande94@gmail.com",
+    "distance": 156070,
+    "latitude": 48.84514785426154,
+    "telephone": "0143741890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Haya Mouchka",
+    "resultStructId": "677005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis avenue gambetta 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.420886900114364,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800318",
+    "mail": "leptitnid@hotmail.fr",
+    "distance": 156170,
+    "latitude": 48.839276842777764,
+    "telephone": "0143983224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Nid",
+    "resultStructId": "679212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jeanne d'arc 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4189370815078846,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "13059008",
+    "mail": "",
+    "distance": 156248,
+    "latitude": 48.844960107069994,
+    "telephone": "0158834835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LPC St Mandé",
+    "resultStructId": "13438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue poirier 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4184271638793517,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800258",
+    "mail": "bebepatissiers@people-and-baby.com",
+    "distance": 156264,
+    "latitude": 48.84032326051174,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EIDULOA-Les Bebepatissiers",
+    "resultStructId": "679211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4177427990204685,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "12511929",
+    "mail": "creche-tourelle@mairie-saint-mande.fr",
+    "distance": 156296,
+    "latitude": 48.84836399189675,
+    "telephone": "0141740327",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Tourelle\"",
+    "resultStructId": "682501",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 rue plisson94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41812056708,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "18187490",
+    "mail": "",
+    "distance": 156338,
+    "latitude": 48.8488604299887,
+    "telephone": "0972537617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PARTENAIRECRECHE JOFFRE",
+    "resultStructId": "14789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue joffre 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417601713421642,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12512015",
+    "mail": "creche-lesptitswollemis@mairie-saint-mande.fr",
+    "distance": 156344,
+    "latitude": 48.83992094533547,
+    "telephone": "0149579720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtits Wollémis",
+    "resultStructId": "278401",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "13 rue sacrot94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416610982117699,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "13057718",
+    "mail": "creche-familiale@mairie-saint-mande.fr",
+    "distance": 156344,
+    "latitude": 48.83992094533547,
+    "telephone": "0149579725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "276901",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "8 place luciendelahaye 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416610982117699,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "48238113",
+    "mail": "contact@paidou.fr",
+    "distance": 156348,
+    "latitude": 48.84857637107373,
+    "telephone": "0146812827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PaïdouJoffre",
+    "resultStructId": "360601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31-33 avenue joffre 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417428983821409,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12512531",
+    "mail": "stmande.lamaisondubois1@lpcr.fr",
+    "distance": 156381,
+    "latitude": 48.8437546427641,
+    "telephone": "0186222318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Maison du Bois 1 DSP",
+    "resultStructId": "712709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "17894894",
+    "mail": "stmande.lamaisondubois2@lpcr.fr",
+    "distance": 156381,
+    "latitude": 48.8437546427641,
+    "telephone": "0186222319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Maison du Bois 2 DSP",
+    "resultStructId": "712710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "13057761",
+    "mail": "",
+    "distance": 156381,
+    "latitude": 48.8437546427641,
+    "telephone": "0153661736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Maison du Bois",
+    "resultStructId": "13409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12539922",
+    "mail": "",
+    "distance": 156391,
+    "latitude": 48.841477454139735,
+    "telephone": "0143281227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Bérulle 1",
+    "resultStructId": "15406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de berulle 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416115902597765,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "18188896",
+    "mail": "contact@babilou.com",
+    "distance": 156516,
+    "latitude": 48.83604837416002,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Mandé Mouchotte",
+    "resultStructId": "623001",
+    "omegaId": "31767",
+    "avip": false,
+    "adresse": "57-59 rue du commandantmouchotte 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4138981910130326,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "32681976",
+    "mail": "contact@petits-tourbillons.com",
+    "distance": 156543,
+    "latitude": 48.83556966598165,
+    "telephone": "0144870603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Tourbillons",
+    "resultStructId": "626301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue sainte marie 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4134847283337026,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "48324231",
+    "mail": "contact@petits-tourbillons.com",
+    "distance": 156543,
+    "latitude": 48.83556966598165,
+    "telephone": "0189166500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Tourbillons Saint-Mandé 2",
+    "resultStructId": "364601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue sainte-marie94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4134847283337026,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12501910",
+    "mail": "lespetitscastors@gmail.com",
+    "distance": 156579,
+    "latitude": 48.83467393436875,
+    "telephone": "0141740298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"les Petits Castors\"",
+    "resultStructId": "453",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue sainte marie94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412912262442978,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "48238113",
+    "mail": "contact@paidou.fr",
+    "distance": 7164,
+    "latitude": 48.84857637107373,
+    "telephone": "0146812827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PaïdouJoffre",
+    "resultStructId": "360601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31-33 avenue joffre 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417428983821409,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "18187490",
+    "mail": "",
+    "distance": 7173,
+    "latitude": 48.8488604299887,
+    "telephone": "0972537617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PARTENAIRECRECHE JOFFRE",
+    "resultStructId": "14789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue joffre 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417601713421642,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12512531",
+    "mail": "stmande.lamaisondubois1@lpcr.fr",
+    "distance": 7189,
+    "latitude": 48.8437546427641,
+    "telephone": "0186222318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Maison du Bois 1 DSP",
+    "resultStructId": "712709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "17894894",
+    "mail": "stmande.lamaisondubois2@lpcr.fr",
+    "distance": 7189,
+    "latitude": 48.8437546427641,
+    "telephone": "0186222319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Maison du Bois 2 DSP",
+    "resultStructId": "712710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "13057761",
+    "mail": "",
+    "distance": 7189,
+    "latitude": 48.8437546427641,
+    "telephone": "0153661736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Maison du Bois",
+    "resultStructId": "13409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue victor hugo 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41647843026362,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12511929",
+    "mail": "creche-tourelle@mairie-saint-mande.fr",
+    "distance": 7218,
+    "latitude": 48.84836399189675,
+    "telephone": "0141740327",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Tourelle\"",
+    "resultStructId": "682501",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 rue plisson94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41812056708,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12539922",
+    "mail": "",
+    "distance": 7220,
+    "latitude": 48.841477454139735,
+    "telephone": "0143281227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Bérulle 1",
+    "resultStructId": "15406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de berulle 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416115902597765,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12501910",
+    "mail": "lespetitscastors@gmail.com",
+    "distance": 7221,
+    "latitude": 48.83467393436875,
+    "telephone": "0141740298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"les Petits Castors\"",
+    "resultStructId": "453",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue sainte marie94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412912262442978,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "32681976",
+    "mail": "contact@petits-tourbillons.com",
+    "distance": 7226,
+    "latitude": 48.83556966598165,
+    "telephone": "0144870603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Tourbillons",
+    "resultStructId": "626301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue sainte marie 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4134847283337026,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "48324231",
+    "mail": "contact@petits-tourbillons.com",
+    "distance": 7226,
+    "latitude": 48.83556966598165,
+    "telephone": "0189166500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Tourbillons Saint-Mandé 2",
+    "resultStructId": "364601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue sainte-marie94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4134847283337026,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "18188896",
+    "mail": "contact@babilou.com",
+    "distance": 7237,
+    "latitude": 48.83604837416002,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Mandé Mouchotte",
+    "resultStructId": "623001",
+    "omegaId": "31767",
+    "avip": false,
+    "adresse": "57-59 rue du commandantmouchotte 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4138981910130326,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "12512015",
+    "mail": "creche-lesptitswollemis@mairie-saint-mande.fr",
+    "distance": 7299,
+    "latitude": 48.83992094533547,
+    "telephone": "0149579720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtits Wollémis",
+    "resultStructId": "278401",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "13 rue sacrot94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416610982117699,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "13057718",
+    "mail": "creche-familiale@mairie-saint-mande.fr",
+    "distance": 7299,
+    "latitude": 48.83992094533547,
+    "telephone": "0149579725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "276901",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "8 place luciendelahaye 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416610982117699,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "13059008",
+    "mail": "",
+    "distance": 7302,
+    "latitude": 48.844960107069994,
+    "telephone": "0158834835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LPC St Mandé",
+    "resultStructId": "13438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue poirier 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4184271638793517,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800258",
+    "mail": "bebepatissiers@people-and-baby.com",
+    "distance": 7368,
+    "latitude": 48.84032326051174,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EIDULOA-Les Bebepatissiers",
+    "resultStructId": "679211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4177427990204685,
+    "ville": "stmande",
+    "cp": "94160"
+  },
+  {
+    "resultId": "13057804",
+    "mail": "crechesmande94@gmail.com",
+    "distance": 7475,
+    "latitude": 48.84514785426154,
+    "telephone": "0143741890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Haya Mouchka",
+    "resultStructId": "677005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis avenue gambetta 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.420886900114364,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800318",
+    "mail": "leptitnid@hotmail.fr",
+    "distance": 7482,
+    "latitude": 48.839276842777764,
+    "telephone": "0143983224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Nid",
+    "resultStructId": "679212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jeanne d'arc 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4189370815078846,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57675253",
+    "mail": "",
+    "distance": 7592,
+    "latitude": 48.84578600876996,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PaidouGambetta",
+    "resultStructId": "677713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue gambetta 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.422692452965825,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57800406",
+    "mail": "amandinetoumegne@la-maison-bleue.fr",
+    "distance": 7676,
+    "latitude": 48.836438973149626,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GrandChêne",
+    "resultStructId": "679213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue herbillon 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4204109718503872,
+    "ville": "stmande",
+    "cp": ""
+  },
+  {
+    "resultId": "57745376",
+    "mail": "stmande.petitparc@liveli.fr",
+    "distance": 7694,
+    "latitude": 48.84398310344131,
+    "telephone": "0186220725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Petit Parc",
+    "resultStructId": "678608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ter avenue pasteur 94160",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.42359969121903,
+    "ville": "stmande",
+    "cp": ""
+  }
+]

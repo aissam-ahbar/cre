@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "35917758",
+    "mail": "creches.petitspetons@gmail.com",
+    "distance": 25957,
+    "latitude": 50.24357360082866,
+    "telephone": "0321488709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetitsPetons",
+    "resultStructId": "652502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la mairie 62123 beaumetz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.655158126229362,
+    "ville": "lesloges",
+    "cp": ""
+  },
+  {
+    "resultId": "12830920",
+    "mail": "petiteenfance-lesloges@agglo-fecampcauxlittoral.fr",
+    "distance": 103119,
+    "latitude": 49.699443989602344,
+    "telephone": "0235109530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LELOGIS DES PETITS",
+    "resultStructId": "344602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 ter residence de l'aiguille creuse76790",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.2758278312320778,
+    "ville": "lesloges",
+    "cp": ""
+  }
+]

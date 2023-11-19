@@ -1,0 +1,1442 @@
+[
+  {
+    "resultId": "12744662",
+    "mail": "creche.bois-protestants@ville-larochelle.fr",
+    "distance": 160673,
+    "latitude": 46.17395875607927,
+    "telephone": "0546674234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Bois des Protestants",
+    "resultStructId": "162704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 rue du velodrome17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1404982281629765,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756745",
+    "mail": "",
+    "distance": 160942,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les trois licornes",
+    "resultStructId": "6409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756788",
+    "mail": "",
+    "distance": 160942,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCalypso",
+    "resultStructId": "6410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725097",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 161406,
+    "latitude": 46.16736278623361,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Crèche \"Il était un petitnavire\"",
+    "resultStructId": "675507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 avenue des cordeliers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.140798114421473,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12700277",
+    "mail": "creche.petitapetit@wanadoo.fr",
+    "distance": 161493,
+    "latitude": 46.16625806431553,
+    "telephone": "0546670717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchepetit à petit",
+    "resultStructId": "5066",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue basse de saint eloi 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1344218664242196,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12783061",
+    "mail": "lesptitsfutes17@gmail.com",
+    "distance": 161715,
+    "latitude": 46.1667936768729,
+    "telephone": "0546424770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationles p'tits futés",
+    "resultStructId": "7021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 place de l' europe 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1790365775763982,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744576",
+    "mail": "creche.mireuil@ville-larochelle.fr",
+    "distance": 161826,
+    "latitude": 46.165798983614046,
+    "telephone": "0546421301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Mireuil",
+    "resultStructId": "162703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square de la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "38298153",
+    "mail": "",
+    "distance": 161826,
+    "latitude": 46.165798983614046,
+    "telephone": "0546318754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche de Mireuil",
+    "resultStructId": "171301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "24526898",
+    "mail": "kidsandcie@gmail.com",
+    "distance": 161947,
+    "latitude": 46.16538736459522,
+    "telephone": "0638014152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKids&Cie",
+    "resultStructId": "26403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue denfert rochereau 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.189518625093217,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12812602",
+    "mail": "eaje.larochelle@mfca.fr",
+    "distance": 162010,
+    "latitude": 46.16301299844696,
+    "telephone": "0546664262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée de Jéricho",
+    "resultStructId": "75001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue claude masse 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606992493832375,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725226",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 162135,
+    "latitude": 46.1610669491649,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Halte-Garderie \"les petitsprinces\"",
+    "resultStructId": "89003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue thiers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1460630708417139,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744705",
+    "mail": "creche.lapallice@ville-larochelle.fr",
+    "distance": 162285,
+    "latitude": 46.163773941949046,
+    "telephone": "0546557840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Pallice",
+    "resultStructId": "162802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "249 avenue denfert rochereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.209830459703174,
+    "ville": "larochelle",
+    "cp": "17000"
+  },
+  {
+    "resultId": "12831006",
+    "mail": "creche17000@les-cherubins.com",
+    "distance": 162322,
+    "latitude": 46.159667898655115,
+    "telephone": "0546307693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes chérubins de la Rochelle",
+    "resultStructId": "8136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue gaspard monge - zades fiefs de villeneuve 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1513739997636392,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12595822",
+    "mail": "melimelo@9business.fr",
+    "distance": 162704,
+    "latitude": 46.15792351706969,
+    "telephone": "0546434875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mélimélo",
+    "resultStructId": "2637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue du marechal juin 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1799196902416997,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "33450463",
+    "mail": "latelier@les-cherubins.com",
+    "distance": 162798,
+    "latitude": 46.15375608830101,
+    "telephone": "0546307732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'atelier des Chérubins",
+    "resultStructId": "104902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gaspard monge17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1186553718298393,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597155",
+    "mail": "lafarandole17@orange.fr",
+    "distance": 163062,
+    "latitude": 46.15165212189532,
+    "telephone": "0546344317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationla farandole",
+    "resultStructId": "119401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 14 juillet 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1247389490283406,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744619",
+    "mail": "creche.villeneuve@ville-larochelle.fr",
+    "distance": 163150,
+    "latitude": 46.15079792021525,
+    "telephone": "0546441483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Villeneuve les Salines",
+    "resultStructId": "162310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue philippechabaneix 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1235289094865675,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744748",
+    "mail": "creche.minimes@ville-larochelle.fr",
+    "distance": 163912,
+    "latitude": 46.14534141533934,
+    "telephone": "0546074800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minimes",
+    "resultStructId": "162801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue de roux 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1517332782227874,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597026",
+    "mail": "lileauxbambins17@gmail.com",
+    "distance": 164149,
+    "latitude": 46.142957587859954,
+    "telephone": "0546442408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Îleaux Bambins-Centre social Tasdon Bongraine lesMinimes",
+    "resultStructId": "171202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee marie-claude memon 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.147188555605505,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "37458847",
+    "mail": "crechelestresors@gmail.com",
+    "distance": 164458,
+    "latitude": 46.140920346926265,
+    "telephone": "0954620633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Trésors",
+    "resultStructId": "159701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue alfred kastler 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606909514202177,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597026",
+    "mail": "lileauxbambins17@gmail.com",
+    "distance": 211999,
+    "latitude": 46.142957587859954,
+    "telephone": "0546442408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Îleaux Bambins-Centre social Tasdon Bongraine lesMinimes",
+    "resultStructId": "171202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee marie-claude memon 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.147188555605505,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "37458847",
+    "mail": "crechelestresors@gmail.com",
+    "distance": 212144,
+    "latitude": 46.140920346926265,
+    "telephone": "0954620633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Trésors",
+    "resultStructId": "159701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue alfred kastler 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606909514202177,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744619",
+    "mail": "creche.villeneuve@ville-larochelle.fr",
+    "distance": 212206,
+    "latitude": 46.15079792021525,
+    "telephone": "0546441483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Villeneuve les Salines",
+    "resultStructId": "162310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue philippechabaneix 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1235289094865675,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597155",
+    "mail": "lafarandole17@orange.fr",
+    "distance": 212327,
+    "latitude": 46.15165212189532,
+    "telephone": "0546344317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationla farandole",
+    "resultStructId": "119401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 14 juillet 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1247389490283406,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744748",
+    "mail": "creche.minimes@ville-larochelle.fr",
+    "distance": 212368,
+    "latitude": 46.14534141533934,
+    "telephone": "0546074800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minimes",
+    "resultStructId": "162801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue de roux 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1517332782227874,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "33450463",
+    "mail": "latelier@les-cherubins.com",
+    "distance": 212393,
+    "latitude": 46.15375608830101,
+    "telephone": "0546307732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'atelier des Chérubins",
+    "resultStructId": "104902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gaspard monge17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1186553718298393,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12831006",
+    "mail": "creche17000@les-cherubins.com",
+    "distance": 213856,
+    "latitude": 46.159667898655115,
+    "telephone": "0546307693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes chérubins de la Rochelle",
+    "resultStructId": "8136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue gaspard monge - zades fiefs de villeneuve 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1513739997636392,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725226",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 213864,
+    "latitude": 46.1610669491649,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Halte-Garderie \"les petitsprinces\"",
+    "resultStructId": "89003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue thiers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1460630708417139,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12700277",
+    "mail": "creche.petitapetit@wanadoo.fr",
+    "distance": 214107,
+    "latitude": 46.16625806431553,
+    "telephone": "0546670717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchepetit à petit",
+    "resultStructId": "5066",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue basse de saint eloi 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1344218664242196,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725097",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 214387,
+    "latitude": 46.16736278623361,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Crèche \"Il était un petitnavire\"",
+    "resultStructId": "675507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 avenue des cordeliers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.140798114421473,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12595822",
+    "mail": "melimelo@9business.fr",
+    "distance": 214432,
+    "latitude": 46.15792351706969,
+    "telephone": "0546434875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mélimélo",
+    "resultStructId": "2637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue du marechal juin 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1799196902416997,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12812602",
+    "mail": "eaje.larochelle@mfca.fr",
+    "distance": 214451,
+    "latitude": 46.16301299844696,
+    "telephone": "0546664262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée de Jéricho",
+    "resultStructId": "75001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue claude masse 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606992493832375,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756745",
+    "mail": "",
+    "distance": 214719,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les trois licornes",
+    "resultStructId": "6409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756788",
+    "mail": "",
+    "distance": 214719,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCalypso",
+    "resultStructId": "6410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744662",
+    "mail": "creche.bois-protestants@ville-larochelle.fr",
+    "distance": 215070,
+    "latitude": 46.17395875607927,
+    "telephone": "0546674234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Bois des Protestants",
+    "resultStructId": "162704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 rue du velodrome17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1404982281629765,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "38298153",
+    "mail": "",
+    "distance": 215233,
+    "latitude": 46.165798983614046,
+    "telephone": "0546318754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche de Mireuil",
+    "resultStructId": "171301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744576",
+    "mail": "creche.mireuil@ville-larochelle.fr",
+    "distance": 215233,
+    "latitude": 46.165798983614046,
+    "telephone": "0546421301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Mireuil",
+    "resultStructId": "162703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square de la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12783061",
+    "mail": "lesptitsfutes17@gmail.com",
+    "distance": 215333,
+    "latitude": 46.1667936768729,
+    "telephone": "0546424770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationles p'tits futés",
+    "resultStructId": "7021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 place de l' europe 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1790365775763982,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "24526898",
+    "mail": "kidsandcie@gmail.com",
+    "distance": 215469,
+    "latitude": 46.16538736459522,
+    "telephone": "0638014152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKids&Cie",
+    "resultStructId": "26403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue denfert rochereau 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.189518625093217,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744705",
+    "mail": "creche.lapallice@ville-larochelle.fr",
+    "distance": 215856,
+    "latitude": 46.163773941949046,
+    "telephone": "0546557840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Pallice",
+    "resultStructId": "162802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "249 avenue denfert rochereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.209830459703174,
+    "ville": "larochelle",
+    "cp": "17000"
+  },
+  {
+    "resultId": "12744662",
+    "mail": "creche.bois-protestants@ville-larochelle.fr",
+    "distance": 160673,
+    "latitude": 46.17395875607927,
+    "telephone": "0546674234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Bois des Protestants",
+    "resultStructId": "162704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 rue du velodrome17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1404982281629765,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756745",
+    "mail": "",
+    "distance": 160942,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les trois licornes",
+    "resultStructId": "6409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12756788",
+    "mail": "",
+    "distance": 160942,
+    "latitude": 46.17137574612171,
+    "telephone": "0546002760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCalypso",
+    "resultStructId": "6410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de beauregard 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1373607165658213,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725097",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 161406,
+    "latitude": 46.16736278623361,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Crèche \"Il était un petitnavire\"",
+    "resultStructId": "675507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 avenue des cordeliers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.140798114421473,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12700277",
+    "mail": "creche.petitapetit@wanadoo.fr",
+    "distance": 161493,
+    "latitude": 46.16625806431553,
+    "telephone": "0546670717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchepetit à petit",
+    "resultStructId": "5066",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue basse de saint eloi 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1344218664242196,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12783061",
+    "mail": "lesptitsfutes17@gmail.com",
+    "distance": 161715,
+    "latitude": 46.1667936768729,
+    "telephone": "0546424770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationles p'tits futés",
+    "resultStructId": "7021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 place de l' europe 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1790365775763982,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "38298153",
+    "mail": "",
+    "distance": 161826,
+    "latitude": 46.165798983614046,
+    "telephone": "0546318754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche de Mireuil",
+    "resultStructId": "171301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744576",
+    "mail": "creche.mireuil@ville-larochelle.fr",
+    "distance": 161826,
+    "latitude": 46.165798983614046,
+    "telephone": "0546421301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Mireuil",
+    "resultStructId": "162703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square de la passerelle 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1791775543537604,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "24526898",
+    "mail": "kidsandcie@gmail.com",
+    "distance": 161947,
+    "latitude": 46.16538736459522,
+    "telephone": "0638014152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKids&Cie",
+    "resultStructId": "26403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue denfert rochereau 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.189518625093217,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12812602",
+    "mail": "eaje.larochelle@mfca.fr",
+    "distance": 162010,
+    "latitude": 46.16301299844696,
+    "telephone": "0546664262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée de Jéricho",
+    "resultStructId": "75001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue claude masse 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606992493832375,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12725226",
+    "mail": "accueil@christianefaure.fr",
+    "distance": 162135,
+    "latitude": 46.1610669491649,
+    "telephone": "0546410673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CSCChristiane Faure - Halte-Garderie \"les petitsprinces\"",
+    "resultStructId": "89003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue thiers 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1460630708417139,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744705",
+    "mail": "creche.lapallice@ville-larochelle.fr",
+    "distance": 162285,
+    "latitude": 46.163773941949046,
+    "telephone": "0546557840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Pallice",
+    "resultStructId": "162802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "249 avenue denfert rochereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.209830459703174,
+    "ville": "larochelle",
+    "cp": "17000"
+  },
+  {
+    "resultId": "12831006",
+    "mail": "creche17000@les-cherubins.com",
+    "distance": 162322,
+    "latitude": 46.159667898655115,
+    "telephone": "0546307693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes chérubins de la Rochelle",
+    "resultStructId": "8136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue gaspard monge - zades fiefs de villeneuve 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1513739997636392,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12595822",
+    "mail": "melimelo@9business.fr",
+    "distance": 162704,
+    "latitude": 46.15792351706969,
+    "telephone": "0546434875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mélimélo",
+    "resultStructId": "2637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue du marechal juin 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1799196902416997,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "33450463",
+    "mail": "latelier@les-cherubins.com",
+    "distance": 162798,
+    "latitude": 46.15375608830101,
+    "telephone": "0546307732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'atelier des Chérubins",
+    "resultStructId": "104902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gaspard monge17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1186553718298393,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597155",
+    "mail": "lafarandole17@orange.fr",
+    "distance": 163062,
+    "latitude": 46.15165212189532,
+    "telephone": "0546344317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationla farandole",
+    "resultStructId": "119401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 14 juillet 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1247389490283406,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744619",
+    "mail": "creche.villeneuve@ville-larochelle.fr",
+    "distance": 163150,
+    "latitude": 46.15079792021525,
+    "telephone": "0546441483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Villeneuve les Salines",
+    "resultStructId": "162310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue philippechabaneix 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1235289094865675,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12744748",
+    "mail": "creche.minimes@ville-larochelle.fr",
+    "distance": 163912,
+    "latitude": 46.14534141533934,
+    "telephone": "0546074800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minimes",
+    "resultStructId": "162801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue de roux 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1517332782227874,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12597026",
+    "mail": "lileauxbambins17@gmail.com",
+    "distance": 164149,
+    "latitude": 46.142957587859954,
+    "telephone": "0546442408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Îleaux Bambins-Centre social Tasdon Bongraine lesMinimes",
+    "resultStructId": "171202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee marie-claude memon 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.147188555605505,
+    "ville": "larochelle",
+    "cp": ""
+  },
+  {
+    "resultId": "37458847",
+    "mail": "crechelestresors@gmail.com",
+    "distance": 164458,
+    "latitude": 46.140920346926265,
+    "telephone": "0954620633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Trésors",
+    "resultStructId": "159701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue alfred kastler 17000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1606909514202177,
+    "ville": "larochelle",
+    "cp": ""
+  }
+]

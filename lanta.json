@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12726774",
+    "mail": "creche.fpb@terres-du-lauragais.fr",
+    "distance": 175281,
+    "latitude": 43.56658835725973,
+    "telephone": "0561460518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFERME DES P'TITS BOUTS",
+    "resultStructId": "522601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit boulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6652889655719867,
+    "ville": "lanta",
+    "cp": "31570"
+  },
+  {
+    "resultId": "13062061",
+    "mail": "creche.bdp@terres-du-lauragais.fr",
+    "distance": 175281,
+    "latitude": 43.56658835725973,
+    "telephone": "0562185205",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBonheur dans Le Pré",
+    "resultStructId": "522602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit boulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6652889655719867,
+    "ville": "lanta",
+    "cp": "31570"
+  },
+  {
+    "resultId": "12726774",
+    "mail": "creche.fpb@terres-du-lauragais.fr",
+    "distance": 179776,
+    "latitude": 43.56658835725973,
+    "telephone": "0561460518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFERME DES P'TITS BOUTS",
+    "resultStructId": "522601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit boulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6652889655719867,
+    "ville": "lanta",
+    "cp": "31570"
+  },
+  {
+    "resultId": "13062061",
+    "mail": "creche.bdp@terres-du-lauragais.fr",
+    "distance": 179776,
+    "latitude": 43.56658835725973,
+    "telephone": "0562185205",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBonheur dans Le Pré",
+    "resultStructId": "522602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit boulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6652889655719867,
+    "ville": "lanta",
+    "cp": "31570"
+  }
+]

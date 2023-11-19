@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12668887",
+    "mail": "lescherubins73@orange.fr",
+    "distance": 410318,
+    "latitude": 45.21450599607394,
+    "telephone": "0967072538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesChérubins",
+    "resultStructId": "703025",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la chal 73530 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.262591017130423,
+    "ville": "darves",
+    "cp": ""
+  },
+  {
+    "resultId": "12758938",
+    "mail": "lespetitsdiables73@hotmail.fr",
+    "distance": 412185,
+    "latitude": 45.22121161564557,
+    "telephone": "0479597219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits diables",
+    "resultStructId": "700747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 residence de l'ouillon73530 st sorlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.2345851153169445,
+    "ville": "darves",
+    "cp": ""
+  },
+  {
+    "resultId": "12668887",
+    "mail": "lescherubins73@orange.fr",
+    "distance": 140752,
+    "latitude": 45.21450599607394,
+    "telephone": "0967072538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesChérubins",
+    "resultStructId": "703025",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "la chal 73530 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.262591017130423,
+    "ville": "darves",
+    "cp": ""
+  },
+  {
+    "resultId": "12758938",
+    "mail": "lespetitsdiables73@hotmail.fr",
+    "distance": 141262,
+    "latitude": 45.22121161564557,
+    "telephone": "0479597219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits diables",
+    "resultStructId": "700747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 residence de l'ouillon73530 st sorlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.2345851153169445,
+    "ville": "darves",
+    "cp": ""
+  }
+]

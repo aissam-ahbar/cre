@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58648387",
+    "mail": "microcreche.mouflets@gmail.com",
+    "distance": 12289,
+    "latitude": 50.49535594998625,
+    "telephone": "0668459598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MOUFLETS",
+    "resultStructId": "687024",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8893668867597144,
+    "ville": "meurchin",
+    "cp": "62410"
+  },
+  {
+    "resultId": "12967711",
+    "mail": "cppe@meurchin.fr",
+    "distance": 12367,
+    "latitude": 50.495498547771554,
+    "telephone": "0391832205",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Meurchin",
+    "resultStructId": "176516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.890445574379129,
+    "ville": "meurchin",
+    "cp": "62410"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12818450",
+    "mail": "petitsducs@orange.fr",
+    "distance": 104418,
+    "latitude": 49.76872430520866,
+    "telephone": "0235939967",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes Petits Ducs d'Aumale",
+    "resultStructId": "701533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue claude damois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7510491013596456,
+    "ville": "aumale",
+    "cp": "76390"
+  },
+  {
+    "resultId": "12818450",
+    "mail": "petitsducs@orange.fr",
+    "distance": 188947,
+    "latitude": 49.76872430520866,
+    "telephone": "0235939967",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes Petits Ducs d'Aumale",
+    "resultStructId": "701533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue claude damois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7510491013596456,
+    "ville": "aumale",
+    "cp": "76390"
+  }
+]

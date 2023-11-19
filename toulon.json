@@ -1,0 +1,3746 @@
+[
+  {
+    "resultId": "12639553",
+    "mail": "hglaflorane@mairie-toulon.fr",
+    "distance": 112160,
+    "latitude": 43.141384905481324,
+    "telephone": "0494621835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFlorane",
+    "resultStructId": "708003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue bonfante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888904770472133,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076294",
+    "mail": "association@mami83.fr",
+    "distance": 112346,
+    "latitude": 43.1302356277601,
+    "telephone": "0494630237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABEAUCAIRE",
+    "resultStructId": "13840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.884257540753911,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639424",
+    "mail": "malesmoussaillons@mairie-toulon.fr",
+    "distance": 112528,
+    "latitude": 43.14437419228971,
+    "telephone": "0494892829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "lesMoussaillons",
+    "resultStructId": "675420",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "110 chemin de moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.895775337386411,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017591",
+    "mail": "ppe@cedis.fr",
+    "distance": 112912,
+    "latitude": 43.12846617418177,
+    "telephone": "0494154633",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITES LICORNES",
+    "resultStructId": "706303",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "449 boulevard edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.890823213275083,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12638564",
+    "mail": "cflepetitprince@mairie-toulon.fr",
+    "distance": 113687,
+    "latitude": 43.14203808526846,
+    "telephone": "0494240469",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePetit Prince",
+    "resultStructId": "713234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "24 boulevard ingenieur bonnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910012081401585,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21316320",
+    "mail": "lejardindelucille@yahoo.fr",
+    "distance": 113755,
+    "latitude": 43.14160967054653,
+    "telephone": "0651940606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Lucille",
+    "resultStructId": "15236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "530 chemin du jonquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910675584487928,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639295",
+    "mail": "maleipichoun@mairie-toulon.fr",
+    "distance": 113826,
+    "latitude": 43.13878249636721,
+    "telephone": "0494621840",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPichoun",
+    "resultStructId": "675419",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1180 quai commandant riviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909863461397002,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017548",
+    "mail": "ppe@cedis.fr",
+    "distance": 113993,
+    "latitude": 43.133102035839265,
+    "telephone": "0494244891",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaGrande Ourse",
+    "resultStructId": "706307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "119 chemin du temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90853711536867,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "58892267",
+    "mail": "secretdenfance83200@gmail.com",
+    "distance": 113997,
+    "latitude": 43.13016235799958,
+    "telephone": "0987185270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJESECRET D'ENFANCE",
+    "resultStructId": "690003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 chemin du pont de bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.906712058809798,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12637833",
+    "mail": "cclesoiseaux@mairie-toulon.fr",
+    "distance": 114053,
+    "latitude": 43.13264718783476,
+    "telephone": "0494242016",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesOiseaux",
+    "resultStructId": "713236",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "51 boulevard paban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909054383348243,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "60317393",
+    "mail": "crechebarthelemy@gmail.com",
+    "distance": 114155,
+    "latitude": 43.12908705918905,
+    "telephone": "0494931080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLACED'Espagne",
+    "resultStructId": "708753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 boulevard barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.908164992404936,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076466",
+    "mail": "association@mami83.fr",
+    "distance": 114510,
+    "latitude": 43.128045339523894,
+    "telephone": "0494241992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pontdu Las",
+    "resultStructId": "13844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue felix mayol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.912323560705109,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21379224",
+    "mail": "contact@iae83.fr",
+    "distance": 114772,
+    "latitude": 43.133421054233324,
+    "telephone": "0494056514",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'îleaux enfants Saint Maur",
+    "resultStructId": "706829",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "237 ter avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.919313611988587,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "39046885",
+    "mail": "microcrechetagada@gmail.com",
+    "distance": 114774,
+    "latitude": 43.13052304109043,
+    "telephone": "0423140801",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tagada",
+    "resultStructId": "183824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96rue docteur perrimond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9175062720866,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640112",
+    "mail": "",
+    "distance": 115251,
+    "latitude": 43.126362792919004,
+    "telephone": "0494930212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'enfantDo",
+    "resultStructId": "703417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de castigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.921338659012238,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12603734",
+    "mail": "crechestjacques@aol.com",
+    "distance": 115338,
+    "latitude": 43.16369904484923,
+    "telephone": "0494236227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StJacques",
+    "resultStructId": "2821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ripelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.945223741121878,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640069",
+    "mail": "",
+    "distance": 115490,
+    "latitude": 43.13453594338123,
+    "telephone": "0483162323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FaonsFaron",
+    "resultStructId": "703419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue antonin borne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9297554881273085,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076681",
+    "mail": "association@mami83.fr",
+    "distance": 115511,
+    "latitude": 43.127329711984174,
+    "telephone": "0494226650",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "JardinAlexandre 1er",
+    "resultStructId": "592001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74 avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076638",
+    "mail": "association@mami83.fr",
+    "distance": 115511,
+    "latitude": 43.127329711984174,
+    "telephone": "0954529644",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Chalucet",
+    "resultStructId": "592101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "21380097",
+    "mail": "multiaccueiljardindelaville@sfr.fr",
+    "distance": 115670,
+    "latitude": 43.12663500861524,
+    "telephone": "0494094506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardinde la ville",
+    "resultStructId": "708752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue revel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.927200635688174,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076251",
+    "mail": "association@mami83.fr",
+    "distance": 116096,
+    "latitude": 43.122157239004956,
+    "telephone": "0494893418",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITS MOUSSES",
+    "resultStructId": "591903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue camille auban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.930138005442405,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076423",
+    "mail": "association@mami83.fr",
+    "distance": 116282,
+    "latitude": 43.12255339287401,
+    "telephone": "0972845940",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'ILOTBAMBINS",
+    "resultStructId": "592102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue felix pyat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932921337677563,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640241",
+    "mail": "",
+    "distance": 116359,
+    "latitude": 43.120356278119424,
+    "telephone": "0494629228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "703415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cheminde moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639682",
+    "mail": "nicoleau.lpv@orange.fr",
+    "distance": 116359,
+    "latitude": 43.120356278119424,
+    "telephone": "0494316183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets",
+    "resultStructId": "708751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 avenue mirasouleou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638822",
+    "mail": "malesdouxminots@mairie-toulon.fr",
+    "distance": 116359,
+    "latitude": 43.120356278119424,
+    "telephone": "0494364796",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesDoux Minots",
+    "resultStructId": "592208",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "527 boulevard des armaris maison desservices",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12639596",
+    "mail": "mclepetitfontpre@mairie-toulon.fr",
+    "distance": 116359,
+    "latitude": 43.120356278119424,
+    "telephone": "0494274204",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "FontPré",
+    "resultStructId": "699520",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue de l'hopital font pre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638306",
+    "mail": "maporteitalie@mairie-toulon.fr",
+    "distance": 116517,
+    "latitude": 43.12315896879562,
+    "telephone": "0494934054",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Ported 'Italie",
+    "resultStructId": "592202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue saint bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.936495505944947,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639338",
+    "mail": "maleslices@mairie-toulon.fr",
+    "distance": 116947,
+    "latitude": 43.104893938611475,
+    "telephone": "0494928993",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesLices",
+    "resultStructId": "592203",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue de la victoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.93043762224202,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640155",
+    "mail": "",
+    "distance": 117060,
+    "latitude": 43.10962032301761,
+    "telephone": "0494411802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Daphné",
+    "resultStructId": "703418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "361boulevard grignan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.935128372225583,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638392",
+    "mail": "malamalgue@mairie-toulon.fr",
+    "distance": 117380,
+    "latitude": 43.11247219505606,
+    "telephone": "0494465829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Lamalgue",
+    "resultStructId": "592201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28avenue guiramand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.941358014265654,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "23262447",
+    "mail": "toulon.saintjean@koalakids.fr",
+    "distance": 117402,
+    "latitude": 43.12234076113787,
+    "telephone": "0681053829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Koalakids St Jean",
+    "resultStructId": "21301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 boulevard leon bourgeois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.947998291015049,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "23262576",
+    "mail": "toulon.brunet@koalakids.fr",
+    "distance": 118337,
+    "latitude": 43.12718298001283,
+    "telephone": "0688975839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Brunet",
+    "resultStructId": "21302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 impasse francois cruciani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963706431733174,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638435",
+    "mail": "cclaressence@mairie-toulon.fr",
+    "distance": 118956,
+    "latitude": 43.12217296253431,
+    "telephone": "0494368610",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaRessence",
+    "resultStructId": "713235",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "164 chemin de le ressence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9689660227099965,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "24863963",
+    "mail": "toulon.appert@lpcr.fr",
+    "distance": 119165,
+    "latitude": 43.12529134948211,
+    "telephone": "0489517915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux d'Appert",
+    "resultStructId": "27313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue nicolas appert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973738726437542,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "30019005",
+    "mail": "ppe@cedis.fr",
+    "distance": 119418,
+    "latitude": 43.128368957027746,
+    "telephone": "0494655394",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "SAINTEMUSSE",
+    "resultStructId": "706306",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "531 rue henri sainte claire deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979046600613696,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "58893133",
+    "mail": "lesfalabellas@lamut.gt",
+    "distance": 119524,
+    "latitude": 43.11552784782164,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESFALABELLAS",
+    "resultStructId": "690007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 c boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972489652990091,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12649701",
+    "mail": "lesfalabellas@actimut.fr",
+    "distance": 119544,
+    "latitude": 43.114514367367875,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFalabellas",
+    "resultStructId": "15677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972120779255754,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639639",
+    "mail": "hglenvol@mairie-toulon.fr",
+    "distance": 119564,
+    "latitude": 43.115520853074834,
+    "telephone": "0494410618",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'Envol",
+    "resultStructId": "592204",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "425 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973023603854169,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638521",
+    "mail": "cflarcenciel@mairie-toulon.fr",
+    "distance": 119838,
+    "latitude": 43.12300288411472,
+    "telephone": "0494364791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Arcen ciel",
+    "resultStructId": "15492",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "527 boulevard des armaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.981413326782583,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638521",
+    "mail": "cflarcenciel@mairie-toulon.fr",
+    "distance": 277520,
+    "latitude": 43.12300288411472,
+    "telephone": "0494364791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Arcen ciel",
+    "resultStructId": "15492",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "527 boulevard des armaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.981413326782583,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12639639",
+    "mail": "hglenvol@mairie-toulon.fr",
+    "distance": 277843,
+    "latitude": 43.115520853074834,
+    "telephone": "0494410618",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'Envol",
+    "resultStructId": "592204",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "425 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973023603854169,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12649701",
+    "mail": "lesfalabellas@actimut.fr",
+    "distance": 277870,
+    "latitude": 43.114514367367875,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFalabellas",
+    "resultStructId": "15677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972120779255754,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "58893133",
+    "mail": "lesfalabellas@lamut.gt",
+    "distance": 277884,
+    "latitude": 43.11552784782164,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESFALABELLAS",
+    "resultStructId": "690007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 c boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972489652990091,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "30019005",
+    "mail": "ppe@cedis.fr",
+    "distance": 277921,
+    "latitude": 43.128368957027746,
+    "telephone": "0494655394",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "SAINTEMUSSE",
+    "resultStructId": "706306",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "531 rue henri sainte claire deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979046600613696,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "24863963",
+    "mail": "toulon.appert@lpcr.fr",
+    "distance": 278192,
+    "latitude": 43.12529134948211,
+    "telephone": "0489517915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux d'Appert",
+    "resultStructId": "27313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue nicolas appert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973738726437542,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638435",
+    "mail": "cclaressence@mairie-toulon.fr",
+    "distance": 278423,
+    "latitude": 43.12217296253431,
+    "telephone": "0494368610",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaRessence",
+    "resultStructId": "713235",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "164 chemin de le ressence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9689660227099965,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "23262576",
+    "mail": "toulon.brunet@koalakids.fr",
+    "distance": 279026,
+    "latitude": 43.12718298001283,
+    "telephone": "0688975839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Brunet",
+    "resultStructId": "21302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 impasse francois cruciani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963706431733174,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "23262447",
+    "mail": "toulon.saintjean@koalakids.fr",
+    "distance": 280011,
+    "latitude": 43.12234076113787,
+    "telephone": "0681053829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Koalakids St Jean",
+    "resultStructId": "21301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 boulevard leon bourgeois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.947998291015049,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638392",
+    "mail": "malamalgue@mairie-toulon.fr",
+    "distance": 280110,
+    "latitude": 43.11247219505606,
+    "telephone": "0494465829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Lamalgue",
+    "resultStructId": "592201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28avenue guiramand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.941358014265654,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640155",
+    "mail": "",
+    "distance": 280465,
+    "latitude": 43.10962032301761,
+    "telephone": "0494411802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Daphné",
+    "resultStructId": "703418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "361boulevard grignan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.935128372225583,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639338",
+    "mail": "maleslices@mairie-toulon.fr",
+    "distance": 280630,
+    "latitude": 43.104893938611475,
+    "telephone": "0494928993",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesLices",
+    "resultStructId": "592203",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue de la victoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.93043762224202,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638306",
+    "mail": "maporteitalie@mairie-toulon.fr",
+    "distance": 280912,
+    "latitude": 43.12315896879562,
+    "telephone": "0494934054",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Ported 'Italie",
+    "resultStructId": "592202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue saint bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.936495505944947,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640241",
+    "mail": "",
+    "distance": 281096,
+    "latitude": 43.120356278119424,
+    "telephone": "0494629228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "703415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cheminde moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639682",
+    "mail": "nicoleau.lpv@orange.fr",
+    "distance": 281096,
+    "latitude": 43.120356278119424,
+    "telephone": "0494316183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets",
+    "resultStructId": "708751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 avenue mirasouleou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639596",
+    "mail": "mclepetitfontpre@mairie-toulon.fr",
+    "distance": 281096,
+    "latitude": 43.120356278119424,
+    "telephone": "0494274204",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "FontPré",
+    "resultStructId": "699520",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue de l'hopital font pre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638822",
+    "mail": "malesdouxminots@mairie-toulon.fr",
+    "distance": 281096,
+    "latitude": 43.120356278119424,
+    "telephone": "0494364796",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesDoux Minots",
+    "resultStructId": "592208",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "527 boulevard des armaris maison desservices",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "13076423",
+    "mail": "association@mami83.fr",
+    "distance": 281157,
+    "latitude": 43.12255339287401,
+    "telephone": "0972845940",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'ILOTBAMBINS",
+    "resultStructId": "592102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue felix pyat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932921337677563,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076251",
+    "mail": "association@mami83.fr",
+    "distance": 281351,
+    "latitude": 43.122157239004956,
+    "telephone": "0494893418",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITS MOUSSES",
+    "resultStructId": "591903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue camille auban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.930138005442405,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "21380097",
+    "mail": "multiaccueiljardindelaville@sfr.fr",
+    "distance": 281756,
+    "latitude": 43.12663500861524,
+    "telephone": "0494094506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardinde la ville",
+    "resultStructId": "708752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue revel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.927200635688174,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640069",
+    "mail": "",
+    "distance": 281888,
+    "latitude": 43.13453594338123,
+    "telephone": "0483162323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FaonsFaron",
+    "resultStructId": "703419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue antonin borne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9297554881273085,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076681",
+    "mail": "association@mami83.fr",
+    "distance": 281914,
+    "latitude": 43.127329711984174,
+    "telephone": "0494226650",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "JardinAlexandre 1er",
+    "resultStructId": "592001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74 avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076638",
+    "mail": "association@mami83.fr",
+    "distance": 281914,
+    "latitude": 43.127329711984174,
+    "telephone": "0954529644",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Chalucet",
+    "resultStructId": "592101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12603734",
+    "mail": "crechestjacques@aol.com",
+    "distance": 281948,
+    "latitude": 43.16369904484923,
+    "telephone": "0494236227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StJacques",
+    "resultStructId": "2821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ripelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.945223741121878,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640112",
+    "mail": "",
+    "distance": 282187,
+    "latitude": 43.126362792919004,
+    "telephone": "0494930212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'enfantDo",
+    "resultStructId": "703417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de castigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.921338659012238,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "21379224",
+    "mail": "contact@iae83.fr",
+    "distance": 282629,
+    "latitude": 43.133421054233324,
+    "telephone": "0494056514",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'îleaux enfants Saint Maur",
+    "resultStructId": "706829",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "237 ter avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.919313611988587,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "39046885",
+    "mail": "microcrechetagada@gmail.com",
+    "distance": 282647,
+    "latitude": 43.13052304109043,
+    "telephone": "0423140801",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tagada",
+    "resultStructId": "183824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96rue docteur perrimond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9175062720866,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076466",
+    "mail": "association@mami83.fr",
+    "distance": 282937,
+    "latitude": 43.128045339523894,
+    "telephone": "0494241992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pontdu Las",
+    "resultStructId": "13844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue felix mayol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.912323560705109,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "60317393",
+    "mail": "crechebarthelemy@gmail.com",
+    "distance": 283293,
+    "latitude": 43.12908705918905,
+    "telephone": "0494931080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLACED'Espagne",
+    "resultStructId": "708753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 boulevard barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.908164992404936,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12637833",
+    "mail": "cclesoiseaux@mairie-toulon.fr",
+    "distance": 283371,
+    "latitude": 43.13264718783476,
+    "telephone": "0494242016",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesOiseaux",
+    "resultStructId": "713236",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "51 boulevard paban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909054383348243,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017548",
+    "mail": "ppe@cedis.fr",
+    "distance": 283429,
+    "latitude": 43.133102035839265,
+    "telephone": "0494244891",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaGrande Ourse",
+    "resultStructId": "706307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "119 chemin du temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90853711536867,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "58892267",
+    "mail": "secretdenfance83200@gmail.com",
+    "distance": 283447,
+    "latitude": 43.13016235799958,
+    "telephone": "0987185270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJESECRET D'ENFANCE",
+    "resultStructId": "690003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 chemin du pont de bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.906712058809798,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639295",
+    "mail": "maleipichoun@mairie-toulon.fr",
+    "distance": 283562,
+    "latitude": 43.13878249636721,
+    "telephone": "0494621840",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPichoun",
+    "resultStructId": "675419",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1180 quai commandant riviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909863461397002,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21316320",
+    "mail": "lejardindelucille@yahoo.fr",
+    "distance": 283618,
+    "latitude": 43.14160967054653,
+    "telephone": "0651940606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Lucille",
+    "resultStructId": "15236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "530 chemin du jonquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910675584487928,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12638564",
+    "mail": "cflepetitprince@mairie-toulon.fr",
+    "distance": 283685,
+    "latitude": 43.14203808526846,
+    "telephone": "0494240469",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePetit Prince",
+    "resultStructId": "713234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "24 boulevard ingenieur bonnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910012081401585,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017591",
+    "mail": "ppe@cedis.fr",
+    "distance": 284578,
+    "latitude": 43.12846617418177,
+    "telephone": "0494154633",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITES LICORNES",
+    "resultStructId": "706303",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "449 boulevard edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.890823213275083,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639424",
+    "mail": "malesmoussaillons@mairie-toulon.fr",
+    "distance": 284854,
+    "latitude": 43.14437419228971,
+    "telephone": "0494892829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "lesMoussaillons",
+    "resultStructId": "675420",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "110 chemin de moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.895775337386411,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076294",
+    "mail": "association@mami83.fr",
+    "distance": 285145,
+    "latitude": 43.1302356277601,
+    "telephone": "0494630237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABEAUCAIRE",
+    "resultStructId": "13840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.884257540753911,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639553",
+    "mail": "hglaflorane@mairie-toulon.fr",
+    "distance": 285249,
+    "latitude": 43.141384905481324,
+    "telephone": "0494621835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFlorane",
+    "resultStructId": "708003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue bonfante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888904770472133,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639553",
+    "mail": "hglaflorane@mairie-toulon.fr",
+    "distance": 168847,
+    "latitude": 43.141384905481324,
+    "telephone": "0494621835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFlorane",
+    "resultStructId": "708003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue bonfante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888904770472133,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076294",
+    "mail": "association@mami83.fr",
+    "distance": 168881,
+    "latitude": 43.1302356277601,
+    "telephone": "0494630237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABEAUCAIRE",
+    "resultStructId": "13840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.884257540753911,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639424",
+    "mail": "malesmoussaillons@mairie-toulon.fr",
+    "distance": 169274,
+    "latitude": 43.14437419228971,
+    "telephone": "0494892829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "lesMoussaillons",
+    "resultStructId": "675420",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "110 chemin de moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.895775337386411,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017591",
+    "mail": "ppe@cedis.fr",
+    "distance": 169449,
+    "latitude": 43.12846617418177,
+    "telephone": "0494154633",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITES LICORNES",
+    "resultStructId": "706303",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "449 boulevard edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.890823213275083,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12638564",
+    "mail": "cflepetitprince@mairie-toulon.fr",
+    "distance": 170452,
+    "latitude": 43.14203808526846,
+    "telephone": "0494240469",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePetit Prince",
+    "resultStructId": "713234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "24 boulevard ingenieur bonnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910012081401585,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21316320",
+    "mail": "lejardindelucille@yahoo.fr",
+    "distance": 170518,
+    "latitude": 43.14160967054653,
+    "telephone": "0651940606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Lucille",
+    "resultStructId": "15236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "530 chemin du jonquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910675584487928,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639295",
+    "mail": "maleipichoun@mairie-toulon.fr",
+    "distance": 170553,
+    "latitude": 43.13878249636721,
+    "telephone": "0494621840",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPichoun",
+    "resultStructId": "675419",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1180 quai commandant riviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909863461397002,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "58892267",
+    "mail": "secretdenfance83200@gmail.com",
+    "distance": 170611,
+    "latitude": 43.13016235799958,
+    "telephone": "0987185270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJESECRET D'ENFANCE",
+    "resultStructId": "690003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 chemin du pont de bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.906712058809798,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13017548",
+    "mail": "ppe@cedis.fr",
+    "distance": 170649,
+    "latitude": 43.133102035839265,
+    "telephone": "0494244891",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaGrande Ourse",
+    "resultStructId": "706307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "119 chemin du temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90853711536867,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12637833",
+    "mail": "cclesoiseaux@mairie-toulon.fr",
+    "distance": 170704,
+    "latitude": 43.13264718783476,
+    "telephone": "0494242016",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesOiseaux",
+    "resultStructId": "713236",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "51 boulevard paban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909054383348243,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "60317393",
+    "mail": "crechebarthelemy@gmail.com",
+    "distance": 170761,
+    "latitude": 43.12908705918905,
+    "telephone": "0494931080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLACED'Espagne",
+    "resultStructId": "708753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 boulevard barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.908164992404936,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076466",
+    "mail": "association@mami83.fr",
+    "distance": 171118,
+    "latitude": 43.128045339523894,
+    "telephone": "0494241992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pontdu Las",
+    "resultStructId": "13844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue felix mayol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.912323560705109,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "39046885",
+    "mail": "microcrechetagada@gmail.com",
+    "distance": 171430,
+    "latitude": 43.13052304109043,
+    "telephone": "0423140801",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tagada",
+    "resultStructId": "183824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96rue docteur perrimond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9175062720866,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21379224",
+    "mail": "contact@iae83.fr",
+    "distance": 171468,
+    "latitude": 43.133421054233324,
+    "telephone": "0494056514",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'îleaux enfants Saint Maur",
+    "resultStructId": "706829",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "237 ter avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.919313611988587,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640112",
+    "mail": "",
+    "distance": 171871,
+    "latitude": 43.126362792919004,
+    "telephone": "0494930212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'enfantDo",
+    "resultStructId": "703417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de castigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.921338659012238,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076681",
+    "mail": "association@mami83.fr",
+    "distance": 172156,
+    "latitude": 43.127329711984174,
+    "telephone": "0494226650",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "JardinAlexandre 1er",
+    "resultStructId": "592001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74 avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076638",
+    "mail": "association@mami83.fr",
+    "distance": 172156,
+    "latitude": 43.127329711984174,
+    "telephone": "0954529644",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Chalucet",
+    "resultStructId": "592101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640069",
+    "mail": "",
+    "distance": 172234,
+    "latitude": 43.13453594338123,
+    "telephone": "0483162323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FaonsFaron",
+    "resultStructId": "703419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue antonin borne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9297554881273085,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "21380097",
+    "mail": "multiaccueiljardindelaville@sfr.fr",
+    "distance": 172313,
+    "latitude": 43.12663500861524,
+    "telephone": "0494094506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardinde la ville",
+    "resultStructId": "708752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue revel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.927200635688174,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12603734",
+    "mail": "crechestjacques@aol.com",
+    "distance": 172453,
+    "latitude": 43.16369904484923,
+    "telephone": "0494236227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StJacques",
+    "resultStructId": "2821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ripelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.945223741121878,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076251",
+    "mail": "association@mami83.fr",
+    "distance": 172697,
+    "latitude": 43.122157239004956,
+    "telephone": "0494893418",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITS MOUSSES",
+    "resultStructId": "591903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue camille auban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.930138005442405,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076423",
+    "mail": "association@mami83.fr",
+    "distance": 172897,
+    "latitude": 43.12255339287401,
+    "telephone": "0972845940",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'ILOTBAMBINS",
+    "resultStructId": "592102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue felix pyat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932921337677563,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640241",
+    "mail": "",
+    "distance": 172946,
+    "latitude": 43.120356278119424,
+    "telephone": "0494629228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "703415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cheminde moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639682",
+    "mail": "nicoleau.lpv@orange.fr",
+    "distance": 172946,
+    "latitude": 43.120356278119424,
+    "telephone": "0494316183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets",
+    "resultStructId": "708751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 avenue mirasouleou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638822",
+    "mail": "malesdouxminots@mairie-toulon.fr",
+    "distance": 172946,
+    "latitude": 43.120356278119424,
+    "telephone": "0494364796",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesDoux Minots",
+    "resultStructId": "592208",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "527 boulevard des armaris maison desservices",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12639596",
+    "mail": "mclepetitfontpre@mairie-toulon.fr",
+    "distance": 172946,
+    "latitude": 43.120356278119424,
+    "telephone": "0494274204",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "FontPré",
+    "resultStructId": "699520",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue de l'hopital font pre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638306",
+    "mail": "maporteitalie@mairie-toulon.fr",
+    "distance": 173151,
+    "latitude": 43.12315896879562,
+    "telephone": "0494934054",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Ported 'Italie",
+    "resultStructId": "592202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue saint bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.936495505944947,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639338",
+    "mail": "maleslices@mairie-toulon.fr",
+    "distance": 173340,
+    "latitude": 43.104893938611475,
+    "telephone": "0494928993",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesLices",
+    "resultStructId": "592203",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue de la victoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.93043762224202,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640155",
+    "mail": "",
+    "distance": 173528,
+    "latitude": 43.10962032301761,
+    "telephone": "0494411802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Daphné",
+    "resultStructId": "703418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "361boulevard grignan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.935128372225583,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638392",
+    "mail": "malamalgue@mairie-toulon.fr",
+    "distance": 173904,
+    "latitude": 43.11247219505606,
+    "telephone": "0494465829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Lamalgue",
+    "resultStructId": "592201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28avenue guiramand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.941358014265654,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "23262447",
+    "mail": "toulon.saintjean@koalakids.fr",
+    "distance": 174065,
+    "latitude": 43.12234076113787,
+    "telephone": "0681053829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Koalakids St Jean",
+    "resultStructId": "21301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 boulevard leon bourgeois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.947998291015049,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "23262576",
+    "mail": "toulon.brunet@koalakids.fr",
+    "distance": 175107,
+    "latitude": 43.12718298001283,
+    "telephone": "0688975839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Brunet",
+    "resultStructId": "21302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 impasse francois cruciani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963706431733174,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638435",
+    "mail": "cclaressence@mairie-toulon.fr",
+    "distance": 175686,
+    "latitude": 43.12217296253431,
+    "telephone": "0494368610",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaRessence",
+    "resultStructId": "713235",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "164 chemin de le ressence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9689660227099965,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "24863963",
+    "mail": "toulon.appert@lpcr.fr",
+    "distance": 175946,
+    "latitude": 43.12529134948211,
+    "telephone": "0489517915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux d'Appert",
+    "resultStructId": "27313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue nicolas appert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973738726437542,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "58893133",
+    "mail": "lesfalabellas@lamut.gt",
+    "distance": 176190,
+    "latitude": 43.11552784782164,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESFALABELLAS",
+    "resultStructId": "690007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 c boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972489652990091,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12649701",
+    "mail": "lesfalabellas@actimut.fr",
+    "distance": 176198,
+    "latitude": 43.114514367367875,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFalabellas",
+    "resultStructId": "15677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972120779255754,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639639",
+    "mail": "hglenvol@mairie-toulon.fr",
+    "distance": 176232,
+    "latitude": 43.115520853074834,
+    "telephone": "0494410618",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'Envol",
+    "resultStructId": "592204",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "425 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973023603854169,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "30019005",
+    "mail": "ppe@cedis.fr",
+    "distance": 176250,
+    "latitude": 43.128368957027746,
+    "telephone": "0494655394",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "SAINTEMUSSE",
+    "resultStructId": "706306",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "531 rue henri sainte claire deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979046600613696,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638521",
+    "mail": "cflarcenciel@mairie-toulon.fr",
+    "distance": 176617,
+    "latitude": 43.12300288411472,
+    "telephone": "0494364791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Arcen ciel",
+    "resultStructId": "15492",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "527 boulevard des armaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.981413326782583,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12603734",
+    "mail": "crechestjacques@aol.com",
+    "distance": 88686,
+    "latitude": 43.16369904484923,
+    "telephone": "0494236227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StJacques",
+    "resultStructId": "2821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ripelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.945223741121878,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639424",
+    "mail": "malesmoussaillons@mairie-toulon.fr",
+    "distance": 91322,
+    "latitude": 43.14437419228971,
+    "telephone": "0494892829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "lesMoussaillons",
+    "resultStructId": "675420",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "110 chemin de moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.895775337386411,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12638564",
+    "mail": "cflepetitprince@mairie-toulon.fr",
+    "distance": 91418,
+    "latitude": 43.14203808526846,
+    "telephone": "0494240469",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePetit Prince",
+    "resultStructId": "713234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "24 boulevard ingenieur bonnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910012081401585,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "21316320",
+    "mail": "lejardindelucille@yahoo.fr",
+    "distance": 91459,
+    "latitude": 43.14160967054653,
+    "telephone": "0651940606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Lucille",
+    "resultStructId": "15236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "530 chemin du jonquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.910675584487928,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639553",
+    "mail": "hglaflorane@mairie-toulon.fr",
+    "distance": 91734,
+    "latitude": 43.141384905481324,
+    "telephone": "0494621835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFlorane",
+    "resultStructId": "708003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue bonfante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888904770472133,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639295",
+    "mail": "maleipichoun@mairie-toulon.fr",
+    "distance": 91779,
+    "latitude": 43.13878249636721,
+    "telephone": "0494621840",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPichoun",
+    "resultStructId": "675419",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1180 quai commandant riviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909863461397002,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640069",
+    "mail": "",
+    "distance": 92047,
+    "latitude": 43.13453594338123,
+    "telephone": "0483162323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FaonsFaron",
+    "resultStructId": "703419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue antonin borne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9297554881273085,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "21379224",
+    "mail": "contact@iae83.fr",
+    "distance": 92272,
+    "latitude": 43.133421054233324,
+    "telephone": "0494056514",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'îleaux enfants Saint Maur",
+    "resultStructId": "706829",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "237 ter avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.919313611988587,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "30019005",
+    "mail": "ppe@cedis.fr",
+    "distance": 92355,
+    "latitude": 43.128368957027746,
+    "telephone": "0494655394",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "SAINTEMUSSE",
+    "resultStructId": "706306",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "531 rue henri sainte claire deville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979046600613696,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13017548",
+    "mail": "ppe@cedis.fr",
+    "distance": 92419,
+    "latitude": 43.133102035839265,
+    "telephone": "0494244891",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaGrande Ourse",
+    "resultStructId": "706307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "119 chemin du temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.90853711536867,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12637833",
+    "mail": "cclesoiseaux@mairie-toulon.fr",
+    "distance": 92464,
+    "latitude": 43.13264718783476,
+    "telephone": "0494242016",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesOiseaux",
+    "resultStructId": "713236",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "51 boulevard paban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909054383348243,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "23262576",
+    "mail": "toulon.brunet@koalakids.fr",
+    "distance": 92585,
+    "latitude": 43.12718298001283,
+    "telephone": "0688975839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Brunet",
+    "resultStructId": "21302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 impasse francois cruciani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963706431733174,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "39046885",
+    "mail": "microcrechetagada@gmail.com",
+    "distance": 92610,
+    "latitude": 43.13052304109043,
+    "telephone": "0423140801",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tagada",
+    "resultStructId": "183824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96rue docteur perrimond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9175062720866,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "24863963",
+    "mail": "toulon.appert@lpcr.fr",
+    "distance": 92728,
+    "latitude": 43.12529134948211,
+    "telephone": "0489517915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux d'Appert",
+    "resultStructId": "27313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue nicolas appert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973738726437542,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "58892267",
+    "mail": "secretdenfance83200@gmail.com",
+    "distance": 92763,
+    "latitude": 43.13016235799958,
+    "telephone": "0987185270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJESECRET D'ENFANCE",
+    "resultStructId": "690003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 chemin du pont de bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.906712058809798,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "60317393",
+    "mail": "crechebarthelemy@gmail.com",
+    "distance": 92866,
+    "latitude": 43.12908705918905,
+    "telephone": "0494931080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLACED'Espagne",
+    "resultStructId": "708753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 boulevard barthelemy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.908164992404936,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "13076681",
+    "mail": "association@mami83.fr",
+    "distance": 92883,
+    "latitude": 43.127329711984174,
+    "telephone": "0494226650",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "JardinAlexandre 1er",
+    "resultStructId": "592001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74 avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076638",
+    "mail": "association@mami83.fr",
+    "distance": 92883,
+    "latitude": 43.127329711984174,
+    "telephone": "0954529644",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Chalucet",
+    "resultStructId": "592101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "74avenue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.925484319386209,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076466",
+    "mail": "association@mami83.fr",
+    "distance": 92936,
+    "latitude": 43.128045339523894,
+    "telephone": "0494241992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pontdu Las",
+    "resultStructId": "13844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue felix mayol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.912323560705109,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12638521",
+    "mail": "cflarcenciel@mairie-toulon.fr",
+    "distance": 92937,
+    "latitude": 43.12300288411472,
+    "telephone": "0494364791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Arcen ciel",
+    "resultStructId": "15492",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "527 boulevard des armaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.981413326782583,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "21380097",
+    "mail": "multiaccueiljardindelaville@sfr.fr",
+    "distance": 92944,
+    "latitude": 43.12663500861524,
+    "telephone": "0494094506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardinde la ville",
+    "resultStructId": "708752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue revel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.927200635688174,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076294",
+    "mail": "association@mami83.fr",
+    "distance": 93017,
+    "latitude": 43.1302356277601,
+    "telephone": "0494630237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABEAUCAIRE",
+    "resultStructId": "13840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.884257540753911,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12640112",
+    "mail": "",
+    "distance": 93030,
+    "latitude": 43.126362792919004,
+    "telephone": "0494930212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'enfantDo",
+    "resultStructId": "703417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de castigneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.921338659012238,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638435",
+    "mail": "cclaressence@mairie-toulon.fr",
+    "distance": 93104,
+    "latitude": 43.12217296253431,
+    "telephone": "0494368610",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaRessence",
+    "resultStructId": "713235",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "164 chemin de le ressence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9689660227099965,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "13017591",
+    "mail": "ppe@cedis.fr",
+    "distance": 93131,
+    "latitude": 43.12846617418177,
+    "telephone": "0494154633",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITES LICORNES",
+    "resultStructId": "706303",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "449 boulevard edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.890823213275083,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "23262447",
+    "mail": "toulon.saintjean@koalakids.fr",
+    "distance": 93238,
+    "latitude": 43.12234076113787,
+    "telephone": "0681053829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Koalakids St Jean",
+    "resultStructId": "21301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 boulevard leon bourgeois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.947998291015049,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12638306",
+    "mail": "maporteitalie@mairie-toulon.fr",
+    "distance": 93243,
+    "latitude": 43.12315896879562,
+    "telephone": "0494934054",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Ported 'Italie",
+    "resultStructId": "592202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue saint bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.936495505944947,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076423",
+    "mail": "association@mami83.fr",
+    "distance": 93342,
+    "latitude": 43.12255339287401,
+    "telephone": "0972845940",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'ILOTBAMBINS",
+    "resultStructId": "592102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue felix pyat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932921337677563,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "13076251",
+    "mail": "association@mami83.fr",
+    "distance": 93411,
+    "latitude": 43.122157239004956,
+    "telephone": "0494893418",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPETITS MOUSSES",
+    "resultStructId": "591903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue camille auban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.930138005442405,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640241",
+    "mail": "",
+    "distance": 93588,
+    "latitude": 43.120356278119424,
+    "telephone": "0494629228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "703415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cheminde moineret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83200"
+  },
+  {
+    "resultId": "12639682",
+    "mail": "nicoleau.lpv@orange.fr",
+    "distance": 93588,
+    "latitude": 43.120356278119424,
+    "telephone": "0494316183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets",
+    "resultStructId": "708751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 avenue mirasouleou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638822",
+    "mail": "malesdouxminots@mairie-toulon.fr",
+    "distance": 93588,
+    "latitude": 43.120356278119424,
+    "telephone": "0494364796",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesDoux Minots",
+    "resultStructId": "592208",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "527 boulevard des armaris maison desservices",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12639596",
+    "mail": "mclepetitfontpre@mairie-toulon.fr",
+    "distance": 93588,
+    "latitude": 43.120356278119424,
+    "telephone": "0494274204",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "FontPré",
+    "resultStructId": "699520",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue de l'hopital font pre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.932547540495315,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12639639",
+    "mail": "hglenvol@mairie-toulon.fr",
+    "distance": 93816,
+    "latitude": 43.115520853074834,
+    "telephone": "0494410618",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'Envol",
+    "resultStructId": "592204",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "425 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973023603854169,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "58893133",
+    "mail": "lesfalabellas@lamut.gt",
+    "distance": 93819,
+    "latitude": 43.11552784782164,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESFALABELLAS",
+    "resultStructId": "690007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 c boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972489652990091,
+    "ville": "toulon",
+    "cp": "83100"
+  },
+  {
+    "resultId": "12649701",
+    "mail": "lesfalabellas@actimut.fr",
+    "distance": 93933,
+    "latitude": 43.114514367367875,
+    "telephone": "0494247920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFalabellas",
+    "resultStructId": "15677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1084 boulevard jean baptiste abel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972120779255754,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12638392",
+    "mail": "malamalgue@mairie-toulon.fr",
+    "distance": 94383,
+    "latitude": 43.11247219505606,
+    "telephone": "0494465829",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Lamalgue",
+    "resultStructId": "592201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "28avenue guiramand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.941358014265654,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12640155",
+    "mail": "",
+    "distance": 94752,
+    "latitude": 43.10962032301761,
+    "telephone": "0494411802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Daphné",
+    "resultStructId": "703418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "361boulevard grignan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.935128372225583,
+    "ville": "toulon",
+    "cp": "83000"
+  },
+  {
+    "resultId": "12639338",
+    "mail": "maleslices@mairie-toulon.fr",
+    "distance": 95316,
+    "latitude": 43.104893938611475,
+    "telephone": "0494928993",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesLices",
+    "resultStructId": "592203",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue de la victoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.93043762224202,
+    "ville": "toulon",
+    "cp": "83000"
+  }
+]

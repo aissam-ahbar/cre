@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12629018",
+    "mail": "creche@stcyprien.fr",
+    "distance": 168106,
+    "latitude": 42.61543184924505,
+    "telephone": "0468215150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElCant dels Ocells",
+    "resultStructId": "694405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue marechal leclerc 66750",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0074736947516048,
+    "ville": "stcyprien",
+    "cp": ""
+  },
+  {
+    "resultId": "13049763",
+    "mail": "crechealaclairefontaine@yahoo.fr",
+    "distance": 116366,
+    "latitude": 44.86468705192226,
+    "telephone": "0553303488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ALA CLAIRE FONTAINE",
+    "resultStructId": "13223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 route du garrit 24220",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0404601544785996,
+    "ville": "stcyprien",
+    "cp": ""
+  },
+  {
+    "resultId": "12629018",
+    "mail": "creche@stcyprien.fr",
+    "distance": 131001,
+    "latitude": 42.61543184924505,
+    "telephone": "0468215150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElCant dels Ocells",
+    "resultStructId": "694405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue marechal leclerc 66750",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0074736947516048,
+    "ville": "stcyprien",
+    "cp": ""
+  }
+]

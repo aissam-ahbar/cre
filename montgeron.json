@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12508317",
+    "mail": "",
+    "distance": 197003,
+    "latitude": 48.6995657614698,
+    "telephone": "0169524284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 a 7 allee des jacinthes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.443336483195983,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507973",
+    "mail": "ma.pprinces@montgeron.fr",
+    "distance": 197003,
+    "latitude": 48.6995657614698,
+    "telephone": "0169524284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "197004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 a 7 allee des jacinthes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.443336483195983,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12508059",
+    "mail": "ma.tompouce@montgeron.fr",
+    "distance": 197285,
+    "latitude": 48.70008807075251,
+    "telephone": "0643234130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "193524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue docteur besson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4538196487057187,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507844",
+    "mail": "cf.ecureuils@montgeron.fr",
+    "distance": 197873,
+    "latitude": 48.70352045940319,
+    "telephone": "0647792100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "197002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 a 9 rue amelie evrard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4640104296810943,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507930",
+    "mail": "ma.ecureuils@montgeron.fr",
+    "distance": 197873,
+    "latitude": 48.70352045940319,
+    "telephone": "0603763570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "197003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 a 9 rue amelie evrard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4640104296810943,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507801",
+    "mail": "ma.langumier@montgeron.fr",
+    "distance": 197897,
+    "latitude": 48.70276439447034,
+    "telephone": "0626667103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanPaul Langumier",
+    "resultStructId": "197001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue corot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4687598326708162,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507801",
+    "mail": "ma.langumier@montgeron.fr",
+    "distance": 152297,
+    "latitude": 48.70276439447034,
+    "telephone": "0626667103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanPaul Langumier",
+    "resultStructId": "197001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue corot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4687598326708162,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507844",
+    "mail": "cf.ecureuils@montgeron.fr",
+    "distance": 152643,
+    "latitude": 48.70352045940319,
+    "telephone": "0647792100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "197002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 a 9 rue amelie evrard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4640104296810943,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507930",
+    "mail": "ma.ecureuils@montgeron.fr",
+    "distance": 152643,
+    "latitude": 48.70352045940319,
+    "telephone": "0603763570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "197003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 a 9 rue amelie evrard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4640104296810943,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12508059",
+    "mail": "ma.tompouce@montgeron.fr",
+    "distance": 153403,
+    "latitude": 48.70008807075251,
+    "telephone": "0643234130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "193524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue docteur besson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4538196487057187,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12508317",
+    "mail": "",
+    "distance": 154174,
+    "latitude": 48.6995657614698,
+    "telephone": "0169524284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 a 7 allee des jacinthes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.443336483195983,
+    "ville": "montgeron",
+    "cp": "91230"
+  },
+  {
+    "resultId": "12507973",
+    "mail": "ma.pprinces@montgeron.fr",
+    "distance": 154174,
+    "latitude": 48.6995657614698,
+    "telephone": "0169524284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "197004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 a 7 allee des jacinthes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.443336483195983,
+    "ville": "montgeron",
+    "cp": "91230"
+  }
+]

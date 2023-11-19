@@ -1,0 +1,314 @@
+[
+  {
+    "resultId": "12999746",
+    "mail": "creche@mairie-laglacerie.fr",
+    "distance": 110141,
+    "latitude": 49.61799579036755,
+    "telephone": "0233435741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Camomille",
+    "resultStructId": "12060",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue guillaume fouace 50470 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.60886207542332,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "33762672",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 110184,
+    "latitude": 49.63030641336568,
+    "telephone": "0233233849",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME Tourlaville",
+    "resultStructId": "201002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "325b rue de sauxmarais 50110cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5912671908269593,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999660",
+    "mail": "creche@mairie-tourlaville.fr",
+    "distance": 111074,
+    "latitude": 49.644952166643414,
+    "telephone": "0233225244",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti-accueil Denis Cordonnier Tourlaville",
+    "resultStructId": "12058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de lamoignerie 50110 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5861474481053117,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13000133",
+    "mail": "lespetitsmarmots@gmail.com",
+    "distance": 111248,
+    "latitude": 49.6317403575161,
+    "telephone": "0233447414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationCrèche parentale Les Petits Marmots",
+    "resultStructId": "12069",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue debremerhaven 50100 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6097702658750705,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999961",
+    "mail": "dominique.guilbert@ville-cherbourg.fr",
+    "distance": 111773,
+    "latitude": 49.62462397637481,
+    "telephone": "0233789151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES P'TITS LOUPS",
+    "resultStructId": "12065",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'orleanais 50130 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6303880807842945,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13000047",
+    "mail": "micheline.derrien@cafavranche.cnafmail.fr",
+    "distance": 112387,
+    "latitude": 49.63569456796589,
+    "telephone": "0233874955",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte-garderie de l'Office Social et Familial (OSF)",
+    "resultStructId": "12067",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54boulevard schuman 50100 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6258802696375754,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999918",
+    "mail": "marie.lemagnen@ville-cherbourg.fr",
+    "distance": 112678,
+    "latitude": 49.63165064277655,
+    "telephone": "0233536402",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "12064",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue levavasseur 50130 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6374189309838285,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13000219",
+    "mail": "monique.bouchon@ville-cherbourg.fr",
+    "distance": 112857,
+    "latitude": 49.64142055200409,
+    "telephone": "0233878995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderierue Talluau",
+    "resultStructId": "12071",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue paul talluau 50100 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6264109611323787,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13000176",
+    "mail": "anne.lecourt@cnafmail.fr",
+    "distance": 113723,
+    "latitude": 49.64271305322901,
+    "telephone": "0233531374",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHARCOTSPANEL",
+    "resultStructId": "12070",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "81 rue pierre de coubertin 50100 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6411828060800755,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999832",
+    "mail": "lafenotte@wanadoo.fr",
+    "distance": 114708,
+    "latitude": 49.64977456640331,
+    "telephone": "0233938785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Fenotte - Equeurdreville Hainneville",
+    "resultStructId": "12062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue dudocteur roux 50120 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.649678344646163,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999875",
+    "mail": "accueilfamilial.50120@orange.fr",
+    "distance": 116403,
+    "latitude": 49.65482738007815,
+    "telephone": "0233018177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AccueilFamilial - Equeurdreville-Hainneville Le Puzzle",
+    "resultStructId": "12063",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 ruejean moulin 50120 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6747704595691844,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12726172",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 117974,
+    "latitude": 49.662060063751696,
+    "telephone": "0233959010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME QUERQUEVILLE",
+    "resultStructId": "201001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des claires 50460cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6942327834624684,
+    "ville": "encotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "12999789",
+    "mail": "ribambelle@orange.fr",
+    "distance": 118195,
+    "latitude": 49.660737649908725,
+    "telephone": "0233018178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" La Ribambelle \" - Equeurdreville-Hainneville",
+    "resultStructId": "12061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 ruejean moulin - le puzzle 50120 cherbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7003596379394477,
+    "ville": "encotentin",
+    "cp": ""
+  }
+]

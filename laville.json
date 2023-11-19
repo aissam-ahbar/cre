@@ -1,0 +1,554 @@
+[
+  {
+    "resultId": "12651034",
+    "mail": "",
+    "distance": 183489,
+    "latitude": 48.88374653244658,
+    "telephone": "0762462526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pazapa 4 Saint Germain la Ville",
+    "resultStructId": "3921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 grande rue 51240st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.446157909727147,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12895084",
+    "mail": "halte-jeux@mairie-combs-la-ville.fr",
+    "distance": 194982,
+    "latitude": 48.65258784903203,
+    "telephone": "0164884129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-jeuxLes Lutins",
+    "resultStructId": "688245",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue georges brassens 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.568432506244547,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12762937",
+    "mail": "creche.moussaillons@mairie-combs-la-ville.fr",
+    "distance": 195954,
+    "latitude": 48.66284603481022,
+    "telephone": "0160020504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Moussaillons",
+    "resultStructId": "683206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue des tilleuls 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.564455122770375,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12765431",
+    "mail": "creche.collective@mairie-combs-la-ville.fr",
+    "distance": 196190,
+    "latitude": 48.66494570034616,
+    "telephone": "0160602899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Farfadets",
+    "resultStructId": "15600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place gaston deferre 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.56513149701957,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12651034",
+    "mail": "",
+    "distance": 18415,
+    "latitude": 48.88374653244658,
+    "telephone": "0762462526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pazapa 4 Saint Germain la Ville",
+    "resultStructId": "3921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 grande rue 51240st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.446157909727147,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12895084",
+    "mail": "halte-jeux@mairie-combs-la-ville.fr",
+    "distance": 145288,
+    "latitude": 48.65258784903203,
+    "telephone": "0164884129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-jeuxLes Lutins",
+    "resultStructId": "688245",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue georges brassens 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.568432506244547,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12765431",
+    "mail": "creche.collective@mairie-combs-la-ville.fr",
+    "distance": 145436,
+    "latitude": 48.66494570034616,
+    "telephone": "0160602899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Farfadets",
+    "resultStructId": "15600",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place gaston deferre 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.56513149701957,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12762937",
+    "mail": "creche.moussaillons@mairie-combs-la-ville.fr",
+    "distance": 145501,
+    "latitude": 48.66284603481022,
+    "telephone": "0160020504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Moussaillons",
+    "resultStructId": "683206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue des tilleuls 77380 combs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.564455122770375,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12848257",
+    "mail": "orry-halte@orange.fr",
+    "distance": 154811,
+    "latitude": 49.13193214948621,
+    "telephone": "0344690433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"A PETITS PAS\" A ORRY LA VILLE",
+    "resultStructId": "109415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rued'aumale 60560 orry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5146308338663887,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "59399899",
+    "mail": "sabrina@montessori-neokids.fr",
+    "distance": 155366,
+    "latitude": 49.13030349802666,
+    "telephone": "0766591979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNeokids - Orry la Ville",
+    "resultStructId": "696504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin vieux chemin de coye60560 orry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5059880065801474,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12848257",
+    "mail": "orry-halte@orange.fr",
+    "distance": 149886,
+    "latitude": 49.13193214948621,
+    "telephone": "0344690433",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"A PETITS PAS\" A ORRY LA VILLE",
+    "resultStructId": "109415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rued'aumale 60560 orry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5146308338663887,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "59399899",
+    "mail": "sabrina@montessori-neokids.fr",
+    "distance": 150129,
+    "latitude": 49.13030349802666,
+    "telephone": "0766591979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNeokids - Orry la Ville",
+    "resultStructId": "696504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin vieux chemin de coye60560 orry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5059880065801474,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12943502",
+    "mail": "",
+    "distance": 162560,
+    "latitude": 48.98493117446036,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS BLEUE",
+    "resultStructId": "678511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue jean jaures78711 mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7076697273740051,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12943459",
+    "mail": "",
+    "distance": 162560,
+    "latitude": 48.98493117446036,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS ANIS",
+    "resultStructId": "678510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue jean jaures78711 mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7076697273740051,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12943416",
+    "mail": "",
+    "distance": 162560,
+    "latitude": 48.98493117446036,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS MAUVE",
+    "resultStructId": "678512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue jean jaures78711 mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7076697273740051,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12714381",
+    "mail": "larondedesdoudous.mantes@gmail.com",
+    "distance": 162707,
+    "latitude": 48.97625834083779,
+    "telephone": "0614737987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LA RONDE DES DOUDOUS",
+    "resultStructId": "676328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des merisiers 78711mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7099512084894428,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12509134",
+    "mail": "les_petits_lutins@manteslaville.fr",
+    "distance": 162855,
+    "latitude": 48.97958427935763,
+    "telephone": "0130985544",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LES PETITS LUTINS",
+    "resultStructId": "675222",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "60 rue maurice berteaux78711 mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7118770894730253,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12619300",
+    "mail": "multi-accueil@manteslaville.fr",
+    "distance": 163011,
+    "latitude": 48.97454221364496,
+    "telephone": "0130985544",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL DE LA MAISON DE LA PETITE ENFANCE",
+    "resultStructId": "675221",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue du parc78711 mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7141511542177041,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12581718",
+    "mail": "haltegarderie.fdolto@manteslaville.fr",
+    "distance": 163088,
+    "latitude": 48.968321156159355,
+    "telephone": "0130982920",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HALTEGARDERIE - FRANCOISE DOLTO",
+    "resultStructId": "709305",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue georges brassens 78711mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7153410960789777,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "39063220",
+    "mail": "canetons78@gmail.com",
+    "distance": 188460,
+    "latitude": 48.868925359157764,
+    "telephone": "0683047806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CANETONS DE SAINT NOM",
+    "resultStructId": "710822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 route de saintnom 78620 l etang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0593955872109495,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12591823",
+    "mail": "ppe@letanglaville.fr",
+    "distance": 189304,
+    "latitude": 48.869108302048105,
+    "telephone": "0139166554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - POLE PETITE ENFANCE LES PETITS PAS DEL'ETANG",
+    "resultStructId": "688207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis ruelle des marais 78620 l etang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.070957669473931,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "57684041",
+    "mail": "acajou@micro-baby.com",
+    "distance": 189419,
+    "latitude": 48.87122248681873,
+    "telephone": "0130619327",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - ACAJOU",
+    "resultStructId": "689506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee du clos des vignes 78620 letang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0727064845008574,
+    "ville": "laville",
+    "cp": ""
+  },
+  {
+    "resultId": "12715757",
+    "mail": "canetons78@gmail.com",
+    "distance": 189556,
+    "latitude": 48.87067453973769,
+    "telephone": "0683047806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CANETONS DE L ETANG",
+    "resultStructId": "710819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 route de saintgermain 78620 l etang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0745420042120046,
+    "ville": "laville",
+    "cp": ""
+  }
+]

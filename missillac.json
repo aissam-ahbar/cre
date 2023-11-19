@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12486250",
+    "mail": "",
+    "distance": 90229,
+    "latitude": 47.47827977635752,
+    "telephone": "0240615941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCapucine",
+    "resultStructId": "89",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de govilon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1649651038534934,
+    "ville": "missillac",
+    "cp": "44780"
+  },
+  {
+    "resultId": "12486250",
+    "mail": "",
+    "distance": 90229,
+    "latitude": 47.47827977635752,
+    "telephone": "0240615941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCapucine",
+    "resultStructId": "89",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de govilon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1649651038534934,
+    "ville": "missillac",
+    "cp": "44780"
+  }
+]

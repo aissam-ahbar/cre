@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "58807402",
+    "mail": "info@lesjeunespousses.fr",
+    "distance": 124009,
+    "latitude": 49.00410175604923,
+    "telephone": "0231440029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesjeunes pousses - LJP Guichainville 2",
+    "resultStructId": "698011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue henri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1777399983218135,
+    "ville": "guichainville",
+    "cp": "27930"
+  },
+  {
+    "resultId": "58807182",
+    "mail": "info@lesjeunespousses.fr",
+    "distance": 124009,
+    "latitude": 49.00410175604923,
+    "telephone": "0231440029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesjeunes pousses - LJP Guichainville 1",
+    "resultStructId": "698012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue henri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1777399983218135,
+    "ville": "guichainville",
+    "cp": "27930"
+  },
+  {
+    "resultId": "32938425",
+    "mail": "mc.lespetitescoccinelles@gmail.com",
+    "distance": 124251,
+    "latitude": 48.98301937483603,
+    "telephone": "0678023565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES COCCINELLES",
+    "resultStructId": "97201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 residence de la grande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.182552327509698,
+    "ville": "guichainville",
+    "cp": "27930"
+  }
+]

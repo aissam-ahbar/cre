@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12746984",
+    "mail": "poupy.rosy@orange.fr",
+    "distance": 153555,
+    "latitude": 45.759344589107386,
+    "telephone": "0555149435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups 4",
+    "resultStructId": "35705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre de ronsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8120107599119055,
+    "ville": "vayres",
+    "cp": "87600"
+  },
+  {
+    "resultId": "12746984",
+    "mail": "poupy.rosy@orange.fr",
+    "distance": 177332,
+    "latitude": 45.759344589107386,
+    "telephone": "0555149435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups 4",
+    "resultStructId": "35705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre de ronsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8120107599119055,
+    "ville": "vayres",
+    "cp": "87600"
+  }
+]

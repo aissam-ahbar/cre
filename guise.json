@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "31904411",
+    "mail": "grainesdeveil@cctso.fr",
+    "distance": 145827,
+    "latitude": 49.897888066705946,
+    "telephone": "0323603280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainesd'éveil",
+    "resultStructId": "83504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zac de la briqueterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.625210438183316,
+    "ville": "guise",
+    "cp": "02120"
+  },
+  {
+    "resultId": "13043485",
+    "mail": "grainesdeveil@cctso.fr",
+    "distance": 145827,
+    "latitude": 49.897888066705946,
+    "telephone": "0323603283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGALOPINS - Maison de l'enfance",
+    "resultStructId": "13077",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean monnet zacbriqueterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.625210438183316,
+    "ville": "guise",
+    "cp": "02120"
+  },
+  {
+    "resultId": "13043485",
+    "mail": "grainesdeveil@cctso.fr",
+    "distance": 90868,
+    "latitude": 49.897888066705946,
+    "telephone": "0323603283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGALOPINS - Maison de l'enfance",
+    "resultStructId": "13077",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean monnet zacbriqueterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.625210438183316,
+    "ville": "guise",
+    "cp": "02120"
+  },
+  {
+    "resultId": "31904411",
+    "mail": "grainesdeveil@cctso.fr",
+    "distance": 90868,
+    "latitude": 49.897888066705946,
+    "telephone": "0323603280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainesd'éveil",
+    "resultStructId": "83504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zac de la briqueterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.625210438183316,
+    "ville": "guise",
+    "cp": "02120"
+  }
+]

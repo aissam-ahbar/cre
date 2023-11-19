@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12623643",
+    "mail": "creche@ville-courdimanche.fr",
+    "distance": 166864,
+    "latitude": 49.04543721244413,
+    "telephone": "0134460092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de La Louvière",
+    "resultStructId": "3284",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin des cygnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.004918881997146,
+    "ville": "courdimanche",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12623686",
+    "mail": "creche@ville-courdimanche.fr",
+    "distance": 166864,
+    "latitude": 49.04543721244413,
+    "telephone": "0134460092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3285",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin des cygnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.004918881997146,
+    "ville": "courdimanche",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12623729",
+    "mail": "haltegarderie@ville-courdimanche.fr",
+    "distance": 169419,
+    "latitude": 49.025091492283764,
+    "telephone": "0134469152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCourdimanche",
+    "resultStructId": "3286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue du marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.986872740800046,
+    "ville": "courdimanche",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12623729",
+    "mail": "haltegarderie@ville-courdimanche.fr",
+    "distance": 183061,
+    "latitude": 49.025091492283764,
+    "telephone": "0134469152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCourdimanche",
+    "resultStructId": "3286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue du marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.986872740800046,
+    "ville": "courdimanche",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12623643",
+    "mail": "creche@ville-courdimanche.fr",
+    "distance": 184483,
+    "latitude": 49.04543721244413,
+    "telephone": "0134460092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de La Louvière",
+    "resultStructId": "3284",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin des cygnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.004918881997146,
+    "ville": "courdimanche",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12623686",
+    "mail": "creche@ville-courdimanche.fr",
+    "distance": 184483,
+    "latitude": 49.04543721244413,
+    "telephone": "0134460092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3285",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 chemin des cygnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.004918881997146,
+    "ville": "courdimanche",
+    "cp": "95800"
+  }
+]

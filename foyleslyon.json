@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12580299",
+    "mail": "petite-enfance@ville-saintefoyleslyon.fr",
+    "distance": 173774,
+    "latitude": 45.747179249439384,
+    "telephone": "0472325959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilColin Colline",
+    "resultStructId": "127105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 boulevard des provinces 69110 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.800160167654021,
+    "ville": "foyleslyon",
+    "cp": ""
+  },
+  {
+    "resultId": "12580342",
+    "mail": "petite-enfance@ville-saintefoyleslyon.fr",
+    "distance": 174030,
+    "latitude": 45.74312529719405,
+    "telephone": "0472325959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale La Farandole",
+    "resultStructId": "103001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 chemin des pres 69110 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.792016540451227,
+    "ville": "foyleslyon",
+    "cp": ""
+  },
+  {
+    "resultId": "12580256",
+    "mail": "petite-enfance@ville-saintefoyleslyon.fr",
+    "distance": 174322,
+    "latitude": 45.74037680228264,
+    "telephone": "0472325959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Berceau du Vallon",
+    "resultStructId": "102905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 chemin des fonts 69110 ste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.791918486188777,
+    "ville": "foyleslyon",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12533902",
+    "mail": "",
+    "distance": 66957,
+    "latitude": 50.41784332982123,
+    "telephone": "0327456161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Sucred'Orge (itinérante)",
+    "resultStructId": "1197",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "293 rue des deportes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.66068746415249,
+    "ville": "crespin",
+    "cp": "59154"
+  },
+  {
+    "resultId": "12988308",
+    "mail": "lilo.marmots@gmail.com",
+    "distance": 67288,
+    "latitude": 50.40393737285817,
+    "telephone": "0327248864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îlô Marmots CRESPIN",
+    "resultStructId": "657602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.662971432838065,
+    "ville": "crespin",
+    "cp": "59154"
+  }
+]

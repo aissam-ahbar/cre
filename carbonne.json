@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60206591",
+    "mail": "contact@okanayu.com",
+    "distance": 163954,
+    "latitude": 43.3175315581334,
+    "telephone": "0679548623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ôkanayù",
+    "resultStructId": "706402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16chemin de la dourdouille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.225884571198859,
+    "ville": "carbonne",
+    "cp": "31390"
+  },
+  {
+    "resultId": "12488572",
+    "mail": "petite.enfance@cc-volvestre.fr",
+    "distance": 165416,
+    "latitude": 43.300462351160874,
+    "telephone": "0561908070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Intercommunal Mousseline et Caramel",
+    "resultStructId": "632601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue etienneprosjean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2279739614000575,
+    "ville": "carbonne",
+    "cp": "31390"
+  }
+]

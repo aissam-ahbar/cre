@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13062577",
+    "mail": "creche.les.grillons@gmail.com",
+    "distance": 142841,
+    "latitude": 43.67302162289429,
+    "telephone": "0561069715",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mini-crècheLes grillons",
+    "resultStructId": "548303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 route de daux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2831779592338823,
+    "ville": "mondonville",
+    "cp": "31700"
+  },
+  {
+    "resultId": "13062663",
+    "mail": "presidentccas@mondonville.fr",
+    "distance": 143225,
+    "latitude": 43.669754885302844,
+    "telephone": "0561063591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les p'tits poussins",
+    "resultStructId": "78305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2859699418792523,
+    "ville": "mondonville",
+    "cp": "31700"
+  }
+]

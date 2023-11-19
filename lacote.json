@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12795660",
+    "mail": "petite-enfance@mairie-marsannaylacote.fr",
+    "distance": 64159,
+    "latitude": 47.278358192020654,
+    "telephone": "0380588020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil (Commune)",
+    "resultStructId": "199777",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place schweich an der mosel 21160marsannay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.002201898273146,
+    "ville": "lacote",
+    "cp": ""
+  },
+  {
+    "resultId": "38874166",
+    "mail": "pchateau@achilleetcamille.com",
+    "distance": 64763,
+    "latitude": 47.27834232289525,
+    "telephone": "0661761834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LA CABANE D'ACHILLE ET CAMILLE",
+    "resultStructId": "199761",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 b rue de larente logerot 21160 marsannay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.010223180673297,
+    "ville": "lacote",
+    "cp": ""
+  },
+  {
+    "resultId": "60382687",
+    "mail": "pas.a.pas.st.andre@gmail.com",
+    "distance": 182824,
+    "latitude": 45.63005856153814,
+    "telephone": "0782304132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePas à Pas Saint André",
+    "resultStructId": "710202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 b rue de la mairie 69440 standre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.599725476531464,
+    "ville": "lacote",
+    "cp": ""
+  },
+  {
+    "resultId": "12905963",
+    "mail": "contact.calinsetgalipettes@lespep87.org",
+    "distance": 122018,
+    "latitude": 45.94052759430083,
+    "telephone": "0519992556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCalins et Galipettes PEP87",
+    "resultStructId": "701203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du 8 mai 1945 87270bonnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.284123317951344,
+    "ville": "lacote",
+    "cp": ""
+  },
+  {
+    "resultId": "12905963",
+    "mail": "contact.calinsetgalipettes@lespep87.org",
+    "distance": 213589,
+    "latitude": 45.94052759430083,
+    "telephone": "0519992556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCalins et Galipettes PEP87",
+    "resultStructId": "701203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du 8 mai 1945 87270bonnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.284123317951344,
+    "ville": "lacote",
+    "cp": ""
+  }
+]

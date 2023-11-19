@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12898481",
+    "mail": "",
+    "distance": 429060,
+    "latitude": 45.146247572635204,
+    "telephone": "0476411830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Jardin des Couleurs",
+    "resultStructId": "673302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place michel demontaigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7445078404740775,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12885495",
+    "mail": "",
+    "distance": 429331,
+    "latitude": 45.15378900340787,
+    "telephone": "0476240515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective P'tit Chose",
+    "resultStructId": "673303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 avenue de poisat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.751813634033679,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12891730",
+    "mail": "",
+    "distance": 430203,
+    "latitude": 45.161066413377924,
+    "telephone": "0476242278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Eybens",
+    "resultStructId": "673301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place des coulmes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.746808950882801,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12892375",
+    "mail": "",
+    "distance": 430243,
+    "latitude": 45.16141383197336,
+    "telephone": "0476242278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tom Pouce",
+    "resultStructId": "673304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pra",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.74660226240775,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12882829",
+    "mail": "grenoble@lpcr.fr",
+    "distance": 430419,
+    "latitude": 45.15875502662734,
+    "telephone": "0476147220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - EYBENS",
+    "resultStructId": "505402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue roland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738634882949001,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12926689",
+    "mail": "eybens@creche-attitude.fr",
+    "distance": 430652,
+    "latitude": 45.163663712969495,
+    "telephone": "0967812046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Attitude Eybens",
+    "resultStructId": "10361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue cure bourse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742288600463207,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12898481",
+    "mail": "",
+    "distance": 134640,
+    "latitude": 45.146247572635204,
+    "telephone": "0476411830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Jardin des Couleurs",
+    "resultStructId": "673302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place michel demontaigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7445078404740775,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12885495",
+    "mail": "",
+    "distance": 135358,
+    "latitude": 45.15378900340787,
+    "telephone": "0476240515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective P'tit Chose",
+    "resultStructId": "673303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 avenue de poisat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.751813634033679,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12882829",
+    "mail": "grenoble@lpcr.fr",
+    "distance": 136093,
+    "latitude": 45.15875502662734,
+    "telephone": "0476147220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - EYBENS",
+    "resultStructId": "505402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue roland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738634882949001,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12891730",
+    "mail": "",
+    "distance": 136225,
+    "latitude": 45.161066413377924,
+    "telephone": "0476242278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Eybens",
+    "resultStructId": "673301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place des coulmes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.746808950882801,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12892375",
+    "mail": "",
+    "distance": 136266,
+    "latitude": 45.16141383197336,
+    "telephone": "0476242278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tom Pouce",
+    "resultStructId": "673304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pra",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.74660226240775,
+    "ville": "eybens",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12926689",
+    "mail": "eybens@creche-attitude.fr",
+    "distance": 136575,
+    "latitude": 45.163663712969495,
+    "telephone": "0967812046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Attitude Eybens",
+    "resultStructId": "10361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue cure bourse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742288600463207,
+    "ville": "eybens",
+    "cp": "38320"
+  }
+]

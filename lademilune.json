@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "23371631",
+    "mail": "tassin.novembre@lpcr.fr",
+    "distance": 170904,
+    "latitude": 45.76500002864054,
+    "telephone": "0482532676",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES - LES MALICIEUX DU 11NOVEMBRE",
+    "resultStructId": "21801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "93 avenue du 11 novembre 1918 69160 tassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.754731571244429,
+    "ville": "lademilune",
+    "cp": ""
+  },
+  {
+    "resultId": "12573935",
+    "mail": "c.caillot@centresocialdelorangerie.fr",
+    "distance": 171316,
+    "latitude": 45.76344369168864,
+    "telephone": "0472383755",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants",
+    "resultStructId": "115602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 avenue du 11 novembre 1918 69160 tassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.766493124793199,
+    "ville": "lademilune",
+    "cp": ""
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "30643358",
+    "mail": "babybus@babyland.re",
+    "distance": 1433838,
+    "latitude": -21.027645153704302,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Baby bus itinérant\" de Salazie",
+    "resultStructId": "67005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "hell bourg - ilet avidot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.53910051716448,
+    "ville": "salazie",
+    "cp": "97433"
+  },
+  {
+    "resultId": "12642649",
+    "mail": "",
+    "distance": 1433879,
+    "latitude": -21.028307374029975,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLes P'tits Chouchoux",
+    "resultStructId": "651102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 place theodore simonette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.539055656492884,
+    "ville": "salazie",
+    "cp": "97433"
+  },
+  {
+    "resultId": "12849074",
+    "mail": "babybus@babyland.re",
+    "distance": 1433879,
+    "latitude": -21.028307374029975,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheitinérante de Salazie",
+    "resultStructId": "8556",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place theodore simonette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.539055656492884,
+    "ville": "salazie",
+    "cp": "97433"
+  },
+  {
+    "resultId": "30643358",
+    "mail": "babybus@babyland.re",
+    "distance": 14166,
+    "latitude": -21.027645153704302,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Baby bus itinérant\" de Salazie",
+    "resultStructId": "67005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "hell bourg - ilet avidot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.53910051716448,
+    "ville": "salazie",
+    "cp": "97433"
+  },
+  {
+    "resultId": "12642649",
+    "mail": "",
+    "distance": 14239,
+    "latitude": -21.028307374029975,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLes P'tits Chouchoux",
+    "resultStructId": "651102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 place theodore simonette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.539055656492884,
+    "ville": "salazie",
+    "cp": "97433"
+  },
+  {
+    "resultId": "12849074",
+    "mail": "babybus@babyland.re",
+    "distance": 14239,
+    "latitude": -21.028307374029975,
+    "telephone": "0262218341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheitinérante de Salazie",
+    "resultStructId": "8556",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place theodore simonette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.539055656492884,
+    "ville": "salazie",
+    "cp": "97433"
+  }
+]

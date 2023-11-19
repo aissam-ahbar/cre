@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12771107",
+    "mail": "lesgribouillis@sivom-arthes-lescure.fr",
+    "distance": 199015,
+    "latitude": 43.9569729582969,
+    "telephone": "0563450560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGribouillis",
+    "resultStructId": "6743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de riols",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.197364562942205,
+    "ville": "arthes",
+    "cp": "81160"
+  },
+  {
+    "resultId": "12771107",
+    "mail": "lesgribouillis@sivom-arthes-lescure.fr",
+    "distance": 142144,
+    "latitude": 43.9569729582969,
+    "telephone": "0563450560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGribouillis",
+    "resultStructId": "6743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de riols",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.197364562942205,
+    "ville": "arthes",
+    "cp": "81160"
+  }
+]

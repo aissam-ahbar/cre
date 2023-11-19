@@ -1,0 +1,410 @@
+[
+  {
+    "resultId": "58701104",
+    "mail": "poissy2@creche-la-maison-bleue.fr",
+    "distance": 184881,
+    "latitude": 48.919255523024965,
+    "telephone": "0185530692",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - JOSEPHINE BAKER",
+    "resultStructId": "687805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 esplanade de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.013297879735385,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12598101",
+    "mail": "",
+    "distance": 185417,
+    "latitude": 48.920903127563946,
+    "telephone": "0139275574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE HOSPITALIERE POISSY - SAINT GERMAIN ENLAYE",
+    "resultStructId": "688806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue champ gaillard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.020687746591404,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12598230",
+    "mail": "",
+    "distance": 186246,
+    "latitude": 48.92003528707085,
+    "telephone": "0130740064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Saint Louis - Les Petits Sucres d'Orge",
+    "resultStructId": "115007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13avenue du marechal lyautey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0320059156190973,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12598531",
+    "mail": "pomcannelle@ville-poissy.fr",
+    "distance": 186246,
+    "latitude": 48.92003528707085,
+    "telephone": "0139225325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - GASTON VARIOT \"SITE POM CANNELLE\"",
+    "resultStructId": "697006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenuedu marechal lyautey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0320059156190973,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "21436093",
+    "mail": "",
+    "distance": 186589,
+    "latitude": 48.92975607714487,
+    "telephone": "0139225325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Poissons - Poissy",
+    "resultStructId": "15631",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue meissonier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0369991494057875,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "40945093",
+    "mail": "babybulle.savon@gmail.com",
+    "distance": 186811,
+    "latitude": 48.923234885549235,
+    "telephone": "0175241645",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULLE DE SAVON",
+    "resultStructId": "676322",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue des grands champs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0398483210439364,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12593844",
+    "mail": "",
+    "distance": 187018,
+    "latitude": 48.9273790077417,
+    "telephone": "0139115568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LE PETIT PRINCE",
+    "resultStructId": "709008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue roland le nestour -quartier du mouchoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0428057171028047,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "31520433",
+    "mail": "secretariat@mod2garde.org",
+    "distance": 187065,
+    "latitude": 48.93240645294455,
+    "telephone": "0954935521",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - GEDEON ET COMPAGNIE",
+    "resultStructId": "693902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0435769215370283,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12598617",
+    "mail": "cre-018@babilou.com",
+    "distance": 187248,
+    "latitude": 48.93149777491779,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU POISSY GAMBETTA",
+    "resultStructId": "689715",
+    "omegaId": "7716",
+    "avip": false,
+    "adresse": "33 boulevardgambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.04605621033718,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "25663430",
+    "mail": "cre-318@babilou.com",
+    "distance": 187335,
+    "latitude": 48.93231754001812,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU POISSY DEVAUX",
+    "resultStructId": "689714",
+    "omegaId": "12920",
+    "avip": false,
+    "adresse": "37 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.047268340134496,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "40945007",
+    "mail": "babybulle.coton@gmail.com",
+    "distance": 187563,
+    "latitude": 48.926988337678104,
+    "telephone": "0175242524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULLE DE COTON",
+    "resultStructId": "676321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de versailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0502607390942496,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "57381018",
+    "mail": "poissy@creches-plume.fr",
+    "distance": 187710,
+    "latitude": 48.9324943886501,
+    "telephone": "0987998222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - PLUME POISSY",
+    "resultStructId": "675238",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue gallieni",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0524158017645684,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "12597370",
+    "mail": "",
+    "distance": 188290,
+    "latitude": 48.937989085943656,
+    "telephone": "0139115579",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - GRAINE D'ETOILE",
+    "resultStructId": "709010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 rue saint sebastien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0604649385290714,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "58759539",
+    "mail": "grainedetoile@ville-poissy.fr",
+    "distance": 188290,
+    "latitude": 48.937989085943656,
+    "telephone": "0139225460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - GRAINE D'ETOILE",
+    "resultStructId": "688509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 rue saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0604649385290714,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "21435483",
+    "mail": "equipe@tipitwo.fr",
+    "distance": 188380,
+    "latitude": 48.95028450379688,
+    "telephone": "0139721590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - TIPITWO",
+    "resultStructId": "684214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de pontoise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.061848105046254,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "60270918",
+    "mail": "contact@reves-denfants.fr",
+    "distance": 188590,
+    "latitude": 48.94862113157568,
+    "telephone": "0635843413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULLES DE REVES MC1",
+    "resultStructId": "707816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 / 7 rue charles edouardjeanneret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0647230092158373,
+    "ville": "poissy",
+    "cp": "78300"
+  },
+  {
+    "resultId": "60270979",
+    "mail": "contact@reves-denfants.fr",
+    "distance": 188590,
+    "latitude": 48.94862113157568,
+    "telephone": "0635843413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - REVES D'ETOILES MC2",
+    "resultStructId": "707818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5/7 rue charles edouardjeanneret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0647230092158373,
+    "ville": "poissy",
+    "cp": "78300"
+  }
+]

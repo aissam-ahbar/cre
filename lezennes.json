@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "12786759",
+    "mail": "multiaccueil@lezennes.com",
+    "distance": 31703,
+    "latitude": 50.61289496816284,
+    "telephone": "0320342031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"LES LUTINS D'ISIDORE\"",
+    "resultStructId": "712416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue paul vaillant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.110434078101012,
+    "ville": "lezennes",
+    "cp": "59260"
+  },
+  {
+    "resultId": "12989985",
+    "mail": "contact@happyruche.com",
+    "distance": 32586,
+    "latitude": 50.602365195877184,
+    "telephone": "0320337966",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HappyRuche",
+    "resultStructId": "700121",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue louisneel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.1331789872916187,
+    "ville": "lezennes",
+    "cp": "59260"
+  }
+]

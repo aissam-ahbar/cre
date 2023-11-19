@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12763668",
+    "mail": "",
+    "distance": 133758,
+    "latitude": 48.88692260465222,
+    "telephone": "0160311383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie",
+    "resultStructId": "6570",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7330433261821625,
+    "ville": "dampmart",
+    "cp": "77400"
+  }
+]

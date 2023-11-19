@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13057675",
+    "mail": "",
+    "distance": 199904,
+    "latitude": 48.74374596300211,
+    "telephone": "0171331410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective LPCR 2 Villeneuve",
+    "resultStructId": "13407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue de villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3525061655693302,
+    "ville": "rungis",
+    "cp": "94150"
+  },
+  {
+    "resultId": "13057632",
+    "mail": "",
+    "distance": 199909,
+    "latitude": 48.74398252389156,
+    "telephone": "0141057668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LPCR Couture Rungis",
+    "resultStructId": "13406",
+    "omegaId": "12129",
+    "avip": false,
+    "adresse": "44 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3514199215889193,
+    "ville": "rungis",
+    "cp": "94150"
+  },
+  {
+    "resultId": "13057589",
+    "mail": "multiaccueil@ville-rungis.fr",
+    "distance": 200148,
+    "latitude": 48.746933860602844,
+    "telephone": "0179616175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La prairie des lucioles",
+    "resultStructId": "425101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.34719833209254,
+    "ville": "rungis",
+    "cp": "94150"
+  },
+  {
+    "resultId": "13057503",
+    "mail": "",
+    "distance": 200148,
+    "latitude": 48.746933860602844,
+    "telephone": "0179616174",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Au fil de l'eau",
+    "resultStructId": "425301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.34719833209254,
+    "ville": "rungis",
+    "cp": "94150"
+  },
+  {
+    "resultId": "13057546",
+    "mail": "crechepaind'epices@ville-rungis.fr",
+    "distance": 200148,
+    "latitude": 48.746933860602844,
+    "telephone": "0179616173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Pain D'épices",
+    "resultStructId": "425201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue sainte genevieve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.34719833209254,
+    "ville": "rungis",
+    "cp": "94150"
+  },
+  {
+    "resultId": "12544136",
+    "mail": "",
+    "distance": 200319,
+    "latitude": 48.74850773223133,
+    "telephone": "0141408181",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheinterentreprise \"Les petits chaperons rouges2\"",
+    "resultStructId": "626501",
+    "omegaId": "12117",
+    "avip": false,
+    "adresse": "47 rue de villeneuve - immeuble panama - parctertiaire silic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.347266915402528,
+    "ville": "rungis",
+    "cp": "94150"
+  }
+]

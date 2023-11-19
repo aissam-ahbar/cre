@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12513262",
+    "mail": "les-petitslutins@orange.fr",
+    "distance": 61658,
+    "latitude": 44.89911097636564,
+    "telephone": "0557246330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES P'TITS LUTINS",
+    "resultStructId": "697504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "grand pontet 33330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.16142860555719327,
+    "ville": "stemilion",
+    "cp": ""
+  },
+  {
+    "resultId": "59329879",
+    "mail": "chateau@les-cherubins.com",
+    "distance": 61702,
+    "latitude": 44.90157966473592,
+    "telephone": "0668924149",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Château des Chérubins",
+    "resultStructId": "695510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 lotissement les jardins deberthonneau 33330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.20222861482463067,
+    "ville": "stemilion",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13030800",
+    "mail": "apetitpas@annonayrhoneagglo.fr",
+    "distance": 187024,
+    "latitude": 45.23994929010173,
+    "telephone": "0475332421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ap'tit pas",
+    "resultStructId": "512301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de villedieu - la lombardiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.667530504922344,
+    "ville": "annonay",
+    "cp": "07100"
+  },
+  {
+    "resultId": "13032778",
+    "mail": "ileauxenfants@annonayrhoneagglo.fr",
+    "distance": 187024,
+    "latitude": 45.23994929010173,
+    "telephone": "0475332673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ileaux enfants",
+    "resultStructId": "512302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee nicolas copernic - residencecassiopee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.667530504922344,
+    "ville": "annonay",
+    "cp": "07100"
+  },
+  {
+    "resultId": "53084070",
+    "mail": "bulledeveil@annonayrhoneagglo.fr",
+    "distance": 187730,
+    "latitude": 45.246279918726486,
+    "telephone": "0475337748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bulled'éveil",
+    "resultStructId": "512201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.669424856029984,
+    "ville": "annonay",
+    "cp": "07100"
+  },
+  {
+    "resultId": "13030843",
+    "mail": "creche.familiale@annonay.fr",
+    "distance": 187730,
+    "latitude": 45.246279918726486,
+    "telephone": "0475337079",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale les P'tites Nacelles",
+    "resultStructId": "681826",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "70 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.669424856029984,
+    "ville": "annonay",
+    "cp": "07100"
+  }
+]

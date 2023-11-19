@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12646132",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 170730,
+    "latitude": 43.51602120493013,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pasà pas",
+    "resultStructId": "682207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du lauragais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.555469628091845,
+    "ville": "escalquens",
+    "cp": "31750"
+  },
+  {
+    "resultId": "12646261",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 170814,
+    "latitude": 43.51956087490577,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie La Galinette",
+    "resultStructId": "673528",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.559911510501025,
+    "ville": "escalquens",
+    "cp": "31750"
+  },
+  {
+    "resultId": "12646261",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 188506,
+    "latitude": 43.51956087490577,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie La Galinette",
+    "resultStructId": "673528",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.559911510501025,
+    "ville": "escalquens",
+    "cp": "31750"
+  },
+  {
+    "resultId": "12646132",
+    "mail": "petite-enfance.sudest@sicoval.fr",
+    "distance": 188888,
+    "latitude": 43.51602120493013,
+    "telephone": "0562717453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pasà pas",
+    "resultStructId": "682207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du lauragais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.555469628091845,
+    "ville": "escalquens",
+    "cp": "31750"
+  }
+]

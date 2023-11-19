@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12789898",
+    "mail": "centresocial.lons@mairie-lons.fr",
+    "distance": 113490,
+    "latitude": 43.332665390976366,
+    "telephone": "0559400494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PERLIC PETITE ENFANCE",
+    "resultStructId": "7180",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard freres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3914830990743871,
+    "ville": "lons",
+    "cp": "64140"
+  },
+  {
+    "resultId": "12789855",
+    "mail": "crechecroqlune@mairie-lons.fr",
+    "distance": 114796,
+    "latitude": 43.3219041130481,
+    "telephone": "0559626214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CROQ'LUNE",
+    "resultStructId": "7179",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3allee des cigognes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40436010422653107,
+    "ville": "lons",
+    "cp": "64140"
+  },
+  {
+    "resultId": "12952833",
+    "mail": "jardin.petiteenfance@mairie-lons.fr",
+    "distance": 115465,
+    "latitude": 43.31626975544692,
+    "telephone": "0559400490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants « Le Carrousel »",
+    "resultStructId": "682810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40929183325317087,
+    "ville": "lons",
+    "cp": "64140"
+  }
+]

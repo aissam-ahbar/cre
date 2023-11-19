@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12906350",
+    "mail": "liliprune@mutualitelimousine.fr",
+    "distance": 154554,
+    "latitude": 45.678187006367025,
+    "telephone": "0555360385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLili Prune",
+    "resultStructId": "9888",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place de la memoire 87230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0733586681217118,
+    "ville": "lescars",
+    "cp": ""
+  },
+  {
+    "resultId": "12906350",
+    "mail": "liliprune@mutualitelimousine.fr",
+    "distance": 180317,
+    "latitude": 45.678187006367025,
+    "telephone": "0555360385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLili Prune",
+    "resultStructId": "9888",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place de la memoire 87230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0733586681217118,
+    "ville": "lescars",
+    "cp": ""
+  }
+]

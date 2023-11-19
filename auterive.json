@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13018193",
+    "mail": "contact@anna-creche.com",
+    "distance": 174246,
+    "latitude": 43.36442731486994,
+    "telephone": "0534404064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ANNACRECHE",
+    "resultStructId": "674102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 route de toulouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4555125221884357,
+    "ville": "auterive",
+    "cp": "31190"
+  },
+  {
+    "resultId": "13018236",
+    "mail": "occitamomes@micro-baby.com",
+    "distance": 176213,
+    "latitude": 43.358594765619856,
+    "telephone": "0952930098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OCCITAMOMES",
+    "resultStructId": "673321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15rue henry delpy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4804050576702368,
+    "ville": "auterive",
+    "cp": "31190"
+  },
+  {
+    "resultId": "13058621",
+    "mail": "creche.auterive@wanadoo.fr",
+    "distance": 176231,
+    "latitude": 43.3514682253673,
+    "telephone": "0561508942",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif L'Ile aux Enfants",
+    "resultStructId": "635101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place de lattre detassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4726443148125277,
+    "ville": "auterive",
+    "cp": "31190"
+  },
+  {
+    "resultId": "13058578",
+    "mail": "lescanailloux.auterive@wanadoo.fr",
+    "distance": 176231,
+    "latitude": 43.3514682253673,
+    "telephone": "0561500217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIED'AUTERIVE \"Les Canailloux\"",
+    "resultStructId": "689833",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de lattre detassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4726443148125277,
+    "ville": "auterive",
+    "cp": "31190"
+  },
+  {
+    "resultId": "13074316",
+    "mail": "rpeauterive@ccba31.fr",
+    "distance": 176502,
+    "latitude": 43.348549226332956,
+    "telephone": "0534263506",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesPitchounets",
+    "resultStructId": "673610",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1a rue lafayette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4736766218382675,
+    "ville": "auterive",
+    "cp": "31190"
+  }
+]

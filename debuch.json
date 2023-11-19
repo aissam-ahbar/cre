@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "21438142",
+    "mail": "lespetitsartistes.hippodrome@gmail.com",
+    "distance": 76300,
+    "latitude": 44.56340813205624,
+    "telephone": "0685729244",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS ARTISTES",
+    "resultStructId": "15646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de cazaux 33260 lateste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.149599478960264,
+    "ville": "debuch",
+    "cp": ""
+  },
+  {
+    "resultId": "12573290",
+    "mail": "maisonpetiteenfance-lateste@orange.fr",
+    "distance": 77957,
+    "latitude": 44.62509291417074,
+    "telephone": "0557152055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Maison de la Petite Enfance",
+    "resultStructId": "2113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee camillejulian 33260 la teste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1394684898339882,
+    "ville": "debuch",
+    "cp": ""
+  },
+  {
+    "resultId": "59118032",
+    "mail": "secretariat.ppe@latestedebuch.fr",
+    "distance": 77957,
+    "latitude": 44.62509291417074,
+    "telephone": "0557152055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL ALEXIS FLEURY",
+    "resultStructId": "692802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee camille julian 33260 lateste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1394684898339882,
+    "ville": "debuch",
+    "cp": ""
+  },
+  {
+    "resultId": "12562669",
+    "mail": "secretariat.ppe@latestedebuch.fr",
+    "distance": 77957,
+    "latitude": 44.62509291417074,
+    "telephone": "0557152055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SERVICED'ACCUEIL FAMILIAL",
+    "resultStructId": "700107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee camille julian 33260 lateste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1394684898339882,
+    "ville": "debuch",
+    "cp": ""
+  }
+]

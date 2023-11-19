@@ -1,0 +1,938 @@
+[
+  {
+    "resultId": "13021985",
+    "mail": "creche@chu-besancon.fr",
+    "distance": 136707,
+    "latitude": 47.22650906254332,
+    "telephone": "0381668361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu personnel du CHU",
+    "resultStructId": "107115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 boulevard fleming",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.963924279305417,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850536",
+    "mail": "rpe@besancon.fr",
+    "distance": 137327,
+    "latitude": 47.22463779894024,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheArtois",
+    "resultStructId": "645103",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue d'artois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.972054558743643,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "60394764",
+    "mail": "microcreche.dbebe@gmail.com",
+    "distance": 137333,
+    "latitude": 47.22232255882479,
+    "telephone": "0951886006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "D'BEBE",
+    "resultStructId": "710413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1avenue ile de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.97203890719698,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850665",
+    "mail": "rpe@besancon.fr",
+    "distance": 137532,
+    "latitude": 47.221653935995754,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilEpoisses",
+    "resultStructId": "645106",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 avenue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.974649196330816,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12742770",
+    "mail": "associationakfc@yahoo.fr",
+    "distance": 137602,
+    "latitude": 47.216375505561594,
+    "telephone": "0646730526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PINOUS BESANCON",
+    "resultStructId": "6084",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue bertrand russell",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.975324419410541,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "37027800",
+    "mail": "lacabanedesjeunespousses@gmail.com",
+    "distance": 137810,
+    "latitude": 47.241874383478795,
+    "telephone": "0666382484",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHELa Cabane des Jeunes Pousses (SASU CERMAK)",
+    "resultStructId": "554301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 chemindes tilleroyes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.978996503567077,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "60373144",
+    "mail": "micro-creche@maison-naturl.fr",
+    "distance": 137819,
+    "latitude": 47.2495946342994,
+    "telephone": "0381400251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MAISON NATUR’L",
+    "resultStructId": "709914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de pirey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.979254222273069,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "13002197",
+    "mail": "contact@bebetouty.fr",
+    "distance": 138010,
+    "latitude": 47.23637408586562,
+    "telephone": "0986220857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébétouty Besançon",
+    "resultStructId": "12117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue lavoisier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.981510092299935,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "59851469",
+    "mail": "lesptitsbabos@gmail.com",
+    "distance": 139009,
+    "latitude": 47.240075033996,
+    "telephone": "0951469425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DPSLLes p'tits Babos",
+    "resultStructId": "700501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jacquard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.994843427481671,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850923",
+    "mail": "rpe@besancon.fr",
+    "distance": 139011,
+    "latitude": 47.23307294330811,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchede Saint Ferjeux",
+    "resultStructId": "645402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue de la pelouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.994681314416756,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850751",
+    "mail": "rpe@besancon.fr",
+    "distance": 139264,
+    "latitude": 47.247246824861996,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilMontrapon",
+    "resultStructId": "645201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 rue l'epitaphe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9983652966350975,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "13028263",
+    "mail": "smabesancon@igesa.fr",
+    "distance": 139300,
+    "latitude": 47.23628596734041,
+    "telephone": "0381269756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES SEQUANOUS",
+    "resultStructId": "706838",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jules gruey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.998607385441997,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "60614730",
+    "mail": "besancon1@lacompagniedarthur.fr",
+    "distance": 139680,
+    "latitude": 47.261643007738236,
+    "telephone": "0381523107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOMPAGNIE D'ARTHUR - Graviers blancs",
+    "resultStructId": "713237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 chemin desgraviers blancs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.003970839219248,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12990716",
+    "mail": "info@tilio.fr",
+    "distance": 140030,
+    "latitude": 47.23819782331529,
+    "telephone": "0811381020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Vaisseau - BESANCON",
+    "resultStructId": "11850",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 avenue georgesclemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.00832459014146,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "57133009",
+    "mail": "levaisseau@histoiresdemomes.fr",
+    "distance": 140059,
+    "latitude": 47.23797167652305,
+    "telephone": "0966824061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le vaisseau",
+    "resultStructId": "672108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 avenue georges clemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.00870483816999,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "53726398",
+    "mail": "leniddoubs@gmail.com",
+    "distance": 140296,
+    "latitude": 47.263929117974556,
+    "telephone": "0669127594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Nid Doubs",
+    "resultStructId": "676524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin des quatrouillots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.012118136188198,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "33747162",
+    "mail": "philippe.chatelain@doubs.fr",
+    "distance": 140543,
+    "latitude": 47.26119313758181,
+    "telephone": "0381474370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA CABIOTTE DES HAUTS DE SAINT CLAUDE",
+    "resultStructId": "112305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 rue deshauts de saint claude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.015398180009688,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850880",
+    "mail": "rpe@besancon.fr",
+    "distance": 140577,
+    "latitude": 47.2559116537472,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchede Saint Claude",
+    "resultStructId": "645401",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 rue jean wyrsch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.015846736681287,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850579",
+    "mail": "rpe@besancon.fr",
+    "distance": 140759,
+    "latitude": 47.24230103882448,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheBattant",
+    "resultStructId": "645104",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 chemin de ronde du fort griffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0180813977353775,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12851998",
+    "mail": "rpe@besancon.fr",
+    "distance": 141050,
+    "latitude": 47.236062123185896,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchefamiliale",
+    "resultStructId": "690330",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue megevand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021775018119445,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850708",
+    "mail": "rpe@besancon.fr",
+    "distance": 141168,
+    "latitude": 47.23635497295629,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Mégevand",
+    "resultStructId": "645107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue megevand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.023355992321345,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12738083",
+    "mail": "temis@creche-la-maison-bleue.fr",
+    "distance": 141219,
+    "latitude": 47.2376959111047,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPiment Doubs",
+    "resultStructId": "107114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 c avenue des montboucons - temis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.024056786987062,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12697396",
+    "mail": "rpe@besancon.fr",
+    "distance": 141456,
+    "latitude": 47.23287197550385,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheVieille Monnaie",
+    "resultStructId": "644901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue de la vieille monnaie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0270563345737616,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "58313810",
+    "mail": "bienvenue@lilyetpablo.com",
+    "distance": 141503,
+    "latitude": 47.234085849836426,
+    "telephone": "0372729282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Victor& Colette Les Marcassins Lily et Pablo BESANCON",
+    "resultStructId": "712702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rueronchaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.027721146867503,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12825287",
+    "mail": "contact@chezvictoretcolette.fr",
+    "distance": 141503,
+    "latitude": 47.234085849836426,
+    "telephone": "0381619217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu centre chez Victor et Colette à Besançon",
+    "resultStructId": "8003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rueronchaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.027721146867503,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12991189",
+    "mail": "contact@chezvictortetcolette.fr",
+    "distance": 141503,
+    "latitude": 47.234085849836426,
+    "telephone": "0381619217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Chez Victor et Colette 2 - BESANCON",
+    "resultStructId": "11861",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rueronchaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.027721146867503,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "58311249",
+    "mail": "bienvenue@lilyetpablo.com",
+    "distance": 141533,
+    "latitude": 47.23389700432486,
+    "telephone": "0372729282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Victor& Colette Les chevreaux Lily et Pablo - BESANCON",
+    "resultStructId": "712701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rueernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0281078385819855,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850622",
+    "mail": "rpe@besancon.fr",
+    "distance": 141555,
+    "latitude": 47.239075368988644,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheBersot",
+    "resultStructId": "645105",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12b rue de lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.028548072226164,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12988867",
+    "mail": "contact@pierre-ptitsloups.fr",
+    "distance": 141592,
+    "latitude": 47.24333444737269,
+    "telephone": "0672806184",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePierre et les P'tits Loups - BESANCON",
+    "resultStructId": "11807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue krug",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0291393273588385,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "53726972",
+    "mail": "microcrechepitaya@hotmail.com",
+    "distance": 141606,
+    "latitude": 47.25886320693528,
+    "telephone": "0754366077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mirocrèche Pitaya",
+    "resultStructId": "540701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue narcisse lanchy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.029491005099167,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12798670",
+    "mail": "rpe@besancon.fr",
+    "distance": 141684,
+    "latitude": 47.248881368620644,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheChaprais",
+    "resultStructId": "645102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue suard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.030444348902945,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "57133178",
+    "mail": "mc.bebeschouettes@outlook.fr",
+    "distance": 141709,
+    "latitude": 47.22454578525159,
+    "telephone": "0954411826",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébés chouettes",
+    "resultStructId": "672109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 chemin de mazagran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.030111199118162,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "53728575",
+    "mail": "mc.bebeschouettes@outlook.fr",
+    "distance": 141709,
+    "latitude": 47.22454578525159,
+    "telephone": "0617190512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébés Chouettes",
+    "resultStructId": "540901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 chemin de mazagran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.030111199118162,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12988824",
+    "mail": "lescanailloux.besancon@gmail.com",
+    "distance": 141848,
+    "latitude": 47.24503880389296,
+    "telephone": "0381562735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Canailloux BESANCON",
+    "resultStructId": "11806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0325630876356815,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "13002025",
+    "mail": "multi-accueil.ape25@netcourrier.com",
+    "distance": 141909,
+    "latitude": 47.2579971389583,
+    "telephone": "0381501550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Antenne Petite Enfance de Franche Comté",
+    "resultStructId": "656402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 ruede la famille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.033506649826471,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850794",
+    "mail": "rpe@besancon.fr",
+    "distance": 142152,
+    "latitude": 47.2607951536815,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheOrchamps",
+    "resultStructId": "645202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 rue gounod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.036732551090736,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "39475928",
+    "mail": "eaje.tilleuls@besancon.fr",
+    "distance": 142787,
+    "latitude": 47.260228996885836,
+    "telephone": "0363425800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PALENTE LES TILLEULS",
+    "resultStructId": "189904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des roses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.045137273653007,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12850837",
+    "mail": "rpe@besancon.fr",
+    "distance": 143018,
+    "latitude": 47.26602034295231,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchede Palente",
+    "resultStructId": "645301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "41 rue du muguet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.048186062218496,
+    "ville": "besancon",
+    "cp": "25000"
+  },
+  {
+    "resultId": "12798068",
+    "mail": "rpe@besancon.fr",
+    "distance": 143560,
+    "latitude": 47.25001007291615,
+    "telephone": "0381878566",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilClairs-Soleils",
+    "resultStructId": "645101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "15 place des lumieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.055317549799022,
+    "ville": "besancon",
+    "cp": "25000"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12788737",
+    "mail": "trois-pommes2@wanadoo.fr",
+    "distance": 60116,
+    "latitude": 50.45747055268332,
+    "telephone": "0327406495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Ô comme trois pommes\"",
+    "resultStructId": "459201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 place de larepublique 59690",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.568098594947495,
+    "ville": "vieuxconde",
+    "cp": ""
+  },
+  {
+    "resultId": "12792951",
+    "mail": "copainscopines@wanadoo.fr",
+    "distance": 60510,
+    "latitude": 50.48058916557252,
+    "telephone": "0327402247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Copains, Copines\"",
+    "resultStructId": "222109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d'anjou 59690",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.574168089207585,
+    "ville": "vieuxconde",
+    "cp": ""
+  }
+]

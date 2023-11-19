@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "27800803",
+    "mail": "direction@urbancreches.fr",
+    "distance": 179951,
+    "latitude": 45.74100932924567,
+    "telephone": "0660934127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBARBIDOU",
+    "resultStructId": "42002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.020656297752093,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "13041077",
+    "mail": "creche-frimousses@ville-genas.fr",
+    "distance": 180179,
+    "latitude": 45.73782276115679,
+    "telephone": "0478903411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Frimousses",
+    "resultStructId": "108601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.016998367446928,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "13041034",
+    "mail": "creche-boutchoux@ville-genas.fr",
+    "distance": 180319,
+    "latitude": 45.73288288746843,
+    "telephone": "0478908625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Boutchoux",
+    "resultStructId": "108409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du docteur janez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.003635426393933,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "52849836",
+    "mail": "everest@liveli.fr",
+    "distance": 180448,
+    "latitude": 45.726508288793525,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'Entreprise Liveli Everest",
+    "resultStructId": "501201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marcel dassault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.98406793233832,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "12905576",
+    "mail": "direction.louiseetmartin@gmail.com",
+    "distance": 180457,
+    "latitude": 45.73203094225311,
+    "telephone": "0622132345",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrèche de Louise & Martin",
+    "resultStructId": "9870",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue lopuis rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.005430574544918,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "13040948",
+    "mail": "creche-ptites-quenottes@ville-genas.fr",
+    "distance": 180671,
+    "latitude": 45.72819914035497,
+    "telephone": "0478401734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tites Quenottes",
+    "resultStructId": "109001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.99874654197433,
+    "ville": "genas",
+    "cp": "69740"
+  },
+  {
+    "resultId": "13040905",
+    "mail": "creche-calincadou@ville-genas.fr",
+    "distance": 181474,
+    "latitude": 45.722772638839814,
+    "telephone": "0478907343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCalincadou",
+    "resultStructId": "108602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue olivier de serres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.007407161892762,
+    "ville": "genas",
+    "cp": "69740"
+  }
+]

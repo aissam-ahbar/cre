@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12721519",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 156608,
+    "latitude": 43.5105981199577,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil 1ers Rêves",
+    "resultStructId": "673521",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin de la saudrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3360277569654653,
+    "ville": "roques",
+    "cp": "31120"
+  },
+  {
+    "resultId": "12643939",
+    "mail": "cre-552@babilou.com",
+    "distance": 158589,
+    "latitude": 43.511849332146625,
+    "telephone": "0532094385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRoques sur Garonne",
+    "resultStructId": "676803",
+    "omegaId": "47508",
+    "avip": false,
+    "adresse": "1 ter allee de fraixinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3679446961683945,
+    "ville": "roques",
+    "cp": "31120"
+  },
+  {
+    "resultId": "12721347",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 158696,
+    "latitude": 43.5072628655754,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PITCHOUNETS",
+    "resultStructId": "673520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue des roseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.364918089864668,
+    "ville": "roques",
+    "cp": "31120"
+  }
+]

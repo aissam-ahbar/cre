@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12564690",
+    "mail": "ilozenfants@free.fr",
+    "distance": 55089,
+    "latitude": 44.751668515176036,
+    "telephone": "0556894624",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ILOZ ENFANTS",
+    "resultStructId": "1913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue pey arnaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6387657815746896,
+    "ville": "canejan",
+    "cp": "33610"
+  },
+  {
+    "resultId": "43485322",
+    "mail": "creche.lamomerie@gmail.com",
+    "distance": 55209,
+    "latitude": 44.750811952441026,
+    "telephone": "0557953751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "associationLa Momerie",
+    "resultStructId": "239402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des lucanes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6430527657087612,
+    "ville": "canejan",
+    "cp": "33610"
+  },
+  {
+    "resultId": "12565034",
+    "mail": "petiterecre@orange.fr",
+    "distance": 55410,
+    "latitude": 44.754118981451384,
+    "telephone": "0557591280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA P'TITE RECRE",
+    "resultStructId": "1921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue du barricot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.640913282261499,
+    "ville": "canejan",
+    "cp": "33610"
+  },
+  {
+    "resultId": "12564819",
+    "mail": "",
+    "distance": 56652,
+    "latitude": 44.76075845430386,
+    "telephone": "0556898112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA MOMERIE",
+    "resultStructId": "1916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de cassiot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6548681756669616,
+    "ville": "canejan",
+    "cp": "33610"
+  }
+]

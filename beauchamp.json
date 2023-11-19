@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12802884",
+    "mail": "contact@lesbebeschoyes.fr",
+    "distance": 166665,
+    "latitude": 49.01441333156173,
+    "telephone": "0781164444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"LES BEBES CHOYES\"",
+    "resultStructId": "7482",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue morere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.187732982752718,
+    "ville": "beauchamp",
+    "cp": "95250"
+  },
+  {
+    "resultId": "12755498",
+    "mail": "multi-accueil@ville-beauchamp.fr",
+    "distance": 166677,
+    "latitude": 49.013020399537595,
+    "telephone": "0130404590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL« CHAMBOUL'TOUT » BEAUCHAMP",
+    "resultStructId": "673416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue roger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1962725559306153,
+    "ville": "beauchamp",
+    "cp": "95250"
+  }
+]

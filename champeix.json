@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "17905990",
+    "mail": "multiaccueilchampeix@capissoire.fr",
+    "distance": 7773,
+    "latitude": 45.589441001210275,
+    "telephone": "0473558739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChampeix",
+    "resultStructId": "14430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du foirail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.130966410061125,
+    "ville": "champeix",
+    "cp": "63320"
+  },
+  {
+    "resultId": "17905990",
+    "mail": "multiaccueilchampeix@capissoire.fr",
+    "distance": 192616,
+    "latitude": 45.589441001210275,
+    "telephone": "0473558739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChampeix",
+    "resultStructId": "14430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du foirail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.130966410061125,
+    "ville": "champeix",
+    "cp": "63320"
+  }
+]

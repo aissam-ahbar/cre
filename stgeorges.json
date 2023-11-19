@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12788350",
+    "mail": "flvagnez@fede21.admr.org",
+    "distance": 61599,
+    "latitude": 47.1393535324865,
+    "telephone": "0380623648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCoccinelle",
+    "resultStructId": "7144",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de la berchere 21700 nuits",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.953588236967977,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "13063910",
+    "mail": "",
+    "distance": 199566,
+    "latitude": 48.721847463164,
+    "telephone": "0143862386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux Enfants - Crèche hospitalière CHIV Lucie et RaymondVSG",
+    "resultStructId": "624602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 allee de la source 94190 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.452381452983014,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12538976",
+    "mail": "",
+    "distance": 200411,
+    "latitude": 48.73072023906399,
+    "telephone": "0143823646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Des Graviers (Garros)",
+    "resultStructId": "15418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue rollandgarros 94190 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.447727668842184,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12839391",
+    "mail": "auparadisdesbambins@yahoo.fr",
+    "distance": 134231,
+    "latitude": 48.84617459412591,
+    "telephone": "0160353841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAu Paradis des Bambins",
+    "resultStructId": "188735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 promenade henri vincenot77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7202956939260545,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12761991",
+    "mail": "leslucioles@crechesdefrance.com",
+    "distance": 134716,
+    "latitude": 48.83771360668127,
+    "telephone": "0164774442",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lucioles",
+    "resultStructId": "108108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue aristide maillol 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.712622168901415,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "13015699",
+    "mail": "biboulehibou@crechesdefrance.com",
+    "distance": 134716,
+    "latitude": 48.83771360668127,
+    "telephone": "0164771836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBibou le Hibou",
+    "resultStructId": "108104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue aristide maillol 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.712622168901415,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12763023",
+    "mail": "bussy1@creche-la-maison-bleue.fr",
+    "distance": 134966,
+    "latitude": 48.83387800902328,
+    "telephone": "0962588512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraine de Paradis",
+    "resultStructId": "109906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 boulevard mendes france 77600bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7087611429767056,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12765087",
+    "mail": "",
+    "distance": 134980,
+    "latitude": 48.840162056928506,
+    "telephone": "0164661570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Ile aux Câlins",
+    "resultStructId": "108106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean de brunhoff 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7092875050166736,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12765130",
+    "mail": "crechepetitsprinces@yahoo.fr",
+    "distance": 135041,
+    "latitude": 48.83897445366552,
+    "telephone": "0164662089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Princes",
+    "resultStructId": "108105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue robert schumann 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7083104916457406,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12765173",
+    "mail": "leslutinscreche@yahoo.fr",
+    "distance": 135065,
+    "latitude": 48.838869710598416,
+    "telephone": "0164662616",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "108102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean monnet 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.707969900375802,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12757906",
+    "mail": "bussy3@creche-la-maison-bleue.fr",
+    "distance": 135161,
+    "latitude": 48.83721337055174,
+    "telephone": "0164454400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Pôle Familles",
+    "resultStructId": "110002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du general de gaulle 77600bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.706457318185729,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12758723",
+    "mail": "",
+    "distance": 135532,
+    "latitude": 48.84127091483862,
+    "telephone": "0164763674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison des Mille Goûters",
+    "resultStructId": "108110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rocade de la croix stgeorges 77600 bussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7018556177962636,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12539062",
+    "mail": "",
+    "distance": 152781,
+    "latitude": 48.73384600837142,
+    "telephone": "0143822741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale René Quenouille (Acacias)",
+    "resultStructId": "15419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rue desacacias 94190 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4610789346076714,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "13063910",
+    "mail": "",
+    "distance": 153440,
+    "latitude": 48.721847463164,
+    "telephone": "0143862386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux Enfants - Crèche hospitalière CHIV Lucie et RaymondVSG",
+    "resultStructId": "624602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 allee de la source 94190 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.452381452983014,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12538976",
+    "mail": "",
+    "distance": 153764,
+    "latitude": 48.73072023906399,
+    "telephone": "0143823646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Des Graviers (Garros)",
+    "resultStructId": "15418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue rollandgarros 94190 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.447727668842184,
+    "ville": "stgeorges",
+    "cp": ""
+  },
+  {
+    "resultId": "12993339",
+    "mail": "mairie.st.georges@wanadoo.fr",
+    "distance": 136615,
+    "latitude": 49.27787417202414,
+    "telephone": "0344278265",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"LES P'TITS FILOUS\" D'ULLY SAINT GEORGES",
+    "resultStructId": "97610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 -6 rue de la chapelle - hameau de cavillon 60730 ully",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.279784381367752,
+    "ville": "stgeorges",
+    "cp": ""
+  }
+]

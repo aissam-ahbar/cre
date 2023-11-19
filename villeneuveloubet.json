@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12691978",
+    "mail": "creche-desrives@mairie-villeneuve-loubet.fr",
+    "distance": 229871,
+    "latitude": 43.62780893226629,
+    "telephone": "0493297598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAdes rives",
+    "resultStructId": "584501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "nationale 7 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.132899814657665,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12896675",
+    "mail": "villeneuveloubet@creche-la-maison-bleue.fr",
+    "distance": 230670,
+    "latitude": 43.637656516999805,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MATopaz",
+    "resultStructId": "582403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 avenue des baumettes 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.132469629623149,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12691935",
+    "mail": "creche-familiale@mairie-villeneuve-loubet.fr",
+    "distance": 231235,
+    "latitude": 43.64279691539811,
+    "telephone": "0493733582",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFCrèche familiale",
+    "resultStructId": "584502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue max chaminadas 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.129666837205743,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12687549",
+    "mail": "halte-garderie@mairie-villeneuve-loubet.fr",
+    "distance": 231235,
+    "latitude": 43.64279691539811,
+    "telephone": "0493733437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHalte-garderie",
+    "resultStructId": "584503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue max chaminadas 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.129666837205743,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12691892",
+    "mail": "",
+    "distance": 232880,
+    "latitude": 43.65806652328582,
+    "telephone": "0492027872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes ferrayonnes",
+    "resultStructId": "584504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des ferrayonnes (village)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.1219299890593675,
+    "ville": "villeneuveloubet",
+    "cp": "06270"
+  },
+  {
+    "resultId": "12691892",
+    "mail": "",
+    "distance": 91289,
+    "latitude": 43.65806652328582,
+    "telephone": "0492027872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes ferrayonnes",
+    "resultStructId": "584504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des ferrayonnes (village)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.1219299890593675,
+    "ville": "villeneuveloubet",
+    "cp": "06270"
+  },
+  {
+    "resultId": "12691935",
+    "mail": "creche-familiale@mairie-villeneuve-loubet.fr",
+    "distance": 92505,
+    "latitude": 43.64279691539811,
+    "telephone": "0493733582",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFCrèche familiale",
+    "resultStructId": "584502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue max chaminadas 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.129666837205743,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12687549",
+    "mail": "halte-garderie@mairie-villeneuve-loubet.fr",
+    "distance": 92505,
+    "latitude": 43.64279691539811,
+    "telephone": "0493733437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHalte-garderie",
+    "resultStructId": "584503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue max chaminadas 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.129666837205743,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12896675",
+    "mail": "villeneuveloubet@creche-la-maison-bleue.fr",
+    "distance": 92934,
+    "latitude": 43.637656516999805,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MATopaz",
+    "resultStructId": "582403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 avenue des baumettes 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.132469629623149,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  },
+  {
+    "resultId": "12691978",
+    "mail": "creche-desrives@mairie-villeneuve-loubet.fr",
+    "distance": 93395,
+    "latitude": 43.62780893226629,
+    "telephone": "0493297598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAdes rives",
+    "resultStructId": "584501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "nationale 7 06270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.132899814657665,
+    "ville": "villeneuveloubet",
+    "cp": ""
+  }
+]

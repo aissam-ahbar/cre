@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "32001888",
+    "mail": "monenfant@mybabycreche.com",
+    "distance": 196146,
+    "latitude": 48.72769925045947,
+    "telephone": "0175312435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MyBaby Crèche",
+    "resultStructId": "87601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue du bon air",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.234730972831223,
+    "ville": "igny",
+    "cp": "91430"
+  },
+  {
+    "resultId": "31989202",
+    "mail": "cachin@berceaudesrois.fr",
+    "distance": 196536,
+    "latitude": 48.73132911155609,
+    "telephone": "0160148612",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "177 boulevard marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.234439462399311,
+    "ville": "igny",
+    "cp": "91430"
+  },
+  {
+    "resultId": "12724237",
+    "mail": "mairie@igny.fr",
+    "distance": 197586,
+    "latitude": 48.74217684703218,
+    "telephone": "0169331063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centrede l'Enfance F. Dolto",
+    "resultStructId": "5653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue ambroize croizat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.22609465734136,
+    "ville": "igny",
+    "cp": "91430"
+  }
+]

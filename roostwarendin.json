@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12600208",
+    "mail": "mpe.roost@wanadoo.fr",
+    "distance": 27601,
+    "latitude": 50.41644075988141,
+    "telephone": "0327805244",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimousse",
+    "resultStructId": "690618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "147rue emile zola 59286",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.098504638709274,
+    "ville": "roostwarendin",
+    "cp": ""
+  },
+  {
+    "resultId": "12686087",
+    "mail": "",
+    "distance": 28031,
+    "latitude": 50.41119845538766,
+    "telephone": "0327716612",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrèche les p'tes gaillettes",
+    "resultStructId": "4736",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des galeries 59286",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.102719223540239,
+    "ville": "roostwarendin",
+    "cp": ""
+  },
+  {
+    "resultId": "12686044",
+    "mail": "",
+    "distance": 28031,
+    "latitude": 50.41119845538766,
+    "telephone": "0327716612",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrèche les p(tits galibots",
+    "resultStructId": "4735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des galeries 59286",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.102719223540239,
+    "ville": "roostwarendin",
+    "cp": ""
+  }
+]

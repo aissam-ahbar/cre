@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12824040",
+    "mail": "isabellelemoine@mairie-halluin.fr",
+    "distance": 44075,
+    "latitude": 50.77596369764145,
+    "telephone": "0320946772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"les ch'tis bébés\"",
+    "resultStructId": "7974",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue arthur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1228160866305616,
+    "ville": "halluin",
+    "cp": "59250"
+  },
+  {
+    "resultId": "23050517",
+    "mail": "",
+    "distance": 44141,
+    "latitude": 50.77704322559835,
+    "telephone": "0320760554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGeorgette Dupont",
+    "resultStructId": "20414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue arthur dennetiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1222478684699646,
+    "ville": "halluin",
+    "cp": "59250"
+  },
+  {
+    "resultId": "12824169",
+    "mail": "",
+    "distance": 44817,
+    "latitude": 50.78181778725286,
+    "telephone": "0320469722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Mômes",
+    "resultStructId": "7977",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue gustave desmettre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1282149085354254,
+    "ville": "halluin",
+    "cp": "59250"
+  },
+  {
+    "resultId": "12969345",
+    "mail": "contact@born-tobehappy.fr",
+    "distance": 44859,
+    "latitude": 50.78468067488939,
+    "telephone": "0663264337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BORNTO BE HAPPY",
+    "resultStructId": "11353",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue george vanlaere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.123741760588014,
+    "ville": "halluin",
+    "cp": "59250"
+  }
+]

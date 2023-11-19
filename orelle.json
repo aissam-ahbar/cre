@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12742426",
+    "mail": "haltegarderie-orelle@orange.fr",
+    "distance": 397390,
+    "latitude": 45.209231726677906,
+    "telephone": "0479599967",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Mazot des Croés",
+    "resultStructId": "673305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "francoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.5507136329249835,
+    "ville": "orelle",
+    "cp": "73140"
+  },
+  {
+    "resultId": "12742426",
+    "mail": "haltegarderie-orelle@orange.fr",
+    "distance": 144541,
+    "latitude": 45.209231726677906,
+    "telephone": "0479599967",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Mazot des Croés",
+    "resultStructId": "673305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "francoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.5507136329249835,
+    "ville": "orelle",
+    "cp": "73140"
+  }
+]

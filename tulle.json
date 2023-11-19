@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12923163",
+    "mail": "creche@ch-tulle.fr",
+    "distance": 192799,
+    "latitude": 45.27030974133188,
+    "telephone": "0555297927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du centre hospitalier de Tulle",
+    "resultStructId": "10279",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place dudocteur maschat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.769724790493848,
+    "ville": "tulle",
+    "cp": "19000"
+  },
+  {
+    "resultId": "12960874",
+    "mail": "polepetiteenfance@tulleagglo.fr",
+    "distance": 193773,
+    "latitude": 45.26125508270904,
+    "telephone": "0555208030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif La Maison des Enfants de Tulle",
+    "resultStructId": "24404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5avenue alsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7568970699032576,
+    "ville": "tulle",
+    "cp": "19000"
+  },
+  {
+    "resultId": "12960917",
+    "mail": "polepetiteenfance@tulleagglo.fr",
+    "distance": 193773,
+    "latitude": 45.26125508270904,
+    "telephone": "0555208030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TULLEAGGLO Multi accueil familial Maison des Enfants",
+    "resultStructId": "24405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenuealsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7568970699032576,
+    "ville": "tulle",
+    "cp": "19000"
+  },
+  {
+    "resultId": "12960874",
+    "mail": "polepetiteenfance@tulleagglo.fr",
+    "distance": 187290,
+    "latitude": 45.26125508270904,
+    "telephone": "0555208030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif La Maison des Enfants de Tulle",
+    "resultStructId": "24404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5avenue alsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7568970699032576,
+    "ville": "tulle",
+    "cp": "19000"
+  },
+  {
+    "resultId": "12960917",
+    "mail": "polepetiteenfance@tulleagglo.fr",
+    "distance": 187290,
+    "latitude": 45.26125508270904,
+    "telephone": "0555208030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TULLEAGGLO Multi accueil familial Maison des Enfants",
+    "resultStructId": "24405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenuealsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7568970699032576,
+    "ville": "tulle",
+    "cp": "19000"
+  },
+  {
+    "resultId": "12923163",
+    "mail": "creche@ch-tulle.fr",
+    "distance": 188676,
+    "latitude": 45.27030974133188,
+    "telephone": "0555297927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du centre hospitalier de Tulle",
+    "resultStructId": "10279",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place dudocteur maschat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.769724790493848,
+    "ville": "tulle",
+    "cp": "19000"
+  }
+]

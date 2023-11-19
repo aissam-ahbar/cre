@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12645573",
+    "mail": "multiaccueillabrede@cc-montesquieu.fr",
+    "distance": 43639,
+    "latitude": 44.68113558749993,
+    "telephone": "0556784773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil TOM POUSSE",
+    "resultStructId": "110702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place st jean d'etampes 33650",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5264409652566517,
+    "ville": "labrede",
+    "cp": ""
+  },
+  {
+    "resultId": "12991576",
+    "mail": "labrede@lespetitsenfants.fr",
+    "distance": 43858,
+    "latitude": 44.685349951733606,
+    "telephone": "0540055031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS ENFANTS LA BREDE",
+    "resultStructId": "11870",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue de viana33650",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5220509039436649,
+    "ville": "labrede",
+    "cp": ""
+  }
+]

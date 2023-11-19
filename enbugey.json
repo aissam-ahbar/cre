@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12858190",
+    "mail": "amberieu.apotres@lpcr.fr",
+    "distance": 169078,
+    "latitude": 45.96838151439423,
+    "telephone": "0967459228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES P'TITS MOMES",
+    "resultStructId": "708505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 rue des apotres 01500 amberieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3554061886521,
+    "ville": "enbugey",
+    "cp": ""
+  },
+  {
+    "resultId": "13025554",
+    "mail": "mpe@ville-amberieu.fr",
+    "distance": 169761,
+    "latitude": 45.959216273322866,
+    "telephone": "0474385970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'ARC EN CIEL",
+    "resultStructId": "702221",
+    "omegaId": "2524",
+    "avip": false,
+    "adresse": "rue du clos lebreton 01500amberieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.351074420012628,
+    "ville": "enbugey",
+    "cp": ""
+  },
+  {
+    "resultId": "40415780",
+    "mail": "jardin.enfants@ville-amberieu.fr",
+    "distance": 169761,
+    "latitude": 45.959216273322866,
+    "telephone": "0428640042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfans Ribambulle",
+    "resultStructId": "201203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue clos lebreton 01500 amberieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.351074420012628,
+    "ville": "enbugey",
+    "cp": ""
+  },
+  {
+    "resultId": "12855567",
+    "mail": "lafeedelalbarine@alfa3a.org",
+    "distance": 174588,
+    "latitude": 45.94610113154336,
+    "telephone": "0962106005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE FEE ALBARINE",
+    "resultStructId": "708507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de la schappe 01230 strambert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.43678416139771,
+    "ville": "enbugey",
+    "cp": ""
+  }
+]

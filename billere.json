@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12840861",
+    "mail": "",
+    "distance": 116524,
+    "latitude": 43.304974155074596,
+    "telephone": "0559620408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OPTIMOMES",
+    "resultStructId": "677204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2impasse jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3881652697259215,
+    "ville": "billere",
+    "cp": "64140"
+  },
+  {
+    "resultId": "12840818",
+    "mail": "",
+    "distance": 117432,
+    "latitude": 43.29813638848884,
+    "telephone": "0559622806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABIL",
+    "resultStructId": "681703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue des mimosas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4055186920941491,
+    "ville": "billere",
+    "cp": "64140"
+  }
+]

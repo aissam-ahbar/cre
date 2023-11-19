@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12964400",
+    "mail": "laurene.grosdemouge@agglo-epinal.fr",
+    "distance": 151268,
+    "latitude": 48.19165522888307,
+    "telephone": "0372341017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Premiers Pas\"",
+    "resultStructId": "203501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue eugene lutherer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.427575186582717,
+    "ville": "golbey",
+    "cp": "88190"
+  },
+  {
+    "resultId": "12710468",
+    "mail": "centresociallouisemichel@wanadoo.fr",
+    "distance": 151453,
+    "latitude": 48.18518954451912,
+    "telephone": "0329346085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie du Centre Social Louise Michel \"Ribambelle etCompagnie\"",
+    "resultStructId": "294301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue louis bleriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.425953892294324,
+    "ville": "golbey",
+    "cp": "88190"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12635210",
+    "mail": "prunel@aussonne.fr",
+    "distance": 144537,
+    "latitude": 43.68573497832743,
+    "telephone": "0562134575",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePRUNEL",
+    "resultStructId": "105204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue jules vedrines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3187964431866461,
+    "ville": "aussonne",
+    "cp": "31840"
+  },
+  {
+    "resultId": "13058535",
+    "mail": "asso.gros.calin@gmail.com",
+    "distance": 144606,
+    "latitude": 43.68402518469556,
+    "telephone": "0561851993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GrosCâlins",
+    "resultStructId": "673705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3183667225929712,
+    "ville": "aussonne",
+    "cp": "31840"
+  },
+  {
+    "resultId": "12635253",
+    "mail": "prestillou@aussonne.fr",
+    "distance": 145568,
+    "latitude": 43.68776716914592,
+    "telephone": "0562134854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePRESTILLOU",
+    "resultStructId": "105203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 allee lucie aubrac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3354263005924483,
+    "ville": "aussonne",
+    "cp": "31840"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "resultId": "12767022",
+    "mail": "multiaccueil-afc@orange.fr",
+    "distance": 181114,
+    "latitude": 48.530986883121976,
+    "telephone": "0164399161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Bergers",
+    "resultStructId": "6648",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la motte aux cailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6621252645586253,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "13014495",
+    "mail": "contact@babilou.com",
+    "distance": 181123,
+    "latitude": 48.52801733995706,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMelun Dajot",
+    "resultStructId": "553402",
+    "omegaId": "16711",
+    "avip": false,
+    "adresse": "77 rue dajot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.656281019477182,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766979",
+    "mail": "lacoccinelle@ville-melun.fr",
+    "distance": 181238,
+    "latitude": 48.53148267798789,
+    "telephone": "0164398060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Coccinelle",
+    "resultStructId": "6647",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 - 8 rue dore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6603614874906056,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766893",
+    "mail": "lesbambins@ville-melun.fr",
+    "distance": 181244,
+    "latitude": 48.527401880901344,
+    "telephone": "0164830030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Bambins",
+    "resultStructId": "6645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.652486717463569,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12767968",
+    "mail": "",
+    "distance": 181544,
+    "latitude": 48.53885461359249,
+    "telephone": "0667037053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Calinous",
+    "resultStructId": "471801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue freteau de peny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6677523779148427,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758035",
+    "mail": "poussinets@ville-melun.fr",
+    "distance": 181603,
+    "latitude": 48.54489821119396,
+    "telephone": "0160687594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Poussinets",
+    "resultStructId": "6439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 boulevard de l'almont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.678136187346619,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758379",
+    "mail": "leslutins@ville-melun.fr",
+    "distance": 181646,
+    "latitude": 48.544021873687896,
+    "telephone": "0160565965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins",
+    "resultStructId": "6447",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue paul valery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6754694618138744,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12763281",
+    "mail": "lesoursons@ville-melun.fr",
+    "distance": 181948,
+    "latitude": 48.53964389752127,
+    "telephone": "0164373952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemulti accueil Les Oursons",
+    "resultStructId": "6561",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue paul doumer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.660392720751168,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766936",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 183133,
+    "latitude": 48.54977257647967,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Pitchouns",
+    "resultStructId": "6646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537977919383406,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12757992",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 183133,
+    "latitude": 48.54977282444598,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBout D'Chou",
+    "resultStructId": "6438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537980318872476,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766850",
+    "mail": "lesdauphins@ville-melun.fr",
+    "distance": 183508,
+    "latitude": 48.549968855007506,
+    "telephone": "0160682365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Dauphins",
+    "resultStructId": "6644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.645949568688433,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766893",
+    "mail": "lesbambins@ville-melun.fr",
+    "distance": 184359,
+    "latitude": 48.527401880901344,
+    "telephone": "0164830030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Bambins",
+    "resultStructId": "6645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.652486717463569,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "13014495",
+    "mail": "contact@babilou.com",
+    "distance": 184533,
+    "latitude": 48.52801733995706,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMelun Dajot",
+    "resultStructId": "553402",
+    "omegaId": "16711",
+    "avip": false,
+    "adresse": "77 rue dajot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.656281019477182,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766979",
+    "mail": "lacoccinelle@ville-melun.fr",
+    "distance": 185007,
+    "latitude": 48.53148267798789,
+    "telephone": "0164398060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Coccinelle",
+    "resultStructId": "6647",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 - 8 rue dore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6603614874906056,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12767022",
+    "mail": "multiaccueil-afc@orange.fr",
+    "distance": 185009,
+    "latitude": 48.530986883121976,
+    "telephone": "0164399161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Bergers",
+    "resultStructId": "6648",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la motte aux cailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6621252645586253,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12763281",
+    "mail": "lesoursons@ville-melun.fr",
+    "distance": 185839,
+    "latitude": 48.53964389752127,
+    "telephone": "0164373952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemulti accueil Les Oursons",
+    "resultStructId": "6561",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue paul doumer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.660392720751168,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12767968",
+    "mail": "",
+    "distance": 185976,
+    "latitude": 48.53885461359249,
+    "telephone": "0667037053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Calinous",
+    "resultStructId": "471801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue freteau de peny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6677523779148427,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766850",
+    "mail": "lesdauphins@ville-melun.fr",
+    "distance": 186473,
+    "latitude": 48.549968855007506,
+    "telephone": "0160682365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Dauphins",
+    "resultStructId": "6644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.645949568688433,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12757992",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 186680,
+    "latitude": 48.54977282444598,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBout D'Chou",
+    "resultStructId": "6438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537980318872476,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766936",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 186680,
+    "latitude": 48.54977257647967,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Pitchouns",
+    "resultStructId": "6646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537977919383406,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758379",
+    "mail": "leslutins@ville-melun.fr",
+    "distance": 186731,
+    "latitude": 48.544021873687896,
+    "telephone": "0160565965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins",
+    "resultStructId": "6447",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue paul valery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6754694618138744,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758035",
+    "mail": "poussinets@ville-melun.fr",
+    "distance": 186899,
+    "latitude": 48.54489821119396,
+    "telephone": "0160687594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Poussinets",
+    "resultStructId": "6439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 boulevard de l'almont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.678136187346619,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758035",
+    "mail": "poussinets@ville-melun.fr",
+    "distance": 138676,
+    "latitude": 48.54489821119396,
+    "telephone": "0160687594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Poussinets",
+    "resultStructId": "6439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 boulevard de l'almont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.678136187346619,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12758379",
+    "mail": "leslutins@ville-melun.fr",
+    "distance": 138886,
+    "latitude": 48.544021873687896,
+    "telephone": "0160565965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins",
+    "resultStructId": "6447",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue paul valery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6754694618138744,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12767968",
+    "mail": "",
+    "distance": 139540,
+    "latitude": 48.53885461359249,
+    "telephone": "0667037053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Calinous",
+    "resultStructId": "471801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue freteau de peny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6677523779148427,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12763281",
+    "mail": "lesoursons@ville-melun.fr",
+    "distance": 140060,
+    "latitude": 48.53964389752127,
+    "telephone": "0164373952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemulti accueil Les Oursons",
+    "resultStructId": "6561",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue paul doumer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.660392720751168,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12767022",
+    "mail": "multiaccueil-afc@orange.fr",
+    "distance": 140096,
+    "latitude": 48.530986883121976,
+    "telephone": "0164399161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Bergers",
+    "resultStructId": "6648",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la motte aux cailles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6621252645586253,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766979",
+    "mail": "lacoccinelle@ville-melun.fr",
+    "distance": 140214,
+    "latitude": 48.53148267798789,
+    "telephone": "0164398060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Coccinelle",
+    "resultStructId": "6647",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 - 8 rue dore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6603614874906056,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12757992",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 140359,
+    "latitude": 48.54977282444598,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBout D'Chou",
+    "resultStructId": "6438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537980318872476,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766936",
+    "mail": "maison.enfance@ville-melun.fr",
+    "distance": 140359,
+    "latitude": 48.54977257647967,
+    "telephone": "0164093330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Pitchouns",
+    "resultStructId": "6646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du colonel picot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6537977919383406,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "13014495",
+    "mail": "contact@babilou.com",
+    "distance": 140577,
+    "latitude": 48.52801733995706,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMelun Dajot",
+    "resultStructId": "553402",
+    "omegaId": "16711",
+    "avip": false,
+    "adresse": "77 rue dajot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.656281019477182,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766893",
+    "mail": "lesbambins@ville-melun.fr",
+    "distance": 140864,
+    "latitude": 48.527401880901344,
+    "telephone": "0164830030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Bambins",
+    "resultStructId": "6645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.652486717463569,
+    "ville": "melun",
+    "cp": "77000"
+  },
+  {
+    "resultId": "12766850",
+    "mail": "lesdauphins@ville-melun.fr",
+    "distance": 140926,
+    "latitude": 48.549968855007506,
+    "telephone": "0160682365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Dauphins",
+    "resultStructId": "6644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.645949568688433,
+    "ville": "melun",
+    "cp": "77000"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "57693883",
+    "mail": "havane@micro-baby.com",
+    "distance": 188311,
+    "latitude": 48.90239038747187,
+    "telephone": "0986783063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - HAVANE",
+    "resultStructId": "689507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue franklin roosevelt 78100 stgermain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0595332886882636,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "59955490",
+    "mail": "fourqueux@les-cherubins.com",
+    "distance": 188538,
+    "latitude": 48.89042292719791,
+    "telephone": "0139588211",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CHERUBINS DE FOURQUEUX",
+    "resultStructId": "701801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 place de lagrille 78112 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0619745234913727,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12579181",
+    "mail": "creche.franzliszt@mairie-st-germain-en-laye.fr",
+    "distance": 188628,
+    "latitude": 48.89052543842674,
+    "telephone": "0139738101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - FRANTZ LISZT",
+    "resultStructId": "683013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard frantz liszt 78100st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0632096251210266,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12579009",
+    "mail": "presidence.bavette@gmail.com",
+    "distance": 188628,
+    "latitude": 48.89052543842674,
+    "telephone": "0139690690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE - BAVETTE ET CIE",
+    "resultStructId": "688805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue frantz schubert 78100st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0632096251210266,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12578880",
+    "mail": "stgermain.gramont@lpcr.fr",
+    "distance": 188628,
+    "latitude": 48.89052543842674,
+    "telephone": "0185608633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - GRAMONT",
+    "resultStructId": "689011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue multi accueil - les luciolesvelizy europe bis multi accueil - les lucioles 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0632096251210266,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "58334409",
+    "mail": "creche.jardindelagrille@saintgermainenlaye.fr",
+    "distance": 188681,
+    "latitude": 48.89055264821727,
+    "telephone": "0130870702",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LE JARDIN DE LA GRILLE",
+    "resultStructId": "683517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des 3quignons 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0639411652387127,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12579052",
+    "mail": "creche.berlioz@saintgermainenlaye.fr",
+    "distance": 188724,
+    "latitude": 48.89148587758238,
+    "telephone": "0130870882",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - BERLIOZ",
+    "resultStructId": "690306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard hectorberlioz 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0645876671157692,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "57596411",
+    "mail": "pereire@liveli.fr",
+    "distance": 188825,
+    "latitude": 48.90081188252442,
+    "telephone": "0185766601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - KIDDIES PEREIRE",
+    "resultStructId": "697403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue pereire 78100 stgermain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0664839437925506,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "59864280",
+    "mail": "stgermainenlaye@minilions.fr",
+    "distance": 188993,
+    "latitude": 48.89573843092295,
+    "telephone": "0130822396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MINILIONS SAINT GERMAIN EN LAYE",
+    "resultStructId": "700616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue georgesbizet 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0685229989485254,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "58984061",
+    "mail": "contact@creche-libellule.com",
+    "distance": 189015,
+    "latitude": 48.884173847528814,
+    "telephone": "0984209260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LIBELLULE SAINT GERMAIN",
+    "resultStructId": "691412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue chateaubriand78112 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0681095362691955,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "39063122",
+    "mail": "canetons78@gmail.com",
+    "distance": 189062,
+    "latitude": 48.88915948299674,
+    "telephone": "0683047806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CANETONS DE FOURQUEUX",
+    "resultStructId": "710820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue bouvet78112 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0690703164520987,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "57841361",
+    "mail": "saintgermain@micro-stars.fr",
+    "distance": 189194,
+    "latitude": 48.90568712801508,
+    "telephone": "0953359245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS P'TITS 22",
+    "resultStructId": "679705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des chasses royales78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0717874764883253,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "57841179",
+    "mail": "saintgermain@micro-stars.fr",
+    "distance": 189194,
+    "latitude": 48.90568712801508,
+    "telephone": "0985056859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS P'TITS 24",
+    "resultStructId": "679704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des chasses royales78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0717874764883253,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "27904239",
+    "mail": "cre-341@babilou.com",
+    "distance": 189334,
+    "latitude": 48.90428351225641,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU SAINT GERMAIN DUNANT",
+    "resultStructId": "689716",
+    "omegaId": "14800",
+    "avip": false,
+    "adresse": "4 rue henridunant 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.073625842303849,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12654173",
+    "mail": "creche.boisjoli@saintgermainenlaye.fr",
+    "distance": 189708,
+    "latitude": 48.894451653686446,
+    "telephone": "0130612573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - DU BOIS JOLI",
+    "resultStructId": "696801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard de la paix 78100st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0782334228094723,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12716058",
+    "mail": "c.dumilieu@gmail.com",
+    "distance": 189748,
+    "latitude": 48.90021549268416,
+    "telephone": "0175932469",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - ONIDOO",
+    "resultStructId": "681808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue charles rhone 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0790871191329803,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12716101",
+    "mail": "c.dumilieu@gmail.com",
+    "distance": 189748,
+    "latitude": 48.90021549268416,
+    "telephone": "0175932469",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULAPI SAINT GERMAIN",
+    "resultStructId": "681806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue charles rhone 78100st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0790871191329803,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "22247479",
+    "mail": "catherine.dumilieu@bulapi.fr",
+    "distance": 189748,
+    "latitude": 48.90021549268416,
+    "telephone": "0175932469",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OKLAVI",
+    "resultStructId": "681807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue charles rhone 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0790871191329803,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12579353",
+    "mail": "halte.saintleger@mairie-st-germain-en-laye.fr",
+    "distance": 189767,
+    "latitude": 48.895933986874134,
+    "telephone": "0134515932",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE - SAINT LEGER",
+    "resultStructId": "683015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue saint leger 78100 stgermain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.079122813752779,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "47778694",
+    "mail": "smastgermainenlaye@igesa.fr",
+    "distance": 189883,
+    "latitude": 48.914020055691466,
+    "telephone": "0130610546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITS GENIES",
+    "resultStructId": "707725",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue du presidentkennedy 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0815709321521063,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "48759482",
+    "mail": "contactcreches@infans.fr",
+    "distance": 189917,
+    "latitude": 48.887523412226045,
+    "telephone": "0650795427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - INFANS SAINT GERMAIN EN LAYE",
+    "resultStructId": "709303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 rue dupontel 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.080677016989827,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12592769",
+    "mail": "annie.debraygyrard@ville-saintgermainenlaye.fr",
+    "distance": 190181,
+    "latitude": 48.89311008470559,
+    "telephone": "0130872204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - LE PRIEURE",
+    "resultStructId": "683014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du prieure78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0846212724775333,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12796047",
+    "mail": "chouette@people-and-baby.com",
+    "distance": 190349,
+    "latitude": 48.900899873865654,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CHOUETTE",
+    "resultStructId": "681305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 avenue du marechal foch 78100 stgermain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.087351910892099,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12577977",
+    "mail": "halte.danesdemontardat@mairie-st-germain-en-laye.fr",
+    "distance": 190451,
+    "latitude": 48.89549691826747,
+    "telephone": "0139738608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE - DANES DE MONTARDAT",
+    "resultStructId": "683016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue danes de montardat78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0884658804849687,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12579138",
+    "mail": "creche.schnapper@saintgermainenlaye.fr",
+    "distance": 190503,
+    "latitude": 48.88955580403522,
+    "telephone": "0139738507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - SCHNAPPER",
+    "resultStructId": "697604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue schnapper78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.088823375323069,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "58995581",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 190603,
+    "latitude": 48.896193097331086,
+    "telephone": "0180839751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITES CANAILLES ST GERMAIN",
+    "resultStructId": "691602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 cour dessyrenes 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0905763248805407,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12654216",
+    "mail": "stgermain.auvergne@lpcr.fr",
+    "distance": 190604,
+    "latitude": 48.898083096375544,
+    "telephone": "0185608639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCEUIL - LES COMTES D'AUVERGNE",
+    "resultStructId": "689703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des ecuyers 78100st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.09069381967071,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12577891",
+    "mail": "creche.barratin@saintgermainenlaye.fr",
+    "distance": 190726,
+    "latitude": 48.90113060598028,
+    "telephone": "0139736445",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - ANNE BARRATIN",
+    "resultStructId": "696802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue detourville 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0925350671419696,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "59014561",
+    "mail": "contact@lbbe.fr",
+    "distance": 190744,
+    "latitude": 48.89572083084982,
+    "telephone": "0641824017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES EXPLORATEURS DE SAINT GERMAIN EN LAYE",
+    "resultStructId": "691710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10impasse saint pierre 78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0924904488672214,
+    "ville": "enlaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12714596",
+    "mail": "crechesaintgermain@yahoo.fr",
+    "distance": 190827,
+    "latitude": 48.89619150184434,
+    "telephone": "0175261670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CALINS DOUDOU SAINT GERMAIN",
+    "resultStructId": "675611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue des coches78100 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0936463054194343,
+    "ville": "enlaye",
+    "cp": ""
+  }
+]

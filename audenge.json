@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "21414489",
+    "mail": "lespetitsgribouillisaudenge@gmail.com",
+    "distance": 71080,
+    "latitude": 44.69084329817194,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS GRIBOUILLIS",
+    "resultStructId": "15528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de bordeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9932208416678092,
+    "ville": "audenge",
+    "cp": "33980"
+  },
+  {
+    "resultId": "18178503",
+    "mail": "multiaccueil@mairie-audenge.fr",
+    "distance": 71317,
+    "latitude": 44.687014865700625,
+    "telephone": "0556033909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'ILOT D'ANGES",
+    "resultStructId": "14714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue victor hamm",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0001166197442046,
+    "ville": "audenge",
+    "cp": "33980"
+  },
+  {
+    "resultId": "12716574",
+    "mail": "coordovie.audenge@adefresidences.com",
+    "distance": 71696,
+    "latitude": 44.68900845781716,
+    "telephone": "0557171939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE HERON ET PATAPON",
+    "resultStructId": "5445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue michele perrein",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.004017800045361,
+    "ville": "audenge",
+    "cp": "33980"
+  },
+  {
+    "resultId": "58919708",
+    "mail": "contact@crechelecarrousel.fr",
+    "distance": 72401,
+    "latitude": 44.68547977246416,
+    "telephone": "0661744632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrecheLE CARROUSEL D AUDENGE",
+    "resultStructId": "690327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue certes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0174955121559142,
+    "ville": "audenge",
+    "cp": "33980"
+  }
+]

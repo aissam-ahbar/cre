@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12855008",
+    "mail": "yutz@lpcr.fr",
+    "distance": 136944,
+    "latitude": 49.34886398955286,
+    "telephone": "0383222541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLES PETITS CHAPERONS ROUGES - Yutz",
+    "resultStructId": "188728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a avenue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.169790195491988,
+    "ville": "yutz",
+    "cp": "57970"
+  },
+  {
+    "resultId": "13035229",
+    "mail": "ribambellesyutz@outlook.fr",
+    "distance": 137628,
+    "latitude": 49.347014347176184,
+    "telephone": "0382564847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\" Ribambelles \"",
+    "resultStructId": "183005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue du vieux bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.182222334112551,
+    "ville": "yutz",
+    "cp": "57970"
+  },
+  {
+    "resultId": "12612291",
+    "mail": "crf.lespetitsdelolympe@orange.fr",
+    "distance": 138905,
+    "latitude": 49.35053247659221,
+    "telephone": "0382503374",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes petits de l'Olympe",
+    "resultStructId": "183006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place alain bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.199392131340141,
+    "ville": "yutz",
+    "cp": "57970"
+  },
+  {
+    "resultId": "57101424",
+    "mail": "chenillesetpapillons.yutz@gmail.com",
+    "distance": 139395,
+    "latitude": 49.3628000407661,
+    "telephone": "0695505495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChenilles et Papillons Yutz",
+    "resultStructId": "671804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du somp",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.19656775762714,
+    "ville": "yutz",
+    "cp": "57970"
+  },
+  {
+    "resultId": "57370433",
+    "mail": "mcdouceurdenfance@gmail.com",
+    "distance": 139437,
+    "latitude": 49.36216171455674,
+    "telephone": "0983453491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDouceur d'enfance",
+    "resultStructId": "675105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 avenue des nations",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.197793283689673,
+    "ville": "yutz",
+    "cp": "57970"
+  }
+]

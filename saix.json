@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12788221",
+    "mail": "arcenciel@communautesoragout.fr",
+    "distance": 208964,
+    "latitude": 43.58144727368955,
+    "telephone": "0563595951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- ARC EN CIEL - SAIX",
+    "resultStructId": "686215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "550 chemin des heronnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1472365042226462,
+    "ville": "saix",
+    "cp": "81710"
+  },
+  {
+    "resultId": "12788135",
+    "mail": "creche-les3pommes@orange.fr",
+    "distance": 211239,
+    "latitude": 43.58337470354585,
+    "telephone": "0563723497",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Trois Pommes - SAIX",
+    "resultStructId": "686214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 impasse des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.179558041629152,
+    "ville": "saix",
+    "cp": "81710"
+  },
+  {
+    "resultId": "12788135",
+    "mail": "creche-les3pommes@orange.fr",
+    "distance": 138312,
+    "latitude": 43.58337470354585,
+    "telephone": "0563723497",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Trois Pommes - SAIX",
+    "resultStructId": "686214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 impasse des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.179558041629152,
+    "ville": "saix",
+    "cp": "81710"
+  },
+  {
+    "resultId": "12788221",
+    "mail": "arcenciel@communautesoragout.fr",
+    "distance": 140919,
+    "latitude": 43.58144727368955,
+    "telephone": "0563595951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- ARC EN CIEL - SAIX",
+    "resultStructId": "686215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "550 chemin des heronnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1472365042226462,
+    "ville": "saix",
+    "cp": "81710"
+  }
+]

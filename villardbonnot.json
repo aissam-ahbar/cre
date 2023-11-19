@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12855137",
+    "mail": "multi-accueil.villard-bonnot@le-gresivaudan.fr",
+    "distance": 429855,
+    "latitude": 45.23227773404132,
+    "telephone": "0476135547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Papoterie",
+    "resultStructId": "8697",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "400 rue mozart 38190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.877895981332736,
+    "ville": "villardbonnot",
+    "cp": ""
+  },
+  {
+    "resultId": "12855137",
+    "mail": "multi-accueil.villard-bonnot@le-gresivaudan.fr",
+    "distance": 142581,
+    "latitude": 45.23227773404132,
+    "telephone": "0476135547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Papoterie",
+    "resultStructId": "8697",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "400 rue mozart 38190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.877895981332736,
+    "ville": "villardbonnot",
+    "cp": ""
+  }
+]

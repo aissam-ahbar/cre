@@ -1,0 +1,530 @@
+[
+  {
+    "resultId": "12777944",
+    "mail": "ma.belair@mairie-angouleme.fr",
+    "distance": 189473,
+    "latitude": 45.65610363831187,
+    "telephone": "0545681128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Bel Air",
+    "resultStructId": "179903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ardilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.17040281404564178,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778073",
+    "mail": "ma.lhoumeau@mairie-angouleme.fr",
+    "distance": 189999,
+    "latitude": 45.65529325998309,
+    "telephone": "0545956992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde L'Houmeau",
+    "resultStructId": "180714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue andre lamaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16076305072055366,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778030",
+    "mail": "kirikou@mairie-angouleme.fr",
+    "distance": 190372,
+    "latitude": 45.64919536284608,
+    "telephone": "0545228570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison de Kirikou",
+    "resultStructId": "180711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des freres lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16430808642606473,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778331",
+    "mail": "ma.saintcybard@mairie-angouleme.fr",
+    "distance": 190414,
+    "latitude": 45.65721444680157,
+    "telephone": "0545953615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Saint-Cybard",
+    "resultStructId": "180903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place mulac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1484240756275424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778417",
+    "mail": "titom@mairie-angouleme.fr",
+    "distance": 190531,
+    "latitude": 45.658201337036175,
+    "telephone": "0622441355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial Titom",
+    "resultStructId": "180908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 rue de saintes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.144115987214158,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778116",
+    "mail": "d.faugerolle@mairie-angouleme.fr",
+    "distance": 190817,
+    "latitude": 45.64847652758583,
+    "telephone": "0545954270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Grand Font",
+    "resultStructId": "6906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'etat a la grand font",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12556133",
+    "mail": "yannick.denis@ch-angouleme.fr",
+    "distance": 190817,
+    "latitude": 45.64847652758583,
+    "telephone": "0545244149",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"3 P'tits CHA\" - Centrehospitalier",
+    "resultStructId": "134001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rond-point de girac - cs 55015 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12777987",
+    "mail": "kalis@mairie-angouleme.fr",
+    "distance": 190817,
+    "latitude": 45.64847652758583,
+    "telephone": "0545658840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Appartementd'accueil Kalis",
+    "resultStructId": "180708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des molines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778202",
+    "mail": "zarafa@mairie-angouleme.fr",
+    "distance": 190817,
+    "latitude": 45.64847652758583,
+    "telephone": "0545658836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMonde de Zarafa",
+    "resultStructId": "180901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des molines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "39409534",
+    "mail": "lfredon@achilleetcamille.com",
+    "distance": 191990,
+    "latitude": 45.64311122521984,
+    "telephone": "0627351031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Cabane d'Achille et Camille\"",
+    "resultStructId": "188704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1413802316927709,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778159",
+    "mail": "hg.macampagne@mairie-angouleme.fr",
+    "distance": 192710,
+    "latitude": 45.62997111232572,
+    "telephone": "0545614984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Ma Campagne",
+    "resultStructId": "180706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du champ brun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15080544731962264,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778159",
+    "mail": "hg.macampagne@mairie-angouleme.fr",
+    "distance": 145861,
+    "latitude": 45.62997111232572,
+    "telephone": "0545614984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Ma Campagne",
+    "resultStructId": "180706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du champ brun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15080544731962264,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "39409534",
+    "mail": "lfredon@achilleetcamille.com",
+    "distance": 147138,
+    "latitude": 45.64311122521984,
+    "telephone": "0627351031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Cabane d'Achille et Camille\"",
+    "resultStructId": "188704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1413802316927709,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12556133",
+    "mail": "yannick.denis@ch-angouleme.fr",
+    "distance": 147961,
+    "latitude": 45.64847652758583,
+    "telephone": "0545244149",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"3 P'tits CHA\" - Centrehospitalier",
+    "resultStructId": "134001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rond-point de girac - cs 55015 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12777987",
+    "mail": "kalis@mairie-angouleme.fr",
+    "distance": 147961,
+    "latitude": 45.64847652758583,
+    "telephone": "0545658840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Appartementd'accueil Kalis",
+    "resultStructId": "180708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des molines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778202",
+    "mail": "zarafa@mairie-angouleme.fr",
+    "distance": 147961,
+    "latitude": 45.64847652758583,
+    "telephone": "0545658836",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMonde de Zarafa",
+    "resultStructId": "180901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des molines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778116",
+    "mail": "d.faugerolle@mairie-angouleme.fr",
+    "distance": 147961,
+    "latitude": 45.64847652758583,
+    "telephone": "0545954270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Grand Font",
+    "resultStructId": "6906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'etat a la grand font",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15619984316013424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778030",
+    "mail": "kirikou@mairie-angouleme.fr",
+    "distance": 148173,
+    "latitude": 45.64919536284608,
+    "telephone": "0545228570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison de Kirikou",
+    "resultStructId": "180711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des freres lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16430808642606473,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778073",
+    "mail": "ma.lhoumeau@mairie-angouleme.fr",
+    "distance": 148777,
+    "latitude": 45.65529325998309,
+    "telephone": "0545956992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde L'Houmeau",
+    "resultStructId": "180714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue andre lamaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.16076305072055366,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778331",
+    "mail": "ma.saintcybard@mairie-angouleme.fr",
+    "distance": 148785,
+    "latitude": 45.65721444680157,
+    "telephone": "0545953615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Saint-Cybard",
+    "resultStructId": "180903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place mulac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1484240756275424,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12778417",
+    "mail": "titom@mairie-angouleme.fr",
+    "distance": 148824,
+    "latitude": 45.658201337036175,
+    "telephone": "0622441355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial Titom",
+    "resultStructId": "180908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 rue de saintes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.144115987214158,
+    "ville": "angouleme",
+    "cp": "16000"
+  },
+  {
+    "resultId": "12777944",
+    "mail": "ma.belair@mairie-angouleme.fr",
+    "distance": 149026,
+    "latitude": 45.65610363831187,
+    "telephone": "0545681128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Bel Air",
+    "resultStructId": "179903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ardilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.17040281404564178,
+    "ville": "angouleme",
+    "cp": "16000"
+  }
+]

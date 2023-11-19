@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "60256619",
+    "mail": "lulucompagnie.smb@gmail.com",
+    "distance": 79185,
+    "latitude": 50.73123305260186,
+    "telephone": "0749491516",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lulu& Compagnie",
+    "resultStructId": "707625",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue pierre martin 62280 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6732199574412252,
+    "ville": "martinboulogne",
+    "cp": ""
+  },
+  {
+    "resultId": "13004562",
+    "mail": "lestroispetitspas@centresocialeclate.com",
+    "distance": 81641,
+    "latitude": 50.727394870625595,
+    "telephone": "0980660455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles 3 Petits Pas - St Martin Boulogne",
+    "resultStructId": "692909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 squareisabelle nacry 62280 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6337565807026169,
+    "ville": "martinboulogne",
+    "cp": ""
+  },
+  {
+    "resultId": "56565871",
+    "mail": "betty.happy@gmail.com",
+    "distance": 81700,
+    "latitude": 50.72581412982367,
+    "telephone": "0661867780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HappyZou",
+    "resultStructId": "707401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place jean moulin 62280 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6319688751610546,
+    "ville": "martinboulogne",
+    "cp": ""
+  },
+  {
+    "resultId": "13001638",
+    "mail": "maisondelapetiteenfance@centresocialeclate.com",
+    "distance": 82500,
+    "latitude": 50.734465068530035,
+    "telephone": "0321311113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "692908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue anne franck 62280 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6248413032641964,
+    "ville": "martinboulogne",
+    "cp": ""
+  }
+]

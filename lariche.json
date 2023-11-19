@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "59372399",
+    "mail": "lariche@lesptitsbabadins.com",
+    "distance": 87445,
+    "latitude": 47.37863569999964,
+    "telephone": "0638412323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Babadins\" de La Riche",
+    "resultStructId": "708212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de lachapelle 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6650895172541236,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "33384165",
+    "mail": "creche.bibhop@gmail.com",
+    "distance": 87699,
+    "latitude": 47.383953771186135,
+    "telephone": "0247384503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bib'Hop\"",
+    "resultStructId": "709507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la parmentiere 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6654983749521554,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12845720",
+    "mail": "microcreche.lajardiniere@gmail.com",
+    "distance": 87915,
+    "latitude": 47.39027941480807,
+    "telephone": "0234534489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Coquelicots\"",
+    "resultStructId": "709533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 juin 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6673485460783646,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995919",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 88447,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "471401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995962",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 88447,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance - crèche familiale",
+    "resultStructId": "11972",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": "37520"
+  },
+  {
+    "resultId": "59370978",
+    "mail": "creche.cocotte@gmail.com",
+    "distance": 90367,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Cocotte\"",
+    "resultStructId": "709516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370808",
+    "mail": "creche.capuche@gmail.com",
+    "distance": 90367,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capuche\"",
+    "resultStructId": "709509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370978",
+    "mail": "creche.cocotte@gmail.com",
+    "distance": 123227,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Cocotte\"",
+    "resultStructId": "709516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370808",
+    "mail": "creche.capuche@gmail.com",
+    "distance": 123227,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capuche\"",
+    "resultStructId": "709509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995919",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 125589,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "471401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995962",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 125589,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance - crèche familiale",
+    "resultStructId": "11972",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": "37520"
+  },
+  {
+    "resultId": "12845720",
+    "mail": "microcreche.lajardiniere@gmail.com",
+    "distance": 126229,
+    "latitude": 47.39027941480807,
+    "telephone": "0234534489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Coquelicots\"",
+    "resultStructId": "709533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 juin 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6673485460783646,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "33384165",
+    "mail": "creche.bibhop@gmail.com",
+    "distance": 126241,
+    "latitude": 47.383953771186135,
+    "telephone": "0247384503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bib'Hop\"",
+    "resultStructId": "709507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la parmentiere 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6654983749521554,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59372399",
+    "mail": "lariche@lesptitsbabadins.com",
+    "distance": 126339,
+    "latitude": 47.37863569999964,
+    "telephone": "0638412323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Babadins\" de La Riche",
+    "resultStructId": "708212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de lachapelle 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6650895172541236,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370978",
+    "mail": "creche.cocotte@gmail.com",
+    "distance": 191769,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Cocotte\"",
+    "resultStructId": "709516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370808",
+    "mail": "creche.capuche@gmail.com",
+    "distance": 191769,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capuche\"",
+    "resultStructId": "709509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995919",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 192210,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "471401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995962",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 192210,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance - crèche familiale",
+    "resultStructId": "11972",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": "37520"
+  },
+  {
+    "resultId": "12845720",
+    "mail": "microcreche.lajardiniere@gmail.com",
+    "distance": 192389,
+    "latitude": 47.39027941480807,
+    "telephone": "0234534489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Coquelicots\"",
+    "resultStructId": "709533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 juin 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6673485460783646,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "33384165",
+    "mail": "creche.bibhop@gmail.com",
+    "distance": 192955,
+    "latitude": 47.383953771186135,
+    "telephone": "0247384503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bib'Hop\"",
+    "resultStructId": "709507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la parmentiere 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6654983749521554,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59372399",
+    "mail": "lariche@lesptitsbabadins.com",
+    "distance": 193471,
+    "latitude": 47.37863569999964,
+    "telephone": "0638412323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Babadins\" de La Riche",
+    "resultStructId": "708212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de lachapelle 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6650895172541236,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370978",
+    "mail": "creche.cocotte@gmail.com",
+    "distance": 123227,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Cocotte\"",
+    "resultStructId": "709516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59370808",
+    "mail": "creche.capuche@gmail.com",
+    "distance": 123227,
+    "latitude": 47.38196733721004,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capuche\"",
+    "resultStructId": "709509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint genouph 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6238275967155147,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995919",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 125589,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "471401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "12995962",
+    "mail": "maison.enfance@ville-lariche.fr",
+    "distance": 125589,
+    "latitude": 47.38899058370542,
+    "telephone": "0247373037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance - crèche familiale",
+    "resultStructId": "11972",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6582404689265127,
+    "ville": "lariche",
+    "cp": "37520"
+  },
+  {
+    "resultId": "12845720",
+    "mail": "microcreche.lajardiniere@gmail.com",
+    "distance": 126229,
+    "latitude": 47.39027941480807,
+    "telephone": "0234534489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Coquelicots\"",
+    "resultStructId": "709533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 juin 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6673485460783646,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "33384165",
+    "mail": "creche.bibhop@gmail.com",
+    "distance": 126241,
+    "latitude": 47.383953771186135,
+    "telephone": "0247384503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bib'Hop\"",
+    "resultStructId": "709507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la parmentiere 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6654983749521554,
+    "ville": "lariche",
+    "cp": ""
+  },
+  {
+    "resultId": "59372399",
+    "mail": "lariche@lesptitsbabadins.com",
+    "distance": 126339,
+    "latitude": 47.37863569999964,
+    "telephone": "0638412323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Babadins\" de La Riche",
+    "resultStructId": "708212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de lachapelle 37520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6650895172541236,
+    "ville": "lariche",
+    "cp": ""
+  }
+]

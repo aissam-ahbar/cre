@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12881625",
+    "mail": "garderie@vaujany.fr",
+    "distance": 413657,
+    "latitude": 45.157063376084835,
+    "telephone": "0476111194",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PoleEnfance de Vaujany",
+    "resultStructId": "699529",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 route de la cour basse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.077857214925787,
+    "ville": "vaujany",
+    "cp": "38114"
+  },
+  {
+    "resultId": "12881625",
+    "mail": "garderie@vaujany.fr",
+    "distance": 133474,
+    "latitude": 45.157063376084835,
+    "telephone": "0476111194",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PoleEnfance de Vaujany",
+    "resultStructId": "699529",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 route de la cour basse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.077857214925787,
+    "ville": "vaujany",
+    "cp": "38114"
+  }
+]

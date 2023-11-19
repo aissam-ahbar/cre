@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "34171093",
+    "mail": "maiavillage.secretariat@gmail.com",
+    "distance": 159847,
+    "latitude": 4.7882562650478295,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESAZURITES",
+    "resultStructId": "116020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "515 chemin de l'egyptienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34080100086008,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57804443",
+    "mail": "multiaccueil.lespetitsourires@gmail.com",
+    "distance": 160126,
+    "latitude": 4.882532775372147,
+    "telephone": "0694407135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS SOURIRES",
+    "resultStructId": "679235",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue quadrille des lanciers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34481428607818,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892631",
+    "mail": "",
+    "distance": 160751,
+    "latitude": 4.854731992942552,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMEROSA",
+    "resultStructId": "680312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les ecarts de la desiree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.33657606043176,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892698",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594312673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pom'D'Amour",
+    "resultStructId": "709217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue citron vert - cogneau lamirande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892773",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POM'KANEL",
+    "resultStructId": "709219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 rue des immortelles - lot. les jardins dematoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529301",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594314743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX ENFANTS",
+    "resultStructId": "709221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 bis rue des ixoras - residence cogneaularivot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674391",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594355544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIPALIKA",
+    "resultStructId": "709222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue des oeillets d'inde - cogneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674305",
+    "mail": "creche-raouletgermaine@orange.fr",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594352209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECONCORDE - RAOUL ET GERMAINE",
+    "resultStructId": "709223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue dumesnil -residence concorde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674434",
+    "mail": "timounmatoury@hotmail.com",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594305493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIMOUN MATOURY",
+    "resultStructId": "709225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "153 avenue felix eboue - residencebarbadines ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892585",
+    "mail": "",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Azurites",
+    "resultStructId": "680311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892840",
+    "mail": "",
+    "distance": 161287,
+    "latitude": 4.85056416561093,
+    "telephone": "0694201304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ADIET NANA",
+    "resultStructId": "680315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence barbadines 12 place alexandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529344",
+    "mail": "crechelespetitspapillons@orange.fr",
+    "distance": 162081,
+    "latitude": 4.85271580119329,
+    "telephone": "0594382100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PAPILLONS",
+    "resultStructId": "709224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 lotissement gibelin ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.32437157738303,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57804443",
+    "mail": "multiaccueil.lespetitsourires@gmail.com",
+    "distance": 180990,
+    "latitude": 4.882532775372147,
+    "telephone": "0694407135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS SOURIRES",
+    "resultStructId": "679235",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue quadrille des lanciers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34481428607818,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892631",
+    "mail": "",
+    "distance": 183296,
+    "latitude": 4.854731992942552,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMEROSA",
+    "resultStructId": "680312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les ecarts de la desiree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.33657606043176,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892698",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594312673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pom'D'Amour",
+    "resultStructId": "709217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue citron vert - cogneau lamirande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892773",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POM'KANEL",
+    "resultStructId": "709219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 rue des immortelles - lot. les jardins dematoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529301",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594314743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX ENFANTS",
+    "resultStructId": "709221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 bis rue des ixoras - residence cogneaularivot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674391",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594355544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIPALIKA",
+    "resultStructId": "709222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue des oeillets d'inde - cogneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674305",
+    "mail": "creche-raouletgermaine@orange.fr",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594352209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECONCORDE - RAOUL ET GERMAINE",
+    "resultStructId": "709223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue dumesnil -residence concorde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674434",
+    "mail": "timounmatoury@hotmail.com",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594305493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIMOUN MATOURY",
+    "resultStructId": "709225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "153 avenue felix eboue - residencebarbadines ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892585",
+    "mail": "",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Azurites",
+    "resultStructId": "680311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892840",
+    "mail": "",
+    "distance": 184025,
+    "latitude": 4.85056416561093,
+    "telephone": "0694201304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ADIET NANA",
+    "resultStructId": "680315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence barbadines 12 place alexandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529344",
+    "mail": "crechelespetitspapillons@orange.fr",
+    "distance": 184583,
+    "latitude": 4.85271580119329,
+    "telephone": "0594382100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PAPILLONS",
+    "resultStructId": "709224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 lotissement gibelin ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.32437157738303,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "34171093",
+    "mail": "maiavillage.secretariat@gmail.com",
+    "distance": 186658,
+    "latitude": 4.7882562650478295,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESAZURITES",
+    "resultStructId": "116020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "515 chemin de l'egyptienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34080100086008,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57804443",
+    "mail": "multiaccueil.lespetitsourires@gmail.com",
+    "distance": 1433236,
+    "latitude": 4.882532775372147,
+    "telephone": "0694407135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS SOURIRES",
+    "resultStructId": "679235",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue quadrille des lanciers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34481428607818,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892631",
+    "mail": "",
+    "distance": 1436177,
+    "latitude": 4.854731992942552,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMEROSA",
+    "resultStructId": "680312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les ecarts de la desiree",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.33657606043176,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892698",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594312673",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pom'D'Amour",
+    "resultStructId": "709217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue citron vert - cogneau lamirande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892773",
+    "mail": "contact@assoc-boiscanon.fr",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594317245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POM'KANEL",
+    "resultStructId": "709219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 rue des immortelles - lot. les jardins dematoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529301",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594314743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX ENFANTS",
+    "resultStructId": "709221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 bis rue des ixoras - residence cogneaularivot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674391",
+    "mail": "ile.aux.enfants2@wanadoo.fr",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594355544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIPALIKA",
+    "resultStructId": "709222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue des oeillets d'inde - cogneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674305",
+    "mail": "creche-raouletgermaine@orange.fr",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594352209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECONCORDE - RAOUL ET GERMAINE",
+    "resultStructId": "709223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue dumesnil -residence concorde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12674434",
+    "mail": "timounmatoury@hotmail.com",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594305493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIMOUN MATOURY",
+    "resultStructId": "709225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "153 avenue felix eboue - residencebarbadines ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892585",
+    "mail": "",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Azurites",
+    "resultStructId": "680311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "57892840",
+    "mail": "",
+    "distance": 1436903,
+    "latitude": 4.85056416561093,
+    "telephone": "0694201304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ADIET NANA",
+    "resultStructId": "680315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence barbadines 12 place alexandre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.3313905923829,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "12529344",
+    "mail": "crechelespetitspapillons@orange.fr",
+    "distance": 1437227,
+    "latitude": 4.85271580119329,
+    "telephone": "0594382100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PAPILLONS",
+    "resultStructId": "709224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 lotissement gibelin ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.32437157738303,
+    "ville": "matoury",
+    "cp": "97351"
+  },
+  {
+    "resultId": "34171093",
+    "mail": "maiavillage.secretariat@gmail.com",
+    "distance": 1441497,
+    "latitude": 4.7882562650478295,
+    "telephone": "0594292674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESAZURITES",
+    "resultStructId": "116020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "515 chemin de l'egyptienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -52.34080100086008,
+    "ville": "matoury",
+    "cp": "97351"
+  }
+]

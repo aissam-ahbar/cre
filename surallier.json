@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12664931",
+    "mail": "accueils.toulonallier@orange.fr",
+    "distance": 100837,
+    "latitude": 46.5181996339915,
+    "telephone": "0470201646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "4244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place saint martin 03400 toulon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.360298436002227,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12747543",
+    "mail": "creche-brin-deveil@interco-abl.fr",
+    "distance": 118246,
+    "latitude": 46.31223960544481,
+    "telephone": "0470458534",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Brin d'éveil",
+    "resultStructId": "708504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue jules dupre 03150 varennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.408172891339245,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12773343",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 137918,
+    "latitude": 46.11702416974311,
+    "telephone": "0470324970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Robert DEBRÉ",
+    "resultStructId": "205619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis esplanade francoismitterrand 03700 bellerive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.402127908998908,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12773300",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 137918,
+    "latitude": 46.11702416974311,
+    "telephone": "0470324970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\" Robert DEBRÉ \"",
+    "resultStructId": "205618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis esplanade francois mitterrand03700 bellerive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.402127908998908,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12664931",
+    "mail": "accueils.toulonallier@orange.fr",
+    "distance": 138751,
+    "latitude": 46.5181996339915,
+    "telephone": "0470201646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Princes",
+    "resultStructId": "4244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place saint martin 03400 toulon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.360298436002227,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12747543",
+    "mail": "creche-brin-deveil@interco-abl.fr",
+    "distance": 152504,
+    "latitude": 46.31223960544481,
+    "telephone": "0470458534",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Brin d'éveil",
+    "resultStructId": "708504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue jules dupre 03150 varennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.408172891339245,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12773343",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 164329,
+    "latitude": 46.11702416974311,
+    "telephone": "0470324970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Robert DEBRÉ",
+    "resultStructId": "205619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis esplanade francoismitterrand 03700 bellerive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.402127908998908,
+    "ville": "surallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12773300",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 164329,
+    "latitude": 46.11702416974311,
+    "telephone": "0470324970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\" Robert DEBRÉ \"",
+    "resultStructId": "205618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis esplanade francois mitterrand03700 bellerive",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.402127908998908,
+    "ville": "surallier",
+    "cp": ""
+  }
+]

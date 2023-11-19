@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12506941",
+    "mail": "",
+    "distance": 189597,
+    "latitude": 48.67705598555533,
+    "telephone": "0164461557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaVaucouleur",
+    "resultStructId": "570",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 residence residence de la vaucouleur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1654481644141317,
+    "ville": "lesulis",
+    "cp": "91940"
+  },
+  {
+    "resultId": "12506640",
+    "mail": "",
+    "distance": 189841,
+    "latitude": 48.677530145075984,
+    "telephone": "0169074576",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeLubéron",
+    "resultStructId": "563",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du luberon 91940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1787808979385517,
+    "ville": "lesulis",
+    "cp": ""
+  },
+  {
+    "resultId": "35230918",
+    "mail": "multi-accueil-oleron@lesulis.fr",
+    "distance": 190073,
+    "latitude": 48.681944039970475,
+    "telephone": "0170276243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Oh! Les Ronds",
+    "resultStructId": "134102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d'oleron 91940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.161384449004257,
+    "ville": "lesulis",
+    "cp": ""
+  },
+  {
+    "resultId": "37620895",
+    "mail": "",
+    "distance": 190479,
+    "latitude": 48.68487927637326,
+    "telephone": "0169331196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale des Bergères",
+    "resultStructId": "158711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des bergeres 91940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1674399413149343,
+    "ville": "lesulis",
+    "cp": ""
+  },
+  {
+    "resultId": "37620818",
+    "mail": "",
+    "distance": 190526,
+    "latitude": 48.68433748272692,
+    "telephone": "0169331195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilCourdimanche",
+    "resultStructId": "158709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre commercial courdimanche 91940",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1748411052222996,
+    "ville": "lesulis",
+    "cp": ""
+  }
+]

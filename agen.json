@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12843226",
+    "mail": "agen1@creche-la-maison-bleue.fr",
+    "distance": 69719,
+    "latitude": 44.20282100709678,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Coeurs\"",
+    "resultStructId": "8420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse du paradis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6149511293985584,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12745651",
+    "mail": "creche.kirikou.udaf47@gmail.com",
+    "distance": 69811,
+    "latitude": 44.203090796705425,
+    "telephone": "0553983030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheKIRIKOU UDAF",
+    "resultStructId": "6151",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue d'italie zac agen sud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.616226166106252,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12504017",
+    "mail": "sylvie.caze@agen.fr",
+    "distance": 70776,
+    "latitude": 44.20244931736637,
+    "telephone": "0553666336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Municipale d'Agen",
+    "resultStructId": "502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6284625471208696,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12745608",
+    "mail": "creche.yakari.udaf47@gmail.com",
+    "distance": 70778,
+    "latitude": 44.21965914732224,
+    "telephone": "0553471847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEYAKARI UDAF",
+    "resultStructId": "6150",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la grande muraille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6338745919379978,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12843140",
+    "mail": "agen3@creche-la-maison-bleue.fr",
+    "distance": 71422,
+    "latitude": 44.19654797005357,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pause Câlin\"",
+    "resultStructId": "8418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue paganel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6348024892014908,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12843183",
+    "mail": "agen5@creche-la-maison-bleue.fr",
+    "distance": 71794,
+    "latitude": 44.19509884199449,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les petits princes\" Agen",
+    "resultStructId": "8419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "209 avenue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6391051781630039,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12843097",
+    "mail": "agen2@creche-la-maison-bleue.fr",
+    "distance": 72137,
+    "latitude": 44.21435115692768,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Lapins\"",
+    "resultStructId": "8417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de montanou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6497389345140372,
+    "ville": "agen",
+    "cp": "47000"
+  },
+  {
+    "resultId": "12843269",
+    "mail": "agen4@creche-la-maison-bleue.fr",
+    "distance": 72137,
+    "latitude": 44.21435115692768,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Arc en Ciel\"",
+    "resultStructId": "8421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de montanou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6497389345140372,
+    "ville": "agen",
+    "cp": "47000"
+  }
+]

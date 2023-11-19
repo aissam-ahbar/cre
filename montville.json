@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12830146",
+    "mail": "multi-accueil-montville@orange.fr",
+    "distance": 156150,
+    "latitude": 49.54818888801275,
+    "telephone": "0235339984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEBERCEAU DE TOM POUCE",
+    "resultStructId": "160908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "- immeuble le robec - cote dumont real",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.075145438475313,
+    "ville": "montville",
+    "cp": "76710"
+  },
+  {
+    "resultId": "12830146",
+    "mail": "multi-accueil-montville@orange.fr",
+    "distance": 134522,
+    "latitude": 49.54818888801275,
+    "telephone": "0235339984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEBERCEAU DE TOM POUCE",
+    "resultStructId": "160908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "- immeuble le robec - cote dumont real",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.075145438475313,
+    "ville": "montville",
+    "cp": "76710"
+  }
+]

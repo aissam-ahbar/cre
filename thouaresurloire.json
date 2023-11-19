@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12496750",
+    "mail": "contact@mairie-thouare.fr",
+    "distance": 51593,
+    "latitude": 47.27034811447976,
+    "telephone": "0240680811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Thouaré sur Loire",
+    "resultStructId": "333",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des ecoles 44470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4396355260753018,
+    "ville": "thouaresurloire",
+    "cp": ""
+  },
+  {
+    "resultId": "13027575",
+    "mail": "contact@bibopetloola.fr",
+    "distance": 53045,
+    "latitude": 47.26138592607841,
+    "telephone": "0609618005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje",
+    "resultStructId": "12707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du parc des sports 44470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4537103651001901,
+    "ville": "thouaresurloire",
+    "cp": ""
+  },
+  {
+    "resultId": "12496750",
+    "mail": "contact@mairie-thouare.fr",
+    "distance": 51593,
+    "latitude": 47.27034811447976,
+    "telephone": "0240680811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Thouaré sur Loire",
+    "resultStructId": "333",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des ecoles 44470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4396355260753018,
+    "ville": "thouaresurloire",
+    "cp": ""
+  },
+  {
+    "resultId": "13027575",
+    "mail": "contact@bibopetloola.fr",
+    "distance": 53045,
+    "latitude": 47.26138592607841,
+    "telephone": "0609618005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Paje",
+    "resultStructId": "12707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du parc des sports 44470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4537103651001901,
+    "ville": "thouaresurloire",
+    "cp": ""
+  }
+]

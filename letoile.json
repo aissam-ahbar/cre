@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "38771380",
+    "mail": "marcy@lpcr.fr",
+    "distance": 167185,
+    "latitude": 45.79101120340486,
+    "telephone": "0437464536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Chaperons Rouges Marcy l'Etoile",
+    "resultStructId": "175602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis avenuebourgelat 69280 marcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.708548552154401,
+    "ville": "letoile",
+    "cp": ""
+  },
+  {
+    "resultId": "12890655",
+    "mail": "",
+    "distance": 168106,
+    "latitude": 45.78218794525055,
+    "telephone": "0478576288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Souris Verte",
+    "resultStructId": "9523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "850 avenue jean collomb 69280 marcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.707035964194422,
+    "ville": "letoile",
+    "cp": ""
+  },
+  {
+    "resultId": "53305291",
+    "mail": "marcyloups@people-and-baby.com",
+    "distance": 168159,
+    "latitude": 45.78110908061953,
+    "telephone": "0953538165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMarcyloups",
+    "resultStructId": "522401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 allee louis raymond 69280 marcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.703739283862695,
+    "ville": "letoile",
+    "cp": ""
+  }
+]

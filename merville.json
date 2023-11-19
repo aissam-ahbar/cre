@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12974462",
+    "mail": "multi-accueil@ville-merville.fr",
+    "distance": 19982,
+    "latitude": 50.64528801599164,
+    "telephone": "0328420655",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Chatons",
+    "resultStructId": "426701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue des pretres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.636473979422474,
+    "ville": "merville",
+    "cp": "59660"
+  },
+  {
+    "resultId": "12726559",
+    "mail": "crechemerville@hautstolosans.fr",
+    "distance": 140461,
+    "latitude": 43.72327985326727,
+    "telephone": "0561851989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheintercommunale Les Marmousets",
+    "resultStructId": "674216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue georges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2906175045224897,
+    "ville": "merville",
+    "cp": "31330"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "58396412",
+    "mail": "president.pera@gmail.com",
+    "distance": 198372,
+    "latitude": 48.75444673477189,
+    "telephone": "0130240117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE - LES CRABOUILLAGES",
+    "resultStructId": "684013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 parc de diane 78350jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1888162981958574,
+    "ville": "enjosas",
+    "cp": ""
+  },
+  {
+    "resultId": "12526764",
+    "mail": "leslogesenjosas@creche-la-maison-bleue.fr",
+    "distance": 198798,
+    "latitude": 48.76399593123004,
+    "telephone": "0139568007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITS LOGEOIS",
+    "resultStructId": "687524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des haies 78350 lesloges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.143280918288472,
+    "ville": "enjosas",
+    "cp": ""
+  },
+  {
+    "resultId": "21765945",
+    "mail": "f.chancel@jouy-en-josas.fr",
+    "distance": 199273,
+    "latitude": 48.76549389272811,
+    "telephone": "0139562877",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - L'ILE AUX ENFANTS",
+    "resultStructId": "685815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place de la marne 78350jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.166825981872889,
+    "ville": "enjosas",
+    "cp": ""
+  },
+  {
+    "resultId": "12870961",
+    "mail": "jouy.en.josas@lpcr.fr",
+    "distance": 200045,
+    "latitude": 48.772592916678825,
+    "telephone": "0141057665",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITS CHAPERONS ROUGES - JOUY ENJOSAS",
+    "resultStructId": "687306",
+    "omegaId": "9567",
+    "avip": false,
+    "adresse": "21 rue albert calmette 78350 jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.166510679398004,
+    "ville": "enjosas",
+    "cp": ""
+  },
+  {
+    "resultId": "12526721",
+    "mail": "c.juin@jouy-en-josas.fr",
+    "distance": 200375,
+    "latitude": 48.77547512821225,
+    "telephone": "0134653207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS - JARDIN D'EMILIE",
+    "resultStructId": "709036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue albert calmette78350 jouy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1676150594035164,
+    "ville": "enjosas",
+    "cp": ""
+  }
+]

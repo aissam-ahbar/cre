@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "32892557",
+    "mail": "leclosdespetits@gmail.com",
+    "distance": 105732,
+    "latitude": 49.17105157913826,
+    "telephone": "0323717250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeClos des Petits",
+    "resultStructId": "96803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du chateau 02470 neuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.260487182558187,
+    "ville": "stfront",
+    "cp": ""
+  },
+  {
+    "resultId": "32892557",
+    "mail": "leclosdespetits@gmail.com",
+    "distance": 149932,
+    "latitude": 49.17105157913826,
+    "telephone": "0323717250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeClos des Petits",
+    "resultStructId": "96803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du chateau 02470 neuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.260487182558187,
+    "ville": "stfront",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12788006",
+    "mail": "multiaccueil.saintandre@cc-vallee-herault.fr",
+    "distance": 90700,
+    "latitude": 43.64103723403177,
+    "telephone": "0467678767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChrysalides et Papillons",
+    "resultStructId": "210914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des aigues vives 34725st andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5051982070555185,
+    "ville": "desangonis",
+    "cp": ""
+  },
+  {
+    "resultId": "59299369",
+    "mail": "contact@babydoc.fr",
+    "distance": 90937,
+    "latitude": 43.6493815491864,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES BABY'S CHOUETTES",
+    "resultStructId": "695012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue simone veil 34725 standre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.503390295489131,
+    "ville": "desangonis",
+    "cp": ""
+  },
+  {
+    "resultId": "12788006",
+    "mail": "multiaccueil.saintandre@cc-vallee-herault.fr",
+    "distance": 31879,
+    "latitude": 43.64103723403177,
+    "telephone": "0467678767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChrysalides et Papillons",
+    "resultStructId": "210914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue des aigues vives 34725st andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5051982070555185,
+    "ville": "desangonis",
+    "cp": ""
+  },
+  {
+    "resultId": "59299369",
+    "mail": "contact@babydoc.fr",
+    "distance": 32171,
+    "latitude": 43.6493815491864,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES BABY'S CHOUETTES",
+    "resultStructId": "695012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue simone veil 34725 standre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.503390295489131,
+    "ville": "desangonis",
+    "cp": ""
+  }
+]

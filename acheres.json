@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12747801",
+    "mail": "",
+    "distance": 188388,
+    "latitude": 48.96061902428153,
+    "telephone": "0139110617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LOUIS PASTEUR",
+    "resultStructId": "691610",
+    "omegaId": "6523",
+    "avip": false,
+    "adresse": "3 allee des vanneaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0619834471463223,
+    "ville": "acheres",
+    "cp": "78260"
+  },
+  {
+    "resultId": "38271327",
+    "mail": "",
+    "distance": 188839,
+    "latitude": 48.950148740321026,
+    "telephone": "0139220916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CALINS DOUDOUS ACHERES",
+    "resultStructId": "687911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 place du 14",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0681363072340444,
+    "ville": "acheres",
+    "cp": "78260"
+  },
+  {
+    "resultId": "48749074",
+    "mail": "acheres@lescolories.fr",
+    "distance": 188996,
+    "latitude": 48.96193436860301,
+    "telephone": "0648476039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES COLORIES D'ACHERES",
+    "resultStructId": "707002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0703196281450373,
+    "ville": "acheres",
+    "cp": "78260"
+  },
+  {
+    "resultId": "12747758",
+    "mail": "",
+    "distance": 189135,
+    "latitude": 48.95340500847617,
+    "telephone": "0139221429",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES SOURCES",
+    "resultStructId": "691609",
+    "omegaId": "6522",
+    "avip": false,
+    "adresse": "50 rue de saint germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.072205493891044,
+    "ville": "acheres",
+    "cp": "78260"
+  },
+  {
+    "resultId": "12747844",
+    "mail": "",
+    "distance": 189436,
+    "latitude": 48.970072717374755,
+    "telephone": "0139220223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LUCIE AUBRAC",
+    "resultStructId": "691611",
+    "omegaId": "6548",
+    "avip": false,
+    "adresse": "6 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0762850914788182,
+    "ville": "acheres",
+    "cp": "78260"
+  },
+  {
+    "resultId": "58408841",
+    "mail": "tipipetitearche@sogecreche.fr",
+    "distance": 189689,
+    "latitude": 48.97157733804845,
+    "telephone": "0171526232",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - TIPI PETITE ARCHE",
+    "resultStructId": "684212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee des cheminots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0797334864029207,
+    "ville": "acheres",
+    "cp": "78260"
+  }
+]

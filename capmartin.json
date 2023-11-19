@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12883646",
+    "mail": "creche.rcm@mairiercm.fr",
+    "distance": 222431,
+    "latitude": 43.75777093486221,
+    "telephone": "0493414000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CFLes genêts",
+    "resultStructId": "684303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue robert bineau 06190 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.479956753359052,
+    "ville": "capmartin",
+    "cp": ""
+  },
+  {
+    "resultId": "12892031",
+    "mail": "creche.rcm@mairiercm.fr",
+    "distance": 222431,
+    "latitude": 43.75777093486221,
+    "telephone": "0492414000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes genêts",
+    "resultStructId": "684302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue robert bineau 06190 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.479956753359052,
+    "ville": "capmartin",
+    "cp": ""
+  },
+  {
+    "resultId": "12883646",
+    "mail": "creche.rcm@mairiercm.fr",
+    "distance": 115801,
+    "latitude": 43.75777093486221,
+    "telephone": "0493414000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CFLes genêts",
+    "resultStructId": "684303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue robert bineau 06190 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.479956753359052,
+    "ville": "capmartin",
+    "cp": ""
+  },
+  {
+    "resultId": "12892031",
+    "mail": "creche.rcm@mairiercm.fr",
+    "distance": 115801,
+    "latitude": 43.75777093486221,
+    "telephone": "0492414000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCLes genêts",
+    "resultStructId": "684302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue robert bineau 06190 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.479956753359052,
+    "ville": "capmartin",
+    "cp": ""
+  }
+]

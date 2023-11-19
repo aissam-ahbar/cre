@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "47993148",
+    "mail": "c.hamelduarte@mairie-laverriere.fr",
+    "distance": 196117,
+    "latitude": 48.757156502717606,
+    "telephone": "0164398014",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MICROCRECHE - L'ARCHE DES NOES",
+    "resultStructId": "701603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7ter avenue general leclerc78320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9572658435890495,
+    "ville": "laverriere",
+    "cp": ""
+  },
+  {
+    "resultId": "59722340",
+    "mail": "laverriere@les-cherubins.com",
+    "distance": 196384,
+    "latitude": 48.759258628040726,
+    "telephone": "0134829495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CHERUBINS DE LA VERRIERE",
+    "resultStructId": "699315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue des noes78320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.961757416580328,
+    "ville": "laverriere",
+    "cp": ""
+  },
+  {
+    "resultId": "47993148",
+    "mail": "c.hamelduarte@mairie-laverriere.fr",
+    "distance": 182089,
+    "latitude": 48.757156502717606,
+    "telephone": "0164398014",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MICROCRECHE - L'ARCHE DES NOES",
+    "resultStructId": "701603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7ter avenue general leclerc78320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9572658435890495,
+    "ville": "laverriere",
+    "cp": ""
+  },
+  {
+    "resultId": "59722340",
+    "mail": "laverriere@les-cherubins.com",
+    "distance": 182388,
+    "latitude": 48.759258628040726,
+    "telephone": "0134829495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CHERUBINS DE LA VERRIERE",
+    "resultStructId": "699315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue des noes78320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.961757416580328,
+    "ville": "laverriere",
+    "cp": ""
+  }
+]

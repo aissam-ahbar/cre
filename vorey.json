@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13039529",
+    "mail": "creche.farandole@wanadoo.fr",
+    "distance": 189815,
+    "latitude": 45.186669140079886,
+    "telephone": "0471037535",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Farandole",
+    "resultStructId": "12985",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 11 novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.90916519626372,
+    "ville": "vorey",
+    "cp": "43800"
+  },
+  {
+    "resultId": "13039529",
+    "mail": "creche.farandole@wanadoo.fr",
+    "distance": 176599,
+    "latitude": 45.186669140079886,
+    "telephone": "0471037535",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Farandole",
+    "resultStructId": "12985",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 11 novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.90916519626372,
+    "ville": "vorey",
+    "cp": "43800"
+  }
+]

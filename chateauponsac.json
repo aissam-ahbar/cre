@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "18156028",
+    "mail": "lamarmaille@mutualitelimousine.fr",
+    "distance": 101514,
+    "latitude": 46.134797338004574,
+    "telephone": "0519992511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchela Marmaille",
+    "resultStructId": "217703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2718518051198722,
+    "ville": "chateauponsac",
+    "cp": "87290"
+  },
+  {
+    "resultId": "18156028",
+    "mail": "lamarmaille@mutualitelimousine.fr",
+    "distance": 231222,
+    "latitude": 46.134797338004574,
+    "telephone": "0519992511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchela Marmaille",
+    "resultStructId": "217703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2718518051198722,
+    "ville": "chateauponsac",
+    "cp": "87290"
+  }
+]

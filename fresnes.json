@@ -1,0 +1,266 @@
+[
+  {
+    "resultId": "12511155",
+    "mail": "creche.thibaudes@fresnes94.fr",
+    "distance": 199945,
+    "latitude": 48.749403761630866,
+    "telephone": "0142377713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Thibaudes",
+    "resultStructId": "306602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee des glaises",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3213025593261585,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "18415386",
+    "mail": "cerisaie@fresnes94.fr",
+    "distance": 200409,
+    "latitude": 48.752613344359055,
+    "telephone": "0178682810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilla Cerisaie",
+    "resultStructId": "304101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9-11 mail stephane hessel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.327934421695264,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "18415836",
+    "mail": "peupleraie@fresnes94.fr",
+    "distance": 200422,
+    "latitude": 48.75407832863555,
+    "telephone": "0156450669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mini-crèchede la Peupleraie",
+    "resultStructId": "14945",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue jean pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.319761718461751,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "12544824",
+    "mail": "halte.garderie@fresnes94.fr",
+    "distance": 200422,
+    "latitude": 48.75407832863555,
+    "telephone": "0155599581",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "halte-garderiede la Peupleraie",
+    "resultStructId": "305901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue jean pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.319761718461751,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "13053504",
+    "mail": "petite.enfance@fresnes94.fr",
+    "distance": 200455,
+    "latitude": 48.7534644916952,
+    "telephone": "0178682569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "304001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 square leon et auguste barroy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3253450356480303,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "12544781",
+    "mail": "creche.sablonniere@fresnes94.fr",
+    "distance": 200455,
+    "latitude": 48.7534644916952,
+    "telephone": "0156450471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Sablonnière",
+    "resultStructId": "306701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 square auguste et leon barroy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3253450356480303,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "21347209",
+    "mail": "",
+    "distance": 200567,
+    "latitude": 48.75507392135871,
+    "telephone": "0155591005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Madeleine-Brès",
+    "resultStructId": "15325",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 mail 94260",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3219057983573745,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "57813800",
+    "mail": "infos@creche-fresnes.com",
+    "distance": 10114,
+    "latitude": 48.766346769692234,
+    "telephone": "0981047614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHERUBINS",
+    "resultStructId": "679415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.323653268508123,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "57813858",
+    "mail": "infos@creche-fresnes.com",
+    "distance": 10114,
+    "latitude": 48.766346769692234,
+    "telephone": "0981047614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS POUPONS",
+    "resultStructId": "679416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.323653268508123,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "12844473",
+    "mail": "infos@creches-fresnes.com",
+    "distance": 10114,
+    "latitude": 48.766346769692234,
+    "telephone": "0981047614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Poupons",
+    "resultStructId": "15575",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.323653268508123,
+    "ville": "fresnes",
+    "cp": "94260"
+  },
+  {
+    "resultId": "12844387",
+    "mail": "infos@creches-fresnes.com",
+    "distance": 10114,
+    "latitude": 48.766346769692234,
+    "telephone": "0981047614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chérubins",
+    "resultStructId": "15574",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.323653268508123,
+    "ville": "fresnes",
+    "cp": "94260"
+  }
+]

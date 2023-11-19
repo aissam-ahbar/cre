@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12828813",
+    "mail": "sophie.thomas@pavilly.fr",
+    "distance": 162033,
+    "latitude": 49.56507205741171,
+    "telephone": "0235912362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RogerMoncel",
+    "resultStructId": "673019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue de la vierge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.945610416543049,
+    "ville": "pavilly",
+    "cp": "76570"
+  },
+  {
+    "resultId": "12828813",
+    "mail": "sophie.thomas@pavilly.fr",
+    "distance": 127548,
+    "latitude": 49.56507205741171,
+    "telephone": "0235912362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RogerMoncel",
+    "resultStructId": "673019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue de la vierge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.945610416543049,
+    "ville": "pavilly",
+    "cp": "76570"
+  }
+]

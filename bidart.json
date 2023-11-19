@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12955327",
+    "mail": "bidart@creche-la-maison-bleue.fr",
+    "distance": 145480,
+    "latitude": 43.44487577827573,
+    "telephone": "0967886405",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ContéContine",
+    "resultStructId": "20403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "245allee theodore monod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5519761520206816,
+    "ville": "bidart",
+    "cp": "64210"
+  },
+  {
+    "resultId": "12955284",
+    "mail": "crechettinka@wanadoo.fr",
+    "distance": 147842,
+    "latitude": 43.43843582005228,
+    "telephone": "0559235050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMulti-Accueil TTINKA",
+    "resultStructId": "11026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue berrua",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5840137124245126,
+    "ville": "bidart",
+    "cp": "64210"
+  },
+  {
+    "resultId": "12955241",
+    "mail": "microcrechepetitselfes@yahoo.fr",
+    "distance": 148843,
+    "latitude": 43.434784176191094,
+    "telephone": "0559241603",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Petits Elfes",
+    "resultStructId": "11025",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'uhabia",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.596331966581526,
+    "ville": "bidart",
+    "cp": "64210"
+  }
+]

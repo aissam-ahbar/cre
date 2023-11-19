@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12891257",
+    "mail": "petits.canaillous@acolea-asso.fr",
+    "distance": 159921,
+    "latitude": 45.86514900381986,
+    "telephone": "0478470379",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Canaillous",
+    "resultStructId": "390201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chateau du bois dieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7420699291456385,
+    "ville": "lissieu",
+    "cp": "69380"
+  },
+  {
+    "resultId": "12891214",
+    "mail": "canaillous.lissieu@acolea-asso.fr",
+    "distance": 159977,
+    "latitude": 45.86474464703496,
+    "telephone": "0478476857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Canaillous",
+    "resultStructId": "390301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu dit le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.742692798586876,
+    "ville": "lissieu",
+    "cp": "69380"
+  },
+  {
+    "resultId": "13013807",
+    "mail": "microcreche.lissieu@gmail.com",
+    "distance": 162346,
+    "latitude": 45.84102233417176,
+    "telephone": "0620302116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche bulle d'enfance",
+    "resultStructId": "12387",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee des chevreuils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.734776122103958,
+    "ville": "lissieu",
+    "cp": "69380"
+  },
+  {
+    "resultId": "13013850",
+    "mail": "microcreche.lissieu@gmail.com",
+    "distance": 162347,
+    "latitude": 45.841007569216366,
+    "telephone": "0620302116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche bulle d'enfance Camélia",
+    "resultStructId": "12388",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 allee des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.734759818509663,
+    "ville": "lissieu",
+    "cp": "69380"
+  }
+]

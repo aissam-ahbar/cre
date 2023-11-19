@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "57780640",
+    "mail": "petiteenfance.aufildutemps@c-lmv.fr",
+    "distance": 45244,
+    "latitude": 43.83554119108874,
+    "telephone": "0490711779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Au fil du temps\"",
+    "resultStructId": "679058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice bouchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12736879",
+    "mail": "petiteenfance.microcreches@c-lmv.fr",
+    "distance": 45244,
+    "latitude": 43.83554119108874,
+    "telephone": "0490764383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ''Créange''",
+    "resultStructId": "678910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "191 allee roch pape - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737180",
+    "mail": "petiteenfance.galopins@c-lmv.fr",
+    "distance": 45919,
+    "latitude": 43.850748193286165,
+    "telephone": "0432501163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Repère des Galopins\"",
+    "resultStructId": "678913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "168 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57772754",
+    "mail": "petiteenfance.lapepiniere@c-lmv.fr",
+    "distance": 45919,
+    "latitude": 43.850748193286165,
+    "telephone": "0490729202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil \"La Pépinière\"",
+    "resultStructId": "681830",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "25 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780500",
+    "mail": "petiteenfance.farandole@c-lmv.fr",
+    "distance": 46185,
+    "latitude": 43.840155305792926,
+    "telephone": "0490742343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Farandole\"",
+    "resultStructId": "679057",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul follereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047705997976102,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737137",
+    "mail": "petiteenfance.valentin@c-lmv.fr",
+    "distance": 46388,
+    "latitude": 43.84311501526102,
+    "telephone": "0490760663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Eugène Valentin\"",
+    "resultStructId": "678912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1119 avenue elsa triollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047356896862674,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780500",
+    "mail": "petiteenfance.farandole@c-lmv.fr",
+    "distance": 379744,
+    "latitude": 43.840155305792926,
+    "telephone": "0490742343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Farandole\"",
+    "resultStructId": "679057",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul follereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047705997976102,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737137",
+    "mail": "petiteenfance.valentin@c-lmv.fr",
+    "distance": 379925,
+    "latitude": 43.84311501526102,
+    "telephone": "0490760663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Eugène Valentin\"",
+    "resultStructId": "678912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1119 avenue elsa triollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047356896862674,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780640",
+    "mail": "petiteenfance.aufildutemps@c-lmv.fr",
+    "distance": 380214,
+    "latitude": 43.83554119108874,
+    "telephone": "0490711779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Au fil du temps\"",
+    "resultStructId": "679058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice bouchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12736879",
+    "mail": "petiteenfance.microcreches@c-lmv.fr",
+    "distance": 380214,
+    "latitude": 43.83554119108874,
+    "telephone": "0490764383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ''Créange''",
+    "resultStructId": "678910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "191 allee roch pape - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57772754",
+    "mail": "petiteenfance.lapepiniere@c-lmv.fr",
+    "distance": 381620,
+    "latitude": 43.850748193286165,
+    "telephone": "0490729202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil \"La Pépinière\"",
+    "resultStructId": "681830",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "25 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737180",
+    "mail": "petiteenfance.galopins@c-lmv.fr",
+    "distance": 381620,
+    "latitude": 43.850748193286165,
+    "telephone": "0432501163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Repère des Galopins\"",
+    "resultStructId": "678913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "168 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737180",
+    "mail": "petiteenfance.galopins@c-lmv.fr",
+    "distance": 95204,
+    "latitude": 43.850748193286165,
+    "telephone": "0432501163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Repère des Galopins\"",
+    "resultStructId": "678913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "168 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57772754",
+    "mail": "petiteenfance.lapepiniere@c-lmv.fr",
+    "distance": 95204,
+    "latitude": 43.850748193286165,
+    "telephone": "0490729202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil \"La Pépinière\"",
+    "resultStructId": "681830",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "25 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780640",
+    "mail": "petiteenfance.aufildutemps@c-lmv.fr",
+    "distance": 95394,
+    "latitude": 43.83554119108874,
+    "telephone": "0490711779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Au fil du temps\"",
+    "resultStructId": "679058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice bouchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12736879",
+    "mail": "petiteenfance.microcreches@c-lmv.fr",
+    "distance": 95394,
+    "latitude": 43.83554119108874,
+    "telephone": "0490764383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ''Créange''",
+    "resultStructId": "678910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "191 allee roch pape - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780500",
+    "mail": "petiteenfance.farandole@c-lmv.fr",
+    "distance": 96311,
+    "latitude": 43.840155305792926,
+    "telephone": "0490742343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Farandole\"",
+    "resultStructId": "679057",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul follereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047705997976102,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737137",
+    "mail": "petiteenfance.valentin@c-lmv.fr",
+    "distance": 96374,
+    "latitude": 43.84311501526102,
+    "telephone": "0490760663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Eugène Valentin\"",
+    "resultStructId": "678912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1119 avenue elsa triollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047356896862674,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737137",
+    "mail": "petiteenfance.valentin@c-lmv.fr",
+    "distance": 82290,
+    "latitude": 43.84311501526102,
+    "telephone": "0490760663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Eugène Valentin\"",
+    "resultStructId": "678912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1119 avenue elsa triollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047356896862674,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780500",
+    "mail": "petiteenfance.farandole@c-lmv.fr",
+    "distance": 82316,
+    "latitude": 43.840155305792926,
+    "telephone": "0490742343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Farandole\"",
+    "resultStructId": "679057",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raoul follereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047705997976102,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57780640",
+    "mail": "petiteenfance.aufildutemps@c-lmv.fr",
+    "distance": 83198,
+    "latitude": 43.83554119108874,
+    "telephone": "0490711779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Au fil du temps\"",
+    "resultStructId": "679058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place maurice bouchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12736879",
+    "mail": "petiteenfance.microcreches@c-lmv.fr",
+    "distance": 83198,
+    "latitude": 43.83554119108874,
+    "telephone": "0490764383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ''Créange''",
+    "resultStructId": "678910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "191 allee roch pape - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0376346015328215,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "12737180",
+    "mail": "petiteenfance.galopins@c-lmv.fr",
+    "distance": 83612,
+    "latitude": 43.850748193286165,
+    "telephone": "0432501163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Repère des Galopins\"",
+    "resultStructId": "678913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "168 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  },
+  {
+    "resultId": "57772754",
+    "mail": "petiteenfance.lapepiniere@c-lmv.fr",
+    "distance": 83612,
+    "latitude": 43.850748193286165,
+    "telephone": "0490729202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil \"La Pépinière\"",
+    "resultStructId": "681830",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "25 allee romain baud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029040341585617,
+    "ville": "cavaillon",
+    "cp": "84300"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13000090",
+    "mail": "micheline.derrien@cnafmail.fr",
+    "distance": 111032,
+    "latitude": 49.63254707632035,
+    "telephone": "0233445440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede La-Brèche-du-Bois",
+    "resultStructId": "12068",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du neufbourg 50100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6043745526720394,
+    "ville": "cherbourgencotentin",
+    "cp": ""
+  },
+  {
+    "resultId": "13000004",
+    "mail": "patricia.blanchard@ville-cherbourg.fr",
+    "distance": 111556,
+    "latitude": 49.63462868793947,
+    "telephone": "0233201296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEJEAN LEVALOIS",
+    "resultStructId": "12066",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue amiral lemonnier 50100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6114006030118624,
+    "ville": "cherbourgencotentin",
+    "cp": ""
+  }
+]

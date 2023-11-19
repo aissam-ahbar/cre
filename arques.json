@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "58713396",
+    "mail": "arques@les-cherubins.com",
+    "distance": 40705,
+    "latitude": 50.723622103821,
+    "telephone": "0749198746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetites mains des Chérubins",
+    "resultStructId": "713014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue chemin de fer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2981310728539186,
+    "ville": "arques",
+    "cp": "62510"
+  },
+  {
+    "resultId": "12848128",
+    "mail": "pe-arques@ca-pso.fr",
+    "distance": 41005,
+    "latitude": 50.72493126412476,
+    "telephone": "0374182050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Arques",
+    "resultStructId": "216111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de sete",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2942304172400734,
+    "ville": "arques",
+    "cp": "62510"
+  },
+  {
+    "resultId": "59541758",
+    "mail": "eveil.nous.arques@gmail.com",
+    "distance": 42424,
+    "latitude": 50.73549047408903,
+    "telephone": "0681917894",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheEveil&Nous",
+    "resultStructId": "698301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6/8 avenue leo ferre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.282212379000771,
+    "ville": "arques",
+    "cp": "62510"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "resultId": "12865285",
+    "mail": "cergy@lpcr.fr",
+    "distance": 165475,
+    "latitude": 49.052178309876666,
+    "telephone": "0175720000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8933",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la grende ours bat 7buroplus 07",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12483240",
+    "mail": "averti.lesgalopins@wanadoo.fr",
+    "distance": 165475,
+    "latitude": 49.052178309876666,
+    "telephone": "0130752173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "19",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de vaureal - le clos de cergy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628975",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 165475,
+    "latitude": 49.052178309876666,
+    "telephone": "0130320324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des LINANDES",
+    "resultStructId": "195012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des linandes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12652496",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 165475,
+    "latitude": 49.052178309876666,
+    "telephone": "0130312976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des TOULEUSES",
+    "resultStructId": "195013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "_ chemin des touleuses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "51329322",
+    "mail": "filoguillard@yahoo.fr",
+    "distance": 165542,
+    "latitude": 49.05439244586139,
+    "telephone": "0651943332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuVillage de Nounours",
+    "resultStructId": "445002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 boulevard de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0219027861896617,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12628889",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 165860,
+    "latitude": 49.05246104581559,
+    "telephone": "0130312020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du Bontemps",
+    "resultStructId": "194931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 passage de l'aurore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016705701220507,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39858858",
+    "mail": "",
+    "distance": 165932,
+    "latitude": 49.04615404591311,
+    "telephone": "0130387927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de la COURTE ECHELLE",
+    "resultStructId": "194813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 place du haut degency",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.044701450489652,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628803",
+    "mail": "petiteenfance@cergy.fr",
+    "distance": 165964,
+    "latitude": 49.03785720875081,
+    "telephone": "0134334585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des 3 Fontaines",
+    "resultStructId": "685705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "terrasse du centrecommercial des 3 fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0867181933019117,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628459",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166024,
+    "latitude": 49.047198598409686,
+    "telephone": "0130382660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des Roulants",
+    "resultStructId": "194905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du petit passage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0350348314637556,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628502",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166041,
+    "latitude": 49.0473016767001,
+    "telephone": "0134334361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale ARC EN CIEL",
+    "resultStructId": "195001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'abondance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.033726842063514,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39859121",
+    "mail": "",
+    "distance": 166085,
+    "latitude": 49.04782805536663,
+    "telephone": "0130324049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du CHAT PERCHE",
+    "resultStructId": "194817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 passage de la marelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.029081383489713,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39874808",
+    "mail": "",
+    "distance": 166204,
+    "latitude": 49.0476999791528,
+    "telephone": "0132431431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des PETITS MOUFLETS",
+    "resultStructId": "195011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0241498620149154,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628760",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166232,
+    "latitude": 49.04987790470386,
+    "telephone": "0134465851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Lune Enchantée",
+    "resultStructId": "195008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 boulevard de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.012244328147255,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12652453",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166270,
+    "latitude": 49.03821273620569,
+    "telephone": "0134337799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective CROIX PETIT",
+    "resultStructId": "195009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de la pierre miclare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.069436185483627,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628674",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166299,
+    "latitude": 49.046663548818444,
+    "telephone": "0134334620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective des \"Petits Mouflets\"",
+    "resultStructId": "3401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0248851062021025,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12628545",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166374,
+    "latitude": 49.035599673550436,
+    "telephone": "0130327916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Parvis de la Préfecture",
+    "resultStructId": "195002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parvis de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07821499224371,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39874662",
+    "mail": "",
+    "distance": 166490,
+    "latitude": 49.04440071766119,
+    "telephone": "0130382660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de La PETITE OURSE",
+    "resultStructId": "195010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 boulevard de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0271656853843556,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39874431",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 166627,
+    "latitude": 49.03311855027175,
+    "telephone": "0130300346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Etoile Filante",
+    "resultStructId": "195005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0788340787813886,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12746124",
+    "mail": "contact@capenfants.com",
+    "distance": 166695,
+    "latitude": 49.041680066893726,
+    "telephone": "0170616761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CAPENFANTS CERGY",
+    "resultStructId": "155503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue de l'entreprise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.031088766430923,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39858735",
+    "mail": "",
+    "distance": 166729,
+    "latitude": 49.04535723176807,
+    "telephone": "0171667178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du HAZAY",
+    "resultStructId": "194903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 avenue de l'orangerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0114434699756143,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39858735",
+    "mail": "",
+    "distance": 184957,
+    "latitude": 49.04535723176807,
+    "telephone": "0171667178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du HAZAY",
+    "resultStructId": "194903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 avenue de l'orangerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0114434699756143,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628760",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 185043,
+    "latitude": 49.04987790470386,
+    "telephone": "0134465851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Lune Enchantée",
+    "resultStructId": "195008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 boulevard de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.012244328147255,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628889",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 185384,
+    "latitude": 49.05246104581559,
+    "telephone": "0130312020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du Bontemps",
+    "resultStructId": "194931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 passage de l'aurore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.016705701220507,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "51329322",
+    "mail": "filoguillard@yahoo.fr",
+    "distance": 185774,
+    "latitude": 49.05439244586139,
+    "telephone": "0651943332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuVillage de Nounours",
+    "resultStructId": "445002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 boulevard de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0219027861896617,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "39874808",
+    "mail": "",
+    "distance": 185896,
+    "latitude": 49.0476999791528,
+    "telephone": "0132431431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des PETITS MOUFLETS",
+    "resultStructId": "195011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0241498620149154,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628674",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 185943,
+    "latitude": 49.046663548818444,
+    "telephone": "0134334620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective des \"Petits Mouflets\"",
+    "resultStructId": "3401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0248851062021025,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "39874662",
+    "mail": "",
+    "distance": 186096,
+    "latitude": 49.04440071766119,
+    "telephone": "0130382660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de La PETITE OURSE",
+    "resultStructId": "195010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 boulevard de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0271656853843556,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39859121",
+    "mail": "",
+    "distance": 186255,
+    "latitude": 49.04782805536663,
+    "telephone": "0130324049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective du CHAT PERCHE",
+    "resultStructId": "194817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 passage de la marelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.029081383489713,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12746124",
+    "mail": "contact@capenfants.com",
+    "distance": 186366,
+    "latitude": 49.041680066893726,
+    "telephone": "0170616761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CAPENFANTS CERGY",
+    "resultStructId": "155503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue de l'entreprise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.031088766430923,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628502",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 186590,
+    "latitude": 49.0473016767001,
+    "telephone": "0134334361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale ARC EN CIEL",
+    "resultStructId": "195001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'abondance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.033726842063514,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628459",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 186685,
+    "latitude": 49.047198598409686,
+    "telephone": "0130382660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des Roulants",
+    "resultStructId": "194905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du petit passage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0350348314637556,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12483240",
+    "mail": "averti.lesgalopins@wanadoo.fr",
+    "distance": 186784,
+    "latitude": 49.052178309876666,
+    "telephone": "0130752173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "19",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de vaureal - le clos de cergy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12865285",
+    "mail": "cergy@lpcr.fr",
+    "distance": 186784,
+    "latitude": 49.052178309876666,
+    "telephone": "0175720000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8933",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la grende ours bat 7buroplus 07",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95800"
+  },
+  {
+    "resultId": "12628975",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 186784,
+    "latitude": 49.052178309876666,
+    "telephone": "0130320324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des LINANDES",
+    "resultStructId": "195012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des linandes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12652496",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 186784,
+    "latitude": 49.052178309876666,
+    "telephone": "0130312976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des TOULEUSES",
+    "resultStructId": "195013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "_ chemin des touleuses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0359761809254144,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39858858",
+    "mail": "",
+    "distance": 187382,
+    "latitude": 49.04615404591311,
+    "telephone": "0130387927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de la COURTE ECHELLE",
+    "resultStructId": "194813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 place du haut degency",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.044701450489652,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12652453",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 189139,
+    "latitude": 49.03821273620569,
+    "telephone": "0134337799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective CROIX PETIT",
+    "resultStructId": "195009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de la pierre miclare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.069436185483627,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628545",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 189765,
+    "latitude": 49.035599673550436,
+    "telephone": "0130327916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Parvis de la Préfecture",
+    "resultStructId": "195002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parvis de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07821499224371,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "39874431",
+    "mail": "petiteenfance@ville-cergy.fr",
+    "distance": 189798,
+    "latitude": 49.03311855027175,
+    "telephone": "0130300346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Etoile Filante",
+    "resultStructId": "195005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0788340787813886,
+    "ville": "cergy",
+    "cp": "95000"
+  },
+  {
+    "resultId": "12628803",
+    "mail": "petiteenfance@cergy.fr",
+    "distance": 190396,
+    "latitude": 49.03785720875081,
+    "telephone": "0134334585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des 3 Fontaines",
+    "resultStructId": "685705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "terrasse du centrecommercial des 3 fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0867181933019117,
+    "ville": "cergy",
+    "cp": "95000"
+  }
+]

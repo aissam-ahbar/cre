@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12616849",
+    "mail": "b.espace@wanadoo.fr",
+    "distance": 63046,
+    "latitude": 46.70145134789937,
+    "telephone": "0385682013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie de Blanzy",
+    "resultStructId": "3126",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.388785584490676,
+    "ville": "blanzy",
+    "cp": "71450"
+  },
+  {
+    "resultId": "12565550",
+    "mail": "mairie@blanzy71.fr",
+    "distance": 64604,
+    "latitude": 46.687656044733615,
+    "telephone": "0385682280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial de Blanzy",
+    "resultStructId": "1933",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "173 rue georges bizet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.392755928908493,
+    "ville": "blanzy",
+    "cp": "71450"
+  },
+  {
+    "resultId": "12618311",
+    "mail": "mairie@blanzy71.fr",
+    "distance": 64604,
+    "latitude": 46.687656044733615,
+    "telephone": "0385682280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective de Blanzy",
+    "resultStructId": "3160",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "173 rue georges bizet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.392755928908493,
+    "ville": "blanzy",
+    "cp": "71450"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12626567",
+    "mail": "lesptitsamis@orange.fr",
+    "distance": 171266,
+    "latitude": 49.03521113843118,
+    "telephone": "0134757832",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Amis",
+    "resultStructId": "3352",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des vallees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8657578359083478,
+    "ville": "seraincourt",
+    "cp": "95450"
+  },
+  {
+    "resultId": "12626567",
+    "mail": "lesptitsamis@orange.fr",
+    "distance": 174293,
+    "latitude": 49.03521113843118,
+    "telephone": "0134757832",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Amis",
+    "resultStructId": "3352",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des vallees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8657578359083478,
+    "ville": "seraincourt",
+    "cp": "95450"
+  }
+]

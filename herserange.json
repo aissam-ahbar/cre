@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12492184",
+    "mail": "crechecalinsetgalipettes@orange.fr",
+    "distance": 125216,
+    "latitude": 49.51648735497768,
+    "telephone": "0382232075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale \"Calins et Galipettes\"",
+    "resultStructId": "227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.777751736884158,
+    "ville": "herserange",
+    "cp": "54440"
+  },
+  {
+    "resultId": "57739631",
+    "mail": "crechecalinsetgalipette@wanadoo.fr",
+    "distance": 126864,
+    "latitude": 49.52589230648121,
+    "telephone": "0372611993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINSET GALIPETTES",
+    "resultStructId": "678537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de landrivaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7954978473761685,
+    "ville": "herserange",
+    "cp": "54440"
+  }
+]

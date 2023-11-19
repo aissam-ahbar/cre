@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "44094973",
+    "mail": "aillysurnoye@happyzou.fr",
+    "distance": 83473,
+    "latitude": 49.75834271217148,
+    "telephone": "0647573383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYZOU",
+    "resultStructId": "255401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue pellieux 80250 ailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.36277638034232,
+    "ville": "surnoye",
+    "cp": ""
+  },
+  {
+    "resultId": "12759497",
+    "mail": "coquilledenoye@orange.fr",
+    "distance": 84905,
+    "latitude": 49.746053853655326,
+    "telephone": "0322461547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "COQUILLEDE NOYE",
+    "resultStructId": "446701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin d'altforweiler 80250 ailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.356827370715187,
+    "ville": "surnoye",
+    "cp": ""
+  }
+]

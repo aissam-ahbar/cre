@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12830103",
+    "mail": "multi-accueil-arcenciel@orange.fr",
+    "distance": 164080,
+    "latitude": 49.513417152567605,
+    "telephone": "0235752336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ARCEN CIEL",
+    "resultStructId": "420601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "276a chemin du bosc hue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9758214503747873,
+    "ville": "roumare",
+    "cp": "76480"
+  },
+  {
+    "resultId": "12830103",
+    "mail": "multi-accueil-arcenciel@orange.fr",
+    "distance": 126382,
+    "latitude": 49.513417152567605,
+    "telephone": "0235752336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ARCEN CIEL",
+    "resultStructId": "420601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "276a chemin du bosc hue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9758214503747873,
+    "ville": "roumare",
+    "cp": "76480"
+  }
+]

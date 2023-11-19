@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "24188521",
+    "mail": "lejardinenchantesailly@gmail.com",
+    "distance": 21501,
+    "latitude": 50.66221695319722,
+    "telephone": "0321250490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Jardin des Petits Vikings",
+    "resultStructId": "30701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2335 rue de la lys62840 sailly sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7849658368535826,
+    "ville": "lalys",
+    "cp": ""
+  },
+  {
+    "resultId": "13035874",
+    "mail": "ppe-airesurlalys@ca-pso.fr",
+    "distance": 29149,
+    "latitude": 50.642252704047,
+    "telephone": "0374182102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôlePetite Enfance d'Aire sur la Lys Multi accueil fixe",
+    "resultStructId": "216117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedu nouveau quai 62120 aire sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4034450875649656,
+    "ville": "lalys",
+    "cp": ""
+  },
+  {
+    "resultId": "39406687",
+    "mail": "microcreche.lesbrindilles@gmail.com",
+    "distance": 29287,
+    "latitude": 50.638400318360745,
+    "telephone": "0361235669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBRINDILLES",
+    "resultStructId": "188607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 chemin du bois, residence les herons62120 aire sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.395951879236262,
+    "ville": "lalys",
+    "cp": ""
+  }
+]

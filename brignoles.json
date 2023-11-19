@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12682045",
+    "mail": "lesacrobates@crechesdefrance.com",
+    "distance": 116961,
+    "latitude": 43.40497786816677,
+    "telephone": "0494782622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAcrobates",
+    "resultStructId": "15186",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pas de grain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.059956579709832,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12634350",
+    "mail": "petite-enfance@caprovenceverte.fr",
+    "distance": 117054,
+    "latitude": 43.40650855033845,
+    "telephone": "0498059285",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaCourte Echelle",
+    "resultStructId": "712402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier le vabre hlm les cistes ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12681873",
+    "mail": "larecreation@crechesdefrance.com",
+    "distance": 117054,
+    "latitude": 43.40650855033845,
+    "telephone": "0494690119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Larécréation",
+    "resultStructId": "15176",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place chanoine bonifay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12681873",
+    "mail": "larecreation@crechesdefrance.com",
+    "distance": 285038,
+    "latitude": 43.40650855033845,
+    "telephone": "0494690119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Larécréation",
+    "resultStructId": "15176",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place chanoine bonifay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12634350",
+    "mail": "petite-enfance@caprovenceverte.fr",
+    "distance": 285038,
+    "latitude": 43.40650855033845,
+    "telephone": "0498059285",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaCourte Echelle",
+    "resultStructId": "712402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier le vabre hlm les cistes ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12682045",
+    "mail": "lesacrobates@crechesdefrance.com",
+    "distance": 285063,
+    "latitude": 43.40497786816677,
+    "telephone": "0494782622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAcrobates",
+    "resultStructId": "15186",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pas de grain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.059956579709832,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12682045",
+    "mail": "lesacrobates@crechesdefrance.com",
+    "distance": 175783,
+    "latitude": 43.40497786816677,
+    "telephone": "0494782622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAcrobates",
+    "resultStructId": "15186",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pas de grain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.059956579709832,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12634350",
+    "mail": "petite-enfance@caprovenceverte.fr",
+    "distance": 175879,
+    "latitude": 43.40650855033845,
+    "telephone": "0498059285",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaCourte Echelle",
+    "resultStructId": "712402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier le vabre hlm les cistes ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12681873",
+    "mail": "larecreation@crechesdefrance.com",
+    "distance": 175879,
+    "latitude": 43.40650855033845,
+    "telephone": "0494690119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Larécréation",
+    "resultStructId": "15176",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place chanoine bonifay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12634350",
+    "mail": "petite-enfance@caprovenceverte.fr",
+    "distance": 61184,
+    "latitude": 43.40650855033845,
+    "telephone": "0498059285",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaCourte Echelle",
+    "resultStructId": "712402",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier le vabre hlm les cistes ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12681873",
+    "mail": "larecreation@crechesdefrance.com",
+    "distance": 61184,
+    "latitude": 43.40650855033845,
+    "telephone": "0494690119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Larécréation",
+    "resultStructId": "15176",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place chanoine bonifay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.061442405065165,
+    "ville": "brignoles",
+    "cp": "83170"
+  },
+  {
+    "resultId": "12682045",
+    "mail": "lesacrobates@crechesdefrance.com",
+    "distance": 61354,
+    "latitude": 43.40497786816677,
+    "telephone": "0494782622",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAcrobates",
+    "resultStructId": "15186",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pas de grain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.059956579709832,
+    "ville": "brignoles",
+    "cp": "83170"
+  }
+]

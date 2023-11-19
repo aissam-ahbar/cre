@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33204670",
+    "mail": "sma.frasalpe-valdahon@famillesrurales.org",
+    "distance": 165338,
+    "latitude": 47.14735485096243,
+    "telephone": "0381801222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les P'tits bouts de cuir",
+    "resultStructId": "100305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.337013013208931,
+    "ville": "valdahon",
+    "cp": "25800"
+  },
+  {
+    "resultId": "12692881",
+    "mail": "sma.trottinette@fammillesrurales.org",
+    "distance": 165729,
+    "latitude": 47.15352212177984,
+    "telephone": "0381260041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTrottinette",
+    "resultStructId": "112706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.3429046396859965,
+    "ville": "valdahon",
+    "cp": "25800"
+  }
+]

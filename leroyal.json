@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "55369074",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 70223,
+    "latitude": 46.7985864276364,
+    "telephone": "0385424954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Lucioles\"",
+    "resultStructId": "669002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue colette 71880 chatenoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808339392629798,
+    "ville": "leroyal",
+    "cp": ""
+  },
+  {
+    "resultId": "13049032",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 70425,
+    "latitude": 46.79495474730491,
+    "telephone": "0385876927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'Oiseau Bleu",
+    "resultStructId": "669001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du treffort 71880 chatenoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.806739231139359,
+    "ville": "leroyal",
+    "cp": ""
+  }
+]

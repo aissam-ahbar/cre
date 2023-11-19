@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13064985",
+    "mail": "lesmoussaillons@associationlenvol.fr",
+    "distance": 156389,
+    "latitude": 43.658743189420875,
+    "telephone": "0561357391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMoussaillons",
+    "resultStructId": "628101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue damira titonel 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.467837576949605,
+    "ville": "lunion",
+    "cp": ""
+  },
+  {
+    "resultId": "12754165",
+    "mail": "ppe@mairie-lunion.fr",
+    "distance": 157141,
+    "latitude": 43.6572421629741,
+    "telephone": "0561120461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective municipale Arc-En-Ciel",
+    "resultStructId": "609301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue deshortensias 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.477431993296208,
+    "ville": "lunion",
+    "cp": ""
+  },
+  {
+    "resultId": "13018279",
+    "mail": "lunion@creche-la-maison-bleue.fr",
+    "distance": 157411,
+    "latitude": 43.648993232086504,
+    "telephone": "0973646510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'enfant d'eau",
+    "resultStructId": "103608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de bayonne 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4747201451914775,
+    "ville": "lunion",
+    "cp": ""
+  },
+  {
+    "resultId": "41319636",
+    "mail": "ppe@mairie-lunion.fr",
+    "distance": 157606,
+    "latitude": 43.65577983661038,
+    "telephone": "0561120461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainesd'étoiles",
+    "resultStructId": "609601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du pic du midi 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4829378884000866,
+    "ville": "lunion",
+    "cp": ""
+  },
+  {
+    "resultId": "12487626",
+    "mail": "leslutins@associationlenvol.fr",
+    "distance": 157665,
+    "latitude": 43.66141481606124,
+    "telephone": "0562894706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins du Manoir",
+    "resultStructId": "631101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 bis rue de l'autan blanc 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4882117684752776,
+    "ville": "lunion",
+    "cp": ""
+  },
+  {
+    "resultId": "39023131",
+    "mail": "contact-toulouse-est@achilleetcamille.com",
+    "distance": 159574,
+    "latitude": 43.63581697425739,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacabane d'Achille et Camille",
+    "resultStructId": "673721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 route de lavaur 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4952272485414573,
+    "ville": "lunion",
+    "cp": ""
+  }
+]

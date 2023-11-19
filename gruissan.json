@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13027618",
+    "mail": "creche@ville-gruissan.fr",
+    "distance": 134071,
+    "latitude": 43.104271466334964,
+    "telephone": "0468495333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGRUISSAN PECH DES MOULINS",
+    "resultStructId": "12708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.090114383652112,
+    "ville": "gruissan",
+    "cp": "11430"
+  },
+  {
+    "resultId": "13027618",
+    "mail": "creche@ville-gruissan.fr",
+    "distance": 85292,
+    "latitude": 43.104271466334964,
+    "telephone": "0468495333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGRUISSAN PECH DES MOULINS",
+    "resultStructId": "12708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.090114383652112,
+    "ville": "gruissan",
+    "cp": "11430"
+  }
+]

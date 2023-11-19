@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "57743534",
+    "mail": "aptitspas.lentilly@gmail.com",
+    "distance": 162946,
+    "latitude": 45.8239260845916,
+    "telephone": "0481911985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheA P'tits pas",
+    "resultStructId": "693905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 route nationale 7",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.672222233891686,
+    "ville": "lentilly",
+    "cp": "69210"
+  },
+  {
+    "resultId": "12908715",
+    "mail": "direction@lespetitslutins.fr",
+    "distance": 163306,
+    "latitude": 45.81938998809355,
+    "telephone": "0474017616",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Lutins",
+    "resultStructId": "115102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue chatelard dru",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.665203072846686,
+    "ville": "lentilly",
+    "cp": "69210"
+  },
+  {
+    "resultId": "34093800",
+    "mail": "lpdoms2@gmail.com",
+    "distance": 163644,
+    "latitude": 45.81986378373535,
+    "telephone": "0437467578",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'Enfantilly'Age",
+    "resultStructId": "114307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 route de chapenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.686035745834967,
+    "ville": "lentilly",
+    "cp": "69210"
+  }
+]

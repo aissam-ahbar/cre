@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12526377",
+    "mail": "petite.frimousse@fontenay-le-fleury.fr",
+    "distance": 187855,
+    "latitude": 48.81094209640162,
+    "telephone": "0130141516",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LES PETITES FRIMOUSSE",
+    "resultStructId": "704202",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place du 8 mai 194578330 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0449430388365,
+    "ville": "lefleury",
+    "cp": ""
+  },
+  {
+    "resultId": "12526420",
+    "mail": "crechefamiliale@fontenay-le-fleury.fr",
+    "distance": 187855,
+    "latitude": 48.81094209640162,
+    "telephone": "0130141513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - POM DE REINETTE",
+    "resultStructId": "704203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 8 mai 1945 78330fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0449430388365,
+    "ville": "lefleury",
+    "cp": ""
+  },
+  {
+    "resultId": "38281384",
+    "mail": "",
+    "distance": 188305,
+    "latitude": 48.81431543855971,
+    "telephone": "0185532721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePtite Bulle des Lucioles",
+    "resultStructId": "170804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue henri poincare 78330fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.051545476300483,
+    "ville": "lefleury",
+    "cp": ""
+  },
+  {
+    "resultId": "12526291",
+    "mail": "creche.jeanjacqueslasserre@fontenay-le-fleury.fr",
+    "distance": 188558,
+    "latitude": 48.812967487333374,
+    "telephone": "0130056223",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - JEAN-JACQUES LASSERRE",
+    "resultStructId": "704204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue descartes78330 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.054837422835627,
+    "ville": "lefleury",
+    "cp": ""
+  }
+]

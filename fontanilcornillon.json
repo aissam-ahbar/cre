@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12891988",
+    "mail": "petite.enfance@ville-fontanil.fr",
+    "distance": 442474,
+    "latitude": 45.25515541588049,
+    "telephone": "0476752593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Universdes tout petits",
+    "resultStructId": "70001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee charles beaudelaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.6622742503271715,
+    "ville": "fontanilcornillon",
+    "cp": "38120"
+  },
+  {
+    "resultId": "12891988",
+    "mail": "petite.enfance@ville-fontanil.fr",
+    "distance": 147807,
+    "latitude": 45.25515541588049,
+    "telephone": "0476752593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Universdes tout petits",
+    "resultStructId": "70001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee charles beaudelaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.6622742503271715,
+    "ville": "fontanilcornillon",
+    "cp": "38120"
+  }
+]

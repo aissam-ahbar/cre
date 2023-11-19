@@ -1,0 +1,52 @@
+[
+  {
+    "resultId": "12897019",
+    "mail": "petite.enfance@argonne-meuse.fr",
+    "distance": 56682,
+    "latitude": 49.105455349480145,
+    "telephone": "0329864910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les PetitsArgonnais",
+    "resultStructId": "694303",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "3 rue desdeportes 55120 clermont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.071096412619621,
+    "ville": "enargonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12896976",
+    "mail": "petite.enfance@argonne-meuse.fr",
+    "distance": 65227,
+    "latitude": 49.136444499307515,
+    "telephone": "0329840998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les FrimoussesArgonnaises",
+    "resultStructId": "696107",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "111 ruede la concorde 55120 dombasle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.19000708937417,
+    "ville": "enargonne",
+    "cp": ""
+  }
+]

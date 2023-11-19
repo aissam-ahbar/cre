@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12577203",
+    "mail": "multi-accueil@jonage.fr",
+    "distance": 174954,
+    "latitude": 45.79698159973119,
+    "telephone": "0478311341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Ecureuils",
+    "resultStructId": "587901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047237533836144,
+    "ville": "jonage",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12673402",
+    "mail": "contact@lescampacreches.fr",
+    "distance": 174996,
+    "latitude": 45.79662245024281,
+    "telephone": "0601202086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-Crèche les campacrèches",
+    "resultStructId": "4441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des meules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047425683750582,
+    "ville": "jonage",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12924754",
+    "mail": "jonage.lavoir@lpcr.fr",
+    "distance": 175374,
+    "latitude": 45.79325866523045,
+    "telephone": "0983752392",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES MALICIEUX DU LAVOIR",
+    "resultStructId": "10316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du lavoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.048532442264164,
+    "ville": "jonage",
+    "cp": "69330"
+  }
+]

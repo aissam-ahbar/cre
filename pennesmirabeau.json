@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "12578708",
+    "mail": "creche-renardiere@vlpm.com",
+    "distance": 56955,
+    "latitude": 43.415900317088976,
+    "telephone": "0442025362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA RENARDIERE",
+    "resultStructId": "196910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la renardiere 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.303929205646919,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "18411040",
+    "mail": "inscriptionvictoliane@gmail.com",
+    "distance": 58735,
+    "latitude": 43.41205163326597,
+    "telephone": "0695150320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEAbricots et Coquelicots",
+    "resultStructId": "195308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 avenue de plan de campagne13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3253414969722614,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578622",
+    "mail": "creche-bouroumettes@vlpm.com",
+    "distance": 60129,
+    "latitude": 43.39394153223233,
+    "telephone": "0491657674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BOUROUMETTES",
+    "resultStructId": "196912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de pierrefeu 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.335719307739551,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578450",
+    "mail": "creche-gavotte@vlpm.com",
+    "distance": 60241,
+    "latitude": 43.4003094281801,
+    "telephone": "0491513700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA GAVOTTE LPM",
+    "resultStructId": "196911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de val sec - campagne reggio13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.339942623609517,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12864683",
+    "mail": "",
+    "distance": 60377,
+    "latitude": 43.41727283953915,
+    "telephone": "0442951751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes malicieux de plan de campagne",
+    "resultStructId": "192002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1948 chemin debellepierre 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.348510400425894,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12703717",
+    "mail": "asso.microbulles@gmail.com",
+    "distance": 61126,
+    "latitude": 43.379251151777886,
+    "telephone": "0491699663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICBULLE D AZUR",
+    "resultStructId": "197911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des boeufs 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.341933679654047,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12863995",
+    "mail": "haltegarderie@vlpm.com",
+    "distance": 61357,
+    "latitude": 43.37902875386718,
+    "telephone": "0491655083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PETITE FARANDOLE LES PENNES MIRABEAU",
+    "resultStructId": "196913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de valsec 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.344857145304736,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12863995",
+    "mail": "haltegarderie@vlpm.com",
+    "distance": 336025,
+    "latitude": 43.37902875386718,
+    "telephone": "0491655083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PETITE FARANDOLE LES PENNES MIRABEAU",
+    "resultStructId": "196913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de valsec 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.344857145304736,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12703717",
+    "mail": "asso.microbulles@gmail.com",
+    "distance": 336252,
+    "latitude": 43.379251151777886,
+    "telephone": "0491699663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICBULLE D AZUR",
+    "resultStructId": "197911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des boeufs 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.341933679654047,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578450",
+    "mail": "creche-gavotte@vlpm.com",
+    "distance": 337311,
+    "latitude": 43.4003094281801,
+    "telephone": "0491513700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA GAVOTTE LPM",
+    "resultStructId": "196911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de val sec - campagne reggio13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.339942623609517,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578622",
+    "mail": "creche-bouroumettes@vlpm.com",
+    "distance": 337349,
+    "latitude": 43.39394153223233,
+    "telephone": "0491657674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BOUROUMETTES",
+    "resultStructId": "196912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de pierrefeu 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.335719307739551,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12864683",
+    "mail": "",
+    "distance": 337419,
+    "latitude": 43.41727283953915,
+    "telephone": "0442951751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes malicieux de plan de campagne",
+    "resultStructId": "192002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1948 chemin debellepierre 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.348510400425894,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "18411040",
+    "mail": "inscriptionvictoliane@gmail.com",
+    "distance": 338908,
+    "latitude": 43.41205163326597,
+    "telephone": "0695150320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEAbricots et Coquelicots",
+    "resultStructId": "195308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 avenue de plan de campagne13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3253414969722614,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578708",
+    "mail": "creche-renardiere@vlpm.com",
+    "distance": 340667,
+    "latitude": 43.415900317088976,
+    "telephone": "0442025362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA RENARDIERE",
+    "resultStructId": "196910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la renardiere 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.303929205646919,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578708",
+    "mail": "creche-renardiere@vlpm.com",
+    "distance": 115279,
+    "latitude": 43.415900317088976,
+    "telephone": "0442025362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA RENARDIERE",
+    "resultStructId": "196910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la renardiere 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.303929205646919,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "18411040",
+    "mail": "inscriptionvictoliane@gmail.com",
+    "distance": 117058,
+    "latitude": 43.41205163326597,
+    "telephone": "0695150320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEAbricots et Coquelicots",
+    "resultStructId": "195308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 avenue de plan de campagne13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3253414969722614,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578622",
+    "mail": "creche-bouroumettes@vlpm.com",
+    "distance": 118269,
+    "latitude": 43.39394153223233,
+    "telephone": "0491657674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BOUROUMETTES",
+    "resultStructId": "196912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de pierrefeu 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.335719307739551,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578450",
+    "mail": "creche-gavotte@vlpm.com",
+    "distance": 118464,
+    "latitude": 43.4003094281801,
+    "telephone": "0491513700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA GAVOTTE LPM",
+    "resultStructId": "196911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de val sec - campagne reggio13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.339942623609517,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12864683",
+    "mail": "",
+    "distance": 118792,
+    "latitude": 43.41727283953915,
+    "telephone": "0442951751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes malicieux de plan de campagne",
+    "resultStructId": "192002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1948 chemin debellepierre 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.348510400425894,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12703717",
+    "mail": "asso.microbulles@gmail.com",
+    "distance": 119099,
+    "latitude": 43.379251151777886,
+    "telephone": "0491699663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICBULLE D AZUR",
+    "resultStructId": "197911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des boeufs 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.341933679654047,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12863995",
+    "mail": "haltegarderie@vlpm.com",
+    "distance": 119335,
+    "latitude": 43.37902875386718,
+    "telephone": "0491655083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PETITE FARANDOLE LES PENNES MIRABEAU",
+    "resultStructId": "196913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de valsec 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.344857145304736,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12864683",
+    "mail": "",
+    "distance": 83018,
+    "latitude": 43.41727283953915,
+    "telephone": "0442951751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes malicieux de plan de campagne",
+    "resultStructId": "192002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1948 chemin debellepierre 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.348510400425894,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "18411040",
+    "mail": "inscriptionvictoliane@gmail.com",
+    "distance": 84732,
+    "latitude": 43.41205163326597,
+    "telephone": "0695150320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEAbricots et Coquelicots",
+    "resultStructId": "195308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 avenue de plan de campagne13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3253414969722614,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578450",
+    "mail": "creche-gavotte@vlpm.com",
+    "distance": 84866,
+    "latitude": 43.4003094281801,
+    "telephone": "0491513700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA GAVOTTE LPM",
+    "resultStructId": "196911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de val sec - campagne reggio13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.339942623609517,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578622",
+    "mail": "creche-bouroumettes@vlpm.com",
+    "distance": 85618,
+    "latitude": 43.39394153223233,
+    "telephone": "0491657674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BOUROUMETTES",
+    "resultStructId": "196912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de pierrefeu 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.335719307739551,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12578708",
+    "mail": "creche-renardiere@vlpm.com",
+    "distance": 85643,
+    "latitude": 43.415900317088976,
+    "telephone": "0442025362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA RENARDIERE",
+    "resultStructId": "196910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la renardiere 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.303929205646919,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12863995",
+    "mail": "haltegarderie@vlpm.com",
+    "distance": 86349,
+    "latitude": 43.37902875386718,
+    "telephone": "0491655083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PETITE FARANDOLE LES PENNES MIRABEAU",
+    "resultStructId": "196913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de valsec 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.344857145304736,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  },
+  {
+    "resultId": "12703717",
+    "mail": "asso.microbulles@gmail.com",
+    "distance": 86488,
+    "latitude": 43.379251151777886,
+    "telephone": "0491699663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICBULLE D AZUR",
+    "resultStructId": "197911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des boeufs 13170 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.341933679654047,
+    "ville": "pennesmirabeau",
+    "cp": ""
+  }
+]

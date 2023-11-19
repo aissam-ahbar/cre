@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13077111",
+    "mail": "minipousses@lescar.fr",
+    "distance": 113636,
+    "latitude": 43.334568275752424,
+    "telephone": "0559815729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Minis Pousses\"",
+    "resultStructId": "27301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue de plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.42786762718508436,
+    "ville": "lescar",
+    "cp": "64230"
+  },
+  {
+    "resultId": "13077154",
+    "mail": "mainadere@lescar.fr",
+    "distance": 114530,
+    "latitude": 43.32687265905006,
+    "telephone": "0559815732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maïnadère",
+    "resultStructId": "27305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 bis avenue roger cadet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4321721413238641,
+    "ville": "lescar",
+    "cp": "64230"
+  }
+]

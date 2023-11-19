@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12831522",
+    "mail": "",
+    "distance": 49330,
+    "latitude": 50.340197968483864,
+    "telephone": "0327233651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIE\"LE CHEMIN\"",
+    "resultStructId": "688404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "640 rue berthelot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3830904059815476,
+    "ville": "denain",
+    "cp": "59220"
+  },
+  {
+    "resultId": "12790973",
+    "mail": "sabine.macaux@ville-denain.fr",
+    "distance": 50254,
+    "latitude": 50.32805303366844,
+    "telephone": "0327435162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacabane des petits bouts",
+    "resultStructId": "629801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 impasse desire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.390483654107259,
+    "ville": "denain",
+    "cp": "59220"
+  },
+  {
+    "resultId": "12832898",
+    "mail": "christine.continolo@acsrv.org",
+    "distance": 51475,
+    "latitude": 50.32079288088114,
+    "telephone": "0327313010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderie\"Aux P'tits Câlins\"",
+    "resultStructId": "687205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68b rue de l'escaut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4047213455792837,
+    "ville": "denain",
+    "cp": "59220"
+  }
+]

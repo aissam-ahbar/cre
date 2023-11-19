@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "13065200",
+    "mail": "creche.montech@grandsud82.fr",
+    "distance": 124767,
+    "latitude": 43.95978504730856,
+    "telephone": "0563648546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Lutins",
+    "resultStructId": "682414",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "7faubourg du 4 septembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.2305204099451557,
+    "ville": "montech",
+    "cp": "82700"
+  },
+  {
+    "resultId": "60280864",
+    "mail": "bebecrechemontech@gmail.com",
+    "distance": 125514,
+    "latitude": 43.96398781764645,
+    "telephone": "0563637726",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BEBECRECHE MONTECH",
+    "resultStructId": "708021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la mouscane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2426771633968048,
+    "ville": "montech",
+    "cp": "82700"
+  }
+]

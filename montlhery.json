@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12516530",
+    "mail": "",
+    "distance": 186878,
+    "latitude": 48.63671781585868,
+    "telephone": "0169808110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Lascars",
+    "resultStructId": "793",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue de la plaine - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.270054224081078,
+    "ville": "montlhery",
+    "cp": "91310"
+  },
+  {
+    "resultId": "31993892",
+    "mail": "gmellinger@lacarrouseldesrois.com",
+    "distance": 187220,
+    "latitude": 48.639833703894475,
+    "telephone": "0699688030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCarrousel des Rois",
+    "resultStructId": "87305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de maille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.270374072324935,
+    "ville": "montlhery",
+    "cp": "91310"
+  },
+  {
+    "resultId": "44657878",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 187645,
+    "latitude": 48.643747594228046,
+    "telephone": "0978315247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS MONTLHERY",
+    "resultStructId": "414202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee de la halle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2705319205232977,
+    "ville": "montlhery",
+    "cp": "91310"
+  }
+]

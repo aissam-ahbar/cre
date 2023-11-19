@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58097697",
+    "mail": "hg.lesdiablotins@orange.fr",
+    "distance": 391661,
+    "latitude": 45.20145737796368,
+    "telephone": "0479050012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Diablotins",
+    "resultStructId": "706844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 residence le chalet clubchalet club - station de val frejus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.6729370225356,
+    "ville": "modane",
+    "cp": "73500"
+  },
+  {
+    "resultId": "12521776",
+    "mail": "les.petits.poucets@wanadoo.fr",
+    "distance": 391700,
+    "latitude": 45.201009008810125,
+    "telephone": "0479051705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Poucets",
+    "resultStructId": "700814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.670898039184585,
+    "ville": "modane",
+    "cp": "73500"
+  },
+  {
+    "resultId": "12521776",
+    "mail": "les.petits.poucets@wanadoo.fr",
+    "distance": 146511,
+    "latitude": 45.201009008810125,
+    "telephone": "0479051705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Poucets",
+    "resultStructId": "700814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.670898039184585,
+    "ville": "modane",
+    "cp": "73500"
+  },
+  {
+    "resultId": "58097697",
+    "mail": "hg.lesdiablotins@orange.fr",
+    "distance": 146611,
+    "latitude": 45.20145737796368,
+    "telephone": "0479050012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Diablotins",
+    "resultStructId": "706844",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 residence le chalet clubchalet club - station de val frejus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.6729370225356,
+    "ville": "modane",
+    "cp": "73500"
+  }
+]

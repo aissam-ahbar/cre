@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "57317726",
+    "mail": "",
+    "distance": 9724,
+    "latitude": 48.774481703595214,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPetites Colombes",
+    "resultStructId": "674525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de bretagne 94550",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.36314341621158,
+    "ville": "chevillylarue",
+    "cp": ""
+  },
+  {
+    "resultId": "13055009",
+    "mail": "",
+    "distance": 9743,
+    "latitude": 48.770256697867026,
+    "telephone": "0149697301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche VARIOT",
+    "resultStructId": "13345",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue albert thuret 94550",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.335939220527036,
+    "ville": "chevillylarue",
+    "cp": ""
+  },
+  {
+    "resultId": "46166662",
+    "mail": "millepertuis@kidsup.fr",
+    "distance": 9757,
+    "latitude": 48.771320129348496,
+    "telephone": "0141733731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchekids'up Millepertuis",
+    "resultStructId": "624301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment h0 rue de la tour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.34716586917536,
+    "ville": "chevillylarue",
+    "cp": "94550"
+  },
+  {
+    "resultId": "13056729",
+    "mail": "",
+    "distance": 9757,
+    "latitude": 48.771320129348496,
+    "telephone": "0141055878",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LPCR 3 Chevilly",
+    "resultStructId": "13385",
+    "omegaId": "12082",
+    "avip": false,
+    "adresse": "5 rue ernest flammarion -zac du petit leroy 94550",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.34716586917536,
+    "ville": "chevillylarue",
+    "cp": ""
+  },
+  {
+    "resultId": "12537944",
+    "mail": "",
+    "distance": 10043,
+    "latitude": 48.77110207802833,
+    "telephone": "0146863172",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Du Président Roosevelt",
+    "resultStructId": "15309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 avenue dupresident roosevelt 94550",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3614576966142926,
+    "ville": "chevillylarue",
+    "cp": ""
+  },
+  {
+    "resultId": "12501953",
+    "mail": "",
+    "distance": 10177,
+    "latitude": 48.77031191871546,
+    "telephone": "0146869493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Maison Bleue\"",
+    "resultStructId": "454",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110-112 avenue presidentfranklin roosevelt 94550",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.363742655682892,
+    "ville": "chevillylarue",
+    "cp": ""
+  }
+]

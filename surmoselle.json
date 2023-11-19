@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "37827077",
+    "mail": "contact55@alys.fr",
+    "distance": 111259,
+    "latitude": 48.98187220954977,
+    "telephone": "0355070163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aujardin des libellules",
+    "resultStructId": "164201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue montessori 54530 pagny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.016607194109864,
+    "ville": "surmoselle",
+    "cp": ""
+  },
+  {
+    "resultId": "57105004",
+    "mail": "creche.noveant@peplorest.org",
+    "distance": 114911,
+    "latitude": 49.02576251275684,
+    "telephone": "0777863616",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pépinous",
+    "resultStructId": "671817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue foch 57680 noveant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.050538932573531,
+    "ville": "surmoselle",
+    "cp": ""
+  },
+  {
+    "resultId": "54383473",
+    "mail": "microcreche.coccinelles@gmail.com",
+    "distance": 118200,
+    "latitude": 49.077618993661666,
+    "telephone": "0977619112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Arbreà Coccinelles",
+    "resultStructId": "575101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue du marechal foch 57130 ars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.073265994454238,
+    "ville": "surmoselle",
+    "cp": ""
+  },
+  {
+    "resultId": "12500061",
+    "mail": "direction.crecheflamini@outlook.fr",
+    "distance": 122017,
+    "latitude": 48.57067150816886,
+    "telephone": "0383267313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Flamini\"",
+    "resultStructId": "688101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue de nancy 54630 flavigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1874426722580464,
+    "ville": "surmoselle",
+    "cp": ""
+  },
+  {
+    "resultId": "12812172",
+    "mail": "tournicoti88@hotmail.fr",
+    "distance": 144310,
+    "latitude": 48.31913647467496,
+    "telephone": "0329361532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche TOURNICOTI",
+    "resultStructId": "466201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee des poiriers 88330 chatel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.402516142024889,
+    "ville": "surmoselle",
+    "cp": ""
+  }
+]

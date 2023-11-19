@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "18182541",
+    "mail": "m-a.letourne@cdc-portesentredeuxmers.fr",
+    "distance": 43092,
+    "latitude": 44.734291712392796,
+    "telephone": "0556674666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LE TOURNE",
+    "resultStructId": "14735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue mores",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2642267605537651,
+    "ville": "targon",
+    "cp": "33760"
+  },
+  {
+    "resultId": "12490378",
+    "mail": "muli-accueil-cdc-targon@orange.fr",
+    "distance": 43374,
+    "latitude": 44.736875478666946,
+    "telephone": "0556232343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL",
+    "resultStructId": "185",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.26302476300052025,
+    "ville": "targon",
+    "cp": "33760"
+  },
+  {
+    "resultId": "18400970",
+    "mail": "multiaccueil.targon@cdc-entre2mers.fr",
+    "distance": 43431,
+    "latitude": 44.73740414343248,
+    "telephone": "0556232343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PIROUETTE CACAHOUETE",
+    "resultStructId": "14849",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.26255815587352915,
+    "ville": "targon",
+    "cp": "33760"
+  }
+]

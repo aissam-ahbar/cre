@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12668930",
+    "mail": "lespetitslutins@ville-persan.fr",
+    "distance": 150485,
+    "latitude": 49.15107584357316,
+    "telephone": "0130344978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"les Petits Lutins\"",
+    "resultStructId": "4337",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue ambroise croizat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2727229687569586,
+    "ville": "persan",
+    "cp": "95340"
+  },
+  {
+    "resultId": "12748575",
+    "mail": "lapasserelle@ville-persan.fr",
+    "distance": 150485,
+    "latitude": 49.15107584357316,
+    "telephone": "0130344978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants - structure passerelle",
+    "resultStructId": "6219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue ambroise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2727229687569586,
+    "ville": "persan",
+    "cp": "95340"
+  }
+]

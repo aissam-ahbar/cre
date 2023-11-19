@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12803271",
+    "mail": "creche@ville-sauvian.com",
+    "distance": 114449,
+    "latitude": 43.294992808838764,
+    "telephone": "0467327935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueill'Aquarelle",
+    "resultStructId": "435101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.255657798016307,
+    "ville": "sauvian",
+    "cp": "34410"
+  },
+  {
+    "resultId": "12803271",
+    "mail": "creche@ville-sauvian.com",
+    "distance": 61792,
+    "latitude": 43.294992808838764,
+    "telephone": "0467327935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueill'Aquarelle",
+    "resultStructId": "435101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.255657798016307,
+    "ville": "sauvian",
+    "cp": "34410"
+  }
+]

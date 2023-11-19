@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12825803",
+    "mail": "marie.claude.bois@centre-social-rural-lamorlaye.org",
+    "distance": 147677,
+    "latitude": 49.15708666862802,
+    "telephone": "0344216161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE LAMORLAYE",
+    "resultStructId": "98526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 avenue de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4458083223053584,
+    "ville": "lamorlaye",
+    "cp": "60260"
+  },
+  {
+    "resultId": "12743974",
+    "mail": "",
+    "distance": 147677,
+    "latitude": 49.15708666862802,
+    "telephone": "0344216162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"LES PIRATES\" DE LAMORLAYE",
+    "resultStructId": "98527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 avenue de laliberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4458083223053584,
+    "ville": "lamorlaye",
+    "cp": "60260"
+  },
+  {
+    "resultId": "57915374",
+    "mail": "crechefamiliale@ville-lamorlaye.fr",
+    "distance": 147983,
+    "latitude": 49.1548252059482,
+    "telephone": "0344216400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Municipale de Lamorlaye",
+    "resultStructId": "680516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du generalleclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439877925122854,
+    "ville": "lamorlaye",
+    "cp": "60260"
+  }
+]

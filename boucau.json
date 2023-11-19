@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12954467",
+    "mail": "copainsetcopines@gmail.com",
+    "distance": 134486,
+    "latitude": 43.5285580784564,
+    "telephone": "0749226818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCopains et Copines-Boucau",
+    "resultStructId": "684914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre lacouture",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.473596902110399,
+    "ville": "boucau",
+    "cp": "64340"
+  },
+  {
+    "resultId": "12955370",
+    "mail": "creche.j.sese@sfr.fr",
+    "distance": 135780,
+    "latitude": 43.52151004787566,
+    "telephone": "0559645461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMulti-Accueil JEAN SÉSÉ",
+    "resultStructId": "11028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 impasse jean baptistebataille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.486478346969439,
+    "ville": "boucau",
+    "cp": "64340"
+  }
+]

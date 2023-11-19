@@ -1,0 +1,171 @@
+[
+  {
+    "resultId": "12884377",
+    "mail": "n.gonzalez@ville-voiron.fr",
+    "distance": 455067,
+    "latitude": 45.36055157469407,
+    "telephone": "0476051816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEdu Parc",
+    "resultStructId": "9377",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue moliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.590646567448708,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "12860211",
+    "mail": "s.liot@ville-voiron.fr",
+    "distance": 455916,
+    "latitude": 45.36689086629009,
+    "telephone": "0476059628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Colombier",
+    "resultStructId": "8815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.584516015681526,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "12885151",
+    "mail": "f.barlet@ville-voiron.fr",
+    "distance": 456007,
+    "latitude": 45.3627827162841,
+    "telephone": "0476054107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede la Croix Maurin",
+    "resultStructId": "9395",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des goelands",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.575622575117347,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "12884377",
+    "mail": "n.gonzalez@ville-voiron.fr",
+    "distance": 160489,
+    "latitude": 45.36055157469407,
+    "telephone": "0476051816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEdu Parc",
+    "resultStructId": "9377",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue moliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.590646567448708,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "12885151",
+    "mail": "f.barlet@ville-voiron.fr",
+    "distance": 161010,
+    "latitude": 45.3627827162841,
+    "telephone": "0476054107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede la Croix Maurin",
+    "resultStructId": "9395",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des goelands",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.575622575117347,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "12860211",
+    "mail": "s.liot@ville-voiron.fr",
+    "distance": 161287,
+    "latitude": 45.36689086629009,
+    "telephone": "0476059628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Colombier",
+    "resultStructId": "8815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.584516015681526,
+    "ville": "voiron",
+    "cp": "38500"
+  },
+  {
+    "resultId": "31969038",
+    "mail": "voiron@halppy-kids.fr",
+    "distance": 162370,
+    "latitude": 45.37634998789784,
+    "telephone": "0954552238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBisou Papillon",
+    "resultStructId": "708761",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "31avenue 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.5812498678794205,
+    "ville": "voiron",
+    "cp": "38500"
+  }
+]

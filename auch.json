@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "58370480",
+    "mail": "c.fam@mpe.grand-auch.fr",
+    "distance": 101115,
+    "latitude": 43.65949099862861,
+    "telephone": "0562619754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "683812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue francois mitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5898956829436506,
+    "ville": "auch",
+    "cp": "32000"
+  },
+  {
+    "resultId": "12496578",
+    "mail": "pole.enfance@mpe.grand-auch.fr",
+    "distance": 101115,
+    "latitude": 43.65949099862861,
+    "telephone": "0562075954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonPetite Enfance",
+    "resultStructId": "682607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue francois mitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5898956829436506,
+    "ville": "auch",
+    "cp": "32000"
+  },
+  {
+    "resultId": "12496535",
+    "mail": "",
+    "distance": 101832,
+    "latitude": 43.646871940516924,
+    "telephone": "0562058066",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Boulede Gomme",
+    "resultStructId": "681706",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue montaigne - centre social et culturel dugarros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5830636859341846,
+    "ville": "auch",
+    "cp": "32000"
+  },
+  {
+    "resultId": "57778113",
+    "mail": "",
+    "distance": 102391,
+    "latitude": 43.64377428680427,
+    "telephone": "0562603299",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MDEF",
+    "resultStructId": "679004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue irenee david",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5887727896958305,
+    "ville": "auch",
+    "cp": "32000"
+  },
+  {
+    "resultId": "12647078",
+    "mail": "jardin.enfants@mpe.grand-auch.f",
+    "distance": 103250,
+    "latitude": 43.63690951228512,
+    "telephone": "0562059502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"JARDIND'ENFANTS \"",
+    "resultStructId": "682603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue montaigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5940645170809202,
+    "ville": "auch",
+    "cp": "32000"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "57472973",
+    "mail": "lorient@ptitclub.fr",
+    "distance": 182141,
+    "latitude": 47.740351721869104,
+    "telephone": "0297826684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Club",
+    "resultStructId": "675919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee copernic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4056876427022442,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "12584642",
+    "mail": "kerpape.multi-accueil@xn--mutualit29-56-ihb.fr",
+    "distance": 183650,
+    "latitude": 47.736993806614876,
+    "telephone": "0297829665",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Kerpape Le Phare Fadet",
+    "resultStructId": "176507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre mutualiste dekerpape - bp 78",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4262128522498076,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "31647990",
+    "mail": "",
+    "distance": 183875,
+    "latitude": 47.73293300602922,
+    "telephone": "0256376030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "80301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue d'argoat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.429571343228838,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "12579525",
+    "mail": "",
+    "distance": 183875,
+    "latitude": 47.73293300602922,
+    "telephone": "0256376030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \" Le Pré en Bulles\"",
+    "resultStructId": "80007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue d'argoat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.429571343228838,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "13003186",
+    "mail": "contact@crechedelasource.fr",
+    "distance": 188839,
+    "latitude": 47.73485043682984,
+    "telephone": "0973592043",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Source",
+    "resultStructId": "686502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4958906449150517,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "57472973",
+    "mail": "lorient@ptitclub.fr",
+    "distance": 182141,
+    "latitude": 47.740351721869104,
+    "telephone": "0297826684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Club",
+    "resultStructId": "675919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee copernic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4056876427022442,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "12584642",
+    "mail": "kerpape.multi-accueil@xn--mutualit29-56-ihb.fr",
+    "distance": 183650,
+    "latitude": 47.736993806614876,
+    "telephone": "0297829665",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Kerpape Le Phare Fadet",
+    "resultStructId": "176507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre mutualiste dekerpape - bp 78",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4262128522498076,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "12579525",
+    "mail": "",
+    "distance": 183875,
+    "latitude": 47.73293300602922,
+    "telephone": "0256376030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \" Le Pré en Bulles\"",
+    "resultStructId": "80007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue d'argoat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.429571343228838,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "31647990",
+    "mail": "",
+    "distance": 183875,
+    "latitude": 47.73293300602922,
+    "telephone": "0256376030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "80301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue d'argoat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.429571343228838,
+    "ville": "ploemeur",
+    "cp": "56270"
+  },
+  {
+    "resultId": "13003186",
+    "mail": "contact@crechedelasource.fr",
+    "distance": 188839,
+    "latitude": 47.73485043682984,
+    "telephone": "0973592043",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Source",
+    "resultStructId": "686502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des glycines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.4958906449150517,
+    "ville": "ploemeur",
+    "cp": "56270"
+  }
+]

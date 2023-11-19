@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "13028091",
+    "mail": "",
+    "distance": 3877,
+    "latitude": 48.82363789414856,
+    "telephone": "0147467584",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTour",
+    "resultStructId": "238104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 7 rue de la tour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.306473553456708,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "13034197",
+    "mail": "",
+    "distance": 3945,
+    "latitude": 48.82215712516117,
+    "telephone": "0147467584",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIERREVALETTE",
+    "resultStructId": "238202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jacques prevert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3127753331246073,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "13032391",
+    "mail": "",
+    "distance": 4051,
+    "latitude": 48.82178173639597,
+    "telephone": "0147467584",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tites Gambettes",
+    "resultStructId": "238102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3079065927499767,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "12851224",
+    "mail": "",
+    "distance": 4338,
+    "latitude": 48.82020317326776,
+    "telephone": "0146560189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "WILSON",
+    "resultStructId": "238005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11avenue du president wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.301939552659963,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "12822793",
+    "mail": "malakoff@lpcr.fr",
+    "distance": 5100,
+    "latitude": 48.81332671988635,
+    "telephone": "0141055877",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "394701",
+    "omegaId": "10327",
+    "avip": false,
+    "adresse": "102 rue etienne dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3004681256733384,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "12851310",
+    "mail": "",
+    "distance": 5111,
+    "latitude": 48.814444717605106,
+    "telephone": "0146554406",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PAULVAILLANT COUTURIER",
+    "resultStructId": "238107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2950726972024373,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "12851267",
+    "mail": "",
+    "distance": 5314,
+    "latitude": 48.814528936727264,
+    "telephone": "0146579731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AVAULEE",
+    "resultStructId": "238105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68rue avaulee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.28792250352485,
+    "ville": "malakoff",
+    "cp": "92240"
+  },
+  {
+    "resultId": "44688318",
+    "mail": "crhgmalakoff@igesa.fr",
+    "distance": 5791,
+    "latitude": 48.809298231888675,
+    "telephone": "0141170399",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESUCRE D'ORGE",
+    "resultStructId": "708006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue jules vedrines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.289630670214529,
+    "ville": "malakoff",
+    "cp": "92240"
+  }
+]

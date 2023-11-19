@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12821589",
+    "mail": "microcreche@saint-junien.fr",
+    "distance": 137487,
+    "latitude": 45.89011201600645,
+    "telephone": "0555028278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche la courte échelle",
+    "resultStructId": "7917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue julien rigaud 87200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9002592090213168,
+    "ville": "stjunien",
+    "cp": ""
+  },
+  {
+    "resultId": "37829576",
+    "mail": "contact@pandaetkoala.fr",
+    "distance": 137762,
+    "latitude": 45.88708256196061,
+    "telephone": "0672662611",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Panda et Koala",
+    "resultStructId": "175401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse montgolfier - zone deboisse 87200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9011230316576024,
+    "ville": "stjunien",
+    "cp": ""
+  },
+  {
+    "resultId": "46579873",
+    "mail": "contact@pandaetkoala.fr",
+    "distance": 137762,
+    "latitude": 45.88708256196061,
+    "telephone": "0672662611",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePanda et Koala",
+    "resultStructId": "324601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse montgolfier za de boisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9011230316576024,
+    "ville": "stjunien",
+    "cp": "87200"
+  },
+  {
+    "resultId": "12821632",
+    "mail": "petiteenfance@saint-junien.fr",
+    "distance": 137777,
+    "latitude": 45.88601518151746,
+    "telephone": "0555026781",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tites Fripouilles",
+    "resultStructId": "7918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9039085116512587,
+    "ville": "stjunien",
+    "cp": "87200"
+  },
+  {
+    "resultId": "12821632",
+    "mail": "petiteenfance@saint-junien.fr",
+    "distance": 193112,
+    "latitude": 45.88601518151746,
+    "telephone": "0555026781",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tites Fripouilles",
+    "resultStructId": "7918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 boulevard marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9039085116512587,
+    "ville": "stjunien",
+    "cp": "87200"
+  },
+  {
+    "resultId": "46579873",
+    "mail": "contact@pandaetkoala.fr",
+    "distance": 193115,
+    "latitude": 45.88708256196061,
+    "telephone": "0672662611",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePanda et Koala",
+    "resultStructId": "324601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse montgolfier za de boisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9011230316576024,
+    "ville": "stjunien",
+    "cp": "87200"
+  },
+  {
+    "resultId": "37829576",
+    "mail": "contact@pandaetkoala.fr",
+    "distance": 193115,
+    "latitude": 45.88708256196061,
+    "telephone": "0672662611",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Panda et Koala",
+    "resultStructId": "175401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse montgolfier - zone deboisse 87200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9011230316576024,
+    "ville": "stjunien",
+    "cp": ""
+  },
+  {
+    "resultId": "12821589",
+    "mail": "microcreche@saint-junien.fr",
+    "distance": 193382,
+    "latitude": 45.89011201600645,
+    "telephone": "0555028278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche la courte échelle",
+    "resultStructId": "7917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue julien rigaud 87200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9002592090213168,
+    "ville": "stjunien",
+    "cp": ""
+  }
+]

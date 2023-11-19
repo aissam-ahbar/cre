@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12815698",
+    "mail": "creche@ciate.net",
+    "distance": 105475,
+    "latitude": 46.08793436849821,
+    "telephone": "0555808387",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGrange des Ciatons",
+    "resultStructId": "15706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevard de la ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.044562060356154,
+    "ville": "ahun",
+    "cp": "23150"
+  },
+  {
+    "resultId": "12809592",
+    "mail": "petiteenfance@ciate.net",
+    "distance": 105627,
+    "latitude": 46.08690902720136,
+    "telephone": "0555625670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Ciatons",
+    "resultStructId": "7638",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place jacques lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0466234555532443,
+    "ville": "ahun",
+    "cp": "23150"
+  }
+]

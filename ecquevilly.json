@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12584556",
+    "mail": "",
+    "distance": 177812,
+    "latitude": 48.956796809859526,
+    "telephone": "0134759773",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - CAMAIEU",
+    "resultStructId": "696111",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "25 avenue des motelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9171480654874737,
+    "ville": "ecquevilly",
+    "cp": "78920"
+  },
+  {
+    "resultId": "57594945",
+    "mail": "petitpoucet@liveli.fr",
+    "distance": 178181,
+    "latitude": 48.94814252330602,
+    "telephone": "0967090569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LE PETIT POUCET",
+    "resultStructId": "676913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place de fresnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9221691086724264,
+    "ville": "ecquevilly",
+    "cp": "78920"
+  }
+]

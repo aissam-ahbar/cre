@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12817590",
+    "mail": "eajelespaquerettes@canetenroussillon.fr",
+    "distance": 161984,
+    "latitude": 42.70335842201894,
+    "telephone": "0622575764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Pâquerettes",
+    "resultStructId": "348001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des salins 66140 canet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009435562649383,
+    "ville": "enroussillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12568302",
+    "mail": "creche@canetenroussillon.fr",
+    "distance": 161984,
+    "latitude": 42.70335842201894,
+    "telephone": "0468867168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBaleineaux",
+    "resultStructId": "348501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des salins 66140 canet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009435562649383,
+    "ville": "enroussillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12817590",
+    "mail": "eajelespaquerettes@canetenroussillon.fr",
+    "distance": 122838,
+    "latitude": 42.70335842201894,
+    "telephone": "0622575764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Pâquerettes",
+    "resultStructId": "348001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des salins 66140 canet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009435562649383,
+    "ville": "enroussillon",
+    "cp": ""
+  },
+  {
+    "resultId": "12568302",
+    "mail": "creche@canetenroussillon.fr",
+    "distance": 122838,
+    "latitude": 42.70335842201894,
+    "telephone": "0468867168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBaleineaux",
+    "resultStructId": "348501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des salins 66140 canet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009435562649383,
+    "ville": "enroussillon",
+    "cp": ""
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "12863823",
+    "mail": "vitrolles.couperigne@lpcr.fr",
+    "distance": 50351,
+    "latitude": 43.44203760174613,
+    "telephone": "0437461770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR Couperigne",
+    "resultStructId": "191741",
+    "omegaId": "8263",
+    "avip": false,
+    "adresse": "zac couperigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.229112430275578,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073736",
+    "mail": "creche.laplaine@ville-vitrolles13.fr",
+    "distance": 51046,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PLAINE",
+    "resultStructId": "194807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073329",
+    "mail": "lenid.creche@ville-vitrolles13.fr",
+    "distance": 51046,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLE NID",
+    "resultStructId": "194805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 bis avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073632",
+    "mail": "creche.renoir@ville-vitrolles13.fr",
+    "distance": 52001,
+    "latitude": 43.44569897044989,
+    "telephone": "0442779482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACAUGUSTE RENOIR",
+    "resultStructId": "194806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier des plantiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.251539126823059,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "21201878",
+    "mail": "contact@pure-baby.fr",
+    "distance": 53787,
+    "latitude": 43.43035858117941,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBo Papillon",
+    "resultStructId": "195716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.268825271716167,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12868295",
+    "mail": "vitrolles@lpcr.fr",
+    "distance": 54367,
+    "latitude": 43.43254477806323,
+    "telephone": "0437464531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR VITROLLES",
+    "resultStructId": "194804",
+    "omegaId": "7650",
+    "avip": false,
+    "adresse": "1003 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.277103956782976,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073957",
+    "mail": "creche.pitchoun@ville-vitrolles13.fr",
+    "distance": 54528,
+    "latitude": 43.423813509337734,
+    "telephone": "0442779577",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUN VITROLLES",
+    "resultStructId": "194810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.275803418512586,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18078416",
+    "mail": "creche.petitsrobinsons@ville-vitrolles13.fr",
+    "distance": 54707,
+    "latitude": 43.42746104138736,
+    "telephone": "0442776396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS ROBINSONS",
+    "resultStructId": "194811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pinede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.279535321457518,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073861",
+    "mail": "creche.frescoule@ville-vitrolles13.fr",
+    "distance": 55213,
+    "latitude": 43.42292987147757,
+    "telephone": "0442797222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE MOULIN DE LA FRESCOULE",
+    "resultStructId": "194809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.2842830476291445,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073861",
+    "mail": "creche.frescoule@ville-vitrolles13.fr",
+    "distance": 342433,
+    "latitude": 43.42292987147757,
+    "telephone": "0442797222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE MOULIN DE LA FRESCOULE",
+    "resultStructId": "194809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.2842830476291445,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18078416",
+    "mail": "creche.petitsrobinsons@ville-vitrolles13.fr",
+    "distance": 342984,
+    "latitude": 43.42746104138736,
+    "telephone": "0442776396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS ROBINSONS",
+    "resultStructId": "194811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pinede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.279535321457518,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073957",
+    "mail": "creche.pitchoun@ville-vitrolles13.fr",
+    "distance": 343102,
+    "latitude": 43.423813509337734,
+    "telephone": "0442779577",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUN VITROLLES",
+    "resultStructId": "194810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.275803418512586,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12868295",
+    "mail": "vitrolles@lpcr.fr",
+    "distance": 343387,
+    "latitude": 43.43254477806323,
+    "telephone": "0437464531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR VITROLLES",
+    "resultStructId": "194804",
+    "omegaId": "7650",
+    "avip": false,
+    "adresse": "1003 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.277103956782976,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "21201878",
+    "mail": "contact@pure-baby.fr",
+    "distance": 343906,
+    "latitude": 43.43035858117941,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBo Papillon",
+    "resultStructId": "195716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.268825271716167,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073632",
+    "mail": "creche.renoir@ville-vitrolles13.fr",
+    "distance": 345861,
+    "latitude": 43.44569897044989,
+    "telephone": "0442779482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACAUGUSTE RENOIR",
+    "resultStructId": "194806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier des plantiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.251539126823059,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073736",
+    "mail": "creche.laplaine@ville-vitrolles13.fr",
+    "distance": 346908,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PLAINE",
+    "resultStructId": "194807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073329",
+    "mail": "lenid.creche@ville-vitrolles13.fr",
+    "distance": 346908,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLE NID",
+    "resultStructId": "194805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 bis avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12863823",
+    "mail": "vitrolles.couperigne@lpcr.fr",
+    "distance": 347365,
+    "latitude": 43.44203760174613,
+    "telephone": "0437461770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR Couperigne",
+    "resultStructId": "191741",
+    "omegaId": "8263",
+    "avip": false,
+    "adresse": "zac couperigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.229112430275578,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12863823",
+    "mail": "vitrolles.couperigne@lpcr.fr",
+    "distance": 108820,
+    "latitude": 43.44203760174613,
+    "telephone": "0437461770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR Couperigne",
+    "resultStructId": "191741",
+    "omegaId": "8263",
+    "avip": false,
+    "adresse": "zac couperigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.229112430275578,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073736",
+    "mail": "creche.laplaine@ville-vitrolles13.fr",
+    "distance": 109639,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PLAINE",
+    "resultStructId": "194807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073329",
+    "mail": "lenid.creche@ville-vitrolles13.fr",
+    "distance": 109639,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLE NID",
+    "resultStructId": "194805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 bis avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073632",
+    "mail": "creche.renoir@ville-vitrolles13.fr",
+    "distance": 110538,
+    "latitude": 43.44569897044989,
+    "telephone": "0442779482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACAUGUSTE RENOIR",
+    "resultStructId": "194806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier des plantiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.251539126823059,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "21201878",
+    "mail": "contact@pure-baby.fr",
+    "distance": 112201,
+    "latitude": 43.43035858117941,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBo Papillon",
+    "resultStructId": "195716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.268825271716167,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12868295",
+    "mail": "vitrolles@lpcr.fr",
+    "distance": 112817,
+    "latitude": 43.43254477806323,
+    "telephone": "0437464531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR VITROLLES",
+    "resultStructId": "194804",
+    "omegaId": "7650",
+    "avip": false,
+    "adresse": "1003 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.277103956782976,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073957",
+    "mail": "creche.pitchoun@ville-vitrolles13.fr",
+    "distance": 112885,
+    "latitude": 43.423813509337734,
+    "telephone": "0442779577",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUN VITROLLES",
+    "resultStructId": "194810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.275803418512586,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18078416",
+    "mail": "creche.petitsrobinsons@ville-vitrolles13.fr",
+    "distance": 113109,
+    "latitude": 43.42746104138736,
+    "telephone": "0442776396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS ROBINSONS",
+    "resultStructId": "194811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pinede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.279535321457518,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073861",
+    "mail": "creche.frescoule@ville-vitrolles13.fr",
+    "distance": 113576,
+    "latitude": 43.42292987147757,
+    "telephone": "0442797222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE MOULIN DE LA FRESCOULE",
+    "resultStructId": "194809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.2842830476291445,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12868295",
+    "mail": "vitrolles@lpcr.fr",
+    "distance": 85919,
+    "latitude": 43.43254477806323,
+    "telephone": "0437464531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR VITROLLES",
+    "resultStructId": "194804",
+    "omegaId": "7650",
+    "avip": false,
+    "adresse": "1003 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.277103956782976,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18078416",
+    "mail": "creche.petitsrobinsons@ville-vitrolles13.fr",
+    "distance": 86163,
+    "latitude": 43.42746104138736,
+    "telephone": "0442776396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS ROBINSONS",
+    "resultStructId": "194811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee de la pinede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.279535321457518,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073861",
+    "mail": "creche.frescoule@ville-vitrolles13.fr",
+    "distance": 86232,
+    "latitude": 43.42292987147757,
+    "telephone": "0442797222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE MOULIN DE LA FRESCOULE",
+    "resultStructId": "194809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de lattre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.2842830476291445,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073632",
+    "mail": "creche.renoir@ville-vitrolles13.fr",
+    "distance": 86467,
+    "latitude": 43.44569897044989,
+    "telephone": "0442779482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACAUGUSTE RENOIR",
+    "resultStructId": "194806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier des plantiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.251539126823059,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073736",
+    "mail": "creche.laplaine@ville-vitrolles13.fr",
+    "distance": 86494,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA PLAINE",
+    "resultStructId": "194807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073329",
+    "mail": "lenid.creche@ville-vitrolles13.fr",
+    "distance": 86494,
+    "latitude": 43.45334016389036,
+    "telephone": "0442779481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAFLE NID",
+    "resultStructId": "194805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 bis avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.241948030995982,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "21201878",
+    "mail": "contact@pure-baby.fr",
+    "distance": 86574,
+    "latitude": 43.43035858117941,
+    "telephone": "0666633330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBo Papillon",
+    "resultStructId": "195716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 route de la seds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.268825271716167,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "18073957",
+    "mail": "creche.pitchoun@ville-vitrolles13.fr",
+    "distance": 86660,
+    "latitude": 43.423813509337734,
+    "telephone": "0442779577",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUN VITROLLES",
+    "resultStructId": "194810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.275803418512586,
+    "ville": "vitrolles",
+    "cp": "13127"
+  },
+  {
+    "resultId": "12863823",
+    "mail": "vitrolles.couperigne@lpcr.fr",
+    "distance": 88099,
+    "latitude": 43.44203760174613,
+    "telephone": "0437461770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLPCR Couperigne",
+    "resultStructId": "191741",
+    "omegaId": "8263",
+    "avip": false,
+    "adresse": "zac couperigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.229112430275578,
+    "ville": "vitrolles",
+    "cp": "13127"
+  }
+]

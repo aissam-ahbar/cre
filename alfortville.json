@@ -1,0 +1,914 @@
+[
+  {
+    "resultId": "57317903",
+    "mail": "",
+    "distance": 155417,
+    "latitude": 48.78568750170319,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOLETAlfortville",
+    "resultStructId": "674431",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "154 bis rue e. dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425638746375005,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12537041",
+    "mail": "creche-alfortville-dolet@valdemarne.fr",
+    "distance": 155429,
+    "latitude": 48.78529119329416,
+    "telephone": "0143755290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Dolet",
+    "resultStructId": "15288",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des jardins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.425463900807818,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "48305475",
+    "mail": "alfortville@bullesdecreches.fr",
+    "distance": 155514,
+    "latitude": 48.79899713826871,
+    "telephone": "0752020702",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bullesde crèches Alfortville",
+    "resultStructId": "362901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4249114684966155,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "13069500",
+    "mail": "",
+    "distance": 155802,
+    "latitude": 48.80536505092547,
+    "telephone": "0158732783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheFamiliale Raymond Jaclard",
+    "resultStructId": "14628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue raymond jaclard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4213322824695798,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12509521",
+    "mail": "creche-jaclard@mairie-alfortville.fr",
+    "distance": 155802,
+    "latitude": 48.80536505092547,
+    "telephone": "0158732783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueilJaclard",
+    "resultStructId": "300401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue raymond jaclard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4213322824695798,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501437",
+    "mail": "creche-copain-copine@hotmail.fr",
+    "distance": 155850,
+    "latitude": 48.80510894258883,
+    "telephone": "0143688441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Copain Copine",
+    "resultStructId": "688901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue joseph franceschi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4206623214647993,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12537170",
+    "mail": "creche-alfortville-blanc@valdemarne.fr",
+    "distance": 155860,
+    "latitude": 48.80763868205053,
+    "telephone": "0143754275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Louis-Blanc",
+    "resultStructId": "15290",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue e.goeury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4206759586398148,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12486938",
+    "mail": "creche-alfortville-ensemble@valdemarne.fr",
+    "distance": 155883,
+    "latitude": 48.80541653804568,
+    "telephone": "0143757036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale du 11 novembre 1918",
+    "resultStructId": "15289",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 11 novembre1918",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202282353132922,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12509478",
+    "mail": "creche-jsbach@mairie-alfortville.fr",
+    "distance": 155883,
+    "latitude": 48.80541653804568,
+    "telephone": "0158682228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil BACH crèche",
+    "resultStructId": "300502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2/ 4/ 6 allee jean sebastien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202282353132922,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57813356",
+    "mail": "e.cormon@douceenfance.fr",
+    "distance": 156026,
+    "latitude": 48.80169508376554,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOUCEENFANCE",
+    "resultStructId": "679409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue raspail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4180670251503025,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57800111",
+    "mail": "spaplorey@creche-attitude.fr",
+    "distance": 156118,
+    "latitude": 48.81022096976537,
+    "telephone": "0183772735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KiddiesAdagio",
+    "resultStructId": "679209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4173204126861894,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57314992",
+    "mail": "alfortville@lpcr.fr",
+    "distance": 156140,
+    "latitude": 48.80393738336934,
+    "telephone": "0185608641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRALFORTVILLE",
+    "resultStructId": "674406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416637753082548,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57891128",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 156272,
+    "latitude": 48.81362837189916,
+    "telephone": "0973594431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroStarsMarne 2",
+    "resultStructId": "680308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4154434705951315,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "17502085",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 156272,
+    "latitude": 48.81362837189916,
+    "telephone": "0973594431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars d'Alfortville Marne",
+    "resultStructId": "680303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue paul vaillantcouturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4154434705951315,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "18173839",
+    "mail": "",
+    "distance": 156320,
+    "latitude": 48.80433998749199,
+    "telephone": "0178682225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL HALTE GUESDE",
+    "resultStructId": "428501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4142030825571426,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "45222277",
+    "mail": "lhlc.alfortville@gmail.com",
+    "distance": 156365,
+    "latitude": 48.806794725178975,
+    "telephone": "0651121569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "l'hirondelleet la colombe",
+    "resultStructId": "428401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis rue pierre curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4137360779481156,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501308",
+    "mail": "",
+    "distance": 156372,
+    "latitude": 48.80393204746197,
+    "telephone": "0178682225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Jules Guesde",
+    "resultStructId": "14630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules guesdes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.413467024642484,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57800193",
+    "mail": "amandinetoumegne@la-maison-bleue.fr",
+    "distance": 156373,
+    "latitude": 48.814403060797915,
+    "telephone": "0185530693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesSucriers",
+    "resultStructId": "679210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4141138460076466,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501394",
+    "mail": "",
+    "distance": 156452,
+    "latitude": 48.81012267917201,
+    "telephone": "0178682410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean Albert",
+    "resultStructId": "14625",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean albert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412751634245803,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "17502151",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 156581,
+    "latitude": 48.80933357725212,
+    "telephone": "0972974098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars d'Alfortville Seine",
+    "resultStructId": "680304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de seine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4109340502939536,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57800193",
+    "mail": "amandinetoumegne@la-maison-bleue.fr",
+    "distance": 8353,
+    "latitude": 48.814403060797915,
+    "telephone": "0185530693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesSucriers",
+    "resultStructId": "679210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4141138460076466,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57891128",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 8482,
+    "latitude": 48.81362837189916,
+    "telephone": "0973594431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroStarsMarne 2",
+    "resultStructId": "680308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4154434705951315,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "17502085",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 8482,
+    "latitude": 48.81362837189916,
+    "telephone": "0973594431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars d'Alfortville Marne",
+    "resultStructId": "680303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue paul vaillantcouturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4154434705951315,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "17502151",
+    "mail": "alfortville@micro-stars.fr",
+    "distance": 8505,
+    "latitude": 48.80933357725212,
+    "telephone": "0972974098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars d'Alfortville Seine",
+    "resultStructId": "680304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de seine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4109340502939536,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501394",
+    "mail": "",
+    "distance": 8554,
+    "latitude": 48.81012267917201,
+    "telephone": "0178682410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean Albert",
+    "resultStructId": "14625",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean albert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.412751634245803,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57800111",
+    "mail": "spaplorey@creche-attitude.fr",
+    "distance": 8815,
+    "latitude": 48.81022096976537,
+    "telephone": "0183772735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KiddiesAdagio",
+    "resultStructId": "679209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4173204126861894,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "45222277",
+    "mail": "lhlc.alfortville@gmail.com",
+    "distance": 8842,
+    "latitude": 48.806794725178975,
+    "telephone": "0651121569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "l'hirondelleet la colombe",
+    "resultStructId": "428401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis rue pierre curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4137360779481156,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501308",
+    "mail": "",
+    "distance": 9033,
+    "latitude": 48.80393204746197,
+    "telephone": "0178682225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Jules Guesde",
+    "resultStructId": "14630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules guesdes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.413467024642484,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "18173839",
+    "mail": "",
+    "distance": 9044,
+    "latitude": 48.80433998749199,
+    "telephone": "0178682225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL HALTE GUESDE",
+    "resultStructId": "428501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4142030825571426,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12537170",
+    "mail": "creche-alfortville-blanc@valdemarne.fr",
+    "distance": 9183,
+    "latitude": 48.80763868205053,
+    "telephone": "0143754275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Louis-Blanc",
+    "resultStructId": "15290",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue e.goeury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4206759586398148,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57314992",
+    "mail": "alfortville@lpcr.fr",
+    "distance": 9209,
+    "latitude": 48.80393738336934,
+    "telephone": "0185608641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRALFORTVILLE",
+    "resultStructId": "674406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416637753082548,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12486938",
+    "mail": "creche-alfortville-ensemble@valdemarne.fr",
+    "distance": 9308,
+    "latitude": 48.80541653804568,
+    "telephone": "0143757036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale du 11 novembre 1918",
+    "resultStructId": "15289",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 11 novembre1918",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202282353132922,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12509478",
+    "mail": "creche-jsbach@mairie-alfortville.fr",
+    "distance": 9308,
+    "latitude": 48.80541653804568,
+    "telephone": "0158682228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil BACH crèche",
+    "resultStructId": "300502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2/ 4/ 6 allee jean sebastien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202282353132922,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12501437",
+    "mail": "creche-copain-copine@hotmail.fr",
+    "distance": 9354,
+    "latitude": 48.80510894258883,
+    "telephone": "0143688441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Copain Copine",
+    "resultStructId": "688901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue joseph franceschi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4206623214647993,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "13069500",
+    "mail": "",
+    "distance": 9375,
+    "latitude": 48.80536505092547,
+    "telephone": "0158732783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheFamiliale Raymond Jaclard",
+    "resultStructId": "14628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue raymond jaclard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4213322824695798,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "12509521",
+    "mail": "creche-jaclard@mairie-alfortville.fr",
+    "distance": 9375,
+    "latitude": 48.80536505092547,
+    "telephone": "0158732783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueilJaclard",
+    "resultStructId": "300401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue raymond jaclard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4213322824695798,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "57813356",
+    "mail": "e.cormon@douceenfance.fr",
+    "distance": 9450,
+    "latitude": 48.80169508376554,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOUCEENFANCE",
+    "resultStructId": "679409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue raspail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4180670251503025,
+    "ville": "alfortville",
+    "cp": "94140"
+  },
+  {
+    "resultId": "48305475",
+    "mail": "alfortville@bullesdecreches.fr",
+    "distance": 10026,
+    "latitude": 48.79899713826871,
+    "telephone": "0752020702",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bullesde crèches Alfortville",
+    "resultStructId": "362901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4249114684966155,
+    "ville": "alfortville",
+    "cp": "94140"
+  }
+]

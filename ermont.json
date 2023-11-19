@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12865586",
+    "mail": "ermont@lpcr.fr",
+    "distance": 168096,
+    "latitude": 48.992435349462916,
+    "telephone": "0155904443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8940",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 rue du 18 juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2498025874213816,
+    "ville": "ermont",
+    "cp": "95120"
+  },
+  {
+    "resultId": "12483025",
+    "mail": "",
+    "distance": 168096,
+    "latitude": 48.992435349462916,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGibus",
+    "resultStructId": "14",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 rue du 18 juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2498025874213816,
+    "ville": "ermont",
+    "cp": "95120"
+  },
+  {
+    "resultId": "12483455",
+    "mail": "",
+    "distance": 168102,
+    "latitude": 48.99074744022616,
+    "telephone": "0134144424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale les Marmousets",
+    "resultStructId": "24",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la reunion 95120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.262280195945015,
+    "ville": "ermont",
+    "cp": ""
+  },
+  {
+    "resultId": "12483584",
+    "mail": "",
+    "distance": 168634,
+    "latitude": 48.98602953926902,
+    "telephone": "0134441230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"A Petits Pas\"",
+    "resultStructId": "27",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 bis rue maurice berteaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.261076971764318,
+    "ville": "ermont",
+    "cp": "95120"
+  },
+  {
+    "resultId": "43640930",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 168676,
+    "latitude": 48.985257431699324,
+    "telephone": "0158834837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES CANAILLES ERMONT",
+    "resultStructId": "320902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue hoche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.264077786852601,
+    "ville": "ermont",
+    "cp": "95120"
+  }
+]

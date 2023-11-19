@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12984782",
+    "mail": "",
+    "distance": 13128,
+    "latitude": 45.54304154021453,
+    "telephone": "0473550067",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Familial Issoire",
+    "resultStructId": "11712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue marcel beraud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.244099229009121,
+    "ville": "issoire",
+    "cp": "63500"
+  },
+  {
+    "resultId": "12985900",
+    "mail": "multiaccueil-issoire@capissoire.fr",
+    "distance": 13194,
+    "latitude": 45.5422778216191,
+    "telephone": "0473550067",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif Issoire",
+    "resultStructId": "710107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue marcel beraud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2437073774968805,
+    "ville": "issoire",
+    "cp": "63500"
+  }
+]

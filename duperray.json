@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12684668",
+    "mail": "a.heurtebis@sipej.fr",
+    "distance": 189213,
+    "latitude": 48.61069572871157,
+    "telephone": "0181075080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Grillons",
+    "resultStructId": "4703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue vivaldi 91280 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.512748491440969,
+    "ville": "duperray",
+    "cp": ""
+  },
+  {
+    "resultId": "12683636",
+    "mail": "h.rochard@sipej.fr",
+    "distance": 189349,
+    "latitude": 48.613507062379,
+    "telephone": "0160758000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondes Petits Pas",
+    "resultStructId": "4679",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours jean jaures 91280 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5062289033746206,
+    "ville": "duperray",
+    "cp": ""
+  },
+  {
+    "resultId": "12684668",
+    "mail": "a.heurtebis@sipej.fr",
+    "distance": 149775,
+    "latitude": 48.61069572871157,
+    "telephone": "0181075080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Grillons",
+    "resultStructId": "4703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue vivaldi 91280 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.512748491440969,
+    "ville": "duperray",
+    "cp": ""
+  },
+  {
+    "resultId": "12683636",
+    "mail": "h.rochard@sipej.fr",
+    "distance": 150220,
+    "latitude": 48.613507062379,
+    "telephone": "0160758000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondes Petits Pas",
+    "resultStructId": "4679",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours jean jaures 91280 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5062289033746206,
+    "ville": "duperray",
+    "cp": ""
+  }
+]

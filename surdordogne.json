@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12960057",
+    "mail": "bbm.beaulieu@mutualitelimousine.fr",
+    "distance": 178081,
+    "latitude": 44.9729547239175,
+    "telephone": "0555910427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BéBéaiMe Beaulieu",
+    "resultStructId": "680407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les estruels 19120 beaulieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8354906236756974,
+    "ville": "surdordogne",
+    "cp": ""
+  },
+  {
+    "resultId": "12797509",
+    "mail": "microcreche@xaintrie-val-dordogne.fr",
+    "distance": 190695,
+    "latitude": 45.08947113009218,
+    "telephone": "0967175847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEintercommunale \"LES LUTINS\"",
+    "resultStructId": "206501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue amedee muzac 19400argentat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9386461626930949,
+    "ville": "surdordogne",
+    "cp": ""
+  }
+]

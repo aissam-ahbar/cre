@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12898524",
+    "mail": "multiaccueil.ccas@mairie-seyssins.fr",
+    "distance": 433346,
+    "latitude": 45.16793290221384,
+    "telephone": "0476967844",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Patio",
+    "resultStructId": "353501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.696278754730911,
+    "ville": "seyssins",
+    "cp": "38180"
+  },
+  {
+    "resultId": "12898524",
+    "mail": "multiaccueil.ccas@mairie-seyssins.fr",
+    "distance": 137762,
+    "latitude": 45.16793290221384,
+    "telephone": "0476967844",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Patio",
+    "resultStructId": "353501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.696278754730911,
+    "ville": "seyssins",
+    "cp": "38180"
+  }
+]

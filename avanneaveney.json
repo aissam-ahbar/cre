@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33519829",
+    "mail": "avanne@creche-la-maison-bleue.fr",
+    "distance": 136833,
+    "latitude": 47.202179304655004,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCardamome",
+    "resultStructId": "107113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du noyer - espace saint laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.964281999721675,
+    "ville": "avanneaveney",
+    "cp": "25720"
+  },
+  {
+    "resultId": "12609969",
+    "mail": "mc.avanne-aveney@famillesrurales.org",
+    "distance": 136852,
+    "latitude": 47.202208310877104,
+    "telephone": "0381260336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAVANNE-AVENEY",
+    "resultStructId": "107108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de l'eglise 25720",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.964528122342947,
+    "ville": "avanneaveney",
+    "cp": ""
+  }
+]

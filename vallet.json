@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "60148010",
+    "mail": "contact@lescachettes.fr",
+    "distance": 52983,
+    "latitude": 47.17836139237814,
+    "telephone": "0671491253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASLES CACHETTES _ LA CACHETTE DES CHOUBIDOUX",
+    "resultStructId": "705604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue destonneliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2625286661400839,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "60185212",
+    "mail": "info@lesptispetons.com",
+    "distance": 54507,
+    "latitude": 47.165720246590176,
+    "telephone": "0745080414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtis Petons de Vallet",
+    "resultStructId": "706117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard d'alcester",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.270344300600074,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "35470375",
+    "mail": "valerie.paradelo@utno.ifac.asso.fr",
+    "distance": 54662,
+    "latitude": 47.16296513006837,
+    "telephone": "0762260946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Vallet - IFAC Ouest",
+    "resultStructId": "137410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2661279139560015,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "12900244",
+    "mail": "vallet.halte@utno.ifac.asso.fr",
+    "distance": 54769,
+    "latitude": 47.16113182210135,
+    "telephone": "0240366243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites Canailles",
+    "resultStructId": "9746",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saint louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.263375069651159,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "59389038",
+    "mail": "",
+    "distance": 55204,
+    "latitude": 47.15888531335542,
+    "telephone": "0767360754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtis Petons de Vallet",
+    "resultStructId": "704903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 route de clisson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2702996823253263,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "12900287",
+    "mail": "vallet.creche@utno.ifac.asso.fr",
+    "distance": 59222,
+    "latitude": 47.14159284075962,
+    "telephone": "0240311168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison des doudous",
+    "resultStructId": "9747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue saint-michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.340973167452646,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "13016860",
+    "mail": "vallet.multiaccueil@utno.ifac.asso.fr",
+    "distance": 59222,
+    "latitude": 47.14159284075962,
+    "telephone": "0762260946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "12458",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rue saint-michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.340973167452646,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "60148010",
+    "mail": "contact@lescachettes.fr",
+    "distance": 52983,
+    "latitude": 47.17836139237814,
+    "telephone": "0671491253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASLES CACHETTES _ LA CACHETTE DES CHOUBIDOUX",
+    "resultStructId": "705604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue destonneliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2625286661400839,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "60185212",
+    "mail": "info@lesptispetons.com",
+    "distance": 54507,
+    "latitude": 47.165720246590176,
+    "telephone": "0745080414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtis Petons de Vallet",
+    "resultStructId": "706117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard d'alcester",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.270344300600074,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "35470375",
+    "mail": "valerie.paradelo@utno.ifac.asso.fr",
+    "distance": 54662,
+    "latitude": 47.16296513006837,
+    "telephone": "0762260946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Vallet - IFAC Ouest",
+    "resultStructId": "137410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2661279139560015,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "12900244",
+    "mail": "vallet.halte@utno.ifac.asso.fr",
+    "distance": 54769,
+    "latitude": 47.16113182210135,
+    "telephone": "0240366243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites Canailles",
+    "resultStructId": "9746",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue saint louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.263375069651159,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "59389038",
+    "mail": "",
+    "distance": 55204,
+    "latitude": 47.15888531335542,
+    "telephone": "0767360754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtis Petons de Vallet",
+    "resultStructId": "704903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 route de clisson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2702996823253263,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "12900287",
+    "mail": "vallet.creche@utno.ifac.asso.fr",
+    "distance": 59222,
+    "latitude": 47.14159284075962,
+    "telephone": "0240311168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison des doudous",
+    "resultStructId": "9747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue saint-michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.340973167452646,
+    "ville": "vallet",
+    "cp": "44330"
+  },
+  {
+    "resultId": "13016860",
+    "mail": "vallet.multiaccueil@utno.ifac.asso.fr",
+    "distance": 59222,
+    "latitude": 47.14159284075962,
+    "telephone": "0762260946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "12458",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rue saint-michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.340973167452646,
+    "ville": "vallet",
+    "cp": "44330"
+  }
+]

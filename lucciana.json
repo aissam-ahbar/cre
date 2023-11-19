@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12540266",
+    "mail": "hglucciana@orange.fr",
+    "distance": 51761,
+    "latitude": 42.542767531260104,
+    "telephone": "0495361304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede LUCCIANA",
+    "resultStructId": "687004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rd. point de crucetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.442862266847204,
+    "ville": "lucciana",
+    "cp": "20290"
+  },
+  {
+    "resultId": "12703459",
+    "mail": "aluccianella@orange.fr",
+    "distance": 51761,
+    "latitude": 42.542767531260104,
+    "telephone": "0495566997",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ALUCCIANELLE",
+    "resultStructId": "5140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de l aeroport",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.442862266847204,
+    "ville": "lucciana",
+    "cp": "20290"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "48609402",
+    "mail": "multiaccueil.laussonne.mim@gmail.com",
+    "distance": 163735,
+    "latitude": 44.97254628743117,
+    "telephone": "0471051923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALAUSSONNE",
+    "resultStructId": "368201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 route de st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0531803319436595,
+    "ville": "laussonne",
+    "cp": "43150"
+  },
+  {
+    "resultId": "48609402",
+    "mail": "multiaccueil.laussonne.mim@gmail.com",
+    "distance": 153292,
+    "latitude": 44.97254628743117,
+    "telephone": "0471051923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALAUSSONNE",
+    "resultStructId": "368201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 route de st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0531803319436595,
+    "ville": "laussonne",
+    "cp": "43150"
+  }
+]

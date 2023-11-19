@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12907640",
+    "mail": "",
+    "distance": 151437,
+    "latitude": 45.903395674336366,
+    "telephone": "0474647373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes P'tits Olmes",
+    "resultStructId": "119407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de l'eglise 69490 vindry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.492412166408635,
+    "ville": "surturdine",
+    "cp": ""
+  },
+  {
+    "resultId": "29387449",
+    "mail": "",
+    "distance": 154644,
+    "latitude": 45.87380743639329,
+    "telephone": "0474056395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les P'tits Turdinois",
+    "resultStructId": "52608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de la commanderie69490 pontcharra",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.4895861809542,
+    "ville": "surturdine",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "55058988",
+    "mail": "maisondelenfancegimont@3cag.fr",
+    "distance": 119966,
+    "latitude": 43.62655812806306,
+    "telephone": "0561671079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueilde Gimont",
+    "resultStructId": "607301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard du nord",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8787038262828907,
+    "ville": "gimont",
+    "cp": "32200"
+  },
+  {
+    "resultId": "55058753",
+    "mail": "maisondelenfancegimont@3cag.fr",
+    "distance": 119966,
+    "latitude": 43.62655812806306,
+    "telephone": "0561671079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Gimont",
+    "resultStructId": "679830",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard du nord",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8787038262828907,
+    "ville": "gimont",
+    "cp": "32200"
+  }
+]

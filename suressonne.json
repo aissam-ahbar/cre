@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12813892",
+    "mail": "",
+    "distance": 176821,
+    "latitude": 48.52088789266795,
+    "telephone": "0169902294",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Mousses",
+    "resultStructId": "7738",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la vallee 91610 ballancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.387849004552007,
+    "ville": "suressonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12813849",
+    "mail": "halte-garderie-ballancourt@orange.fr",
+    "distance": 177085,
+    "latitude": 48.524586914271765,
+    "telephone": "0164934959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPoussinette",
+    "resultStructId": "7737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue du martroy 91610 ballancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.382038928026518,
+    "ville": "suressonne",
+    "cp": ""
+  }
+]

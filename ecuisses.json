@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12530290",
+    "mail": "maecuisses@orange.fr",
+    "distance": 60339,
+    "latitude": 46.759753784545985,
+    "telephone": "0385789630",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueild'Ecuisses",
+    "resultStructId": "1113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des vernes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.508928431234169,
+    "ville": "ecuisses",
+    "cp": "71210"
+  }
+]

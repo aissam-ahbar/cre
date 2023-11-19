@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12483111",
+    "mail": "multi-acceuil-magendie@sannois.fr",
+    "distance": 169327,
+    "latitude": 48.98212499221887,
+    "telephone": "0134101596",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Magendie",
+    "resultStructId": "493601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des loges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.242364721020922,
+    "ville": "sannois",
+    "cp": "95110"
+  },
+  {
+    "resultId": "12483154",
+    "mail": "creche.tilleuls.sannois@wanadoo.fr",
+    "distance": 170086,
+    "latitude": 48.972518444593085,
+    "telephone": "0139813957",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Tilleuls",
+    "resultStructId": "17",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2626883220015594,
+    "ville": "sannois",
+    "cp": "95110"
+  }
+]

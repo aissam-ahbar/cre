@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12848859",
+    "mail": "csc.pe@orange.fr",
+    "distance": 154467,
+    "latitude": 45.62567293961503,
+    "telephone": "0546054550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu centre socio-culturel de Royan",
+    "resultStructId": "321801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 boulevard de lamarne - bp 70004",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0056604782569707,
+    "ville": "royan",
+    "cp": "17200"
+  },
+  {
+    "resultId": "12596252",
+    "mail": "creche@mairie-royan.fr",
+    "distance": 155127,
+    "latitude": 45.62893420611653,
+    "telephone": "0546054449",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmoussaillons",
+    "resultStructId": "2647",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des fleurs de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0162721456461992,
+    "ville": "royan",
+    "cp": "17200"
+  }
+]

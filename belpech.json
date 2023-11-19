@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13014796",
+    "mail": "lespetitpodiens@hotmail.fr",
+    "distance": 204304,
+    "latitude": 43.19915365127147,
+    "telephone": "0468606600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALES PETIPODIENS",
+    "resultStructId": "12410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint joseph",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7495648478061527,
+    "ville": "belpech",
+    "cp": "11420"
+  },
+  {
+    "resultId": "13014796",
+    "mail": "lespetitpodiens@hotmail.fr",
+    "distance": 179072,
+    "latitude": 43.19915365127147,
+    "telephone": "0468606600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALES PETIPODIENS",
+    "resultStructId": "12410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint joseph",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7495648478061527,
+    "ville": "belpech",
+    "cp": "11420"
+  }
+]

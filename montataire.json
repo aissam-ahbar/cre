@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12743931",
+    "mail": "creche@mairie-montataire.fr",
+    "distance": 136039,
+    "latitude": 49.264220314372295,
+    "telephone": "0344274754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE \"LOUISE MICHEL\" DE MONTATAIRE",
+    "resultStructId": "97907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue paulvaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4304162512650747,
+    "ville": "montataire",
+    "cp": "60160"
+  },
+  {
+    "resultId": "12799143",
+    "mail": "",
+    "distance": 136039,
+    "latitude": 49.264220314372295,
+    "telephone": "0344274089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LE JARDIN ENCHANTE\" DE MONTATAIRE",
+    "resultStructId": "97908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue paulvaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4304162512650747,
+    "ville": "montataire",
+    "cp": "60160"
+  },
+  {
+    "resultId": "12853589",
+    "mail": "montataire@lpcr.fr",
+    "distance": 136466,
+    "latitude": 49.25806967678283,
+    "telephone": "0360800160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "97909",
+    "omegaId": "15831",
+    "avip": false,
+    "adresse": "100 rue louis blanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.454354337314366,
+    "ville": "montataire",
+    "cp": "60160"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13014968",
+    "mail": "enfance@piege-lauragais.fr",
+    "distance": 225544,
+    "latitude": 43.2415831503577,
+    "telephone": "0468766940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL JACQUES CAMBOLIVE",
+    "resultStructId": "12414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue bonrepos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1188771180093213,
+    "ville": "bram",
+    "cp": "11150"
+  },
+  {
+    "resultId": "13014968",
+    "mail": "enfance@piege-lauragais.fr",
+    "distance": 148977,
+    "latitude": 43.2415831503577,
+    "telephone": "0468766940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL JACQUES CAMBOLIVE",
+    "resultStructId": "12414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue bonrepos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1188771180093213,
+    "ville": "bram",
+    "cp": "11150"
+  }
+]

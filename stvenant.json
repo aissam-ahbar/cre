@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57189196",
+    "mail": "lagrandeours@micro-baby.com",
+    "distance": 21027,
+    "latitude": 50.62020000143778,
+    "telephone": "0321263628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPETITE OURS - St Venant",
+    "resultStructId": "672907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue des bleuets 62350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5314774415253583,
+    "ville": "stvenant",
+    "cp": ""
+  },
+  {
+    "resultId": "12967797",
+    "mail": "lagrandeours@micro-baby.com",
+    "distance": 21027,
+    "latitude": 50.62020000143778,
+    "telephone": "0321263628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAGRANDE OURS - St Venant",
+    "resultStructId": "672908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue des bleuets 62350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5314774415253583,
+    "ville": "stvenant",
+    "cp": ""
+  }
+]

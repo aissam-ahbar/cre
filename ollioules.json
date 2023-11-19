@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12671940",
+    "mail": "lestouchatous@orange.fr",
+    "distance": 109027,
+    "latitude": 43.1367717471376,
+    "telephone": "0494637823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTouchatous",
+    "resultStructId": "4407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "341 rue romain rolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.843170544780296,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "24865184",
+    "mail": "ollioules@lpcr.fr",
+    "distance": 109224,
+    "latitude": 43.13978887872312,
+    "telephone": "0489519002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "706816",
+    "omegaId": "32908",
+    "avip": false,
+    "adresse": "2020 avenue jean monnet -technopole de la mer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847869316154892,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12634694",
+    "mail": "lacharmerie@wanadoo.fr",
+    "distance": 109290,
+    "latitude": 43.13716028922943,
+    "telephone": "0494632809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCharmerie",
+    "resultStructId": "16610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847030083406884,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "25121821",
+    "mail": "assopetitsdhomme@gmail.com",
+    "distance": 110102,
+    "latitude": 43.12208565103294,
+    "telephone": "0953724499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitsd'Homme",
+    "resultStructId": "29203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de la capellane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.848026573148623,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23262705",
+    "mail": "ollioules@koalakids.fr",
+    "distance": 110737,
+    "latitude": 43.126221560273244,
+    "telephone": "0673332260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Ollioules",
+    "resultStructId": "21303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de piedardant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.859563544680972,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23463698",
+    "mail": "lemondedesdoudous@yahoo.fr",
+    "distance": 110825,
+    "latitude": 43.13298821658766,
+    "telephone": "0981229807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lemonde des doudous",
+    "resultStructId": "22402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1743 route nationale 8",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8652703075750825,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23463698",
+    "mail": "lemondedesdoudous@yahoo.fr",
+    "distance": 286692,
+    "latitude": 43.13298821658766,
+    "telephone": "0981229807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lemonde des doudous",
+    "resultStructId": "22402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1743 route nationale 8",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8652703075750825,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23262705",
+    "mail": "ollioules@koalakids.fr",
+    "distance": 286851,
+    "latitude": 43.126221560273244,
+    "telephone": "0673332260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Ollioules",
+    "resultStructId": "21303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de piedardant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.859563544680972,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "25121821",
+    "mail": "assopetitsdhomme@gmail.com",
+    "distance": 287560,
+    "latitude": 43.12208565103294,
+    "telephone": "0953724499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitsd'Homme",
+    "resultStructId": "29203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de la capellane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.848026573148623,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12634694",
+    "mail": "lacharmerie@wanadoo.fr",
+    "distance": 288239,
+    "latitude": 43.13716028922943,
+    "telephone": "0494632809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCharmerie",
+    "resultStructId": "16610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847030083406884,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "24865184",
+    "mail": "ollioules@lpcr.fr",
+    "distance": 288282,
+    "latitude": 43.13978887872312,
+    "telephone": "0489519002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "706816",
+    "omegaId": "32908",
+    "avip": false,
+    "adresse": "2020 avenue jean monnet -technopole de la mer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847869316154892,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12671940",
+    "mail": "lestouchatous@orange.fr",
+    "distance": 288516,
+    "latitude": 43.1367717471376,
+    "telephone": "0494637823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTouchatous",
+    "resultStructId": "4407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "341 rue romain rolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.843170544780296,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12671940",
+    "mail": "lestouchatous@orange.fr",
+    "distance": 165490,
+    "latitude": 43.1367717471376,
+    "telephone": "0494637823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTouchatous",
+    "resultStructId": "4407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "341 rue romain rolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.843170544780296,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "24865184",
+    "mail": "ollioules@lpcr.fr",
+    "distance": 165744,
+    "latitude": 43.13978887872312,
+    "telephone": "0489519002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "706816",
+    "omegaId": "32908",
+    "avip": false,
+    "adresse": "2020 avenue jean monnet -technopole de la mer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847869316154892,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12634694",
+    "mail": "lacharmerie@wanadoo.fr",
+    "distance": 165773,
+    "latitude": 43.13716028922943,
+    "telephone": "0494632809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCharmerie",
+    "resultStructId": "16610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847030083406884,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "25121821",
+    "mail": "assopetitsdhomme@gmail.com",
+    "distance": 166394,
+    "latitude": 43.12208565103294,
+    "telephone": "0953724499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitsd'Homme",
+    "resultStructId": "29203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de la capellane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.848026573148623,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23262705",
+    "mail": "ollioules@koalakids.fr",
+    "distance": 167128,
+    "latitude": 43.126221560273244,
+    "telephone": "0673332260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Ollioules",
+    "resultStructId": "21303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de piedardant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.859563544680972,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23463698",
+    "mail": "lemondedesdoudous@yahoo.fr",
+    "distance": 167324,
+    "latitude": 43.13298821658766,
+    "telephone": "0981229807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lemonde des doudous",
+    "resultStructId": "22402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1743 route nationale 8",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8652703075750825,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "24865184",
+    "mail": "ollioules@lpcr.fr",
+    "distance": 92470,
+    "latitude": 43.13978887872312,
+    "telephone": "0489519002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "706816",
+    "omegaId": "32908",
+    "avip": false,
+    "adresse": "2020 avenue jean monnet -technopole de la mer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847869316154892,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12634694",
+    "mail": "lacharmerie@wanadoo.fr",
+    "distance": 92770,
+    "latitude": 43.13716028922943,
+    "telephone": "0494632809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCharmerie",
+    "resultStructId": "16610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.847030083406884,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "12671940",
+    "mail": "lestouchatous@orange.fr",
+    "distance": 92871,
+    "latitude": 43.1367717471376,
+    "telephone": "0494637823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTouchatous",
+    "resultStructId": "4407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "341 rue romain rolland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.843170544780296,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23463698",
+    "mail": "lemondedesdoudous@yahoo.fr",
+    "distance": 92963,
+    "latitude": 43.13298821658766,
+    "telephone": "0981229807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lemonde des doudous",
+    "resultStructId": "22402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1743 route nationale 8",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8652703075750825,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "23262705",
+    "mail": "ollioules@koalakids.fr",
+    "distance": 93784,
+    "latitude": 43.126221560273244,
+    "telephone": "0673332260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoalaKids Ollioules",
+    "resultStructId": "21303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de piedardant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.859563544680972,
+    "ville": "ollioules",
+    "cp": "83190"
+  },
+  {
+    "resultId": "25121821",
+    "mail": "assopetitsdhomme@gmail.com",
+    "distance": 94403,
+    "latitude": 43.12208565103294,
+    "telephone": "0953724499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitsd'Homme",
+    "resultStructId": "29203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 chemin de la capellane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.848026573148623,
+    "ville": "ollioules",
+    "cp": "83190"
+  }
+]

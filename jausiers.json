@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12911897",
+    "mail": "",
+    "distance": 317123,
+    "latitude": 44.419747183479444,
+    "telephone": "0492846513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarmottes",
+    "resultStructId": "10017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment la reine des alpes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.733529095461901,
+    "ville": "jausiers",
+    "cp": "04850"
+  },
+  {
+    "resultId": "12911897",
+    "mail": "",
+    "distance": 74263,
+    "latitude": 44.419747183479444,
+    "telephone": "0492846513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarmottes",
+    "resultStructId": "10017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment la reine des alpes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.733529095461901,
+    "ville": "jausiers",
+    "cp": "04850"
+  }
+]

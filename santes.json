@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12554026",
+    "mail": "creche@santes.fr",
+    "distance": 21650,
+    "latitude": 50.595437820235965,
+    "telephone": "0320101600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CENTREMULTI ACCUEIL A PETITS PAS",
+    "resultStructId": "439901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue marechal foch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9578455275668203,
+    "ville": "santes",
+    "cp": "59211"
+  }
+]

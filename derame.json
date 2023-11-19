@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12733783",
+    "mail": "creche.lespetitsrameurs@orange.fr",
+    "distance": 353622,
+    "latitude": 44.750267552092346,
+    "telephone": "0492581950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Rameurs",
+    "resultStructId": "5875",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit le claux 05310 la roche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.583456696867426,
+    "ville": "derame",
+    "cp": ""
+  },
+  {
+    "resultId": "12733783",
+    "mail": "creche.lespetitsrameurs@orange.fr",
+    "distance": 97481,
+    "latitude": 44.750267552092346,
+    "telephone": "0492581950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Rameurs",
+    "resultStructId": "5875",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit le claux 05310 la roche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.583456696867426,
+    "ville": "derame",
+    "cp": ""
+  }
+]

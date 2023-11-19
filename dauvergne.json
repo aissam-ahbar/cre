@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12985040",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 8817,
+    "latitude": 45.73024654823349,
+    "telephone": "0473830985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La bulle",
+    "resultStructId": "334001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place jean jaures 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.189611391211389,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12982933",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 8848,
+    "latitude": 45.73022719568431,
+    "telephone": "0473691018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits faons",
+    "resultStructId": "333901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 impasse des domes 63800cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1930987194824425,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12985126",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 10013,
+    "latitude": 45.74146862414384,
+    "telephone": "0473775660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Jardin des P'tits potes",
+    "resultStructId": "334101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue marechalleclerc 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1750295344808146,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12960272",
+    "mail": "nidanges@live.fr",
+    "distance": 10151,
+    "latitude": 45.74185796454085,
+    "telephone": "0473629165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNid d'anges",
+    "resultStructId": "11142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "26136104",
+    "mail": "crecheduboisjoli@outlook.fr",
+    "distance": 10151,
+    "latitude": 45.74185796454085,
+    "telephone": "0967888664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Bois Joli",
+    "resultStructId": "34605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12983234",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 10484,
+    "latitude": 45.742961220967146,
+    "telephone": "0473694658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Toulaits momes",
+    "resultStructId": "333902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre mendes france63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2095943430607647,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12969990",
+    "mail": "combrailles.jeunesse@hotmail.fr",
+    "distance": 169506,
+    "latitude": 46.02949574711792,
+    "telephone": "0473520755",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petits Coeurs",
+    "resultStructId": "11368",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jules ferry 63390 stgervais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.813779436038402,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12983234",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 181993,
+    "latitude": 45.742961220967146,
+    "telephone": "0473694658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Toulaits momes",
+    "resultStructId": "333902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre mendes france63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2095943430607647,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12985126",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 183211,
+    "latitude": 45.74146862414384,
+    "telephone": "0473775660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Jardin des P'tits potes",
+    "resultStructId": "334101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue marechalleclerc 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1750295344808146,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12960272",
+    "mail": "nidanges@live.fr",
+    "distance": 183669,
+    "latitude": 45.74185796454085,
+    "telephone": "0473629165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNid d'anges",
+    "resultStructId": "11142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "26136104",
+    "mail": "crecheduboisjoli@outlook.fr",
+    "distance": 183669,
+    "latitude": 45.74185796454085,
+    "telephone": "0967888664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Bois Joli",
+    "resultStructId": "34605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12982933",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 183798,
+    "latitude": 45.73022719568431,
+    "telephone": "0473691018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits faons",
+    "resultStructId": "333901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 impasse des domes 63800cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1930987194824425,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12985040",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 183903,
+    "latitude": 45.73024654823349,
+    "telephone": "0473830985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La bulle",
+    "resultStructId": "334001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place jean jaures 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.189611391211389,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12969990",
+    "mail": "combrailles.jeunesse@hotmail.fr",
+    "distance": 138639,
+    "latitude": 46.02949574711792,
+    "telephone": "0473520755",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petits Coeurs",
+    "resultStructId": "11368",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jules ferry 63390 stgervais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.813779436038402,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12960272",
+    "mail": "nidanges@live.fr",
+    "distance": 180313,
+    "latitude": 45.74185796454085,
+    "telephone": "0473629165",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNid d'anges",
+    "resultStructId": "11142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "26136104",
+    "mail": "crecheduboisjoli@outlook.fr",
+    "distance": 180313,
+    "latitude": 45.74185796454085,
+    "telephone": "0967888664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedu Bois Joli",
+    "resultStructId": "34605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de sarlieve 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.159239034295986,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12985126",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 181110,
+    "latitude": 45.74146862414384,
+    "telephone": "0473775660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Le Jardin des P'tits potes",
+    "resultStructId": "334101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue marechalleclerc 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1750295344808146,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12983234",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 182671,
+    "latitude": 45.742961220967146,
+    "telephone": "0473694658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Toulaits momes",
+    "resultStructId": "333902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pierre mendes france63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2095943430607647,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12985040",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 182792,
+    "latitude": 45.73024654823349,
+    "telephone": "0473830985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La bulle",
+    "resultStructId": "334001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place jean jaures 63800 cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.189611391211389,
+    "ville": "dauvergne",
+    "cp": ""
+  },
+  {
+    "resultId": "12982933",
+    "mail": "petiteenfance@cournon-auvergne.fr",
+    "distance": 182963,
+    "latitude": 45.73022719568431,
+    "telephone": "0473691018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits faons",
+    "resultStructId": "333901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 impasse des domes 63800cournon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1930987194824425,
+    "ville": "dauvergne",
+    "cp": ""
+  }
+]

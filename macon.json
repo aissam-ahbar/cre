@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "12566668",
+    "mail": "ma.tilleuls@mg-agglo.com",
+    "distance": 114420,
+    "latitude": 46.32574689948687,
+    "telephone": "0385384560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche des Tilleuls",
+    "resultStructId": "695309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue nelson mandela",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82809369952298,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12566582",
+    "mail": "petiteenfance@ville-macon.fr",
+    "distance": 115255,
+    "latitude": 46.31804746471266,
+    "telephone": "0385385938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche des Gautriats",
+    "resultStructId": "695308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.830087827017703,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12527753",
+    "mail": "ma.marbe@mg-agglo.com",
+    "distance": 115550,
+    "latitude": 46.317390056625364,
+    "telephone": "0385389352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche de Marbé",
+    "resultStructId": "695306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1320 avenue charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.836825186504623,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12528054",
+    "mail": "creche.paris@mb-agglo.com",
+    "distance": 115957,
+    "latitude": 46.31308383835903,
+    "telephone": "0385385034",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GrandeCrèche Rue de Paris",
+    "resultStructId": "694605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.836187145175728,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12566195",
+    "mail": "ma.bioux@mb-agglo.com",
+    "distance": 116360,
+    "latitude": 46.30329805360772,
+    "telephone": "0385344843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche de Bioux",
+    "resultStructId": "694611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "203 rue michelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.819101320498969,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12566625",
+    "mail": "ma.jeanton@mb-agglo.com",
+    "distance": 116702,
+    "latitude": 46.30331038325608,
+    "telephone": "0385380306",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche de Jeanton",
+    "resultStructId": "695305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue gabriel jeanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829387320104163,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12529473",
+    "mail": "creche.blanchettes@mb-agglo.com",
+    "distance": 117210,
+    "latitude": 46.296814224009815,
+    "telephone": "0385384460",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "GrandeCrèche des Blanchettes",
+    "resultStructId": "694606",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue des blanchettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825120957549685,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12565636",
+    "mail": "creche.familiale@mb-agglo.com",
+    "distance": 117210,
+    "latitude": 46.296814224009815,
+    "telephone": "0385350089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "694609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des blanchettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825120957549685,
+    "ville": "macon",
+    "cp": "71000"
+  },
+  {
+    "resultId": "12566238",
+    "mail": "ma.chanaye@mb-agglo.com",
+    "distance": 117249,
+    "latitude": 46.29123935586071,
+    "telephone": "0385341492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche de la Chanaye",
+    "resultStructId": "695304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue paul eluard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809255554537954,
+    "ville": "macon",
+    "cp": "71000"
+  }
+]

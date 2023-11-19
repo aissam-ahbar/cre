@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12572129",
+    "mail": "creche.fourche@clamart.fr",
+    "distance": 6130,
+    "latitude": 48.812551705615654,
+    "telephone": "0141460592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FOURCHE",
+    "resultStructId": "18902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "216avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.271419642904701,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12525087",
+    "mail": "creche@lescoccinelles.org",
+    "distance": 6168,
+    "latitude": 48.811992437940006,
+    "telephone": "0155953561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOCCINELLES",
+    "resultStructId": "97608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de vanves",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2717298989143053,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12572215",
+    "mail": "creche.renaudin@clamart.fr",
+    "distance": 6469,
+    "latitude": 48.807712882200796,
+    "telephone": "0140959644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RENAUDIN",
+    "resultStructId": "208804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128rue marguerite renaudin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2741106396400945,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12572000",
+    "mail": "creche.boulard@clamart.fr",
+    "distance": 6469,
+    "latitude": 48.807712882200796,
+    "telephone": "0140959620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BOULARD",
+    "resultStructId": "237507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128rue marguerite renaudin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2741106396400945,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "44693852",
+    "mail": "crpercy@igesa.fr",
+    "distance": 6613,
+    "latitude": 48.81452151198836,
+    "telephone": "0141466860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILOTZ'ENFANTS",
+    "resultStructId": "708031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2575848487545143,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12525173",
+    "mail": "laparenthese2@wanadoo.fr",
+    "distance": 6659,
+    "latitude": 48.80585494733046,
+    "telephone": "0140959082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPARENTHESE",
+    "resultStructId": "994",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 avenue marguerite renaudin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2737680866393375,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12586835",
+    "mail": "",
+    "distance": 6664,
+    "latitude": 48.80818525033583,
+    "telephone": "0146420533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPIOUS PIOUS",
+    "resultStructId": "117101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.268178820296865,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "23343070",
+    "mail": "contact@happyeveil.com",
+    "distance": 6676,
+    "latitude": 48.808002082058046,
+    "telephone": "0768752510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYEVEIL - Les Dreamy",
+    "resultStructId": "96517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2682859057616485,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12590748",
+    "mail": "creche.jean-jaures@clamart.fr",
+    "distance": 7157,
+    "latitude": 48.80389562670305,
+    "telephone": "0141230585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JEANJAURES",
+    "resultStructId": "208806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.265758051097212,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12852471",
+    "mail": "clamart@babilou.com",
+    "distance": 7437,
+    "latitude": 48.80067872091223,
+    "telephone": "0146483215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOUTPETIT PAS",
+    "resultStructId": "8635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue chef de ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.266254256526998,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12572258",
+    "mail": "creche.sainte-emilie@clamart.fr",
+    "distance": 7553,
+    "latitude": 48.80128658064416,
+    "telephone": "0146623681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAINTEEMILIE",
+    "resultStructId": "681007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue du trosy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2619833764275317,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12636113",
+    "mail": "atelierpilotin@yahoo.fr",
+    "distance": 7585,
+    "latitude": 48.80363211589409,
+    "telephone": "0146380122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'éveil PILOTIN",
+    "resultStructId": "237017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue brignole galliera",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.256377661803165,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "13074961",
+    "mail": "creche.soleil-levant@clamart.fr",
+    "distance": 8650,
+    "latitude": 48.789558085479264,
+    "telephone": "0146833195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SOLEILLEVANT",
+    "resultStructId": "681008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.262245136972719,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "24521416",
+    "mail": "",
+    "distance": 10131,
+    "latitude": 48.781754108053455,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Too Doo Today",
+    "resultStructId": "25604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "381 avenue charles degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2429914266008066,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12590834",
+    "mail": "creche.normandie@clamart.fr",
+    "distance": 10156,
+    "latitude": 48.78358164333377,
+    "telephone": "0146308940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NORMANDIE",
+    "resultStructId": "208807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48rue de normandie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2384527447630744,
+    "ville": "clamart",
+    "cp": "92140"
+  },
+  {
+    "resultId": "12572172",
+    "mail": "creche.pave-blanc@clamart.fr",
+    "distance": 10219,
+    "latitude": 48.78283586674683,
+    "telephone": "0146017253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PAVEBLANC",
+    "resultStructId": "208802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 route du pave blanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2385479318432737,
+    "ville": "clamart",
+    "cp": "92140"
+  }
+]

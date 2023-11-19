@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12697955",
+    "mail": "microcreche.brionne@orange.fr",
+    "distance": 95047,
+    "latitude": 49.194316735580934,
+    "telephone": "0232434010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de la Vallée",
+    "resultStructId": "5012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7231188669591784,
+    "ville": "brionne",
+    "cp": "27800"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13061330",
+    "mail": "",
+    "distance": 157036,
+    "latitude": 48.7793353507533,
+    "telephone": "0158682065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Olympe de Gouges",
+    "resultStructId": "14491",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue elsa triolet 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.403323651450449,
+    "ville": "vitrysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "13061459",
+    "mail": "",
+    "distance": 157053,
+    "latitude": 48.80764553867882,
+    "telephone": "0174020047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche LPCR",
+    "resultStructId": "13495",
+    "omegaId": "12153",
+    "avip": false,
+    "adresse": "106 avenue anatole france 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4043826077133126,
+    "ville": "vitrysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "13061416",
+    "mail": "contact@babilou.com",
+    "distance": 7982,
+    "latitude": 48.799114698830586,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVitry Concorde",
+    "resultStructId": "544501",
+    "omegaId": "12152",
+    "avip": false,
+    "adresse": "37 rue de la concorde 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.384307351200288,
+    "ville": "vitrysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12544222",
+    "mail": "",
+    "distance": 8098,
+    "latitude": 48.79651403742223,
+    "telephone": "0149605060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jules Lagaisse",
+    "resultStructId": "14499",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue jules lagaisse 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.381397902535936,
+    "ville": "vitrysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "13061459",
+    "mail": "",
+    "distance": 8261,
+    "latitude": 48.80764553867882,
+    "telephone": "0174020047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche LPCR",
+    "resultStructId": "13495",
+    "omegaId": "12153",
+    "avip": false,
+    "adresse": "106 avenue anatole france 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4043826077133126,
+    "ville": "vitrysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12530849",
+    "mail": "",
+    "distance": 9927,
+    "latitude": 48.7844099025946,
+    "telephone": "0145732181",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil 8 Mai 1945 \"",
+    "resultStructId": "14495",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue du 8 mai 1945 94400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3987502097253017,
+    "ville": "vitrysurseine",
+    "cp": ""
+  }
+]

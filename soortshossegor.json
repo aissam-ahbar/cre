@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "21431230",
+    "mail": "",
+    "distance": 118613,
+    "latitude": 43.67092346851382,
+    "telephone": "0953097760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby Spote de Soorts-Hossegor",
+    "resultStructId": "15584",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des forgerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3842036360457077,
+    "ville": "soortshossegor",
+    "cp": "40150"
+  },
+  {
+    "resultId": "12679895",
+    "mail": "mpelaforet@hossegor.fr",
+    "distance": 121072,
+    "latitude": 43.663286363147805,
+    "telephone": "0558416224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance de Soorts-Hossegor",
+    "resultStructId": "4592",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 allee degascogne 40150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4151201067364978,
+    "ville": "soortshossegor",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12879432",
+    "mail": "halte-garderie-christellepousset@laposte.net",
+    "distance": 8588,
+    "latitude": 50.50747914946253,
+    "telephone": "0321777451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil municipal de Douvrin",
+    "resultStructId": "9262",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8280817966859244,
+    "ville": "douvrin",
+    "cp": "62138"
+  },
+  {
+    "resultId": "57202764",
+    "mail": "les-enfantins@outlook.fr",
+    "distance": 8763,
+    "latitude": 50.50820625201805,
+    "telephone": "0648528523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEnfantins",
+    "resultStructId": "673003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8302759309595467,
+    "ville": "douvrin",
+    "cp": "62138"
+  },
+  {
+    "resultId": "13025898",
+    "mail": "christelle-pousset@orange.fr",
+    "distance": 8766,
+    "latitude": 50.50843619912177,
+    "telephone": "0321777451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \" Les Lutins du Parc\"",
+    "resultStructId": "144701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue leonce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.830150489323542,
+    "ville": "douvrin",
+    "cp": "62138"
+  },
+  {
+    "resultId": "12879518",
+    "mail": "douvrin@rigolocommelavie.fr",
+    "distance": 9811,
+    "latitude": 50.510993574063704,
+    "telephone": "0321379419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilRigolo comme la vie- Douvrin",
+    "resultStructId": "9264",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue de madrid",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8446143991591084,
+    "ville": "douvrin",
+    "cp": "62138"
+  }
+]

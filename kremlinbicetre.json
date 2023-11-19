@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12539449",
+    "mail": "",
+    "distance": 5414,
+    "latitude": 48.815433083577844,
+    "telephone": "0146588087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Le Kremlin Bicetre 1 République",
+    "resultStructId": "15335",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenuedu docteur lacroix 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3582391834782856,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "57317532",
+    "mail": "",
+    "distance": 5667,
+    "latitude": 48.81231093274353,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CPLes Petits Cailloux",
+    "resultStructId": "674524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du 19/03/62 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.35686036308774,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "17502406",
+    "mail": "lespetitscoeurs@micro-baby.com",
+    "distance": 5707,
+    "latitude": 48.81488784738204,
+    "telephone": "0951506346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Coeurs",
+    "resultStructId": "619002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 impasse emile zola 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.364364469663845,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "12501523",
+    "mail": "",
+    "distance": 5767,
+    "latitude": 48.81235025595676,
+    "telephone": "0147263548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieMarie Claude Vaillant Couturier",
+    "resultStructId": "693804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la convention94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3597658128131718,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "12542889",
+    "mail": "",
+    "distance": 5908,
+    "latitude": 48.810575530594754,
+    "telephone": "0145215733",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Antoine de Saint Exupéry",
+    "resultStructId": "693805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 a 20 avenueeugene thomas 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.358894269179764,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "21177509",
+    "mail": "beatrice.simon@aphp.fr",
+    "distance": 5938,
+    "latitude": 48.80993755902449,
+    "telephone": "0145212262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crècheP'tits Loups - Hôpital Bicêtre",
+    "resultStructId": "15112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 rue du general leclerc94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3579491603444964,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "13056815",
+    "mail": "beatrice.simon@aphp.fr",
+    "distance": 5938,
+    "latitude": 48.80993755902449,
+    "telephone": "0145212262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Les Diablotins APHP",
+    "resultStructId": "15116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 rue du general leclerc94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3579491603444964,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "21178885",
+    "mail": "cecile.toulet@aphp.fr",
+    "distance": 5938,
+    "latitude": 48.80993755902449,
+    "telephone": "0145212769",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Marmousets Hôpital Bicêtre",
+    "resultStructId": "15120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 rue du general leclerc94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3579491603444964,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "12604508",
+    "mail": "",
+    "distance": 6081,
+    "latitude": 48.80746323057505,
+    "telephone": "0177623888",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits cailloux",
+    "resultStructId": "277401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue charles gide 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.354695376978354,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "50893790",
+    "mail": "familles+kremlin@berceaudesrois.fr",
+    "distance": 6370,
+    "latitude": 48.80825614801417,
+    "telephone": "0185461099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARLBDR 94 KREMLIN 27 BABEUF",
+    "resultStructId": "435006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue babeuf 94270 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.365442744636917,
+    "ville": "kremlinbicetre",
+    "cp": ""
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13029424",
+    "mail": "admin@tompousse.org",
+    "distance": 140703,
+    "latitude": 45.75000432052017,
+    "telephone": "0755626268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOMPOUSSE",
+    "resultStructId": "709802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg 23340 faux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.936619506114957,
+    "ville": "lamontagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12498384",
+    "mail": "",
+    "distance": 70960,
+    "latitude": 47.1914290122511,
+    "telephone": "0240657420",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 rue violin 44620",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.685466121806595,
+    "ville": "lamontagne",
+    "cp": ""
+  },
+  {
+    "resultId": "58379496",
+    "mail": "rilly-la-montagne@bullesetreves.com",
+    "distance": 60424,
+    "latitude": 49.16470008569803,
+    "telephone": "0310166915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bulleset Rêves Rilly la Montagne",
+    "resultStructId": "683902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ecoles 51500rilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.045203294101595,
+    "ville": "lamontagne",
+    "cp": ""
+  },
+  {
+    "resultId": "30975425",
+    "mail": "ilot-calins-u2af54@orange.fr",
+    "distance": 124232,
+    "latitude": 49.471392496558614,
+    "telephone": "0382442061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheL'ilot Câlins",
+    "resultStructId": "72201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue emile curicque 54920 villers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.822651779889194,
+    "ville": "lamontagne",
+    "cp": ""
+  },
+  {
+    "resultId": "13029424",
+    "mail": "admin@tompousse.org",
+    "distance": 231273,
+    "latitude": 45.75000432052017,
+    "telephone": "0755626268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOMPOUSSE",
+    "resultStructId": "709802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg 23340 faux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.936619506114957,
+    "ville": "lamontagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12498384",
+    "mail": "",
+    "distance": 70960,
+    "latitude": 47.1914290122511,
+    "telephone": "0240657420",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 rue violin 44620",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.685466121806595,
+    "ville": "lamontagne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "54719729",
+    "mail": "mcotourdumonde@gmail.com",
+    "distance": 38240,
+    "latitude": 50.813028094226716,
+    "telephone": "0971571495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OTOUR DU MONDE",
+    "resultStructId": "595101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 bis route de poperinghe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6336268341118974,
+    "ville": "steenvoorde",
+    "cp": "59114"
+  },
+  {
+    "resultId": "12635425",
+    "mail": "multiaccueilsteenvoorde@orange.fr",
+    "distance": 38718,
+    "latitude": 50.81001425143812,
+    "telephone": "0328501141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS GEANTS",
+    "resultStructId": "3558",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.578523264798358,
+    "ville": "steenvoorde",
+    "cp": "59114"
+  }
+]

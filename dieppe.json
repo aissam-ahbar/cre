@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12900330",
+    "mail": "crayons-de-couleurs@mairie-dieppe.fr",
+    "distance": 131187,
+    "latitude": 49.93008325034476,
+    "telephone": "0235066245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCrayons de Couleur",
+    "resultStructId": "197229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la rade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0829663671330105,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816644",
+    "mail": "",
+    "distance": 131199,
+    "latitude": 49.93004034906265,
+    "telephone": "0235066247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LETOBOGGAN - ESPACE FRANCOISE DOLTO",
+    "resultStructId": "197227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0828101241167236,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816429",
+    "mail": "",
+    "distance": 131199,
+    "latitude": 49.93004034906265,
+    "telephone": "0235066247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BATEAUJAUNE - ESPACE FRANCOISE DOLTO",
+    "resultStructId": "383702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la rade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0828101241167236,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816515",
+    "mail": "creche.moussaillon@orange.fr",
+    "distance": 131898,
+    "latitude": 49.92294565117628,
+    "telephone": "0235061015",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMoussaillons",
+    "resultStructId": "7799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 74 eme regiment d'infanterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12818622",
+    "mail": "crechefamiliale76@wanadoo.fr",
+    "distance": 131898,
+    "latitude": 49.92294565117628,
+    "telephone": "0235848644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE ACCUEIL & EVEIL EN FAMILLE",
+    "resultStructId": "686611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rue du 74emeregiment d'infanterie - residence lemeunier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816472",
+    "mail": "cheva-a-bacule@mairie-dieppe.fr",
+    "distance": 131898,
+    "latitude": 49.92294565117628,
+    "telephone": "0235066238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHEVALA BASCULE",
+    "resultStructId": "383601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue guy de maupassant neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76370"
+  },
+  {
+    "resultId": "13076810",
+    "mail": "oxygene-neuville@orange.fr",
+    "distance": 131898,
+    "latitude": 49.92294565117628,
+    "telephone": "0235848471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILOXYGENE",
+    "resultStructId": "672006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue claude debussy - neuville les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76370"
+  },
+  {
+    "resultId": "12816386",
+    "mail": "direction-petite-enfance@mairie-dieppe.fr",
+    "distance": 132245,
+    "latitude": 49.922666902405695,
+    "telephone": "0235066009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BALLONBLEU",
+    "resultStructId": "383202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0723634987224377,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816601",
+    "mail": "",
+    "distance": 132569,
+    "latitude": 49.905999422024685,
+    "telephone": "0235066238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'OursBrun",
+    "resultStructId": "197226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route du vallon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0813452121733609,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816601",
+    "mail": "",
+    "distance": 158615,
+    "latitude": 49.905999422024685,
+    "telephone": "0235066238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'OursBrun",
+    "resultStructId": "197226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route du vallon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0813452121733609,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816386",
+    "mail": "direction-petite-enfance@mairie-dieppe.fr",
+    "distance": 159406,
+    "latitude": 49.922666902405695,
+    "telephone": "0235066009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BALLONBLEU",
+    "resultStructId": "383202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0723634987224377,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816515",
+    "mail": "creche.moussaillon@orange.fr",
+    "distance": 159703,
+    "latitude": 49.92294565117628,
+    "telephone": "0235061015",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMoussaillons",
+    "resultStructId": "7799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 74 eme regiment d'infanterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12818622",
+    "mail": "crechefamiliale76@wanadoo.fr",
+    "distance": 159703,
+    "latitude": 49.92294565117628,
+    "telephone": "0235848644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE ACCUEIL & EVEIL EN FAMILLE",
+    "resultStructId": "686611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rue du 74emeregiment d'infanterie - residence lemeunier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "13076810",
+    "mail": "oxygene-neuville@orange.fr",
+    "distance": 159703,
+    "latitude": 49.92294565117628,
+    "telephone": "0235848471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILOXYGENE",
+    "resultStructId": "672006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue claude debussy - neuville les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76370"
+  },
+  {
+    "resultId": "12816472",
+    "mail": "cheva-a-bacule@mairie-dieppe.fr",
+    "distance": 159703,
+    "latitude": 49.92294565117628,
+    "telephone": "0235066238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHEVALA BASCULE",
+    "resultStructId": "383601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue guy de maupassant neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.077640388701996,
+    "ville": "dieppe",
+    "cp": "76370"
+  },
+  {
+    "resultId": "12816644",
+    "mail": "",
+    "distance": 160512,
+    "latitude": 49.93004034906265,
+    "telephone": "0235066247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LETOBOGGAN - ESPACE FRANCOISE DOLTO",
+    "resultStructId": "197227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0828101241167236,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12816429",
+    "mail": "",
+    "distance": 160512,
+    "latitude": 49.93004034906265,
+    "telephone": "0235066247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BATEAUJAUNE - ESPACE FRANCOISE DOLTO",
+    "resultStructId": "383702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la rade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0828101241167236,
+    "ville": "dieppe",
+    "cp": "76200"
+  },
+  {
+    "resultId": "12900330",
+    "mail": "crayons-de-couleurs@mairie-dieppe.fr",
+    "distance": 160524,
+    "latitude": 49.93008325034476,
+    "telephone": "0235066245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCrayons de Couleur",
+    "resultStructId": "197229",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de la rade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0829663671330105,
+    "ville": "dieppe",
+    "cp": "76200"
+  }
+]

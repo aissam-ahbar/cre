@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "48001531",
+    "mail": "",
+    "distance": 200491,
+    "latitude": 48.805101227222686,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS CIEL",
+    "resultStructId": "678506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de boissy 78940la queue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.775227255109407,
+    "ville": "lesyvelines",
+    "cp": ""
+  },
+  {
+    "resultId": "25666713",
+    "mail": "",
+    "distance": 200498,
+    "latitude": 48.805167715741774,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS CORAIL",
+    "resultStructId": "678507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route de boissy 78940la queue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.775114711482786,
+    "ville": "lesyvelines",
+    "cp": ""
+  },
+  {
+    "resultId": "25666713",
+    "mail": "",
+    "distance": 168238,
+    "latitude": 48.805167715741774,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS CORAIL",
+    "resultStructId": "678507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route de boissy 78940la queue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.775114711482786,
+    "ville": "lesyvelines",
+    "cp": ""
+  },
+  {
+    "resultId": "48001531",
+    "mail": "",
+    "distance": 168247,
+    "latitude": 48.805101227222686,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS CIEL",
+    "resultStructId": "678506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de boissy 78940la queue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.775227255109407,
+    "ville": "lesyvelines",
+    "cp": ""
+  }
+]

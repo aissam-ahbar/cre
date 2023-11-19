@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12624030",
+    "mail": "",
+    "distance": 168028,
+    "latitude": 48.99405388022024,
+    "telephone": "0134447000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeChalet Pom'Pouce",
+    "resultStructId": "139403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 bis rue des pommiers saulniers95130 franconville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.242338304321601,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609281",
+    "mail": "",
+    "distance": 8480,
+    "latitude": 48.93312647904828,
+    "telephone": "0147945370",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LECHAT BOTTE",
+    "resultStructId": "707222",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "191 boulevard gallieni 92390 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.332515555796312,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12608679",
+    "mail": "",
+    "distance": 8747,
+    "latitude": 48.93533951367755,
+    "telephone": "0147944476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL LA FARANDOLE",
+    "resultStructId": "240802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 quai d' asnieres 92390villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3352510453909026,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609324",
+    "mail": "",
+    "distance": 9047,
+    "latitude": 48.93854301635259,
+    "telephone": "0147981960",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESMOUSSAILLONS",
+    "resultStructId": "707224",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "41 boulevard charles de gaulle 92390villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3266813620876734,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609453",
+    "mail": "",
+    "distance": 9047,
+    "latitude": 48.93854301635259,
+    "telephone": "0147988777",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESMOUSSAILLONS (halte-garderie)",
+    "resultStructId": "707226",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "41 boulevard charles degaulle 92390 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3266813620876734,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609238",
+    "mail": "",
+    "distance": 9290,
+    "latitude": 48.9406385175747,
+    "telephone": "0147946145",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESRAINETTES",
+    "resultStructId": "707221",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "70 avenue jean moulin 92390 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.329078850717456,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609367",
+    "mail": "",
+    "distance": 9637,
+    "latitude": 48.943806513908534,
+    "telephone": "0141474185",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAAQUARELLE",
+    "resultStructId": "707225",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 avenue du ponant 92390 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3280109866751584,
+    "ville": "lagarenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12609496",
+    "mail": "",
+    "distance": 9637,
+    "latitude": 48.943806513908534,
+    "telephone": "0141473025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AQUARELLE(halte-garderie)",
+    "resultStructId": "2955",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue du ponant 92390 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3280109866751584,
+    "ville": "lagarenne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58100106",
+    "mail": "a.duranton@portededromardeche.fr",
+    "distance": 191402,
+    "latitude": 45.2694743534033,
+    "telephone": "0475235347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Anneyron",
+    "resultStructId": "682820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse celestin freinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.88659129555218,
+    "ville": "anneyron",
+    "cp": "26140"
+  },
+  {
+    "resultId": "58100106",
+    "mail": "a.duranton@portededromardeche.fr",
+    "distance": 173105,
+    "latitude": 45.2694743534033,
+    "telephone": "0475235347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Anneyron",
+    "resultStructId": "682820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse celestin freinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.88659129555218,
+    "ville": "anneyron",
+    "cp": "26140"
+  }
+]

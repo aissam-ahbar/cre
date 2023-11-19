@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12797552",
+    "mail": "cre-558@babilou.com",
+    "distance": 199329,
+    "latitude": 45.21757324775903,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint Viance Frênes",
+    "resultStructId": "686916",
+    "omegaId": "50623",
+    "avip": false,
+    "adresse": "4 rue des frenes. zone de lanau. 19240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4526422553822473,
+    "ville": "stviance",
+    "cp": ""
+  },
+  {
+    "resultId": "57412911",
+    "mail": "cre-558@babilou.com",
+    "distance": 163950,
+    "latitude": 45.189266376789085,
+    "telephone": "0555226142",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint Viance Frênes",
+    "resultStructId": "675501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des frenes 19240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4676843875396375,
+    "ville": "stviance",
+    "cp": ""
+  },
+  {
+    "resultId": "12797552",
+    "mail": "cre-558@babilou.com",
+    "distance": 164778,
+    "latitude": 45.21757324775903,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint Viance Frênes",
+    "resultStructId": "686916",
+    "omegaId": "50623",
+    "avip": false,
+    "adresse": "4 rue des frenes. zone de lanau. 19240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4526422553822473,
+    "ville": "stviance",
+    "cp": ""
+  }
+]

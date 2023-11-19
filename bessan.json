@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59295949",
+    "mail": "contact@babydoc.fr",
+    "distance": 99143,
+    "latitude": 43.36146141391363,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHECESAR ET CAPUCINE",
+    "resultStructId": "695010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du mail de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.427675465888048,
+    "ville": "bessan",
+    "cp": "34550"
+  },
+  {
+    "resultId": "12779750",
+    "mail": "crechelesbambins@admr34.fr",
+    "distance": 100436,
+    "latitude": 43.372093750270224,
+    "telephone": "0467008115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL LES BAMBINS DEBESSAN",
+    "resultStructId": "689909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de montblanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.407965699755288,
+    "ville": "bessan",
+    "cp": "34550"
+  },
+  {
+    "resultId": "59295949",
+    "mail": "contact@babydoc.fr",
+    "distance": 46127,
+    "latitude": 43.36146141391363,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHECESAR ET CAPUCINE",
+    "resultStructId": "695010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du mail de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.427675465888048,
+    "ville": "bessan",
+    "cp": "34550"
+  },
+  {
+    "resultId": "12779750",
+    "mail": "crechelesbambins@admr34.fr",
+    "distance": 46791,
+    "latitude": 43.372093750270224,
+    "telephone": "0467008115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF ET FAMILIAL LES BAMBINS DEBESSAN",
+    "resultStructId": "689909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de montblanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.407965699755288,
+    "ville": "bessan",
+    "cp": "34550"
+  }
+]

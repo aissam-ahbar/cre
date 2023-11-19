@@ -1,0 +1,650 @@
+[
+  {
+    "resultId": "12733439",
+    "mail": "lespetitescanaillescreche@gmail.com",
+    "distance": 157906,
+    "latitude": 44.542590352197045,
+    "telephone": "0492533546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites Canailles",
+    "resultStructId": "685911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 route des eyssagnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.050018386034807,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733525",
+    "mail": "creche.tompouce@ville-gap.fr",
+    "distance": 158683,
+    "latitude": 44.54630736471847,
+    "telephone": "0492536460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"TOM POUCE\"",
+    "resultStructId": "5869",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des narcisses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.058575156169488,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12923378",
+    "mail": "gap@creche-la-maison-bleue.fr",
+    "distance": 160087,
+    "latitude": 44.55771682015634,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capriss- La Maison Bleue",
+    "resultStructId": "10284",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route ancienne route de veynes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.067833776504011,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733568",
+    "mail": "creche.pountinela@ville-gap.fr",
+    "distance": 160910,
+    "latitude": 44.55995090748651,
+    "telephone": "0492516913",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LA POUNTINELA\"",
+    "resultStructId": "5870",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0791647526377615,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733482",
+    "mail": "creche.pins@ville-gap.fr",
+    "distance": 161060,
+    "latitude": 44.564321494327935,
+    "telephone": "0492510352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LES PINS\"",
+    "resultStructId": "5868",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.075960265677249,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733310",
+    "mail": "creche.familiale@ville-gap.fr",
+    "distance": 161465,
+    "latitude": 44.56029872008278,
+    "telephone": "0492532698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"LE PETIT CHEMIN\"",
+    "resultStructId": "5864",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088314457738824,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733740",
+    "mail": "jardin.enfants@ville-gap.fr",
+    "distance": 161475,
+    "latitude": 44.560367532673666,
+    "telephone": "0492202042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants - Les Frimousses",
+    "resultStructId": "5874",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088388229494428,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733353",
+    "mail": "petits.lutins@wanadoo.fr",
+    "distance": 161703,
+    "latitude": 44.56126713893611,
+    "telephone": "0492534263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Association\"Les Petits Lutins\" Structure multi-accueil",
+    "resultStructId": "338301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.091146722576547,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733396",
+    "mail": "bullesdenfants@gmail.com",
+    "distance": 161736,
+    "latitude": 44.56821545587748,
+    "telephone": "0492562411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBulles d'enfants",
+    "resultStructId": "713007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des cheminots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.082549059269066,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733353",
+    "mail": "petits.lutins@wanadoo.fr",
+    "distance": 362317,
+    "latitude": 44.56126713893611,
+    "telephone": "0492534263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Association\"Les Petits Lutins\" Structure multi-accueil",
+    "resultStructId": "338301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.091146722576547,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733310",
+    "mail": "creche.familiale@ville-gap.fr",
+    "distance": 362393,
+    "latitude": 44.56029872008278,
+    "telephone": "0492532698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"LE PETIT CHEMIN\"",
+    "resultStructId": "5864",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088314457738824,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733740",
+    "mail": "jardin.enfants@ville-gap.fr",
+    "distance": 362395,
+    "latitude": 44.560367532673666,
+    "telephone": "0492202042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants - Les Frimousses",
+    "resultStructId": "5874",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088388229494428,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733568",
+    "mail": "creche.pountinela@ville-gap.fr",
+    "distance": 362863,
+    "latitude": 44.55995090748651,
+    "telephone": "0492516913",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LA POUNTINELA\"",
+    "resultStructId": "5870",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0791647526377615,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733525",
+    "mail": "creche.tompouce@ville-gap.fr",
+    "distance": 362890,
+    "latitude": 44.54630736471847,
+    "telephone": "0492536460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"TOM POUCE\"",
+    "resultStructId": "5869",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des narcisses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.058575156169488,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733439",
+    "mail": "lespetitescanaillescreche@gmail.com",
+    "distance": 363062,
+    "latitude": 44.542590352197045,
+    "telephone": "0492533546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites Canailles",
+    "resultStructId": "685911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 route des eyssagnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.050018386034807,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12923378",
+    "mail": "gap@creche-la-maison-bleue.fr",
+    "distance": 363301,
+    "latitude": 44.55771682015634,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capriss- La Maison Bleue",
+    "resultStructId": "10284",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route ancienne route de veynes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.067833776504011,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733396",
+    "mail": "bullesdenfants@gmail.com",
+    "distance": 363347,
+    "latitude": 44.56821545587748,
+    "telephone": "0492562411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBulles d'enfants",
+    "resultStructId": "713007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des cheminots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.082549059269066,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733482",
+    "mail": "creche.pins@ville-gap.fr",
+    "distance": 363390,
+    "latitude": 44.564321494327935,
+    "telephone": "0492510352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LES PINS\"",
+    "resultStructId": "5868",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.075960265677249,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733439",
+    "mail": "lespetitescanaillescreche@gmail.com",
+    "distance": 65149,
+    "latitude": 44.542590352197045,
+    "telephone": "0492533546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tites Canailles",
+    "resultStructId": "685911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 route des eyssagnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.050018386034807,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733525",
+    "mail": "creche.tompouce@ville-gap.fr",
+    "distance": 65556,
+    "latitude": 44.54630736471847,
+    "telephone": "0492536460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"TOM POUCE\"",
+    "resultStructId": "5869",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des narcisses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.058575156169488,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12923378",
+    "mail": "gap@creche-la-maison-bleue.fr",
+    "distance": 66825,
+    "latitude": 44.55771682015634,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capriss- La Maison Bleue",
+    "resultStructId": "10284",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route ancienne route de veynes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.067833776504011,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733568",
+    "mail": "creche.pountinela@ville-gap.fr",
+    "distance": 67086,
+    "latitude": 44.55995090748651,
+    "telephone": "0492516913",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LA POUNTINELA\"",
+    "resultStructId": "5870",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0791647526377615,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733310",
+    "mail": "creche.familiale@ville-gap.fr",
+    "distance": 67143,
+    "latitude": 44.56029872008278,
+    "telephone": "0492532698",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"LE PETIT CHEMIN\"",
+    "resultStructId": "5864",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088314457738824,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733740",
+    "mail": "jardin.enfants@ville-gap.fr",
+    "distance": 67151,
+    "latitude": 44.560367532673666,
+    "telephone": "0492202042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants - Les Frimousses",
+    "resultStructId": "5874",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.088388229494428,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733353",
+    "mail": "petits.lutins@wanadoo.fr",
+    "distance": 67258,
+    "latitude": 44.56126713893611,
+    "telephone": "0492534263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Association\"Les Petits Lutins\" Structure multi-accueil",
+    "resultStructId": "338301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16boulevard bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.091146722576547,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733482",
+    "mail": "creche.pins@ville-gap.fr",
+    "distance": 67567,
+    "latitude": 44.564321494327935,
+    "telephone": "0492510352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"LES PINS\"",
+    "resultStructId": "5868",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.075960265677249,
+    "ville": "gap",
+    "cp": "05000"
+  },
+  {
+    "resultId": "12733396",
+    "mail": "bullesdenfants@gmail.com",
+    "distance": 68011,
+    "latitude": 44.56821545587748,
+    "telephone": "0492562411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBulles d'enfants",
+    "resultStructId": "713007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des cheminots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.082549059269066,
+    "ville": "gap",
+    "cp": "05000"
+  }
+]

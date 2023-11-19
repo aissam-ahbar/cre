@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12483197",
+    "mail": "larondedesmoulins@orange.fr",
+    "distance": 150153,
+    "latitude": 49.08936498586417,
+    "telephone": "0134682350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "18",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des joncs 95470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.563187714711821,
+    "ville": "stwitz",
+    "cp": ""
+  },
+  {
+    "resultId": "12483197",
+    "mail": "larondedesmoulins@orange.fr",
+    "distance": 154306,
+    "latitude": 49.08936498586417,
+    "telephone": "0134682350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "18",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des joncs 95470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.563187714711821,
+    "ville": "stwitz",
+    "cp": ""
+  }
+]

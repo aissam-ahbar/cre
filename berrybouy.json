@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12808775",
+    "mail": "creche.berry-bouy@orange.fr",
+    "distance": 141525,
+    "latitude": 47.108749040726856,
+    "telephone": "0248268743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Pomme d'Api",
+    "resultStructId": "7619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 place st aignan 18500",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2916790153208946,
+    "ville": "berrybouy",
+    "cp": ""
+  },
+  {
+    "resultId": "12808775",
+    "mail": "creche.berry-bouy@orange.fr",
+    "distance": 47662,
+    "latitude": 47.108749040726856,
+    "telephone": "0248268743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Pomme d'Api",
+    "resultStructId": "7619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 place st aignan 18500",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2916790153208946,
+    "ville": "berrybouy",
+    "cp": ""
+  }
+]

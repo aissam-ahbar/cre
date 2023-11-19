@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12620332",
+    "mail": "bserre.creche@gmail.com",
+    "distance": 224711,
+    "latitude": 45.217831793092124,
+    "telephone": "0471687445",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Ocom 3 pom",
+    "resultStructId": "710110",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "10 rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.332404204165309,
+    "ville": "mauriac",
+    "cp": "15200"
+  }
+]

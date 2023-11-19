@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "30674361",
+    "mail": "brindemalice@acolea-asso.fr",
+    "distance": 150645,
+    "latitude": 45.92643034937443,
+    "telephone": "0474717245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Brin de Malice",
+    "resultStructId": "706601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "180 rue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.604835681659862,
+    "ville": "moire",
+    "cp": "69620"
+  },
+  {
+    "resultId": "12915079",
+    "mail": "",
+    "distance": 150851,
+    "latitude": 45.926094987805044,
+    "telephone": "0474717245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Ribambelle",
+    "resultStructId": "10091",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.614441408579431,
+    "ville": "moire",
+    "cp": "69620"
+  },
+  {
+    "resultId": "12914907",
+    "mail": "laptiteribambelle@slea.asso.fr",
+    "distance": 150851,
+    "latitude": 45.926094987805044,
+    "telephone": "0474717245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchep'tite ribambelle",
+    "resultStructId": "10087",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.614441408579431,
+    "ville": "moire",
+    "cp": "69620"
+  }
+]

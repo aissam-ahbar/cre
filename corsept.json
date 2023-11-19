@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12495280",
+    "mail": "multiaccueil.tompouce@cc-sudestuaire.fr",
+    "distance": 89817,
+    "latitude": 47.27876324395986,
+    "telephone": "0240393127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "299",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des tamaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0660967176214147,
+    "ville": "corsept",
+    "cp": "44560"
+  },
+  {
+    "resultId": "12495280",
+    "mail": "multiaccueil.tompouce@cc-sudestuaire.fr",
+    "distance": 89817,
+    "latitude": 47.27876324395986,
+    "telephone": "0240393127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "299",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des tamaris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0660967176214147,
+    "ville": "corsept",
+    "cp": "44560"
+  }
+]

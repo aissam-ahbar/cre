@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "12648067",
+    "mail": "association.lespetitsdauphins@orange.fr",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0692346923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Dauphins",
+    "resultStructId": "63903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 ruelle riviere - shlmr groupeariane ii 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637618",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChaloupe",
+    "resultStructId": "63904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin vaudeville - la chaloupe 97416",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637661",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheColimaçons",
+    "resultStructId": "64001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue jean-baptiste de villele - lescolimacons 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637575",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheEtang",
+    "resultStructId": "64002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 chemin crescence - cd 13 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13003530",
+    "mail": "valeriecillon2@gmail.com",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0692954639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLilikadok",
+    "resultStructId": "64004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue des cocotiers – la pointe deschateaux 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13075821",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go « Portail 2 »",
+    "resultStructId": "36969",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon - pitonsaint-leu 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13075778",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 1422871,
+    "latitude": -21.16622282119252,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go « Portail 1 »",
+    "resultStructId": "36968",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon - pitonst-leu 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13003444",
+    "mail": "valeriecillon2@gmail.com",
+    "distance": 1423489,
+    "latitude": -21.174792785836626,
+    "telephone": "0692954639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLeu Lagon",
+    "resultStructId": "64005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue du lagon 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28713240724208,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12732665",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 1424293,
+    "latitude": -21.183188718590316,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Pêcheurs 1",
+    "resultStructId": "36966",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 lotissement lelievre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28982292954478,
+    "ville": "stleu",
+    "cp": "97436"
+  },
+  {
+    "resultId": "12732708",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 1424293,
+    "latitude": -21.183188718590316,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Pêcheurs 2",
+    "resultStructId": "36967",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 lotissement lelievre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28982292954478,
+    "ville": "stleu",
+    "cp": "97436"
+  },
+  {
+    "resultId": "56956485",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1424404,
+    "latitude": -21.1467366013776,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChaloupe",
+    "resultStructId": "669501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 chemin vaudeville 97416",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.32271836612057,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "56950881",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 1426268,
+    "latitude": -21.18996101096774,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePortail 3",
+    "resultStructId": "668401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30844908235428,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "30462337",
+    "mail": "galabets@babyland.re",
+    "distance": 1426840,
+    "latitude": -21.20924930713793,
+    "telephone": "0262578095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galabets",
+    "resultStructId": "64003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 chemin de l'ecole 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29879702175244,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "57530231",
+    "mail": "lileauxbabas@gmail.com",
+    "distance": 1427968,
+    "latitude": -21.22078229300933,
+    "telephone": "0692429600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'île aux Babas",
+    "resultStructId": "676401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin de l'usine 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30277576451634,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "59162019",
+    "mail": "lileauxbabas@gmail.com",
+    "distance": 1427968,
+    "latitude": -21.22078229300933,
+    "telephone": "0262952646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'île aux Babas",
+    "resultStructId": "693308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de l'usine 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30277576451634,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "56956485",
+    "mail": "lmaleck@babyland.re",
+    "distance": 35235,
+    "latitude": -21.1467366013776,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChaloupe",
+    "resultStructId": "669501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 chemin vaudeville 97416",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.32271836612057,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12648067",
+    "mail": "association.lespetitsdauphins@orange.fr",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0692346923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Dauphins",
+    "resultStructId": "63903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 ruelle riviere - shlmr groupeariane ii 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637618",
+    "mail": "lmaleck@babyland.re",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChaloupe",
+    "resultStructId": "63904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin vaudeville - la chaloupe 97416",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637661",
+    "mail": "lmaleck@babyland.re",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheColimaçons",
+    "resultStructId": "64001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue jean-baptiste de villele - lescolimacons 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12637575",
+    "mail": "lmaleck@babyland.re",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0262259210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheEtang",
+    "resultStructId": "64002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 chemin crescence - cd 13 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13003530",
+    "mail": "valeriecillon2@gmail.com",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0692954639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLilikadok",
+    "resultStructId": "64004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue des cocotiers – la pointe deschateaux 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13075821",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go « Portail 2 »",
+    "resultStructId": "36969",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon - pitonsaint-leu 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13075778",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 39286,
+    "latitude": -21.16622282119252,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go « Portail 1 »",
+    "resultStructId": "36968",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon - pitonst-leu 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28690547986723,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "56950881",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 39946,
+    "latitude": -21.18996101096774,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePortail 3",
+    "resultStructId": "668401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 lotissement lebon 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30844908235428,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "13003444",
+    "mail": "valeriecillon2@gmail.com",
+    "distance": 39992,
+    "latitude": -21.174792785836626,
+    "telephone": "0692954639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLeu Lagon",
+    "resultStructId": "64005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue du lagon 97436",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28713240724208,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "12732665",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 40532,
+    "latitude": -21.183188718590316,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Pêcheurs 1",
+    "resultStructId": "36966",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 lotissement lelievre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28982292954478,
+    "ville": "stleu",
+    "cp": "97436"
+  },
+  {
+    "resultId": "12732708",
+    "mail": "bienvenue@creche-and-go.fr",
+    "distance": 40532,
+    "latitude": -21.183188718590316,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Pêcheurs 2",
+    "resultStructId": "36967",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 lotissement lelievre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.28982292954478,
+    "ville": "stleu",
+    "cp": "97436"
+  },
+  {
+    "resultId": "30462337",
+    "mail": "galabets@babyland.re",
+    "distance": 42270,
+    "latitude": -21.20924930713793,
+    "telephone": "0262578095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galabets",
+    "resultStructId": "64003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 chemin de l'ecole 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.29879702175244,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "57530231",
+    "mail": "lileauxbabas@gmail.com",
+    "distance": 43085,
+    "latitude": -21.22078229300933,
+    "telephone": "0692429600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'île aux Babas",
+    "resultStructId": "676401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin de l'usine 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30277576451634,
+    "ville": "stleu",
+    "cp": ""
+  },
+  {
+    "resultId": "59162019",
+    "mail": "lileauxbabas@gmail.com",
+    "distance": 43085,
+    "latitude": -21.22078229300933,
+    "telephone": "0262952646",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'île aux Babas",
+    "resultStructId": "693308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de l'usine 97424",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30277576451634,
+    "ville": "stleu",
+    "cp": ""
+  }
+]

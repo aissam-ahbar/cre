@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "13042840",
+    "mail": "lanounourserie.moissey@orange.fr",
+    "distance": 103630,
+    "latitude": 47.19763842543843,
+    "telephone": "0384695398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilcollectif \"La Nounourserie\" -MOISSEY",
+    "resultStructId": "713013",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-23",
+    "adresse": "2 impasse desjardins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.52384064298976,
+    "ville": "moissey",
+    "cp": "39290"
+  }
+]

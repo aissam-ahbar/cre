@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12724968",
+    "mail": "petit.poucet@lechesnay-rocquencourt.fr",
+    "distance": 193270,
+    "latitude": 48.828526547034535,
+    "telephone": "0139553749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE PETIT POUCET",
+    "resultStructId": "685907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 avenue charles de gaulle78150 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.121316828905953,
+    "ville": "chesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "12591264",
+    "mail": "ch.versailles@lpcr.fr",
+    "distance": 193450,
+    "latitude": 48.83227717574748,
+    "telephone": "0139639046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE HOSPITALIERE - VERSAILLES AUBERT",
+    "resultStructId": "683429",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis ruejean louis forain 78150 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.124213930441386,
+    "ville": "chesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "58015205",
+    "mail": "lechesnay.saintantoine@lpcr.fr",
+    "distance": 193569,
+    "latitude": 48.81737242746196,
+    "telephone": "0139532514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - KIDDIES SAINT ANTOINE",
+    "resultStructId": "681828",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 ter boulevard saintantoine 78150 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.124074238285367,
+    "ville": "chesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "12725011",
+    "mail": "cypres@lechesnay-rocquencourt.fr",
+    "distance": 193569,
+    "latitude": 48.82254783245192,
+    "telephone": "0139542431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES CYPRES",
+    "resultStructId": "685908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue cimarosa 78150 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.124712279614261,
+    "ville": "chesnayrocquencourt",
+    "cp": ""
+  },
+  {
+    "resultId": "47696169",
+    "mail": "cre-488@babilou.com",
+    "distance": 193700,
+    "latitude": 48.817936647265405,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES CHESANY LES 2 FRERES",
+    "resultStructId": "689803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de la celle78150 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1259399499333997,
+    "ville": "chesnayrocquencourt",
+    "cp": ""
+  }
+]

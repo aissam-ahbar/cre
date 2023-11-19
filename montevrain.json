@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12761346",
+    "mail": "montevrain@babilou.com",
+    "distance": 131022,
+    "latitude": 48.854324110637144,
+    "telephone": "0160361284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Montévrain",
+    "resultStructId": "6516",
+    "omegaId": "9446",
+    "avip": false,
+    "adresse": "14-16 allee de dublin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.765405446151905,
+    "ville": "montevrain",
+    "cp": "77144"
+  },
+  {
+    "resultId": "12761260",
+    "mail": "crechedesfrenes@mairie-montevrain.fr",
+    "distance": 131620,
+    "latitude": 48.866334472159785,
+    "telephone": "0160541904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Frênes",
+    "resultStructId": "684828",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue de la societe des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7589929635950727,
+    "ville": "montevrain",
+    "cp": "77144"
+  },
+  {
+    "resultId": "12761432",
+    "mail": "sferrand@groupejdm.fr",
+    "distance": 131630,
+    "latitude": 48.85702908040846,
+    "telephone": "0164441085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin des Merveilles",
+    "resultStructId": "85110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de berlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7574582580872065,
+    "ville": "montevrain",
+    "cp": "77144"
+  },
+  {
+    "resultId": "13025339",
+    "mail": "contact@kidsup.fr",
+    "distance": 132282,
+    "latitude": 48.8748972084675,
+    "telephone": "0146382896",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheKids'Up Marguerite",
+    "resultStructId": "109501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue du bois carre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7512651487072004,
+    "ville": "montevrain",
+    "cp": "77144"
+  },
+  {
+    "resultId": "12989469",
+    "mail": "lepetitatelier77@gmail.com",
+    "distance": 132411,
+    "latitude": 48.87156729152278,
+    "telephone": "0967266065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Petit Atelier",
+    "resultStructId": "11821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 rue du puits du gue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7489509128293705,
+    "ville": "montevrain",
+    "cp": "77144"
+  }
+]

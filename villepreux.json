@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "38271633",
+    "mail": "contact@creches-plume.fr",
+    "distance": 183393,
+    "latitude": 48.83449922584239,
+    "telephone": "0983310782",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - PLUME VILLEPREUX",
+    "resultStructId": "699310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue de vaugirard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9866818993178195,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "12528656",
+    "mail": "ines.goumidi@villepreux.fr",
+    "distance": 183964,
+    "latitude": 48.83014840424792,
+    "telephone": "0130809285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES COQUELICOTS",
+    "resultStructId": "704304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue sonia delaunay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9940090247610662,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "27903953",
+    "mail": "villepreux1@creche-la-maison-bleue.fr",
+    "distance": 184010,
+    "latitude": 48.83042497750603,
+    "telephone": "0134610553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - CRECH'ENDO",
+    "resultStructId": "687511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue sonia delaunay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.994663394206835,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "48758101",
+    "mail": "villepreux@lescolories.fr",
+    "distance": 184254,
+    "latitude": 48.832759522975266,
+    "telephone": "0648476039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES COLORIES DE VILLEPREUX",
+    "resultStructId": "707016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.99828413510119,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "12528742",
+    "mail": "ines.goumidi@villepreux.fr",
+    "distance": 184781,
+    "latitude": 48.8300284572286,
+    "telephone": "0670854203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES EXPLORATEURS",
+    "resultStructId": "704305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du general degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.005182896116542,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "59720548",
+    "mail": "cre-702@babilou.fr",
+    "distance": 185004,
+    "latitude": 48.817543807042505,
+    "telephone": "0176311600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABILOU VILLEPREUX ENTREPRENEURS 1",
+    "resultStructId": "699309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue desentrepreneurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0067192520436907,
+    "ville": "villepreux",
+    "cp": "78450"
+  },
+  {
+    "resultId": "12816171",
+    "mail": "cre-703@babilou.fr",
+    "distance": 185004,
+    "latitude": 48.817543807042505,
+    "telephone": "0130514662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE- BABILOU VILLEPREUX ENTREPRENEURS 2",
+    "resultStructId": "699308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue desentrepreneurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0067192520436907,
+    "ville": "villepreux",
+    "cp": "78450"
+  }
+]

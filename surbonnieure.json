@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12680411",
+    "mail": "francoise.vincent@charente-limousine.fr",
+    "distance": 161516,
+    "latitude": 45.8263791864464,
+    "telephone": "0612973592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Drôles\"",
+    "resultStructId": "691008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue sainte barbe 16260chasseneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4466145045218499,
+    "ville": "surbonnieure",
+    "cp": ""
+  },
+  {
+    "resultId": "12730601",
+    "mail": "lesptitsloups.chasseneuil@gmail.com",
+    "distance": 163217,
+    "latitude": 45.8032936614245,
+    "telephone": "0545380145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Loups 3\"",
+    "resultStructId": "188614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 lotissement le pre du breuil16260 chasseneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4555936121736337,
+    "ville": "surbonnieure",
+    "cp": ""
+  },
+  {
+    "resultId": "12730601",
+    "mail": "lesptitsloups.chasseneuil@gmail.com",
+    "distance": 170800,
+    "latitude": 45.8032936614245,
+    "telephone": "0545380145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Loups 3\"",
+    "resultStructId": "188614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 lotissement le pre du breuil16260 chasseneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4555936121736337,
+    "ville": "surbonnieure",
+    "cp": ""
+  },
+  {
+    "resultId": "12680411",
+    "mail": "francoise.vincent@charente-limousine.fr",
+    "distance": 173012,
+    "latitude": 45.8263791864464,
+    "telephone": "0612973592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les P'tits Drôles\"",
+    "resultStructId": "691008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue sainte barbe 16260chasseneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4466145045218499,
+    "ville": "surbonnieure",
+    "cp": ""
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12879389",
+    "mail": "g.lecoustre@tremblayenfrance.fr",
+    "distance": 144744,
+    "latitude": 48.943198915026464,
+    "telephone": "0148618789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Marelle",
+    "resultStructId": "465701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 rue du limousin 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.592931992990249,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "59944411",
+    "mail": "",
+    "distance": 146479,
+    "latitude": 48.951207909120384,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouTremblay en France",
+    "resultStructId": "701708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du buisson centre commercialaeroville 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5707663101580946,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879217",
+    "mail": "s.seurot@tremblayenfrance.fr",
+    "distance": 146618,
+    "latitude": 48.94558805762169,
+    "telephone": "0148618791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Anne Frank",
+    "resultStructId": "465401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue leon tolstoi 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5675307600588924,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879303",
+    "mail": "l.dietler@tremblayenfrance.fr",
+    "distance": 146779,
+    "latitude": 48.9497743007234,
+    "telephone": "0148618788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Louise Michel",
+    "resultStructId": "466701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 cour de la republique 93290tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.56627234171955,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12896460",
+    "mail": "roissy@creche-la-maison-bleue.fr",
+    "distance": 148306,
+    "latitude": 49.009803143977734,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison Bleue \"Mignonette\"",
+    "resultStructId": "701962",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la haye 93290tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.561221785126984,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "33611994",
+    "mail": "info@lespetitescanailles.fr",
+    "distance": 150582,
+    "latitude": 48.99163513775256,
+    "telephone": "0158834837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES CANAILLES - LPC AEROVILLE",
+    "resultStructId": "109403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des buissons93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5241716363185542,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "60063567",
+    "mail": "emacf@ville-roissy95.fr",
+    "distance": 151764,
+    "latitude": 49.00405195244511,
+    "telephone": "0134298018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EMACF- Les Petits Koalas",
+    "resultStructId": "703908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700 roissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12886484",
+    "mail": "contact@kidsup.fr",
+    "distance": 153096,
+    "latitude": 49.00592616263049,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kids'upRéglisse ROISSY EN FRANCE",
+    "resultStructId": "9426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la demi-lune 95700roissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.493165530654158,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12896460",
+    "mail": "roissy@creche-la-maison-bleue.fr",
+    "distance": 163141,
+    "latitude": 49.009803143977734,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison Bleue \"Mignonette\"",
+    "resultStructId": "701962",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la haye 93290tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.561221785126984,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12886484",
+    "mail": "contact@kidsup.fr",
+    "distance": 163983,
+    "latitude": 49.00592616263049,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kids'upRéglisse ROISSY EN FRANCE",
+    "resultStructId": "9426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la demi-lune 95700roissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.493165530654158,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "60063567",
+    "mail": "emacf@ville-roissy95.fr",
+    "distance": 164067,
+    "latitude": 49.00405195244511,
+    "telephone": "0134298018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EMACF- Les Petits Koalas",
+    "resultStructId": "703908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700 roissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "33611994",
+    "mail": "info@lespetitescanailles.fr",
+    "distance": 165361,
+    "latitude": 48.99163513775256,
+    "telephone": "0158834837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES CANAILLES - LPC AEROVILLE",
+    "resultStructId": "109403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des buissons93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5241716363185542,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "59944411",
+    "mail": "",
+    "distance": 169598,
+    "latitude": 48.951207909120384,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouTremblay en France",
+    "resultStructId": "701708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du buisson centre commercialaeroville 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5707663101580946,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879303",
+    "mail": "l.dietler@tremblayenfrance.fr",
+    "distance": 169777,
+    "latitude": 48.9497743007234,
+    "telephone": "0148618788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Louise Michel",
+    "resultStructId": "466701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 cour de la republique 93290tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.56627234171955,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879217",
+    "mail": "s.seurot@tremblayenfrance.fr",
+    "distance": 170236,
+    "latitude": 48.94558805762169,
+    "telephone": "0148618791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Anne Frank",
+    "resultStructId": "465401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue leon tolstoi 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5675307600588924,
+    "ville": "enfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12879389",
+    "mail": "g.lecoustre@tremblayenfrance.fr",
+    "distance": 170394,
+    "latitude": 48.943198915026464,
+    "telephone": "0148618789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Marelle",
+    "resultStructId": "465701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 rue du limousin 93290 tremblay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.592931992990249,
+    "ville": "enfrance",
+    "cp": ""
+  }
+]

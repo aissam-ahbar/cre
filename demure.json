@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "12924969",
+    "mail": "contact@orange.fr",
+    "distance": 184658,
+    "latitude": 45.69566153444229,
+    "telephone": "0648175366",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche BABYDINO",
+    "resultStructId": "10321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 route nationale 6 69720 st bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.020661962756019,
+    "ville": "demure",
+    "cp": ""
+  },
+  {
+    "resultId": "47853538",
+    "mail": "lje.creche@gmail.com",
+    "distance": 185659,
+    "latitude": 45.69290509359043,
+    "telephone": "0478330915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Jardin Enchanté",
+    "resultStructId": "712110",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "8rue georges polossat 69720 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.04632137192799,
+    "ville": "demure",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12861157",
+    "mail": "hgbrignoud@orange.fr",
+    "distance": 430883,
+    "latitude": 45.261264129642,
+    "telephone": "0476715555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Petits Petons",
+    "resultStructId": "8837",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909299780469963,
+    "ville": "froges",
+    "cp": "38190"
+  },
+  {
+    "resultId": "12861157",
+    "mail": "hgbrignoud@orange.fr",
+    "distance": 145559,
+    "latitude": 45.261264129642,
+    "telephone": "0476715555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Petits Petons",
+    "resultStructId": "8837",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909299780469963,
+    "ville": "froges",
+    "cp": "38190"
+  }
+]

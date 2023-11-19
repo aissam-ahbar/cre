@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12491109",
+    "mail": "sma.melimelo@orange.fr",
+    "distance": 145756,
+    "latitude": 43.61904759695601,
+    "telephone": "0561869910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAssociative Mélimélo",
+    "resultStructId": "531302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.27761671059691,
+    "ville": "pibrac",
+    "cp": "31820"
+  },
+  {
+    "resultId": "12488701",
+    "mail": "nicolasetpimprenelle@bbox.fr",
+    "distance": 145802,
+    "latitude": 43.61832505059335,
+    "telephone": "0561861060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Nicolaset Pimprenelle",
+    "resultStructId": "673704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue bois de la barthe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2776283844238887,
+    "ville": "pibrac",
+    "cp": "31820"
+  }
+]

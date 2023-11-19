@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59991272",
+    "mail": "clementine@plantine.fr",
+    "distance": 106732,
+    "latitude": 43.711508334080264,
+    "telephone": "0745071300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePlantine Saint-geours",
+    "resultStructId": "702712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124 allee destanque 40230 stgeours",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2375053070164532,
+    "ville": "demaremne",
+    "cp": ""
+  },
+  {
+    "resultId": "57909217",
+    "mail": "saint-geours@les-cherubins.com",
+    "distance": 107725,
+    "latitude": 43.68814390232591,
+    "telephone": "0558552930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Super-héros de Saint Geours par Les Chérubins",
+    "resultStructId": "680423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "137route de lelanne 40230 st geours",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.224628416293473,
+    "ville": "demaremne",
+    "cp": ""
+  }
+]

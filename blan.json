@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12776912",
+    "mail": "creche-lesdoudousblan@orange.fr",
+    "distance": 201351,
+    "latitude": 43.52974651335023,
+    "telephone": "0563743876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- LES DOUDOUS BLAN",
+    "resultStructId": "6878",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.006773140953974,
+    "ville": "blan",
+    "cp": "81700"
+  },
+  {
+    "resultId": "12776912",
+    "mail": "creche-lesdoudousblan@orange.fr",
+    "distance": 152476,
+    "latitude": 43.52974651335023,
+    "telephone": "0563743876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- LES DOUDOUS BLAN",
+    "resultStructId": "6878",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.006773140953974,
+    "ville": "blan",
+    "cp": "81700"
+  }
+]

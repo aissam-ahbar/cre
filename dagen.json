@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60240309",
+    "mail": "lapleinelune82@gmail.com",
+    "distance": 96071,
+    "latitude": 44.18482856236424,
+    "telephone": "9999999999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPleine Lune",
+    "resultStructId": "707202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue jean baylet 82400 valence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9477950903923074,
+    "ville": "dagen",
+    "cp": ""
+  },
+  {
+    "resultId": "12711715",
+    "mail": "marie-helene.verbanck@cc-deuxrives.fr",
+    "distance": 96093,
+    "latitude": 44.1851412543432,
+    "telephone": "0563291202",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche du Parc",
+    "resultStructId": "687908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean capgras 82400 valence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.948168323219465,
+    "ville": "dagen",
+    "cp": ""
+  }
+]

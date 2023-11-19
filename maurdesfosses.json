@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12540739",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 149461,
+    "latitude": 48.78817773404682,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Mûriers",
+    "resultStructId": "686224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 avenue saint-louis 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5070637714710626,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13057976",
+    "mail": "contact@babilou.com",
+    "distance": 149530,
+    "latitude": 48.79221659595086,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Maur Caffin",
+    "resultStructId": "622903",
+    "omegaId": "12032",
+    "avip": false,
+    "adresse": "56 avenue caffin 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5063100220162537,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21343050",
+    "mail": "petite.enfance@mairie-saint-maur.com",
+    "distance": 149805,
+    "latitude": 48.78992570593664,
+    "telephone": "0145116542",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Serviced'Accueil Familial",
+    "resultStructId": "686217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue de bonneuil 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.502451931988069,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21342964",
+    "mail": "school-time@orange.fr",
+    "distance": 150864,
+    "latitude": 48.7977680834187,
+    "telephone": "0148892625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche School Time",
+    "resultStructId": "15561",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue henri martin 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4883762818550994,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "21408057",
+    "mail": "familles+stmaur@berceaudesrois.fr",
+    "distance": 151113,
+    "latitude": 48.7962804328694,
+    "telephone": "0185461099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARLBDR 94 SAINT MAUR 7 DELERUE",
+    "resultStructId": "435102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue delerue 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4849007388950395,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13058148",
+    "mail": "contact@babilou.com",
+    "distance": 151193,
+    "latitude": 48.79551134241308,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Maur Garibaldi",
+    "resultStructId": "622901",
+    "omegaId": "12029",
+    "avip": false,
+    "adresse": "72 rue garibaldi 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.483759998337321,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "13059352",
+    "mail": "contact@babilou.com",
+    "distance": 151217,
+    "latitude": 48.794606053953196,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Maur Rollin",
+    "resultStructId": "547202",
+    "omegaId": "12027",
+    "avip": false,
+    "adresse": "47 rue ledru rollin 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4833911539327382,
+    "ville": "maurdesfosses",
+    "cp": ""
+  },
+  {
+    "resultId": "57813981",
+    "mail": "m.devergne@chouettescreches.com",
+    "distance": 151919,
+    "latitude": 48.8068838614375,
+    "telephone": "0755642629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crecheChouette Dartois",
+    "resultStructId": "679418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 passage dartois-bidot 94100 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4744987317755007,
+    "ville": "maurdesfosses",
+    "cp": ""
+  }
+]

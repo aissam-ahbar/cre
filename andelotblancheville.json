@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13042324",
+    "mail": "boubie@meuserognon.fr",
+    "distance": 140235,
+    "latitude": 48.24372973849844,
+    "telephone": "0325327118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"BOUBIE\"",
+    "resultStructId": "702706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.299145209390575,
+    "ville": "andelotblancheville",
+    "cp": "52700"
+  },
+  {
+    "resultId": "13042324",
+    "mail": "boubie@meuserognon.fr",
+    "distance": 77676,
+    "latitude": 48.24372973849844,
+    "telephone": "0325327118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"BOUBIE\"",
+    "resultStructId": "702706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 rue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.299145209390575,
+    "ville": "andelotblancheville",
+    "cp": "52700"
+  }
+]

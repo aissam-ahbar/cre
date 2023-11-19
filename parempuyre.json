@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12802325",
+    "mail": "lepetitprince@parempuyre.fr",
+    "distance": 72894,
+    "latitude": 44.94721162842133,
+    "telephone": "0556950146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT PRINCE",
+    "resultStructId": "122306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee jean metayet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6085284945261142,
+    "ville": "parempuyre",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12685743",
+    "mail": "lepetitprince@people-and-baby.com",
+    "distance": 72894,
+    "latitude": 44.947211583020724,
+    "telephone": "0556950146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT PRINCE",
+    "resultStructId": "4728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee jean metayet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6085285722256664,
+    "ville": "parempuyre",
+    "cp": "33290"
+  },
+  {
+    "resultId": "57248957",
+    "mail": "fontanieu@mcpremierspas.fr",
+    "distance": 73498,
+    "latitude": 44.95522824852956,
+    "telephone": "0973894468",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePREMIERS PAS - FONTANIEU",
+    "resultStructId": "673603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue simone veil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6017319949392435,
+    "ville": "parempuyre",
+    "cp": "33290"
+  },
+  {
+    "resultId": "12757562",
+    "mail": "landegrand@mcpremierspas.fr",
+    "distance": 74137,
+    "latitude": 44.958051618162514,
+    "telephone": "0533050120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE PREMIER PAS",
+    "resultStructId": "673602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue landegrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6129475641208686,
+    "ville": "parempuyre",
+    "cp": "33290"
+  }
+]

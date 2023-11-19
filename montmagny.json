@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12624976",
+    "mail": "sophie.perros@ville-montmagny.fr",
+    "distance": 168690,
+    "latitude": 48.97538267894946,
+    "telephone": "0139839904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee des vergers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3485440395045725,
+    "ville": "montmagny",
+    "cp": "95360"
+  },
+  {
+    "resultId": "12624933",
+    "mail": "sophie-perros@ville-montmagny.fr",
+    "distance": 168760,
+    "latitude": 48.97489766876992,
+    "telephone": "0139833896",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minicrèche",
+    "resultStructId": "3314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue maurice berteaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.347019592474596,
+    "ville": "montmagny",
+    "cp": "95360"
+  },
+  {
+    "resultId": "12625019",
+    "mail": "sophie.perros@ville-montmagny.fr",
+    "distance": 170229,
+    "latitude": 48.96260523588994,
+    "telephone": "0139840589",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Sablons",
+    "resultStructId": "3316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue claude debussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.336701568899106,
+    "ville": "montmagny",
+    "cp": "95360"
+  }
+]

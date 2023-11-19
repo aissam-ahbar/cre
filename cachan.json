@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12537471",
+    "mail": "creche-cachan-mericourt@valdemarne.fr",
+    "distance": 7043,
+    "latitude": 48.79458127317699,
+    "telephone": "0146640333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale C. de Méricourt",
+    "resultStructId": "15297",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue c. de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3340670089917883,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "13054880",
+    "mail": "inscription.creches.municipales@ville-cachan.fr",
+    "distance": 7183,
+    "latitude": 48.793171121409344,
+    "telephone": "0141242514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Petit Poucet",
+    "resultStructId": "428802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place du millenaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.332527274661488,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "12530978",
+    "mail": "inscription.creches.municipales@ville-cachan.fr",
+    "distance": 7199,
+    "latitude": 48.79294337664231,
+    "telephone": "0141242434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Le chat botté",
+    "resultStructId": "428801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue des deux freres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3314599793131636,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "12501738",
+    "mail": "presidence.jmmv@gmail.com",
+    "distance": 7199,
+    "latitude": 48.793530653565576,
+    "telephone": "0145463637",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crecheparentale Jeu Mais Mère Veille",
+    "resultStructId": "15526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3375954855449357,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "13054837",
+    "mail": "",
+    "distance": 7770,
+    "latitude": 48.78771690070602,
+    "telephone": "0146162400",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrécheCollective Volti",
+    "resultStructId": "679125",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue albert camus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3304902754753116,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "12537557",
+    "mail": "creche-cachan-jardins@valdemarne.fr",
+    "distance": 7795,
+    "latitude": 48.78717930038084,
+    "telephone": "0146635003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Cité Jardins (Pasteur)",
+    "resultStructId": "15298",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.321568892391154,
+    "ville": "cachan",
+    "cp": "94230"
+  },
+  {
+    "resultId": "12537600",
+    "mail": "creche-cachan-plaine@valdemarne.fr",
+    "distance": 7816,
+    "latitude": 48.787365411286856,
+    "telephone": "0146650614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale De la Plaine (Camus)",
+    "resultStructId": "15299",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue a.camus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3315674662564727,
+    "ville": "cachan",
+    "cp": "94230"
+  }
+]

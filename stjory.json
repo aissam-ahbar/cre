@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13063996",
+    "mail": "halte.garderie@ville-saint-jory.fr",
+    "distance": 145218,
+    "latitude": 43.74527098403893,
+    "telephone": "0562228880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS",
+    "resultStructId": "503201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue de segusino 31790",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.375264591587505,
+    "ville": "stjory",
+    "cp": ""
+  },
+  {
+    "resultId": "45831913",
+    "mail": "contact-toulouse-est@achilleetcamille.com",
+    "distance": 145279,
+    "latitude": 43.74045100957805,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACABANE D'ACHILLE ET CAMILLE",
+    "resultStructId": "502301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis chemin de ladoux31790",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3725626876047927,
+    "ville": "stjory",
+    "cp": ""
+  },
+  {
+    "resultId": "31819738",
+    "mail": "contact@crechedesmerveilles.fr",
+    "distance": 145490,
+    "latitude": 43.7429438576488,
+    "telephone": "0781314903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES MERVEILLES",
+    "resultStructId": "674311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue montplaisir 31790",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3773859231050298,
+    "ville": "stjory",
+    "cp": ""
+  }
+]

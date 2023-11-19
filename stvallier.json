@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12810796",
+    "mail": "lafarandole@portededromardeche.fr",
+    "distance": 181779,
+    "latitude": 45.18745656799371,
+    "telephone": "0475232312",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa farandole",
+    "resultStructId": "666502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue de la maladiere 26240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814784077091877,
+    "ville": "stvallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12616806",
+    "mail": "saintvallier71@mairie-saintvallier.fr",
+    "distance": 66921,
+    "latitude": 46.6638557914004,
+    "telephone": "0385572466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede St-Vallier",
+    "resultStructId": "3125",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue henri wallon 71230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3814371347850605,
+    "ville": "stvallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12616677",
+    "mail": "saintvallier71@mairie-saintvallier.fr",
+    "distance": 68998,
+    "latitude": 46.642771181312064,
+    "telephone": "0385572466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de St-Vallier",
+    "resultStructId": "3122",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gambetta 71230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.371153313446468,
+    "ville": "stvallier",
+    "cp": ""
+  },
+  {
+    "resultId": "59700032",
+    "mail": "petite.enfance@mairie-saintvallier.fr",
+    "distance": 69088,
+    "latitude": 46.6413377748972,
+    "telephone": "0385690733",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Tilleuls\"",
+    "resultStructId": "699106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue victor hugo 71230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.367529521063056,
+    "ville": "stvallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12810796",
+    "mail": "lafarandole@portededromardeche.fr",
+    "distance": 191142,
+    "latitude": 45.18745656799371,
+    "telephone": "0475232312",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa farandole",
+    "resultStructId": "666502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue de la maladiere 26240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814784077091877,
+    "ville": "stvallier",
+    "cp": ""
+  },
+  {
+    "resultId": "12810796",
+    "mail": "lafarandole@portededromardeche.fr",
+    "distance": 168790,
+    "latitude": 45.18745656799371,
+    "telephone": "0475232312",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLa farandole",
+    "resultStructId": "666502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue de la maladiere 26240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814784077091877,
+    "ville": "stvallier",
+    "cp": ""
+  }
+]

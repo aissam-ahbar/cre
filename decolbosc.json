@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12830490",
+    "mail": "helene.lebouvier@lehavremetro.fr",
+    "distance": 91907,
+    "latitude": 49.526154276862584,
+    "telephone": "0954829929",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes Farfadets",
+    "resultStructId": "701112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jules lemercier 76430 st romain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.35871596355445534,
+    "ville": "decolbosc",
+    "cp": ""
+  },
+  {
+    "resultId": "38325133",
+    "mail": "colibri@micro-baby.com",
+    "distance": 92115,
+    "latitude": 49.5291266006047,
+    "telephone": "0951755850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "COLIBRI",
+    "resultStructId": "172007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-ditle chateau de gromesnil parc eco normandie 76430 st romain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.3581228964675489,
+    "ville": "decolbosc",
+    "cp": ""
+  }
+]

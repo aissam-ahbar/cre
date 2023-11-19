@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12763582",
+    "mail": "halte-garderie@mairie-emerainville.fr",
+    "distance": 140897,
+    "latitude": 48.807401662529614,
+    "telephone": "0160332672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Le Lapin Vert",
+    "resultStructId": "6568",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue du lapin vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.625192793640904,
+    "ville": "emerainville",
+    "cp": "77184"
+  },
+  {
+    "resultId": "12765517",
+    "mail": "creche-bourg@mairie-emerainville.fr",
+    "distance": 141033,
+    "latitude": 48.81131536021163,
+    "telephone": "0160332651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Princes",
+    "resultStructId": "6613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du moulin a vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.623622044490342,
+    "ville": "emerainville",
+    "cp": "77184"
+  },
+  {
+    "resultId": "12962250",
+    "mail": "creche-bourg@mairie-emerainville.fr",
+    "distance": 141033,
+    "latitude": 48.81131536021163,
+    "telephone": "0160332651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "11188",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du moulin a vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.623622044490342,
+    "ville": "emerainville",
+    "cp": "77184"
+  },
+  {
+    "resultId": "12761733",
+    "mail": "contact@babilou.com",
+    "distance": 141252,
+    "latitude": 48.8100907023115,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBabilou - Les Jeunes Pousses",
+    "resultStructId": "445901",
+    "omegaId": "9445",
+    "avip": false,
+    "adresse": "28 rue d'emery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6205373195767154,
+    "ville": "emerainville",
+    "cp": "77184"
+  },
+  {
+    "resultId": "12762980",
+    "mail": "canaillous@tilloucreche.com",
+    "distance": 142940,
+    "latitude": 48.829224637359076,
+    "telephone": "0160054996",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Canaillous",
+    "resultStructId": "537901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 square charlotte corday",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5990774166988473,
+    "ville": "emerainville",
+    "cp": "77184"
+  },
+  {
+    "resultId": "12762550",
+    "mail": "contact@babilou.com",
+    "distance": 143011,
+    "latitude": 48.82835520500555,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouEmerainville Monastère",
+    "resultStructId": "430302",
+    "omegaId": "11052",
+    "avip": false,
+    "adresse": "9 bis rue de l'ancienmonastere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5980259126906233,
+    "ville": "emerainville",
+    "cp": "77184"
+  }
+]

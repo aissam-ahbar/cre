@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "12946598",
+    "mail": "pataploum@mairiespdc.fr",
+    "distance": 83835,
+    "latitude": 47.395156549697056,
+    "telephone": "0247634375",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pataploum\"",
+    "resultStructId": "702043",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue pierre brossolette 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7340484049988577,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "33340813",
+    "mail": "crechefamiliale@mairiespdc.fr",
+    "distance": 84051,
+    "latitude": 47.387372451909776,
+    "telephone": "0247634371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Maison Durand\"",
+    "resultStructId": "709556",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "185 avenue stalingrad 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7239155948036312,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "12946555",
+    "mail": "haltegarderie@mairiespdc.fr",
+    "distance": 84522,
+    "latitude": 47.39289810214724,
+    "telephone": "0247442133",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Farandole\"",
+    "resultStructId": "702042",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue de l'eridence 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7214494696608207,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "12946555",
+    "mail": "haltegarderie@mairiespdc.fr",
+    "distance": 130157,
+    "latitude": 47.39289810214724,
+    "telephone": "0247442133",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Farandole\"",
+    "resultStructId": "702042",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue de l'eridence 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7214494696608207,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "33340813",
+    "mail": "crechefamiliale@mairiespdc.fr",
+    "distance": 130463,
+    "latitude": 47.387372451909776,
+    "telephone": "0247634371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Maison Durand\"",
+    "resultStructId": "709556",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "185 avenue stalingrad 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7239155948036312,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "12946598",
+    "mail": "pataploum@mairiespdc.fr",
+    "distance": 131036,
+    "latitude": 47.395156549697056,
+    "telephone": "0247634375",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pataploum\"",
+    "resultStructId": "702043",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue pierre brossolette 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7340484049988577,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "12946555",
+    "mail": "haltegarderie@mairiespdc.fr",
+    "distance": 130157,
+    "latitude": 47.39289810214724,
+    "telephone": "0247442133",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Farandole\"",
+    "resultStructId": "702042",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue de l'eridence 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7214494696608207,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "33340813",
+    "mail": "crechefamiliale@mairiespdc.fr",
+    "distance": 130463,
+    "latitude": 47.387372451909776,
+    "telephone": "0247634371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Maison Durand\"",
+    "resultStructId": "709556",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "185 avenue stalingrad 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7239155948036312,
+    "ville": "pierredescorps",
+    "cp": ""
+  },
+  {
+    "resultId": "12946598",
+    "mail": "pataploum@mairiespdc.fr",
+    "distance": 131036,
+    "latitude": 47.395156549697056,
+    "telephone": "0247634375",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pataploum\"",
+    "resultStructId": "702043",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue pierre brossolette 37700 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7340484049988577,
+    "ville": "pierredescorps",
+    "cp": ""
+  }
+]

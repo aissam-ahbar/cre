@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59523390",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 17885,
+    "latitude": 50.314448122450536,
+    "telephone": "0981893010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SesPremiers Pas",
+    "resultStructId": "698018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 ter chemin des filatiers 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.757574914085473,
+    "ville": "stecatherine",
+    "cp": ""
+  },
+  {
+    "resultId": "59523530",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 17917,
+    "latitude": 50.31418409529148,
+    "telephone": "0981893010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SesPremiers Pas",
+    "resultStructId": "698019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 chemin des filatiers 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.757790569080088,
+    "ville": "stecatherine",
+    "cp": ""
+  },
+  {
+    "resultId": "59003124",
+    "mail": "celine.leonardczyk@people-and-baby.com",
+    "distance": 18209,
+    "latitude": 50.31252676902535,
+    "telephone": "0983223805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE AZUR",
+    "resultStructId": "691615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "167 route de lens 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.76700721736716,
+    "ville": "stecatherine",
+    "cp": ""
+  },
+  {
+    "resultId": "41250002",
+    "mail": "lesnourrissons62@gmail.com",
+    "distance": 19004,
+    "latitude": 50.30485126472034,
+    "telephone": "0685031566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESNOURRISSONS",
+    "resultStructId": "655501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place de la republique 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7633122921486972,
+    "ville": "stecatherine",
+    "cp": ""
+  }
+]

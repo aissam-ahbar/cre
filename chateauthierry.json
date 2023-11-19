@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13043571",
+    "mail": "hgi@carct.fr",
+    "distance": 90402,
+    "latitude": 49.05085857715074,
+    "telephone": "0637581711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie itinérante A petits pas",
+    "resultStructId": "13079",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de verdilly02400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4072877504965904,
+    "ville": "chateauthierry",
+    "cp": ""
+  },
+  {
+    "resultId": "13044560",
+    "mail": "",
+    "distance": 91178,
+    "latitude": 49.045462530380476,
+    "telephone": "0323831383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison des tout petits",
+    "resultStructId": "13102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue jules maciet 02400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.392376902579959,
+    "ville": "chateauthierry",
+    "cp": ""
+  },
+  {
+    "resultId": "13043571",
+    "mail": "hgi@carct.fr",
+    "distance": 165722,
+    "latitude": 49.05085857715074,
+    "telephone": "0637581711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie itinérante A petits pas",
+    "resultStructId": "13079",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de verdilly02400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4072877504965904,
+    "ville": "chateauthierry",
+    "cp": ""
+  },
+  {
+    "resultId": "13044560",
+    "mail": "",
+    "distance": 165981,
+    "latitude": 49.045462530380476,
+    "telephone": "0323831383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison des tout petits",
+    "resultStructId": "13102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue jules maciet 02400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.392376902579959,
+    "ville": "chateauthierry",
+    "cp": ""
+  }
+]

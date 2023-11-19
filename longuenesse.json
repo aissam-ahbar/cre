@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13035573",
+    "mail": "pe-longuenesse@ca-pso.fr",
+    "distance": 43164,
+    "latitude": 50.740626765419584,
+    "telephone": "0374182152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Méli-Mélodie\"",
+    "resultStructId": "216113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges bizet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2754165651412164,
+    "ville": "longuenesse",
+    "cp": "62219"
+  },
+  {
+    "resultId": "13018322",
+    "mail": "multiaccueil.cslonguenesse@orange.fr",
+    "distance": 43765,
+    "latitude": 50.74235728762661,
+    "telephone": "0321984010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \" Le Paradis des Enfants\" à Longuenesse",
+    "resultStructId": "664901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruebrueghel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2662819766668747,
+    "ville": "longuenesse",
+    "cp": "62219"
+  }
+]

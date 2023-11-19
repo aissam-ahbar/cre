@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12781857",
+    "mail": "",
+    "distance": 146282,
+    "latitude": 49.40378069149709,
+    "telephone": "0344866425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"BEBE SERVICES\" DE COMPIEGNE",
+    "resultStructId": "98511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue denormandie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.81845532866664,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781427",
+    "mail": "",
+    "distance": 146418,
+    "latitude": 49.425047340512215,
+    "telephone": "0344402534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BELLICART DE COMPIEGNE",
+    "resultStructId": "112814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la banniere duroi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835607125818827,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781900",
+    "mail": "crch.compiegne@croix-rouge.fr",
+    "distance": 146579,
+    "latitude": 49.41913760469474,
+    "telephone": "0344403349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE LA CROIX ROUGE FRANCAISE DE COMPIEGNE",
+    "resultStructId": "98510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bisrue d'humieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8275546185770306,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12738341",
+    "mail": "",
+    "distance": 146677,
+    "latitude": 49.4143754577153,
+    "telephone": "0344202216",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE \"SAINTE ELISABETH\" COMPIEGNE",
+    "resultStructId": "15254",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place descapucins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8216443113326166,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12792005",
+    "mail": "",
+    "distance": 146915,
+    "latitude": 49.39819701612258,
+    "telephone": "0344409823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE ROYALLIEU A COMPIEGNE",
+    "resultStructId": "112815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin saintecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8034306430382023,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12842925",
+    "mail": "",
+    "distance": 146915,
+    "latitude": 49.39819701612258,
+    "telephone": "0344862688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE L'ABBAYE DE COMPIEGNE",
+    "resultStructId": "101407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin saintecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8034306430382023,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12853632",
+    "mail": "compiegne@lpcr.fr",
+    "distance": 146989,
+    "latitude": 49.38781565773942,
+    "telephone": "0383221905",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "176708",
+    "omegaId": "2814",
+    "avip": false,
+    "adresse": "4 chemin d'armancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7932833622653677,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12853546",
+    "mail": "compiegne2@lpcr.fr",
+    "distance": 147001,
+    "latitude": 49.38898247909283,
+    "telephone": "0364320020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "98019",
+    "omegaId": "14744",
+    "avip": false,
+    "adresse": "2 chemin d'armancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7940834800667806,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781470",
+    "mail": "",
+    "distance": 147435,
+    "latitude": 49.40732100371747,
+    "telephone": "0344200114",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LE NID\" de COMPIEGNE",
+    "resultStructId": "98513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue phileas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.803183714532679,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12956918",
+    "mail": "",
+    "distance": 147755,
+    "latitude": 49.39932737493858,
+    "telephone": "0344230623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"LES POUSSINS\" DE COMPIEGNE",
+    "resultStructId": "98506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 placejean-baptiste carpeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791064313458215,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781427",
+    "mail": "",
+    "distance": 116871,
+    "latitude": 49.425047340512215,
+    "telephone": "0344402534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BELLICART DE COMPIEGNE",
+    "resultStructId": "112814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la banniere duroi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835607125818827,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781900",
+    "mail": "crch.compiegne@croix-rouge.fr",
+    "distance": 117487,
+    "latitude": 49.41913760469474,
+    "telephone": "0344403349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE LA CROIX ROUGE FRANCAISE DE COMPIEGNE",
+    "resultStructId": "98510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bisrue d'humieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8275546185770306,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12738341",
+    "mail": "",
+    "distance": 117988,
+    "latitude": 49.4143754577153,
+    "telephone": "0344202216",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE \"SAINTE ELISABETH\" COMPIEGNE",
+    "resultStructId": "15254",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place descapucins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8216443113326166,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781470",
+    "mail": "",
+    "distance": 118697,
+    "latitude": 49.40732100371747,
+    "telephone": "0344200114",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LE NID\" de COMPIEGNE",
+    "resultStructId": "98513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue phileas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.803183714532679,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12781857",
+    "mail": "",
+    "distance": 119150,
+    "latitude": 49.40378069149709,
+    "telephone": "0344866425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"BEBE SERVICES\" DE COMPIEGNE",
+    "resultStructId": "98511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue denormandie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.81845532866664,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12956918",
+    "mail": "",
+    "distance": 119544,
+    "latitude": 49.39932737493858,
+    "telephone": "0344230623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"LES POUSSINS\" DE COMPIEGNE",
+    "resultStructId": "98506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 placejean-baptiste carpeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791064313458215,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12792005",
+    "mail": "",
+    "distance": 119711,
+    "latitude": 49.39819701612258,
+    "telephone": "0344409823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE ROYALLIEU A COMPIEGNE",
+    "resultStructId": "112815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin saintecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8034306430382023,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12842925",
+    "mail": "",
+    "distance": 119711,
+    "latitude": 49.39819701612258,
+    "telephone": "0344862688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE L'ABBAYE DE COMPIEGNE",
+    "resultStructId": "101407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin saintecatherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8034306430382023,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12853546",
+    "mail": "compiegne2@lpcr.fr",
+    "distance": 120703,
+    "latitude": 49.38898247909283,
+    "telephone": "0364320020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "98019",
+    "omegaId": "14744",
+    "avip": false,
+    "adresse": "2 chemin d'armancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7940834800667806,
+    "ville": "compiegne",
+    "cp": "60200"
+  },
+  {
+    "resultId": "12853632",
+    "mail": "compiegne@lpcr.fr",
+    "distance": 120830,
+    "latitude": 49.38781565773942,
+    "telephone": "0383221905",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "176708",
+    "omegaId": "2814",
+    "avip": false,
+    "adresse": "4 chemin d'armancourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7932833622653677,
+    "ville": "compiegne",
+    "cp": "60200"
+  }
+]

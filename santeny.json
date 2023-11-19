@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13069887",
+    "mail": "directionmpe@sipe-marolles-santeny.fr",
+    "distance": 144845,
+    "latitude": 48.72609676730841,
+    "telephone": "0143861055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMaison de la Petite Enfance\"",
+    "resultStructId": "688028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du reveillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.569459805921254,
+    "ville": "santeny",
+    "cp": "94440"
+  },
+  {
+    "resultId": "57813259",
+    "mail": "royalbabynursery@gmail.com",
+    "distance": 145181,
+    "latitude": 48.72004598735764,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L&GROYAL BABY NURSERY",
+    "resultStructId": "679408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7bis rue du noyer saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5650485458245207,
+    "ville": "santeny",
+    "cp": "94440"
+  }
+]

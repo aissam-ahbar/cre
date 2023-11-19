@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12493302",
+    "mail": "capucine@mairie-carquefou.fr",
+    "distance": 52014,
+    "latitude": 47.29838528468393,
+    "telephone": "0240508877",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capucine",
+    "resultStructId": "253",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue de la marquise de sevigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4895111181948346,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "12493259",
+    "mail": "enfance@mairie-carquefou.fr",
+    "distance": 52321,
+    "latitude": 47.300995192400116,
+    "telephone": "0240563107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBout'Chous",
+    "resultStructId": "252",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du souchais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4985268365716706,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "13041722",
+    "mail": "lesquare@mairie-carquefou.fr",
+    "distance": 52434,
+    "latitude": 47.29605623165606,
+    "telephone": "0228222070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeSquare",
+    "resultStructId": "13036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue arthur ecomard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4939267042965725,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "13016602",
+    "mail": "direction.carquefou@na-creches.fr",
+    "distance": 52529,
+    "latitude": 47.301267047493184,
+    "telephone": "0228232499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!CARQUEFOU",
+    "resultStructId": "706701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 boulevard ampere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5026032425239466,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "31851476",
+    "mail": "direction.monpetitlulu@gmail.com",
+    "distance": 54194,
+    "latitude": 47.268167491279314,
+    "telephone": "0228223905",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MonPetit Lulu",
+    "resultStructId": "81901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des alizes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4865477135765808,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "58526699",
+    "mail": "univers.magique@les-cherubins.com",
+    "distance": 55284,
+    "latitude": 47.26282538370189,
+    "telephone": "0689324417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'UNIVERSMAGIQUE DES CHERUBINS",
+    "resultStructId": "685604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de la hache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.499148069317647,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "12493302",
+    "mail": "capucine@mairie-carquefou.fr",
+    "distance": 52014,
+    "latitude": 47.29838528468393,
+    "telephone": "0240508877",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Capucine",
+    "resultStructId": "253",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue de la marquise de sevigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4895111181948346,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "12493259",
+    "mail": "enfance@mairie-carquefou.fr",
+    "distance": 52321,
+    "latitude": 47.300995192400116,
+    "telephone": "0240563107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBout'Chous",
+    "resultStructId": "252",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue du souchais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4985268365716706,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "13041722",
+    "mail": "lesquare@mairie-carquefou.fr",
+    "distance": 52434,
+    "latitude": 47.29605623165606,
+    "telephone": "0228222070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeSquare",
+    "resultStructId": "13036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue arthur ecomard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4939267042965725,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "13016602",
+    "mail": "direction.carquefou@na-creches.fr",
+    "distance": 52529,
+    "latitude": 47.301267047493184,
+    "telephone": "0228232499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Na!CARQUEFOU",
+    "resultStructId": "706701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 boulevard ampere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5026032425239466,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "31851476",
+    "mail": "direction.monpetitlulu@gmail.com",
+    "distance": 54194,
+    "latitude": 47.268167491279314,
+    "telephone": "0228223905",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MonPetit Lulu",
+    "resultStructId": "81901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des alizes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4865477135765808,
+    "ville": "carquefou",
+    "cp": "44470"
+  },
+  {
+    "resultId": "58526699",
+    "mail": "univers.magique@les-cherubins.com",
+    "distance": 55284,
+    "latitude": 47.26282538370189,
+    "telephone": "0689324417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'UNIVERSMAGIQUE DES CHERUBINS",
+    "resultStructId": "685604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de la hache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.499148069317647,
+    "ville": "carquefou",
+    "cp": "44470"
+  }
+]

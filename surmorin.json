@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "12763840",
+    "mail": "",
+    "distance": 101322,
+    "latitude": 48.90603707036945,
+    "telephone": "0160238195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Papillons",
+    "resultStructId": "6574",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue daniel simon 77750 st cyr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1860700749175943,
+    "ville": "surmorin",
+    "cp": ""
+  },
+  {
+    "resultId": "13015355",
+    "mail": "bulledeveil@coulommierspaysdebrie.fr",
+    "distance": 125575,
+    "latitude": 48.87856472940611,
+    "telephone": "0164633984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil \"Bulled'Eveil\"",
+    "resultStructId": "698002",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "9 rue de montguillon77860 st germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.844225273864884,
+    "ville": "surmorin",
+    "cp": ""
+  }
+]

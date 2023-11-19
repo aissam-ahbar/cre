@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12811011",
+    "mail": "ccas.lesflamants@ville-lattes.fr",
+    "distance": 56575,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Les Flamants à Lattes / Boirargues",
+    "resultStructId": "7671",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henriauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800347",
+    "mail": "ccas.crechecolibris@ville-lattes.fr",
+    "distance": 56575,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Colibris à Lattes-Boirargues",
+    "resultStructId": "7423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "31138352",
+    "mail": "ccas.crechelibellules@ville-lattes.fr",
+    "distance": 56637,
+    "latitude": 43.587459551499485,
+    "telephone": "0467997690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Libellules",
+    "resultStructId": "689811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9238757941315403,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12802497",
+    "mail": "ccas.accueilfamilial@ville-lattes.fr",
+    "distance": 58074,
+    "latitude": 43.57015117831551,
+    "telephone": "0467640231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Narcisses",
+    "resultStructId": "188902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de montpellier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9051730783089575,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800132",
+    "mail": "ccas.crechenid@ville-lattes.fr",
+    "distance": 58273,
+    "latitude": 43.564579816805015,
+    "telephone": "0467647480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Nid du Méjean",
+    "resultStructId": "176709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des vergers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.902599173575038,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12801895",
+    "mail": "creche.micocoulier@orange.fr",
+    "distance": 60409,
+    "latitude": 43.562871281198625,
+    "telephone": "0467273495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Micocouliers à Lattes",
+    "resultStructId": "7459",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.876077723670042,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12795058",
+    "mail": "ccas.crechemesanges@ville-lattes.fr",
+    "distance": 60486,
+    "latitude": 43.55990850575199,
+    "telephone": "0467424370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Mésanges",
+    "resultStructId": "210908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des lauriers amandes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8751083255040806,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12811011",
+    "mail": "ccas.lesflamants@ville-lattes.fr",
+    "distance": 451382,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Les Flamants à Lattes / Boirargues",
+    "resultStructId": "7671",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henriauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800347",
+    "mail": "ccas.crechecolibris@ville-lattes.fr",
+    "distance": 451382,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Colibris à Lattes-Boirargues",
+    "resultStructId": "7423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "31138352",
+    "mail": "ccas.crechelibellules@ville-lattes.fr",
+    "distance": 451448,
+    "latitude": 43.587459551499485,
+    "telephone": "0467997690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Libellules",
+    "resultStructId": "689811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9238757941315403,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800132",
+    "mail": "ccas.crechenid@ville-lattes.fr",
+    "distance": 452252,
+    "latitude": 43.564579816805015,
+    "telephone": "0467647480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Nid du Méjean",
+    "resultStructId": "176709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des vergers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.902599173575038,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12802497",
+    "mail": "ccas.accueilfamilial@ville-lattes.fr",
+    "distance": 452253,
+    "latitude": 43.57015117831551,
+    "telephone": "0467640231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Narcisses",
+    "resultStructId": "188902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de montpellier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9051730783089575,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12795058",
+    "mail": "ccas.crechemesanges@ville-lattes.fr",
+    "distance": 454188,
+    "latitude": 43.55990850575199,
+    "telephone": "0467424370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Mésanges",
+    "resultStructId": "210908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des lauriers amandes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8751083255040806,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12801895",
+    "mail": "creche.micocoulier@orange.fr",
+    "distance": 454218,
+    "latitude": 43.562871281198625,
+    "telephone": "0467273495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Micocouliers à Lattes",
+    "resultStructId": "7459",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.876077723670042,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "31138352",
+    "mail": "ccas.crechelibellules@ville-lattes.fr",
+    "distance": 2498,
+    "latitude": 43.587459551499485,
+    "telephone": "0467997690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Libellules",
+    "resultStructId": "689811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9238757941315403,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12811011",
+    "mail": "ccas.lesflamants@ville-lattes.fr",
+    "distance": 2564,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Les Flamants à Lattes / Boirargues",
+    "resultStructId": "7671",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henriauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800347",
+    "mail": "ccas.crechecolibris@ville-lattes.fr",
+    "distance": 2564,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Colibris à Lattes-Boirargues",
+    "resultStructId": "7423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12802497",
+    "mail": "ccas.accueilfamilial@ville-lattes.fr",
+    "distance": 3222,
+    "latitude": 43.57015117831551,
+    "telephone": "0467640231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Narcisses",
+    "resultStructId": "188902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de montpellier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9051730783089575,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800132",
+    "mail": "ccas.crechenid@ville-lattes.fr",
+    "distance": 3800,
+    "latitude": 43.564579816805015,
+    "telephone": "0467647480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Nid du Méjean",
+    "resultStructId": "176709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des vergers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.902599173575038,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12801895",
+    "mail": "creche.micocoulier@orange.fr",
+    "distance": 4300,
+    "latitude": 43.562871281198625,
+    "telephone": "0467273495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Micocouliers à Lattes",
+    "resultStructId": "7459",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.876077723670042,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12795058",
+    "mail": "ccas.crechemesanges@ville-lattes.fr",
+    "distance": 4634,
+    "latitude": 43.55990850575199,
+    "telephone": "0467424370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Mésanges",
+    "resultStructId": "210908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des lauriers amandes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8751083255040806,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12811011",
+    "mail": "ccas.lesflamants@ville-lattes.fr",
+    "distance": 176482,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Les Flamants à Lattes / Boirargues",
+    "resultStructId": "7671",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henriauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "12800347",
+    "mail": "ccas.crechecolibris@ville-lattes.fr",
+    "distance": 176482,
+    "latitude": 43.58722055731124,
+    "telephone": "0467658330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Colibris à Lattes-Boirargues",
+    "resultStructId": "7423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.924628291444733,
+    "ville": "lattes",
+    "cp": "34970"
+  },
+  {
+    "resultId": "31138352",
+    "mail": "ccas.crechelibellules@ville-lattes.fr",
+    "distance": 176534,
+    "latitude": 43.587459551499485,
+    "telephone": "0467997690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Libellules",
+    "resultStructId": "689811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 place henri auge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9238757941315403,
+    "ville": "lattes",
+    "cp": "34970"
+  }
+]

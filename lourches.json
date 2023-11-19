@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12831436",
+    "mail": "hgpimprenelle@lourches.fr",
+    "distance": 48385,
+    "latitude": 50.31403680328989,
+    "telephone": "0327485423",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiePimprenelle",
+    "resultStructId": "8146",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3542601666580616,
+    "ville": "lourches",
+    "cp": "59156"
+  }
+]

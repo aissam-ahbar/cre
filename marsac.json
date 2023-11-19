@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "29300528",
+    "mail": "creche.marsac@ccbgb.fr",
+    "distance": 101098,
+    "latitude": 46.09624452135712,
+    "telephone": "0555610595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Marsac",
+    "resultStructId": "683715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue du limousin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.587502302547392,
+    "ville": "marsac",
+    "cp": "23210"
+  },
+  {
+    "resultId": "29300528",
+    "mail": "creche.marsac@ccbgb.fr",
+    "distance": 241330,
+    "latitude": 46.09624452135712,
+    "telephone": "0555610595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Marsac",
+    "resultStructId": "683715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue du limousin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.587502302547392,
+    "ville": "marsac",
+    "cp": "23210"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12998327",
+    "mail": "accueil@cc-coeurdechartreuse.fr",
+    "distance": 452003,
+    "latitude": 45.4140291652568,
+    "telephone": "0685930453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BébébusItinérant",
+    "resultStructId": "12027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place zi chartreuse guiers 38380 entre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.748615274338765,
+    "ville": "deuxguiers",
+    "cp": ""
+  },
+  {
+    "resultId": "12998327",
+    "mail": "accueil@cc-coeurdechartreuse.fr",
+    "distance": 163927,
+    "latitude": 45.4140291652568,
+    "telephone": "0685930453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BébébusItinérant",
+    "resultStructId": "12027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place zi chartreuse guiers 38380 entre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.748615274338765,
+    "ville": "deuxguiers",
+    "cp": ""
+  }
+]

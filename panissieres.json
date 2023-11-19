@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12485003",
+    "mail": "lapasserelle@forez-est.fr",
+    "distance": 162228,
+    "latitude": 45.79185442717207,
+    "telephone": "0477286647",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPasserelle",
+    "resultStructId": "54201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard jean-louis bounassieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.338907370538119,
+    "ville": "panissieres",
+    "cp": "42360"
+  }
+]

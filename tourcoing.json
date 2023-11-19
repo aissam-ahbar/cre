@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12606185",
+    "mail": "berlingot@ville-tourcoing.fr",
+    "distance": 39284,
+    "latitude": 50.69556831137259,
+    "telephone": "0320256113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BERLINGOT",
+    "resultStructId": "481401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 boulevard descat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1517833205856283,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "23131203",
+    "mail": "flocontine@people-and-baby.com",
+    "distance": 40170,
+    "latitude": 50.71103223480792,
+    "telephone": "0953880056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"FLOCONTINE\"",
+    "resultStructId": "687203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 bis rue du flocon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1477765995132745,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12989942",
+    "mail": "croclavieasso@gmail.com",
+    "distance": 40540,
+    "latitude": 50.715193759300995,
+    "telephone": "0781571737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Croc'LaVie Dolto",
+    "resultStructId": "11832",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 allee jules steelandt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1490015699775946,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12610399",
+    "mail": "123soleil@ville-tourcoing.fr",
+    "distance": 40949,
+    "latitude": 50.72000013154841,
+    "telephone": "0320702645",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"1,2,3 SOLEIL\"",
+    "resultStructId": "481001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue d'austerlitz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1500334111461075,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12606142",
+    "mail": "grainedeveil@ville-tourcoing.fr",
+    "distance": 40969,
+    "latitude": 50.727612760816676,
+    "telephone": "0320943470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTICMULTI ACCUEIL GRAINE D'EVEIL",
+    "resultStructId": "481801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106-108 rue de l'hippodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1393376141197527,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12605712",
+    "mail": "csboilly.petitenfance@gmail.com",
+    "distance": 41107,
+    "latitude": 50.711261416305604,
+    "telephone": "0320270866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIEJean Lamarque",
+    "resultStructId": "23715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de la fonderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1649389816987816,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12606314",
+    "mail": "ptits-loups@ville-tourcoing.fr",
+    "distance": 41212,
+    "latitude": 50.72975976263824,
+    "telephone": "0320030987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES P'TITS LOUPS",
+    "resultStructId": "482001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106 rue de l'hippodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1408771269614397,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12610442",
+    "mail": "aquarelle@ville-tourcoing.fr",
+    "distance": 41386,
+    "latitude": 50.725318472756804,
+    "telephone": "0359634013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'AQUARELLE",
+    "resultStructId": "481101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue millet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1507981029853687,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12605669",
+    "mail": "ileauxenfants@ville-tourcoing.fr",
+    "distance": 41416,
+    "latitude": 50.72562914271801,
+    "telephone": "0359634014",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX ENFANTS",
+    "resultStructId": "481701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue millet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1509319815970893,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "13024522",
+    "mail": "croclavieasso@gmail.com",
+    "distance": 41436,
+    "latitude": 50.73153994295474,
+    "telephone": "0679516890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Croc'LaVie St Matthieu",
+    "resultStructId": "12636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean baptiste corot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.142593443263405,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12789253",
+    "mail": "",
+    "distance": 41453,
+    "latitude": 50.73093522178481,
+    "telephone": "0320941357",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"les loustics\"",
+    "resultStructId": "7165",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue kennedy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.143839628228658,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "52232677",
+    "mail": "jdelghust@ville-tourcoing.fr",
+    "distance": 41492,
+    "latitude": 50.7257454007529,
+    "telephone": "0359634010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEARC EN CIEL",
+    "resultStructId": "481301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue millet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1522235542298063,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "57349481",
+    "mail": "contact@happyruche.com",
+    "distance": 41814,
+    "latitude": 50.72657014294819,
+    "telephone": "0320337366",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE HAPPY RUCHE",
+    "resultStructId": "689106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de gand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1572267501048605,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "60066627",
+    "mail": "simoneveil@ville-tourcoing.fr",
+    "distance": 41819,
+    "latitude": 50.72396407177114,
+    "telephone": "0320634013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL SIMONE VEIL",
+    "resultStructId": "704003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 allee des justes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1610144723926017,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12606271",
+    "mail": "capucine@ville-tourcoing.fr",
+    "distance": 41944,
+    "latitude": 50.73562817078946,
+    "telephone": "0320943767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA CAPUCINE",
+    "resultStructId": "481901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "170 rue racine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1464112803059927,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "52235264",
+    "mail": "frimousse@ville-tourcoing.fr",
+    "distance": 42405,
+    "latitude": 50.73350738242337,
+    "telephone": "0320035290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL FRIMOUSSE",
+    "resultStructId": "481601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.158583145657193,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12611474",
+    "mail": "premiers-pas@ville-tourcoing.fr",
+    "distance": 42587,
+    "latitude": 50.729481103223584,
+    "telephone": "0320251607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PREMIERS PAS",
+    "resultStructId": "481802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue de florence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.167854823149787,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12611431",
+    "mail": "calin-caline@ville-tourcoing.fr",
+    "distance": 43929,
+    "latitude": 50.73762932377149,
+    "telephone": "0320764889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CALIN CALINE",
+    "resultStructId": "481501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue monseigneur leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1819214779019447,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12606228",
+    "mail": "contact@csbpn.org",
+    "distance": 43953,
+    "latitude": 50.73857245277454,
+    "telephone": "0320766731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"L'ENVOL\" CS BOURGOGNE",
+    "resultStructId": "458001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue rogersalengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.181058857923488,
+    "ville": "tourcoing",
+    "cp": "59200"
+  },
+  {
+    "resultId": "12832683",
+    "mail": "hg.csmcr@gmail.com",
+    "distance": 44284,
+    "latitude": 50.73809500366086,
+    "telephone": "0320017551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SUCRED'ORGE",
+    "resultStructId": "8175",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue de la bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1880206533191386,
+    "ville": "tourcoing",
+    "cp": "59200"
+  }
+]

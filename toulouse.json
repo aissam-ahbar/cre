@@ -1,0 +1,4034 @@
+[
+  {
+    "resultId": "13045420",
+    "mail": "cre-038@babilou.com",
+    "distance": 152087,
+    "latitude": 43.604497360976964,
+    "telephone": "0534513747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouToulouse Saint-Martin Touch' à Tout",
+    "resultStructId": "604001",
+    "omegaId": "4784",
+    "avip": false,
+    "adresse": "12 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3588351317407177,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "32605179",
+    "mail": "lilotdesbidibulles@mycreches.fr",
+    "distance": 152628,
+    "latitude": 43.60360024428217,
+    "telephone": "0971319865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILÔTDES BIDIBULLES",
+    "resultStructId": "630501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue marie louise dissard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3660677540773365,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045334",
+    "mail": "fleurancebidibulles@mycreche.fr",
+    "distance": 153034,
+    "latitude": 43.60088727338293,
+    "telephone": "0561165748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FLEURANCE-BIDIBULLES",
+    "resultStructId": "631003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14place raymond grimaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3696253178505624,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045377",
+    "mail": "lesptitsloulous31300@gmail.com",
+    "distance": 153084,
+    "latitude": 43.608594633717864,
+    "telephone": "0966846328",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOULOUS",
+    "resultStructId": "258301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "214 route de bayonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.377335387246586,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045506",
+    "mail": "crechegribouille2@wanadoo.fr",
+    "distance": 153874,
+    "latitude": 43.6200576473926,
+    "telephone": "0561318085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Gribouille1",
+    "resultStructId": "631301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee de la limagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3991270027231855,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045549",
+    "mail": "crechegribouille2@wanadoo.fr",
+    "distance": 153913,
+    "latitude": 43.618152946144455,
+    "telephone": "0561482012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Gribouille2",
+    "resultStructId": "631401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee du vivarais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3980383072404483,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045463",
+    "mail": "lecercledesgentilsgladiateurs@orange.fr",
+    "distance": 154015,
+    "latitude": 43.61519161124961,
+    "telephone": "0561301670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCercle des Gentils Gladiateurs",
+    "resultStructId": "107704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 avenue des arenesromaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.396941889901526,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13043700",
+    "mail": "c.nougaro@mairie-toulouse.fr",
+    "distance": 154326,
+    "latitude": 43.58952140668494,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Municipale Lardenne",
+    "resultStructId": "528601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3784820453880005,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "33391383",
+    "mail": "haltegaronne@alliancesetcultures.org",
+    "distance": 154535,
+    "latitude": 43.61761656781127,
+    "telephone": "0561132358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie « Les Moussaillons »",
+    "resultStructId": "641701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.406707565993462,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "45923173",
+    "mail": "amethyste@micro-baby.com",
+    "distance": 154572,
+    "latitude": 43.5910191726073,
+    "telephone": "0983073110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE AMETHYSTE",
+    "resultStructId": "308504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "224 bis avenue de lardenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3835209302603202,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "33138330",
+    "mail": "contact@babilou.com",
+    "distance": 154575,
+    "latitude": 43.6483439103335,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouToulouse Lalande",
+    "resultStructId": "674446",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "266 avenue de fronton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4333060068464532,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12662738",
+    "mail": "lalandounette@nidcreches.fr",
+    "distance": 154652,
+    "latitude": 43.64638093047541,
+    "telephone": "0561134149",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLalandounette - Association le Nid des crèches",
+    "resultStructId": "696909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "215avenue de fronton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4328122312725777,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12661706",
+    "mail": "3cocus@mairie-toulouse.fr",
+    "distance": 154670,
+    "latitude": 43.65437558241283,
+    "telephone": "0534245740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL VIRGINIA WOOLF",
+    "resultStructId": "673448",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue virginia woolf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4396120563441435,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "33450192",
+    "mail": "direction.letrianondannie@asso-atoutpetitspas.fr",
+    "distance": 154690,
+    "latitude": 43.65290027309199,
+    "telephone": "0963631448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crècheLe Trianon d'Annie",
+    "resultStructId": "673707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de l'abbe gabriel latour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.438695894435988,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13055869",
+    "mail": "oec@ocom3mom.fr",
+    "distance": 154716,
+    "latitude": 43.64504210697876,
+    "telephone": "0561475750",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ôen Couleurs",
+    "resultStructId": "609202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "203 avenue de fronton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4326233472428127,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "37129548",
+    "mail": "7nidsdange@gmail.com",
+    "distance": 154725,
+    "latitude": 43.616979141517824,
+    "telephone": "0534660670",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil7 Nids d'ange",
+    "resultStructId": "679059",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "110 route de blagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4089444288341528,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13044130",
+    "mail": "creche.vitarelles@free.fr",
+    "distance": 154799,
+    "latitude": 43.584163517414666,
+    "telephone": "0561318192",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESVITARELLES 2",
+    "resultStructId": "107717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 chemin de ramelet moundi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3805994581369985,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "33408378",
+    "mail": "boussole@apprentis-auteuil.org",
+    "distance": 155157,
+    "latitude": 43.636341509899154,
+    "telephone": "0669402253",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaBoussole / Auteuil Petite Enfance",
+    "resultStructId": "580802",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue hilaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4317834053385599,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13044087",
+    "mail": "creche.vitarelles@free.fr",
+    "distance": 155227,
+    "latitude": 43.59297876886317,
+    "telephone": "0562855798",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESVITARELLES 1",
+    "resultStructId": "107716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "122 avenue de lardenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3950485593922208,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13072252",
+    "mail": "c.nougaro@mairie-toulouse.fr",
+    "distance": 155270,
+    "latitude": 43.58251023658098,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilBordeblanche",
+    "resultStructId": "673429",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16 chemin de bordeblanche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3861102501754892,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "33462958",
+    "mail": "crechesaintsimon@mutualite-mhg.fr",
+    "distance": 155300,
+    "latitude": 43.567329673444384,
+    "telephone": "0962509959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Laronde des âges",
+    "resultStructId": "105202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue las brugues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3723648392602419,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "37117400",
+    "mail": "stcyprie@mairie-toulouse.fr",
+    "distance": 155343,
+    "latitude": 43.600732553503946,
+    "telephone": "0581917986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE CARTOUCHERIE",
+    "resultStructId": "673414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue marie de gourmay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4037324867686756,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "12491453",
+    "mail": "bbsaraga@live.fr",
+    "distance": 155393,
+    "latitude": 43.62298037160594,
+    "telephone": "0561325515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GanRachi",
+    "resultStructId": "148703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 impasse suzanne lenglen",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4239086408305064,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "32567219",
+    "mail": "stcyprie@mairie-toulouse.fr",
+    "distance": 155476,
+    "latitude": 43.600906659873345,
+    "telephone": "0581917986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CARTOUCHERIE",
+    "resultStructId": "527201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du lieutenant guy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4058627933249044,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "33411634",
+    "mail": "arcanel-direction@nidcreches.fr",
+    "distance": 155476,
+    "latitude": 43.600906659873345,
+    "telephone": "0630267752",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilArcanèl",
+    "resultStructId": "673623",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue du lieutenant guy dedieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4058627933249044,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "12488271",
+    "mail": "grainesdebambins@mutualite-mhg.fr",
+    "distance": 155477,
+    "latitude": 43.63309253921266,
+    "telephone": "0561137288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Graine de Bambins",
+    "resultStructId": "673537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue paul verlaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.433710545870834,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "31235115",
+    "mail": "toulouse.minimes@lpcr.fr",
+    "distance": 155551,
+    "latitude": 43.630121461754264,
+    "telephone": "0554063403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS CHAPERONS ROUGES TOULOUSE LESMINIMES",
+    "resultStructId": "674319",
+    "omegaId": "36542",
+    "avip": false,
+    "adresse": "59 avenue des etats unis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4322827610789035,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12745565",
+    "mail": "contact@babilou.com",
+    "distance": 155588,
+    "latitude": 43.57434023255129,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEBABILOU TOULOUSE WOODPARC",
+    "resultStructId": "557204",
+    "omegaId": "4783",
+    "avip": false,
+    "adresse": "4 rue claude-marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.38327850992339,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "12640370",
+    "mail": "crecheleballon@orange.fr",
+    "distance": 155617,
+    "latitude": 43.584863280198924,
+    "telephone": "0561440760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELE BALLON",
+    "resultStructId": "548302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue louis braud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3934485020142402,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "33415564",
+    "mail": "midi-pyrenees@ufcv.fr",
+    "distance": 155662,
+    "latitude": 43.57876662281047,
+    "telephone": "0534568682",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesPt'ites Bouilles",
+    "resultStructId": "248201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "12 chemin des pradettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3885052101019006,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13043786",
+    "mail": "saintsimon@babilou.com",
+    "distance": 155664,
+    "latitude": 43.5738909123195,
+    "telephone": "0534563169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouSaint-Simon",
+    "resultStructId": "676807",
+    "omegaId": "47505",
+    "avip": false,
+    "adresse": "135 route de saint simon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3840072750776038,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13056170",
+    "mail": "stcyprie@mairie-toulouse.fr",
+    "distance": 155701,
+    "latitude": 43.60396426203293,
+    "telephone": "0581917986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBourrassol",
+    "resultStructId": "673432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue antonio vivaldi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4118907222433328,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "33462834",
+    "mail": "cercledesloupiots@orange.fr",
+    "distance": 155713,
+    "latitude": 43.648190230861786,
+    "telephone": "0561152930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchele cercle des loupiots",
+    "resultStructId": "105201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place roger loupiac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.449616459231618,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13067178",
+    "mail": "les.enfants.terribles.cr@orange.fr",
+    "distance": 155772,
+    "latitude": 43.61461315789971,
+    "telephone": "0561211240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Enfants Terribles",
+    "resultStructId": "150206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue henri docquiert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4222607145045498,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "37116343",
+    "mail": "minimes@mairie-toulouse.fr",
+    "distance": 155865,
+    "latitude": 43.62289122640515,
+    "telephone": "0534245346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE GERMAINE CHAUMEL",
+    "resultStructId": "527601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place stephane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4307285578418554,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13066877",
+    "mail": "toulouse2@creche-la-maison-bleue.fr",
+    "distance": 155906,
+    "latitude": 43.60131700578854,
+    "telephone": "0621728811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Etincelle",
+    "resultStructId": "586602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "174avenue de grande bretagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4125644581920238,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "12491668",
+    "mail": "crechemarieleau@orange.fr",
+    "distance": 155966,
+    "latitude": 43.621820810539795,
+    "telephone": "0562725443",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Après-midide Marie l'Eau",
+    "resultStructId": "150204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4312930760366165,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13071865",
+    "mail": "3cocus@mairie-toulouse.fr",
+    "distance": 155996,
+    "latitude": 43.63626583218614,
+    "telephone": "0561135960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Lampagia",
+    "resultStructId": "528201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.443896897995758,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13071822",
+    "mail": "crechefamilialelampagia@mairie-toulouse.fr",
+    "distance": 155996,
+    "latitude": 43.63626583218614,
+    "telephone": "0531229865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Lampagia",
+    "resultStructId": "673413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.443896897995758,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12663598",
+    "mail": "3cocus@mairie-toulouse.fr",
+    "distance": 156049,
+    "latitude": 43.63772217547165,
+    "telephone": "0534245740",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilBorderouge Trois Cocus",
+    "resultStructId": "673431",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 rue du colonel paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4458734875670851,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12754896",
+    "mail": "mini-momes@mutualite-mhg.fr",
+    "distance": 156139,
+    "latitude": 43.62623946315888,
+    "telephone": "0582084083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINIMOMES",
+    "resultStructId": "673539",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 boulevard pierre et marie curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4375730011881684,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "33451290",
+    "mail": "lecoindesninous@pep31.org",
+    "distance": 156190,
+    "latitude": 43.594971312507006,
+    "telephone": "0561591386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"le coin des ninous\"",
+    "resultStructId": "104903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place jose soler-puig",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4111074658417857,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "12488787",
+    "mail": "halte-garderie.universite@mairie-toulouse.fr",
+    "distance": 156241,
+    "latitude": 43.5817260594232,
+    "telephone": "0561445629",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie Université",
+    "resultStructId": "673425",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 chemin du mirail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3998705590262734,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13044173",
+    "mail": "service.crecheminimes@ccas-toulouse.fr",
+    "distance": 156261,
+    "latitude": 43.61430411613008,
+    "telephone": "0561228030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Minimes",
+    "resultStructId": "150802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 chemin du sang de serp",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4291632651171502,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12491410",
+    "mail": "halte-garderieminimes@mairie-toulouse.fr",
+    "distance": 156344,
+    "latitude": 43.620810057944674,
+    "telephone": "0534245347",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie Minimes",
+    "resultStructId": "689834",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "94 avenue des minimes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4359474087115236,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13072424",
+    "mail": "asso.pausecalin@free.fr",
+    "distance": 156408,
+    "latitude": 43.58641782455756,
+    "telephone": "0970991693",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Petità Petit",
+    "resultStructId": "563201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "300 route de saint simon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.406634689478041,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13071779",
+    "mail": "creche123couleurs@mutualite-mhg.fr",
+    "distance": 156429,
+    "latitude": 43.58034054518448,
+    "telephone": "0561440727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3...Couleurs",
+    "resultStructId": "508904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue ferdinand laulanie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4014158386083728,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13043958",
+    "mail": "lehibou@mutualite-mhg.fr",
+    "distance": 156458,
+    "latitude": 43.55766357243445,
+    "telephone": "0561076522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEHIBOU",
+    "resultStructId": "638901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65 bis chemin de basso cambo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3806207480242458,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13055224",
+    "mail": "bassocambo@babilou.com",
+    "distance": 156486,
+    "latitude": 43.564290605545466,
+    "telephone": "0561514082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUBEBEBIZ LES MINIPOUSS",
+    "resultStructId": "676802",
+    "omegaId": "15961",
+    "avip": false,
+    "adresse": "11 rue paulin talabot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3873298492704904,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13044259",
+    "mail": "crechedanslalune@yahoo.fr",
+    "distance": 156510,
+    "latitude": 43.62203852667377,
+    "telephone": "0561130946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheassociative dans La Lune",
+    "resultStructId": "673628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue paul campadieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4394231723143776,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12487282",
+    "mail": "service.crechecompans@ccas-toulouse.fr",
+    "distance": 156511,
+    "latitude": 43.6119889443469,
+    "telephone": "0581917930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCompans Cafarelli",
+    "resultStructId": "150603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue alaric ii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4308230898281313,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13044345",
+    "mail": "creche.lespetitspierrots@gmail.com",
+    "distance": 156551,
+    "latitude": 43.63679218649331,
+    "telephone": "0534309831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Pierrots",
+    "resultStructId": "631602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue maurice bourges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4523773447494908,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "33325365",
+    "mail": "toulouse3@creche-la-maison-bleue.fr",
+    "distance": 156562,
+    "latitude": 43.606722324957104,
+    "telephone": "0562899867",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Coralise",
+    "resultStructId": "682206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4269910336938143,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13072381",
+    "mail": "asso.pausecalin@free.fr",
+    "distance": 156617,
+    "latitude": 43.58355540651877,
+    "telephone": "0952956172",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "L'Eveil",
+    "resultStructId": "563102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1rue du lot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4071477996376411,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "57592801",
+    "mail": "toulouse5@creche-la-maison-bleue.fr",
+    "distance": 156691,
+    "latitude": 43.612361906096034,
+    "telephone": "0534664243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ILOTDE VITTO",
+    "resultStructId": "676908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 esplanade compans caffarelli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.433773011455481,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12488314",
+    "mail": "lesculottescourtes@orange.fr",
+    "distance": 156694,
+    "latitude": 43.63036259815491,
+    "telephone": "0561581890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCercle des Culottes Courtes",
+    "resultStructId": "496602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue maurice bourgesmaunoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.449108312486301,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13055439",
+    "mail": "service.crechenegreneys@ccas-toulouse.fr",
+    "distance": 156709,
+    "latitude": 43.620463115910276,
+    "telephone": "0561228030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Negreneys",
+    "resultStructId": "150803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57rue des anges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4409857979375684,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12721132",
+    "mail": "crechelesbambinsdumay@may-asso.fr",
+    "distance": 156744,
+    "latitude": 43.6080077173097,
+    "telephone": "0582954488",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil les Bambins du May",
+    "resultStructId": "240002",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue des casernes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4307814454805443,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12487497",
+    "mail": "creche.clairdelune@gmail.com",
+    "distance": 156779,
+    "latitude": 43.640374287205965,
+    "telephone": "0561610285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheClair de Lune",
+    "resultStructId": "631801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 chemin de borderouge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4586298523174828,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13043055",
+    "mail": "service.crecheamidonniers@ccas-toulouse.fr",
+    "distance": 156823,
+    "latitude": 43.60610693037009,
+    "telephone": "0581917930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAmidonniers",
+    "resultStructId": "150604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 allee de brienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.430286175203881,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12491496",
+    "mail": "creche.explorateurs@gmail.com",
+    "distance": 156848,
+    "latitude": 43.605005685267024,
+    "telephone": "0561228974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Explorateurs",
+    "resultStructId": "523401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee du niger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4296859774885822,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13043528",
+    "mail": "petitebaleine@mutualite-mhg.fr",
+    "distance": 156859,
+    "latitude": 43.58498609389565,
+    "telephone": "0561404465",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LAPETITE BALEINE",
+    "resultStructId": "673535",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue de l aspin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.412042424377475,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13075004",
+    "mail": "service.crechereynerie@ccas-toulouse.fr",
+    "distance": 156952,
+    "latitude": 43.573964360938476,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDidier Daurat",
+    "resultStructId": "308001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue jean gilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4033421524610505,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13072295",
+    "mail": "aufildeleau@mutualite-mhg.fr",
+    "distance": 157026,
+    "latitude": 43.57148885299337,
+    "telephone": "0534460474",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AuFil de l'Eau",
+    "resultStructId": "673533",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 allee simone segouin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4021595848123938,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13043098",
+    "mail": "crechelacourteechelle@gmail.com",
+    "distance": 157044,
+    "latitude": 43.615053900810224,
+    "telephone": "0561242915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCourte Echelle",
+    "resultStructId": "635602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 bis boulevard matabiau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.441256983406512,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "33436878",
+    "mail": "cecile.boucaud@acsc.asso.fr",
+    "distance": 157058,
+    "latitude": 43.61880634036594,
+    "telephone": "0534242378",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "DANSONSLES CAPUCINES",
+    "resultStructId": "643401",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "53 rue pierre cazeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4446613577697704,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13075305",
+    "mail": "crechebagatelle@ccas-toulouse.fr",
+    "distance": 157115,
+    "latitude": 43.56950833160133,
+    "telephone": "0561402360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBagatelle",
+    "resultStructId": "13817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue winston churchill",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4016472686784238,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13055353",
+    "mail": "c.nougaro@mairie-toulouse.fr",
+    "distance": 157149,
+    "latitude": 43.55113390097592,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMélinée Manouchian",
+    "resultStructId": "673437",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue missak manouchian",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3847970185406406,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "53417815",
+    "mail": "h.desbals@mairie-toulouse.fr",
+    "distance": 157152,
+    "latitude": 43.579657472775715,
+    "telephone": "0536252154",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HALTEGARDERIE BAGATELLE",
+    "resultStructId": "527102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "117 rue henri desbals",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.411557572458549,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13071736",
+    "mail": "h.desbals@mairie-toulouse.fr",
+    "distance": 157152,
+    "latitude": 43.579657472775715,
+    "telephone": "0536252154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Henri Desbals",
+    "resultStructId": "673409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 rue henri desbals",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.411557572458549,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13045291",
+    "mail": "unairdebambins@mutualite-mhg.fr",
+    "distance": 157159,
+    "latitude": 43.59023129763681,
+    "telephone": "0561439619",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "UnAir de Bambins",
+    "resultStructId": "491401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 bis boulevard deodat de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.421214454389799,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13044302",
+    "mail": "direction.lesjardinsdelouise@asso-atoutpetitspas.fr",
+    "distance": 157198,
+    "latitude": 43.63315820267143,
+    "telephone": "0967192350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJARDINS DE LOUISE",
+    "resultStructId": "673708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la maourine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4587458598318275,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "37115727",
+    "mail": "multi-accueilarnaudbernard@mairie-toulouse.fr",
+    "distance": 157243,
+    "latitude": 43.610209300422454,
+    "telephone": "0534245150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILARNAUD BERNARD",
+    "resultStructId": "674414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des 3 piliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4400076717135737,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13044689",
+    "mail": "halte-garderie.croixdaurade@mairie-toulouse.fr",
+    "distance": 157253,
+    "latitude": 43.63870381488916,
+    "telephone": "0561135960",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie Croix Daurade",
+    "resultStructId": "644801",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 impasse du cimetiere de croixdaurade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4641000528015637,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13072467",
+    "mail": "bebesdo@associationcroixdo.fr",
+    "distance": 157270,
+    "latitude": 43.64173609841193,
+    "telephone": "0534595648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bébésd'Ô",
+    "resultStructId": "107610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 route d albi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4668285413561495,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12487583",
+    "mail": "lejardinenchante31@gmail.com",
+    "distance": 157270,
+    "latitude": 43.626737755659846,
+    "telephone": "0561114807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Jardin Enchanté",
+    "resultStructId": "152602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse francois boutaric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4544503078914301,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12491324",
+    "mail": "rire.chanson@free.fr",
+    "distance": 157377,
+    "latitude": 43.63742832771873,
+    "telephone": "0561488893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rires& Chansons",
+    "resultStructId": "150504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "140 route d'albi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4648569328938794,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13055396",
+    "mail": "midi-pyrenees@ufcv.fr",
+    "distance": 157380,
+    "latitude": 43.561474495208195,
+    "telephone": "0562865945",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Carabistouille",
+    "resultStructId": "248302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "16cheminement le tintoret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3981040183076412,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13043829",
+    "mail": "service.crechenougaro@ccas-toulouse.fr",
+    "distance": 157395,
+    "latitude": 43.56550837426849,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheClaude Nougaro",
+    "resultStructId": "150510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse francois foulquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4021252691768633,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13071693",
+    "mail": "crechefamilialec.nougaro@mairie-toulouse.fr",
+    "distance": 157395,
+    "latitude": 43.56550837426849,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Claude Nougaro",
+    "resultStructId": "673411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4021252691768633,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "37115591",
+    "mail": "c.nougaro@mairie-toulouse.fr",
+    "distance": 157395,
+    "latitude": 43.56550837426849,
+    "telephone": "0562274780",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HALTEGARDERIE CLAUDE NOUGARO",
+    "resultStructId": "673423",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 impasse francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4021252691768633,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13045635",
+    "mail": "service.crechevarsovie@ccas-toulouse.fr",
+    "distance": 157437,
+    "latitude": 43.59596766751819,
+    "telephone": "0534557800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Varsovie",
+    "resultStructId": "150805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de varsovie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4304215193335394,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13045248",
+    "mail": "direction@riresetgrimaces.org",
+    "distance": 157437,
+    "latitude": 43.59335233507618,
+    "telephone": "0567114708",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rireset Grimaces",
+    "resultStructId": "150505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue gazagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4281072834461863,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13042367",
+    "mail": "service.crechetroisrenards@ccas-toulouse.fr",
+    "distance": 157470,
+    "latitude": 43.607564018640495,
+    "telephone": "0561221914",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Trois Renards",
+    "resultStructId": "150605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 impasse des trois renards",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4410462775861295,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13045205",
+    "mail": "stcyprie@mairie-toulouse.fr",
+    "distance": 157526,
+    "latitude": 43.5981946445839,
+    "telephone": "0581917986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL REPUBLIQUE",
+    "resultStructId": "527401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4337016222158843,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "12489346",
+    "mail": "service.crechetaur@ccas-toulouse.fr",
+    "distance": 157556,
+    "latitude": 43.60728402534052,
+    "telephone": "0581917930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Taur",
+    "resultStructId": "150606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue du taur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4420611144841986,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13067135",
+    "mail": "bouledegomme@numericable.fr",
+    "distance": 157600,
+    "latitude": 43.611496134987256,
+    "telephone": "0561620849",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Boulede Gomme",
+    "resultStructId": "562001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue roquelaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4463315685211633,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12487368",
+    "mail": "lespetitsloups@mutualite-mhg.fr",
+    "distance": 157638,
+    "latitude": 43.60864783238771,
+    "telephone": "0561211680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles P'tits Loups",
+    "resultStructId": "603001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue bellegarde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4444457027751558,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13055482",
+    "mail": "directiondegourdis@gmail.com",
+    "distance": 157659,
+    "latitude": 43.63094095837437,
+    "telephone": "0561580082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBois des Petits Dégourdis",
+    "resultStructId": "673709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue simone boudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4635861041191112,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13067006",
+    "mail": "lesbambinoux@associationlenvol.fr",
+    "distance": 157731,
+    "latitude": 43.623306805476496,
+    "telephone": "0561388008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBambinoux",
+    "resultStructId": "631201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "187 rue du faubourg bonnefoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.458269931567851,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "12489389",
+    "mail": "service.crechesaintelucie@ccas-toulouse.fr",
+    "distance": 157750,
+    "latitude": 43.59262308084802,
+    "telephone": "0561420098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSainte Lucie",
+    "resultStructId": "150804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue sainte lucie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4320753948520075,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13072338",
+    "mail": "magalie.berbiguier@ufcv.fr",
+    "distance": 157755,
+    "latitude": 43.57149138933146,
+    "telephone": "0562486691",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Tabarbouille",
+    "resultStructId": "249201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1place andre mathieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4130467727701805,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "12491582",
+    "mail": "les3ptitschaudrons@acsc.asso.fr",
+    "distance": 157818,
+    "latitude": 43.60111182831045,
+    "telephone": "0561122936",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "TroisP'tits Chaudrons",
+    "resultStructId": "249104",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "31 rue de peyrolieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.440541095797261,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13055310",
+    "mail": "association.bullesdange@gmail.com",
+    "distance": 157841,
+    "latitude": 43.55983206877308,
+    "telephone": "0534559245",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Bulled'Ange",
+    "resultStructId": "679056",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "157 route de seysses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4034905883841453,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "45988530",
+    "mail": "toulouse.capitole@lpcr.fr",
+    "distance": 157853,
+    "latitude": 43.60247479085419,
+    "telephone": "0554063435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - TOULOUSE CAPITOLE",
+    "resultStructId": "678520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 ruesaint-ursule",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.442253458209214,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13043915",
+    "mail": "multi-accueil.saintsimon@mairie-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0536252450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilSaint-Simon",
+    "resultStructId": "674553",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place de l eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13055525",
+    "mail": "multiaccueil.danielemitterrand@mairie-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561266330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilDanielle Mitterrand",
+    "resultStructId": "673435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue antoine pastre hall b",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "59025542",
+    "mail": "cre-257@babilou.com",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0532660341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUTOULOUSE HAUTS-MURATS",
+    "resultStructId": "707307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place des hauts-murats",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13052816",
+    "mail": "trocme.g@chu-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561322548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière de Rangueil",
+    "resultStructId": "620801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du professeur jeanpoulhes - tsa 50032",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13054493",
+    "mail": "terrasse@mairie-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561200725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE TERRASSE",
+    "resultStructId": "673607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse frantz schrader",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13057159",
+    "mail": "terrasse@mairie-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561200725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale La Terrasse",
+    "resultStructId": "673608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse frantz schrader",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "52770788",
+    "mail": "creche.tendresgalipettes@sfr.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561546600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHETENDRES GALIPETTES",
+    "resultStructId": "497301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse jean - chaubet batiment",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "331500"
+  },
+  {
+    "resultId": "13054063",
+    "mail": "lapotre.v@chu-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561772055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEANDRE BARDIER",
+    "resultStructId": "620501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "330 avenue de grande bretagne - tsa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "7003431000"
+  },
+  {
+    "resultId": "13044216",
+    "mail": "mabourbaki@mairie-toulouse.fr",
+    "distance": 157860,
+    "latitude": 43.60462941553751,
+    "telephone": "0561473876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GERMAINE CHAUMEL",
+    "resultStructId": "673436",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place stephan hessel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.444224213074824,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12491281",
+    "mail": "lajaunie.farandole@wanadoo.fr",
+    "distance": 157937,
+    "latitude": 43.6089803804285,
+    "telephone": "0534416775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchela Farandole",
+    "resultStructId": "107706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4491088715306504,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13072639",
+    "mail": "contact@babilou.com",
+    "distance": 157962,
+    "latitude": 43.62151204314924,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouToulouse Bonnefoy",
+    "resultStructId": "682205",
+    "omegaId": "16177",
+    "avip": false,
+    "adresse": "30 avenue de lavaur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4601215899698847,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13044044",
+    "mail": "lou.bambin.forguete@orange.fr",
+    "distance": 157978,
+    "latitude": 43.56479774465189,
+    "telephone": "0534461642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Loubambin de la Forguete",
+    "resultStructId": "673538",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 espace des glieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4101802154409648,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13058019",
+    "mail": "amouroux@mairie-toulouse.fr",
+    "distance": 158006,
+    "latitude": 43.62954229983979,
+    "telephone": "0561489910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilAmouroux",
+    "resultStructId": "673427",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de saint tropez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4674508852351236,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13058105",
+    "mail": "amouroux@mairie-toulouse.fr",
+    "distance": 158006,
+    "latitude": 43.62954229983979,
+    "telephone": "0561489910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Amouroux",
+    "resultStructId": "673405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de saint tropez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4674508852351236,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13054235",
+    "mail": "directiondegourdis@gmail.com",
+    "distance": 158043,
+    "latitude": 43.61539200682815,
+    "telephone": "0561260347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Dégourdis",
+    "resultStructId": "673710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de periole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4561327162074302,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13072510",
+    "mail": "croquesourire@associationcroixdo.fr",
+    "distance": 158047,
+    "latitude": 43.63522927567356,
+    "telephone": "0984491445",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CroqueSourire",
+    "resultStructId": "107612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue andre vasseur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4727350213902557,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "12745436",
+    "mail": "creche.lespetitsgalopins@wanadoo.fr",
+    "distance": 158058,
+    "latitude": 43.60854983545575,
+    "telephone": "0561630348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Galopins",
+    "resultStructId": "461901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ter place belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.450500402658433,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12487325",
+    "mail": "petitoursbrun@mutualite-mhg.fr",
+    "distance": 158065,
+    "latitude": 43.59792752923728,
+    "telephone": "0562171625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Ours Brun",
+    "resultStructId": "602901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du pont de tounis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.441390838230756,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13072209",
+    "mail": "h.desbals@mairie-toulouse.fr",
+    "distance": 158081,
+    "latitude": 43.57084471289649,
+    "telephone": "0536252154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil Bordelongue Papus",
+    "resultStructId": "673430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "274 bis route de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.417316304452665,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13052945",
+    "mail": "service.crechesaintmichel@ccas-toulouse.fr",
+    "distance": 158113,
+    "latitude": 43.6001898753913,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Saint Michel",
+    "resultStructId": "150801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue francois longaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4440734288515442,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13043012",
+    "mail": "service.crechetaur@ccas-toulouse.fr",
+    "distance": 158113,
+    "latitude": 43.59693923240986,
+    "telephone": "0581917930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGaronnette",
+    "resultStructId": "150607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue de la garonnette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4412356640230932,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13054106",
+    "mail": "h.desbals@mairie-toulouse.fr",
+    "distance": 158118,
+    "latitude": 43.579715652746515,
+    "telephone": "0536252154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilCroix de Pierre",
+    "resultStructId": "673434",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue d ox",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4259573769954905,
+    "ville": "toulouse",
+    "cp": "31300"
+  },
+  {
+    "resultId": "13042969",
+    "mail": "ribambelletoulouse@gmail.com",
+    "distance": 158144,
+    "latitude": 43.603176990104295,
+    "telephone": "0562308344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRibambelle Toulouse",
+    "resultStructId": "639201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du lieutenant colonelpelissier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.447131722914973,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12487841",
+    "mail": "loupitchoun@9business.fr",
+    "distance": 158213,
+    "latitude": 43.61838420132075,
+    "telephone": "0561581700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLou Pitchoun",
+    "resultStructId": "108403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 chemin maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4611351641451362,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "12763969",
+    "mail": "creche@plumedange.fr",
+    "distance": 158292,
+    "latitude": 43.62479576079147,
+    "telephone": "0561999473",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrèchePlume D'Ange",
+    "resultStructId": "580001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "38 avenue de la roseraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4676665402297384,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13067092",
+    "mail": "cc.fourtanier@mairie-toulouse.fr",
+    "distance": 158301,
+    "latitude": 43.6023250878069,
+    "telephone": "0534453066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE FOURTANIER",
+    "resultStructId": "643601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue louis deffes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4486948498069716,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13066834",
+    "mail": "occitane@mairie-toulouse.fr",
+    "distance": 158379,
+    "latitude": 43.60309944703139,
+    "telephone": "0581917989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilOccitane",
+    "resultStructId": "673441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 place occitane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.450500402658433,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13044818",
+    "mail": "leszebulons@associationlenvol.fr",
+    "distance": 158429,
+    "latitude": 43.63917202540978,
+    "telephone": "0534251140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesZébulons",
+    "resultStructId": "643501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "107 chemin de gabardie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.48144763802351,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13044947",
+    "mail": "lesdiablotins@associationlenvol.fr",
+    "distance": 158453,
+    "latitude": 43.638800686330704,
+    "telephone": "0561580293",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Diablotins",
+    "resultStructId": "616801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 chemin de gabardie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4815011799532076,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13043184",
+    "mail": "multi-accueil.saintaubin@mairie-toulouse.fr",
+    "distance": 158532,
+    "latitude": 43.60384687193382,
+    "telephone": "0536252022",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilSaint Aubin",
+    "resultStructId": "673446",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 impasse saint aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4533931541379153,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "13052902",
+    "mail": "creche.pommedereinette31@people-and-baby.com",
+    "distance": 158537,
+    "latitude": 43.58933324808836,
+    "telephone": "0967591143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommede Reinette",
+    "resultStructId": "152004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4407701397089918,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13043141",
+    "mail": "crecheci.contact@orange.fr",
+    "distance": 158543,
+    "latitude": 43.6023961698758,
+    "telephone": "0561625716",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheClémence Isaure",
+    "resultStructId": "492701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 3 rue caraman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.452305955509894,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12661663",
+    "mail": "lamarelle.bordelongue@micro-baby.com",
+    "distance": 158548,
+    "latitude": 43.57087280991988,
+    "telephone": "0954251808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMarelle Bordelongue",
+    "resultStructId": "152005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 route d'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4242998002382012,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13072725",
+    "mail": "jolimont@mairie-toulouse.fr",
+    "distance": 158549,
+    "latitude": 43.612979998740016,
+    "telephone": "0534245573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Jolimont",
+    "resultStructId": "673407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue leon jouhaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.461460138212319,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13072811",
+    "mail": "phare@apprentis-auteuil.org",
+    "distance": 158549,
+    "latitude": 43.612979998740016,
+    "telephone": "0561112919",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePhare",
+    "resultStructId": "580901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 rue leon jouhaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.461460138212319,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13054278",
+    "mail": "service.crechetaur@ccas-toulouse.fr",
+    "distance": 158585,
+    "latitude": 43.613196649498754,
+    "telephone": "0561488828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Jolimont",
+    "resultStructId": "150807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de l observatoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4621755728876134,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "58092465",
+    "mail": "cdespax@lesberceauxdoccitanie.com",
+    "distance": 158777,
+    "latitude": 43.62347647971458,
+    "telephone": "0750034177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBERCEAUX DES ARGOULETS",
+    "resultStructId": "689832",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 route d'agde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4736029077526986,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13071908",
+    "mail": "multi-accueil.roseraie@mairie-toulouse.fr",
+    "distance": 158828,
+    "latitude": 43.62242934888527,
+    "telephone": "0561063405",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Roseraie",
+    "resultStructId": "673444",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue du parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4734698904986023,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13044732",
+    "mail": "opb@ocom3mom.fr",
+    "distance": 159056,
+    "latitude": 43.63391171263652,
+    "telephone": "0951780236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OP'TITS BONHEURS",
+    "resultStructId": "678804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 bis rue theron de montauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4862173315940506,
+    "ville": "toulouse",
+    "cp": "31200"
+  },
+  {
+    "resultId": "13052988",
+    "mail": "crechegrandrond@crechegrandrond.fr",
+    "distance": 159096,
+    "latitude": 43.595304899502395,
+    "telephone": "0561552591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Grand Rond",
+    "resultStructId": "675504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue abel autefage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.454244985006826,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "37115542",
+    "mail": "service.crecheempalot@ccas-toulouse.fr",
+    "distance": 159234,
+    "latitude": 43.578375537164234,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEEMPALOT",
+    "resultStructId": "152507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4413055670351145,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13052859",
+    "mail": "empalot.hg@caftoulouse.fr",
+    "distance": 159251,
+    "latitude": 43.57881062461392,
+    "telephone": "0561533663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Empalot",
+    "resultStructId": "615801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4419396430101536,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "31235661",
+    "mail": "toulouse.plantes@lpcr.fr",
+    "distance": 159252,
+    "latitude": 43.59216379598483,
+    "telephone": "0554063400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - TOULOUSE JARDIN DESPLANTES",
+    "resultStructId": "614701",
+    "omegaId": "52189",
+    "avip": false,
+    "adresse": "5 rue des martyrs de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.45380512954142,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12644799",
+    "mail": "multi-accueil.saintdenis@mairie-toulouse.fr",
+    "distance": 159304,
+    "latitude": 43.585578612596244,
+    "telephone": "0561146271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL SAINT DENIS",
+    "resultStructId": "673447",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue saint denis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4487662390465683,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12487755",
+    "mail": "niddescigogneaux@wanadoo.fr",
+    "distance": 159382,
+    "latitude": 43.59099111359655,
+    "telephone": "0561140775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Nid des Cigogneaux",
+    "resultStructId": "148801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue mondran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.454679351803161,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12488013",
+    "mail": "crechelespetitescanailles@yahoo.fr",
+    "distance": 159435,
+    "latitude": 43.59645729652791,
+    "telephone": "0562161848",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petites Canailles",
+    "resultStructId": "682204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du chant du merle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4602375974842283,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13052687",
+    "mail": "auxplaisirsdesbambins@mutualite-mhg.fr",
+    "distance": 159446,
+    "latitude": 43.59194189576058,
+    "telephone": "0561532595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuxPlaisirs Des Bambins",
+    "resultStructId": "673534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des martyrs de laliberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4564554550614401,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13054321",
+    "mail": "jolimont@mairie-toulouse.fr",
+    "distance": 159516,
+    "latitude": 43.611314149176444,
+    "telephone": "0561233593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Soupetard",
+    "resultStructId": "673445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse calvinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4741347027923448,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "12634995",
+    "mail": "associationlespetitspas31400@gmail.com",
+    "distance": 159543,
+    "latitude": 43.57890866998532,
+    "telephone": "0561256697",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pas",
+    "resultStructId": "673711",
+    "omegaId": "8463",
+    "avip": false,
+    "adresse": "81 rue saint-roch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.446358339486012,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "58038676",
+    "mail": "toulouse4@creche-la-maison-bleue.fr",
+    "distance": 159898,
+    "latitude": 43.5868940693006,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEJARDIN DES MERVEILLES",
+    "resultStructId": "682209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 avenue crampel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4586789225637598,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "32107510",
+    "mail": "contact@creche-vv.fr",
+    "distance": 159952,
+    "latitude": 43.55530098660072,
+    "telephone": "0562200277",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BILINGUE VALENTINS ET VALENTINES CAMPUSONCOPOLE",
+    "resultStructId": "674401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue irene joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4308981072858966,
+    "ville": "toulouse",
+    "cp": "31100"
+  },
+  {
+    "resultId": "13052558",
+    "mail": "crecheprelude31400@gmail.com",
+    "distance": 160153,
+    "latitude": 43.579761333370705,
+    "telephone": "0562263059",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEASSOCIATIVE PRELUDE",
+    "resultStructId": "108405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 avenue du lauragais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.456131893262731,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12744103",
+    "mail": "creche.cpjr@gmail.com",
+    "distance": 160284,
+    "latitude": 43.59222196386944,
+    "telephone": "0561548004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDU CENTRE JEAN RIEUX",
+    "resultStructId": "698020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 avenue jean rieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4690050884721728,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13072553",
+    "mail": "julesjul@mairie-toulouse.fr",
+    "distance": 160348,
+    "latitude": 43.57544035258695,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Rangueil",
+    "resultStructId": "644301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 avenue de rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4551526014388043,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "12487712",
+    "mail": "service.crechejulesjulien@ccas-toulouse.fr",
+    "distance": 160348,
+    "latitude": 43.57544035258695,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Jules Julien",
+    "resultStructId": "150806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 avenue de rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4551526014388043,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13052601",
+    "mail": "tendres.calins@free.fr",
+    "distance": 160896,
+    "latitude": 43.56884692407663,
+    "telephone": "0561534301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTendres Câlins",
+    "resultStructId": "150506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des roseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.45736095032816,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13056514",
+    "mail": "julesjul@mairie-toulouse.fr",
+    "distance": 160979,
+    "latitude": 43.57465270747468,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL ROSA PARKS",
+    "resultStructId": "673442",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue henri vallee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.463777313947555,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13054407",
+    "mail": "iletaitunefois@babynovars.fr",
+    "distance": 161009,
+    "latitude": 43.5921702590859,
+    "telephone": "0562308824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "IlEtait Une Fois",
+    "resultStructId": "581101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des pontils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.479587055966527,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "12490593",
+    "mail": "commeuneimage@babynovars.fr",
+    "distance": 161137,
+    "latitude": 43.58572835730826,
+    "telephone": "0561804168",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Commeune Image",
+    "resultStructId": "581001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "229 avenue jean rieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4758688664042092,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13054364",
+    "mail": "lesenfantssages@babynovars.fr",
+    "distance": 161183,
+    "latitude": 43.596151397442284,
+    "telephone": "0561342714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEnfants Sages",
+    "resultStructId": "581201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "211 avenue de castres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4855614429552577,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13052773",
+    "mail": "creche@univ-tlse3.fr",
+    "distance": 161431,
+    "latitude": 43.56802681431198,
+    "telephone": "0561557210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "UpsiMôme",
+    "resultStructId": "501801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "118 route de narbonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4645402864457417,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13045721",
+    "mail": "julesjul@mairie-toulouse.fr",
+    "distance": 161520,
+    "latitude": 43.58096991328196,
+    "telephone": "0536252861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pontdes demoiselles",
+    "resultStructId": "529901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4773450231380294,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13057073",
+    "mail": "terrasse@mairie-toulouse.fr",
+    "distance": 161648,
+    "latitude": 43.575512338940165,
+    "telephone": "0561200725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilAdrienne Bolland",
+    "resultStructId": "673426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee jean loup chretien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4744180292567788,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13054622",
+    "mail": "1ers.pas@free.fr",
+    "distance": 161670,
+    "latitude": 43.58782366690241,
+    "telephone": "0561804155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Premiers Pas sur la Terrasse",
+    "resultStructId": "674105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse victorallegre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4855168246805097,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13045850",
+    "mail": "otemps@ocom3mom.fr",
+    "distance": 161868,
+    "latitude": 43.57706448650801,
+    "telephone": "0953283430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OTEMPS POUR TOI",
+    "resultStructId": "77201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue louis breguet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4790318224471537,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13066920",
+    "mail": "bulledoetlesbidibulles@mycreches.fr",
+    "distance": 162061,
+    "latitude": 43.550268326875305,
+    "telephone": "0561531675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLED'Ô ET LES BIDIBULLES",
+    "resultStructId": "630701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin des clotasses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4577583086840762,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13045893",
+    "mail": "multi-accueil.montaudran@mairie-toulouse.fr",
+    "distance": 162189,
+    "latitude": 43.57624738183152,
+    "telephone": "0561200725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMontaudran",
+    "resultStructId": "673439",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis, impasse laurent guerrero",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4830375358803565,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13045807",
+    "mail": "contact.petitprince@free.fr",
+    "distance": 162340,
+    "latitude": 43.57777970631081,
+    "telephone": "0562801934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "148103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis chemin de bitet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.48660123152698,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "57235036",
+    "mail": "creche.babyfly@people-and-baby.com",
+    "distance": 162421,
+    "latitude": 43.57357843344328,
+    "telephone": "0659950483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYFLY",
+    "resultStructId": "673402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse gaston genin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4840964762677047,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "13054450",
+    "mail": "surlapetiteplanete@babynovars.fr",
+    "distance": 162540,
+    "latitude": 43.58225396859023,
+    "telephone": "0562579206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Surla Petite Planète",
+    "resultStructId": "581301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 impasse rene couzinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4934484666548449,
+    "ville": "toulouse",
+    "cp": "31500"
+  },
+  {
+    "resultId": "13052730",
+    "mail": "lamarelle.montaudran@micro-baby.com",
+    "distance": 163177,
+    "latitude": 43.566702428120024,
+    "telephone": "0952660808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMarelle",
+    "resultStructId": "152501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean rodier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4891623589036007,
+    "ville": "toulouse",
+    "cp": "31400"
+  },
+  {
+    "resultId": "45025063",
+    "mail": "toulouse.cosmos@lpcr.fr",
+    "distance": 163904,
+    "latitude": 43.5633886258267,
+    "telephone": "0554063408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - TOULOUSE COSMONAUTES",
+    "resultStructId": "674340",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rueandre villet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4969475890870811,
+    "ville": "toulouse",
+    "cp": "31000"
+  },
+  {
+    "resultId": "12487798",
+    "mail": "lespetitsdroles@hotmail.fr",
+    "distance": 164690,
+    "latitude": 43.557121526419515,
+    "telephone": "0561804444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Drôles",
+    "resultStructId": "107714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 allee emile monso",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5029847587019523,
+    "ville": "toulouse",
+    "cp": "31400"
+  }
+]

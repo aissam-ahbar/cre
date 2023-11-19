@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12886871",
+    "mail": "petassousboutenac@orange.fr",
+    "distance": 155053,
+    "latitude": 43.15021574870883,
+    "telephone": "0468274411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPétassous",
+    "resultStructId": "640201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des ecoliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791923011412489,
+    "ville": "boutenac",
+    "cp": "11200"
+  },
+  {
+    "resultId": "12886871",
+    "mail": "petassousboutenac@orange.fr",
+    "distance": 102274,
+    "latitude": 43.15021574870883,
+    "telephone": "0468274411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPétassous",
+    "resultStructId": "640201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des ecoliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.791923011412489,
+    "ville": "boutenac",
+    "cp": "11200"
+  }
+]

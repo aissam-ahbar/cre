@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12807528",
+    "mail": "multiaccueil.rochotte@ville-chaumont.fr",
+    "distance": 119397,
+    "latitude": 48.09170594437238,
+    "telephone": "0325031781",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Rochotte - Les Petits Poucets",
+    "resultStructId": "7590",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.134449192877694,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "12807571",
+    "mail": "multiaccueil.cavalier@ville-chaumont.fr",
+    "distance": 120384,
+    "latitude": 48.101532345276446,
+    "telephone": "0325032484",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Cavalier - L'île aux enfants",
+    "resultStructId": "7591",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 bis ruerobespierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1372364086323525,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "13077455",
+    "mail": "aupresdemonarbre@tilio.net",
+    "distance": 121146,
+    "latitude": 48.107043152742555,
+    "telephone": "0687283285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAuprès de mon Arbre - 52000 Chaumont",
+    "resultStructId": "13867",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue dupatronage laique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.143338773752885,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "12906909",
+    "mail": "haltegarderie.bouchardon@ville-chaumont.fr",
+    "distance": 121590,
+    "latitude": 48.113175300336835,
+    "telephone": "0325034164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Bouchardon",
+    "resultStructId": "9901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du docteur michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.141294064908137,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "12906909",
+    "mail": "haltegarderie.bouchardon@ville-chaumont.fr",
+    "distance": 81635,
+    "latitude": 48.113175300336835,
+    "telephone": "0325034164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Bouchardon",
+    "resultStructId": "9901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du docteur michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.141294064908137,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "13077455",
+    "mail": "aupresdemonarbre@tilio.net",
+    "distance": 82292,
+    "latitude": 48.107043152742555,
+    "telephone": "0687283285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAuprès de mon Arbre - 52000 Chaumont",
+    "resultStructId": "13867",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue dupatronage laique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.143338773752885,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "12807571",
+    "mail": "multiaccueil.cavalier@ville-chaumont.fr",
+    "distance": 82571,
+    "latitude": 48.101532345276446,
+    "telephone": "0325032484",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Cavalier - L'île aux enfants",
+    "resultStructId": "7591",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 bis ruerobespierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1372364086323525,
+    "ville": "chaumont",
+    "cp": "52000"
+  },
+  {
+    "resultId": "12807528",
+    "mail": "multiaccueil.rochotte@ville-chaumont.fr",
+    "distance": 83394,
+    "latitude": 48.09170594437238,
+    "telephone": "0325031781",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Rochotte - Les Petits Poucets",
+    "resultStructId": "7590",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.134449192877694,
+    "ville": "chaumont",
+    "cp": "52000"
+  }
+]

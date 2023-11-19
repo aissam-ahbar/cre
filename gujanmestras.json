@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12508145",
+    "mail": "lesbarbotins@enfancepourtous.com",
+    "distance": 72234,
+    "latitude": 44.62138479433534,
+    "telephone": "0556666212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES BARBOTINS",
+    "resultStructId": "76905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee clement marot 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0627072099578647,
+    "ville": "gujanmestras",
+    "cp": ""
+  },
+  {
+    "resultId": "12603175",
+    "mail": "lescoccinelles@novacreche.fr",
+    "distance": 72991,
+    "latitude": 44.619030874542425,
+    "telephone": "0556836651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES COCCINELLES",
+    "resultStructId": "110701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee mozart 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0747174871174863,
+    "ville": "gujanmestras",
+    "cp": ""
+  },
+  {
+    "resultId": "12490507",
+    "mail": "asso.lesclapotis@orange.fr",
+    "distance": 73038,
+    "latitude": 44.619843467879456,
+    "telephone": "0557524044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES CLAPOTIS",
+    "resultStructId": "684514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee mozart 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0748612279991674,
+    "ville": "gujanmestras",
+    "cp": ""
+  },
+  {
+    "resultId": "12495581",
+    "mail": "ptispouces@wanadoo.fr",
+    "distance": 76377,
+    "latitude": 44.637682929543686,
+    "telephone": "0556667864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES P'TITS POUCES",
+    "resultStructId": "103907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 avenue marechal de lattrede tassigny 33470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.109811344139033,
+    "ville": "gujanmestras",
+    "cp": ""
+  }
+]

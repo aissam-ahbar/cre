@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12847569",
+    "mail": "rcome@ville-roissy95.fr",
+    "distance": 151764,
+    "latitude": 49.00405195244511,
+    "telephone": "0134298018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale LE PETIT POUCET",
+    "resultStructId": "8521",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "roissyenfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12847655",
+    "mail": "balvy@ville-roissy95.fr",
+    "distance": 151764,
+    "latitude": 49.00405195244511,
+    "telephone": "0134294081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie LES MINI LOUPS",
+    "resultStructId": "8523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "roissyenfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12847569",
+    "mail": "rcome@ville-roissy95.fr",
+    "distance": 164067,
+    "latitude": 49.00405195244511,
+    "telephone": "0134298018",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale LE PETIT POUCET",
+    "resultStructId": "8521",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "roissyenfrance",
+    "cp": ""
+  },
+  {
+    "resultId": "12847655",
+    "mail": "balvy@ville-roissy95.fr",
+    "distance": 164067,
+    "latitude": 49.00405195244511,
+    "telephone": "0134294081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie LES MINI LOUPS",
+    "resultStructId": "8523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jean moulin 95700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511221059168769,
+    "ville": "roissyenfrance",
+    "cp": ""
+  }
+]

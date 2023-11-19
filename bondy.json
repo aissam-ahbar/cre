@@ -1,0 +1,314 @@
+[
+  {
+    "resultId": "12662695",
+    "mail": "s.jacoby@ville-bondy.fr",
+    "distance": 151372,
+    "latitude": 48.903126003261264,
+    "telephone": "0617079892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Ronde des enfants",
+    "resultStructId": "702217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4933365673740244,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12862232",
+    "mail": "s.lapierre@ville-bondy.fr",
+    "distance": 151372,
+    "latitude": 48.903126003261264,
+    "telephone": "0171866454",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Arc-en-Ciel",
+    "resultStructId": "702216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4933365673740244,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "59962398",
+    "mail": "solimomesmb@e2s.coop",
+    "distance": 151468,
+    "latitude": 48.89077197374378,
+    "telephone": "0172592210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilitinéran Soli'Mômes Bondy",
+    "resultStructId": "702009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "162 route de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4899745839922094,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "59970971",
+    "mail": "s.jacquin@ville-bondy.fr",
+    "distance": 151515,
+    "latitude": 48.89500020031246,
+    "telephone": "0171866485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil la cabane des petits",
+    "resultStructId": "702218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "151 rue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4900035822503632,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12662609",
+    "mail": "",
+    "distance": 151704,
+    "latitude": 48.89468272182361,
+    "telephone": "0171295560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Blanqui\"",
+    "resultStructId": "108611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 ruehenri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4873549322865807,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "51661130",
+    "mail": "veronique.perthu@aphp.fr",
+    "distance": 151963,
+    "latitude": 48.90914886285989,
+    "telephone": "0148026410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOEUR",
+    "resultStructId": "696104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue arthur groussier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.486257134447372,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "34240986",
+    "mail": "veronique.perthu@aphp.fr",
+    "distance": 151963,
+    "latitude": 48.90914886285989,
+    "telephone": "0148026410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCrèche cœur",
+    "resultStructId": "696105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue arthur groussier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.486257134447372,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "59933417",
+    "mail": "",
+    "distance": 152089,
+    "latitude": 48.89439812730566,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBondy Liberté",
+    "resultStructId": "701614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.482012046811339,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12862318",
+    "mail": "",
+    "distance": 152201,
+    "latitude": 48.90457786593577,
+    "telephone": "0171295757",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"De Lattre deTassigny\"",
+    "resultStructId": "108709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 bis avenue de lattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4821772232826063,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12862361",
+    "mail": "",
+    "distance": 152413,
+    "latitude": 48.89358034790976,
+    "telephone": "0171295269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Janus Korczak\"",
+    "resultStructId": "108902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bisrue etienne dolet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4774282803790633,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12662566",
+    "mail": "",
+    "distance": 152529,
+    "latitude": 48.9113453005357,
+    "telephone": "0171295985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Aubrac",
+    "resultStructId": "108603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue lucie aubrac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4788549626667122,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12862275",
+    "mail": "",
+    "distance": 152529,
+    "latitude": 48.91633435960743,
+    "telephone": "0171295801",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental Léon Blum",
+    "resultStructId": "108710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenueleon blum",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.479764825728724,
+    "ville": "bondy",
+    "cp": "93140"
+  },
+  {
+    "resultId": "12662652",
+    "mail": "s.rene-corail@ville-bondy.fr",
+    "distance": 152537,
+    "latitude": 48.917148240699,
+    "telephone": "0148503480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil l'Ile aux enfants",
+    "resultStructId": "702222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue leon blum",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.47980830647049,
+    "ville": "bondy",
+    "cp": "93140"
+  }
+]

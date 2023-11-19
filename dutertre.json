@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12627470",
+    "mail": "",
+    "distance": 154067,
+    "latitude": 49.10867319070998,
+    "telephone": "0668630195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde de Carnelle",
+    "resultStructId": "3373",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre de loisirs 95270 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3484764981806823,
+    "ville": "dutertre",
+    "cp": ""
+  },
+  {
+    "resultId": "12654302",
+    "mail": "",
+    "distance": 154573,
+    "latitude": 49.10481076701793,
+    "telephone": "0130359210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lepetit monde de Léopold",
+    "resultStructId": "3997",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue jacques duclos 95270 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3418184773692188,
+    "ville": "dutertre",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "39858317",
+    "mail": "lespetits-explorateurs@outlook.com",
+    "distance": 132187,
+    "latitude": 49.314562787770285,
+    "telephone": "0382343243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les petits explorateurs\" Florange",
+    "resultStructId": "194801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1c rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.123983754159912,
+    "ville": "florange",
+    "cp": "57190"
+  },
+  {
+    "resultId": "12548651",
+    "mail": "sma.lamoisson@orange.fr",
+    "distance": 132427,
+    "latitude": 49.32239711958742,
+    "telephone": "0382590727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" Les Minipouss \"",
+    "resultStructId": "182004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue de l'argonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.121111187837545,
+    "ville": "florange",
+    "cp": "57190"
+  }
+]

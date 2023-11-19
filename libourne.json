@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12503974",
+    "mail": "creche-libourne@lacali.fr",
+    "distance": 62687,
+    "latitude": 44.91097912093354,
+    "telephone": "0557511357",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Girondins",
+    "resultStructId": "690607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 cours des girondins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.24363318037833925,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "12504103",
+    "mail": "halte-fonneuve@lacali.fr",
+    "distance": 63096,
+    "latitude": 44.91463078051501,
+    "telephone": "0557740721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MocroCrèche Fonneuve",
+    "resultStructId": "690605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue fonneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.24697508915694985,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "12504060",
+    "mail": "multi-accueil@lacali.fr",
+    "distance": 63402,
+    "latitude": 44.9174112367608,
+    "telephone": "0557518656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil PEIDENIS",
+    "resultStructId": "690608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue james peidenis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.23211571639010595,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "41506286",
+    "mail": "m.morin@lesbambinsdabord.fr",
+    "distance": 63561,
+    "latitude": 44.9188530698672,
+    "telephone": "0749768595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBAMBINS D'ABORD",
+    "resultStructId": "219101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue du haras",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.23929372419929648,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "12606787",
+    "mail": "valery.muret@ch-libourne.fr",
+    "distance": 64025,
+    "latitude": 44.922986522778324,
+    "telephone": "0557553507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES 3 GALETS HOPITAL ROBERT BOULIN LIBOURNE",
+    "resultStructId": "697502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruecanterane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.22796367643210694,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "12568044",
+    "mail": "creche-familiale-libourne@lacali.fr",
+    "distance": 65725,
+    "latitude": 44.93830653237658,
+    "telephone": "0557253999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "126401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "102 avenue de la roudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.24244866482193644,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "56314279",
+    "mail": "lacabanelibourne@les-cherubins.com",
+    "distance": 65741,
+    "latitude": 44.93845618990498,
+    "telephone": "0670210847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacabane des chérubins",
+    "resultStructId": "648701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue max linder",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.23692259185626918,
+    "ville": "libourne",
+    "cp": "33500"
+  },
+  {
+    "resultId": "12490206",
+    "mail": "multi.libourne@pavillon-mutualite.fr",
+    "distance": 65999,
+    "latitude": 44.94077123251123,
+    "telephone": "0557510259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil PETITS PAS",
+    "resultStructId": "685505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "159 avenue georges pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.23335610442809476,
+    "ville": "libourne",
+    "cp": "33500"
+  }
+]

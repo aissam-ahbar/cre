@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "32438675",
+    "mail": "",
+    "distance": 178461,
+    "latitude": 48.54165371722176,
+    "telephone": "0164933000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieCharlie Chaplin",
+    "resultStructId": "92204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue joffre 91710 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.36186521629972,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "32441110",
+    "mail": "creche@vertlepetit.fr",
+    "distance": 179651,
+    "latitude": 48.55202256732742,
+    "telephone": "0160780979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilVert-le-Petit",
+    "resultStructId": "92213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 ter rue de la liberte 91710 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3659136417878024,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "58382169",
+    "mail": "sthilaire@bullesetreves.com",
+    "distance": 61399,
+    "latitude": 49.27400209185703,
+    "telephone": "0351244116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bulleset Rêves St Hilaire le Petit",
+    "resultStructId": "683914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place de la mairie 51490st hilaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.389319036077278,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "44707057",
+    "mail": "",
+    "distance": 84665,
+    "latitude": 49.36882604443679,
+    "telephone": "0329805506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- A L'Aube des Sens",
+    "resultStructId": "268701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit des maisonnettes 55110clery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.17943663564941,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "21763025",
+    "mail": "sma.les-oursons@famillesrurales.org",
+    "distance": 131951,
+    "latitude": 49.90528500222682,
+    "telephone": "0324268883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Les Oursons",
+    "resultStructId": "16302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du prieure 08380 signy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.2792096410825815,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "12868424",
+    "mail": "hgi-pole@ccpoh.fr",
+    "distance": 156143,
+    "latitude": 49.36112580346166,
+    "telephone": "0682233788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE \"LES MARSU'PIOTS\" CCPOH - SACY LEPETIT",
+    "resultStructId": "112711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 60190 sacy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.629401889783069,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "12868424",
+    "mail": "hgi-pole@ccpoh.fr",
+    "distance": 123848,
+    "latitude": 49.36112580346166,
+    "telephone": "0682233788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE \"LES MARSU'PIOTS\" CCPOH - SACY LEPETIT",
+    "resultStructId": "112711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'eglise 60190 sacy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.629401889783069,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "21763025",
+    "mail": "sma.les-oursons@famillesrurales.org",
+    "distance": 127772,
+    "latitude": 49.90528500222682,
+    "telephone": "0324268883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Les Oursons",
+    "resultStructId": "16302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du prieure 08380 signy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.2792096410825815,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "23376488",
+    "mail": "mcbabychou@yahoo.fr",
+    "distance": 132714,
+    "latitude": 49.80890367759793,
+    "telephone": "0633390938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYCHOU",
+    "resultStructId": "595301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue des forrieres 76590 torcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1721121137486294,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "23376990",
+    "mail": "mcbabychou@yahoo.fr",
+    "distance": 132714,
+    "latitude": 49.80890367759793,
+    "telephone": "0633390938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYKIDS",
+    "resultStructId": "595302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue des forrieres 76590 torcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1721121137486294,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "23376488",
+    "mail": "mcbabychou@yahoo.fr",
+    "distance": 156595,
+    "latitude": 49.80890367759793,
+    "telephone": "0633390938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYCHOU",
+    "resultStructId": "595301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue des forrieres 76590 torcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1721121137486294,
+    "ville": "lepetit",
+    "cp": ""
+  },
+  {
+    "resultId": "23376990",
+    "mail": "mcbabychou@yahoo.fr",
+    "distance": 156595,
+    "latitude": 49.80890367759793,
+    "telephone": "0633390938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYKIDS",
+    "resultStructId": "595302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7rue des forrieres 76590 torcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1721121137486294,
+    "ville": "lepetit",
+    "cp": ""
+  }
+]

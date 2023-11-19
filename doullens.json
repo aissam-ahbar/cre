@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12707544",
+    "mail": "creche.les.coccinelles@wanadoo.fr",
+    "distance": 44390,
+    "latitude": 50.15567010473289,
+    "telephone": "0322770807",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESCOCCINELLES",
+    "resultStructId": "498802",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "34 rue du bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3406587802903367,
+    "ville": "doullens",
+    "cp": "80600"
+  }
+]

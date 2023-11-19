@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "21211909",
+    "mail": "direction-noisiel@jdmcreches.fr",
+    "distance": 140981,
+    "latitude": 48.85477201569406,
+    "telephone": "0185766069",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Jardin des Merveilles",
+    "resultStructId": "59602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 grande allee du 12 fevrier1934",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6288143957180568,
+    "ville": "noisiel",
+    "cp": "77186"
+  },
+  {
+    "resultId": "12959154",
+    "mail": "creche.familiale@mairie-noisiel.fr",
+    "distance": 140981,
+    "latitude": 48.85477201569406,
+    "telephone": "0160062667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "15264",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "202 boulevard salvadore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6288143957180568,
+    "ville": "noisiel",
+    "cp": "77186"
+  },
+  {
+    "resultId": "12758078",
+    "mail": "multi.accueil@mairie-noisiel.fr",
+    "distance": 140981,
+    "latitude": 48.85477201569406,
+    "telephone": "0160060222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "15265",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "202boulevard salvadore allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6288143957180568,
+    "ville": "noisiel",
+    "cp": "77186"
+  },
+  {
+    "resultId": "12768054",
+    "mail": "creche.collective@mairie-noisiel.fr",
+    "distance": 141886,
+    "latitude": 48.84638716133628,
+    "telephone": "0160053352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective",
+    "resultStructId": "15263",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee saint simon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.615363282809518,
+    "ville": "noisiel",
+    "cp": "77186"
+  }
+]

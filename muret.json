@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13062792",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 158608,
+    "latitude": 43.465837291627864,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Bernadette Didier",
+    "resultStructId": "673512",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "48 rue notre dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.319480326137329,
+    "ville": "muret",
+    "cp": "31600"
+  },
+  {
+    "resultId": "12710726",
+    "mail": "cre-577@babilou.com",
+    "distance": 158709,
+    "latitude": 43.473457671768664,
+    "telephone": "0532093922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABABILOU MURET FARANDOLE",
+    "resultStructId": "676818",
+    "omegaId": "47503",
+    "avip": false,
+    "adresse": "47 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3294346632335645,
+    "ville": "muret",
+    "cp": "31600"
+  },
+  {
+    "resultId": "13062749",
+    "mail": "crech.and.dodo@orange.fr",
+    "distance": 159427,
+    "latitude": 43.46333106394518,
+    "telephone": "0561569065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèch'andDodo",
+    "resultStructId": "75505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3297136306589676,
+    "ville": "muret",
+    "cp": "31600"
+  },
+  {
+    "resultId": "33417842",
+    "mail": "cre-550@babilou.com",
+    "distance": 159677,
+    "latitude": 43.44288939785304,
+    "telephone": "0534581365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMuret Pyrénées",
+    "resultStructId": "676801",
+    "omegaId": "47510",
+    "avip": false,
+    "adresse": "116 avenue louis pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3108392535945044,
+    "ville": "muret",
+    "cp": "31600"
+  }
+]

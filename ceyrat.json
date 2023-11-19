@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12941481",
+    "mail": "lechamp@les-cherubins.com",
+    "distance": 11497,
+    "latitude": 45.720605449408694,
+    "telephone": "0687466078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Chérubins",
+    "resultStructId": "10705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des champs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0671764975947684,
+    "ville": "ceyrat",
+    "cp": "63122"
+  },
+  {
+    "resultId": "12984954",
+    "mail": "cms@ceyrat.fr",
+    "distance": 14050,
+    "latitude": 45.7485315840426,
+    "telephone": "0473313253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil L'îlot câlin",
+    "resultStructId": "185203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de la pommeraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0614238798895648,
+    "ville": "ceyrat",
+    "cp": "63122"
+  },
+  {
+    "resultId": "12984954",
+    "mail": "cms@ceyrat.fr",
+    "distance": 175098,
+    "latitude": 45.7485315840426,
+    "telephone": "0473313253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil L'îlot câlin",
+    "resultStructId": "185203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de la pommeraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0614238798895648,
+    "ville": "ceyrat",
+    "cp": "63122"
+  },
+  {
+    "resultId": "12941481",
+    "mail": "lechamp@les-cherubins.com",
+    "distance": 177861,
+    "latitude": 45.720605449408694,
+    "telephone": "0687466078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Chérubins",
+    "resultStructId": "10705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des champs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0671764975947684,
+    "ville": "ceyrat",
+    "cp": "63122"
+  }
+]

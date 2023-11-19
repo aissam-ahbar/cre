@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12849031",
+    "mail": "mini-creche@lesigny.fr",
+    "distance": 140870,
+    "latitude": 48.745477925881715,
+    "telephone": "0160021852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective L'Art et Crée",
+    "resultStructId": "15668",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.623381922062671,
+    "ville": "lesigny",
+    "cp": "77150"
+  },
+  {
+    "resultId": "12768527",
+    "mail": "multi-accueil@lesigny.fr",
+    "distance": 142423,
+    "latitude": 48.73312167899258,
+    "telephone": "0164401738",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAux Petits Pas",
+    "resultStructId": "15667",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue du bois de nanteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.602328802971235,
+    "ville": "lesigny",
+    "cp": "77150"
+  }
+]

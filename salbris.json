@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13042023",
+    "mail": "multiaccueil@ccsr.fr",
+    "distance": 159608,
+    "latitude": 47.42455075346348,
+    "telephone": "0254972333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Salbris Sologne des Rivières",
+    "resultStructId": "589201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.051913102535743,
+    "ville": "salbris",
+    "cp": "41300"
+  },
+  {
+    "resultId": "13042023",
+    "mail": "multiaccueil@ccsr.fr",
+    "distance": 54560,
+    "latitude": 47.42455075346348,
+    "telephone": "0254972333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Salbris Sologne des Rivières",
+    "resultStructId": "589201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.051913102535743,
+    "ville": "salbris",
+    "cp": "41300"
+  }
+]

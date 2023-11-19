@@ -1,0 +1,602 @@
+[
+  {
+    "resultId": "12536568",
+    "mail": "",
+    "distance": 153133,
+    "latitude": 48.80806966829192,
+    "telephone": "0142071981",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Soleil",
+    "resultStructId": "15355",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue du soleil 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4579744209433128,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12544996",
+    "mail": "haltegarderiejuilliottes@maisons-alfort.fr",
+    "distance": 154046,
+    "latitude": 48.80239504595079,
+    "telephone": "0149776015",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Julliottes\"",
+    "resultStructId": "15650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue louis pergaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4451568857279233,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "57571537",
+    "mail": "maisonsalfort2@creche-la-maison-bleue.fr",
+    "distance": 154216,
+    "latitude": 48.80800245903548,
+    "telephone": "0153668039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Propolis",
+    "resultStructId": "676710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37avenue georges clemenceau 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4431737283508914,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12536697",
+    "mail": "",
+    "distance": 154445,
+    "latitude": 48.80302004013823,
+    "telephone": "0143762591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des Juilliottes",
+    "resultStructId": "15353",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue koeing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439740145967602,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12539750",
+    "mail": "",
+    "distance": 154623,
+    "latitude": 48.81494535687151,
+    "telephone": "0148931487",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Perpignan",
+    "resultStructId": "15348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue perpignan 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.438074372070962,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12509951",
+    "mail": "crecheperrault@maisons-alfort.fr",
+    "distance": 154655,
+    "latitude": 48.80014686123116,
+    "telephone": "0143687116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Charles Perrault\"",
+    "resultStructId": "626505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue victor hugo94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4367110410301605,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "57936573",
+    "mail": "contact@creches-plume.fr",
+    "distance": 154749,
+    "latitude": 48.803275185617196,
+    "telephone": "0153882851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlumeMaisons-Alfort",
+    "resultStructId": "680907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de la republique 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4356109307811398,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12504662",
+    "mail": "haltegarderieliberte@maisons-alfort.fr",
+    "distance": 154888,
+    "latitude": 48.79193356401388,
+    "telephone": "0149776823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Liberté\"",
+    "resultStructId": "15652",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de turin 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.433129105815315,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12539707",
+    "mail": "",
+    "distance": 154913,
+    "latitude": 48.79146716508144,
+    "telephone": "0143750811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Liberté",
+    "resultStructId": "15351",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 avenue de la liberte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.432764717775425,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12504748",
+    "mail": "haltegarderiemaisondelenfant@maisons-alfort.fr",
+    "distance": 155055,
+    "latitude": 48.80593918883806,
+    "telephone": "0141791081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Maison de l'Enfant\"",
+    "resultStructId": "15653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.431579341172191,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "13057245",
+    "mail": "petitecollectivitebusteau@maisons-alfort.fr",
+    "distance": 155055,
+    "latitude": 48.80593918883806,
+    "telephone": "0141791073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Maison de l'enfant",
+    "resultStructId": "15656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.431579341172191,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12539664",
+    "mail": "",
+    "distance": 155099,
+    "latitude": 48.801045519538754,
+    "telephone": "0143764276",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Paul-Vaillant Couturier",
+    "resultStructId": "15350",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 ruep.v.couturier 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4307028655383633,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12504404",
+    "mail": "crechefamiliale@maisons-alfort.fr",
+    "distance": 155099,
+    "latitude": 48.801045519538754,
+    "telephone": "0141791073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "15655",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau - maison de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4307028655383633,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12504490",
+    "mail": "haltegarderiepetitsmousses@maisons-alfort.fr",
+    "distance": 155137,
+    "latitude": 48.81159284189605,
+    "telephone": "0149777020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"les Petits Mousses\"",
+    "resultStructId": "15651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 avenue du generalleclerc 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.430814869937483,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "13053848",
+    "mail": "crechepetitesabeilles@maisons-alfort.fr",
+    "distance": 155976,
+    "latitude": 48.81399135986878,
+    "telephone": "0141793440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil Les Petites Abeilles",
+    "resultStructId": "626506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue bourgelat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4195068439183536,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "13057202",
+    "mail": "",
+    "distance": 156094,
+    "latitude": 48.8144559468349,
+    "telephone": "0141790410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective la Ruche",
+    "resultStructId": "15649",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue chabert 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417922759395285,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "13057202",
+    "mail": "",
+    "distance": 8580,
+    "latitude": 48.8144559468349,
+    "telephone": "0141790410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective la Ruche",
+    "resultStructId": "15649",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue chabert 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.417922759395285,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "13053848",
+    "mail": "crechepetitesabeilles@maisons-alfort.fr",
+    "distance": 8705,
+    "latitude": 48.81399135986878,
+    "telephone": "0141793440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil Les Petites Abeilles",
+    "resultStructId": "626506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue bourgelat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4195068439183536,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12504490",
+    "mail": "haltegarderiepetitsmousses@maisons-alfort.fr",
+    "distance": 9545,
+    "latitude": 48.81159284189605,
+    "telephone": "0149777020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"les Petits Mousses\"",
+    "resultStructId": "15651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 avenue du generalleclerc 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.430814869937483,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12539750",
+    "mail": "",
+    "distance": 9815,
+    "latitude": 48.81494535687151,
+    "telephone": "0148931487",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Perpignan",
+    "resultStructId": "15348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue perpignan 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.438074372070962,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12504748",
+    "mail": "haltegarderiemaisondelenfant@maisons-alfort.fr",
+    "distance": 9940,
+    "latitude": 48.80593918883806,
+    "telephone": "0141791081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Maison de l'Enfant\"",
+    "resultStructId": "15653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.431579341172191,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "13057245",
+    "mail": "petitecollectivitebusteau@maisons-alfort.fr",
+    "distance": 9940,
+    "latitude": 48.80593918883806,
+    "telephone": "0141791073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Maison de l'enfant",
+    "resultStructId": "15656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.431579341172191,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "12539664",
+    "mail": "",
+    "distance": 10212,
+    "latitude": 48.801045519538754,
+    "telephone": "0143764276",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Paul-Vaillant Couturier",
+    "resultStructId": "15350",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 ruep.v.couturier 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4307028655383633,
+    "ville": "maisonsalfort",
+    "cp": ""
+  },
+  {
+    "resultId": "12504404",
+    "mail": "crechefamiliale@maisons-alfort.fr",
+    "distance": 10212,
+    "latitude": 48.801045519538754,
+    "telephone": "0141791073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "15655",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue busteau - maison de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4307028655383633,
+    "ville": "maisonsalfort",
+    "cp": "94700"
+  },
+  {
+    "resultId": "57936573",
+    "mail": "contact@creches-plume.fr",
+    "distance": 10352,
+    "latitude": 48.803275185617196,
+    "telephone": "0153882851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlumeMaisons-Alfort",
+    "resultStructId": "680907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de la republique 94700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4356109307811398,
+    "ville": "maisonsalfort",
+    "cp": ""
+  }
+]

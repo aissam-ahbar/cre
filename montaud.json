@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12881883",
+    "mail": "rt@montaud-ubohu.fr",
+    "distance": 448144,
+    "latitude": 45.26457978730188,
+    "telephone": "0476933598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMontaud'Ubohu",
+    "resultStructId": "131004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "961 route de saint quentin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.566027978449508,
+    "ville": "montaud",
+    "cp": "38210"
+  },
+  {
+    "resultId": "12881883",
+    "mail": "rt@montaud-ubohu.fr",
+    "distance": 150634,
+    "latitude": 45.26457978730188,
+    "telephone": "0476933598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMontaud'Ubohu",
+    "resultStructId": "131004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "961 route de saint quentin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.566027978449508,
+    "ville": "montaud",
+    "cp": "38210"
+  }
+]

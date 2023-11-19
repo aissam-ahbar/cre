@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "32969123",
+    "mail": "camon@happyzou.fr",
+    "distance": 69722,
+    "latitude": 49.893773875997454,
+    "telephone": "0647573383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYZOU",
+    "resultStructId": "255205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place des libertes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.345690877647884,
+    "ville": "camon",
+    "cp": "80450"
+  },
+  {
+    "resultId": "12716316",
+    "mail": "lescaminous@hotmail.fr",
+    "distance": 70353,
+    "latitude": 49.88794208579435,
+    "telephone": "0322099151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCAMINOUS",
+    "resultStructId": "257401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 place du general leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3445613742680504,
+    "ville": "camon",
+    "cp": "80450"
+  }
+]

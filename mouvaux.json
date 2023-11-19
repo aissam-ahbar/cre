@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "58748711",
+    "mail": "cre-616@babilou.fr",
+    "distance": 38889,
+    "latitude": 50.70243007363257,
+    "telephone": "0359613511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMouvaux Londres",
+    "resultStructId": "688410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue de londres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1354693920620056,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12823481",
+    "mail": "b.fares@mouvaux.fr",
+    "distance": 38929,
+    "latitude": 50.70063277331737,
+    "telephone": "0328541500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NoelleDewavrin : Les Aventuriers",
+    "resultStructId": "706843",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1386402641207503,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "60276594",
+    "mail": "b.fares@mouvaux.fr",
+    "distance": 38929,
+    "latitude": 50.70063277331737,
+    "telephone": "0328541500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NoelleDewavrin : Les Explorateurs",
+    "resultStructId": "707920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1386402641207503,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12924453",
+    "mail": "s.decottignies@mouvaux.fr",
+    "distance": 38929,
+    "latitude": 50.70063277331737,
+    "telephone": "0320260359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "10309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1386402641207503,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12603003",
+    "mail": "k.decornet@mouvaux.fr",
+    "distance": 39110,
+    "latitude": 50.70177556219099,
+    "telephone": "0320761552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'EVEIL - VILLE DE MOUVAUX",
+    "resultStructId": "2804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 boulevard carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1404910672344086,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12607174",
+    "mail": "k.decornet@mouvaux.fr",
+    "distance": 39117,
+    "latitude": 50.70149186885451,
+    "telephone": "0320761552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"MAIRIE\"",
+    "resultStructId": "2901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 boulevard carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.141003545406558,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12607217",
+    "mail": "k.decornet@mouvaux.fr",
+    "distance": 40072,
+    "latitude": 50.7157220154874,
+    "telephone": "0320761552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES FRANCS\"",
+    "resultStructId": "2902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue pierre prevost",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1393570702765983,
+    "ville": "mouvaux",
+    "cp": "59420"
+  },
+  {
+    "resultId": "12745092",
+    "mail": "",
+    "distance": 40105,
+    "latitude": 50.716563422920544,
+    "telephone": "0000000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux de Mouvaux - Crèches et Malices",
+    "resultStructId": "6138",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "604 rue detourcoing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.138797034673451,
+    "ville": "mouvaux",
+    "cp": "59420"
+  }
+]

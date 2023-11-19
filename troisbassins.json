@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12563572",
+    "mail": "lespetitsmartins@hotmail.fr",
+    "distance": 1418966,
+    "latitude": -21.102330000880798,
+    "telephone": "0262242640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Becs Roses",
+    "resultStructId": "64006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 b rue francois de mahy 97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.293692879258224,
+    "ville": "troisbassins",
+    "cp": ""
+  },
+  {
+    "resultId": "59341614",
+    "mail": "leparadisdesenfants974@gmail.com",
+    "distance": 1420483,
+    "latitude": -21.116010050448047,
+    "telephone": "0692474375",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheLe Paradis des enfants 2",
+    "resultStructId": "695709",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "142 c route hubert delisle97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30067396384351,
+    "ville": "troisbassins",
+    "cp": ""
+  },
+  {
+    "resultId": "59341533",
+    "mail": "leparadisdesenfants974@gmail.com",
+    "distance": 1420483,
+    "latitude": -21.116010050448047,
+    "telephone": "0692474375",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheLe Paradis des enfants 1",
+    "resultStructId": "695710",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "142 b route hubert delisle97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30067396384351,
+    "ville": "troisbassins",
+    "cp": ""
+  },
+  {
+    "resultId": "12563572",
+    "mail": "lespetitsmartins@hotmail.fr",
+    "distance": 33734,
+    "latitude": -21.102330000880798,
+    "telephone": "0262242640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Becs Roses",
+    "resultStructId": "64006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 b rue francois de mahy 97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.293692879258224,
+    "ville": "troisbassins",
+    "cp": ""
+  },
+  {
+    "resultId": "59341614",
+    "mail": "leparadisdesenfants974@gmail.com",
+    "distance": 34244,
+    "latitude": -21.116010050448047,
+    "telephone": "0692474375",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheLe Paradis des enfants 2",
+    "resultStructId": "695709",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "142 c route hubert delisle97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30067396384351,
+    "ville": "troisbassins",
+    "cp": ""
+  },
+  {
+    "resultId": "59341533",
+    "mail": "leparadisdesenfants974@gmail.com",
+    "distance": 34244,
+    "latitude": -21.116010050448047,
+    "telephone": "0692474375",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheLe Paradis des enfants 1",
+    "resultStructId": "695710",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "142 b route hubert delisle97426 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.30067396384351,
+    "ville": "troisbassins",
+    "cp": ""
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "52429575",
+    "mail": "eaubonne@tinticreches.fr",
+    "distance": 167244,
+    "latitude": 48.99710378331289,
+    "telephone": "0182411227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTintinnabules Eaubonne",
+    "resultStructId": "484901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6-10 place charles marret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2741478053996085,
+    "ville": "eaubonne",
+    "cp": "95600"
+  },
+  {
+    "resultId": "12731160",
+    "mail": "directriceoptitcoeur@free.fr",
+    "distance": 167546,
+    "latitude": 48.993653694698416,
+    "telephone": "0984000435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-acceuil-EAUBONNEÔ P'tits Coeurs",
+    "resultStructId": "5814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6a avenue jean-jacques rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2795744985076225,
+    "ville": "eaubonne",
+    "cp": "95600"
+  },
+  {
+    "resultId": "12482724",
+    "mail": "",
+    "distance": 167640,
+    "latitude": 48.99297935727161,
+    "telephone": "0134277103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective",
+    "resultStructId": "7",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.278112484453697,
+    "ville": "eaubonne",
+    "cp": "95600"
+  },
+  {
+    "resultId": "12482896",
+    "mail": "petite-enfance@eaubonne.fr",
+    "distance": 167640,
+    "latitude": 48.99297935727161,
+    "telephone": "0134277107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "11",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.278112484453697,
+    "ville": "eaubonne",
+    "cp": "95600"
+  },
+  {
+    "resultId": "12483283",
+    "mail": "petite-enfance@eaubonne.fr",
+    "distance": 167700,
+    "latitude": 48.99230291392198,
+    "telephone": "0134277116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Eaubonne",
+    "resultStructId": "20",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue marcuard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2790985397558687,
+    "ville": "eaubonne",
+    "cp": "95600"
+  },
+  {
+    "resultId": "12865371",
+    "mail": "eaubonne@lpcr.fr",
+    "distance": 169186,
+    "latitude": 48.97798712326127,
+    "telephone": "0174031145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bis rue honore de balzac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.284994057205767,
+    "ville": "eaubonne",
+    "cp": "95600"
+  }
+]

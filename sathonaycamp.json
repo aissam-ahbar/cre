@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12879733",
+    "mail": "sathonay@les-cherubins.com",
+    "distance": 167341,
+    "latitude": 45.82389411632813,
+    "telephone": "0682411406",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesChérubins de Sathonay",
+    "resultStructId": "9269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "897 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872518146016161,
+    "ville": "sathonaycamp",
+    "cp": "69580"
+  },
+  {
+    "resultId": "12661018",
+    "mail": "auxpetitsmomes@ville-sathonaycamp.fr",
+    "distance": 167354,
+    "latitude": 45.82442561270623,
+    "telephone": "0478089332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Ile aux Enfants",
+    "resultStructId": "88512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place joseph thevenot 69580",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.875258312037135,
+    "ville": "sathonaycamp",
+    "cp": ""
+  },
+  {
+    "resultId": "12660975",
+    "mail": "auxpetitsmomes@ville-sathonaycamp.fr",
+    "distance": 167516,
+    "latitude": 45.82230398429962,
+    "telephone": "0478084697",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAux Petits Mômes",
+    "resultStructId": "88208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 boulevard castellane 69580",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872817655808892,
+    "ville": "sathonaycamp",
+    "cp": ""
+  }
+]

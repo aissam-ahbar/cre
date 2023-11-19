@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12627986",
+    "mail": "lescaganis@maisonenfance.fr",
+    "distance": 91574,
+    "latitude": 43.33049869626025,
+    "telephone": "0442625893",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesCaganis",
+    "resultStructId": "713213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "64 place de l'eglise 83640 plan d aups",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.715831827586899,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "60530376",
+    "mail": "lesalludes@orange.fr",
+    "distance": 100482,
+    "latitude": 43.45304431243016,
+    "telephone": "0498050203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESALLUDES",
+    "resultStructId": "712401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint simon boulevard st jean 83470 stmaximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.863201595153654,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628115",
+    "mail": "leimoussi@maisonenfance.fr",
+    "distance": 100844,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiMoussi",
+    "resultStructId": "713218",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628029",
+    "mail": "leipitchoun@maisonenfance.fr",
+    "distance": 100844,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPitchoun",
+    "resultStructId": "713219",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin saint simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628072",
+    "mail": "leinistoun@maisonenfance.fr",
+    "distance": 100844,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050201",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiNistoun",
+    "resultStructId": "713220",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628029",
+    "mail": "leipitchoun@maisonenfance.fr",
+    "distance": 301190,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPitchoun",
+    "resultStructId": "713219",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin saint simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628115",
+    "mail": "leimoussi@maisonenfance.fr",
+    "distance": 301190,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiMoussi",
+    "resultStructId": "713218",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628072",
+    "mail": "leinistoun@maisonenfance.fr",
+    "distance": 301190,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050201",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiNistoun",
+    "resultStructId": "713220",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "60530376",
+    "mail": "lesalludes@orange.fr",
+    "distance": 301604,
+    "latitude": 43.45304431243016,
+    "telephone": "0498050203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESALLUDES",
+    "resultStructId": "712401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint simon boulevard st jean 83470 stmaximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.863201595153654,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12627986",
+    "mail": "lescaganis@maisonenfance.fr",
+    "distance": 306361,
+    "latitude": 43.33049869626025,
+    "telephone": "0442625893",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesCaganis",
+    "resultStructId": "713213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "64 place de l'eglise 83640 plan d aups",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.715831827586899,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12627986",
+    "mail": "lescaganis@maisonenfance.fr",
+    "distance": 149792,
+    "latitude": 43.33049869626025,
+    "telephone": "0442625893",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesCaganis",
+    "resultStructId": "713213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "64 place de l'eglise 83640 plan d aups",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.715831827586899,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "60530376",
+    "mail": "lesalludes@orange.fr",
+    "distance": 159353,
+    "latitude": 43.45304431243016,
+    "telephone": "0498050203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESALLUDES",
+    "resultStructId": "712401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint simon boulevard st jean 83470 stmaximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.863201595153654,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628115",
+    "mail": "leimoussi@maisonenfance.fr",
+    "distance": 159713,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiMoussi",
+    "resultStructId": "713218",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628029",
+    "mail": "leipitchoun@maisonenfance.fr",
+    "distance": 159713,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPitchoun",
+    "resultStructId": "713219",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin saint simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628072",
+    "mail": "leinistoun@maisonenfance.fr",
+    "distance": 159713,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050201",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiNistoun",
+    "resultStructId": "713220",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "60530376",
+    "mail": "lesalludes@orange.fr",
+    "distance": 58250,
+    "latitude": 43.45304431243016,
+    "telephone": "0498050203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESALLUDES",
+    "resultStructId": "712401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin saint simon boulevard st jean 83470 stmaximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.863201595153654,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628115",
+    "mail": "leimoussi@maisonenfance.fr",
+    "distance": 58407,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050200",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiMoussi",
+    "resultStructId": "713218",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628029",
+    "mail": "leipitchoun@maisonenfance.fr",
+    "distance": 58407,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050202",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiPitchoun",
+    "resultStructId": "713219",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin saint simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12628072",
+    "mail": "leinistoun@maisonenfance.fr",
+    "distance": 58407,
+    "latitude": 43.45073554873807,
+    "telephone": "0498050201",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeiNistoun",
+    "resultStructId": "713220",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin st simon 83470 st maximin la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.867321787067345,
+    "ville": "stebaume",
+    "cp": ""
+  },
+  {
+    "resultId": "12627986",
+    "mail": "lescaganis@maisonenfance.fr",
+    "distance": 75007,
+    "latitude": 43.33049869626025,
+    "telephone": "0442625893",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesCaganis",
+    "resultStructId": "713213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "64 place de l'eglise 83640 plan d aups",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.715831827586899,
+    "ville": "stebaume",
+    "cp": ""
+  }
+]

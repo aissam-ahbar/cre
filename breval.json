@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59186614",
+    "mail": "contact-breval@baby-village.fr",
+    "distance": 149798,
+    "latitude": 48.94452644062904,
+    "telephone": "0682566116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABY VILLAGE DES PORTES DE L'EURE",
+    "resultStructId": "693702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place dumarechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5335037791717734,
+    "ville": "breval",
+    "cp": "78980"
+  },
+  {
+    "resultId": "58689296",
+    "mail": "micro-creche123soleil@hotmail.fr",
+    "distance": 149828,
+    "latitude": 48.94458541064965,
+    "telephone": "0615343417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - 1 2 3 SOLEIL",
+    "resultStructId": "687606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue georgette aucher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5339057116339774,
+    "ville": "breval",
+    "cp": "78980"
+  }
+]

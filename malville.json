@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12815655",
+    "mail": "multiaccueilmalville@cc-loiresillon.fr",
+    "distance": 71586,
+    "latitude": 47.361493833355844,
+    "telephone": "0240130128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tout en couleurs",
+    "resultStructId": "7779",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue sainte catherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.8558217954817584,
+    "ville": "malville",
+    "cp": "44260"
+  },
+  {
+    "resultId": "12527108",
+    "mail": "haltegarderie.malville@orange.fr",
+    "distance": 72384,
+    "latitude": 47.354998063703256,
+    "telephone": "0240032569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarmottes",
+    "resultStructId": "1039",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.863185847558417,
+    "ville": "malville",
+    "cp": "44260"
+  },
+  {
+    "resultId": "12815655",
+    "mail": "multiaccueilmalville@cc-loiresillon.fr",
+    "distance": 71586,
+    "latitude": 47.361493833355844,
+    "telephone": "0240130128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tout en couleurs",
+    "resultStructId": "7779",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue sainte catherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.8558217954817584,
+    "ville": "malville",
+    "cp": "44260"
+  },
+  {
+    "resultId": "12527108",
+    "mail": "haltegarderie.malville@orange.fr",
+    "distance": 72384,
+    "latitude": 47.354998063703256,
+    "telephone": "0240032569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarmottes",
+    "resultStructId": "1039",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.863185847558417,
+    "ville": "malville",
+    "cp": "44260"
+  }
+]

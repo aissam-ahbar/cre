@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12575268",
+    "mail": "sterna.bensoussan@creche.lechaim.fr",
+    "distance": 7214,
+    "latitude": 48.90341056994346,
+    "telephone": "0147601368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELECHAIM",
+    "resultStructId": "90112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue rue jean baptiste lafolie 92250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2510317602483347,
+    "ville": "lagarennecolombes",
+    "cp": ""
+  },
+  {
+    "resultId": "33618475",
+    "mail": "contact@babilou.com",
+    "distance": 7792,
+    "latitude": 48.904331415344885,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOULA GARENNE GLACIERE",
+    "resultStructId": "445801",
+    "omegaId": "1465",
+    "avip": false,
+    "adresse": "20 rue de la glaciere 92250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.241421788147919,
+    "ville": "lagarennecolombes",
+    "cp": ""
+  },
+  {
+    "resultId": "24514702",
+    "mail": "",
+    "distance": 8359,
+    "latitude": 48.90579890266617,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Sémard",
+    "resultStructId": "25502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue pierre semard 92250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2330756100214377,
+    "ville": "lagarennecolombes",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12595005",
+    "mail": "mac.baraqueville@payssegali.fr",
+    "distance": 213064,
+    "latitude": 44.27587354148894,
+    "telephone": "0565701617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les p'tits du Segala",
+    "resultStructId": "506802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 impasse des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4388799630443287,
+    "ville": "baraqueville",
+    "cp": "12160"
+  },
+  {
+    "resultId": "12595005",
+    "mail": "mac.baraqueville@payssegali.fr",
+    "distance": 138927,
+    "latitude": 44.27587354148894,
+    "telephone": "0565701617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les p'tits du Segala",
+    "resultStructId": "506802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 impasse des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4388799630443287,
+    "ville": "baraqueville",
+    "cp": "12160"
+  }
+]

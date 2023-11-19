@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12685700",
+    "mail": "multiaccueilgenouilly@orange.fr",
+    "distance": 171420,
+    "latitude": 47.19158801165317,
+    "telephone": "0248755514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil intercommunal",
+    "resultStructId": "4727",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 rue du bas bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8849288656238508,
+    "ville": "genouilly",
+    "cp": "18310"
+  },
+  {
+    "resultId": "12685700",
+    "mail": "multiaccueilgenouilly@orange.fr",
+    "distance": 25987,
+    "latitude": 47.19158801165317,
+    "telephone": "0248755514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil intercommunal",
+    "resultStructId": "4727",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 rue du bas bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8849288656238508,
+    "ville": "genouilly",
+    "cp": "18310"
+  }
+]

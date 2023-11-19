@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "29332661",
+    "mail": "education@ville-romainville.fr",
+    "distance": 154580,
+    "latitude": 48.87481637115844,
+    "telephone": "0149209352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmunicipal Louis Aubin",
+    "resultStructId": "701434",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue louis aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4448543500330597,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666995",
+    "mail": "",
+    "distance": 154897,
+    "latitude": 48.88014597529953,
+    "telephone": "0171295753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Henri Barbusse\"",
+    "resultStructId": "117016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.441254215455797,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "59620205",
+    "mail": "contact.dpmfive@gmail.com",
+    "distance": 155016,
+    "latitude": 48.87574243279597,
+    "telephone": "0766387233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DPMFIVE",
+    "resultStructId": "698724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue alexandre dumas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439001121685033,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666909",
+    "mail": "",
+    "distance": 155303,
+    "latitude": 48.89143863477538,
+    "telephone": "0171292400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil départemental \"Parat\"",
+    "resultStructId": "117021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.437344612160304,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12877669",
+    "mail": "natacha.fodor@gmail.com",
+    "distance": 155483,
+    "latitude": 48.8790857022764,
+    "telephone": "0141714295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rire& Découvrir Romainville",
+    "resultStructId": "9221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4330487917167267,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "51586288",
+    "mail": "romainville@micro-baby.com",
+    "distance": 155496,
+    "latitude": 48.879175977715605,
+    "telephone": "0141714295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROBABYCAMELIA",
+    "resultStructId": "455801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "158-160 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4328802923665735,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12869585",
+    "mail": "romainville@biocreche.com",
+    "distance": 155501,
+    "latitude": 48.88545513001005,
+    "telephone": "0174733096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "9033",
+    "omegaId": "12155",
+    "avip": false,
+    "adresse": "13-17 allee du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.433726848402358,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "51566502",
+    "mail": "romainville@biocreche.com",
+    "distance": 155505,
+    "latitude": 48.88559635383826,
+    "telephone": "0174733096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIOCRECHE ROMAINVILLE",
+    "resultStructId": "453801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13/17 allee du belvedere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4336934624058144,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12877540",
+    "mail": "",
+    "distance": 155511,
+    "latitude": 48.893406292346945,
+    "telephone": "0148324234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Chanteloups",
+    "resultStructId": "9218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 avenue gaston roussel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.434788930519466,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666866",
+    "mail": "",
+    "distance": 155524,
+    "latitude": 48.880667068834065,
+    "telephone": "0171866024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "165001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 mail des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4327156447534155,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12630351",
+    "mail": "",
+    "distance": 155544,
+    "latitude": 48.87881131153693,
+    "telephone": "0171295639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective départemental \"Floréal\"",
+    "resultStructId": "117018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4321749311247807,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666952",
+    "mail": "",
+    "distance": 155896,
+    "latitude": 48.88412690313011,
+    "telephone": "0171295613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Maryse Bastié\"",
+    "resultStructId": "117019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11rue des fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.428100187865259,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666952",
+    "mail": "",
+    "distance": 8423,
+    "latitude": 48.88412690313011,
+    "telephone": "0171295613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Maryse Bastié\"",
+    "resultStructId": "117019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11rue des fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.428100187865259,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12630351",
+    "mail": "",
+    "distance": 8519,
+    "latitude": 48.87881131153693,
+    "telephone": "0171295639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective départemental \"Floréal\"",
+    "resultStructId": "117018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4321749311247807,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "51586288",
+    "mail": "romainville@micro-baby.com",
+    "distance": 8579,
+    "latitude": 48.879175977715605,
+    "telephone": "0141714295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROBABYCAMELIA",
+    "resultStructId": "455801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "158-160 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4328802923665735,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12877669",
+    "mail": "natacha.fodor@gmail.com",
+    "distance": 8588,
+    "latitude": 48.8790857022764,
+    "telephone": "0141714295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rire& Découvrir Romainville",
+    "resultStructId": "9221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4330487917167267,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666866",
+    "mail": "",
+    "distance": 8616,
+    "latitude": 48.880667068834065,
+    "telephone": "0171866024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance",
+    "resultStructId": "165001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 mail des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4327156447534155,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12869585",
+    "mail": "romainville@biocreche.com",
+    "distance": 8860,
+    "latitude": 48.88545513001005,
+    "telephone": "0174733096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "9033",
+    "omegaId": "12155",
+    "avip": false,
+    "adresse": "13-17 allee du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.433726848402358,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "51566502",
+    "mail": "romainville@biocreche.com",
+    "distance": 8864,
+    "latitude": 48.88559635383826,
+    "telephone": "0174733096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIOCRECHE ROMAINVILLE",
+    "resultStructId": "453801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13/17 allee du belvedere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4336934624058144,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "59620205",
+    "mail": "contact.dpmfive@gmail.com",
+    "distance": 8914,
+    "latitude": 48.87574243279597,
+    "telephone": "0766387233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DPMFIVE",
+    "resultStructId": "698724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue alexandre dumas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439001121685033,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666995",
+    "mail": "",
+    "distance": 9198,
+    "latitude": 48.88014597529953,
+    "telephone": "0171295753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Henri Barbusse\"",
+    "resultStructId": "117016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.441254215455797,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12877540",
+    "mail": "",
+    "distance": 9280,
+    "latitude": 48.893406292346945,
+    "telephone": "0148324234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Chanteloups",
+    "resultStructId": "9218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 avenue gaston roussel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.434788930519466,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "29332661",
+    "mail": "education@ville-romainville.fr",
+    "distance": 9309,
+    "latitude": 48.87481637115844,
+    "telephone": "0149209352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmunicipal Louis Aubin",
+    "resultStructId": "701434",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue louis aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4448543500330597,
+    "ville": "romainville",
+    "cp": "93230"
+  },
+  {
+    "resultId": "12666909",
+    "mail": "",
+    "distance": 9358,
+    "latitude": 48.89143863477538,
+    "telephone": "0171292400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil départemental \"Parat\"",
+    "resultStructId": "117021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.437344612160304,
+    "ville": "romainville",
+    "cp": "93230"
+  }
+]

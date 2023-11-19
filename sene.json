@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12582062",
+    "mail": "lespetitspatapons@sene.bzh",
+    "distance": 130814,
+    "latitude": 47.64810798725384,
+    "telephone": "0297473961",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Patapons",
+    "resultStructId": "89238",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du poulfanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.724974775757432,
+    "ville": "sene",
+    "cp": "56860"
+  },
+  {
+    "resultId": "12580471",
+    "mail": "labaiedeslutins@sene.bzh",
+    "distance": 131496,
+    "latitude": 47.61648090568506,
+    "telephone": "0297665395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaBaie des Lutins",
+    "resultStructId": "89237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7342464812405725,
+    "ville": "sene",
+    "cp": "56860"
+  },
+  {
+    "resultId": "12582062",
+    "mail": "lespetitspatapons@sene.bzh",
+    "distance": 130814,
+    "latitude": 47.64810798725384,
+    "telephone": "0297473961",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Patapons",
+    "resultStructId": "89238",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du poulfanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.724974775757432,
+    "ville": "sene",
+    "cp": "56860"
+  },
+  {
+    "resultId": "12580471",
+    "mail": "labaiedeslutins@sene.bzh",
+    "distance": 131496,
+    "latitude": 47.61648090568506,
+    "telephone": "0297665395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaBaie des Lutins",
+    "resultStructId": "89237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7342464812405725,
+    "ville": "sene",
+    "cp": "56860"
+  }
+]

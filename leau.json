@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12968184",
+    "mail": "lesptitsmousses@cc3m.fr",
+    "distance": 138014,
+    "latitude": 48.56375264255923,
+    "telephone": "0383716284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Les P'Tits Mousses\"",
+    "resultStructId": "707829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue durendez-vous 54360 blainville sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.405786661563903,
+    "ville": "leau",
+    "cp": ""
+  },
+  {
+    "resultId": "12966980",
+    "mail": "bergamote@cc3m.fr",
+    "distance": 138189,
+    "latitude": 48.553731844805576,
+    "telephone": "0383757352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Bergamote\"",
+    "resultStructId": "707826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cour cour jean jaures 54360blainville sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.405882619015424,
+    "ville": "leau",
+    "cp": ""
+  }
+]

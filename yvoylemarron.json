@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "32070056",
+    "mail": "sandrine.correia@microcreches-lfe.fr",
+    "distance": 178284,
+    "latitude": 47.63558502696426,
+    "telephone": "0254948995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Marronniers Yvoy le Marron",
+    "resultStructId": "89216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du moulin 41600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8540379165767593,
+    "ville": "yvoylemarron",
+    "cp": ""
+  },
+  {
+    "resultId": "32070056",
+    "mail": "sandrine.correia@microcreches-lfe.fr",
+    "distance": 71513,
+    "latitude": 47.63558502696426,
+    "telephone": "0254948995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Marronniers Yvoy le Marron",
+    "resultStructId": "89216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du moulin 41600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8540379165767593,
+    "ville": "yvoylemarron",
+    "cp": ""
+  }
+]

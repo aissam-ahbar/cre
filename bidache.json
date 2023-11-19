@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12956660",
+    "mail": "creche.cdc.bidache@orange.fr",
+    "distance": 120486,
+    "latitude": 43.48196408454931,
+    "telephone": "0559555372",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ARC-EN-CIEL",
+    "resultStructId": "11058",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3allee du parc des sports",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1426685372457586,
+    "ville": "bidache",
+    "cp": "64520"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12514724",
+    "mail": "frimousse10@wanadoo.fr",
+    "distance": 122387,
+    "latitude": 48.685264034528785,
+    "telephone": "0383202833",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheintercommunale \"Frimousse\"",
+    "resultStructId": "708520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue isabella",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.210796158688607,
+    "ville": "tomblaine",
+    "cp": "54510"
+  },
+  {
+    "resultId": "41834111",
+    "mail": "haltegarderie@mairie-tomblaine.fr",
+    "distance": 122387,
+    "latitude": 48.685264034528785,
+    "telephone": "0372472110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilcrech'endo",
+    "resultStructId": "709030",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue gisele halimi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.210796158688607,
+    "ville": "tomblaine",
+    "cp": "54510"
+  },
+  {
+    "resultId": "12556348",
+    "mail": "haltegarderietomblaine@gmail.com",
+    "distance": 122387,
+    "latitude": 48.685264034528785,
+    "telephone": "0383201352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "halte-garderie\"La Récré\"",
+    "resultStructId": "709033",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du bois la dame - complexe leolagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.210796158688607,
+    "ville": "tomblaine",
+    "cp": "54510"
+  }
+]

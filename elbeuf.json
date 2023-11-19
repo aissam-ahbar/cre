@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12867177",
+    "mail": "petiteenfance.secretariat@ccas-elbeuf.fr",
+    "distance": 117139,
+    "latitude": 49.2878589177059,
+    "telephone": "0235779754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du GRAIN DE SABLE",
+    "resultStructId": "232103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de thuit anger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9960781471102909,
+    "ville": "elbeuf",
+    "cp": "76500"
+  },
+  {
+    "resultId": "12867263",
+    "mail": "petiteenfance.secretariatcma@ccas-elbeuf.fr",
+    "distance": 117139,
+    "latitude": 49.2878589177059,
+    "telephone": "0235772255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderiedu GRAIN DE SABLE",
+    "resultStructId": "232102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de thuit anger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9960781471102909,
+    "ville": "elbeuf",
+    "cp": "76500"
+  },
+  {
+    "resultId": "12867306",
+    "mail": "petiteenfance.secretariatcma@ccas-elbeuf.fr",
+    "distance": 117409,
+    "latitude": 49.27741774970007,
+    "telephone": "0235876186",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LES PETITES ABEILLES",
+    "resultStructId": "232104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin saint cyr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0055268931422199,
+    "ville": "elbeuf",
+    "cp": "76500"
+  }
+]

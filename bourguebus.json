@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34241134",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 175314,
+    "latitude": 49.12671230215631,
+    "telephone": "0231062808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME BOURGUEBUS",
+    "resultStructId": "281901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 boulevard des nations",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.30697484675172243,
+    "ville": "bourguebus",
+    "cp": "14540"
+  },
+  {
+    "resultId": "34241134",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 26752,
+    "latitude": 49.12671230215631,
+    "telephone": "0231062808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME BOURGUEBUS",
+    "resultStructId": "281901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 boulevard des nations",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.30697484675172243,
+    "ville": "bourguebus",
+    "cp": "14540"
+  },
+  {
+    "resultId": "34241134",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 175314,
+    "latitude": 49.12671230215631,
+    "telephone": "0231062808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAM POMME BOURGUEBUS",
+    "resultStructId": "281901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 boulevard des nations",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.30697484675172243,
+    "ville": "bourguebus",
+    "cp": "14540"
+  }
+]

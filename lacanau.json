@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12490292",
+    "mail": "creche@mairie-lacanau.fr",
+    "distance": 96650,
+    "latitude": 44.981691652436595,
+    "telephone": "0557705823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MUNICIPAL",
+    "resultStructId": "183",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue albert francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.072559528955437,
+    "ville": "lacanau",
+    "cp": "33680"
+  },
+  {
+    "resultId": "12491754",
+    "mail": "crechelacanau@hotmail.fr",
+    "distance": 105250,
+    "latitude": 45.00404284474503,
+    "telephone": "0556031363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PIEDS DANS L'EAU",
+    "resultStructId": "217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jacquemein",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.195719170963832,
+    "ville": "lacanau",
+    "cp": "33680"
+  }
+]

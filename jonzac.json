@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12597069",
+    "mail": "haltegarderie.jonzac@orange.fr",
+    "distance": 122558,
+    "latitude": 45.44000339007695,
+    "telephone": "0546864414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie municipale",
+    "resultStructId": "2666",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.440265699183058,
+    "ville": "jonzac",
+    "cp": "17500"
+  }
+]

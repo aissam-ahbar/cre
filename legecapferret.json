@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12564862",
+    "mail": "creche@legecapferret.fr",
+    "distance": 87296,
+    "latitude": 44.74987298236047,
+    "telephone": "0557703590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA PINEDE DES ENFANTS",
+    "resultStructId": "697405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square branly 33950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1829405644392565,
+    "ville": "legecapferret",
+    "cp": ""
+  },
+  {
+    "resultId": "12567786",
+    "mail": "crechefamiliale@legecapferret.fr",
+    "distance": 88078,
+    "latitude": 44.79689798796719,
+    "telephone": "0556824978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LEGE CAP FERRET",
+    "resultStructId": "14986",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de cassieu 33950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1526311355844703,
+    "ville": "legecapferret",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13024694",
+    "mail": "contact@babilou.com",
+    "distance": 39974,
+    "latitude": 50.61327151611692,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBaisieux Victor",
+    "resultStructId": "543401",
+    "omegaId": "15325",
+    "avip": false,
+    "adresse": "300 rue paul emile victor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2402588792101303,
+    "ville": "baisieux",
+    "cp": "59780"
+  },
+  {
+    "resultId": "58915848",
+    "mail": "crecheoptitsmomes@gmail.com",
+    "distance": 40728,
+    "latitude": 50.607838970573376,
+    "telephone": "0320715683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASOP'TITS MOMES",
+    "resultStructId": "690601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2d avenue colombier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2552516124499618,
+    "ville": "baisieux",
+    "cp": "59780"
+  }
+]

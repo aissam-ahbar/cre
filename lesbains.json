@@ -1,0 +1,1274 @@
+[
+  {
+    "resultId": "12805851",
+    "mail": "fabienne.rudinger@mairie-balaruc-les-bains.fr",
+    "distance": 76529,
+    "latitude": 43.44793597511444,
+    "telephone": "0467184828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Moussaillons",
+    "resultStructId": "176711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la douane 34540 balaruc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.689158380558125,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "44811441",
+    "mail": "creche.montbambin@eovi.fr",
+    "distance": 94905,
+    "latitude": 44.17541111358468,
+    "telephone": "0475260737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Mont'Bambin",
+    "resultStructId": "269701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence du parc - zac des thermes26570 montbrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.443553641778517,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13025769",
+    "mail": "creche@mairie-greouxlesbains.fr",
+    "distance": 103916,
+    "latitude": 43.75553539346536,
+    "telephone": "0492742729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeiNistoun",
+    "resultStructId": "122305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la barque 04800 greoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888392811663785,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13033853",
+    "mail": "veronique.guitton3@orange.fr",
+    "distance": 124648,
+    "latitude": 44.66383946197359,
+    "telephone": "0475374695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "51002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 boulevard de vernon 07600 vals",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.36771280313027,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602444",
+    "mail": "secretariat_mdf@orange.fr",
+    "distance": 137216,
+    "latitude": 44.074475664442126,
+    "telephone": "0492320804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée accueil collectif",
+    "resultStructId": "205302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment h hlm des augiers04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179182716333596,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12601326",
+    "mail": "lejardin-enchante@orange.fr",
+    "distance": 140393,
+    "latitude": 44.085026284365206,
+    "telephone": "0492320394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin Enchanté",
+    "resultStructId": "2765",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue georges pompidou 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.21618560789722,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602487",
+    "mail": "",
+    "distance": 142202,
+    "latitude": 44.096642979135915,
+    "telephone": "0492318986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Jardin",
+    "resultStructId": "2792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre magnan 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233747129085409,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12871993",
+    "mail": "lespremierspas@provencealpesagglo.fr",
+    "distance": 142203,
+    "latitude": 44.097031688781996,
+    "telephone": "0492312191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPremiers pas",
+    "resultStructId": "9089",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des epinettes 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233513424197126,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13039142",
+    "mail": "creche.salins@cc-aps.fr",
+    "distance": 134847,
+    "latitude": 46.939457269616156,
+    "telephone": "0384379561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCollectif \"Fleur de Sel\" - SALINS LES BAINS",
+    "resultStructId": "12976",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place dela gare 39110 salins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.87713260073743,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13043356",
+    "mail": "lalocodesboutchous52@orange.fr",
+    "distance": 143283,
+    "latitude": 47.953982632872375,
+    "telephone": "0325903791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"LA LOCO DES BOUTCHOUS\"",
+    "resultStructId": "471101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de franche-comte -ancienne gare 52400 bourbonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.749378964145004,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12571570",
+    "mail": "3pommes@cmnc03.fr",
+    "distance": 150788,
+    "latitude": 46.30143007980348,
+    "telephone": "0470645926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL 3 POMMES",
+    "resultStructId": "702129",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de la folie 03310 neris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.731523790736055,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12815225",
+    "mail": "creche.lespetitspiedsenmarche@vosgescotesudouest.fr",
+    "distance": 157855,
+    "latitude": 48.1063251925502,
+    "telephone": "0961637139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les P'tits Pieds en Marche\" MARTIGNY LESBAINS",
+    "resultStructId": "498301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des villas 88320 martigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.829710099871081,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13005207",
+    "mail": "charbonnieres.passerelle@lpcr.fr",
+    "distance": 169224,
+    "latitude": 45.77851343309529,
+    "telephone": "0951522696",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES CHARBONNIERE LA PASSERELLE",
+    "resultStructId": "12187",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4avenue alexis brevet 69260 charbonnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.743437029305967,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13005551",
+    "mail": "charbonnieres.tompouce@lpcr.fr",
+    "distance": 169236,
+    "latitude": 45.778675531564595,
+    "telephone": "0437464533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTom pouce Charbonnières",
+    "resultStructId": "12195",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place bad abbach 69260charbonnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.744901164702878,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "23342295",
+    "mail": "charbonnieres@creche.attitude.fr",
+    "distance": 169534,
+    "latitude": 45.77716701164874,
+    "telephone": "0962656342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrecheCharbonnières les bains",
+    "resultStructId": "21610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "102 route de paris 69260charbonnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.75151008351218,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "48236099",
+    "mail": "sophie@generation-bambins.fr",
+    "distance": 169863,
+    "latitude": 45.774192413361014,
+    "telephone": "0472320257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGénération Bambins Charbonnières Les Bains",
+    "resultStructId": "360401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 route deparis 69260 charbonnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.752023693518944,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12488099",
+    "mail": "lamominette@paysdeluxeuil.fr",
+    "distance": 177693,
+    "latitude": 47.82023930504807,
+    "telephone": "0384937796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"La Mominette\"",
+    "resultStructId": "707203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rochambeau 70300 luxeuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.361828649428104,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12697009",
+    "mail": "creche.montrond@ccpsg.fr",
+    "distance": 178224,
+    "latitude": 45.643490979230776,
+    "telephone": "0477946555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"La récré\"",
+    "resultStructId": "4990",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre freneat 42210 montrond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.238894587353531,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12487454",
+    "mail": "lamominette@paysdeluxeuil.fr",
+    "distance": 178716,
+    "latitude": 47.812260608232506,
+    "telephone": "0384401923",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPoussinière",
+    "resultStructId": "697102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 8 mai 1945 70300 luxeuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.38074749774974,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12571570",
+    "mail": "3pommes@cmnc03.fr",
+    "distance": 111828,
+    "latitude": 46.30143007980348,
+    "telephone": "0470645926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL 3 POMMES",
+    "resultStructId": "702129",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de la folie 03310 neris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.731523790736055,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13025769",
+    "mail": "creche@mairie-greouxlesbains.fr",
+    "distance": 316893,
+    "latitude": 43.75553539346536,
+    "telephone": "0492742729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeiNistoun",
+    "resultStructId": "122305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la barque 04800 greoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888392811663785,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602487",
+    "mail": "",
+    "distance": 318079,
+    "latitude": 44.096642979135915,
+    "telephone": "0492318986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Jardin",
+    "resultStructId": "2792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre magnan 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233747129085409,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12871993",
+    "mail": "lespremierspas@provencealpesagglo.fr",
+    "distance": 318122,
+    "latitude": 44.097031688781996,
+    "telephone": "0492312191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPremiers pas",
+    "resultStructId": "9089",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des epinettes 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233513424197126,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12601326",
+    "mail": "lejardin-enchante@orange.fr",
+    "distance": 318266,
+    "latitude": 44.085026284365206,
+    "telephone": "0492320394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin Enchanté",
+    "resultStructId": "2765",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue georges pompidou 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.21618560789722,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602444",
+    "mail": "secretariat_mdf@orange.fr",
+    "distance": 319714,
+    "latitude": 44.074475664442126,
+    "telephone": "0492320804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée accueil collectif",
+    "resultStructId": "205302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment h hlm des augiers04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179182716333596,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "44811441",
+    "mail": "creche.montbambin@eovi.fr",
+    "distance": 372713,
+    "latitude": 44.17541111358468,
+    "telephone": "0475260737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Mont'Bambin",
+    "resultStructId": "269701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence du parc - zac des thermes26570 montbrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.443553641778517,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "41250410",
+    "mail": "lescroesdebrides@valvanoise.fr",
+    "distance": 419943,
+    "latitude": 45.452582207347376,
+    "telephone": "0479089346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCROES DE BRIDES",
+    "resultStructId": "700717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble le royal avenue du comtegreyfie de bellecombe 73570 brides",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.566973707637095,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12815225",
+    "mail": "creche.lespetitspiedsenmarche@vosgescotesudouest.fr",
+    "distance": 117587,
+    "latitude": 48.1063251925502,
+    "telephone": "0961637139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les P'tits Pieds en Marche\" MARTIGNY LESBAINS",
+    "resultStructId": "498301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des villas 88320 martigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.829710099871081,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13043356",
+    "mail": "lalocodesboutchous52@orange.fr",
+    "distance": 124105,
+    "latitude": 47.953982632872375,
+    "telephone": "0325903791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"LA LOCO DES BOUTCHOUS\"",
+    "resultStructId": "471101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de franche-comte -ancienne gare 52400 bourbonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.749378964145004,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12845677",
+    "mail": "lespetitsroys@yahoo.fr",
+    "distance": 169000,
+    "latitude": 48.977684768509434,
+    "telephone": "0980932349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits roys",
+    "resultStructId": "8477",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue louis delamarre 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3018795084432457,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12575655",
+    "mail": "enghien.1@lpcr.fr",
+    "distance": 169203,
+    "latitude": 48.97513276288409,
+    "telephone": "0141055392",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ENGHIENLA SOURCE",
+    "resultStructId": "685013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du temple 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307914915728747,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12503415",
+    "mail": "enghien.h@lpcr.fr",
+    "distance": 169203,
+    "latitude": 48.97513276288409,
+    "telephone": "0141055393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ENGHIENL'ILOT",
+    "resultStructId": "685014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du temple 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307914915728747,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12865414",
+    "mail": "enghienrdc@lpcr.fr",
+    "distance": 169203,
+    "latitude": 48.97513276288409,
+    "telephone": "0141055391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ENGHIENLE LAC",
+    "resultStructId": "685012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du temple 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307914915728747,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12482767",
+    "mail": "sante.bonheur@wanadoo.fr",
+    "distance": 169343,
+    "latitude": 48.97375153390057,
+    "telephone": "0139640695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Santé Bonheur",
+    "resultStructId": "8",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 villa de la croix blanche 95880enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3088058557973956,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12482939",
+    "mail": "crechefamiliale@enghien95.fr",
+    "distance": 169623,
+    "latitude": 48.9712218796487,
+    "telephone": "0139646873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "12",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean monet 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3085431020377944,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "60098864",
+    "mail": "",
+    "distance": 170551,
+    "latitude": 48.96316082025067,
+    "telephone": "0183849767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles ENGHIEN-LES-BAINS",
+    "resultStructId": "704517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "142 avenued'enghien 95880 enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.305004316939365,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "18398692",
+    "mail": "andernosptitsmousses@gmail.com",
+    "distance": 80422,
+    "latitude": 44.74362874641641,
+    "telephone": "0556032425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES P'TITS MOUSSES",
+    "resultStructId": "14833",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 avenue des colonies 33510andernos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0860544658575662,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "56603279",
+    "mail": "gestion@microcrechegironde.com",
+    "distance": 81127,
+    "latitude": 44.764393013679765,
+    "telephone": "0676604791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS LOUPS",
+    "resultStructId": "684242",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue joseph cugnot 33510 andernos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0772512802498244,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12651937",
+    "mail": "crechenidange.andernos@wanadoo.fr",
+    "distance": 82000,
+    "latitude": 44.744642841169856,
+    "telephone": "0556260909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LE NID D'ANGES",
+    "resultStructId": "487601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 boulevard de la plage 33510andernos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.108863327908644,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13035702",
+    "mail": "creche@mairie-cambolesbains.fr",
+    "distance": 143890,
+    "latitude": 43.361147029060604,
+    "telephone": "0559293191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePIMPRENELLE",
+    "resultStructId": "12896",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue azantza 64250 cambo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3993265814937796,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12805851",
+    "mail": "fabienne.rudinger@mairie-balaruc-les-bains.fr",
+    "distance": 23679,
+    "latitude": 43.44793597511444,
+    "telephone": "0467184828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Moussaillons",
+    "resultStructId": "176711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la douane 34540 balaruc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.689158380558125,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13033853",
+    "mail": "veronique.guitton3@orange.fr",
+    "distance": 124277,
+    "latitude": 44.66383946197359,
+    "telephone": "0475374695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "51002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 boulevard de vernon 07600 vals",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.36771280313027,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "44811441",
+    "mail": "creche.montbambin@eovi.fr",
+    "distance": 139564,
+    "latitude": 44.17541111358468,
+    "telephone": "0475260737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Mont'Bambin",
+    "resultStructId": "269701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence du parc - zac des thermes26570 montbrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.443553641778517,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13025769",
+    "mail": "creche@mairie-greouxlesbains.fr",
+    "distance": 161107,
+    "latitude": 43.75553539346536,
+    "telephone": "0492742729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeiNistoun",
+    "resultStructId": "122305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la barque 04800 greoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888392811663785,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602444",
+    "mail": "secretariat_mdf@orange.fr",
+    "distance": 190549,
+    "latitude": 44.074475664442126,
+    "telephone": "0492320804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée accueil collectif",
+    "resultStructId": "205302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment h hlm des augiers04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179182716333596,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602444",
+    "mail": "secretariat_mdf@orange.fr",
+    "distance": 16086,
+    "latitude": 44.074475664442126,
+    "telephone": "0492320804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaisonnée accueil collectif",
+    "resultStructId": "205302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment h hlm des augiers04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.179182716333596,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12601326",
+    "mail": "lejardin-enchante@orange.fr",
+    "distance": 18839,
+    "latitude": 44.085026284365206,
+    "telephone": "0492320394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin Enchanté",
+    "resultStructId": "2765",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue georges pompidou 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.21618560789722,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12602487",
+    "mail": "",
+    "distance": 20735,
+    "latitude": 44.096642979135915,
+    "telephone": "0492318986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeP'tit Jardin",
+    "resultStructId": "2792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre magnan 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233747129085409,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "12871993",
+    "mail": "lespremierspas@provencealpesagglo.fr",
+    "distance": 20755,
+    "latitude": 44.097031688781996,
+    "telephone": "0492312191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPremiers pas",
+    "resultStructId": "9089",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des epinettes 04000 digne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.233513424197126,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13025769",
+    "mail": "creche@mairie-greouxlesbains.fr",
+    "distance": 26361,
+    "latitude": 43.75553539346536,
+    "telephone": "0492742729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeiNistoun",
+    "resultStructId": "122305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la barque 04800 greoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888392811663785,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "44811441",
+    "mail": "creche.montbambin@eovi.fr",
+    "distance": 55088,
+    "latitude": 44.17541111358468,
+    "telephone": "0475260737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Mont'Bambin",
+    "resultStructId": "269701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence du parc - zac des thermes26570 montbrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.443553641778517,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "13033853",
+    "mail": "veronique.guitton3@orange.fr",
+    "distance": 156075,
+    "latitude": 44.66383946197359,
+    "telephone": "0475374695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "51002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 boulevard de vernon 07600 vals",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.36771280313027,
+    "ville": "lesbains",
+    "cp": ""
+  },
+  {
+    "resultId": "41250410",
+    "mail": "lescroesdebrides@valvanoise.fr",
+    "distance": 171043,
+    "latitude": 45.452582207347376,
+    "telephone": "0479089346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCROES DE BRIDES",
+    "resultStructId": "700717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble le royal avenue du comtegreyfie de bellecombe 73570 brides",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.566973707637095,
+    "ville": "lesbains",
+    "cp": ""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "13017806",
+    "mail": "hakoonamatata31130@gmail.com",
+    "distance": 159982,
+    "latitude": 43.624802449102226,
+    "telephone": "0983066136",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAKOONAMATATA",
+    "resultStructId": "586701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue joseph hubert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4921435384962025,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "13065802",
+    "mail": "cre-572@babilou.com",
+    "distance": 160352,
+    "latitude": 43.62387956777856,
+    "telephone": "0562802331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABabilou Balma Vidailhan",
+    "resultStructId": "676811",
+    "omegaId": "47434",
+    "avip": false,
+    "adresse": "9 rue marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.496727909848808,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "12488830",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 161310,
+    "latitude": 43.60899889700932,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Marie Laurencin",
+    "resultStructId": "673545",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue de lasbordes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4982806258100316,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "32942237",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 161310,
+    "latitude": 43.60899889700932,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL Marie Laurencin",
+    "resultStructId": "673547",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "22 avenue de lasbordes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4982806258100316,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "32709105",
+    "mail": "cre-560@babilou.com",
+    "distance": 162033,
+    "latitude": 43.597299841987265,
+    "telephone": "0532094560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUBALMA ROLAND GARROS",
+    "resultStructId": "676806",
+    "omegaId": "51937",
+    "avip": false,
+    "adresse": "1 rue roland garros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4989467962128442,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "13058750",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 162277,
+    "latitude": 43.61141749729274,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Balma",
+    "resultStructId": "696926",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 esplanade du cyprie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5143102716166663,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "13058793",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 162610,
+    "latitude": 43.596378667686075,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieNoncesse",
+    "resultStructId": "610001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 route de flourens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.50656326487905,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "13058750",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 191835,
+    "latitude": 43.61141749729274,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Balma",
+    "resultStructId": "696926",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 esplanade du cyprie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5143102716166663,
+    "ville": "balma",
+    "cp": "31130"
+  },
+  {
+    "resultId": "13058793",
+    "mail": "petite.enfance@mairie-balma.fr",
+    "distance": 192477,
+    "latitude": 43.596378667686075,
+    "telephone": "0638430017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieNoncesse",
+    "resultStructId": "610001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 route de flourens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.50656326487905,
+    "ville": "balma",
+    "cp": "31130"
+  }
+]

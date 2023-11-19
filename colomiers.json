@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "13060685",
+    "mail": "saje@mairie-colomiers.fr",
+    "distance": 148097,
+    "latitude": 43.61731416936494,
+    "telephone": "0561153173",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LePerget",
+    "resultStructId": "548601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 allee de guerande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3110973466682225,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "13060599",
+    "mail": "crechemariecurie-dir@mairie-colomiers.fr",
+    "distance": 149428,
+    "latitude": 43.609218707221274,
+    "telephone": "0561153168",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "EAJEDE MARIE-CURIE",
+    "resultStructId": "696925",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "26 allee du gers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3235080859847537,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "12490937",
+    "mail": "saje@mairie-colomiers.fr",
+    "distance": 149621,
+    "latitude": 43.61171700904477,
+    "telephone": "0561783175",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "VALD'ARAN",
+    "resultStructId": "674209",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place du val d'aran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3286968978237608,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "13060857",
+    "mail": "saje@mairie-colomiers.fr",
+    "distance": 149806,
+    "latitude": 43.61658836672338,
+    "telephone": "0561153167",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HélèneBoucher",
+    "resultStructId": "548701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin des carrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3359004661674172,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "12735589",
+    "mail": "contact@couleursdeveil.fr",
+    "distance": 149935,
+    "latitude": 43.60075695292405,
+    "telephone": "0561615184",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCOULEURS D'EVEIL",
+    "resultStructId": "525201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 bis avenue du louron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.32321785028537,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "13060384",
+    "mail": "saje@mairie-colomiers.fr",
+    "distance": 149956,
+    "latitude": 43.61510666270253,
+    "telephone": "0561158496",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeChâteau d'Eau",
+    "resultStructId": "674208",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 rue du chateau d'eau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.336790729463652,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "12490894",
+    "mail": "saje@mairie-colomiers.fr",
+    "distance": 151192,
+    "latitude": 43.607268322419074,
+    "telephone": "0561783295",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Collectifdu Parc",
+    "resultStructId": "548501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 chemin de sault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3480375092517487,
+    "ville": "colomiers",
+    "cp": "31770"
+  },
+  {
+    "resultId": "13060341",
+    "mail": "cre-568@babilou.com",
+    "distance": 151905,
+    "latitude": 43.59710140289834,
+    "telephone": "0534591661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouColomiers Maurice Magre",
+    "resultStructId": "676809",
+    "omegaId": "47511",
+    "avip": false,
+    "adresse": "1 allee maurice magre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3493225155644855,
+    "ville": "colomiers",
+    "cp": "31770"
+  }
+]

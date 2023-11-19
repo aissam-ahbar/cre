@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12571097",
+    "mail": "virginie.comte.fosses@roissy-online.com",
+    "distance": 153840,
+    "latitude": 49.0985593903926,
+    "telephone": "0134311131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Pirouette",
+    "resultStructId": "2062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue fernand picquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5145081098586264,
+    "ville": "fosses",
+    "cp": "95470"
+  },
+  {
+    "resultId": "12571097",
+    "mail": "virginie.comte.fosses@roissy-online.com",
+    "distance": 153581,
+    "latitude": 49.0985593903926,
+    "telephone": "0134311131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Pirouette",
+    "resultStructId": "2062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue fernand picquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5145081098586264,
+    "ville": "fosses",
+    "cp": "95470"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12624159",
+    "mail": "halte.garderie@frepillon.fr",
+    "distance": 162157,
+    "latitude": 49.05267861981611,
+    "telephone": "0134188573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie \"La Capucine\"",
+    "resultStructId": "708737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du coudray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2098482524741514,
+    "ville": "frepillon",
+    "cp": "95740"
+  }
+]

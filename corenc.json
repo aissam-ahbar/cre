@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12882399",
+    "mail": "creche@ville-corenc.fr",
+    "distance": 434280,
+    "latitude": 45.20969284721793,
+    "telephone": "0476180661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mouflets",
+    "resultStructId": "706528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 chemin la croix de montfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.748291764880252,
+    "ville": "corenc",
+    "cp": "38700"
+  },
+  {
+    "resultId": "12882399",
+    "mail": "creche@ville-corenc.fr",
+    "distance": 141521,
+    "latitude": 45.20969284721793,
+    "telephone": "0476180661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Mouflets",
+    "resultStructId": "706528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 chemin la croix de montfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.748291764880252,
+    "ville": "corenc",
+    "cp": "38700"
+  }
+]

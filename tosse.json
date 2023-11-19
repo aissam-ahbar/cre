@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "57895493",
+    "mail": "les-bibouilles@orange.fr",
+    "distance": 113361,
+    "latitude": 43.691874720976564,
+    "telephone": "0643156615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBibouilles deTosse",
+    "resultStructId": "703407",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "18 rue deslibellules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -1.323240227188755,
+    "ville": "tosse",
+    "cp": "40230"
+  }
+]

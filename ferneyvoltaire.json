@@ -1,0 +1,75 @@
+[
+  {
+    "resultId": "12926302",
+    "mail": "ferney@maptitecreche.fr",
+    "distance": 184864,
+    "latitude": 46.25899260152606,
+    "telephone": "0457051461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MA P'TITE CRECHE",
+    "resultStructId": "10352",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue de gex 01210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.106987485660525,
+    "ville": "ferneyvoltaire",
+    "cp": ""
+  },
+  {
+    "resultId": "12857373",
+    "mail": "lafarandole.ccpg@leolagrange.org",
+    "distance": 185153,
+    "latitude": 46.25639789987994,
+    "telephone": "0450202664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA FARANDOLE",
+    "resultStructId": "222113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue voltaire 01210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.108859074654137,
+    "ville": "ferneyvoltaire",
+    "cp": ""
+  },
+  {
+    "resultId": "48251170",
+    "mail": "ferney@halppy-kids.fr",
+    "distance": 185317,
+    "latitude": 46.25732410629742,
+    "telephone": "0450289351",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheBisou Papillon FERNEYVOLTAIRE",
+    "resultStructId": "709104",
+    "omegaId": "0",
+    "avip": true,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "26 avenuevoltaire 01210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 6.112540487163081,
+    "ville": "ferneyvoltaire",
+    "cp": ""
+  }
+]

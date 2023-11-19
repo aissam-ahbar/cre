@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "30674409",
+    "mail": "valdore@acolea-asso.fr",
+    "distance": 159728,
+    "latitude": 45.85517304974733,
+    "telephone": "0472543736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Le Val Doré",
+    "resultStructId": "673412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 route de saint jean desvignes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.680162769292231,
+    "ville": "lozanne",
+    "cp": "69380"
+  },
+  {
+    "resultId": "12908285",
+    "mail": "lapetiteloco69@yahoo.fr",
+    "distance": 159850,
+    "latitude": 45.85490324266007,
+    "telephone": "0472543736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Petite Loco",
+    "resultStructId": "9933",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "378 route de lyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.684978776620786,
+    "ville": "lozanne",
+    "cp": "69380"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12768742",
+    "mail": "jardindescoccinelles@yahoo.fr",
+    "distance": 105599,
+    "latitude": 43.51733529996279,
+    "telephone": "0562596263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoccinelles",
+    "resultStructId": "151117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue laplagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4038957877964215,
+    "ville": "mirande",
+    "cp": "32300"
+  },
+  {
+    "resultId": "12686904",
+    "mail": "louspitchous@coeur-dastarac.fr",
+    "distance": 106711,
+    "latitude": 43.50368483716949,
+    "telephone": "0562583091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LousPitchous",
+    "resultStructId": "514001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 rue des entrepreneurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.398170434185476,
+    "ville": "mirande",
+    "cp": "32300"
+  }
+]

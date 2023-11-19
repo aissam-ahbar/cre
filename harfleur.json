@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "38350595",
+    "mail": "tourmentin@micro-baby.com",
+    "distance": 82674,
+    "latitude": 49.50570123814012,
+    "telephone": "0761746908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOURMENTIN",
+    "resultStructId": "172102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue des caraques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.20222262351786424,
+    "ville": "harfleur",
+    "cp": "76700"
+  },
+  {
+    "resultId": "12831135",
+    "mail": "lesvoiles@people-and-baby.com",
+    "distance": 82721,
+    "latitude": 49.50607964280597,
+    "telephone": "0950957062",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilLes Voiles",
+    "resultStructId": "701717",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue des caraques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.2025421307205834,
+    "ville": "harfleur",
+    "cp": "76700"
+  },
+  {
+    "resultId": "12831092",
+    "mail": "aupetitpotdemiel@enfancepourtous.com",
+    "distance": 82872,
+    "latitude": 49.50846841013474,
+    "telephone": "0950916953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AUPETIT POT DE MIEL",
+    "resultStructId": "225904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.20135739498337682,
+    "ville": "harfleur",
+    "cp": "76700"
+  }
+]

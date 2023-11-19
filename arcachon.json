@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34569724",
+    "mail": "claudie.lafabrie@ville-arcachon.fr",
+    "distance": 80250,
+    "latitude": 44.6499459146538,
+    "telephone": "0557156235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SERVICED'ACCUEIL FAMILIAL",
+    "resultStructId": "122803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue regue verte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.155755647392762,
+    "ville": "arcachon",
+    "cp": "33120"
+  },
+  {
+    "resultId": "12535149",
+    "mail": "boutchou@ville-arcachon.fr",
+    "distance": 80250,
+    "latitude": 44.6499459146538,
+    "telephone": "0557156079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BOUT'CHOU",
+    "resultStructId": "700206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue regue verte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.155755647392762,
+    "ville": "arcachon",
+    "cp": "33120"
+  },
+  {
+    "resultId": "12535192",
+    "mail": "engremy@ville-arcachon.fr",
+    "distance": 80413,
+    "latitude": 44.657737203607326,
+    "telephone": "0557520979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ENGREMY- LES PETITS PIRELONS",
+    "resultStructId": "122801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1529603694707635,
+    "ville": "arcachon",
+    "cp": "33120"
+  }
+]

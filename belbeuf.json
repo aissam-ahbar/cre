@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12831737",
+    "mail": "creche@mairie-belbeuf.fr",
+    "distance": 165416,
+    "latitude": 49.386846206554075,
+    "telephone": "0235922480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BONNEAVENTURE",
+    "resultStructId": "676402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 a rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1405357607096083,
+    "ville": "belbeuf",
+    "cp": "76240"
+  },
+  {
+    "resultId": "12831737",
+    "mail": "creche@mairie-belbeuf.fr",
+    "distance": 130834,
+    "latitude": 49.386846206554075,
+    "telephone": "0235922480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BONNEAVENTURE",
+    "resultStructId": "676402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 a rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1405357607096083,
+    "ville": "belbeuf",
+    "cp": "76240"
+  }
+]

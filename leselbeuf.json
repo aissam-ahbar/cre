@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12823868",
+    "mail": "lesmarsupilamis@caudebecleselbeuf.fr",
+    "distance": 118734,
+    "latitude": 49.285837210571025,
+    "telephone": "0235746417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMARSUPILAMIS",
+    "resultStructId": "542501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "129 rue sadi carnot 76320 caudebec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0204218778126932,
+    "ville": "leselbeuf",
+    "cp": ""
+  },
+  {
+    "resultId": "21178671",
+    "mail": "lejardindeslutins@ville-saint-aubin-les-elbeuf.fr",
+    "distance": 118841,
+    "latitude": 49.302772131617665,
+    "telephone": "0232820805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin des Lutins",
+    "resultStructId": "133806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 espace des foudriots 76410 staubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.012852391001813,
+    "ville": "leselbeuf",
+    "cp": ""
+  },
+  {
+    "resultId": "12845806",
+    "mail": "",
+    "distance": 119919,
+    "latitude": 49.275923130936214,
+    "telephone": "0232965964",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGalipette",
+    "resultStructId": "8480",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue helene boucher 76320 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0427388205752735,
+    "ville": "leselbeuf",
+    "cp": ""
+  },
+  {
+    "resultId": "21179143",
+    "mail": "lacalinerie@ville-saint-aubin-les-elbeuf.fr",
+    "distance": 120218,
+    "latitude": 49.302561379007535,
+    "telephone": "0235875012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaParent'aise",
+    "resultStructId": "134101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue a.malraux 76410 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0331508036297916,
+    "ville": "leselbeuf",
+    "cp": ""
+  }
+]

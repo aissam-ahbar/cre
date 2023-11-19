@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13038282",
+    "mail": "m.chollier@ccivs.fr",
+    "distance": 107339,
+    "latitude": 45.14518251855035,
+    "telephone": "0553024285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES FRIMOUSSES",
+    "resultStructId": "55213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 8 mai 1945 24110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5277126430552429,
+    "ville": "stastier",
+    "cp": ""
+  },
+  {
+    "resultId": "13038325",
+    "mail": "m.chollier@ccivs.fr",
+    "distance": 107339,
+    "latitude": 45.14518251855035,
+    "telephone": "0553540658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AUJARDIN DES COCCINELLES",
+    "resultStructId": "55209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 8 mai 1945 24110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5277126430552429,
+    "ville": "stastier",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12512875",
+    "mail": "crecheminipouces@9business.fr",
+    "distance": 409002,
+    "latitude": 45.4693948112124,
+    "telephone": "0479063450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMINI POUCES",
+    "resultStructId": "709502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "batiment semper vivens promenade de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.909660099284772,
+    "ville": "tignes",
+    "cp": "73320"
+  },
+  {
+    "resultId": "58110753",
+    "mail": "lespetitsmontagnards@tignes.net",
+    "distance": 409002,
+    "latitude": 45.4693948112124,
+    "telephone": "0479400339",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Montagnards",
+    "resultStructId": "703113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "254 promenade de la toviere -batiment semper vivens - rez de piste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.909660099284772,
+    "ville": "tignes",
+    "cp": "73320"
+  }
+]

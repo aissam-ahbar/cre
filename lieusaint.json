@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13015226",
+    "mail": "",
+    "distance": 192526,
+    "latitude": 48.632477034668625,
+    "telephone": "0164135573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Pieds",
+    "resultStructId": "469702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.554304465265249,
+    "ville": "lieusaint",
+    "cp": "77127"
+  },
+  {
+    "resultId": "12962379",
+    "mail": "",
+    "distance": 192526,
+    "latitude": 48.632477034668625,
+    "telephone": "0164135573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "469701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.554304465265249,
+    "ville": "lieusaint",
+    "cp": "77127"
+  },
+  {
+    "resultId": "13015226",
+    "mail": "",
+    "distance": 146503,
+    "latitude": 48.632477034668625,
+    "telephone": "0164135573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Pieds",
+    "resultStructId": "469702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.554304465265249,
+    "ville": "lieusaint",
+    "cp": "77127"
+  },
+  {
+    "resultId": "12962379",
+    "mail": "",
+    "distance": 146503,
+    "latitude": 48.632477034668625,
+    "telephone": "0164135573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "469701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.554304465265249,
+    "ville": "lieusaint",
+    "cp": "77127"
+  }
+]

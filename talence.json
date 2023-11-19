@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12560777",
+    "mail": "petitsdiablestalence@free.fr",
+    "distance": 56791,
+    "latitude": 44.79095848915156,
+    "telephone": "0556806228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES BONS PETITS DIABLES",
+    "resultStructId": "690115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 allee des petitsrois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5922238627763382,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12505221",
+    "mail": "petiteenfance@talence.fr",
+    "distance": 57383,
+    "latitude": 44.79708354893481,
+    "telephone": "0556800667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ELEPHANT BLEU",
+    "resultStructId": "690612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de thouars",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5922167268856823,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "59163089",
+    "mail": "clement.maniere@creches-kokoon.fr",
+    "distance": 57800,
+    "latitude": 44.799149587174696,
+    "telephone": "0638119211",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoKooNLibération",
+    "resultStructId": "693311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "592 cours de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5977937107406889,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12510252",
+    "mail": "creche@centre-social.com",
+    "distance": 57801,
+    "latitude": 44.80793253803242,
+    "telephone": "0557124034",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil BAGATELLE",
+    "resultStructId": "647",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "323 rue frederic sevene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5752361983040243,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12531494",
+    "mail": "infos@cabrioles.fr",
+    "distance": 58086,
+    "latitude": 44.80504987642298,
+    "telephone": "0556043479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil CABRIOLES",
+    "resultStructId": "690708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue georges lasserre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5903969968751898,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12993726",
+    "mail": "apetipa@les-cherubins.com",
+    "distance": 58123,
+    "latitude": 44.804494247938024,
+    "telephone": "0983402030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE APETIPA LES CHERUBINS DE TALENCE",
+    "resultStructId": "11920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "471 bis cours dela liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.592775948795941,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "18182034",
+    "mail": "campus@pitchoun.org",
+    "distance": 58603,
+    "latitude": 44.80559757447202,
+    "telephone": "0557019993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PITCHOUN' LE P'TIT CAMPUS",
+    "resultStructId": "691901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6024161240930452,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12504232",
+    "mail": "petiteenfance@mairie-talence.fr",
+    "distance": 58982,
+    "latitude": 44.81382120983063,
+    "telephone": "0557351671",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ILOT DES ENFANTS",
+    "resultStructId": "690611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue pierre renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5914698139331004,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12505436",
+    "mail": "petiteenfance@talence.fr",
+    "distance": 58982,
+    "latitude": 44.81382120983063,
+    "telephone": "0556843660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PAPILLONS",
+    "resultStructId": "690614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue pierre renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5914698139331004,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "21216735",
+    "mail": "petiteenfance@talence.fr",
+    "distance": 58982,
+    "latitude": 44.81382120983063,
+    "telephone": "0556843663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES LIBELLULES",
+    "resultStructId": "690615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue pierre renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5914698139331004,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12504318",
+    "mail": "petiteenfance@mairie-talence.fr",
+    "distance": 58982,
+    "latitude": 44.81382120983063,
+    "telephone": "0557351674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE L ARBRE ENCHANTE",
+    "resultStructId": "690617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue pierre renaudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5914698139331004,
+    "ville": "talence",
+    "cp": "33400"
+  },
+  {
+    "resultId": "12803013",
+    "mail": "cdef-creche-talence@gironde.fr",
+    "distance": 59273,
+    "latitude": 44.81357221169436,
+    "telephone": "0757358411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEGRIBOUILLE",
+    "resultStructId": "692302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 avenue de la vielle tour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5997613766570673,
+    "ville": "talence",
+    "cp": "33400"
+  }
+]

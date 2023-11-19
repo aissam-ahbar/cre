@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12860340",
+    "mail": "garderie@mairie2alpes.fr",
+    "distance": 398551,
+    "latitude": 45.01173145496397,
+    "telephone": "0476790677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GarderieLe Bonhomme de Neige",
+    "resultStructId": "232208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des sagnes 38860 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125891612817358,
+    "ville": "deuxalpes",
+    "cp": ""
+  },
+  {
+    "resultId": "34118639",
+    "mail": "creche@mairie2alpes.fr",
+    "distance": 398551,
+    "latitude": 45.01173145496397,
+    "telephone": "0476790262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Bonhomme de Neige",
+    "resultStructId": "232209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des sagnes 38860 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125891612817358,
+    "ville": "deuxalpes",
+    "cp": ""
+  },
+  {
+    "resultId": "12860340",
+    "mail": "garderie@mairie2alpes.fr",
+    "distance": 117417,
+    "latitude": 45.01173145496397,
+    "telephone": "0476790677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GarderieLe Bonhomme de Neige",
+    "resultStructId": "232208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des sagnes 38860 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125891612817358,
+    "ville": "deuxalpes",
+    "cp": ""
+  },
+  {
+    "resultId": "34118639",
+    "mail": "creche@mairie2alpes.fr",
+    "distance": 117417,
+    "latitude": 45.01173145496397,
+    "telephone": "0476790262",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Bonhomme de Neige",
+    "resultStructId": "232209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des sagnes 38860 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125891612817358,
+    "ville": "deuxalpes",
+    "cp": ""
+  }
+]

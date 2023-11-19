@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12522636",
+    "mail": "petite.enfance@paray-vieille-poste.fr",
+    "distance": 196630,
+    "latitude": 48.711908125237365,
+    "telephone": "0160488040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Envol",
+    "resultStructId": "678901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99rue maurice rigolet 91550 paray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3602506647320975,
+    "ville": "vieilleposte",
+    "cp": ""
+  },
+  {
+    "resultId": "35360247",
+    "mail": "petite.enfance@paray-vieille-poste.fr",
+    "distance": 196798,
+    "latitude": 48.71272069492462,
+    "telephone": "0160488043",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLucioles",
+    "resultStructId": "678902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 rue maurice-rigolet 91550 paray",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.364473040799065,
+    "ville": "vieilleposte",
+    "cp": ""
+  }
+]

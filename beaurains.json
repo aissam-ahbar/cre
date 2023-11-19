@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13033939",
+    "mail": "gabrielle.dauchy@citycreche.fr",
+    "distance": 24342,
+    "latitude": 50.260362418935756,
+    "telephone": "0321500592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Citycrèche - Beaurains 2",
+    "resultStructId": "12855",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.797972258930466,
+    "ville": "beaurains",
+    "cp": "62217"
+  }
+]

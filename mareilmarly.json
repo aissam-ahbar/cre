@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12592124",
+    "mail": "creche@mareil-marly.fr",
+    "distance": 189414,
+    "latitude": 48.88097771232409,
+    "telephone": "0139587470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE COMMUNAL - LES PTITS BOUCHONS",
+    "resultStructId": "684320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue dessablons 78750",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.073353488034881,
+    "ville": "mareilmarly",
+    "cp": ""
+  },
+  {
+    "resultId": "39063166",
+    "mail": "canetons78@gmail.com",
+    "distance": 189712,
+    "latitude": 48.88657773304014,
+    "telephone": "0683047806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CANETONS DES QUATRE CHEMINS",
+    "resultStructId": "710821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue descloseaux 78750",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.077802112820244,
+    "ville": "mareilmarly",
+    "cp": ""
+  },
+  {
+    "resultId": "12713779",
+    "mail": "lesptitescigognes@yahoo.fr",
+    "distance": 189881,
+    "latitude": 48.881391337799215,
+    "telephone": "0669221280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES P'TITES CIGOGNES",
+    "resultStructId": "681306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de port marly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0797787023915717,
+    "ville": "mareilmarly",
+    "cp": "78750"
+  }
+]

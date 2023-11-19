@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58486308",
+    "mail": "floriane.argentier@grandis-avec-moi.com",
+    "distance": 436891,
+    "latitude": 45.372840623255115,
+    "telephone": "0458172869",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRANDISAVEC MOI",
+    "resultStructId": "685017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "178 rue des sept laux 38570",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992911456185093,
+    "ville": "lecheylas",
+    "cp": ""
+  },
+  {
+    "resultId": "12882184",
+    "mail": "petitecreche@lecheylas.fr",
+    "distance": 438277,
+    "latitude": 45.390249487050774,
+    "telephone": "0476132091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche Les P'tits Loups",
+    "resultStructId": "699522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "385 route du rompay 38570",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996900329947545,
+    "ville": "lecheylas",
+    "cp": ""
+  },
+  {
+    "resultId": "58486308",
+    "mail": "floriane.argentier@grandis-avec-moi.com",
+    "distance": 157557,
+    "latitude": 45.372840623255115,
+    "telephone": "0458172869",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRANDISAVEC MOI",
+    "resultStructId": "685017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "178 rue des sept laux 38570",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.992911456185093,
+    "ville": "lecheylas",
+    "cp": ""
+  },
+  {
+    "resultId": "12882184",
+    "mail": "petitecreche@lecheylas.fr",
+    "distance": 159481,
+    "latitude": 45.390249487050774,
+    "telephone": "0476132091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche Les P'tits Loups",
+    "resultStructId": "699522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "385 route du rompay 38570",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996900329947545,
+    "ville": "lecheylas",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57683375",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 13969,
+    "latitude": 50.35635190917643,
+    "telephone": "0981893010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SesPremiers pas Thelus 2",
+    "resultStructId": "677804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1030 rue des artilleurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7906608520867953,
+    "ville": "thelus",
+    "cp": "62580"
+  },
+  {
+    "resultId": "57683111",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 13969,
+    "latitude": 50.35635190917643,
+    "telephone": "0981893010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SesPremiers pas Thelus 1",
+    "resultStructId": "677805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1030 rue des artilleurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7906608520867953,
+    "ville": "thelus",
+    "cp": "62580"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "29237950",
+    "mail": "balos02@hotmail.fr",
+    "distance": 151508,
+    "latitude": 49.81996407494564,
+    "telephone": "0681185759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BBGRIBOUILLE",
+    "resultStructId": "674111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 route de grugies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2883806814502075,
+    "ville": "gauchy",
+    "cp": "02430"
+  },
+  {
+    "resultId": "12746081",
+    "mail": "petite.enfance@ville-gauchy.fr",
+    "distance": 152050,
+    "latitude": 49.821725242976605,
+    "telephone": "0323510361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance \"Ô premiers pas\"",
+    "resultStructId": "52012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue francoismitterand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2795302862240097,
+    "ville": "gauchy",
+    "cp": "02430"
+  },
+  {
+    "resultId": "12746081",
+    "mail": "petite.enfance@ville-gauchy.fr",
+    "distance": 82738,
+    "latitude": 49.821725242976605,
+    "telephone": "0323510361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance \"Ô premiers pas\"",
+    "resultStructId": "52012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue francoismitterand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2795302862240097,
+    "ville": "gauchy",
+    "cp": "02430"
+  },
+  {
+    "resultId": "29237950",
+    "mail": "balos02@hotmail.fr",
+    "distance": 83216,
+    "latitude": 49.81996407494564,
+    "telephone": "0681185759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BBGRIBOUILLE",
+    "resultStructId": "674111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 route de grugies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2883806814502075,
+    "ville": "gauchy",
+    "cp": "02430"
+  }
+]

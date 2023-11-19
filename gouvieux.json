@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12957047",
+    "mail": "gouv-loups2@orange.fr",
+    "distance": 144247,
+    "latitude": 49.1916547587634,
+    "telephone": "0344580737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DES TERTRES \"LES PETITS LOUPS\" DE GOUVIEUX",
+    "resultStructId": "111902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23rue de la tannerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.409276139339863,
+    "ville": "gouvieux",
+    "cp": "60270"
+  },
+  {
+    "resultId": "12906952",
+    "mail": "gouv-loups1@orange.fr",
+    "distance": 144594,
+    "latitude": 49.187827459162484,
+    "telephone": "0344580737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU CENTRE \"LES PETITS LOUPS\" DEGOUVIEUX",
+    "resultStructId": "109903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "sente pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416048190651195,
+    "ville": "gouvieux",
+    "cp": "60270"
+  }
+]

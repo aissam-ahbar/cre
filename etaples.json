@@ -1,0 +1,75 @@
+[
+  {
+    "resultId": "60265264",
+    "mail": "isaed2b@gmail.com",
+    "distance": 75721,
+    "latitude": 50.51348261427991,
+    "telephone": "0321899247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASISAE DES DEUX BAIES - Dans les Pas d'Enola",
+    "resultStructId": "707723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue dugeneral dupont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6505182649734316,
+    "ville": "etaples",
+    "cp": "62630"
+  },
+  {
+    "resultId": "12738427",
+    "mail": "ccas.mpe@etaples-sur-mer.fr",
+    "distance": 76493,
+    "latitude": 50.519554744751524,
+    "telephone": "0321094160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la PetiteEnfance",
+    "resultStructId": "705901",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "10 rue de lapierre trouee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.6401212496593143,
+    "ville": "etaples",
+    "cp": "62630"
+  },
+  {
+    "resultId": "13013205",
+    "mail": "multi-accueil@cafpas-de-calais.cnafmail.fr",
+    "distance": 76593,
+    "latitude": 50.51418633712284,
+    "telephone": "0321946200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC\"A l'abordage\" - Etaples",
+    "resultStructId": "176526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard lefevre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6382299972888668,
+    "ville": "etaples",
+    "cp": "62630"
+  }
+]

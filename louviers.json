@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12764184",
+    "mail": "petite.enfance@ville-louviers.fr",
+    "distance": 125892,
+    "latitude": 49.20912602018478,
+    "telephone": "0232504984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Capucines\"",
+    "resultStructId": "691911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des fougeres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.157383972570873,
+    "ville": "louviers",
+    "cp": "27400"
+  },
+  {
+    "resultId": "12764141",
+    "mail": "petite.enfance@ville-louviers.fr",
+    "distance": 126997,
+    "latitude": 49.21625224470143,
+    "telephone": "0232259977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Louviers",
+    "resultStructId": "691908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue saint germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1703690264818152,
+    "ville": "louviers",
+    "cp": "27400"
+  },
+  {
+    "resultId": "12764098",
+    "mail": "petite.enfance@ville-louviers.fr",
+    "distance": 126997,
+    "latitude": 49.21625224470143,
+    "telephone": "0232259939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSaint Germain (Louviers)",
+    "resultStructId": "691909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue saint germain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1703690264818152,
+    "ville": "louviers",
+    "cp": "27400"
+  },
+  {
+    "resultId": "12764227",
+    "mail": "cascadine@creche-attitude.fr",
+    "distance": 127552,
+    "latitude": 49.22744717299008,
+    "telephone": "0232254195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Cascadine",
+    "resultStructId": "52207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76bis rue saint-hildevert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1739376456546091,
+    "ville": "louviers",
+    "cp": "27400"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "49562674",
+    "mail": "contact@homaye.fr",
+    "distance": 84819,
+    "latitude": 50.77914100854328,
+    "telephone": "0361138840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheHOMAYÉ",
+    "resultStructId": "681011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean-marie bourguignon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6174604994888935,
+    "ville": "wimereux",
+    "cp": "62930"
+  },
+  {
+    "resultId": "12996865",
+    "mail": "nougatine@mairie-wimereux.fr",
+    "distance": 85120,
+    "latitude": 50.774460296818035,
+    "telephone": "0321336143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Nougatine\"",
+    "resultStructId": "708406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue du tennis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6096820469245257,
+    "ville": "wimereux",
+    "cp": "62930"
+  }
+]

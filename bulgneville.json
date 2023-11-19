@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12920239",
+    "mail": "creche.bugneville@orange.fr",
+    "distance": 164932,
+    "latitude": 48.20620470672473,
+    "telephone": "0329092408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Mousses\"",
+    "resultStructId": "10211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue juliette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.833156566524874,
+    "ville": "bulgneville",
+    "cp": "88140"
+  },
+  {
+    "resultId": "12920239",
+    "mail": "creche.bugneville@orange.fr",
+    "distance": 111522,
+    "latitude": 48.20620470672473,
+    "telephone": "0329092408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Mousses\"",
+    "resultStructId": "10211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue juliette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.833156566524874,
+    "ville": "bulgneville",
+    "cp": "88140"
+  }
+]

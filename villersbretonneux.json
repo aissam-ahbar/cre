@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12714037",
+    "mail": "multiaccueil80@orange.fr",
+    "distance": 68675,
+    "latitude": 49.86975957512016,
+    "telephone": "0322447009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMARSUPIAUX",
+    "resultStructId": "222702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 a rue du marechal foch 80800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5153013929274084,
+    "ville": "villersbretonneux",
+    "cp": ""
+  },
+  {
+    "resultId": "12924883",
+    "mail": "villersbretonneux@happyzou.fr",
+    "distance": 68823,
+    "latitude": 49.86879520967787,
+    "telephone": "0647573383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYZOU",
+    "resultStructId": "258401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des tavernes 80800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5124472678195473,
+    "ville": "villersbretonneux",
+    "cp": ""
+  }
+]

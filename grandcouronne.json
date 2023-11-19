@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12843484",
+    "mail": "creche.lilibulle@ville-grandcouronne.fr",
+    "distance": 120801,
+    "latitude": 49.359448923306,
+    "telephone": "0232112483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lilibulle",
+    "resultStructId": "579502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55rue pasteur 76530",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.00798081553718,
+    "ville": "grandcouronne",
+    "cp": ""
+  }
+]

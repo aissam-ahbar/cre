@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12623428",
+    "mail": "",
+    "distance": 166559,
+    "latitude": 48.98843080310274,
+    "telephone": "0139873362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Arnouville",
+    "resultStructId": "3279",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.415469391391513,
+    "ville": "arnouville",
+    "cp": "95400"
+  },
+  {
+    "resultId": "53437890",
+    "mail": "enfance@ml.arnouville9.org",
+    "distance": 166576,
+    "latitude": 48.98779575751197,
+    "telephone": "0134293200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "529301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4210847077990794,
+    "ville": "arnouville",
+    "cp": "95400"
+  },
+  {
+    "resultId": "53437073",
+    "mail": "enfance@ml.arnouville95.org",
+    "distance": 166576,
+    "latitude": 48.98779575751197,
+    "telephone": "0134293200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "529302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 rue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4210847077990794,
+    "ville": "arnouville",
+    "cp": "95400"
+  },
+  {
+    "resultId": "53437446",
+    "mail": "enfance@ml.arnouville95.org",
+    "distance": 167177,
+    "latitude": 48.98185363821857,
+    "telephone": "0134459710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilcollectif des Augustines",
+    "resultStructId": "534101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 bis avenue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4270769420977096,
+    "ville": "arnouville",
+    "cp": "95400"
+  }
+]

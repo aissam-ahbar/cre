@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12767495",
+    "mail": "multiaccueil@ville-lepassage.fr",
+    "distance": 69293,
+    "latitude": 44.191975102876086,
+    "telephone": "0553986477",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"A petits pas\"",
+    "resultStructId": "6659",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de consuegra 47520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6056188236109383,
+    "ville": "lepassage",
+    "cp": ""
+  },
+  {
+    "resultId": "12620289",
+    "mail": "kimmer@fede47.admr.org",
+    "distance": 69850,
+    "latitude": 44.1786733332941,
+    "telephone": "0553485672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrèche de l'Admr du Passage d'Agen",
+    "resultStructId": "3206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lacordaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6077920612273138,
+    "ville": "lepassage",
+    "cp": "47520"
+  }
+]

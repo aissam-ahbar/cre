@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12905877",
+    "mail": "123soleil@mutualitelimousine.fr",
+    "distance": 142086,
+    "latitude": 45.75739717271306,
+    "telephone": "0555586669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil1 2 3 Soleil",
+    "resultStructId": "9877",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue saint eloi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2693897861608525,
+    "ville": "solignac",
+    "cp": "87110"
+  },
+  {
+    "resultId": "12905877",
+    "mail": "123soleil@mutualitelimousine.fr",
+    "distance": 196446,
+    "latitude": 45.75739717271306,
+    "telephone": "0555586669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil1 2 3 Soleil",
+    "resultStructId": "9877",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue saint eloi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2693897861608525,
+    "ville": "solignac",
+    "cp": "87110"
+  }
+]

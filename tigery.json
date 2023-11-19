@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12684711",
+    "mail": "s.quaranta@sipej.fr",
+    "distance": 191759,
+    "latitude": 48.63525073646796,
+    "telephone": "0169110243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'IlotCâlin",
+    "resultStructId": "4704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue isaac newton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511465097901016,
+    "ville": "tigery",
+    "cp": "91250"
+  },
+  {
+    "resultId": "12618870",
+    "mail": "",
+    "distance": 192554,
+    "latitude": 48.64392351508868,
+    "telephone": "0160754645",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil",
+    "resultStructId": "3173",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedu lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.506604886304851,
+    "ville": "tigery",
+    "cp": "91250"
+  },
+  {
+    "resultId": "12684711",
+    "mail": "s.quaranta@sipej.fr",
+    "distance": 149613,
+    "latitude": 48.63525073646796,
+    "telephone": "0169110243",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'IlotCâlin",
+    "resultStructId": "4704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue isaac newton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.511465097901016,
+    "ville": "tigery",
+    "cp": "91250"
+  },
+  {
+    "resultId": "12618870",
+    "mail": "",
+    "distance": 149890,
+    "latitude": 48.64392351508868,
+    "telephone": "0160754645",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil",
+    "resultStructId": "3173",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedu lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.506604886304851,
+    "ville": "tigery",
+    "cp": "91250"
+  }
+]

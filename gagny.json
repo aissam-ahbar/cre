@@ -1,0 +1,314 @@
+[
+  {
+    "resultId": "12880163",
+    "mail": "confettis@mairie-gagny.fr",
+    "distance": 146013,
+    "latitude": 48.873205865308016,
+    "telephone": "0156492359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES CONFETTIS",
+    "resultStructId": "110011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue louis lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5622786382391207,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12880206",
+    "mail": "palombebleue@mairie-gagny.fr",
+    "distance": 146302,
+    "latitude": 48.87608017774789,
+    "telephone": "0156492354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Palombe Bleue",
+    "resultStructId": "701307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue laennec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.558724649016932,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12613065",
+    "mail": "",
+    "distance": 146753,
+    "latitude": 48.8776374080686,
+    "telephone": "0143887040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Farandole",
+    "resultStructId": "3038",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place tavernelle val di pesa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5527675852207192,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12613022",
+    "mail": "csj.prevert@wanadoo.fr",
+    "distance": 146878,
+    "latitude": 48.87794159323911,
+    "telephone": "0143300557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux L'Oiseau Lyre",
+    "resultStructId": "3037",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue du 18 juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.551088974931758,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "34120436",
+    "mail": "csjp.direction@gmail.com",
+    "distance": 146878,
+    "latitude": 48.87794159323911,
+    "telephone": "0143300557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Conseilde Gestion Centre Social Jacques Prevert",
+    "resultStructId": "114910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue du 18juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.551088974931758,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "59911467",
+    "mail": "confettis@mairie-gagny.fr",
+    "distance": 147131,
+    "latitude": 48.87939507288632,
+    "telephone": "0156492359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Confettis",
+    "resultStructId": "701322",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de montguichet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.547827379047693,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12880120",
+    "mail": "mafamiliale@mairie-gagny.fr",
+    "distance": 147131,
+    "latitude": 48.87939507288632,
+    "telephone": "0156492556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Arc-en-Ciel",
+    "resultStructId": "701237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de montguichet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.547827379047693,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12880249",
+    "mail": "oiseaulyre@mairie-gagny.fr",
+    "distance": 147131,
+    "latitude": 48.87939507288632,
+    "telephone": "0156492350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil L'OISEAU LYRE",
+    "resultStructId": "701310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin de montguichet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.547827379047693,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "34051975",
+    "mail": "mafamiliale@mairie-gagny.fr",
+    "distance": 147205,
+    "latitude": 48.879404569035884,
+    "telephone": "0156492556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Arc en Ciel",
+    "resultStructId": "113502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin montguichet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5468211488571826,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12880077",
+    "mail": "saintfiacre@mairie-gagny.fr",
+    "distance": 147671,
+    "latitude": 48.893972526040336,
+    "telephone": "0156492450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Saint-Fiacre",
+    "resultStructId": "701318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 allee de l'aqueduc saintfiacre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5427349466231437,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12879862",
+    "mail": "arcenciel@mairie-gagny.fr",
+    "distance": 148165,
+    "latitude": 48.884197319711646,
+    "telephone": "0156492353",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Arc-en-Ciel",
+    "resultStructId": "701309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue tainturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5343526600738566,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "12879905",
+    "mail": "pomedapi@mairie-gagny.fr",
+    "distance": 148237,
+    "latitude": 48.886211974349976,
+    "telephone": "0156492348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Pom d'Api",
+    "resultStructId": "701311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue leon bry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.533687847780114,
+    "ville": "gagny",
+    "cp": "93220"
+  },
+  {
+    "resultId": "33738086",
+    "mail": "",
+    "distance": 149052,
+    "latitude": 48.89083657110979,
+    "telephone": "0143029581",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJARDINS ANNE FRANK",
+    "resultStructId": "701604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 chemin des bourdons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5232144514209796,
+    "ville": "gagny",
+    "cp": "93220"
+  }
+]

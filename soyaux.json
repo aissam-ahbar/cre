@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12680669",
+    "mail": "pole.enfance@mairie-soyaux.fr",
+    "distance": 189521,
+    "latitude": 45.648890120848705,
+    "telephone": "0545973974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "681821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue andre gide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.18306775877958467,
+    "ville": "soyaux",
+    "cp": "16800"
+  },
+  {
+    "resultId": "12680669",
+    "mail": "pole.enfance@mairie-soyaux.fr",
+    "distance": 148462,
+    "latitude": 45.648890120848705,
+    "telephone": "0545973974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "681821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue andre gide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.18306775877958467,
+    "ville": "soyaux",
+    "cp": "16800"
+  }
+]

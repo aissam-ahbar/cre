@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58935483",
+    "mail": "creche-la.poussiniere@gmail.com",
+    "distance": 69158,
+    "latitude": 44.96724808869402,
+    "telephone": "0557844825",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLUMED'ANGE (asso la poussinière)",
+    "resultStructId": "690609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue principale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3062370816769839,
+    "ville": "villegouge",
+    "cp": "33141"
+  },
+  {
+    "resultId": "12531623",
+    "mail": "creche-la-poussiniere@wanadoo.fr",
+    "distance": 69158,
+    "latitude": 44.96724808869402,
+    "telephone": "0557844825",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLUMED'ANGE",
+    "resultStructId": "691331",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue principale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3062370816769839,
+    "ville": "villegouge",
+    "cp": "33141"
+  }
+]

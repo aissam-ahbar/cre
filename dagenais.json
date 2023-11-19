@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12827351",
+    "mail": "cmasip@vg-agglo.com",
+    "distance": 36880,
+    "latitude": 44.409604240270355,
+    "telephone": "0553897990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Lutins",
+    "resultStructId": "8051",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit grande garesse 47430 le mas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.2185527951922231,
+    "ville": "dagenais",
+    "cp": ""
+  },
+  {
+    "resultId": "35142227",
+    "mail": "pommedhappy@cc-dufumelois.fr",
+    "distance": 84148,
+    "latitude": 44.38918989768345,
+    "telephone": "0553492251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePomme d'Happy",
+    "resultStructId": "132101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit ferrie - route de la gare 47140penne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.819780818787639,
+    "ville": "dagenais",
+    "cp": ""
+  }
+]

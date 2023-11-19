@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12563271",
+    "mail": "martine.gargaud@ville-lehaillan.fr",
+    "distance": 67500,
+    "latitude": 44.868195757890255,
+    "telephone": "0557931135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective LES COPAINS D'ABORD",
+    "resultStructId": "1880",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des tanays 33185",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6749225806349535,
+    "ville": "lehaillan",
+    "cp": ""
+  },
+  {
+    "resultId": "12995446",
+    "mail": "service.petiteenfance@ville-lehaillan.fr",
+    "distance": 68048,
+    "latitude": 44.873615159554596,
+    "telephone": "0557931136",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LARIBAMBELLE",
+    "resultStructId": "11960",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de los heros 33185",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6756878411331295,
+    "ville": "lehaillan",
+    "cp": ""
+  },
+  {
+    "resultId": "12995876",
+    "mail": "service.petiteenfance@ville-lehaillan.fr",
+    "distance": 68124,
+    "latitude": 44.87370692015082,
+    "telephone": "0557931143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LE HAILLAN",
+    "resultStructId": "11970",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri bos 33185",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.677363730105701,
+    "ville": "lehaillan",
+    "cp": ""
+  },
+  {
+    "resultId": "12563228",
+    "mail": "creche.lesfilsdariane@orange.fr",
+    "distance": 68455,
+    "latitude": 44.87215902298868,
+    "telephone": "0556341404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES FILS D'ARIANE",
+    "resultStructId": "1879",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue capella 33185",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6890300218099351,
+    "ville": "lehaillan",
+    "cp": ""
+  },
+  {
+    "resultId": "12993597",
+    "mail": "fleur.de.lune@people-and-baby.com",
+    "distance": 69217,
+    "latitude": 44.88124818166553,
+    "telephone": "0973243311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL FLEUR DE LUNE",
+    "resultStructId": "11917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "296 avenue pasteur 33185",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6865649683692145,
+    "ville": "lehaillan",
+    "cp": ""
+  }
+]

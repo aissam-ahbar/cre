@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12893579",
+    "mail": "crechelamarelle@sigean.fr",
+    "distance": 145449,
+    "latitude": 43.02879389387149,
+    "telephone": "0468450408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MASIGEAN LA MARELLE",
+    "resultStructId": "9591",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des pichons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.982364948436797,
+    "ville": "sigean",
+    "cp": "11130"
+  },
+  {
+    "resultId": "12893579",
+    "mail": "crechelamarelle@sigean.fr",
+    "distance": 97400,
+    "latitude": 43.02879389387149,
+    "telephone": "0468450408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MASIGEAN LA MARELLE",
+    "resultStructId": "9591",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des pichons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.982364948436797,
+    "ville": "sigean",
+    "cp": "11130"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12540352",
+    "mail": "lenvol@cc-champagnepicarde.fr",
+    "distance": 111352,
+    "latitude": 49.60767919174628,
+    "telephone": "0323805021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheL'envol",
+    "resultStructId": "699007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des ecoles 02350 liesse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.80325028835085,
+    "ville": "notredame",
+    "cp": ""
+  },
+  {
+    "resultId": "12820170",
+    "mail": "fontainenotredame@rigolocommelavie.fr",
+    "distance": 47843,
+    "latitude": 50.17272010373828,
+    "telephone": "0327706873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Fontaine-Notre-Dame",
+    "resultStructId": "691318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de l'europe59400 fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2011495028940407,
+    "ville": "notredame",
+    "cp": ""
+  },
+  {
+    "resultId": "12540352",
+    "mail": "lenvol@cc-champagnepicarde.fr",
+    "distance": 123534,
+    "latitude": 49.60767919174628,
+    "telephone": "0323805021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheL'envol",
+    "resultStructId": "699007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des ecoles 02350 liesse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.80325028835085,
+    "ville": "notredame",
+    "cp": ""
+  }
+]

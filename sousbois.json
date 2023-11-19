@@ -1,0 +1,1922 @@
+[
+  {
+    "resultId": "12867736",
+    "mail": "multi-accueil-asti@hotmail.fr",
+    "distance": 146975,
+    "latitude": 48.90518007833209,
+    "telephone": "0143309793",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Alphabebe - ASTI",
+    "resultStructId": "115937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee de l' aqueduc 93390clichy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5542754870446425,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665361",
+    "mail": "mpe@clichysousbois.fr",
+    "distance": 147664,
+    "latitude": 48.90967867479883,
+    "telephone": "0143888356",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDe La Petite Enfance",
+    "resultStructId": "462601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee salvador allende 93390clichy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.545596686262285,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12663383",
+    "mail": "multi-accueil@cerpe.info",
+    "distance": 147784,
+    "latitude": 48.906731767021775,
+    "telephone": "0143329154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil d'Ici et de Là",
+    "resultStructId": "701522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 allee frederic ladrette 93390clichy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.543398445458767,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12867994",
+    "mail": "les-petits-voyageurs.psb@laposte.net",
+    "distance": 149677,
+    "latitude": 48.90831818972447,
+    "telephone": "0148962811",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Petits Voyageurs",
+    "resultStructId": "107809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place oissery forfry 93320les pavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5176010529595425,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51704570",
+    "mail": "",
+    "distance": 150240,
+    "latitude": 48.952242777586676,
+    "telephone": "0148794066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GUICHAUVIN",
+    "resultStructId": "462001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du dr fleming 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518893915149567,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665963",
+    "mail": "",
+    "distance": 150292,
+    "latitude": 48.95351117850249,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Gros Saule",
+    "resultStructId": "162302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue du docteur jean perlis93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518473451719185,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666049",
+    "mail": "",
+    "distance": 150297,
+    "latitude": 48.95188326275919,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Guy Chauvin II",
+    "resultStructId": "4270",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du docteur fleming 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518026181337768,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666006",
+    "mail": "",
+    "distance": 150297,
+    "latitude": 48.95188326275919,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Guy Chauvin I",
+    "resultStructId": "4269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du docteur fleming 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518026181337768,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12870531",
+    "mail": "s.bellec@agg-rosny93.org",
+    "distance": 150613,
+    "latitude": 48.86804089593179,
+    "telephone": "0148126030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Centre Socioculturel du Pré Gentil",
+    "resultStructId": "700907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 alleecolmar 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4983944153847752,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675552",
+    "mail": "",
+    "distance": 150645,
+    "latitude": 48.95380524839461,
+    "telephone": "0143845016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Mini-Club Charles Perrault",
+    "resultStructId": "162307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du docteurgarasse 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5136418325359076,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665877",
+    "mail": "aschier@aulnay-sous-bois.com",
+    "distance": 150772,
+    "latitude": 48.92593620131027,
+    "telephone": "0148794176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCèche n° Natha Caputo 1",
+    "resultStructId": "4266",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue pierre gastaud 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5058681749623433,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12676025",
+    "mail": "",
+    "distance": 150772,
+    "latitude": 48.92593620131027,
+    "telephone": "0148791808",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Multi-Accueil \" Natha Caputo 2\"",
+    "resultStructId": "4502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue pierregastaud 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5058681749623433,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12871262",
+    "mail": "annefrank@mairie-rosny-sous-bois.fr",
+    "distance": 150776,
+    "latitude": 48.86765906434631,
+    "telephone": "0156630336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Anne Frank",
+    "resultStructId": "164702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue sainte-odile 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4961059785269133,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12630136",
+    "mail": "",
+    "distance": 150803,
+    "latitude": 48.90978760420267,
+    "telephone": "0171292326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective départementale \"Berthelot\"",
+    "resultStructId": "117013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee marcelinberthelot 93320 les pavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5023514197953727,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12679637",
+    "mail": "",
+    "distance": 150827,
+    "latitude": 48.94568506229509,
+    "telephone": "0148794170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial Croix Nobillon",
+    "resultStructId": "4586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la croix nobillon 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5092842778016085,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "33542244",
+    "mail": "a-petits-pas@lespavillonssousbois.fr",
+    "distance": 150871,
+    "latitude": 48.90906788856598,
+    "telephone": "0148497007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilA Petits Pas",
+    "resultStructId": "107811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 -77 a avenue aristide briand 93320 lespavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.501284542255931,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12867951",
+    "mail": "a-petits-pas@lespavillonssousbois.fr",
+    "distance": 151170,
+    "latitude": 48.9082547833671,
+    "telephone": "0148497007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Petits Pas",
+    "resultStructId": "107718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66/70 avenue aristide briand 93320les pavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.497027798181363,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51811136",
+    "mail": "les-moussaillons@pavillonssousbois.fr",
+    "distance": 151215,
+    "latitude": 48.911711472193396,
+    "telephone": "0188509651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMOUSSAILLONS",
+    "resultStructId": "464201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45/47 avenue georgette bach 93320 lespavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.497032432484877,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12868037",
+    "mail": "berceaux-ourcq@lespavillonssousbois.fr",
+    "distance": 151237,
+    "latitude": 48.90997583737672,
+    "telephone": "0148499824",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Berceaux de l'Ourcq",
+    "resultStructId": "702502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 avenue du general leclerc93320 les pavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4964167156074475,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "13077721",
+    "mail": "",
+    "distance": 151315,
+    "latitude": 48.93425173793891,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PierreAbrioux",
+    "resultStructId": "13901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue duperrey 93602 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500062184645385,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662222",
+    "mail": "",
+    "distance": 151315,
+    "latitude": 48.93425173793891,
+    "telephone": "0175636021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELES MAISONETTES AULNAY SOUS BOIS",
+    "resultStructId": "701013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard robertballanger 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500062184645385,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12629061",
+    "mail": "",
+    "distance": 151348,
+    "latitude": 48.87018129023687,
+    "telephone": "0171292056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Myriam David\"",
+    "resultStructId": "117027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36/38 rue dugeneral leclerc 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.488598738020271,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12636715",
+    "mail": "",
+    "distance": 151362,
+    "latitude": 48.92909553237338,
+    "telephone": "0158030305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFraise des Bois",
+    "resultStructId": "3588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des ecoles 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4983545649555916,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51577198",
+    "mail": "aulnay.mentrel@lpcr.fr",
+    "distance": 151372,
+    "latitude": 48.92916053997696,
+    "telephone": "0170869703",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRClémence Mentrel",
+    "resultStructId": "454707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des ecoles 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.498232679389684,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675853",
+    "mail": "",
+    "distance": 151377,
+    "latitude": 48.93955285938242,
+    "telephone": "0148682058",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif \" Henri Thibaut\"",
+    "resultStructId": "4498",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12-14 rue josephberger 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500333070894435,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675896",
+    "mail": "",
+    "distance": 151431,
+    "latitude": 48.919539912134894,
+    "telephone": "0148198783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Collectif \" Pierre Abrioux\"",
+    "resultStructId": "4499",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue duperrey93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.495515594617259,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "58940620",
+    "mail": "",
+    "distance": 151488,
+    "latitude": 48.94010707943757,
+    "telephone": "0187580787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheà 2 Pas",
+    "resultStructId": "690703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue des deux ponts 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4989153389933243,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12692064",
+    "mail": "meuliere@liveli.fr",
+    "distance": 151514,
+    "latitude": 48.92658085600605,
+    "telephone": "0146949195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteMeulière",
+    "resultStructId": "453101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue jean jaures 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4957533905895306,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665920",
+    "mail": "mfchatelain@aulnay-sous-bois.com",
+    "distance": 151600,
+    "latitude": 48.93314252264079,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif du 11 novembre",
+    "resultStructId": "170609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14/16 rue ducommandant brasseur 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.495895126951711,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12629104",
+    "mail": "",
+    "distance": 151630,
+    "latitude": 48.88157670965497,
+    "telephone": "0171292321",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective départementale \"Les Marnaudes\"",
+    "resultStructId": "117023",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruephilibert hoffmann 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4863320952997645,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51581379",
+    "mail": "aulnay.nyiri@lpcr.fr",
+    "distance": 151631,
+    "latitude": 48.95359281081985,
+    "telephone": "0170869704",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRELIANE NYIRI",
+    "resultStructId": "455101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue alfred sisley 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4999444025443363,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "17894706",
+    "mail": "",
+    "distance": 151677,
+    "latitude": 48.85880767393064,
+    "telephone": "0148774562",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Fables des sous bois",
+    "resultStructId": "619301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "217 rue la fontaine 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.482619257779602,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675509",
+    "mail": "",
+    "distance": 151679,
+    "latitude": 48.93030229025901,
+    "telephone": "0148794003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil le Zéphir",
+    "resultStructId": "4490",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.494222850772678,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12601154",
+    "mail": "",
+    "distance": 151679,
+    "latitude": 48.93030211533585,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petites Frimousses",
+    "resultStructId": "162306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4942219165575765,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12670650",
+    "mail": "",
+    "distance": 151713,
+    "latitude": 48.93093106411908,
+    "telephone": "0148794003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CroixNobillon",
+    "resultStructId": "462402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.493874961222648,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12692107",
+    "mail": "",
+    "distance": 151724,
+    "latitude": 48.874101308550784,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRosny Cavaré",
+    "resultStructId": "701705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue paul cavare 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4839756533319344,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12870402",
+    "mail": "familiale@mairie-rosny-sous-bois.fr",
+    "distance": 151895,
+    "latitude": 48.873491334336684,
+    "telephone": "0145280215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Serviced'Accueil Familiale Robert Debré",
+    "resultStructId": "164304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue du 4eme zouaves93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4815456746116187,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12871090",
+    "mail": "halte-jeuxmpe@mairie-rosny-sous-bois.fr",
+    "distance": 151895,
+    "latitude": 48.873491334336684,
+    "telephone": "0148946447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Maison de la Petite Enfance",
+    "resultStructId": "164703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue du 4emezouaves 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4815456746116187,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12510682",
+    "mail": "halte-garderie-ae@fontenay-sous-bois.fr",
+    "distance": 151922,
+    "latitude": 48.851141488052015,
+    "telephone": "0171335712",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Ame Enchantée",
+    "resultStructId": "626103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee maxime gorki 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4783611870928364,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "17449701",
+    "mail": "",
+    "distance": 151933,
+    "latitude": 48.847854302988985,
+    "telephone": "0962637255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Câlins Doudou Fontenay",
+    "resultStructId": "15578",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue des emeris 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.477840261958857,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666092",
+    "mail": "",
+    "distance": 151963,
+    "latitude": 48.954429910498824,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Bourdonnais",
+    "resultStructId": "4271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 allee de la bourdonnais 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4955408141003224,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12676068",
+    "mail": "",
+    "distance": 151969,
+    "latitude": 48.94977484006109,
+    "telephone": "0148199042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil familial \" Jean Aupest\"",
+    "resultStructId": "4503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee du merisier93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4943822846938155,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12529946",
+    "mail": "creche-claire-fontaine@fontenay-sous-bois.fr",
+    "distance": 152000,
+    "latitude": 48.8580865114226,
+    "telephone": "0171335800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CLAIREFONTAINE",
+    "resultStructId": "624205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue louise michel 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.478109837478423,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662136",
+    "mail": "",
+    "distance": 152004,
+    "latitude": 48.95798022487933,
+    "telephone": "0158039284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rosedes Vents",
+    "resultStructId": "462201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee duguay-touin 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4957927507132656,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675595",
+    "mail": "",
+    "distance": 152024,
+    "latitude": 48.95158932691196,
+    "telephone": "0158039237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "462501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des merisiers 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.494037048488475,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "13066404",
+    "mail": "contact@babilou.com",
+    "distance": 152178,
+    "latitude": 48.8489033597082,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouFontenay Tassigny",
+    "resultStructId": "622902",
+    "omegaId": "12086",
+    "avip": false,
+    "adresse": "1 rue du marechal de lattre detassingy 94120 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4745985353991355,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "59943613",
+    "mail": "",
+    "distance": 152212,
+    "latitude": 48.87830741241695,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLes Portes de Rosny",
+    "resultStructId": "701704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue d'aurion 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4778674115189605,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "33739787",
+    "mail": "creche.cesar@people-and-baby.com",
+    "distance": 152444,
+    "latitude": 48.87680956056861,
+    "telephone": "0145280856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Crèche César\"",
+    "resultStructId": "111806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de rome 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4744700444144065,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51640680",
+    "mail": "creche.cesar@people-and-baby.com",
+    "distance": 152447,
+    "latitude": 48.87691943723762,
+    "telephone": "0145280856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CESAR",
+    "resultStructId": "458901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue de rome 93110 rosny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4744362661908537,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12509349",
+    "mail": "creche-moulins@fontenay-sous-bois.fr",
+    "distance": 152676,
+    "latitude": 48.85396678148374,
+    "telephone": "0171335855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"les Moulins\"",
+    "resultStructId": "619402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue gay lussac 94120 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4683547953427283,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12542631",
+    "mail": "",
+    "distance": 152689,
+    "latitude": 48.85662358210315,
+    "telephone": "0148757491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Vie des petits\"",
+    "resultStructId": "1400",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue emile zola 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.468475522097212,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "45748397",
+    "mail": "creche.naclieres@fontenay-sous-bois.fr",
+    "distance": 152782,
+    "latitude": 48.848257312615445,
+    "telephone": "0171335837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES NACLIERES",
+    "resultStructId": "623501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis rue dalayrac 94120 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4662607109812313,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12543878",
+    "mail": "",
+    "distance": 152820,
+    "latitude": 48.84734710400079,
+    "telephone": "0781326344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil parental La Ribambelle",
+    "resultStructId": "681309",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue boschot 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4656315933072874,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12538503",
+    "mail": "",
+    "distance": 152866,
+    "latitude": 48.84741974383113,
+    "telephone": "0148754014",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des Maisons Rouges Du Lac)",
+    "resultStructId": "15324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue p.dulac94120 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4650182648491006,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12531408",
+    "mail": "",
+    "distance": 153050,
+    "latitude": 48.8516680009589,
+    "telephone": "0171335384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits ruisseaux",
+    "resultStructId": "626302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue jules ferry 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4629544968224186,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662136",
+    "mail": "",
+    "distance": 169272,
+    "latitude": 48.95798022487933,
+    "telephone": "0158039284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rosedes Vents",
+    "resultStructId": "462201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee duguay-touin 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4957927507132656,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675552",
+    "mail": "",
+    "distance": 169618,
+    "latitude": 48.95380524839461,
+    "telephone": "0143845016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Mini-Club Charles Perrault",
+    "resultStructId": "162307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du docteurgarasse 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5136418325359076,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665963",
+    "mail": "",
+    "distance": 169620,
+    "latitude": 48.95351117850249,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Gros Saule",
+    "resultStructId": "162302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue du docteur jean perlis93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518473451719185,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666092",
+    "mail": "",
+    "distance": 169667,
+    "latitude": 48.954429910498824,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Bourdonnais",
+    "resultStructId": "4271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 allee de la bourdonnais 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4955408141003224,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51581379",
+    "mail": "aulnay.nyiri@lpcr.fr",
+    "distance": 169730,
+    "latitude": 48.95359281081985,
+    "telephone": "0170869704",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRELIANE NYIRI",
+    "resultStructId": "455101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue alfred sisley 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4999444025443363,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "51704570",
+    "mail": "",
+    "distance": 169758,
+    "latitude": 48.952242777586676,
+    "telephone": "0148794066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GUICHAUVIN",
+    "resultStructId": "462001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du dr fleming 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518893915149567,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666006",
+    "mail": "",
+    "distance": 169803,
+    "latitude": 48.95188326275919,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Guy Chauvin I",
+    "resultStructId": "4269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du docteur fleming 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518026181337768,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666049",
+    "mail": "",
+    "distance": 169803,
+    "latitude": 48.95188326275919,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Guy Chauvin II",
+    "resultStructId": "4270",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du docteur fleming 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.518026181337768,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675595",
+    "mail": "",
+    "distance": 169991,
+    "latitude": 48.95158932691196,
+    "telephone": "0158039237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "462501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des merisiers 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.494037048488475,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12676068",
+    "mail": "",
+    "distance": 170190,
+    "latitude": 48.94977484006109,
+    "telephone": "0148199042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil familial \" Jean Aupest\"",
+    "resultStructId": "4503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee du merisier93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4943822846938155,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12679637",
+    "mail": "",
+    "distance": 170545,
+    "latitude": 48.94568506229509,
+    "telephone": "0148794170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial Croix Nobillon",
+    "resultStructId": "4586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la croix nobillon 93600aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5092842778016085,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "58940620",
+    "mail": "",
+    "distance": 171230,
+    "latitude": 48.94010707943757,
+    "telephone": "0187580787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheà 2 Pas",
+    "resultStructId": "690703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue des deux ponts 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4989153389933243,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675853",
+    "mail": "",
+    "distance": 171282,
+    "latitude": 48.93955285938242,
+    "telephone": "0148682058",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif \" Henri Thibaut\"",
+    "resultStructId": "4498",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12-14 rue josephberger 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500333070894435,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "13077721",
+    "mail": "",
+    "distance": 171871,
+    "latitude": 48.93425173793891,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PierreAbrioux",
+    "resultStructId": "13901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue duperrey 93602 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500062184645385,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662222",
+    "mail": "",
+    "distance": 171871,
+    "latitude": 48.93425173793891,
+    "telephone": "0175636021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELES MAISONETTES AULNAY SOUS BOIS",
+    "resultStructId": "701013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard robertballanger 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500062184645385,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12665920",
+    "mail": "mfchatelain@aulnay-sous-bois.com",
+    "distance": 172021,
+    "latitude": 48.93314252264079,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Collectif du 11 novembre",
+    "resultStructId": "170609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14/16 rue ducommandant brasseur 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.495895126951711,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12670650",
+    "mail": "",
+    "distance": 172280,
+    "latitude": 48.93093106411908,
+    "telephone": "0148794003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CroixNobillon",
+    "resultStructId": "462402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.493874961222648,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12675509",
+    "mail": "",
+    "distance": 172347,
+    "latitude": 48.93030229025901,
+    "telephone": "0148794003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil le Zéphir",
+    "resultStructId": "4490",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.494222850772678,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12601154",
+    "mail": "",
+    "distance": 172347,
+    "latitude": 48.93030211533585,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petites Frimousses",
+    "resultStructId": "162306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat93600 aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4942219165575765,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12531408",
+    "mail": "",
+    "distance": 10448,
+    "latitude": 48.8516680009589,
+    "telephone": "0171335384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les petits ruisseaux",
+    "resultStructId": "626302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue jules ferry 94120fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4629544968224186,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "35877112",
+    "mail": "cre-260@babilou.com",
+    "distance": 182472,
+    "latitude": 48.82208074593639,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU LES CLAYES SOUS BOIS NERUDA",
+    "resultStructId": "689804",
+    "omegaId": "51897",
+    "avip": false,
+    "adresse": "1 ruepablo neruda 78340 les clayes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.972583297309971,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "22238120",
+    "mail": "catherine.dumilieu@bulapi.fr",
+    "distance": 182558,
+    "latitude": 48.827125441593566,
+    "telephone": "0177046987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - ONIDOO",
+    "resultStructId": "681812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des dames 78340 les clayes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9743799265064828,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "22238077",
+    "mail": "catherine.dumilieu@bulapi.fr",
+    "distance": 182563,
+    "latitude": 48.8274220267363,
+    "telephone": "0177046987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULAPI",
+    "resultStructId": "681811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des dames 78340 les clayes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9744890032318871,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12599649",
+    "mail": "ferrere.sylvie@lesclayessousbois.fr",
+    "distance": 183088,
+    "latitude": 48.82465361281333,
+    "telephone": "0130793990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "704205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean jaures 78340 les clayes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.981348712378906,
+    "ville": "sousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "59662202",
+    "mail": "lesclayes@lescolories.fr",
+    "distance": 183777,
+    "latitude": 48.82369545630478,
+    "telephone": "0648476039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES COLORIES DES CLAYES SOUS BOIS",
+    "resultStructId": "699209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 ruemaurice jouet 78340 les clayes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9906655967894307,
+    "ville": "sousbois",
+    "cp": ""
+  }
+]

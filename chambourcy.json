@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "13042238",
+    "mail": "creche@chambourcy.fr",
+    "distance": 186860,
+    "latitude": 48.90606655502193,
+    "telephone": "0130653936",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - ESPACE MANOIR - CENTRE DE LA PETITEENFANCE",
+    "resultStructId": "687607",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "35 rue de gramont (1eretage)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0398530869060085,
+    "ville": "chambourcy",
+    "cp": "78240"
+  }
+]

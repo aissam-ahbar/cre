@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "38970906",
+    "mail": "les.jardins.majorelle@hotmail.com",
+    "distance": 7028,
+    "latitude": 50.52292640386422,
+    "telephone": "0321527117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesJardins de Majorelle",
+    "resultStructId": "181510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1178 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.65734282605716,
+    "ville": "bethune",
+    "cp": "62400"
+  },
+  {
+    "resultId": "58663554",
+    "mail": "cdobin@achilleetcamille.com",
+    "distance": 7210,
+    "latitude": 50.52010301767416,
+    "telephone": "0676904068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane d'Achille et Camille",
+    "resultStructId": "687218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'ile des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.648374209678118,
+    "ville": "bethune",
+    "cp": "62400"
+  },
+  {
+    "resultId": "13021211",
+    "mail": "ile-aux-enfants@ville-bethune.fr",
+    "distance": 7826,
+    "latitude": 50.51513668968104,
+    "telephone": "0321575753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Ile aux enfants\" de BETHUNE",
+    "resultStructId": "678918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue pierreloti",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6300101505628315,
+    "ville": "bethune",
+    "cp": "62400"
+  },
+  {
+    "resultId": "13021254",
+    "mail": "enfance-la-charite@ville-bethune.fr",
+    "distance": 8855,
+    "latitude": 50.53261162661482,
+    "telephone": "0321576778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Charité\"",
+    "resultStructId": "678917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "335 rue fernand bar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.635341663138037,
+    "ville": "bethune",
+    "cp": "62400"
+  }
+]

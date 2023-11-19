@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "59315018",
+    "mail": "mc.peronne@mb-agglo.com",
+    "distance": 101558,
+    "latitude": 46.44762360195851,
+    "telephone": "0385350083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"A petits pas\"",
+    "resultStructId": "695318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de chassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.804046440763951,
+    "ville": "peronne",
+    "cp": "71260"
+  },
+  {
+    "resultId": "35206037",
+    "mail": "contact@optitskippy.fr",
+    "distance": 62149,
+    "latitude": 49.93137477427756,
+    "telephone": "0642976931",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OP'TIT SKIPPY",
+    "resultStructId": "133301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9320809981776925,
+    "ville": "peronne",
+    "cp": "80200"
+  },
+  {
+    "resultId": "12697138",
+    "mail": "creche@ville-peronne.fr",
+    "distance": 62355,
+    "latitude": 49.93003424464618,
+    "telephone": "0322843947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS LUTINS",
+    "resultStructId": "390401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue mozart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9356130310079958,
+    "ville": "peronne",
+    "cp": "80200"
+  }
+]

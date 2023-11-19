@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13075692",
+    "mail": "camille.leblond@microcreche-leniddouillet.fr",
+    "distance": 16703,
+    "latitude": 50.490885164921025,
+    "telephone": "0695324730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Le Nid Douillet\" - Carvin",
+    "resultStructId": "13826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "149 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.953595697925859,
+    "ville": "carvin",
+    "cp": "62220"
+  },
+  {
+    "resultId": "41204293",
+    "mail": "lepetitmondedesimeon.sr@gmail.com",
+    "distance": 17035,
+    "latitude": 50.49146424835084,
+    "telephone": "0321080772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT MONDE DE SIMEON",
+    "resultStructId": "656001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue guttenberg pa du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9582161804410445,
+    "ville": "carvin",
+    "cp": "62220"
+  },
+  {
+    "resultId": "12742254",
+    "mail": "haltegarderiecarvin@orange.fr",
+    "distance": 17035,
+    "latitude": 50.49146424835084,
+    "telephone": "0321741787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemunicipale de Carvin",
+    "resultStructId": "6072",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue corneille - residencemontaigne bat e",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9582161804410445,
+    "ville": "carvin",
+    "cp": "62220"
+  },
+  {
+    "resultId": "12984223",
+    "mail": "lespremierspas62@people-and-baby.com",
+    "distance": 18663,
+    "latitude": 50.49028733051895,
+    "telephone": "0973195278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lespremiers pas\"",
+    "resultStructId": "146101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du puits",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.981561627871103,
+    "ville": "carvin",
+    "cp": "62220"
+  }
+]

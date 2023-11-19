@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13021813",
+    "mail": "ileleu@ville-sallaumines.fr",
+    "distance": 10931,
+    "latitude": 50.42271463156872,
+    "telephone": "0321786883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pas",
+    "resultStructId": "192407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 rue constant darras",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.851378714447826,
+    "ville": "sallaumines",
+    "cp": "62430"
+  }
+]

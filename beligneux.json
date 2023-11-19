@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34127488",
+    "mail": "la.valbonne@lpcr.fr",
+    "distance": 171927,
+    "latitude": 45.85210849954908,
+    "telephone": "0428690288",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS CHAPERONS ROUGES LA VALBONNE",
+    "resultStructId": "115204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "campmilitaire de la valbonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.128805045968769,
+    "ville": "beligneux",
+    "cp": "01360"
+  },
+  {
+    "resultId": "59805378",
+    "mail": "smalavalbonne@igesa.fr",
+    "distance": 172197,
+    "latitude": 45.84874437560517,
+    "telephone": "0698601419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Ptis Courlis",
+    "resultStructId": "708739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.126754825169047,
+    "ville": "beligneux",
+    "cp": "01360"
+  },
+  {
+    "resultId": "12858104",
+    "mail": "hgvalbonne@igesa.fr",
+    "distance": 172197,
+    "latitude": 45.84874437560517,
+    "telephone": "0426228572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE LES PETITS LOUPS",
+    "resultStructId": "363601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la poste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.126754825169047,
+    "ville": "beligneux",
+    "cp": "01360"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "22238628",
+    "mail": "apcssedanouest@gmail.com",
+    "distance": 110551,
+    "latitude": 49.695517979237565,
+    "telephone": "0324537324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie- Ouest Avenue",
+    "resultStructId": "116202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 avenue de la marne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.915104974997996,
+    "ville": "sedan",
+    "cp": "08200"
+  },
+  {
+    "resultId": "22377935",
+    "mail": "leroyaumedestoutpetits@gmail.com",
+    "distance": 111706,
+    "latitude": 49.70349169201204,
+    "telephone": "0695112917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Le royaume Des Tout Petits",
+    "resultStructId": "18501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 boulevard chanzy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.931599947658871,
+    "ville": "sedan",
+    "cp": "08200"
+  },
+  {
+    "resultId": "12749220",
+    "mail": "creche.crussy@mairie-sedan.fr",
+    "distance": 111761,
+    "latitude": 49.702659345977175,
+    "telephone": "0324270875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil- Crussy",
+    "resultStructId": "15446",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de navieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939419889454307,
+    "ville": "sedan",
+    "cp": "08200"
+  }
+]

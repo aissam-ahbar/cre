@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12823008",
+    "mail": "contact@lepetithome.org",
+    "distance": 10758,
+    "latitude": 50.488554566347275,
+    "telephone": "0366632000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Home",
+    "resultStructId": "7950",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "386 rue jean jaures 62700 bruay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5689372719313117,
+    "ville": "labuissiere",
+    "cp": ""
+  },
+  {
+    "resultId": "13000864",
+    "mail": "creche.bruay62@orange.fr",
+    "distance": 11845,
+    "latitude": 50.48406312876362,
+    "telephone": "0321627986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Pirouette\"",
+    "resultStructId": "217306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "342 rue de denain 62700 bruay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5525496304319084,
+    "ville": "labuissiere",
+    "cp": ""
+  },
+  {
+    "resultId": "13000778",
+    "mail": "creche.bruay62@orange.fr",
+    "distance": 12147,
+    "latitude": 50.47877931728892,
+    "telephone": "0321622656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"La Farandole\"",
+    "resultStructId": "217305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 residence du hainaut 62700bruay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5476658994367827,
+    "ville": "labuissiere",
+    "cp": ""
+  },
+  {
+    "resultId": "13000262",
+    "mail": "creche.bruay62@orange.fr",
+    "distance": 12151,
+    "latitude": 50.47873692719713,
+    "telephone": "0321622662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"Les Petits Câlins\"",
+    "resultStructId": "217304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 residence duhainaut 62700 bruay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.547605758636227,
+    "ville": "labuissiere",
+    "cp": ""
+  }
+]

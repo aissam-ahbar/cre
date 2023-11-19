@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12983449",
+    "mail": "chantal.salgado@gmail.com",
+    "distance": 26309,
+    "latitude": 50.33898697754944,
+    "telephone": "0321156160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants municipal Les Pious Pious",
+    "resultStructId": "217005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du 11novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0246192004111307,
+    "ville": "brebieres",
+    "cp": "62117"
+  },
+  {
+    "resultId": "12818536",
+    "mail": "lesptitsnounettes@gmail.com",
+    "distance": 26461,
+    "latitude": 50.34331978143133,
+    "telephone": "0321159911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Nounettes",
+    "resultStructId": "7846",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.031782495209445,
+    "ville": "brebieres",
+    "cp": "62117"
+  }
+]

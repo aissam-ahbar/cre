@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12733654",
+    "mail": "creche@villedeguillestre.fr",
+    "distance": 342204,
+    "latitude": 44.66525637114379,
+    "telephone": "0492539701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale \"MAXI-MÔMES\"",
+    "resultStructId": "675612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "302 route du queyras",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.664640823672052,
+    "ville": "guillestre",
+    "cp": "05600"
+  },
+  {
+    "resultId": "12733654",
+    "mail": "creche@villedeguillestre.fr",
+    "distance": 92215,
+    "latitude": 44.66525637114379,
+    "telephone": "0492539701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale \"MAXI-MÔMES\"",
+    "resultStructId": "675612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "302 route du queyras",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.664640823672052,
+    "ville": "guillestre",
+    "cp": "05600"
+  }
+]

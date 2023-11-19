@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12778503",
+    "mail": "lespatoufets@claira.fr",
+    "distance": 161940,
+    "latitude": 42.759592015571094,
+    "telephone": "0468050123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPATOUFETS",
+    "resultStructId": "691130",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin sant jaume del crest",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.956171480314828,
+    "ville": "claira",
+    "cp": "66530"
+  },
+  {
+    "resultId": "12778503",
+    "mail": "lespatoufets@claira.fr",
+    "distance": 120494,
+    "latitude": 42.759592015571094,
+    "telephone": "0468050123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPATOUFETS",
+    "resultStructId": "691130",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin sant jaume del crest",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.956171480314828,
+    "ville": "claira",
+    "cp": "66530"
+  }
+]

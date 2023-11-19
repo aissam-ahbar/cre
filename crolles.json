@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12815913",
+    "mail": "kiddycreches@gmail.com",
+    "distance": 432405,
+    "latitude": 45.26729724352896,
+    "telephone": "0687617029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèches Kiddy Garden et Kiddy Jungle",
+    "resultStructId": "185201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888611044053503,
+    "ville": "crolles",
+    "cp": "38920"
+  },
+  {
+    "resultId": "12882958",
+    "mail": "multiaccueil-lesptitslutins@le-gresivaudan.fr",
+    "distance": 433726,
+    "latitude": 45.2782672426033,
+    "telephone": "0438921395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Lutins",
+    "resultStructId": "9344",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 place nelson mandela",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.881152148229952,
+    "ville": "crolles",
+    "cp": "38920"
+  },
+  {
+    "resultId": "12884119",
+    "mail": "multiaccueil-lesboutchous@le-gresivaudan.fr",
+    "distance": 433895,
+    "latitude": 45.27991579248503,
+    "telephone": "0476088485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles boutchous",
+    "resultStructId": "9371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "700 rue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.880657893945288,
+    "ville": "crolles",
+    "cp": "38920"
+  },
+  {
+    "resultId": "12815913",
+    "mail": "kiddycreches@gmail.com",
+    "distance": 146372,
+    "latitude": 45.26729724352896,
+    "telephone": "0687617029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèches Kiddy Garden et Kiddy Jungle",
+    "resultStructId": "185201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.888611044053503,
+    "ville": "crolles",
+    "cp": "38920"
+  },
+  {
+    "resultId": "12882958",
+    "mail": "multiaccueil-lesptitslutins@le-gresivaudan.fr",
+    "distance": 147643,
+    "latitude": 45.2782672426033,
+    "telephone": "0438921395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Lutins",
+    "resultStructId": "9344",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 place nelson mandela",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.881152148229952,
+    "ville": "crolles",
+    "cp": "38920"
+  },
+  {
+    "resultId": "12884119",
+    "mail": "multiaccueil-lesboutchous@le-gresivaudan.fr",
+    "distance": 147829,
+    "latitude": 45.27991579248503,
+    "telephone": "0476088485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles boutchous",
+    "resultStructId": "9371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "700 rue leo lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.880657893945288,
+    "ville": "crolles",
+    "cp": "38920"
+  }
+]

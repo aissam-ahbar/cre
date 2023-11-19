@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12732020",
+    "mail": "haltegarderie.lachatre@wanadoo.fr",
+    "distance": 180371,
+    "latitude": 46.58180082770335,
+    "telephone": "0254483418",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil-- Maison de la Petite Enfance",
+    "resultStructId": "172802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean toury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.986295614559292,
+    "ville": "lachatre",
+    "cp": "36400"
+  },
+  {
+    "resultId": "12732020",
+    "mail": "haltegarderie.lachatre@wanadoo.fr",
+    "distance": 52266,
+    "latitude": 46.58180082770335,
+    "telephone": "0254483418",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil-- Maison de la Petite Enfance",
+    "resultStructId": "172802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean toury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.986295614559292,
+    "ville": "lachatre",
+    "cp": "36400"
+  }
+]

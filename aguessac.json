@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43122232",
+    "mail": "",
+    "distance": 139670,
+    "latitude": 44.15800375442284,
+    "telephone": "0565610514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Copains Calins\"",
+    "resultStructId": "234103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lotissement du bosquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0950975261035873,
+    "ville": "aguessac",
+    "cp": "12520"
+  },
+  {
+    "resultId": "43122232",
+    "mail": "",
+    "distance": 89442,
+    "latitude": 44.15800375442284,
+    "telephone": "0565610514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Copains Calins\"",
+    "resultStructId": "234103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lotissement du bosquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0950975261035873,
+    "ville": "aguessac",
+    "cp": "12520"
+  }
+]

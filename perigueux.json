@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13049247",
+    "mail": "creche.calinscalines@grandperigueux.fr",
+    "distance": 118877,
+    "latitude": 45.19664553955033,
+    "telephone": "0553535579",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINSCALINES",
+    "resultStructId": "13211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de saltgourde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6772786238660923,
+    "ville": "perigueux",
+    "cp": "24000"
+  },
+  {
+    "resultId": "13049333",
+    "mail": "creche.arenes@grandperigueux.fr",
+    "distance": 119532,
+    "latitude": 45.18349504130424,
+    "telephone": "0553080429",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES ARENES",
+    "resultStructId": "13213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue de strasbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7141687454083232,
+    "ville": "perigueux",
+    "cp": "24000"
+  },
+  {
+    "resultId": "13049376",
+    "mail": "creche.lespetitslutins@ch-perigueux.fr",
+    "distance": 119633,
+    "latitude": 45.183830850110695,
+    "telephone": "0553452711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS LUTINS",
+    "resultStructId": "13214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue georges pompidou - centrehospitalier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.71562296221279,
+    "ville": "perigueux",
+    "cp": "24000"
+  },
+  {
+    "resultId": "13049462",
+    "mail": "creche.magne@grandperigueux.fr",
+    "distance": 120191,
+    "latitude": 45.18268421028429,
+    "telephone": "0553534749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NAPOLEONMAGNE",
+    "resultStructId": "13216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des teinturiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7287938075258155,
+    "ville": "perigueux",
+    "cp": "24000"
+  },
+  {
+    "resultId": "13049419",
+    "mail": "creche.mercier@grandperigueux.fr",
+    "distance": 120484,
+    "latitude": 45.18877956186375,
+    "telephone": "0553531739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMERCIER",
+    "resultStructId": "13215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue bacharetie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241924402082563,
+    "ville": "perigueux",
+    "cp": "24000"
+  }
+]

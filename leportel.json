@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13020523",
+    "mail": "lesptitsmousses@ville-leportel.fr",
+    "distance": 84187,
+    "latitude": 50.71625987435651,
+    "telephone": "0321870381",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Mousses\"",
+    "resultStructId": "693818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue georges clemenceau62480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5894406652572122,
+    "ville": "leportel",
+    "cp": ""
+  },
+  {
+    "resultId": "13019053",
+    "mail": "mpe@ville-leportel.fr",
+    "distance": 84348,
+    "latitude": 50.71062925526314,
+    "telephone": "0321103112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMaison de la Petite Enfance \"Simone Veil\"",
+    "resultStructId": "192410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue lucieaubrac 62480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.584136739988707,
+    "ville": "leportel",
+    "cp": ""
+  }
+]

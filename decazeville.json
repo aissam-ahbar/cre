@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "41763218",
+    "mail": "",
+    "distance": 199115,
+    "latitude": 44.558842596255666,
+    "telephone": "0565434317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacapirole",
+    "resultStructId": "222203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place cabrol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.253881662322915,
+    "ville": "decazeville",
+    "cp": "12300"
+  },
+  {
+    "resultId": "41763218",
+    "mail": "",
+    "distance": 169190,
+    "latitude": 44.558842596255666,
+    "telephone": "0565434317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacapirole",
+    "resultStructId": "222203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place cabrol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.253881662322915,
+    "ville": "decazeville",
+    "cp": "12300"
+  }
+]

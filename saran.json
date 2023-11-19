@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12896589",
+    "mail": "petite.enfance@ville-saran.fr",
+    "distance": 104957,
+    "latitude": 47.93794096571204,
+    "telephone": "0238422555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES P'TITS LOUPS SARAN",
+    "resultStructId": "698607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "570 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8752073825838207,
+    "ville": "saran",
+    "cp": "45770"
+  },
+  {
+    "resultId": "12892461",
+    "mail": "petite.enfance@ville-saran.fr",
+    "distance": 104957,
+    "latitude": 47.93794096571204,
+    "telephone": "0238422555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LES P'TITS LOUPS SARAN",
+    "resultStructId": "698609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "570 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8752073825838207,
+    "ville": "saran",
+    "cp": "45770"
+  },
+  {
+    "resultId": "13018107",
+    "mail": "s.prigent@les-cherubins.com",
+    "distance": 105821,
+    "latitude": 47.946706487989374,
+    "telephone": "0981618437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES BERCEAUX DES CHERUBINS",
+    "resultStructId": "12487",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue des sables desary",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.865139826290633,
+    "ville": "saran",
+    "cp": "45770"
+  },
+  {
+    "resultId": "12678519",
+    "mail": "petitbois@liveli.fr",
+    "distance": 106456,
+    "latitude": 47.95163291878102,
+    "telephone": "0230963505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Maison du Petit Bois - Crèche Attitude",
+    "resultStructId": "698603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99rue zac du verger / de l'olivier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8743943478407574,
+    "ville": "saran",
+    "cp": "45770"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "18178637",
+    "mail": "nbenabid@mairie-bruges.fr",
+    "distance": 64698,
+    "latitude": 44.87332555555535,
+    "telephone": "0556164865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL ARC EN CIEL",
+    "resultStructId": "676207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 rue jean claudeville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.586347191908437,
+    "ville": "bruges",
+    "cp": "33520"
+  },
+  {
+    "resultId": "12600724",
+    "mail": "maztiria@mairie-bruges.fr",
+    "distance": 65233,
+    "latitude": 44.87874134822034,
+    "telephone": "0556168455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES LUTINS",
+    "resultStructId": "15635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue aristide de sousa mendes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.586071002688616,
+    "ville": "bruges",
+    "cp": "33520"
+  },
+  {
+    "resultId": "12600681",
+    "mail": "jmanjarimanna@mairie-bruges.fr",
+    "distance": 65913,
+    "latitude": 44.88296095368909,
+    "telephone": "0556168084",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE BRUGES",
+    "resultStructId": "676210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5936620584990426,
+    "ville": "bruges",
+    "cp": "33520"
+  },
+  {
+    "resultId": "12600767",
+    "mail": "cmartin@mairie-bruges.fr",
+    "distance": 66428,
+    "latitude": 44.881503086828474,
+    "telephone": "0556164880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LE PETIT POUCET",
+    "resultStructId": "676208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue fleurenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6127262822114394,
+    "ville": "bruges",
+    "cp": "33520"
+  },
+  {
+    "resultId": "12846064",
+    "mail": "bruges@lpcr.fr",
+    "distance": 66428,
+    "latitude": 44.881503086828474,
+    "telephone": "0953917626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES BRUGES",
+    "resultStructId": "8486",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue chaban delmas -plage du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6127262822114394,
+    "ville": "bruges",
+    "cp": "33520"
+  },
+  {
+    "resultId": "12600810",
+    "mail": "cla.lebrun@mairie-bruges.fr",
+    "distance": 66715,
+    "latitude": 44.88456662638481,
+    "telephone": "0556168466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LE PETIT PRINCE",
+    "resultStructId": "676209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue camille saint saens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6122139386315402,
+    "ville": "bruges",
+    "cp": "33520"
+  }
+]

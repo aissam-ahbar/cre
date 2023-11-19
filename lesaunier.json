@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12751671",
+    "mail": "sperrin@jura.fr",
+    "distance": 123996,
+    "latitude": 46.671704957525066,
+    "telephone": "0384874109",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'Entreprise du Département - LONS LE SAUNIER",
+    "resultStructId": "191202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 ruerouget de lisle 39000 lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.554596605036786,
+    "ville": "lesaunier",
+    "cp": ""
+  },
+  {
+    "resultId": "35968049",
+    "mail": "lesptitscurieuxlons@gmail.com",
+    "distance": 124261,
+    "latitude": 46.67178956689333,
+    "telephone": "0676671514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS CURIEUX - RDC-Lons",
+    "resultStructId": "696214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue richebourg- rez dechaussee 39000 lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.5587522846453625,
+    "ville": "lesaunier",
+    "cp": ""
+  },
+  {
+    "resultId": "13038755",
+    "mail": "hdartois@lonslesaunier.fr",
+    "distance": 124337,
+    "latitude": 46.67183007514085,
+    "telephone": "0384478587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCollectif \"Pavigny\" - LONS LE SAUNIER",
+    "resultStructId": "708037",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pavigny39000 lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.559950590790644,
+    "ville": "lesaunier",
+    "cp": ""
+  },
+  {
+    "resultId": "13038669",
+    "mail": "abrayard@ecla-jura.fr",
+    "distance": 124337,
+    "latitude": 46.67183007514085,
+    "telephone": "0384478586",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"Pavigny\" - LONS LE SAUNIER",
+    "resultStructId": "207705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue depavigny 39000 lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.559950590790644,
+    "ville": "lesaunier",
+    "cp": ""
+  },
+  {
+    "resultId": "13038626",
+    "mail": "ralbertini@lonslesaunier.fr",
+    "distance": 124337,
+    "latitude": 46.67183007514085,
+    "telephone": "0384478583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Pavigny\" - LONS LE SAUNIER",
+    "resultStructId": "209001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue depavigny 39000 lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.559950590790644,
+    "ville": "lesaunier",
+    "cp": ""
+  },
+  {
+    "resultId": "13038798",
+    "mail": "",
+    "distance": 124573,
+    "latitude": 46.68016328034749,
+    "telephone": "0384432734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilVictor Hugo - LONS LE SAUNIER",
+    "resultStructId": "12968",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5c rue de ripley 39000lons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.570877296709207,
+    "ville": "lesaunier",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12564647",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 134779,
+    "latitude": 46.13133792300136,
+    "telephone": "0470986538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \" Françoise DOLTO \"",
+    "resultStructId": "205616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.456551398990693,
+    "ville": "cusset",
+    "cp": "03300"
+  },
+  {
+    "resultId": "12564733",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 134779,
+    "latitude": 46.13133792300136,
+    "telephone": "0470986538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFrançoise Dolto",
+    "resultStructId": "205617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.456551398990693,
+    "ville": "cusset",
+    "cp": "03300"
+  },
+  {
+    "resultId": "12564647",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 166733,
+    "latitude": 46.13133792300136,
+    "telephone": "0470986538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \" Françoise DOLTO \"",
+    "resultStructId": "205616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.456551398990693,
+    "ville": "cusset",
+    "cp": "03300"
+  },
+  {
+    "resultId": "12564733",
+    "mail": "service-enfance@vichy-communaute.fr",
+    "distance": 166733,
+    "latitude": 46.13133792300136,
+    "telephone": "0470986538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFrançoise Dolto",
+    "resultStructId": "205617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.456551398990693,
+    "ville": "cusset",
+    "cp": "03300"
+  }
+]

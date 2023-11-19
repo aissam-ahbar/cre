@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "12680970",
+    "mail": "creche.arc-en-ciel@cfpe-ets.fr",
+    "distance": 193412,
+    "latitude": 48.70586452426293,
+    "telephone": "0160109509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Arcen Ciel - Palaiseau",
+    "resultStructId": "4617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue charles peguy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2114056763839085,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12680153",
+    "mail": "creche.lozere@mairie-palaiseau.fr",
+    "distance": 193528,
+    "latitude": 48.70492974153564,
+    "telephone": "0169318710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lozère",
+    "resultStructId": "346301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64a 66 rue marceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2254990587461725,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "32001217",
+    "mail": "n.barboteau@mybabycreche.com",
+    "distance": 194299,
+    "latitude": 48.709753024826476,
+    "telephone": "0177063726",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MyBaby Crèche",
+    "resultStructId": "87514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "213 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.241097085867218,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12828856",
+    "mail": "commission.recrutement@filoustics.fr",
+    "distance": 194317,
+    "latitude": 48.70911015507081,
+    "telephone": "0169312420",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFiloustics",
+    "resultStructId": "38601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 passage candide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2465781734329395,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12680497",
+    "mail": "multi-accueil.levillage@mairie-palaiseau.fr",
+    "distance": 194661,
+    "latitude": 48.71289511053156,
+    "telephone": "0169317766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Village",
+    "resultStructId": "346501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.242416241436349,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12681013",
+    "mail": "creche.levillage@mairie-palaiseau.fr",
+    "distance": 194781,
+    "latitude": 48.71388689881757,
+    "telephone": "0169315148",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeVillage",
+    "resultStructId": "346601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2432165405391893,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12521819",
+    "mail": "",
+    "distance": 194868,
+    "latitude": 48.71229736139933,
+    "telephone": "0169322078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesExplorateurs",
+    "resultStructId": "916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2591438490912368,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "31994097",
+    "mail": "gmellinger@lacarrouseldesrois.com",
+    "distance": 194888,
+    "latitude": 48.71449619657893,
+    "telephone": "0699688030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCarrousel des Rois",
+    "resultStructId": "87307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue du quebec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2457332887861803,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12853976",
+    "mail": "palaiseau@lpcr.fr",
+    "distance": 194936,
+    "latitude": 48.7168205256459,
+    "telephone": "0174062147",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8670",
+    "omegaId": "13003",
+    "avip": false,
+    "adresse": "5 allee rosa bonheur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2329379722046583,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "32001608",
+    "mail": "karine.bonneau@crechesdelyvette.fr",
+    "distance": 195143,
+    "latitude": 48.716489623659285,
+    "telephone": "0160193775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchesde l'Yvette",
+    "resultStructId": "87518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2481327396461257,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12500276",
+    "mail": "",
+    "distance": 195200,
+    "latitude": 48.717468273330695,
+    "telephone": "0169316719",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bara",
+    "resultStructId": "346101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue du mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2451042830904377,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12680196",
+    "mail": "creche.flaubert@mairie-palaiseau.fr",
+    "distance": 195453,
+    "latitude": 48.71807254762284,
+    "telephone": "0169316709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Flaubert",
+    "resultStructId": "346201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue gustave flaubert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2566463583341143,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "12680239",
+    "mail": "",
+    "distance": 195653,
+    "latitude": 48.72374424758808,
+    "telephone": "0160101809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaChateigneraye",
+    "resultStructId": "346401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 residence clos du pileu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2306829714617966,
+    "ville": "palaiseau",
+    "cp": "91120"
+  },
+  {
+    "resultId": "32441888",
+    "mail": "contact@babilou.com",
+    "distance": 196004,
+    "latitude": 48.72456819728169,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBabilou Palaiseau Cossonnet",
+    "resultStructId": "430001",
+    "omegaId": "15382",
+    "avip": false,
+    "adresse": "1 place francoiscossonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2472251384167827,
+    "ville": "palaiseau",
+    "cp": "91120"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12625105",
+    "mail": "cdesseaux@nouvelle-etoile.org",
+    "distance": 167266,
+    "latitude": 48.9911768504864,
+    "telephone": "0134129311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective La Nouvelle Etoile Enfants de France",
+    "resultStructId": "3318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenuevictor hugo -",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3223105227451497,
+    "ville": "montmorency",
+    "cp": "95160"
+  },
+  {
+    "resultId": "12625148",
+    "mail": "halte-garderie@ville-montmorency.fr",
+    "distance": 167349,
+    "latitude": 48.99100272392839,
+    "telephone": "0139648472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFarfadets",
+    "resultStructId": "383001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21bis rue de jaigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3171137167059195,
+    "ville": "montmorency",
+    "cp": "95160"
+  },
+  {
+    "resultId": "60098736",
+    "mail": "",
+    "distance": 167650,
+    "latitude": 48.98810319020067,
+    "telephone": "0183840090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles MONTMORENCY",
+    "resultStructId": "704515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue du marche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.318496883223102,
+    "ville": "montmorency",
+    "cp": "95160"
+  },
+  {
+    "resultId": "12625062",
+    "mail": "elfes@ville-montmorency.fr",
+    "distance": 168926,
+    "latitude": 48.97694851353512,
+    "telephone": "0134121107",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesElfes",
+    "resultStructId": "382901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des sablons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.314140652331891,
+    "ville": "montmorency",
+    "cp": "95160"
+  }
+]

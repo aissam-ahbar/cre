@@ -1,0 +1,150 @@
+[
+  {
+    "resultId": "13037508",
+    "mail": "lesfrimousses.stmac@orange.fr",
+    "distance": 54149,
+    "latitude": 47.127926490987186,
+    "telephone": "0241557009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Frimousses\", St Macaire en Mauges",
+    "resultStructId": "692201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis allee del'avresne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9973191283149572,
+    "ville": "sevremoine",
+    "cp": "49450"
+  },
+  {
+    "resultId": "24798465",
+    "mail": "mc.galipettes@creches-expansion.com",
+    "distance": 55848,
+    "latitude": 47.1188672934158,
+    "telephone": "0241498410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy & Cie, St Germain surMoine",
+    "resultStructId": "709726",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 square d'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0976343954304468,
+    "ville": "sevremoine",
+    "cp": "49230"
+  },
+  {
+    "resultId": "24798337",
+    "mail": "mc.galipettes@creches-expansion.com",
+    "distance": 57747,
+    "latitude": 47.09565960706561,
+    "telephone": "0241552162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Chatouilles et Galipettes, St André de laMarche",
+    "resultStructId": "709725",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "14 rue andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0029330952243787,
+    "ville": "sevremoine",
+    "cp": "49450"
+  },
+  {
+    "resultId": "13037508",
+    "mail": "lesfrimousses.stmac@orange.fr",
+    "distance": 54149,
+    "latitude": 47.127926490987186,
+    "telephone": "0241557009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Frimousses\", St Macaire en Mauges",
+    "resultStructId": "692201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis allee del'avresne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9973191283149572,
+    "ville": "sevremoine",
+    "cp": "49450"
+  },
+  {
+    "resultId": "24798465",
+    "mail": "mc.galipettes@creches-expansion.com",
+    "distance": 55848,
+    "latitude": 47.1188672934158,
+    "telephone": "0241498410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Happy & Cie, St Germain surMoine",
+    "resultStructId": "709726",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 square d'espagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0976343954304468,
+    "ville": "sevremoine",
+    "cp": "49230"
+  },
+  {
+    "resultId": "24798337",
+    "mail": "mc.galipettes@creches-expansion.com",
+    "distance": 57747,
+    "latitude": 47.09565960706561,
+    "telephone": "0241552162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Chatouilles et Galipettes, St André de laMarche",
+    "resultStructId": "709725",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "14 rue andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0029330952243787,
+    "ville": "sevremoine",
+    "cp": "49450"
+  }
+]

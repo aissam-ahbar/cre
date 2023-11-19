@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13012689",
+    "mail": "c.s.magny-cours@wanadoo.fr",
+    "distance": 85731,
+    "latitude": 46.85401750077251,
+    "telephone": "0386210845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMED API",
+    "resultStructId": "12361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la mairie 58490 st parize",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1782879843695233,
+    "ville": "lechatel",
+    "cp": ""
+  },
+  {
+    "resultId": "12988738",
+    "mail": "recre.astree@leolagrange.org",
+    "distance": 173658,
+    "latitude": 45.68562311657122,
+    "telephone": "0477769250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RécréAstrée",
+    "resultStructId": "11804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "463 rue de corbes 42130 marcilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034455283553601,
+    "ville": "lechatel",
+    "cp": ""
+  },
+  {
+    "resultId": "13012689",
+    "mail": "c.s.magny-cours@wanadoo.fr",
+    "distance": 114830,
+    "latitude": 46.85401750077251,
+    "telephone": "0386210845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMED API",
+    "resultStructId": "12361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la mairie 58490 st parize",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1782879843695233,
+    "ville": "lechatel",
+    "cp": ""
+  },
+  {
+    "resultId": "32000140",
+    "mail": "monenfant91@gmail.com",
+    "distance": 180808,
+    "latitude": 48.59297405413659,
+    "telephone": "0679149236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MinhibouxBruyères-le-Châtel",
+    "resultStructId": "87505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue de la liberation 91680bruyeres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1899231423097514,
+    "ville": "lechatel",
+    "cp": ""
+  },
+  {
+    "resultId": "12773558",
+    "mail": "contactlescasteloups@gmail.com",
+    "distance": 188894,
+    "latitude": 48.673445553279024,
+    "telephone": "0160145943",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCasteloups - Gometz le Chatel",
+    "resultStructId": "6800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ter route de grivery91940 gometz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.143183235437682,
+    "ville": "lechatel",
+    "cp": ""
+  }
+]

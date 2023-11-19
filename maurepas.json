@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12715843",
+    "mail": "microcreche@maurepas.fr",
+    "distance": 196583,
+    "latitude": 48.76239745451017,
+    "telephone": "0130665323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE",
+    "resultStructId": "693706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de limagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9423110320064463,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647637",
+    "mail": "halte.jeux@maurepas.fr",
+    "distance": 196583,
+    "latitude": 48.76239745451017,
+    "telephone": "0130665326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - HALTE JEUX",
+    "resultStructId": "693708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de limagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9423110320064463,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647422",
+    "mail": "creche.dolto@maurepas.fr",
+    "distance": 196909,
+    "latitude": 48.764606195938086,
+    "telephone": "0130665310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - FRANCOISE DOLTO",
+    "resultStructId": "693707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 sente de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9532357114252719,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647594",
+    "mail": "creche.villeparc@maurepas.fr",
+    "distance": 197638,
+    "latitude": 48.77201008950657,
+    "telephone": "0130665390",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE DE LA VILLEPARC",
+    "resultStructId": "693705",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee de la meuse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9411870652732361,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647852",
+    "mail": "creche.familiale@maurepas.fr",
+    "distance": 197774,
+    "latitude": 48.773243620147596,
+    "telephone": "0130665310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LES COUDRAYS",
+    "resultStructId": "693704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de bassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9411360527452786,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647852",
+    "mail": "creche.familiale@maurepas.fr",
+    "distance": 180706,
+    "latitude": 48.773243620147596,
+    "telephone": "0130665310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LES COUDRAYS",
+    "resultStructId": "693704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de bassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9411360527452786,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647594",
+    "mail": "creche.villeparc@maurepas.fr",
+    "distance": 180725,
+    "latitude": 48.77201008950657,
+    "telephone": "0130665390",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE DE LA VILLEPARC",
+    "resultStructId": "693705",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee de la meuse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9411870652732361,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12715843",
+    "mail": "microcreche@maurepas.fr",
+    "distance": 180931,
+    "latitude": 48.76239745451017,
+    "telephone": "0130665323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE",
+    "resultStructId": "693706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de limagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9423110320064463,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647637",
+    "mail": "halte.jeux@maurepas.fr",
+    "distance": 180931,
+    "latitude": 48.76239745451017,
+    "telephone": "0130665326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - HALTE JEUX",
+    "resultStructId": "693708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de limagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9423110320064463,
+    "ville": "maurepas",
+    "cp": "78310"
+  },
+  {
+    "resultId": "12647422",
+    "mail": "creche.dolto@maurepas.fr",
+    "distance": 181697,
+    "latitude": 48.764606195938086,
+    "telephone": "0130665310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - FRANCOISE DOLTO",
+    "resultStructId": "693707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 sente de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9532357114252719,
+    "ville": "maurepas",
+    "cp": "78310"
+  }
+]

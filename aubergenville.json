@@ -1,0 +1,124 @@
+[
+  {
+    "resultId": "25125051",
+    "mail": "crechefamiliale@aubergeville.fr",
+    "distance": 172484,
+    "latitude": 48.958407175554846,
+    "telephone": "0130911922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - CHRYSALIDE",
+    "resultStructId": "707708",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "29 ruedu grand aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.844168928034139,
+    "ville": "aubergenville",
+    "cp": "78410"
+  },
+  {
+    "resultId": "59866466",
+    "mail": "aubergenville1@la-maison-bleue.fr",
+    "distance": 172491,
+    "latitude": 48.97118767022248,
+    "telephone": "0134743951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - SUCRINE",
+    "resultStructId": "700629",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard de mantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8441153861044413,
+    "ville": "aubergenville",
+    "cp": "78410"
+  },
+  {
+    "resultId": "25125765",
+    "mail": "multiaccueilfarandole@aubergenville.fr",
+    "distance": 172658,
+    "latitude": 48.958690375789814,
+    "telephone": "0130910959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LAFARANDOLE",
+    "resultStructId": "696112",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "27 rue dugrand aulnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.8465485693540225,
+    "ville": "aubergenville",
+    "cp": "78410"
+  },
+  {
+    "resultId": "55022613",
+    "mail": "babybulle.douceur@gmail.com",
+    "distance": 172994,
+    "latitude": 48.967843713249984,
+    "telephone": "0667816110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULLE DE DOUCEUR",
+    "resultStructId": "676323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 avenue charles de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8510594769310245,
+    "ville": "aubergenville",
+    "cp": "78410"
+  },
+  {
+    "resultId": "40945227",
+    "mail": "babybulle.aubergenville@gmail.com",
+    "distance": 173184,
+    "latitude": 48.96190457366091,
+    "telephone": "0950367013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BULLE DE BONHEUR",
+    "resultStructId": "676324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des quarante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8537330511890528,
+    "ville": "aubergenville",
+    "cp": "78410"
+  }
+]

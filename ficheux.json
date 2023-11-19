@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "39995810",
+    "mail": "microcrechebulledair@gmail.com",
+    "distance": 27429,
+    "latitude": 50.22707159219392,
+    "telephone": "0671196189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulle d'Air",
+    "resultStructId": "196701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 a rue hector bonnel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.739194791240063,
+    "ville": "ficheux",
+    "cp": "62173"
+  },
+  {
+    "resultId": "58474159",
+    "mail": "microcrechebulledair@gmail.com",
+    "distance": 27456,
+    "latitude": 50.22681899580442,
+    "telephone": "0671196189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulle d'Air",
+    "resultStructId": "684905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 c rue hector bonnel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7387103075221013,
+    "ville": "ficheux",
+    "cp": "62173"
+  }
+]

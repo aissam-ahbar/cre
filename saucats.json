@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12645530",
+    "mail": "multiaccueilsaucats@cc-montesquieu.fr",
+    "distance": 44089,
+    "latitude": 44.65137706933812,
+    "telephone": "0556722686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil POM DE PIN",
+    "resultStructId": "222301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de rejouit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5938774746873919,
+    "ville": "saucats",
+    "cp": "33650"
+  },
+  {
+    "resultId": "56849449",
+    "mail": "contact@lacahutedesaventuriers.fr",
+    "distance": 44296,
+    "latitude": 44.651984776602276,
+    "telephone": "0981839799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACAHUTE DES AVENTURIERS",
+    "resultStructId": "666001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route du medoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.596922167107282,
+    "ville": "saucats",
+    "cp": "33650"
+  }
+]

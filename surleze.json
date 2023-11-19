@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13073327",
+    "mail": "cre-571@babilou.com",
+    "distance": 164390,
+    "latitude": 43.454090374203226,
+    "telephone": "0561769040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABABILOU LANARTHE SUR LEZE",
+    "resultStructId": "676810",
+    "omegaId": "50897",
+    "avip": false,
+    "adresse": "rue des ecoles 31860labarthe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3979171021397183,
+    "ville": "surleze",
+    "cp": ""
+  },
+  {
+    "resultId": "12488744",
+    "mail": "lespetitscanaillous31870@gmail.com",
+    "distance": 166521,
+    "latitude": 43.41451160803241,
+    "telephone": "0561565225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Canailloux",
+    "resultStructId": "616302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du chateau de vignaou 31870lagardelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.38838437589565,
+    "ville": "surleze",
+    "cp": ""
+  },
+  {
+    "resultId": "12635124",
+    "mail": "petite.enfance@cc-volvestre.fr",
+    "distance": 168843,
+    "latitude": 43.326350657691336,
+    "telephone": "0561908070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins de la Lèze",
+    "resultStructId": "632401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue georges sand 31410 st sulpice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.321217680122879,
+    "ville": "surleze",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12787748",
+    "mail": "f.doidy@talant.fr",
+    "distance": 64409,
+    "latitude": 47.337382013355615,
+    "telephone": "0380446087",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Multi-accueil Mennetrier",
+    "resultStructId": "204732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louis jouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.996515375856865,
+    "ville": "talant",
+    "cp": "21240"
+  },
+  {
+    "resultId": "13026586",
+    "mail": "pouponniere@mfbssam.fr",
+    "distance": 65463,
+    "latitude": 47.33095992808167,
+    "telephone": "0380332061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil LA POUPONNIERE (Mutualité)",
+    "resultStructId": "202403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee felixpoussineau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.012062953463788,
+    "ville": "talant",
+    "cp": "21240"
+  }
+]

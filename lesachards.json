@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12958552",
+    "mail": "contact@microcreche-des-papots.fr",
+    "distance": 123475,
+    "latitude": 46.60591719404299,
+    "telephone": "0251477247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"PapotiPapota\"",
+    "resultStructId": "11102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jules verne 85150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661735778827983,
+    "ville": "lesachards",
+    "cp": ""
+  },
+  {
+    "resultId": "12958638",
+    "mail": "contact@micro-creche-des-papots.fr",
+    "distance": 123495,
+    "latitude": 46.605667876134106,
+    "telephone": "0228972251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"LesPapotes\"",
+    "resultStructId": "11104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue jules verne 85150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661592998208271,
+    "ville": "lesachards",
+    "cp": ""
+  },
+  {
+    "resultId": "12958552",
+    "mail": "contact@microcreche-des-papots.fr",
+    "distance": 123475,
+    "latitude": 46.60591719404299,
+    "telephone": "0251477247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"PapotiPapota\"",
+    "resultStructId": "11102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jules verne 85150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661735778827983,
+    "ville": "lesachards",
+    "cp": ""
+  },
+  {
+    "resultId": "12958638",
+    "mail": "contact@micro-creche-des-papots.fr",
+    "distance": 123495,
+    "latitude": 46.605667876134106,
+    "telephone": "0228972251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"LesPapotes\"",
+    "resultStructId": "11104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue jules verne 85150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.661592998208271,
+    "ville": "lesachards",
+    "cp": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "59728035",
+    "mail": "micro_creche62@yahoo.fr",
+    "distance": 75523,
+    "latitude": 50.94751467209071,
+    "telephone": "0977308298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Doudou& tétine bleue",
+    "resultStructId": "699407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de calais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9510594415716302,
+    "ville": "marck",
+    "cp": "62730"
+  },
+  {
+    "resultId": "13019139",
+    "mail": "les.ptits.meuniers@ville-marck.fr",
+    "distance": 76222,
+    "latitude": 50.94948483829071,
+    "telephone": "0321856119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil les P'tits Meuniers",
+    "resultStructId": "683101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "208 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9402158878339928,
+    "ville": "marck",
+    "cp": "62730"
+  },
+  {
+    "resultId": "13020472",
+    "mail": "les.ptits.meuniers@ville-marck.fr",
+    "distance": 76222,
+    "latitude": 50.94948483829071,
+    "telephone": "0321856119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Les P'tits Meuniers de Marck",
+    "resultStructId": "157314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "208 avenue deverdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9402158878339928,
+    "ville": "marck",
+    "cp": "62730"
+  }
+]

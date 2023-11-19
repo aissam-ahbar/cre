@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58272447",
+    "mail": "contact.albertville@bpc-concept.fr",
+    "distance": 446959,
+    "latitude": 45.658818911108796,
+    "telephone": "0479310438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Monde de Diena",
+    "resultStructId": "702613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue de la combe de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.383171505418344,
+    "ville": "albertville",
+    "cp": "73200"
+  },
+  {
+    "resultId": "58370923",
+    "mail": "albertville@halppy-kids.fr",
+    "distance": 447541,
+    "latitude": 45.66069443468999,
+    "telephone": "0479104069",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BisouPapillon Albertville",
+    "resultStructId": "709101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "655 avenue louis armand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.372896212749278,
+    "ville": "albertville",
+    "cp": "73200"
+  },
+  {
+    "resultId": "41264081",
+    "mail": "lecarrousel@arlysere.fr",
+    "distance": 447608,
+    "latitude": 45.66329369100012,
+    "telephone": "0479107373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLE CARROUSEL",
+    "resultStructId": "700607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "805 rue commandant dubois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.377590084363256,
+    "ville": "albertville",
+    "cp": "73200"
+  },
+  {
+    "resultId": "12753305",
+    "mail": "petite.enfance@arlysere.fr",
+    "distance": 447608,
+    "latitude": 45.66329369100012,
+    "telephone": "0479107300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMinipouces",
+    "resultStructId": "700709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "805 rue commandant dubois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.377590084363256,
+    "ville": "albertville",
+    "cp": "73200"
+  }
+]

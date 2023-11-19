@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12500749",
+    "mail": "",
+    "distance": 119337,
+    "latitude": 48.621810174726086,
+    "telephone": "0383263667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Primevères\"",
+    "resultStructId": "68304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "810 avenue du bon cure -centre medico-social",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.161188405045003,
+    "ville": "ludres",
+    "cp": "54710"
+  },
+  {
+    "resultId": "12500706",
+    "mail": "",
+    "distance": 120299,
+    "latitude": 48.61610652413806,
+    "telephone": "0383263667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Les Primevères\"",
+    "resultStructId": "425",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "820 avenue du bon cure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.173372100248217,
+    "ville": "ludres",
+    "cp": "54710"
+  },
+  {
+    "resultId": "12842151",
+    "mail": "ludres@lpcr.fr",
+    "distance": 120645,
+    "latitude": 48.618912604173296,
+    "telephone": "0383221900",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8395",
+    "omegaId": "10916",
+    "avip": false,
+    "adresse": "77 rue pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.178597915638545,
+    "ville": "ludres",
+    "cp": "54710"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12976268",
+    "mail": "audrey.courty@ville-avion.fr",
+    "distance": 10250,
+    "latitude": 50.41507025227809,
+    "telephone": "0321147655",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti Accueil",
+    "resultStructId": "679231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la cite saint antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8311812400229024,
+    "ville": "avion",
+    "cp": "62210"
+  },
+  {
+    "resultId": "59528012",
+    "mail": "sabrinahetman@gmail.com",
+    "distance": 11823,
+    "latitude": 50.391259462501516,
+    "telephone": "0686367346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lecocon ETHAN et HUGO",
+    "resultStructId": "698101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 chemin de vimy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.825092774709676,
+    "ville": "avion",
+    "cp": "62210"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12773128",
+    "mail": "hgstv@orange.fr",
+    "distance": 65125,
+    "latitude": 44.13003801049279,
+    "telephone": "0490342959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Saint Vincent\"",
+    "resultStructId": "6790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue pierre et marie curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8016927569682,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555445",
+    "mail": "lesrevesbleus@wanadoo.fr",
+    "distance": 66028,
+    "latitude": 44.13747402788069,
+    "telephone": "0490346792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Rêves Bleus\"",
+    "resultStructId": "1698",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue joachim du bellay - sallerenaissance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555875",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 66028,
+    "latitude": 44.13747402788069,
+    "telephone": "0490511991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Castor et Pollux\"",
+    "resultStructId": "1708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556176",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 66028,
+    "latitude": 44.13747402788069,
+    "telephone": "0490518523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Titounets\"",
+    "resultStructId": "1715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556305",
+    "mail": "ccasorange2@wanadoo.fr",
+    "distance": 66276,
+    "latitude": 44.13964213666158,
+    "telephone": "0490340822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Poussins\"",
+    "resultStructId": "1718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du noble",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807913734005006,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12773128",
+    "mail": "hgstv@orange.fr",
+    "distance": 412760,
+    "latitude": 44.13003801049279,
+    "telephone": "0490342959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Saint Vincent\"",
+    "resultStructId": "6790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue pierre et marie curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8016927569682,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555875",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 412804,
+    "latitude": 44.13747402788069,
+    "telephone": "0490511991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Castor et Pollux\"",
+    "resultStructId": "1708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556176",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 412804,
+    "latitude": 44.13747402788069,
+    "telephone": "0490518523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Titounets\"",
+    "resultStructId": "1715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555445",
+    "mail": "lesrevesbleus@wanadoo.fr",
+    "distance": 412804,
+    "latitude": 44.13747402788069,
+    "telephone": "0490346792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Rêves Bleus\"",
+    "resultStructId": "1698",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue joachim du bellay - sallerenaissance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556305",
+    "mail": "ccasorange2@wanadoo.fr",
+    "distance": 412881,
+    "latitude": 44.13964213666158,
+    "telephone": "0490340822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Poussins\"",
+    "resultStructId": "1718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du noble",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807913734005006,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12773128",
+    "mail": "hgstv@orange.fr",
+    "distance": 93570,
+    "latitude": 44.13003801049279,
+    "telephone": "0490342959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Saint Vincent\"",
+    "resultStructId": "6790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue pierre et marie curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8016927569682,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555445",
+    "mail": "lesrevesbleus@wanadoo.fr",
+    "distance": 94433,
+    "latitude": 44.13747402788069,
+    "telephone": "0490346792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Rêves Bleus\"",
+    "resultStructId": "1698",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue joachim du bellay - sallerenaissance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555875",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 94433,
+    "latitude": 44.13747402788069,
+    "telephone": "0490511991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Castor et Pollux\"",
+    "resultStructId": "1708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556176",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 94433,
+    "latitude": 44.13747402788069,
+    "telephone": "0490518523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Titounets\"",
+    "resultStructId": "1715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556305",
+    "mail": "ccasorange2@wanadoo.fr",
+    "distance": 94628,
+    "latitude": 44.13964213666158,
+    "telephone": "0490340822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Poussins\"",
+    "resultStructId": "1718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du noble",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807913734005006,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556305",
+    "mail": "ccasorange2@wanadoo.fr",
+    "distance": 102290,
+    "latitude": 44.13964213666158,
+    "telephone": "0490340822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Poussins\"",
+    "resultStructId": "1718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du noble",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807913734005006,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555445",
+    "mail": "lesrevesbleus@wanadoo.fr",
+    "distance": 102298,
+    "latitude": 44.13747402788069,
+    "telephone": "0490346792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Rêves Bleus\"",
+    "resultStructId": "1698",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue joachim du bellay - sallerenaissance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12555875",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 102298,
+    "latitude": 44.13747402788069,
+    "telephone": "0490511991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Castor et Pollux\"",
+    "resultStructId": "1708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12556176",
+    "mail": "ccasorange3@wanadoo.fr",
+    "distance": 102298,
+    "latitude": 44.13747402788069,
+    "telephone": "0490518523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Titounets\"",
+    "resultStructId": "1715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de l'ancien college saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8072298859294875,
+    "ville": "orange",
+    "cp": "84100"
+  },
+  {
+    "resultId": "12773128",
+    "mail": "hgstv@orange.fr",
+    "distance": 102579,
+    "latitude": 44.13003801049279,
+    "telephone": "0490342959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Saint Vincent\"",
+    "resultStructId": "6790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue pierre et marie curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8016927569682,
+    "ville": "orange",
+    "cp": "84100"
+  }
+]

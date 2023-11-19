@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "57683490",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 19323,
+    "latitude": 50.3034394155301,
+    "telephone": "0981893010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SesPremiers pas Saint Nicolas",
+    "resultStructId": "677806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 bis rue raoul briquet62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.775767271975978,
+    "ville": "stnicolas",
+    "cp": ""
+  },
+  {
+    "resultId": "13019397",
+    "mail": "multiaccueil@ville-saintnicolas.fr",
+    "distance": 19337,
+    "latitude": 50.30523308319586,
+    "telephone": "0321217163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multi-accueil \"Bienvenue chez les p'tits bouts",
+    "resultStructId": "682608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "395 ruehenri grenier 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7884696112251715,
+    "ville": "stnicolas",
+    "cp": ""
+  },
+  {
+    "resultId": "58612842",
+    "mail": "lamonteedessourisecolos@outlook.fr",
+    "distance": 19469,
+    "latitude": 50.304626844756065,
+    "telephone": "0973889431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMontée des Souris Ecolos",
+    "resultStructId": "699518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 place du marche 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.792142178808422,
+    "ville": "stnicolas",
+    "cp": ""
+  },
+  {
+    "resultId": "56563883",
+    "mail": "creche.melodiecaline@gmail.com",
+    "distance": 19596,
+    "latitude": 50.30097136778696,
+    "telephone": "0618451541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Melodiecaline",
+    "resultStructId": "691007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue anatole france 62223",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7761078581398873,
+    "ville": "stnicolas",
+    "cp": ""
+  }
+]

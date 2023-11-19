@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59314935",
+    "mail": "mc.larochevineuse@mb-agglo.com",
+    "distance": 108741,
+    "latitude": 46.34684285289972,
+    "telephone": "0385350080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le Jardin de lalie\"",
+    "resultStructId": "695317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la chapelle 71960",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.717784657225035,
+    "ville": "larochevineuse",
+    "cp": ""
+  },
+  {
+    "resultId": "12618483",
+    "mail": "info.larochevineuse@fede71.admr.org",
+    "distance": 108752,
+    "latitude": 46.34651440039959,
+    "telephone": "0385377459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Poussins de l'Eau Vive",
+    "resultStructId": "3164",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "hameau de l'eau vive 71960",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.717012545061992,
+    "ville": "larochevineuse",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12767624",
+    "mail": "creche.dizy@wanadoo.fr",
+    "distance": 55819,
+    "latitude": 49.061844124507715,
+    "telephone": "0326515612",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Canaillous Dizy",
+    "resultStructId": "6662",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9696431444723115,
+    "ville": "dizy",
+    "cp": "51530"
+  },
+  {
+    "resultId": "38796484",
+    "mail": "lamaisondesfilous@gmail.com",
+    "distance": 55980,
+    "latitude": 49.06247634499914,
+    "telephone": "0603409585",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON DES FILOUS",
+    "resultStructId": "176403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "277 rue de reims",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.967552623282166,
+    "ville": "dizy",
+    "cp": "51530"
+  }
+]

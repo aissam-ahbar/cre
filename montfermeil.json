@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12871778",
+    "mail": "faaz.benkhabcheche@les-cherubins.com",
+    "distance": 145650,
+    "latitude": 48.90220475332973,
+    "telephone": "0688107062",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheFaaz les Chérubins de Montfermeil",
+    "resultStructId": "9084",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18-20 place",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.571982791526769,
+    "ville": "montfermeil",
+    "cp": "93370"
+  },
+  {
+    "resultId": "12869542",
+    "mail": "",
+    "distance": 145991,
+    "latitude": 48.90004312570796,
+    "telephone": "0143326311",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Vie En Herbe",
+    "resultStructId": "701417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5669003697132178,
+    "ville": "montfermeil",
+    "cp": "93370"
+  },
+  {
+    "resultId": "12869671",
+    "mail": "",
+    "distance": 146116,
+    "latitude": 48.89930525119277,
+    "telephone": "0143881231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil « Les Lucioles »",
+    "resultStructId": "701420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5650485458245207,
+    "ville": "montfermeil",
+    "cp": "93370"
+  },
+  {
+    "resultId": "12869714",
+    "mail": "",
+    "distance": 146662,
+    "latitude": 48.901762180811836,
+    "telephone": "0141707935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« La Source »",
+    "resultStructId": "701410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 boulevard bargues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5579706001736935,
+    "ville": "montfermeil",
+    "cp": "93370"
+  },
+  {
+    "resultId": "12869628",
+    "mail": "",
+    "distance": 146754,
+    "latitude": 48.900734645552795,
+    "telephone": "0141707936",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Frimousses",
+    "resultStructId": "701337",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 place notre dame des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.556514557141091,
+    "ville": "montfermeil",
+    "cp": "93370"
+  }
+]

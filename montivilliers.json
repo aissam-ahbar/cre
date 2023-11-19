@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12818837",
+    "mail": "123soleil-amisc@orange.fr",
+    "distance": 85263,
+    "latitude": 49.54277548766804,
+    "telephone": "0235131060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "123SOLEIL",
+    "resultStructId": "153201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des grainetiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.18780174001973363,
+    "ville": "montivilliers",
+    "cp": "76290"
+  },
+  {
+    "resultId": "60316819",
+    "mail": "montivilliers@lesptitsbabadins.com",
+    "distance": 85289,
+    "latitude": 49.54983465931782,
+    "telephone": "0973396598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles P'tits Babadins",
+    "resultStructId": "708740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse edgar degas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.17381345714525492,
+    "ville": "montivilliers",
+    "cp": "76290"
+  }
+]

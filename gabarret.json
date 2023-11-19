@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12755455",
+    "mail": "multiaccueil.gabarret@ccla40.fr",
+    "distance": 44322,
+    "latitude": 43.990364943588894,
+    "telephone": "0558037287",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Communautaire Gabarret",
+    "resultStructId": "127901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "182 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.010320993707188194,
+    "ville": "gabarret",
+    "cp": "40310"
+  }
+]

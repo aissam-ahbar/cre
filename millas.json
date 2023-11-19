@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12732966",
+    "mail": "",
+    "distance": 183380,
+    "latitude": 42.694633038251894,
+    "telephone": "0468352178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "5856",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du tournail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7006374355949943,
+    "ville": "millas",
+    "cp": "66170"
+  },
+  {
+    "resultId": "12732966",
+    "mail": "",
+    "distance": 139708,
+    "latitude": 42.694633038251894,
+    "telephone": "0468352178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "5856",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du tournail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7006374355949943,
+    "ville": "millas",
+    "cp": "66170"
+  }
+]

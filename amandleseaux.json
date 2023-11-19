@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "58980831",
+    "mail": "saintamand@rigolocommelavie.fr",
+    "distance": 49699,
+    "latitude": 50.44349657960199,
+    "telephone": "0327432873",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Saint Amand",
+    "resultStructId": "691403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "79 rue gambetta 59230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.419615796192216,
+    "ville": "amandleseaux",
+    "cp": ""
+  },
+  {
+    "resultId": "12820299",
+    "mail": "",
+    "distance": 50307,
+    "latitude": 50.45003621198,
+    "telephone": "0327278151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Palombes",
+    "resultStructId": "7887",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des tilleuls 59230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4288731608747707,
+    "ville": "amandleseaux",
+    "cp": ""
+  },
+  {
+    "resultId": "12820256",
+    "mail": "",
+    "distance": 51526,
+    "latitude": 50.448051500832364,
+    "telephone": "0327435341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Fourmilière\"",
+    "resultStructId": "7886",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 avenue du college 59230 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4459350161713846,
+    "ville": "amandleseaux",
+    "cp": ""
+  }
+]

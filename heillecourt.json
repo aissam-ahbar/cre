@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "25679564",
+    "mail": "portesud@lesptitsmalins.fr",
+    "distance": 121140,
+    "latitude": 48.64464602978793,
+    "telephone": "0383922212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Malins",
+    "resultStructId": "164903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue des erables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.189366522329221,
+    "ville": "heillecourt",
+    "cp": "54180"
+  },
+  {
+    "resultId": "12513004",
+    "mail": "contact@mairie-heillecourt.fr",
+    "distance": 121443,
+    "latitude": 48.65344695876178,
+    "telephone": "0383535993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Maison de l'Enfance\"",
+    "resultStructId": "711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de versailles -immeuble dufy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.194658481820361,
+    "ville": "heillecourt",
+    "cp": "54180"
+  }
+]

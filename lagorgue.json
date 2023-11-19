@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12792091",
+    "mail": "halte-garderie@ville-lagorgue.fr",
+    "distance": 18034,
+    "latitude": 50.635464169765896,
+    "telephone": "0328440743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Les Magotins\"",
+    "resultStructId": "7231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint roch 59253",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.708246861055535,
+    "ville": "lagorgue",
+    "cp": ""
+  }
+]

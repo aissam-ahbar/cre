@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13014409",
+    "mail": "saintprivat@crechesdefrance.com",
+    "distance": 112649,
+    "latitude": 43.36732067403871,
+    "telephone": "0448200231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Saint Privat",
+    "resultStructId": "111504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la margeride 34760boujan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2549824155256504,
+    "ville": "surlibron",
+    "cp": ""
+  },
+  {
+    "resultId": "13017763",
+    "mail": "contact@babilou.com",
+    "distance": 113185,
+    "latitude": 43.37064476836187,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBabilou Boujan Curie",
+    "resultStructId": "556702",
+    "omegaId": "9384",
+    "avip": false,
+    "adresse": "rue pierre et marie curie 34760boujan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2473138153738703,
+    "ville": "surlibron",
+    "cp": ""
+  },
+  {
+    "resultId": "13014409",
+    "mail": "saintprivat@crechesdefrance.com",
+    "distance": 57815,
+    "latitude": 43.36732067403871,
+    "telephone": "0448200231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Saint Privat",
+    "resultStructId": "111504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la margeride 34760boujan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2549824155256504,
+    "ville": "surlibron",
+    "cp": ""
+  },
+  {
+    "resultId": "13017763",
+    "mail": "contact@babilou.com",
+    "distance": 58206,
+    "latitude": 43.37064476836187,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBabilou Boujan Curie",
+    "resultStructId": "556702",
+    "omegaId": "9384",
+    "avip": false,
+    "adresse": "rue pierre et marie curie 34760boujan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2473138153738703,
+    "ville": "surlibron",
+    "cp": ""
+  }
+]

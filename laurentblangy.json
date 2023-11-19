@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13025984",
+    "mail": "laplanetedesenfants@micro-baby.com",
+    "distance": 18979,
+    "latitude": 50.317117527807085,
+    "telephone": "0953002121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPLANETE DES ENFANTS",
+    "resultStructId": "656501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jules cesar 62223 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8266979464434043,
+    "ville": "laurentblangy",
+    "cp": ""
+  },
+  {
+    "resultId": "13018537",
+    "mail": "crechecapucines@saint-laurent-blangy.fr",
+    "distance": 19344,
+    "latitude": 50.306880727707075,
+    "telephone": "0321071705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Capucines\" de St Laurent Blangy",
+    "resultStructId": "244001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue amboise62223 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7980114830146587,
+    "ville": "laurentblangy",
+    "cp": ""
+  },
+  {
+    "resultId": "49482875",
+    "mail": "contact@crechndo.org",
+    "distance": 20003,
+    "latitude": 50.305172102324335,
+    "telephone": "0620534650",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECH'N'DO",
+    "resultStructId": "506301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54rue henri barbusse 62223 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8189756092417526,
+    "ville": "laurentblangy",
+    "cp": ""
+  },
+  {
+    "resultId": "56567184",
+    "mail": "ile.aux.bambins62@gmail.com",
+    "distance": 20214,
+    "latitude": 50.2993490697701,
+    "telephone": "0374412541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheILE AUX BAMBINS",
+    "resultStructId": "685121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 a rue des rosatis, residencerobespierre 62223 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.801324081076109,
+    "ville": "laurentblangy",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "29803730",
+    "mail": "multiaccueil.tencin@legresivaudan.fr",
+    "distance": 432435,
+    "latitude": 45.30321515410258,
+    "telephone": "0476992340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Arche",
+    "resultStructId": "58603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du roy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.954775467372339,
+    "ville": "tencin",
+    "cp": "38570"
+  },
+  {
+    "resultId": "29803730",
+    "mail": "multiaccueil.tencin@legresivaudan.fr",
+    "distance": 149961,
+    "latitude": 45.30321515410258,
+    "telephone": "0476992340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Arche",
+    "resultStructId": "58603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du roy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.954775467372339,
+    "ville": "tencin",
+    "cp": "38570"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12623514",
+    "mail": "halte.garderie@ville-bessancourt.fr",
+    "distance": 163371,
+    "latitude": 49.04073616317086,
+    "telephone": "0130404414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "3281",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue madame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.214933547529291,
+    "ville": "bessancourt",
+    "cp": "95550"
+  },
+  {
+    "resultId": "12576300",
+    "mail": "valerie.roger@ville-bessancourt.fr",
+    "distance": 163449,
+    "latitude": 49.041381389989894,
+    "telephone": "0130404400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Maison de la Petite Enfance Donald Winnicott",
+    "resultStructId": "82602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3avenue lamartine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2057405538320998,
+    "ville": "bessancourt",
+    "cp": "95550"
+  }
+]

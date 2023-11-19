@@ -1,0 +1,195 @@
+[
+  {
+    "resultId": "49546586",
+    "mail": "vanillefraise@ville-croix.fr",
+    "distance": 37618,
+    "latitude": 50.67448348063124,
+    "telephone": "0328099350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVANILLE FRAISE",
+    "resultStructId": "600901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1475394673076047,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "12607303",
+    "mail": "boutchou@ville-croix.fr",
+    "distance": 37618,
+    "latitude": 50.67448348063124,
+    "telephone": "0328099355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \" BOUT CHOU\"",
+    "resultStructId": "600705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1475394673076047,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "12607346",
+    "mail": "lutins@ville-croix.fr",
+    "distance": 37618,
+    "latitude": 50.67448348063124,
+    "telephone": "0328099344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES LUTINS",
+    "resultStructId": "600802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1475394673076047,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "12607131",
+    "mail": "galipette@ville-croix.fr",
+    "distance": 37618,
+    "latitude": 50.67448348063124,
+    "telephone": "0328099341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE \"GALIPETTE\"",
+    "resultStructId": "633301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1475394673076047,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "12990888",
+    "mail": "croix@rigolocommelavie.fr",
+    "distance": 38291,
+    "latitude": 50.67175443237065,
+    "telephone": "0320036730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE CROIX",
+    "resultStructId": "426201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "320 rue verte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1623831353898813,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "58700116",
+    "mail": "contact@racontemoi-creche.fr",
+    "distance": 38320,
+    "latitude": 50.6662595726109,
+    "telephone": "0612606636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RACONTEMOI",
+    "resultStructId": "688604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue mallet stevens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1688226770531274,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "12607389",
+    "mail": "canailloux@ville-croix.fr",
+    "distance": 38460,
+    "latitude": 50.683486193464425,
+    "telephone": "0320036351",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES CANAILLOUX",
+    "resultStructId": "600801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1518368625153257,
+    "ville": "croix",
+    "cp": "59170"
+  },
+  {
+    "resultId": "57349603",
+    "mail": "contact@happyruche.com",
+    "distance": 38486,
+    "latitude": 50.68040700899597,
+    "telephone": "0320337366",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE HAPPY RUCHE",
+    "resultStructId": "699110",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "6rue isaac holden",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.1559577031124326,
+    "ville": "croix",
+    "cp": "59170"
+  }
+]

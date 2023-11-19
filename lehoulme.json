@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12825975",
+    "mail": "creche.haltegarderie-lehoulme@orange.fr",
+    "distance": 161143,
+    "latitude": 49.5071978999896,
+    "telephone": "0235766592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCANETONS",
+    "resultStructId": "154803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des martyrs 76770",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.039006552523586,
+    "ville": "lehoulme",
+    "cp": ""
+  },
+  {
+    "resultId": "38102031",
+    "mail": "joliesgraines@gmail.com",
+    "distance": 161258,
+    "latitude": 49.50436437258781,
+    "telephone": "0767303076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JOLIESGRAINES",
+    "resultStructId": "587401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73a rue du general de gaulle 76770",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.040840687613113,
+    "ville": "lehoulme",
+    "cp": ""
+  },
+  {
+    "resultId": "38102031",
+    "mail": "joliesgraines@gmail.com",
+    "distance": 129967,
+    "latitude": 49.50436437258781,
+    "telephone": "0767303076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JOLIESGRAINES",
+    "resultStructId": "587401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73a rue du general de gaulle 76770",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.040840687613113,
+    "ville": "lehoulme",
+    "cp": ""
+  },
+  {
+    "resultId": "12825975",
+    "mail": "creche.haltegarderie-lehoulme@orange.fr",
+    "distance": 130004,
+    "latitude": 49.5071978999896,
+    "telephone": "0235766592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCANETONS",
+    "resultStructId": "154803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue des martyrs 76770",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.039006552523586,
+    "ville": "lehoulme",
+    "cp": ""
+  }
+]

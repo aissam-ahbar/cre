@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12600552",
+    "mail": "polemulti-accueil@orange.fr",
+    "distance": 147014,
+    "latitude": 46.09728655416416,
+    "telephone": "0470902020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalipettes",
+    "resultStructId": "2747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1973484144121076,
+    "ville": "gannat",
+    "cp": "03800"
+  },
+  {
+    "resultId": "12600552",
+    "mail": "polemulti-accueil@orange.fr",
+    "distance": 153537,
+    "latitude": 46.09728655416416,
+    "telephone": "0470902020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalipettes",
+    "resultStructId": "2747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1973484144121076,
+    "ville": "gannat",
+    "cp": "03800"
+  }
+]

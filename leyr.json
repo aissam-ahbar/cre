@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12605282",
+    "mail": "",
+    "distance": 126613,
+    "latitude": 48.80473134843763,
+    "telephone": "0383235010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilintercommunal \"La Zirond'aile\"",
+    "resultStructId": "504301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.268304330214014,
+    "ville": "leyr",
+    "cp": "54760"
+  },
+  {
+    "resultId": "41261739",
+    "mail": "ma.leyr@comcom-sgc.fr",
+    "distance": 126613,
+    "latitude": 48.80473134843763,
+    "telephone": "0383235010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilintercommunal \"La Zirond'aile\"",
+    "resultStructId": "215904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.268304330214014,
+    "ville": "leyr",
+    "cp": "54760"
+  }
+]

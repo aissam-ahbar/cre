@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33561109",
+    "mail": "multiaccueil@mairie-monnieres.fr",
+    "distance": 60500,
+    "latitude": 47.132244072428115,
+    "telephone": "0240546519",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES COCCINELLES",
+    "resultStructId": "108227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des quatrerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3511858722494343,
+    "ville": "monnieres",
+    "cp": "44690"
+  },
+  {
+    "resultId": "33561109",
+    "mail": "multiaccueil@mairie-monnieres.fr",
+    "distance": 60500,
+    "latitude": 47.132244072428115,
+    "telephone": "0240546519",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES COCCINELLES",
+    "resultStructId": "108227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue des quatrerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3511858722494343,
+    "ville": "monnieres",
+    "cp": "44690"
+  }
+]

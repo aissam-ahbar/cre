@@ -1,0 +1,520 @@
+[
+  {
+    "resultId": "12901190",
+    "mail": "haltegarbejaire@ville-valbonne.fr",
+    "distance": 192005,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHG Garbejaïre",
+    "resultStructId": "710411",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901147",
+    "mail": "crechegarbejaire@ville-valbonne.fr",
+    "distance": 192005,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGarbejaïre",
+    "resultStructId": "710412",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12615903",
+    "mail": "",
+    "distance": 192005,
+    "latitude": 43.64006514755098,
+    "telephone": "0493614290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes crêtes",
+    "resultStructId": "582602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1300 route des cretes - batiment l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12668199",
+    "mail": "alexiapandolfo@free.fr",
+    "distance": 234348,
+    "latitude": 43.62168107823936,
+    "telephone": "0493958373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits canaillous",
+    "resultStructId": "705205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 traverse du barri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.046958706068981,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12669059",
+    "mail": "crechefamiliale@ville-valbonne.fr",
+    "distance": 234408,
+    "latitude": 43.62313777495729,
+    "telephone": "0493123463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CFMulti-accueil familial",
+    "resultStructId": "705711",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "2 ruesoubeirane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.047848097012288,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12692365",
+    "mail": "lahalteverte@gmail.com",
+    "distance": 235716,
+    "latitude": 43.64181380563766,
+    "telephone": "0492940012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGLa halte-verte",
+    "resultStructId": "575604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2550 route de biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.050091583093937,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "54771925",
+    "mail": "jardindenfants@ville-valbonne.fr",
+    "distance": 235868,
+    "latitude": 43.64382594723243,
+    "telephone": "0493123464",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'EnfantsVALBONNE",
+    "resultStructId": "675914",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2555 routede biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.050148912713451,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901104",
+    "mail": "crecheileverte@ville-valbonne.fr",
+    "distance": 235868,
+    "latitude": 43.64382594723243,
+    "telephone": "0493123463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'île verte",
+    "resultStructId": "675909",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2555route de biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.050148912713451,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12615903",
+    "mail": "",
+    "distance": 238054,
+    "latitude": 43.64006514755098,
+    "telephone": "0493614290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes crêtes",
+    "resultStructId": "582602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1300 route des cretes - batiment l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901190",
+    "mail": "haltegarbejaire@ville-valbonne.fr",
+    "distance": 238054,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHG Garbejaïre",
+    "resultStructId": "710411",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901147",
+    "mail": "crechegarbejaire@ville-valbonne.fr",
+    "distance": 238054,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGarbejaïre",
+    "resultStructId": "710412",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901233",
+    "mail": "haltevillage@ville-valbonne.fr",
+    "distance": 238210,
+    "latitude": 43.642478339668,
+    "telephone": "0493123479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHG Village",
+    "resultStructId": "675912",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-23",
+    "adresse": "173 routede grasse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.008057991553106,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901233",
+    "mail": "haltevillage@ville-valbonne.fr",
+    "distance": 83563,
+    "latitude": 43.642478339668,
+    "telephone": "0493123479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHG Village",
+    "resultStructId": "675912",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-23",
+    "adresse": "173 routede grasse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.008057991553106,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901190",
+    "mail": "haltegarbejaire@ville-valbonne.fr",
+    "distance": 83643,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHG Garbejaïre",
+    "resultStructId": "710411",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901147",
+    "mail": "crechegarbejaire@ville-valbonne.fr",
+    "distance": 83643,
+    "latitude": 43.64006514755098,
+    "telephone": "0492982892",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAGarbejaïre",
+    "resultStructId": "710412",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "84boulevard georges pompidou garbejaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12615903",
+    "mail": "",
+    "distance": 83643,
+    "latitude": 43.64006514755098,
+    "telephone": "0493614290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes crêtes",
+    "resultStructId": "582602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1300 route des cretes - batiment l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.007582809253804,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "54771925",
+    "mail": "jardindenfants@ville-valbonne.fr",
+    "distance": 86582,
+    "latitude": 43.64382594723243,
+    "telephone": "0493123464",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'EnfantsVALBONNE",
+    "resultStructId": "675914",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2555 routede biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.050148912713451,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12901104",
+    "mail": "crecheileverte@ville-valbonne.fr",
+    "distance": 86582,
+    "latitude": 43.64382594723243,
+    "telephone": "0493123463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'île verte",
+    "resultStructId": "675909",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2555route de biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 7.050148912713451,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12692365",
+    "mail": "lahalteverte@gmail.com",
+    "distance": 86669,
+    "latitude": 43.64181380563766,
+    "telephone": "0492940012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGLa halte-verte",
+    "resultStructId": "575604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2550 route de biot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.050091583093937,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12669059",
+    "mail": "crechefamiliale@ville-valbonne.fr",
+    "distance": 87377,
+    "latitude": 43.62313777495729,
+    "telephone": "0493123463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CFMulti-accueil familial",
+    "resultStructId": "705711",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "2 ruesoubeirane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.047848097012288,
+    "ville": "valbonne",
+    "cp": "06560"
+  },
+  {
+    "resultId": "12668199",
+    "mail": "alexiapandolfo@free.fr",
+    "distance": 87382,
+    "latitude": 43.62168107823936,
+    "telephone": "0493958373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits canaillous",
+    "resultStructId": "705205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 traverse du barri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.046958706068981,
+    "ville": "valbonne",
+    "cp": "06560"
+  }
+]

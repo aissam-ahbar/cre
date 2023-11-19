@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59138539",
+    "mail": "caroline@little-tribu.fr",
+    "distance": 170490,
+    "latitude": 45.764762041354935,
+    "telephone": "0478574502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLittle Tribu \"Les Petits Apaches\"",
+    "resultStructId": "693005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse dessalamandres 69290 st genis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.733025232131329,
+    "ville": "lesollieres",
+    "cp": ""
+  },
+  {
+    "resultId": "12905748",
+    "mail": "contact@belinbeline.fr",
+    "distance": 171038,
+    "latitude": 45.75764826593617,
+    "telephone": "0478448547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBelin Beline",
+    "resultStructId": "707638",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 esplanade simone veil 69290 st genis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.721967336372998,
+    "ville": "lesollieres",
+    "cp": ""
+  }
+]

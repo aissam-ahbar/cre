@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12619472",
+    "mail": "maire@ville-coudekerque-branche.fr",
+    "distance": 65063,
+    "latitude": 51.02356518490799,
+    "telephone": "0328593621",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lestout petits",
+    "resultStructId": "3187",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue marc chagall 59210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.404152958534287,
+    "ville": "coudekerquebranche",
+    "cp": ""
+  },
+  {
+    "resultId": "12619816",
+    "mail": "maire@ville-coudekerque-branche.fr",
+    "distance": 65090,
+    "latitude": 51.01757069731992,
+    "telephone": "0328242475",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesch'herissons",
+    "resultStructId": "3195",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue d'artois 59210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3780856896182443,
+    "ville": "coudekerquebranche",
+    "cp": ""
+  },
+  {
+    "resultId": "12619515",
+    "mail": "mairie@ville-coudekerque-branche.fr",
+    "distance": 65615,
+    "latitude": 51.02691571248294,
+    "telephone": "0328630190",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Gavr'Hoches",
+    "resultStructId": "3188",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue hoche 59210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3957507589001863,
+    "ville": "coudekerquebranche",
+    "cp": ""
+  }
+]

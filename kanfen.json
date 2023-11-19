@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "39880554",
+    "mail": "contact@lesptitsfrenchy.com",
+    "distance": 138197,
+    "latitude": 49.43477284709681,
+    "telephone": "0382900175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les p'tits French'y 2 \" - Kanfen",
+    "resultStructId": "195032",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6a rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.108669108190797,
+    "ville": "kanfen",
+    "cp": "57330"
+  },
+  {
+    "resultId": "39880507",
+    "mail": "contact@lesptitsfrenchy.com",
+    "distance": 138197,
+    "latitude": 49.43477284709681,
+    "telephone": "0382876845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les p'tits French'y\" - Kanfen",
+    "resultStructId": "195031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.108669108190797,
+    "ville": "kanfen",
+    "cp": "57330"
+  }
+]

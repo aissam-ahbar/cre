@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "46579373",
+    "mail": "chevaliers-et-princesses@creche-limoges.fr",
+    "distance": 134867,
+    "latitude": 45.818407784723725,
+    "telephone": "0603203427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChevaliers et Princesses",
+    "resultStructId": "324501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue thomas edison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3049187112998306,
+    "ville": "feytiat",
+    "cp": "87220"
+  },
+  {
+    "resultId": "12906264",
+    "mail": "lesdiablotins@mutualitelimousine.fr",
+    "distance": 135209,
+    "latitude": 45.81160982086427,
+    "telephone": "0555483091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Diablotins",
+    "resultStructId": "9886",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.32997629195851,
+    "ville": "feytiat",
+    "cp": "87220"
+  },
+  {
+    "resultId": "12906049",
+    "mail": "chapichapo@mutualitelimousine.fr",
+    "distance": 135311,
+    "latitude": 45.811477869916466,
+    "telephone": "0555060234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChapi Chapo",
+    "resultStructId": "9881",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue frederic legrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3243339159223393,
+    "ville": "feytiat",
+    "cp": "87220"
+  },
+  {
+    "resultId": "46579373",
+    "mail": "chevaliers-et-princesses@creche-limoges.fr",
+    "distance": 203511,
+    "latitude": 45.818407784723725,
+    "telephone": "0603203427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChevaliers et Princesses",
+    "resultStructId": "324501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue thomas edison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3049187112998306,
+    "ville": "feytiat",
+    "cp": "87220"
+  },
+  {
+    "resultId": "12906049",
+    "mail": "chapichapo@mutualitelimousine.fr",
+    "distance": 203810,
+    "latitude": 45.811477869916466,
+    "telephone": "0555060234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChapi Chapo",
+    "resultStructId": "9881",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue frederic legrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3243339159223393,
+    "ville": "feytiat",
+    "cp": "87220"
+  },
+  {
+    "resultId": "12906264",
+    "mail": "lesdiablotins@mutualitelimousine.fr",
+    "distance": 204088,
+    "latitude": 45.81160982086427,
+    "telephone": "0555483091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Diablotins",
+    "resultStructId": "9886",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.32997629195851,
+    "ville": "feytiat",
+    "cp": "87220"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12669231",
+    "mail": "creche.drap@ccpp06.fr",
+    "distance": 230374,
+    "latitude": 43.75765519942524,
+    "telephone": "0492007110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa formigua",
+    "resultStructId": "579201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 boulevard du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.32050956549057,
+    "ville": "drap",
+    "cp": "06340"
+  },
+  {
+    "resultId": "12669231",
+    "mail": "creche.drap@ccpp06.fr",
+    "distance": 103285,
+    "latitude": 43.75765519942524,
+    "telephone": "0492007110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa formigua",
+    "resultStructId": "579201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 boulevard du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.32050956549057,
+    "ville": "drap",
+    "cp": "06340"
+  }
+]

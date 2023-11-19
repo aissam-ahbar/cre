@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "13000348",
+    "mail": "multi-accueil@mairie-coulogne.fr",
+    "distance": 77225,
+    "latitude": 50.92538609585836,
+    "telephone": "0321369383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EtablissementMulti-Accueil \"La Clé desChamps\"",
+    "resultStructId": "691618",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "9 rue deshauts champs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.886569674526978,
+    "ville": "coulogne",
+    "cp": "62137"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12944706",
+    "mail": "",
+    "distance": 125087,
+    "latitude": 48.9460371313644,
+    "telephone": "0164366683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Villenoy",
+    "resultStructId": "181703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.866528333180846,
+    "ville": "villenoy",
+    "cp": "77124"
+  },
+  {
+    "resultId": "57591962",
+    "mail": "contact-katetleo@byketl.fr",
+    "distance": 125760,
+    "latitude": 48.9402194445018,
+    "telephone": "0164333162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kat&LéoBy K&L",
+    "resultStructId": "676904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du moulin a vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8555805307013298,
+    "ville": "villenoy",
+    "cp": "77124"
+  },
+  {
+    "resultId": "12944706",
+    "mail": "",
+    "distance": 170167,
+    "latitude": 48.9460371313644,
+    "telephone": "0164366683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Villenoy",
+    "resultStructId": "181703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.866528333180846,
+    "ville": "villenoy",
+    "cp": "77124"
+  },
+  {
+    "resultId": "57591962",
+    "mail": "contact-katetleo@byketl.fr",
+    "distance": 170766,
+    "latitude": 48.9402194445018,
+    "telephone": "0164333162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kat&LéoBy K&L",
+    "resultStructId": "676904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du moulin a vent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8555805307013298,
+    "ville": "villenoy",
+    "cp": "77124"
+  }
+]

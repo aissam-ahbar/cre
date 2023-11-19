@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12953134",
+    "mail": "bateauxsurleau.doumy@gmail.com",
+    "distance": 100703,
+    "latitude": 43.44713260875506,
+    "telephone": "0559066886",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEBateaux sur l'eau",
+    "resultStructId": "10976",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la carrere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3762052979166047,
+    "ville": "doumy",
+    "cp": "64450"
+  }
+]

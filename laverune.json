@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12801422",
+    "mail": "creche@mairiedelaverune.fr",
+    "distance": 66350,
+    "latitude": 43.58571542972192,
+    "telephone": "0499512026",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE L'ENFANCE L'OSTAL DELS PICHONS",
+    "resultStructId": "435301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 avenue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.803025709701286,
+    "ville": "laverune",
+    "cp": "34880"
+  },
+  {
+    "resultId": "12801422",
+    "mail": "creche@mairiedelaverune.fr",
+    "distance": 7688,
+    "latitude": 43.58571542972192,
+    "telephone": "0499512026",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAISONDE L'ENFANCE L'OSTAL DELS PICHONS",
+    "resultStructId": "435301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "7 avenue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.803025709701286,
+    "ville": "laverune",
+    "cp": "34880"
+  }
+]

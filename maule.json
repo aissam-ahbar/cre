@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "40906550",
+    "mail": "larondedesdoudous.maule@gmail.com",
+    "distance": 172798,
+    "latitude": 48.90973341600498,
+    "telephone": "0781246273",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE -LA RONDE DES DOUDOUS MAULE",
+    "resultStructId": "676327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8475197604676985,
+    "ville": "maule",
+    "cp": "78580"
+  },
+  {
+    "resultId": "12587953",
+    "mail": "les-pitchounes@wanadoo.fr",
+    "distance": 172944,
+    "latitude": 48.91016449513042,
+    "telephone": "0130909469",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES PITCHOUNS",
+    "resultStructId": "684603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place du general degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8495409683137747,
+    "ville": "maule",
+    "cp": "78580"
+  },
+  {
+    "resultId": "12715370",
+    "mail": "lesp-titspetons@orange.fr",
+    "distance": 173008,
+    "latitude": 48.90829269683974,
+    "telephone": "0178801335",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les P'tits Petons",
+    "resultStructId": "5417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue maurice berteaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.850337285902392,
+    "ville": "maule",
+    "cp": "78580"
+  },
+  {
+    "resultId": "12584599",
+    "mail": "creche@maule.fr",
+    "distance": 173057,
+    "latitude": 48.910987460739875,
+    "telephone": "0182860173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "683436",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de carnoustie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8511222214541643,
+    "ville": "maule",
+    "cp": "78580"
+  }
+]

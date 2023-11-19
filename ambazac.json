@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12906178",
+    "mail": "lesgalopins@mutualitelimousine.fr",
+    "distance": 118306,
+    "latitude": 45.95766753843389,
+    "telephone": "0555568250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galopins",
+    "resultStructId": "9884",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue lavoisier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3950543773632946,
+    "ville": "ambazac",
+    "cp": "87240"
+  },
+  {
+    "resultId": "12906178",
+    "mail": "lesgalopins@mutualitelimousine.fr",
+    "distance": 220103,
+    "latitude": 45.95766753843389,
+    "telephone": "0555568250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galopins",
+    "resultStructId": "9884",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue lavoisier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3950543773632946,
+    "ville": "ambazac",
+    "cp": "87240"
+  }
+]

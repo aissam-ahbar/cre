@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12517605",
+    "mail": "",
+    "distance": 190441,
+    "latitude": 48.651074301657864,
+    "telephone": "0169123660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCaravelle",
+    "resultStructId": "818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du minotaure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3767288967271853,
+    "ville": "grigny",
+    "cp": "91350"
+  },
+  {
+    "resultId": "12777471",
+    "mail": "audrey.ferrari@grigny91.fr",
+    "distance": 190847,
+    "latitude": 48.65208167305632,
+    "telephone": "0169024114",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-Jeux",
+    "resultStructId": "679104",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "ruesaint-exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3912845695424547,
+    "ville": "grigny",
+    "cp": "91350"
+  },
+  {
+    "resultId": "12517175",
+    "mail": "",
+    "distance": 190847,
+    "latitude": 48.65208167305632,
+    "telephone": "0169024113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesSablons",
+    "resultStructId": "679107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3912845695424547,
+    "ville": "grigny",
+    "cp": "91350"
+  },
+  {
+    "resultId": "12517304",
+    "mail": "courriers.ville@grigny91.fr",
+    "distance": 190847,
+    "latitude": 48.65208167305632,
+    "telephone": "0169024116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective",
+    "resultStructId": "811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3912845695424547,
+    "ville": "grigny",
+    "cp": "91350"
+  },
+  {
+    "resultId": "12517691",
+    "mail": "",
+    "distance": 191351,
+    "latitude": 48.65706205354274,
+    "telephone": "0169436201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "halte-garderie",
+    "resultStructId": "820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1bis avenue des sablons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3899543286317986,
+    "ville": "grigny",
+    "cp": "91350"
+  }
+]

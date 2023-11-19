@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12502942",
+    "mail": "lesrenardeaux@petite-enfance-cenonlormont.fr",
+    "distance": 62072,
+    "latitude": 44.86788740496549,
+    "telephone": "0556386115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRANDECRECHE FAMILIALE LES RENARDEAUX",
+    "resultStructId": "692617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5200359560618647,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "12519497",
+    "mail": "lacigogne@petite-enfance-cenonlormont.fr",
+    "distance": 62072,
+    "latitude": 44.86788740496549,
+    "telephone": "0556386113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRANDECRECHE LA CIGOGNE",
+    "resultStructId": "692611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue edouard herriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5200359560618647,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "57980045",
+    "mail": "contact.ess@123pousse.fr",
+    "distance": 62328,
+    "latitude": 44.8697457267291,
+    "telephone": "0689723172",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES ESPERANTI",
+    "resultStructId": "681502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue esperanto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5222460479377061,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "57105808",
+    "mail": "crechepetitsreveurs@gmail.com",
+    "distance": 62348,
+    "latitude": 44.87262270619702,
+    "telephone": "0663521403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS RÊVEURS",
+    "resultStructId": "671822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue joachim du bellay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5123575275366997,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "57204253",
+    "mail": "crechepetitsreveurs@gmail.com",
+    "distance": 62348,
+    "latitude": 44.87262270619702,
+    "telephone": "0663521403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS RÊVEURS",
+    "resultStructId": "673008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue joachim du bellay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5123575275366997,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "22893105",
+    "mail": "ramade@petite-enfance-cenonlormont.fr",
+    "distance": 63431,
+    "latitude": 44.88015428934045,
+    "telephone": "0556521887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA RAMADE",
+    "resultStructId": "692614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue hyppolite gourdon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5231012506615859,
+    "ville": "lormont",
+    "cp": "33310"
+  },
+  {
+    "resultId": "12502899",
+    "mail": "carriet@petite-enfance-cenonlormont.fr",
+    "distance": 63592,
+    "latitude": 44.88015976732925,
+    "telephone": "0556746916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE CARRIET",
+    "resultStructId": "692612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard odilon redon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5287031400354706,
+    "ville": "lormont",
+    "cp": "33310"
+  }
+]

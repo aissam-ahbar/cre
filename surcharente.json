@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "50221370",
+    "mail": "multi-accueil@cscsal-aredien.com",
+    "distance": 190638,
+    "latitude": 45.66645133928327,
+    "telephone": "0545956023",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Premiers Pas\"",
+    "resultStructId": "408501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue des ecoles 16710 styrieix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.12676096561308717,
+    "ville": "surcharente",
+    "cp": ""
+  },
+  {
+    "resultId": "12556563",
+    "mail": "direction@amstramgram16.fr",
+    "distance": 190638,
+    "latitude": 45.666445103127394,
+    "telephone": "0545959978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Familial",
+    "resultStructId": "680310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des ecoles 16710 st yrieix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.12676988926803676,
+    "ville": "surcharente",
+    "cp": ""
+  },
+  {
+    "resultId": "35240987",
+    "mail": "chateauneuf.multiaccueil@grand-cognac.fr",
+    "distance": 139787,
+    "latitude": 45.59735371630709,
+    "telephone": "0545255055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde la région de Châteauneuf",
+    "resultStructId": "134401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue antoine descoffre16120 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.04966861639468243,
+    "ville": "surcharente",
+    "cp": ""
+  },
+  {
+    "resultId": "12556563",
+    "mail": "direction@amstramgram16.fr",
+    "distance": 149454,
+    "latitude": 45.666445103127394,
+    "telephone": "0545959978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Familial",
+    "resultStructId": "680310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue des ecoles 16710 st yrieix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.12676988926803676,
+    "ville": "surcharente",
+    "cp": ""
+  },
+  {
+    "resultId": "50221370",
+    "mail": "multi-accueil@cscsal-aredien.com",
+    "distance": 149455,
+    "latitude": 45.66645133928327,
+    "telephone": "0545956023",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Premiers Pas\"",
+    "resultStructId": "408501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue des ecoles 16710 styrieix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.12676096561308717,
+    "ville": "surcharente",
+    "cp": ""
+  }
+]

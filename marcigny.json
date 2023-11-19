@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12701567",
+    "mail": "mathias.ceron@rampe.fr",
+    "distance": 108103,
+    "latitude": 46.2760374243828,
+    "telephone": "0385253708",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie-atelier d'éveil \" le club des p'tiots\"",
+    "resultStructId": "5096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ecoleprimaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.04166206163731,
+    "ville": "marcigny",
+    "cp": "71110"
+  },
+  {
+    "resultId": "26010302",
+    "mail": "bullesdereves@outlook.com",
+    "distance": 108334,
+    "latitude": 46.274199188748284,
+    "telephone": "0385241296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulles de rêves",
+    "resultStructId": "72601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du champ de foire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0372422636835745,
+    "ville": "marcigny",
+    "cp": "71110"
+  },
+  {
+    "resultId": "26010302",
+    "mail": "bullesdereves@outlook.com",
+    "distance": 197232,
+    "latitude": 46.274199188748284,
+    "telephone": "0385241296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulles de rêves",
+    "resultStructId": "72601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du champ de foire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0372422636835745,
+    "ville": "marcigny",
+    "cp": "71110"
+  },
+  {
+    "resultId": "12701567",
+    "mail": "mathias.ceron@rampe.fr",
+    "distance": 197453,
+    "latitude": 46.2760374243828,
+    "telephone": "0385253708",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie-atelier d'éveil \" le club des p'tiots\"",
+    "resultStructId": "5096",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ecoleprimaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.04166206163731,
+    "ville": "marcigny",
+    "cp": "71110"
+  }
+]

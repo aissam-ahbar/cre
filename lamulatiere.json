@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12590275",
+    "mail": "centresocialmulatiere.mpe@wanadoo.fr",
+    "distance": 175752,
+    "latitude": 45.730165384115594,
+    "telephone": "0478501472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMaison de la Petite Enfance",
+    "resultStructId": "2508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 chemin du grand roule69350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.80763006422275,
+    "ville": "lamulatiere",
+    "cp": ""
+  },
+  {
+    "resultId": "31924515",
+    "mail": "centresocialmulatiere.direveil@orange.fr",
+    "distance": 175752,
+    "latitude": 45.730165384115594,
+    "telephone": "0478501472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBrin d'Eveil",
+    "resultStructId": "85013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 chemin du grand roule 69350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.80763006422275,
+    "ville": "lamulatiere",
+    "cp": ""
+  },
+  {
+    "resultId": "39217588",
+    "mail": "diarrache@centresocialmulatiere.fr",
+    "distance": 175969,
+    "latitude": 45.72857062845028,
+    "telephone": "0769025633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBrin d'Attache",
+    "resultStructId": "186104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place general lerclerc 69350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809745639791177,
+    "ville": "lamulatiere",
+    "cp": ""
+  },
+  {
+    "resultId": "31924457",
+    "mail": "centresocialmulatiere.lesacacias@orange.fr",
+    "distance": 176306,
+    "latitude": 45.726648584996994,
+    "telephone": "0472301854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBrin d'Envol",
+    "resultStructId": "85012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place general leclerc 69350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.815765824276913,
+    "ville": "lamulatiere",
+    "cp": ""
+  }
+]

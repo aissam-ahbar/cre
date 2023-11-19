@@ -1,0 +1,443 @@
+[
+  {
+    "resultId": "12966421",
+    "mail": "lesjeunespousses@mairie-sens.fr",
+    "distance": 123209,
+    "latitude": 48.195680149953084,
+    "telephone": "0386956426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJEUNES POUSSES",
+    "resultStructId": "682708",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "12avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.3067188446166185,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "54213437",
+    "mail": "contact@shenonolulu.fr",
+    "distance": 123346,
+    "latitude": 48.202493331670105,
+    "telephone": "0970248718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SHÉNONOLULU",
+    "resultStructId": "569601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 boulevard des noyers pompons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.320171298176909,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965819",
+    "mail": "helene.bouchard@croix-rouge.fr",
+    "distance": 123752,
+    "latitude": 48.18949390043204,
+    "telephone": "0386830402",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale \"le Moulin des Bambins\" à Sens",
+    "resultStructId": "682701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue dumarechal joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.277807637610802,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12966464",
+    "mail": "lespetitssenons@mairie-sens.fr",
+    "distance": 124441,
+    "latitude": 48.198908759454426,
+    "telephone": "0386862706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits Sénons",
+    "resultStructId": "697005",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "rue du19 mars 1962 - zac eco parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.282849474826075,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965991",
+    "mail": "petite.enfance.chaillots@mairie-sens.fr",
+    "distance": 124489,
+    "latitude": 48.20259746860928,
+    "telephone": "0386658532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Chaillots",
+    "resultStructId": "682616",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2905775135619337,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "59023572",
+    "mail": "creche.saintmaurice@mairie-sens.fr",
+    "distance": 124708,
+    "latitude": 48.19842176848474,
+    "telephone": "0386838545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TrèsGrande Crèche Saint-Maurice",
+    "resultStructId": "691809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 quai de la fausse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.274888115166471,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965819",
+    "mail": "helene.bouchard@croix-rouge.fr",
+    "distance": 178100,
+    "latitude": 48.18949390043204,
+    "telephone": "0386830402",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale \"le Moulin des Bambins\" à Sens",
+    "resultStructId": "682701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue dumarechal joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.277807637610802,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "59023572",
+    "mail": "creche.saintmaurice@mairie-sens.fr",
+    "distance": 178683,
+    "latitude": 48.19842176848474,
+    "telephone": "0386838545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TrèsGrande Crèche Saint-Maurice",
+    "resultStructId": "691809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 quai de la fausse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.274888115166471,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12966464",
+    "mail": "lespetitssenons@mairie-sens.fr",
+    "distance": 179123,
+    "latitude": 48.198908759454426,
+    "telephone": "0386862706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits Sénons",
+    "resultStructId": "697005",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "rue du19 mars 1962 - zac eco parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.282849474826075,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965991",
+    "mail": "petite.enfance.chaillots@mairie-sens.fr",
+    "distance": 179813,
+    "latitude": 48.20259746860928,
+    "telephone": "0386658532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Chaillots",
+    "resultStructId": "682616",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2905775135619337,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12966421",
+    "mail": "lesjeunespousses@mairie-sens.fr",
+    "distance": 180065,
+    "latitude": 48.195680149953084,
+    "telephone": "0386956426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJEUNES POUSSES",
+    "resultStructId": "682708",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "12avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.3067188446166185,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "54213437",
+    "mail": "contact@shenonolulu.fr",
+    "distance": 181299,
+    "latitude": 48.202493331670105,
+    "telephone": "0970248718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SHÉNONOLULU",
+    "resultStructId": "569601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 boulevard des noyers pompons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.320171298176909,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "54213437",
+    "mail": "contact@shenonolulu.fr",
+    "distance": 107712,
+    "latitude": 48.202493331670105,
+    "telephone": "0970248718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SHÉNONOLULU",
+    "resultStructId": "569601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 boulevard des noyers pompons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.320171298176909,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12966421",
+    "mail": "lesjeunespousses@mairie-sens.fr",
+    "distance": 108962,
+    "latitude": 48.195680149953084,
+    "telephone": "0386956426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESJEUNES POUSSES",
+    "resultStructId": "682708",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "12avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.3067188446166185,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965991",
+    "mail": "petite.enfance.chaillots@mairie-sens.fr",
+    "distance": 109541,
+    "latitude": 48.20259746860928,
+    "telephone": "0386658532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Chaillots",
+    "resultStructId": "682616",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2905775135619337,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12966464",
+    "mail": "lespetitssenons@mairie-sens.fr",
+    "distance": 110244,
+    "latitude": 48.198908759454426,
+    "telephone": "0386862706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits Sénons",
+    "resultStructId": "697005",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "rue du19 mars 1962 - zac eco parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 3.282849474826075,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "59023572",
+    "mail": "creche.saintmaurice@mairie-sens.fr",
+    "distance": 110769,
+    "latitude": 48.19842176848474,
+    "telephone": "0386838545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TrèsGrande Crèche Saint-Maurice",
+    "resultStructId": "691809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 quai de la fausse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.274888115166471,
+    "ville": "sens",
+    "cp": "89100"
+  },
+  {
+    "resultId": "12965819",
+    "mail": "helene.bouchard@croix-rouge.fr",
+    "distance": 111129,
+    "latitude": 48.18949390043204,
+    "telephone": "0386830402",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale \"le Moulin des Bambins\" à Sens",
+    "resultStructId": "682701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue dumarechal joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.277807637610802,
+    "ville": "sens",
+    "cp": "89100"
+  }
+]

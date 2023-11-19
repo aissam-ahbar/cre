@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13051354",
+    "mail": "microcreche.lenid@grandperigueux.fr",
+    "distance": 123020,
+    "latitude": 45.216474164111716,
+    "telephone": "0553084750",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LENID",
+    "resultStructId": "13260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue louis aragon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7270708182100444,
+    "ville": "champcevinel",
+    "cp": "24750"
+  }
+]

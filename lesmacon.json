@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12909532",
+    "mail": "mc.mirelabebe@gmail.com",
+    "distance": 114911,
+    "latitude": 46.31424194272028,
+    "telephone": "0345870775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMirélabébé",
+    "resultStructId": "9962",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 rue ronze 71850 charnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808509296739679,
+    "ville": "lesmacon",
+    "cp": ""
+  },
+  {
+    "resultId": "59266671",
+    "mail": "creche.charnay@mb-agglo.com",
+    "distance": 115271,
+    "latitude": 46.30986240215607,
+    "telephone": "0385341271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GrandeCrèche Anita TACHOT",
+    "resultStructId": "694604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue carnacus 71850 charnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.806061477908039,
+    "ville": "lesmacon",
+    "cp": ""
+  },
+  {
+    "resultId": "12530204",
+    "mail": "creche@charnay.com",
+    "distance": 115352,
+    "latitude": 46.30904981926367,
+    "telephone": "0385341271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil,crèche, halte-garderie",
+    "resultStructId": "1111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88 grande rue de la coupee 71850charnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.806041869155282,
+    "ville": "lesmacon",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12600982",
+    "mail": "multiaccueil.csimphy@gmail.com",
+    "distance": 75762,
+    "latitude": 46.93136850949544,
+    "telephone": "0386907800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil d'Imphy",
+    "resultStructId": "680801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.265159843995625,
+    "ville": "imphy",
+    "cp": "58160"
+  },
+  {
+    "resultId": "12600982",
+    "mail": "multiaccueil.csimphy@gmail.com",
+    "distance": 120401,
+    "latitude": 46.93136850949544,
+    "telephone": "0386907800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil d'Imphy",
+    "resultStructId": "680801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.265159843995625,
+    "ville": "imphy",
+    "cp": "58160"
+  }
+]

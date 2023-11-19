@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12783964",
+    "mail": "multiaccueil.montarnaud@cc-vallee-herault.fr",
+    "distance": 75055,
+    "latitude": 43.64372741271989,
+    "telephone": "0467678765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Berceau",
+    "resultStructId": "111509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucie aubrac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7011620095325792,
+    "ville": "montarnaud",
+    "cp": "34570"
+  },
+  {
+    "resultId": "12783964",
+    "mail": "multiaccueil.montarnaud@cc-vallee-herault.fr",
+    "distance": 16535,
+    "latitude": 43.64372741271989,
+    "telephone": "0467678765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Berceau",
+    "resultStructId": "111509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lucie aubrac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7011620095325792,
+    "ville": "montarnaud",
+    "cp": "34570"
+  }
+]

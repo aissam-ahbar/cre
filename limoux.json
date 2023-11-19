@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12887172",
+    "mail": "creches.limoux@cc-limouxin.fr",
+    "distance": 243720,
+    "latitude": 43.05706635808747,
+    "telephone": "0468315666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPIERROTS ET COLOMBINES",
+    "resultStructId": "9442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue louis braille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2140175587815345,
+    "ville": "limoux",
+    "cp": "11300"
+  },
+  {
+    "resultId": "13014882",
+    "mail": "creche.arlequins@cc-limouxin.fr",
+    "distance": 245246,
+    "latitude": 43.06544965203078,
+    "telephone": "0468317206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAARLEQUIN",
+    "resultStructId": "234701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "domaine de ninaute",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2459609684594133,
+    "ville": "limoux",
+    "cp": "11300"
+  },
+  {
+    "resultId": "13014882",
+    "mail": "creche.arlequins@cc-limouxin.fr",
+    "distance": 146087,
+    "latitude": 43.06544965203078,
+    "telephone": "0468317206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAARLEQUIN",
+    "resultStructId": "234701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "domaine de ninaute",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2459609684594133,
+    "ville": "limoux",
+    "cp": "11300"
+  },
+  {
+    "resultId": "12887172",
+    "mail": "creches.limoux@cc-limouxin.fr",
+    "distance": 148836,
+    "latitude": 43.05706635808747,
+    "telephone": "0468315666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPIERROTS ET COLOMBINES",
+    "resultStructId": "9442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue louis braille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2140175587815345,
+    "ville": "limoux",
+    "cp": "11300"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "57779724",
+    "mail": "cre-701@babilou.fr",
+    "distance": 191926,
+    "latitude": 48.88424426404424,
+    "telephone": "0139695840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABILOU PORT MARLY VAL ANDRE 2",
+    "resultStructId": "679006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du valandre 78560 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.107968528377235,
+    "ville": "portmarly",
+    "cp": ""
+  },
+  {
+    "resultId": "12783448",
+    "mail": "contact@creches-les-etoiles.com",
+    "distance": 191926,
+    "latitude": 48.88424426404424,
+    "telephone": "0130514662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Étoiles - Grande Ourse et Cassiopée - LePort-Marly",
+    "resultStructId": "218501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du val andre 78560 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.107968528377235,
+    "ville": "portmarly",
+    "cp": ""
+  },
+  {
+    "resultId": "13075477",
+    "mail": "leport.marly@lpcr.fr",
+    "distance": 191976,
+    "latitude": 48.88491810596249,
+    "telephone": "0185608638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE PETIT PRINCE",
+    "resultStructId": "689702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue de paris 78560 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.108686882600674,
+    "ville": "portmarly",
+    "cp": ""
+  },
+  {
+    "resultId": "12599219",
+    "mail": "petiteenfance@port-marly.fr",
+    "distance": 191976,
+    "latitude": 48.88491810596249,
+    "telephone": "0139163618",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE COMMUNALE",
+    "resultStructId": "684404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue de paris 78560 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.108686882600674,
+    "ville": "portmarly",
+    "cp": ""
+  }
+]

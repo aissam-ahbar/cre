@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12726731",
+    "mail": "labelleetoile@la5c.fr",
+    "distance": 156741,
+    "latitude": 43.114066729974596,
+    "telephone": "0561793472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Belle Etoile",
+    "resultStructId": "102712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue charles baudelaire 31800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7078655109328629,
+    "ville": "stgaudens",
+    "cp": ""
+  },
+  {
+    "resultId": "12727075",
+    "mail": "iletaitunefois@la5c.fr",
+    "distance": 157460,
+    "latitude": 43.113402838096675,
+    "telephone": "0562003082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede St Gaudens Il était une fois",
+    "resultStructId": "102710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de gascogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.724579684832443,
+    "ville": "stgaudens",
+    "cp": "31800"
+  },
+  {
+    "resultId": "13063824",
+    "mail": "lutinslutines@la5c.fr",
+    "distance": 157460,
+    "latitude": 43.113402838096675,
+    "telephone": "0561883874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Lutins Lutines\"",
+    "resultStructId": "102902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de gascogne 31800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.724579684832443,
+    "ville": "stgaudens",
+    "cp": ""
+  },
+  {
+    "resultId": "13063867",
+    "mail": "haltegarderie@la5c.fr",
+    "distance": 157992,
+    "latitude": 43.10850465908937,
+    "telephone": "0561944569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Une Souris Verte",
+    "resultStructId": "91611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7259889865089748,
+    "ville": "stgaudens",
+    "cp": "31800"
+  }
+]

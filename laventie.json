@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "39993819",
+    "mail": "creche.eveiletsens@gmail.com",
+    "distance": 17503,
+    "latitude": 50.6272747385979,
+    "telephone": "0625585723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Eveil& Sens",
+    "resultStructId": "686209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue robert parfait",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.771535972254061,
+    "ville": "laventie",
+    "cp": "62840"
+  },
+  {
+    "resultId": "32599154",
+    "mail": "multiaccueil@laventie.fr",
+    "distance": 17670,
+    "latitude": 50.628437081919074,
+    "telephone": "0321631741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petits Princes",
+    "resultStructId": "675724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue du general de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7742130687389297,
+    "ville": "laventie",
+    "cp": "62840"
+  }
+]

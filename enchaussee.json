@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13049892",
+    "mail": "structures.accueil@cc-plateaupicard.fr",
+    "distance": 109513,
+    "latitude": 49.50557777095816,
+    "telephone": "0344191709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDE SAINT JUST EN CHAUSSEE",
+    "resultStructId": "675403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du tour de ville 60130 stjust",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.435403001075587,
+    "ville": "enchaussee",
+    "cp": ""
+  },
+  {
+    "resultId": "12885624",
+    "mail": "nmollier@ccpv.fr",
+    "distance": 116480,
+    "latitude": 49.532272210410945,
+    "telephone": "0344450119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"COM 3 POM\" CC PICARDIE VERTE - SAINT OMER ENCHAUSSEE",
+    "resultStructId": "689301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place michel et francois pelletier 60860 stomer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0034442966305415,
+    "ville": "enchaussee",
+    "cp": ""
+  }
+]

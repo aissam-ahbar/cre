@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33731069",
+    "mail": "microcrechelapetiteourse@gmail.com",
+    "distance": 71481,
+    "latitude": 43.70454134538478,
+    "telephone": "0558448413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Ourse",
+    "resultStructId": "128601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 avenue du 4 septembre 40800 aire sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2573361377915085,
+    "ville": "ladour",
+    "cp": ""
+  },
+  {
+    "resultId": "13015871",
+    "mail": "creche.pontonx.cias@cc-pays-tarusate.fr",
+    "distance": 83173,
+    "latitude": 43.7863358673234,
+    "telephone": "0558572006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMulti Accueil collectif Pontonx sur l'Adour",
+    "resultStructId": "12435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 avenuede la chalosse 40465 pontonx sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9259642695209468,
+    "ville": "ladour",
+    "cp": ""
+  }
+]

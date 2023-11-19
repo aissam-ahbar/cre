@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "35163687",
+    "mail": "cschatz@bassinpompey.fr",
+    "distance": 119027,
+    "latitude": 48.73264417243793,
+    "telephone": "0383312157",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SMAARC EN CIEL",
+    "resultStructId": "709907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue philippe martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.16723059379729,
+    "ville": "champigneulles",
+    "cp": "54250"
+  },
+  {
+    "resultId": "13023963",
+    "mail": "sbraem@bassinpompey.fr",
+    "distance": 119027,
+    "latitude": 48.73264417243793,
+    "telephone": "0670036219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"L'Ile-aux-Enfants\"",
+    "resultStructId": "709908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.16723059379729,
+    "ville": "champigneulles",
+    "cp": "54250"
+  }
+]

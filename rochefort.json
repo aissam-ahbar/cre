@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12834833",
+    "mail": "creche@ch-rochefort.fr",
+    "distance": 183744,
+    "latitude": 45.962331924023914,
+    "telephone": "0546885653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede l'hôpital",
+    "resultStructId": "8225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de beligon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9654199805609786,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12732235",
+    "mail": "haltegarderie.aapiq@orange.fr",
+    "distance": 186212,
+    "latitude": 45.9401097522746,
+    "telephone": "4646876947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Bouts d'Choux",
+    "resultStructId": "5839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12734041",
+    "mail": "enfance@ville-rochefort.fr",
+    "distance": 186212,
+    "latitude": 45.9401097522746,
+    "telephone": "0546990690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective municipale",
+    "resultStructId": "5881",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12595736",
+    "mail": "creche.saintemarie@wanadoo.fr",
+    "distance": 186422,
+    "latitude": 45.93828619329461,
+    "telephone": "0546992614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSainte-Marie",
+    "resultStructId": "2635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9587836563406175,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12733998",
+    "mail": "maryline.maurat@ville-rochefort.fr",
+    "distance": 186813,
+    "latitude": 45.93473423887362,
+    "telephone": "0546876033",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie les p'tits pêcheurs de lune",
+    "resultStructId": "5880",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue burot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9661606550257337,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12733998",
+    "mail": "maryline.maurat@ville-rochefort.fr",
+    "distance": 185547,
+    "latitude": 45.93473423887362,
+    "telephone": "0546876033",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie les p'tits pêcheurs de lune",
+    "resultStructId": "5880",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue burot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9661606550257337,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12595736",
+    "mail": "creche.saintemarie@wanadoo.fr",
+    "distance": 185746,
+    "latitude": 45.93828619329461,
+    "telephone": "0546992614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSainte-Marie",
+    "resultStructId": "2635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9587836563406175,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12732235",
+    "mail": "haltegarderie.aapiq@orange.fr",
+    "distance": 186422,
+    "latitude": 45.9401097522746,
+    "telephone": "4646876947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Bouts d'Choux",
+    "resultStructId": "5839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12734041",
+    "mail": "enfance@ville-rochefort.fr",
+    "distance": 186422,
+    "latitude": 45.9401097522746,
+    "telephone": "0546990690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective municipale",
+    "resultStructId": "5881",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12834833",
+    "mail": "creche@ch-rochefort.fr",
+    "distance": 188447,
+    "latitude": 45.962331924023914,
+    "telephone": "0546885653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede l'hôpital",
+    "resultStructId": "8225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de beligon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9654199805609786,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12834833",
+    "mail": "creche@ch-rochefort.fr",
+    "distance": 183744,
+    "latitude": 45.962331924023914,
+    "telephone": "0546885653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede l'hôpital",
+    "resultStructId": "8225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de beligon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9654199805609786,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12732235",
+    "mail": "haltegarderie.aapiq@orange.fr",
+    "distance": 186212,
+    "latitude": 45.9401097522746,
+    "telephone": "4646876947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Bouts d'Choux",
+    "resultStructId": "5839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12734041",
+    "mail": "enfance@ville-rochefort.fr",
+    "distance": 186212,
+    "latitude": 45.9401097522746,
+    "telephone": "0546990690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective municipale",
+    "resultStructId": "5881",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue charles maher",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9787965951913183,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12595736",
+    "mail": "creche.saintemarie@wanadoo.fr",
+    "distance": 186422,
+    "latitude": 45.93828619329461,
+    "telephone": "0546992614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSainte-Marie",
+    "resultStructId": "2635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9587836563406175,
+    "ville": "rochefort",
+    "cp": "17300"
+  },
+  {
+    "resultId": "12733998",
+    "mail": "maryline.maurat@ville-rochefort.fr",
+    "distance": 186813,
+    "latitude": 45.93473423887362,
+    "telephone": "0546876033",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie les p'tits pêcheurs de lune",
+    "resultStructId": "5880",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue burot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9661606550257337,
+    "ville": "rochefort",
+    "cp": "17300"
+  }
+]

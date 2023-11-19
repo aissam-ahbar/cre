@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12693612",
+    "mail": "creche@cap-dail.fr",
+    "distance": 222913,
+    "latitude": 43.72223717591392,
+    "telephone": "0492105954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes lucioles",
+    "resultStructId": "583604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue winston churchill 06320 cap",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.407220041865182,
+    "ville": "dail",
+    "cp": ""
+  },
+  {
+    "resultId": "12693612",
+    "mail": "creche@cap-dail.fr",
+    "distance": 110975,
+    "latitude": 43.72223717591392,
+    "telephone": "0492105954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes lucioles",
+    "resultStructId": "583604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue winston churchill 06320 cap",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.407220041865182,
+    "ville": "dail",
+    "cp": ""
+  }
+]

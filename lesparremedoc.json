@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57780948",
+    "mail": "lesparre@les-cherubins.com",
+    "distance": 119188,
+    "latitude": 45.3011901217687,
+    "telephone": "0663867617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Chérubins de Lesparre",
+    "resultStructId": "679016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de la toucarre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9263790460175978,
+    "ville": "lesparremedoc",
+    "cp": "33340"
+  },
+  {
+    "resultId": "38633595",
+    "mail": "mc.aventurine@gmail.com",
+    "distance": 119932,
+    "latitude": 45.30438546435079,
+    "telephone": "0768400246",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche L'Aventurine",
+    "resultStructId": "173401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.938258403297606,
+    "ville": "lesparremedoc",
+    "cp": "33340"
+  }
+]

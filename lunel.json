@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12777127",
+    "mail": "haltegarderie@ville-lunel.fr",
+    "distance": 41579,
+    "latitude": 43.67471186827153,
+    "telephone": "0467878465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Occasionnel L'île aux Enfants",
+    "resultStructId": "176505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue fredericmistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.134946479667085,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12802368",
+    "mail": "saf@ville-lunel.fr",
+    "distance": 42353,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878378",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Françoise Dolto",
+    "resultStructId": "176514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12800433",
+    "mail": "manege.enchante@ville-lunel.fr",
+    "distance": 42353,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Manège Enchanté",
+    "resultStructId": "176513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "33134057",
+    "mail": "micro.creche@ville-lunel.fr",
+    "distance": 42875,
+    "latitude": 43.687422855133484,
+    "telephone": "0467878483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilune",
+    "resultStructId": "99201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 esplanade jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.1238713587523055,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12777127",
+    "mail": "haltegarderie@ville-lunel.fr",
+    "distance": 438799,
+    "latitude": 43.67471186827153,
+    "telephone": "0467878465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Occasionnel L'île aux Enfants",
+    "resultStructId": "176505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue fredericmistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.134946479667085,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12800433",
+    "mail": "manege.enchante@ville-lunel.fr",
+    "distance": 439562,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Manège Enchanté",
+    "resultStructId": "176513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12802368",
+    "mail": "saf@ville-lunel.fr",
+    "distance": 439562,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878378",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Françoise Dolto",
+    "resultStructId": "176514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "33134057",
+    "mail": "micro.creche@ville-lunel.fr",
+    "distance": 440138,
+    "latitude": 43.687422855133484,
+    "telephone": "0467878483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilune",
+    "resultStructId": "99201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 esplanade jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.1238713587523055,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12802368",
+    "mail": "saf@ville-lunel.fr",
+    "distance": 20255,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878378",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Françoise Dolto",
+    "resultStructId": "176514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12800433",
+    "mail": "manege.enchante@ville-lunel.fr",
+    "distance": 20255,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Manège Enchanté",
+    "resultStructId": "176513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "33134057",
+    "mail": "micro.creche@ville-lunel.fr",
+    "distance": 20772,
+    "latitude": 43.687422855133484,
+    "telephone": "0467878483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilune",
+    "resultStructId": "99201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 esplanade jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.1238713587523055,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12777127",
+    "mail": "haltegarderie@ville-lunel.fr",
+    "distance": 20951,
+    "latitude": 43.67471186827153,
+    "telephone": "0467878465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Occasionnel L'île aux Enfants",
+    "resultStructId": "176505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue fredericmistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.134946479667085,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12777127",
+    "mail": "haltegarderie@ville-lunel.fr",
+    "distance": 157781,
+    "latitude": 43.67471186827153,
+    "telephone": "0467878465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Occasionnel L'île aux Enfants",
+    "resultStructId": "176505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue fredericmistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.134946479667085,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "33134057",
+    "mail": "micro.creche@ville-lunel.fr",
+    "distance": 158363,
+    "latitude": 43.687422855133484,
+    "telephone": "0467878483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilune",
+    "resultStructId": "99201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 esplanade jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.1238713587523055,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12802368",
+    "mail": "saf@ville-lunel.fr",
+    "distance": 158543,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878378",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Françoise Dolto",
+    "resultStructId": "176514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  },
+  {
+    "resultId": "12800433",
+    "mail": "manege.enchante@ville-lunel.fr",
+    "distance": 158543,
+    "latitude": 43.675284843501686,
+    "telephone": "0467878377",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Manège Enchanté",
+    "resultStructId": "176513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 chemin du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.125087445685815,
+    "ville": "lunel",
+    "cp": "34400"
+  }
+]

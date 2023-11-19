@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "21809882",
+    "mail": "louloucreche@orange.fr",
+    "distance": 76237,
+    "latitude": 46.351419888758464,
+    "telephone": "0544300204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Louloucrèche",
+    "resultStructId": "16505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12vieille route",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9923027749301065,
+    "ville": "genouillac",
+    "cp": "23350"
+  },
+  {
+    "resultId": "13004605",
+    "mail": "enfance@portesdelacreuseenmarche.fr",
+    "distance": 76305,
+    "latitude": 46.35101931586669,
+    "telephone": "0668733035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Louloubus",
+    "resultStructId": "558201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue rue de la fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9933801732055867,
+    "ville": "genouillac",
+    "cp": "23350"
+  }
+]

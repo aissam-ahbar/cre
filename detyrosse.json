@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57895059",
+    "mail": "bonjourtyrosse@plantine.fr",
+    "distance": 114321,
+    "latitude": 43.66045291505041,
+    "telephone": "0558552361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PLANTINETYROSSE",
+    "resultStructId": "681823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de pascau 40230 st vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.30091376790562,
+    "ville": "detyrosse",
+    "cp": ""
+  },
+  {
+    "resultId": "12545856",
+    "mail": "espace.enfants@tyrosseville.com",
+    "distance": 114330,
+    "latitude": 43.66269815053996,
+    "telephone": "0558770396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceEnfants Saint Vincent de Tyrosse",
+    "resultStructId": "1475",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pitchouns 40230st vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.30387969495656,
+    "ville": "detyrosse",
+    "cp": ""
+  }
+]

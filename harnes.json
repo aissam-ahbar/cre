@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59783775",
+    "mail": "lileopirates@gmail.com",
+    "distance": 11805,
+    "latitude": 50.43991506765544,
+    "telephone": "0321677552",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'Ile O' Pirates",
+    "resultStructId": "710201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de sarreguemines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.87735713447343,
+    "ville": "harnes",
+    "cp": "62440"
+  },
+  {
+    "resultId": "59781424",
+    "mail": "lpg-harnes@les-petites-graines.fr",
+    "distance": 13684,
+    "latitude": 50.44717500364163,
+    "telephone": "0374713853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Graines - Harnes",
+    "resultStructId": "699909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue robert de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.907989067363623,
+    "ville": "harnes",
+    "cp": "62440"
+  }
+]

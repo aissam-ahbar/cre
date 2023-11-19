@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "30606016",
+    "mail": "ma.huest@epn-agglo.fr",
+    "distance": 125948,
+    "latitude": 49.04027764613134,
+    "telephone": "0232321509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les p'tits loups\"",
+    "resultStructId": "71702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route de gravaigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2004645519020913,
+    "ville": "huest",
+    "cp": "27930"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12516616",
+    "mail": "mpe@vauhallan.fr",
+    "distance": 196395,
+    "latitude": 48.73352744820956,
+    "telephone": "0169410153",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "795",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des sablons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.209582030850824,
+    "ville": "vauhallan",
+    "cp": "91430"
+  }
+]

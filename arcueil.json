@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "13056041",
+    "mail": "",
+    "distance": 5349,
+    "latitude": 48.80942760634178,
+    "telephone": "0149120001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePaul Eluard",
+    "resultStructId": "626504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 avenue laplace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.327991652089435,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "12502727",
+    "mail": "",
+    "distance": 5395,
+    "latitude": 48.809162789509706,
+    "telephone": "0149120910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMarie Claude Vaillant Couturier",
+    "resultStructId": "14239",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 avenue laplace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.329932925620396,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "12755197",
+    "mail": "contact@kidsup.fr",
+    "distance": 5809,
+    "latitude": 48.80514966404054,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheKids'up Ambroisine",
+    "resultStructId": "6373",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.325587040507914,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "57799891",
+    "mail": "koalas@micro-baby.com",
+    "distance": 5832,
+    "latitude": 48.8059675372986,
+    "telephone": "0781638569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Koalas et Pandas",
+    "resultStructId": "679206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue du chaperon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3369512843878533,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "57799820",
+    "mail": "pandas@micro-baby.com",
+    "distance": 5832,
+    "latitude": 48.8059675372986,
+    "telephone": "0781638569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Koalaset Pandas",
+    "resultStructId": "679205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue du chaperon rouge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3369512843878533,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "17502360",
+    "mail": "",
+    "distance": 5832,
+    "latitude": 48.8059675372986,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Clémentine",
+    "resultStructId": "14224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24-26 avenue vladimir ilitch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3369512843878533,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "12537385",
+    "mail": "",
+    "distance": 6008,
+    "latitude": 48.80369655921265,
+    "telephone": "0145470258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Bertholet",
+    "resultStructId": "15291",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue berthollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.330987744839073,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "13069457",
+    "mail": "",
+    "distance": 6054,
+    "latitude": 48.80320126740367,
+    "telephone": "0961224228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Village des Petits",
+    "resultStructId": "14621",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3300608332588877,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "12530935",
+    "mail": "arcenciel.secretaire@gmail.com",
+    "distance": 6230,
+    "latitude": 48.801814127441695,
+    "telephone": "0143633321",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Arc-en-Ciel",
+    "resultStructId": "14401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place des musiciens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3325208243526743,
+    "ville": "arcueil",
+    "cp": "94110"
+  },
+  {
+    "resultId": "12537299",
+    "mail": "",
+    "distance": 6464,
+    "latitude": 48.800150684443196,
+    "telephone": "0145479338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Trubert",
+    "resultStructId": "15292",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue francois trubert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.336780446174081,
+    "ville": "arcueil",
+    "cp": "94110"
+  }
+]

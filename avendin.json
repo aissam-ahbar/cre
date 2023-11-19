@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13038411",
+    "mail": "haltegarderie.pontavendin@orange.fr",
+    "distance": 11483,
+    "latitude": 50.473479072220066,
+    "telephone": "0321409805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC\"L'ilôt z'enfants\" - Pont à Vendin",
+    "resultStructId": "108904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue lucarini62880 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8813933232952826,
+    "ville": "avendin",
+    "cp": ""
+  },
+  {
+    "resultId": "56477138",
+    "mail": "leskangourous@hotmail.com",
+    "distance": 11492,
+    "latitude": 50.473310071426326,
+    "telephone": "0661561275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESOURSONS",
+    "resultStructId": "652401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue luccarini 62880 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.881515557679926,
+    "ville": "avendin",
+    "cp": ""
+  }
+]

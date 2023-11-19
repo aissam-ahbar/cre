@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "52597282",
+    "mail": "smamurol@groupe-objectif.fr",
+    "distance": 20518,
+    "latitude": 45.56953824290763,
+    "telephone": "0473793731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa vallée verte",
+    "resultStructId": "680219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de jassat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9408039045573764,
+    "ville": "murol",
+    "cp": "63790"
+  },
+  {
+    "resultId": "52597282",
+    "mail": "smamurol@groupe-objectif.fr",
+    "distance": 186457,
+    "latitude": 45.56953824290763,
+    "telephone": "0473793731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa vallée verte",
+    "resultStructId": "680219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de jassat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9408039045573764,
+    "ville": "murol",
+    "cp": "63790"
+  }
+]

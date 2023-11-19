@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "53761777",
+    "mail": "doudouetpinou@gmail.com",
+    "distance": 52449,
+    "latitude": 50.00413435342571,
+    "telephone": "0952276011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOUDOUET PINOU",
+    "resultStructId": "542901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6447739664197236,
+    "ville": "albert",
+    "cp": "80300"
+  },
+  {
+    "resultId": "12697224",
+    "mail": "albert@lpcr.fr",
+    "distance": 52904,
+    "latitude": 49.999104993867434,
+    "telephone": "0364020001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "222805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 chemin croise de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6607101268838145,
+    "ville": "albert",
+    "cp": "80300"
+  }
+]

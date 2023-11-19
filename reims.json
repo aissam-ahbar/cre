@@ -1,0 +1,2690 @@
+[
+  {
+    "resultId": "12682131",
+    "mail": "",
+    "distance": 65250,
+    "latitude": 49.21071323777239,
+    "telephone": "0953944841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Des Roses et des Choux Reims",
+    "resultStructId": "4644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean jacquesgoguel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.028866133889544,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12676111",
+    "mail": "contact@crechendo.net",
+    "distance": 65712,
+    "latitude": 49.21137605938879,
+    "telephone": "0952870855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petits Lutins Reims",
+    "resultStructId": "680318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rue edmond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.019349978436893,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12667296",
+    "mail": "contact@crechendo.net",
+    "distance": 65712,
+    "latitude": 49.21137605938879,
+    "telephone": "0952870855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Crech'endo Les Petits Petons Reims",
+    "resultStructId": "680317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rueedmond rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.019349978436893,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12639811",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 65803,
+    "latitude": 49.2183523283195,
+    "telephone": "0668471883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMonde de Lilou - Saint Rémi",
+    "resultStructId": "161403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue simon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0322592203173935,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798928",
+    "mail": "levillagefeerique@micro-baby.com",
+    "distance": 66073,
+    "latitude": 49.236481500318334,
+    "telephone": "0984496337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeVillage Féérique Reims",
+    "resultStructId": "187601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon patoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.067652453872242,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806496",
+    "mail": "multiaccueil.turenne@maisondequartier-reims.fr",
+    "distance": 66092,
+    "latitude": 49.22030710798295,
+    "telephone": "0326503226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Val de Murigny Espace Turenne Reims",
+    "resultStructId": "671905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue deturenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.029598796146463,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12808130",
+    "mail": "creche.lenvol@orange.fr",
+    "distance": 66292,
+    "latitude": 49.2362263591508,
+    "telephone": "0326827928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil interentreprises l'Envol Reims",
+    "resultStructId": "7604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade rolandgarros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.06133928068585,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12673746",
+    "mail": "ecole@groupeh.fr",
+    "distance": 66397,
+    "latitude": 49.2432110356107,
+    "telephone": "0970818239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Calins Malins Reims",
+    "resultStructId": "119902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.075906398892136,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12673789",
+    "mail": "ecole@groupeh.fr",
+    "distance": 66397,
+    "latitude": 49.2432110356107,
+    "telephone": "0970818239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Futés en Herbe Reims",
+    "resultStructId": "119903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.075906398892136,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807270",
+    "mail": "multiaccueil.chatillons@maisondequartier-reims.fr",
+    "distance": 66447,
+    "latitude": 49.22646095610104,
+    "telephone": "0326776522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de quartier Châtillons Reims",
+    "resultStructId": "671917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 3place des argonautes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034657466693369,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519239",
+    "mail": "",
+    "distance": 66878,
+    "latitude": 49.22541747158991,
+    "telephone": "0326361369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMurigny Reims",
+    "resultStructId": "381703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean d'aulan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.021900656476642,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519196",
+    "mail": "",
+    "distance": 67029,
+    "latitude": 49.23251534724006,
+    "telephone": "0326062216",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Sources",
+    "resultStructId": "381302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du renouveau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034063598172894,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "42357818",
+    "mail": "chu.reims@lpcr.fr",
+    "distance": 67401,
+    "latitude": 49.231984750958254,
+    "telephone": "0352790323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Méliades",
+    "resultStructId": "227401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue fernand cerveaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.023752256792958,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807184",
+    "mail": "multiaccueil.saintremi@maisondequartier-reims.fr",
+    "distance": 67629,
+    "latitude": 49.24078034816256,
+    "telephone": "0326858921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Arènes du Sud Espace Saint Rémi Reims",
+    "resultStructId": "671915",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue tournebonneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.038186326759591,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "58778567",
+    "mail": "multiaccueil.maisonblanche@maisondequartier-reims.fr",
+    "distance": 67640,
+    "latitude": 49.23111391810568,
+    "telephone": "0326870926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMaison Blanche",
+    "resultStructId": "689405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue cognacq jay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01605268793303,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517476",
+    "mail": "",
+    "distance": 67642,
+    "latitude": 49.2485829019917,
+    "telephone": "0326853156",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChemin Vert",
+    "resultStructId": "381702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 11 novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056538157187065,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519153",
+    "mail": "",
+    "distance": 67724,
+    "latitude": 49.22937131512355,
+    "telephone": "0326063050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHautes Feuilles",
+    "resultStructId": "381701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des landais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.010252939588976,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806625",
+    "mail": "multiaccueil.lapasserelle@maisondequartier-reims.fr",
+    "distance": 67733,
+    "latitude": 49.22995265828743,
+    "telephone": "0326368816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Croix Rouge La Passerelle Reims",
+    "resultStructId": "671904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee deslandais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.011284234114918,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806754",
+    "mail": "multiaccueil.wilson@maisondequartier-reims.fr",
+    "distance": 67747,
+    "latitude": 49.2367504711347,
+    "telephone": "0326245201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Wilson Reims",
+    "resultStructId": "671910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard du president",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.025987690443541,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517433",
+    "mail": "",
+    "distance": 67899,
+    "latitude": 49.24621093694166,
+    "telephone": "0326853554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBienfait",
+    "resultStructId": "380201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "164 rue ponsardin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0441696374032725,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806453",
+    "mail": "multiaccueil.cernay@maisondequartier-reims.fr",
+    "distance": 68162,
+    "latitude": 49.25578025267734,
+    "telephone": "0326073919",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Cernay Europe Reims",
+    "resultStructId": "671907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue du general",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.060752762851206,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519411",
+    "mail": "",
+    "distance": 68234,
+    "latitude": 49.241899915869624,
+    "telephone": "0326821617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSubé",
+    "resultStructId": "380202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "179 rue de courlancy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.025691722554381,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39362193",
+    "mail": "laforetenchantee@micro-baby.com",
+    "distance": 68238,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaForêt Enchantée",
+    "resultStructId": "187606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31354082",
+    "mail": "lesentierdesmerveilles@micro-baby.com",
+    "distance": 68238,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesentier des merveilles",
+    "resultStructId": "187704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31358373",
+    "mail": "ptitsflocons@micro-baby.com",
+    "distance": 68238,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "P'titsFlocons",
+    "resultStructId": "187719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39385718",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 68427,
+    "latitude": 49.24905679877771,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES REIMS - GAMBETTA",
+    "resultStructId": "187820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des orphelins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0374974843246285,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806711",
+    "mail": "multiaccueil.billard@maisondequartier-reims.fr",
+    "distance": 68526,
+    "latitude": 49.23639893373906,
+    "telephone": "0326083497",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de quartier Espace Billard Reims",
+    "resultStructId": "689108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 et14 rue pierre taittinger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.006351187727032,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "33317886",
+    "mail": "reims@lespetitsbilingues.com",
+    "distance": 68659,
+    "latitude": 49.25080797376393,
+    "telephone": "0326470021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Bilingues éveils & apprentissages",
+    "resultStructId": "687426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.035744219855061,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31351593",
+    "mail": "ambre@micro-baby.com",
+    "distance": 68686,
+    "latitude": 49.25315174555124,
+    "telephone": "0973258105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AMBRE",
+    "resultStructId": "187608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29rue ponsardin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.040656505548754,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12694042",
+    "mail": "bue.patricia@yahoo.fr",
+    "distance": 68691,
+    "latitude": 49.253152888802795,
+    "telephone": "0628075030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Coeurs Reims",
+    "resultStructId": "119805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0405325003585055,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12672585",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 68785,
+    "latitude": 49.25044700747141,
+    "telephone": "0326796386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Monde de Lilou - Capucins Reims",
+    "resultStructId": "22804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031719495932609,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12672542",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 68785,
+    "latitude": 49.25044700747141,
+    "telephone": "0326796386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Monde de Lilou - Boulard Reims",
+    "resultStructId": "22806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031719495932609,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39412931",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 68863,
+    "latitude": 49.257185198151845,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES - CERNAY",
+    "resultStructId": "188745",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 bis rue de cernay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.045859074400914,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31351891",
+    "mail": "topaze@micro-baby.com",
+    "distance": 68905,
+    "latitude": 49.24571185561778,
+    "telephone": "0950155082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOPAZE",
+    "resultStructId": "187504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0178116778222694,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806797",
+    "mail": "multiaccueil.epinettes@maisondequartier-reims.fr",
+    "distance": 68937,
+    "latitude": 49.26634396395367,
+    "telephone": "0326068941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Epinettes Reims",
+    "resultStructId": "671912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.066989326425204,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12609625",
+    "mail": "associationlafarandole@bbox.fr",
+    "distance": 69135,
+    "latitude": 49.251787519317595,
+    "telephone": "0326977834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "694811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue de vesle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.026068003338088,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12799057",
+    "mail": "lespetitesbulles@micro-baby.com",
+    "distance": 69292,
+    "latitude": 49.24752032620623,
+    "telephone": "0984495928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Bulles",
+    "resultStructId": "187715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01240520711971,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12799100",
+    "mail": "lesrayonsdesoleil@micro-baby.com",
+    "distance": 69292,
+    "latitude": 49.24752032620623,
+    "telephone": "0984495928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRayons de Soleil",
+    "resultStructId": "187604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01240520711971,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12808173",
+    "mail": "multi.accueil-rousseau@ccas-reims.fr",
+    "distance": 69293,
+    "latitude": 49.25778249618078,
+    "telephone": "0326249564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean-Jacques Rousseau Reims",
+    "resultStructId": "7605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 24 ruejean-jacques rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.036221096823371,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12583395",
+    "mail": "contact@micro-creche-pazapa.fr",
+    "distance": 69299,
+    "latitude": 49.257202843310075,
+    "telephone": "0679751195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pazapa 1 Reims",
+    "resultStructId": "2348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue pluche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.03469634252778,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12602874",
+    "mail": "123soleil.jv@gmail.com",
+    "distance": 69489,
+    "latitude": 49.25771714275031,
+    "telephone": "0326062137",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche 1.2.3. SOLEIL",
+    "resultStructId": "124007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue thiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031070869113026,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12499072",
+    "mail": "multiaccueil.chalet@maisondequartier-reims.fr",
+    "distance": 69660,
+    "latitude": 49.266979873429534,
+    "telephone": "0326025926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean Jaurès Espace Châlet Reims",
+    "resultStructId": "671906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 bis rue desolferino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.049266429203616,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517390",
+    "mail": "",
+    "distance": 69709,
+    "latitude": 49.26515457732048,
+    "telephone": "0326051487",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheThéron",
+    "resultStructId": "380301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean urbain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.043433435869932,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798842",
+    "mail": "lamaisondegrooky@micro-baby.com",
+    "distance": 70107,
+    "latitude": 49.260622937809075,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Maison de Grooky Reims",
+    "resultStructId": "7388",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798756",
+    "mail": "entredeuxnuages@micro-baby.com",
+    "distance": 70107,
+    "latitude": 49.260622937809075,
+    "telephone": "0326358403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EntreDeux Nuages",
+    "resultStructId": "187616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798799",
+    "mail": "lagalaxiedespetits@micro-baby.com",
+    "distance": 70107,
+    "latitude": 49.260622937809075,
+    "telephone": "0326358403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGalaxie des Petits",
+    "resultStructId": "187712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31361159",
+    "mail": "laboiteamalice@micro-baby.com",
+    "distance": 70107,
+    "latitude": 49.260622937809075,
+    "telephone": "0952938462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Laboîte à malice",
+    "resultStructId": "187722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31359825",
+    "mail": "mistigri@micro-baby.com",
+    "distance": 70107,
+    "latitude": 49.260622937809075,
+    "telephone": "0952938462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MISTIGRI",
+    "resultStructId": "187724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4bis rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31277402",
+    "mail": "jade@micro-baby.com",
+    "distance": 70296,
+    "latitude": 49.26215787986244,
+    "telephone": "0951352053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jade",
+    "resultStructId": "187615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue des romains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0211074589527565,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39385599",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 70309,
+    "latitude": 49.261357762120376,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES REIMS - CLAIRMARAIS",
+    "resultStructId": "187822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue du mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0189041449223755,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "47521134",
+    "mail": "",
+    "distance": 70382,
+    "latitude": 49.26324355541541,
+    "telephone": "0326400458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheClairmarais",
+    "resultStructId": "381502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 d rue marcel thil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.021496117452262,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806883",
+    "mail": "multiaccueil.3piliers@maisondequartier-reims.fr",
+    "distance": 70569,
+    "latitude": 49.26888808710943,
+    "telephone": "0326020252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Trois Piliers Reims",
+    "resultStructId": "671914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue de pontgivart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.030227913820407,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519368",
+    "mail": "",
+    "distance": 71618,
+    "latitude": 49.27670745271816,
+    "telephone": "0326872512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheOrgeval",
+    "resultStructId": "380302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 boulevard des belges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022116311471257,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806668",
+    "mail": "multiaccueil.3fontaines@maisondequartier-reims.fr",
+    "distance": 71669,
+    "latitude": 49.27383525594034,
+    "telephone": "0326090785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Trois Fontaines Reims",
+    "resultStructId": "671908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "211 rue paul vaillantcouturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.013922908951734,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807227",
+    "mail": "multiaccueil.orgeval@maisondequartier-reims.fr",
+    "distance": 71864,
+    "latitude": 49.27938138827718,
+    "telephone": "0326220122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Orgeval Reims",
+    "resultStructId": "671916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place simone de beauvoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022255271292914,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12688194",
+    "mail": "informations@microcreche-unjeudenfants.fr",
+    "distance": 72826,
+    "latitude": 49.286746019232204,
+    "telephone": "0351421480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Un Jeu d'Enfant REIMS LA NEUVILLETTE",
+    "resultStructId": "177001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue debetheny neuvillette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.015292123271811,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12688194",
+    "mail": "informations@microcreche-unjeudenfants.fr",
+    "distance": 161354,
+    "latitude": 49.286746019232204,
+    "telephone": "0351421480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Un Jeu d'Enfant REIMS LA NEUVILLETTE",
+    "resultStructId": "177001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue debetheny neuvillette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.015292123271811,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807227",
+    "mail": "multiaccueil.orgeval@maisondequartier-reims.fr",
+    "distance": 162315,
+    "latitude": 49.27938138827718,
+    "telephone": "0326220122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Orgeval Reims",
+    "resultStructId": "671916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place simone de beauvoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022255271292914,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806668",
+    "mail": "multiaccueil.3fontaines@maisondequartier-reims.fr",
+    "distance": 162481,
+    "latitude": 49.27383525594034,
+    "telephone": "0326090785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Trois Fontaines Reims",
+    "resultStructId": "671908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "211 rue paul vaillantcouturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.013922908951734,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519368",
+    "mail": "",
+    "distance": 162554,
+    "latitude": 49.27670745271816,
+    "telephone": "0326872512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheOrgeval",
+    "resultStructId": "380302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 boulevard des belges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022116311471257,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806883",
+    "mail": "multiaccueil.3piliers@maisondequartier-reims.fr",
+    "distance": 163604,
+    "latitude": 49.26888808710943,
+    "telephone": "0326020252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Trois Piliers Reims",
+    "resultStructId": "671914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue de pontgivart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.030227913820407,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "47521134",
+    "mail": "",
+    "distance": 163764,
+    "latitude": 49.26324355541541,
+    "telephone": "0326400458",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheClairmarais",
+    "resultStructId": "381502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 d rue marcel thil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.021496117452262,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39385599",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 163831,
+    "latitude": 49.261357762120376,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES REIMS - CLAIRMARAIS",
+    "resultStructId": "187822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue du mont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0189041449223755,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31277402",
+    "mail": "jade@micro-baby.com",
+    "distance": 163847,
+    "latitude": 49.26215787986244,
+    "telephone": "0951352053",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jade",
+    "resultStructId": "187615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue des romains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0211074589527565,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798756",
+    "mail": "entredeuxnuages@micro-baby.com",
+    "distance": 164036,
+    "latitude": 49.260622937809075,
+    "telephone": "0326358403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EntreDeux Nuages",
+    "resultStructId": "187616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798799",
+    "mail": "lagalaxiedespetits@micro-baby.com",
+    "distance": 164036,
+    "latitude": 49.260622937809075,
+    "telephone": "0326358403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGalaxie des Petits",
+    "resultStructId": "187712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798842",
+    "mail": "lamaisondegrooky@micro-baby.com",
+    "distance": 164036,
+    "latitude": 49.260622937809075,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Maison de Grooky Reims",
+    "resultStructId": "7388",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31361159",
+    "mail": "laboiteamalice@micro-baby.com",
+    "distance": 164036,
+    "latitude": 49.260622937809075,
+    "telephone": "0952938462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Laboîte à malice",
+    "resultStructId": "187722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31359825",
+    "mail": "mistigri@micro-baby.com",
+    "distance": 164036,
+    "latitude": 49.260622937809075,
+    "telephone": "0952938462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MISTIGRI",
+    "resultStructId": "187724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4bis rue edouard mignot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.022278424536174,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517390",
+    "mail": "",
+    "distance": 164490,
+    "latitude": 49.26515457732048,
+    "telephone": "0326051487",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheThéron",
+    "resultStructId": "380301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean urbain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.043433435869932,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12499072",
+    "mail": "multiaccueil.chalet@maisondequartier-reims.fr",
+    "distance": 164565,
+    "latitude": 49.266979873429534,
+    "telephone": "0326025926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean Jaurès Espace Châlet Reims",
+    "resultStructId": "671906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 bis rue desolferino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.049266429203616,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12602874",
+    "mail": "123soleil.jv@gmail.com",
+    "distance": 164663,
+    "latitude": 49.25771714275031,
+    "telephone": "0326062137",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche 1.2.3. SOLEIL",
+    "resultStructId": "124007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue thiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031070869113026,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12799057",
+    "mail": "lespetitesbulles@micro-baby.com",
+    "distance": 164844,
+    "latitude": 49.24752032620623,
+    "telephone": "0984495928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Bulles",
+    "resultStructId": "187715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01240520711971,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12799100",
+    "mail": "lesrayonsdesoleil@micro-baby.com",
+    "distance": 164844,
+    "latitude": 49.24752032620623,
+    "telephone": "0984495928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRayons de Soleil",
+    "resultStructId": "187604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01240520711971,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12583395",
+    "mail": "contact@micro-creche-pazapa.fr",
+    "distance": 164858,
+    "latitude": 49.257202843310075,
+    "telephone": "0679751195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pazapa 1 Reims",
+    "resultStructId": "2348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue pluche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.03469634252778,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12808173",
+    "mail": "multi.accueil-rousseau@ccas-reims.fr",
+    "distance": 164868,
+    "latitude": 49.25778249618078,
+    "telephone": "0326249564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean-Jacques Rousseau Reims",
+    "resultStructId": "7605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 24 ruejean-jacques rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.036221096823371,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12609625",
+    "mail": "associationlafarandole@bbox.fr",
+    "distance": 165004,
+    "latitude": 49.251787519317595,
+    "telephone": "0326977834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "694811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue de vesle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.026068003338088,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31351891",
+    "mail": "topaze@micro-baby.com",
+    "distance": 165230,
+    "latitude": 49.24571185561778,
+    "telephone": "0950155082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOPAZE",
+    "resultStructId": "187504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14avenue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0178116778222694,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39412931",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 165319,
+    "latitude": 49.257185198151845,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES - CERNAY",
+    "resultStructId": "188745",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 bis rue de cernay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.045859074400914,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12672585",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 165357,
+    "latitude": 49.25044700747141,
+    "telephone": "0326796386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Monde de Lilou - Capucins Reims",
+    "resultStructId": "22804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031719495932609,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12672542",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 165357,
+    "latitude": 49.25044700747141,
+    "telephone": "0326796386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Monde de Lilou - Boulard Reims",
+    "resultStructId": "22806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031719495932609,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806797",
+    "mail": "multiaccueil.epinettes@maisondequartier-reims.fr",
+    "distance": 165361,
+    "latitude": 49.26634396395367,
+    "telephone": "0326068941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Epinettes Reims",
+    "resultStructId": "671912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.066989326425204,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12694042",
+    "mail": "bue.patricia@yahoo.fr",
+    "distance": 165469,
+    "latitude": 49.253152888802795,
+    "telephone": "0628075030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Coeurs Reims",
+    "resultStructId": "119805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0405325003585055,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31351593",
+    "mail": "ambre@micro-baby.com",
+    "distance": 165474,
+    "latitude": 49.25315174555124,
+    "telephone": "0973258105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AMBRE",
+    "resultStructId": "187608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29rue ponsardin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.040656505548754,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "33317886",
+    "mail": "reims@lespetitsbilingues.com",
+    "distance": 165488,
+    "latitude": 49.25080797376393,
+    "telephone": "0326470021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Bilingues éveils & apprentissages",
+    "resultStructId": "687426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.035744219855061,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806711",
+    "mail": "multiaccueil.billard@maisondequartier-reims.fr",
+    "distance": 165632,
+    "latitude": 49.23639893373906,
+    "telephone": "0326083497",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de quartier Espace Billard Reims",
+    "resultStructId": "689108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 et14 rue pierre taittinger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.006351187727032,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39385718",
+    "mail": "m.larre@bullesdecreches.fr",
+    "distance": 165721,
+    "latitude": 49.24905679877771,
+    "telephone": "0679320975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BULLESDE CRECHES REIMS - GAMBETTA",
+    "resultStructId": "187820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des orphelins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0374974843246285,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519411",
+    "mail": "",
+    "distance": 165900,
+    "latitude": 49.241899915869624,
+    "telephone": "0326821617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSubé",
+    "resultStructId": "380202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "179 rue de courlancy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.025691722554381,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "39362193",
+    "mail": "laforetenchantee@micro-baby.com",
+    "distance": 165969,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaForêt Enchantée",
+    "resultStructId": "187606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31354082",
+    "mail": "lesentierdesmerveilles@micro-baby.com",
+    "distance": 165969,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesentier des merveilles",
+    "resultStructId": "187704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "31358373",
+    "mail": "ptitsflocons@micro-baby.com",
+    "distance": 165969,
+    "latitude": 49.25481564535844,
+    "telephone": "0984496680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "P'titsFlocons",
+    "resultStructId": "187719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 ter rue paul fort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056347500800409,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806453",
+    "mail": "multiaccueil.cernay@maisondequartier-reims.fr",
+    "distance": 166063,
+    "latitude": 49.25578025267734,
+    "telephone": "0326073919",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Cernay Europe Reims",
+    "resultStructId": "671907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue du general",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.060752762851206,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517433",
+    "mail": "",
+    "distance": 166255,
+    "latitude": 49.24621093694166,
+    "telephone": "0326853554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBienfait",
+    "resultStructId": "380201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "164 rue ponsardin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0441696374032725,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806754",
+    "mail": "multiaccueil.wilson@maisondequartier-reims.fr",
+    "distance": 166388,
+    "latitude": 49.2367504711347,
+    "telephone": "0326245201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Wilson Reims",
+    "resultStructId": "671910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 boulevard du president",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.025987690443541,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806625",
+    "mail": "multiaccueil.lapasserelle@maisondequartier-reims.fr",
+    "distance": 166428,
+    "latitude": 49.22995265828743,
+    "telephone": "0326368816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Croix Rouge La Passerelle Reims",
+    "resultStructId": "671904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee deslandais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.011284234114918,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519153",
+    "mail": "",
+    "distance": 166441,
+    "latitude": 49.22937131512355,
+    "telephone": "0326063050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHautes Feuilles",
+    "resultStructId": "381701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des landais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.010252939588976,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807184",
+    "mail": "multiaccueil.saintremi@maisondequartier-reims.fr",
+    "distance": 166510,
+    "latitude": 49.24078034816256,
+    "telephone": "0326858921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Arènes du Sud Espace Saint Rémi Reims",
+    "resultStructId": "671915",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue tournebonneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.038186326759591,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "58778567",
+    "mail": "multiaccueil.maisonblanche@maisondequartier-reims.fr",
+    "distance": 166511,
+    "latitude": 49.23111391810568,
+    "telephone": "0326870926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMaison Blanche",
+    "resultStructId": "689405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue cognacq jay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.01605268793303,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12517476",
+    "mail": "",
+    "distance": 166546,
+    "latitude": 49.2485829019917,
+    "telephone": "0326853156",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChemin Vert",
+    "resultStructId": "381702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 11 novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.056538157187065,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "42357818",
+    "mail": "chu.reims@lpcr.fr",
+    "distance": 166739,
+    "latitude": 49.231984750958254,
+    "telephone": "0352790323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Méliades",
+    "resultStructId": "227401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue fernand cerveaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.023752256792958,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519196",
+    "mail": "",
+    "distance": 167105,
+    "latitude": 49.23251534724006,
+    "telephone": "0326062216",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Sources",
+    "resultStructId": "381302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du renouveau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034063598172894,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12519239",
+    "mail": "",
+    "distance": 167273,
+    "latitude": 49.22541747158991,
+    "telephone": "0326361369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMurigny Reims",
+    "resultStructId": "381703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean d'aulan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.021900656476642,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12807270",
+    "mail": "multiaccueil.chatillons@maisondequartier-reims.fr",
+    "distance": 167689,
+    "latitude": 49.22646095610104,
+    "telephone": "0326776522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Maison de quartier Châtillons Reims",
+    "resultStructId": "671917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 et 3place des argonautes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.034657466693369,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12673746",
+    "mail": "ecole@groupeh.fr",
+    "distance": 167839,
+    "latitude": 49.2432110356107,
+    "telephone": "0970818239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Calins Malins Reims",
+    "resultStructId": "119902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.075906398892136,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12673789",
+    "mail": "ecole@groupeh.fr",
+    "distance": 167839,
+    "latitude": 49.2432110356107,
+    "telephone": "0970818239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Futés en Herbe Reims",
+    "resultStructId": "119903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.075906398892136,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12808130",
+    "mail": "creche.lenvol@orange.fr",
+    "distance": 167876,
+    "latitude": 49.2362263591508,
+    "telephone": "0326827928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil interentreprises l'Envol Reims",
+    "resultStructId": "7604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade rolandgarros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.06133928068585,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12806496",
+    "mail": "multiaccueil.turenne@maisondequartier-reims.fr",
+    "distance": 168055,
+    "latitude": 49.22030710798295,
+    "telephone": "0326503226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Val de Murigny Espace Turenne Reims",
+    "resultStructId": "671905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue deturenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.029598796146463,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12798928",
+    "mail": "levillagefeerique@micro-baby.com",
+    "distance": 168112,
+    "latitude": 49.236481500318334,
+    "telephone": "0984496337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeVillage Féérique Reims",
+    "resultStructId": "187601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue leon patoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.067652453872242,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12639811",
+    "mail": "lemondedelilou.reims@gmail.com",
+    "distance": 168343,
+    "latitude": 49.2183523283195,
+    "telephone": "0668471883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMonde de Lilou - Saint Rémi",
+    "resultStructId": "161403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue simon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0322592203173935,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12676111",
+    "mail": "contact@crechendo.net",
+    "distance": 168477,
+    "latitude": 49.21137605938879,
+    "telephone": "0952870855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petits Lutins Reims",
+    "resultStructId": "680318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rue edmond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.019349978436893,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12667296",
+    "mail": "contact@crechendo.net",
+    "distance": 168477,
+    "latitude": 49.21137605938879,
+    "telephone": "0952870855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Crech'endo Les Petits Petons Reims",
+    "resultStructId": "680317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rueedmond rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.019349978436893,
+    "ville": "reims",
+    "cp": "51100"
+  },
+  {
+    "resultId": "12682131",
+    "mail": "",
+    "distance": 168917,
+    "latitude": 49.21071323777239,
+    "telephone": "0953944841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Des Roses et des Choux Reims",
+    "resultStructId": "4644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean jacquesgoguel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.028866133889544,
+    "ville": "reims",
+    "cp": "51100"
+  }
+]

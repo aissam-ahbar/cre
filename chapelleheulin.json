@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12494893",
+    "mail": "multi-accueil@mairie-lachapelleheulin.fr",
+    "distance": 56005,
+    "latitude": 47.17390402072953,
+    "telephone": "0240065959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Rainettes",
+    "resultStructId": "711112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue alexis maneyrol 44330 la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3397391033153347,
+    "ville": "chapelleheulin",
+    "cp": ""
+  },
+  {
+    "resultId": "60523060",
+    "mail": "contact@piratesheulinois.fr",
+    "distance": 56967,
+    "latitude": 47.171334064886786,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pirates Heulinois",
+    "resultStructId": "712104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone artisanale les ragonnieres44330 la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3589595633618803,
+    "ville": "chapelleheulin",
+    "cp": ""
+  },
+  {
+    "resultId": "12494893",
+    "mail": "multi-accueil@mairie-lachapelleheulin.fr",
+    "distance": 56005,
+    "latitude": 47.17390402072953,
+    "telephone": "0240065959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Rainettes",
+    "resultStructId": "711112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue alexis maneyrol 44330 la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3397391033153347,
+    "ville": "chapelleheulin",
+    "cp": ""
+  },
+  {
+    "resultId": "60523060",
+    "mail": "contact@piratesheulinois.fr",
+    "distance": 56967,
+    "latitude": 47.171334064886786,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pirates Heulinois",
+    "resultStructId": "712104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone artisanale les ragonnieres44330 la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3589595633618803,
+    "ville": "chapelleheulin",
+    "cp": ""
+  }
+]

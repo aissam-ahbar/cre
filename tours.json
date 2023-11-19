@@ -1,0 +1,5618 @@
+[
+  {
+    "resultId": "12911553",
+    "mail": "service-petiteenfance@ville-tours.fr",
+    "distance": 83974,
+    "latitude": 47.36534501115575,
+    "telephone": "0247745613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fontaines",
+    "resultStructId": "568408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7068743884016196,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911209",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 84004,
+    "latitude": 47.365560443941796,
+    "telephone": "0247745636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"des Fontaines\"",
+    "resultStructId": "88211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7065980902831037,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911510",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 84007,
+    "latitude": 47.37465323357523,
+    "telephone": "0247216597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede Rochepinard",
+    "resultStructId": "568407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 jardin guillaume bouzignac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7138987921227494,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12975795",
+    "mail": "ribambelle-tours@sfr.fr",
+    "distance": 84393,
+    "latitude": 47.359517668847694,
+    "telephone": "0247250214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ribambelle\"",
+    "resultStructId": "189019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du professeur guillaume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6959996528608717,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12927420",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 84600,
+    "latitude": 47.37684381649533,
+    "telephone": "0247331820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Leccia\"",
+    "resultStructId": "568501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue bourderon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7066944280268038,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13003874",
+    "mail": "creche.doucelune@orange.fr",
+    "distance": 84987,
+    "latitude": 47.38093072350849,
+    "telephone": "0247202092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Douce Lune\"",
+    "resultStructId": "12156",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5-7 rue guynemer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041688357611241,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13010238",
+    "mail": "infos@minimouse.fr",
+    "distance": 85075,
+    "latitude": 47.3851854676611,
+    "telephone": "0247441050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Mini Mousse\"",
+    "resultStructId": "12304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7063670623854386,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59372445",
+    "mail": "lakazdetatane@leszozios.fr",
+    "distance": 85134,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - La Kaz de Tatane\"",
+    "resultStructId": "709552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59372491",
+    "mail": "leszibous@leszozios.fr",
+    "distance": 85134,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - les Zibous\"",
+    "resultStructId": "709553",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du telegraphe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911811",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 85280,
+    "latitude": 47.37339423669492,
+    "telephone": "0247216722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Toulouse Lautrec\"",
+    "resultStructId": "568411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue toulouse lautrec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6935796298025989,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911854",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 85539,
+    "latitude": 47.38355902263876,
+    "telephone": "0247313902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu \"Centre de Vie du Sanitas\"",
+    "resultStructId": "568412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6979358606938096,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927463",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 85654,
+    "latitude": 47.38138785279044,
+    "telephone": "0247708666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hallebardier\"",
+    "resultStructId": "568502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du hallebardier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6943976315063088,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59370920",
+    "mail": "contact@capu-signe.fr",
+    "distance": 85717,
+    "latitude": 47.394116521429346,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capus'Signe Velpeau\"",
+    "resultStructId": "709511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "195bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041169790222056,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12997037",
+    "mail": "afc974@gmail.com",
+    "distance": 85959,
+    "latitude": 47.385791528441416,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba\" Crèche'N Do\"",
+    "resultStructId": "709564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 4 septembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6933996694277831,
+    "ville": "tours",
+    "cp": "187037000"
+  },
+  {
+    "resultId": "13008905",
+    "mail": "les3ptitstours@liveli.fr",
+    "distance": 85966,
+    "latitude": 47.389391333002685,
+    "telephone": "0230963505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 p'tits Tours",
+    "resultStructId": "535402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6962924209072655,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911295",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 86045,
+    "latitude": 47.38647223760736,
+    "telephone": "0247216512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"Grécourt\"",
+    "resultStructId": "568402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue grecourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6926456205845446,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008819",
+    "mail": "leminirelais@gmail.com",
+    "distance": 86155,
+    "latitude": 47.37562918430795,
+    "telephone": "0247642929",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmini-relais",
+    "resultStructId": "12271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue lafayette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682159798151779,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371467",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 86357,
+    "latitude": 47.385791528441416,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crèche\"LA POUPONNIERE DU PARC DES PREBENDES\"",
+    "resultStructId": "709526",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue reneboylesve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6873360458895562,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12844903",
+    "mail": "saperlipopettemicrocreche@gmail.com",
+    "distance": 86418,
+    "latitude": 47.37700798065324,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Saperlipopette\"",
+    "resultStructId": "709546",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6792869091250523,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911338",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 86490,
+    "latitude": 47.390619741511145,
+    "telephone": "0247216061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Heurteloup\"",
+    "resultStructId": "568403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6893126354608837,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845075",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les Petits Ours\"",
+    "resultStructId": "709543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "33550880",
+    "mail": "contact@capu-signe.fr",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe des 2 Lions\"",
+    "resultStructId": "709513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue james watt - zac des2 lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59371171",
+    "mail": "tours@baby-trees.fr",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Daniel Mayer\"",
+    "resultStructId": "709518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33559228",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0981671123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les petits Lions\"",
+    "resultStructId": "709540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59372780",
+    "mail": "tours@baby-trees.fr",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Pierre GANDET\"",
+    "resultStructId": "709562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845118",
+    "mail": "contact@amaltheeweb.fr",
+    "distance": 86497,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La jolie tribu\"",
+    "resultStructId": "155718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "13010367",
+    "mail": "boutchou.service@cispeo.fr",
+    "distance": 86526,
+    "latitude": 47.376727994849425,
+    "telephone": "0247661234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bout'Chou Service\" - CISPEO Petite Enfance",
+    "resultStructId": "483601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "303 ruegiraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6774367379988431,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13024264",
+    "mail": "cosson.michel@giraudeau37.fr",
+    "distance": 86566,
+    "latitude": 47.38087022303111,
+    "telephone": "0247385690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sitarine\"",
+    "resultStructId": "12630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6801584527584593,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33446341",
+    "mail": "lesptitesbullessaperlipopettemicrocreche@gmail.com",
+    "distance": 86568,
+    "latitude": 47.37740882105073,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tites Bulles\" Saperlipopette",
+    "resultStructId": "709547",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773385777943981,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845032",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 86684,
+    "latitude": 47.387622173063846,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière des Prébendes\"",
+    "resultStructId": "709527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jehan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6838692059416517,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13062491",
+    "mail": "contact@creche-lajardiniere.fr",
+    "distance": 86753,
+    "latitude": 47.380931654065996,
+    "telephone": "0644751812",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Jardinière\"",
+    "resultStructId": "709524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "176 bis rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911252",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 86797,
+    "latitude": 47.37936397665471,
+    "telephone": "0247216759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Giraudeau\"",
+    "resultStructId": "568304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue du sergent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6754527280832082,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12919508",
+    "mail": "direction@crechendo-tours.fr",
+    "distance": 86905,
+    "latitude": 47.38355298054619,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Creche'n do\"",
+    "resultStructId": "709517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6771943120393802,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33491390",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 86941,
+    "latitude": 47.38445324470362,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de Rabelais\"",
+    "resultStructId": "709525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place rabelais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911596",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87166,
+    "latitude": 47.39189141622262,
+    "telephone": "0247216550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Halles",
+    "resultStructId": "568302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place gaston pailhou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6800692162089639,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911381",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87185,
+    "latitude": 47.39611098158418,
+    "telephone": "0247216513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Paul Louis Courier\"",
+    "resultStructId": "568404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue paul louiscourier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6833025538523544,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12722431",
+    "mail": "confetti@cispeo.fr",
+    "distance": 87254,
+    "latitude": 47.38164289905219,
+    "telephone": "0247375858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Confetti\" - Cispeo",
+    "resultStructId": "707215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911424",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87254,
+    "latitude": 47.38164289905219,
+    "telephone": "0247216383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Tonnellé\"",
+    "resultStructId": "568405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "56248976",
+    "mail": "contact@creche-marins-deau-douce.com",
+    "distance": 87272,
+    "latitude": 47.42810565132644,
+    "telephone": "0765780843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Marin d'eau douce\"",
+    "resultStructId": "709557",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7104497994847437,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371827",
+    "mail": "info@lesetoilesbrillantes.fr",
+    "distance": 87313,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles brillantes\"",
+    "resultStructId": "709534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371875",
+    "mail": "info@lesetoileslumineuses.fr",
+    "distance": 87313,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles lumineuses\"",
+    "resultStructId": "709535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845204",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 87330,
+    "latitude": 47.388832498345565,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de St Eloi\"",
+    "resultStructId": "709528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue leon boyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6750377620932363,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13038497",
+    "mail": "tours.delperier@koalakids.fr",
+    "distance": 87395,
+    "latitude": 47.39285798930196,
+    "telephone": "0247558409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Koala Kids\"",
+    "resultStructId": "709522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue georges delperier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280805",
+    "mail": "contact@capu-signe.fr",
+    "distance": 87399,
+    "latitude": 47.38365569602571,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Richer\"",
+    "resultStructId": "709512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 b rue francois richer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6697921402587195,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911725",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87407,
+    "latitude": 47.39547859621743,
+    "telephone": "0247372515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"des Tanneurs\"",
+    "resultStructId": "568409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean duval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6793802249330473,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927377",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87533,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Charles Boutard\"",
+    "resultStructId": "568303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911682",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87533,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Charles Boutard\"",
+    "resultStructId": "568401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37630936",
+    "mail": "ilot.castors@cispeo.fr",
+    "distance": 87549,
+    "latitude": 47.42013303388615,
+    "telephone": "0247438236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Îlot Castors\"",
+    "resultStructId": "707216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911467",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 87549,
+    "latitude": 47.42013303388615,
+    "telephone": "0247216990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Monconseil\"",
+    "resultStructId": "568406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "37280656",
+    "mail": "choupinette037@gmail.com",
+    "distance": 87635,
+    "latitude": 47.4206424030245,
+    "telephone": "0102010201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'ilôt calinoux\"",
+    "resultStructId": "709554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "193 rue du pas notre dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6978555477992637,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "46215926",
+    "mail": "jardin.alice@cispeo.fr",
+    "distance": 87714,
+    "latitude": 47.406587531562934,
+    "telephone": "0247546805",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil\"Le Jardin d'Alice\" - Cispéo",
+    "resultStructId": "706535",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "9 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6841484410016707,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13013635",
+    "mail": "i.proust@chu-tours.fr",
+    "distance": 87773,
+    "latitude": 47.38747917566849,
+    "telephone": "0247474767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du CHRU de Tours",
+    "resultStructId": "155908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevard tonnelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6672174594855123,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33502322",
+    "mail": "catherinedumilieu@gmail.com",
+    "distance": 87886,
+    "latitude": 47.436047711580244,
+    "telephone": "0624251245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bulapi&Onidoo\" de Tours",
+    "resultStructId": "709508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du commandantmouchotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7082754022287007,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920325",
+    "mail": "tournicoti@people-and-baby.com",
+    "distance": 87925,
+    "latitude": 47.4343766986427,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Tournicoti\"",
+    "resultStructId": "702061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de la milletiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7060667976286847,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920368",
+    "mail": "tourbillon@people-and-baby.com",
+    "distance": 87977,
+    "latitude": 47.39306439063125,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tourbillon",
+    "resultStructId": "702062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard de preuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6686870943207984,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33518684",
+    "mail": "contact@capu-signe.fr",
+    "distance": 88007,
+    "latitude": 47.40992133305931,
+    "telephone": "0609906666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Maginot\"",
+    "resultStructId": "709514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue maginot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682524459401158,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "60361266",
+    "mail": "arbreopetits@outlook.fr",
+    "distance": 88021,
+    "latitude": 47.41259435868499,
+    "telephone": "0247000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'arbre ô petits\"",
+    "resultStructId": "709530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pinguet guidon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6846584801557132,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845763",
+    "mail": "choupinette037@gmail.com",
+    "distance": 88159,
+    "latitude": 47.42281799332129,
+    "telephone": "0771762196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"L'ilôt tout doux\"",
+    "resultStructId": "709555",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee ferdinand fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.691647658506019,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371419",
+    "mail": "mclacabaneareves@gmail.com",
+    "distance": 88366,
+    "latitude": 47.42109825802052,
+    "telephone": "0981256068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane à rêves\"",
+    "resultStructId": "709523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee lucien guitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6868779649354785,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13008303",
+    "mail": "lejardindelacigogne@gmail.com",
+    "distance": 88450,
+    "latitude": 47.42067178855852,
+    "telephone": "0245340060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Jardin de la Cigogne\"",
+    "resultStructId": "703304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6851806096111779,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12722345",
+    "mail": "petite.gabare@cispeo.fr",
+    "distance": 88663,
+    "latitude": 47.42097968177565,
+    "telephone": "0972117089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite Gabare\" - Cispeo",
+    "resultStructId": "707211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rue de tourcoing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6821454304365434,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911768",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 88713,
+    "latitude": 47.42217674640229,
+    "telephone": "0247216991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Europe-Chateaubriand\"",
+    "resultStructId": "568410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue armentieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6824411750785915,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920368",
+    "mail": "tourbillon@people-and-baby.com",
+    "distance": 126264,
+    "latitude": 47.39306439063125,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tourbillon",
+    "resultStructId": "702062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard de preuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6686870943207984,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13013635",
+    "mail": "i.proust@chu-tours.fr",
+    "distance": 126285,
+    "latitude": 47.38747917566849,
+    "telephone": "0247474767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du CHRU de Tours",
+    "resultStructId": "155908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevard tonnelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6672174594855123,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280805",
+    "mail": "contact@capu-signe.fr",
+    "distance": 126564,
+    "latitude": 47.38365569602571,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Richer\"",
+    "resultStructId": "709512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 b rue francois richer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6697921402587195,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12722431",
+    "mail": "confetti@cispeo.fr",
+    "distance": 126655,
+    "latitude": 47.38164289905219,
+    "telephone": "0247375858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Confetti\" - Cispeo",
+    "resultStructId": "707215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911424",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126655,
+    "latitude": 47.38164289905219,
+    "telephone": "0247216383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Tonnellé\"",
+    "resultStructId": "568405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911768",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126656,
+    "latitude": 47.42217674640229,
+    "telephone": "0247216991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Europe-Chateaubriand\"",
+    "resultStructId": "568410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue armentieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6824411750785915,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12722345",
+    "mail": "petite.gabare@cispeo.fr",
+    "distance": 126658,
+    "latitude": 47.42097968177565,
+    "telephone": "0972117089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite Gabare\" - Cispeo",
+    "resultStructId": "707211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rue de tourcoing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6821454304365434,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12927377",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126742,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Charles Boutard\"",
+    "resultStructId": "568303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911682",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126742,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Charles Boutard\"",
+    "resultStructId": "568401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845204",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 126829,
+    "latitude": 47.388832498345565,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de St Eloi\"",
+    "resultStructId": "709528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue leon boyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6750377620932363,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008303",
+    "mail": "lejardindelacigogne@gmail.com",
+    "distance": 126889,
+    "latitude": 47.42067178855852,
+    "telephone": "0245340060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Jardin de la Cigogne\"",
+    "resultStructId": "703304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6851806096111779,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13038497",
+    "mail": "tours.delperier@koalakids.fr",
+    "distance": 126909,
+    "latitude": 47.39285798930196,
+    "telephone": "0247558409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Koala Kids\"",
+    "resultStructId": "709522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue georges delperier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33518684",
+    "mail": "contact@capu-signe.fr",
+    "distance": 126914,
+    "latitude": 47.40992133305931,
+    "telephone": "0609906666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Maginot\"",
+    "resultStructId": "709514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue maginot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682524459401158,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911725",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126997,
+    "latitude": 47.39547859621743,
+    "telephone": "0247372515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"des Tanneurs\"",
+    "resultStructId": "568409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean duval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6793802249330473,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371419",
+    "mail": "mclacabaneareves@gmail.com",
+    "distance": 127006,
+    "latitude": 47.42109825802052,
+    "telephone": "0981256068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane à rêves\"",
+    "resultStructId": "709523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee lucien guitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6868779649354785,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "60361266",
+    "mail": "arbreopetits@outlook.fr",
+    "distance": 127016,
+    "latitude": 47.41259435868499,
+    "telephone": "0247000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'arbre ô petits\"",
+    "resultStructId": "709530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pinguet guidon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6846584801557132,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911252",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127083,
+    "latitude": 47.37936397665471,
+    "telephone": "0247216759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Giraudeau\"",
+    "resultStructId": "568304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue du sergent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6754527280832082,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33491390",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127103,
+    "latitude": 47.38445324470362,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de Rabelais\"",
+    "resultStructId": "709525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place rabelais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "46215926",
+    "mail": "jardin.alice@cispeo.fr",
+    "distance": 127105,
+    "latitude": 47.406587531562934,
+    "telephone": "0247546805",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil\"Le Jardin d'Alice\" - Cispéo",
+    "resultStructId": "706535",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "9 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6841484410016707,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12919508",
+    "mail": "direction@crechendo-tours.fr",
+    "distance": 127111,
+    "latitude": 47.38355298054619,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Creche'n do\"",
+    "resultStructId": "709517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6771943120393802,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911596",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127129,
+    "latitude": 47.39189141622262,
+    "telephone": "0247216550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Halles",
+    "resultStructId": "568302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place gaston pailhou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6800692162089639,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13062491",
+    "mail": "contact@creche-lajardiniere.fr",
+    "distance": 127187,
+    "latitude": 47.380931654065996,
+    "telephone": "0644751812",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Jardinière\"",
+    "resultStructId": "709524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "176 bis rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33446341",
+    "mail": "lesptitesbullessaperlipopettemicrocreche@gmail.com",
+    "distance": 127269,
+    "latitude": 47.37740882105073,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tites Bulles\" Saperlipopette",
+    "resultStructId": "709547",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773385777943981,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911381",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127272,
+    "latitude": 47.39611098158418,
+    "telephone": "0247216513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Paul Louis Courier\"",
+    "resultStructId": "568404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue paul louiscourier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6833025538523544,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13010367",
+    "mail": "boutchou.service@cispeo.fr",
+    "distance": 127293,
+    "latitude": 47.376727994849425,
+    "telephone": "0247661234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bout'Chou Service\" - CISPEO Petite Enfance",
+    "resultStructId": "483601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "303 ruegiraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6774367379988431,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845763",
+    "mail": "choupinette037@gmail.com",
+    "distance": 127325,
+    "latitude": 47.42281799332129,
+    "telephone": "0771762196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"L'ilôt tout doux\"",
+    "resultStructId": "709555",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee ferdinand fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.691647658506019,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13024264",
+    "mail": "cosson.michel@giraudeau37.fr",
+    "distance": 127393,
+    "latitude": 47.38087022303111,
+    "telephone": "0247385690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sitarine\"",
+    "resultStructId": "12630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6801584527584593,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12844903",
+    "mail": "saperlipopettemicrocreche@gmail.com",
+    "distance": 127422,
+    "latitude": 47.37700798065324,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Saperlipopette\"",
+    "resultStructId": "709546",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6792869091250523,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845032",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127507,
+    "latitude": 47.387622173063846,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière des Prébendes\"",
+    "resultStructId": "709527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jehan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6838692059416517,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008819",
+    "mail": "leminirelais@gmail.com",
+    "distance": 127666,
+    "latitude": 47.37562918430795,
+    "telephone": "0247642929",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmini-relais",
+    "resultStructId": "12271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue lafayette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682159798151779,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371467",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127805,
+    "latitude": 47.385791528441416,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crèche\"LA POUPONNIERE DU PARC DES PREBENDES\"",
+    "resultStructId": "709526",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue reneboylesve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6873360458895562,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280656",
+    "mail": "choupinette037@gmail.com",
+    "distance": 127827,
+    "latitude": 47.4206424030245,
+    "telephone": "0102010201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'ilôt calinoux\"",
+    "resultStructId": "709554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "193 rue du pas notre dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6978555477992637,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911338",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127839,
+    "latitude": 47.390619741511145,
+    "telephone": "0247216061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Heurteloup\"",
+    "resultStructId": "568403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6893126354608837,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845075",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les Petits Ours\"",
+    "resultStructId": "709543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "33550880",
+    "mail": "contact@capu-signe.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe des 2 Lions\"",
+    "resultStructId": "709513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue james watt - zac des2 lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59371171",
+    "mail": "tours@baby-trees.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Daniel Mayer\"",
+    "resultStructId": "709518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33559228",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981671123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les petits Lions\"",
+    "resultStructId": "709540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59372780",
+    "mail": "tours@baby-trees.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Pierre GANDET\"",
+    "resultStructId": "709562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845118",
+    "mail": "contact@amaltheeweb.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La jolie tribu\"",
+    "resultStructId": "155718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "37630936",
+    "mail": "ilot.castors@cispeo.fr",
+    "distance": 127903,
+    "latitude": 47.42013303388615,
+    "telephone": "0247438236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Îlot Castors\"",
+    "resultStructId": "707216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911467",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127903,
+    "latitude": 47.42013303388615,
+    "telephone": "0247216990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Monconseil\"",
+    "resultStructId": "568406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920325",
+    "mail": "tournicoti@people-and-baby.com",
+    "distance": 128171,
+    "latitude": 47.4343766986427,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Tournicoti\"",
+    "resultStructId": "702061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de la milletiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7060667976286847,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911295",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128180,
+    "latitude": 47.38647223760736,
+    "telephone": "0247216512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"Grécourt\"",
+    "resultStructId": "568402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue grecourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6926456205845446,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12997037",
+    "mail": "afc974@gmail.com",
+    "distance": 128251,
+    "latitude": 47.385791528441416,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba\" Crèche'N Do\"",
+    "resultStructId": "709564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 4 septembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6933996694277831,
+    "ville": "tours",
+    "cp": "187037000"
+  },
+  {
+    "resultId": "33502322",
+    "mail": "catherinedumilieu@gmail.com",
+    "distance": 128304,
+    "latitude": 47.436047711580244,
+    "telephone": "0624251245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bulapi&Onidoo\" de Tours",
+    "resultStructId": "709508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du commandantmouchotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7082754022287007,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13008905",
+    "mail": "les3ptitstours@liveli.fr",
+    "distance": 128381,
+    "latitude": 47.389391333002685,
+    "telephone": "0230963505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 p'tits Tours",
+    "resultStructId": "535402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6962924209072655,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927463",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128428,
+    "latitude": 47.38138785279044,
+    "telephone": "0247708666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hallebardier\"",
+    "resultStructId": "568502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du hallebardier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6943976315063088,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911811",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128560,
+    "latitude": 47.37339423669492,
+    "telephone": "0247216722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Toulouse Lautrec\"",
+    "resultStructId": "568411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue toulouse lautrec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6935796298025989,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371827",
+    "mail": "info@lesetoilesbrillantes.fr",
+    "distance": 128609,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles brillantes\"",
+    "resultStructId": "709534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371875",
+    "mail": "info@lesetoileslumineuses.fr",
+    "distance": 128609,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles lumineuses\"",
+    "resultStructId": "709535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "56248976",
+    "mail": "contact@creche-marins-deau-douce.com",
+    "distance": 128614,
+    "latitude": 47.42810565132644,
+    "telephone": "0765780843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Marin d'eau douce\"",
+    "resultStructId": "709557",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7104497994847437,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911854",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128637,
+    "latitude": 47.38355902263876,
+    "telephone": "0247313902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu \"Centre de Vie du Sanitas\"",
+    "resultStructId": "568412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6979358606938096,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59370920",
+    "mail": "contact@capu-signe.fr",
+    "distance": 128851,
+    "latitude": 47.394116521429346,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capus'Signe Velpeau\"",
+    "resultStructId": "709511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "195bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041169790222056,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12975795",
+    "mail": "ribambelle-tours@sfr.fr",
+    "distance": 129084,
+    "latitude": 47.359517668847694,
+    "telephone": "0247250214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ribambelle\"",
+    "resultStructId": "189019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du professeur guillaume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6959996528608717,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "13003874",
+    "mail": "creche.doucelune@orange.fr",
+    "distance": 129158,
+    "latitude": 47.38093072350849,
+    "telephone": "0247202092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Douce Lune\"",
+    "resultStructId": "12156",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5-7 rue guynemer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041688357611241,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13010238",
+    "mail": "infos@minimouse.fr",
+    "distance": 129220,
+    "latitude": 47.3851854676611,
+    "telephone": "0247441050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Mini Mousse\"",
+    "resultStructId": "12304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7063670623854386,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927420",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 129441,
+    "latitude": 47.37684381649533,
+    "telephone": "0247331820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Leccia\"",
+    "resultStructId": "568501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue bourderon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7066944280268038,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911209",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 129709,
+    "latitude": 47.365560443941796,
+    "telephone": "0247745636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"des Fontaines\"",
+    "resultStructId": "88211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7065980902831037,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911553",
+    "mail": "service-petiteenfance@ville-tours.fr",
+    "distance": 129735,
+    "latitude": 47.36534501115575,
+    "telephone": "0247745613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fontaines",
+    "resultStructId": "568408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7068743884016196,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911510",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 130023,
+    "latitude": 47.37465323357523,
+    "telephone": "0247216597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede Rochepinard",
+    "resultStructId": "568407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 jardin guillaume bouzignac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7138987921227494,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59372445",
+    "mail": "lakazdetatane@leszozios.fr",
+    "distance": 130056,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - La Kaz de Tatane\"",
+    "resultStructId": "709552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59372491",
+    "mail": "leszibous@leszozios.fr",
+    "distance": 130056,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - les Zibous\"",
+    "resultStructId": "709553",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du telegraphe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33502322",
+    "mail": "catherinedumilieu@gmail.com",
+    "distance": 189295,
+    "latitude": 47.436047711580244,
+    "telephone": "0624251245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bulapi&Onidoo\" de Tours",
+    "resultStructId": "709508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du commandantmouchotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7082754022287007,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920325",
+    "mail": "tournicoti@people-and-baby.com",
+    "distance": 189381,
+    "latitude": 47.4343766986427,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Tournicoti\"",
+    "resultStructId": "702061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de la milletiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7060667976286847,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911768",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 189750,
+    "latitude": 47.42217674640229,
+    "telephone": "0247216991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Europe-Chateaubriand\"",
+    "resultStructId": "568410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue armentieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6824411750785915,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12722345",
+    "mail": "petite.gabare@cispeo.fr",
+    "distance": 189858,
+    "latitude": 47.42097968177565,
+    "telephone": "0972117089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite Gabare\" - Cispeo",
+    "resultStructId": "707211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rue de tourcoing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6821454304365434,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13008303",
+    "mail": "lejardindelacigogne@gmail.com",
+    "distance": 189994,
+    "latitude": 47.42067178855852,
+    "telephone": "0245340060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Jardin de la Cigogne\"",
+    "resultStructId": "703304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6851806096111779,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845763",
+    "mail": "choupinette037@gmail.com",
+    "distance": 190008,
+    "latitude": 47.42281799332129,
+    "telephone": "0771762196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"L'ilôt tout doux\"",
+    "resultStructId": "709555",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee ferdinand fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.691647658506019,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371419",
+    "mail": "mclacabaneareves@gmail.com",
+    "distance": 190011,
+    "latitude": 47.42109825802052,
+    "telephone": "0981256068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane à rêves\"",
+    "resultStructId": "709523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee lucien guitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6868779649354785,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371827",
+    "mail": "info@lesetoilesbrillantes.fr",
+    "distance": 190073,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles brillantes\"",
+    "resultStructId": "709534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371875",
+    "mail": "info@lesetoileslumineuses.fr",
+    "distance": 190073,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles lumineuses\"",
+    "resultStructId": "709535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "56248976",
+    "mail": "contact@creche-marins-deau-douce.com",
+    "distance": 190151,
+    "latitude": 47.42810565132644,
+    "telephone": "0765780843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Marin d'eau douce\"",
+    "resultStructId": "709557",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7104497994847437,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "37280656",
+    "mail": "choupinette037@gmail.com",
+    "distance": 190440,
+    "latitude": 47.4206424030245,
+    "telephone": "0102010201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'ilôt calinoux\"",
+    "resultStructId": "709554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "193 rue du pas notre dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6978555477992637,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "37630936",
+    "mail": "ilot.castors@cispeo.fr",
+    "distance": 190521,
+    "latitude": 47.42013303388615,
+    "telephone": "0247438236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Îlot Castors\"",
+    "resultStructId": "707216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911467",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 190521,
+    "latitude": 47.42013303388615,
+    "telephone": "0247216990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Monconseil\"",
+    "resultStructId": "568406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "60361266",
+    "mail": "arbreopetits@outlook.fr",
+    "distance": 190773,
+    "latitude": 47.41259435868499,
+    "telephone": "0247000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'arbre ô petits\"",
+    "resultStructId": "709530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pinguet guidon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6846584801557132,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33518684",
+    "mail": "contact@capu-signe.fr",
+    "distance": 190963,
+    "latitude": 47.40992133305931,
+    "telephone": "0609906666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Maginot\"",
+    "resultStructId": "709514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue maginot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682524459401158,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "46215926",
+    "mail": "jardin.alice@cispeo.fr",
+    "distance": 191348,
+    "latitude": 47.406587531562934,
+    "telephone": "0247546805",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil\"Le Jardin d'Alice\" - Cispéo",
+    "resultStructId": "706535",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "9 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6841484410016707,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920368",
+    "mail": "tourbillon@people-and-baby.com",
+    "distance": 192158,
+    "latitude": 47.39306439063125,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tourbillon",
+    "resultStructId": "702062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard de preuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6686870943207984,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911725",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 192283,
+    "latitude": 47.39547859621743,
+    "telephone": "0247372515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"des Tanneurs\"",
+    "resultStructId": "568409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean duval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6793802249330473,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911381",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 192355,
+    "latitude": 47.39611098158418,
+    "telephone": "0247216513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Paul Louis Courier\"",
+    "resultStructId": "568404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue paul louiscourier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6833025538523544,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927377",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 192426,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Charles Boutard\"",
+    "resultStructId": "568303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911682",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 192426,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Charles Boutard\"",
+    "resultStructId": "568401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13038497",
+    "mail": "tours.delperier@koalakids.fr",
+    "distance": 192474,
+    "latitude": 47.39285798930196,
+    "telephone": "0247558409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Koala Kids\"",
+    "resultStructId": "709522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue georges delperier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911596",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 192662,
+    "latitude": 47.39189141622262,
+    "telephone": "0247216550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Halles",
+    "resultStructId": "568302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place gaston pailhou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6800692162089639,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13013635",
+    "mail": "i.proust@chu-tours.fr",
+    "distance": 192663,
+    "latitude": 47.38747917566849,
+    "telephone": "0247474767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du CHRU de Tours",
+    "resultStructId": "155908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevard tonnelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6672174594855123,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59372445",
+    "mail": "lakazdetatane@leszozios.fr",
+    "distance": 192745,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - La Kaz de Tatane\"",
+    "resultStructId": "709552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59372491",
+    "mail": "leszibous@leszozios.fr",
+    "distance": 192745,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - les Zibous\"",
+    "resultStructId": "709553",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du telegraphe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845204",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 192794,
+    "latitude": 47.388832498345565,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de St Eloi\"",
+    "resultStructId": "709528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue leon boyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6750377620932363,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845075",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les Petits Ours\"",
+    "resultStructId": "709543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "33550880",
+    "mail": "contact@capu-signe.fr",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe des 2 Lions\"",
+    "resultStructId": "709513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue james watt - zac des2 lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59371171",
+    "mail": "tours@baby-trees.fr",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Daniel Mayer\"",
+    "resultStructId": "709518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33559228",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0981671123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les petits Lions\"",
+    "resultStructId": "709540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "59372780",
+    "mail": "tours@baby-trees.fr",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Pierre GANDET\"",
+    "resultStructId": "709562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12845118",
+    "mail": "contact@amaltheeweb.fr",
+    "distance": 193082,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La jolie tribu\"",
+    "resultStructId": "155718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911338",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 193105,
+    "latitude": 47.390619741511145,
+    "telephone": "0247216061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Heurteloup\"",
+    "resultStructId": "568403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6893126354608837,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280805",
+    "mail": "contact@capu-signe.fr",
+    "distance": 193130,
+    "latitude": 47.38365569602571,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Richer\"",
+    "resultStructId": "709512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 b rue francois richer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6697921402587195,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845032",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 193215,
+    "latitude": 47.387622173063846,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière des Prébendes\"",
+    "resultStructId": "709527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jehan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6838692059416517,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59370920",
+    "mail": "contact@capu-signe.fr",
+    "distance": 193271,
+    "latitude": 47.394116521429346,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capus'Signe Velpeau\"",
+    "resultStructId": "709511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "195bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041169790222056,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33491390",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 193308,
+    "latitude": 47.38445324470362,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de Rabelais\"",
+    "resultStructId": "709525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place rabelais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12722431",
+    "mail": "confetti@cispeo.fr",
+    "distance": 193350,
+    "latitude": 47.38164289905219,
+    "telephone": "0247375858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Confetti\" - Cispeo",
+    "resultStructId": "707215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911424",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 193350,
+    "latitude": 47.38164289905219,
+    "telephone": "0247216383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Tonnellé\"",
+    "resultStructId": "568405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12919508",
+    "mail": "direction@crechendo-tours.fr",
+    "distance": 193391,
+    "latitude": 47.38355298054619,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Creche'n do\"",
+    "resultStructId": "709517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6771943120393802,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008905",
+    "mail": "les3ptitstours@liveli.fr",
+    "distance": 193467,
+    "latitude": 47.389391333002685,
+    "telephone": "0230963505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 p'tits Tours",
+    "resultStructId": "535402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6962924209072655,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371467",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 193515,
+    "latitude": 47.385791528441416,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crèche\"LA POUPONNIERE DU PARC DES PREBENDES\"",
+    "resultStructId": "709526",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue reneboylesve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6873360458895562,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911295",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 193630,
+    "latitude": 47.38647223760736,
+    "telephone": "0247216512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"Grécourt\"",
+    "resultStructId": "568402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue grecourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6926456205845446,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13062491",
+    "mail": "contact@creche-lajardiniere.fr",
+    "distance": 193657,
+    "latitude": 47.380931654065996,
+    "telephone": "0644751812",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Jardinière\"",
+    "resultStructId": "709524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "176 bis rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12997037",
+    "mail": "afc974@gmail.com",
+    "distance": 193723,
+    "latitude": 47.385791528441416,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba\" Crèche'N Do\"",
+    "resultStructId": "709564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 4 septembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6933996694277831,
+    "ville": "tours",
+    "cp": "187037000"
+  },
+  {
+    "resultId": "12911252",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 193748,
+    "latitude": 47.37936397665471,
+    "telephone": "0247216759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Giraudeau\"",
+    "resultStructId": "568304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue du sergent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6754527280832082,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13024264",
+    "mail": "cosson.michel@giraudeau37.fr",
+    "distance": 193758,
+    "latitude": 47.38087022303111,
+    "telephone": "0247385690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sitarine\"",
+    "resultStructId": "12630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6801584527584593,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12920368",
+    "mail": "tourbillon@people-and-baby.com",
+    "distance": 126264,
+    "latitude": 47.39306439063125,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tourbillon",
+    "resultStructId": "702062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49boulevard de preuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6686870943207984,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13013635",
+    "mail": "i.proust@chu-tours.fr",
+    "distance": 126285,
+    "latitude": 47.38747917566849,
+    "telephone": "0247474767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale du CHRU de Tours",
+    "resultStructId": "155908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevard tonnelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6672174594855123,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280805",
+    "mail": "contact@capu-signe.fr",
+    "distance": 126564,
+    "latitude": 47.38365569602571,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Richer\"",
+    "resultStructId": "709512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 b rue francois richer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6697921402587195,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911424",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126655,
+    "latitude": 47.38164289905219,
+    "telephone": "0247216383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Tonnellé\"",
+    "resultStructId": "568405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12722431",
+    "mail": "confetti@cispeo.fr",
+    "distance": 126655,
+    "latitude": 47.38164289905219,
+    "telephone": "0247375858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Confetti\" - Cispeo",
+    "resultStructId": "707215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue michel bauge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6703708971865872,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911768",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126656,
+    "latitude": 47.42217674640229,
+    "telephone": "0247216991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Europe-Chateaubriand\"",
+    "resultStructId": "568410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue armentieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6824411750785915,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12722345",
+    "mail": "petite.gabare@cispeo.fr",
+    "distance": 126658,
+    "latitude": 47.42097968177565,
+    "telephone": "0972117089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite Gabare\" - Cispeo",
+    "resultStructId": "707211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7-9 rue de tourcoing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6821454304365434,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12927377",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126742,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Charles Boutard\"",
+    "resultStructId": "568303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911682",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126742,
+    "latitude": 47.392529601821,
+    "telephone": "0247331897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Charles Boutard\"",
+    "resultStructId": "568401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16 rue dabilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.675007252805314,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845204",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 126829,
+    "latitude": 47.388832498345565,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de St Eloi\"",
+    "resultStructId": "709528",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue leon boyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6750377620932363,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008303",
+    "mail": "lejardindelacigogne@gmail.com",
+    "distance": 126889,
+    "latitude": 47.42067178855852,
+    "telephone": "0245340060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Jardin de la Cigogne\"",
+    "resultStructId": "703304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de lille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6851806096111779,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13038497",
+    "mail": "tours.delperier@koalakids.fr",
+    "distance": 126909,
+    "latitude": 47.39285798930196,
+    "telephone": "0247558409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Koala Kids\"",
+    "resultStructId": "709522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue georges delperier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33518684",
+    "mail": "contact@capu-signe.fr",
+    "distance": 126914,
+    "latitude": 47.40992133305931,
+    "telephone": "0609906666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe Maginot\"",
+    "resultStructId": "709514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue maginot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682524459401158,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911725",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 126997,
+    "latitude": 47.39547859621743,
+    "telephone": "0247372515",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"des Tanneurs\"",
+    "resultStructId": "568409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean duval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6793802249330473,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371419",
+    "mail": "mclacabaneareves@gmail.com",
+    "distance": 127006,
+    "latitude": 47.42109825802052,
+    "telephone": "0981256068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane à rêves\"",
+    "resultStructId": "709523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee lucien guitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6868779649354785,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "60361266",
+    "mail": "arbreopetits@outlook.fr",
+    "distance": 127016,
+    "latitude": 47.41259435868499,
+    "telephone": "0247000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'arbre ô petits\"",
+    "resultStructId": "709530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pinguet guidon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6846584801557132,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911252",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127083,
+    "latitude": 47.37936397665471,
+    "telephone": "0247216759",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Giraudeau\"",
+    "resultStructId": "568304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue du sergent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6754527280832082,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33491390",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127103,
+    "latitude": 47.38445324470362,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière de Rabelais\"",
+    "resultStructId": "709525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place rabelais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "46215926",
+    "mail": "jardin.alice@cispeo.fr",
+    "distance": 127105,
+    "latitude": 47.406587531562934,
+    "telephone": "0247546805",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil\"Le Jardin d'Alice\" - Cispéo",
+    "resultStructId": "706535",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "9 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6841484410016707,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12919508",
+    "mail": "direction@crechendo-tours.fr",
+    "distance": 127111,
+    "latitude": 47.38355298054619,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Creche'n do\"",
+    "resultStructId": "709517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6771943120393802,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911596",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127129,
+    "latitude": 47.39189141622262,
+    "telephone": "0247216550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Halles",
+    "resultStructId": "568302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place gaston pailhou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6800692162089639,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13062491",
+    "mail": "contact@creche-lajardiniere.fr",
+    "distance": 127187,
+    "latitude": 47.380931654065996,
+    "telephone": "0644751812",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Jardinière\"",
+    "resultStructId": "709524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "176 bis rue giraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773742724141966,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "33446341",
+    "mail": "lesptitesbullessaperlipopettemicrocreche@gmail.com",
+    "distance": 127269,
+    "latitude": 47.37740882105073,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tites Bulles\" Saperlipopette",
+    "resultStructId": "709547",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "285 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6773385777943981,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911381",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127272,
+    "latitude": 47.39611098158418,
+    "telephone": "0247216513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Paul Louis Courier\"",
+    "resultStructId": "568404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue paul louiscourier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6833025538523544,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13010367",
+    "mail": "boutchou.service@cispeo.fr",
+    "distance": 127293,
+    "latitude": 47.376727994849425,
+    "telephone": "0247661234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Bout'Chou Service\" - CISPEO Petite Enfance",
+    "resultStructId": "483601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "303 ruegiraudeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6774367379988431,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845763",
+    "mail": "choupinette037@gmail.com",
+    "distance": 127325,
+    "latitude": 47.42281799332129,
+    "telephone": "0771762196",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"L'ilôt tout doux\"",
+    "resultStructId": "709555",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee ferdinand fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.691647658506019,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13024264",
+    "mail": "cosson.michel@giraudeau37.fr",
+    "distance": 127393,
+    "latitude": 47.38087022303111,
+    "telephone": "0247385690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sitarine\"",
+    "resultStructId": "12630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6801584527584593,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12844903",
+    "mail": "saperlipopettemicrocreche@gmail.com",
+    "distance": 127422,
+    "latitude": 47.37700798065324,
+    "telephone": "0234360364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Saperlipopette\"",
+    "resultStructId": "709546",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "201 rue auguste chevallier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6792869091250523,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12845032",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127507,
+    "latitude": 47.387622173063846,
+    "telephone": "0234534082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Pouponnière des Prébendes\"",
+    "resultStructId": "709527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jehan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6838692059416517,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13008819",
+    "mail": "leminirelais@gmail.com",
+    "distance": 127666,
+    "latitude": 47.37562918430795,
+    "telephone": "0247642929",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmini-relais",
+    "resultStructId": "12271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue lafayette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.682159798151779,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371467",
+    "mail": "contact@lapouponniere.fr",
+    "distance": 127805,
+    "latitude": 47.385791528441416,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crèche\"LA POUPONNIERE DU PARC DES PREBENDES\"",
+    "resultStructId": "709526",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue reneboylesve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6873360458895562,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "37280656",
+    "mail": "choupinette037@gmail.com",
+    "distance": 127827,
+    "latitude": 47.4206424030245,
+    "telephone": "0102010201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"l'ilôt calinoux\"",
+    "resultStructId": "709554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "193 rue du pas notre dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6978555477992637,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911338",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127839,
+    "latitude": 47.390619741511145,
+    "telephone": "0247216061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Heurteloup\"",
+    "resultStructId": "568403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6893126354608837,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371171",
+    "mail": "tours@baby-trees.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Daniel Mayer\"",
+    "resultStructId": "709518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59372780",
+    "mail": "tours@baby-trees.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Pierre GANDET\"",
+    "resultStructId": "709562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place pierre gandet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "33550880",
+    "mail": "contact@capu-signe.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0971215068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capu'Signe des 2 Lions\"",
+    "resultStructId": "709513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue james watt - zac des2 lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12845075",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les Petits Ours\"",
+    "resultStructId": "709543",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "33559228",
+    "mail": "lajolietribu@gmail.com",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981671123",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les petits Lions\"",
+    "resultStructId": "709540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2lions",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12845118",
+    "mail": "contact@amaltheeweb.fr",
+    "distance": 127843,
+    "latitude": 47.39090246443063,
+    "telephone": "0981210290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La jolie tribu\"",
+    "resultStructId": "155718",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue james watt - zac des 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6894490174285086,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911467",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 127903,
+    "latitude": 47.42013303388615,
+    "telephone": "0247216990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale \"Monconseil\"",
+    "resultStructId": "568406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "37630936",
+    "mail": "ilot.castors@cispeo.fr",
+    "distance": 127903,
+    "latitude": 47.42013303388615,
+    "telephone": "0247438236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Îlot Castors\"",
+    "resultStructId": "707216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du pere goriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6987381323408609,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12920325",
+    "mail": "tournicoti@people-and-baby.com",
+    "distance": 128171,
+    "latitude": 47.4343766986427,
+    "telephone": "0667266792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Tournicoti\"",
+    "resultStructId": "702061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de la milletiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7060667976286847,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911295",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128180,
+    "latitude": 47.38647223760736,
+    "telephone": "0247216512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"Grécourt\"",
+    "resultStructId": "568402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue grecourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6926456205845446,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12997037",
+    "mail": "afc974@gmail.com",
+    "distance": 128251,
+    "latitude": 47.385791528441416,
+    "telephone": "0613942852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba\" Crèche'N Do\"",
+    "resultStructId": "709564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 4 septembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6933996694277831,
+    "ville": "tours",
+    "cp": "187037000"
+  },
+  {
+    "resultId": "33502322",
+    "mail": "catherinedumilieu@gmail.com",
+    "distance": 128304,
+    "latitude": 47.436047711580244,
+    "telephone": "0624251245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Bulapi&Onidoo\" de Tours",
+    "resultStructId": "709508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 allee du commandantmouchotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7082754022287007,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "13008905",
+    "mail": "les3ptitstours@liveli.fr",
+    "distance": 128381,
+    "latitude": 47.389391333002685,
+    "telephone": "0230963505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 p'tits Tours",
+    "resultStructId": "535402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6962924209072655,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927463",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128428,
+    "latitude": 47.38138785279044,
+    "telephone": "0247708666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Hallebardier\"",
+    "resultStructId": "568502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du hallebardier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6943976315063088,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911811",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128560,
+    "latitude": 47.37339423669492,
+    "telephone": "0247216722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Toulouse Lautrec\"",
+    "resultStructId": "568411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue toulouse lautrec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6935796298025989,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59371827",
+    "mail": "info@lesetoilesbrillantes.fr",
+    "distance": 128609,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles brillantes\"",
+    "resultStructId": "709534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59371875",
+    "mail": "info@lesetoileslumineuses.fr",
+    "distance": 128609,
+    "latitude": 47.42895685928573,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les étoiles lumineuses\"",
+    "resultStructId": "709535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7105940652397617,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "56248976",
+    "mail": "contact@creche-marins-deau-douce.com",
+    "distance": 128614,
+    "latitude": 47.42810565132644,
+    "telephone": "0765780843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Marin d'eau douce\"",
+    "resultStructId": "709557",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue dora maar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7104497994847437,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "12911854",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 128637,
+    "latitude": 47.38355902263876,
+    "telephone": "0247313902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu \"Centre de Vie du Sanitas\"",
+    "resultStructId": "568412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6979358606938096,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59370920",
+    "mail": "contact@capu-signe.fr",
+    "distance": 128851,
+    "latitude": 47.394116521429346,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Capus'Signe Velpeau\"",
+    "resultStructId": "709511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "195bis boulevard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041169790222056,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12975795",
+    "mail": "ribambelle-tours@sfr.fr",
+    "distance": 129084,
+    "latitude": 47.359517668847694,
+    "telephone": "0247250214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ribambelle\"",
+    "resultStructId": "189019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du professeur guillaume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6959996528608717,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "13003874",
+    "mail": "creche.doucelune@orange.fr",
+    "distance": 129158,
+    "latitude": 47.38093072350849,
+    "telephone": "0247202092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Douce Lune\"",
+    "resultStructId": "12156",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5-7 rue guynemer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7041688357611241,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "13010238",
+    "mail": "infos@minimouse.fr",
+    "distance": 129220,
+    "latitude": 47.3851854676611,
+    "telephone": "0247441050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Mini Mousse\"",
+    "resultStructId": "12304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de la tour d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7063670623854386,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12927420",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 129441,
+    "latitude": 47.37684381649533,
+    "telephone": "0247331820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Leccia\"",
+    "resultStructId": "568501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue bourderon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7066944280268038,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "12911209",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 129709,
+    "latitude": 47.365560443941796,
+    "telephone": "0247745636",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective \"des Fontaines\"",
+    "resultStructId": "88211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7065980902831037,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911553",
+    "mail": "service-petiteenfance@ville-tours.fr",
+    "distance": 129735,
+    "latitude": 47.36534501115575,
+    "telephone": "0247745613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fontaines",
+    "resultStructId": "568408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de saussure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7068743884016196,
+    "ville": "tours",
+    "cp": "37200"
+  },
+  {
+    "resultId": "12911510",
+    "mail": "secretariat-petiteenfance@ville-tours.fr",
+    "distance": 130023,
+    "latitude": 47.37465323357523,
+    "telephone": "0247216597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede Rochepinard",
+    "resultStructId": "568407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 jardin guillaume bouzignac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7138987921227494,
+    "ville": "tours",
+    "cp": "37000"
+  },
+  {
+    "resultId": "59372445",
+    "mail": "lakazdetatane@leszozios.fr",
+    "distance": 130056,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - La Kaz de Tatane\"",
+    "resultStructId": "709552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  },
+  {
+    "resultId": "59372491",
+    "mail": "leszibous@leszozios.fr",
+    "distance": 130056,
+    "latitude": 47.40658840325738,
+    "telephone": "0600000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Zozio's - les Zibous\"",
+    "resultStructId": "709553",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du telegraphe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7241027124259429,
+    "ville": "tours",
+    "cp": "37100"
+  }
+]

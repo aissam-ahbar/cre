@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "60380187",
+    "mail": "contact@tilloucreche.com",
+    "distance": 9966,
+    "latitude": 48.8186318088835,
+    "telephone": "0147505413",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TILLOUCHAVILLE",
+    "resultStructId": "710116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "196 avenue roger salengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1975382276576276,
+    "ville": "chaville",
+    "cp": "92370"
+  },
+  {
+    "resultId": "37783804",
+    "mail": "",
+    "distance": 9966,
+    "latitude": 48.8186318088835,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MOM",
+    "resultStructId": "162901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "196 avenue roger salengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1975382276576276,
+    "ville": "chaville",
+    "cp": "92370"
+  },
+  {
+    "resultId": "12595177",
+    "mail": "vice-secretaire@lespetitsmousses-chaville.org",
+    "distance": 10405,
+    "latitude": 48.81417752047371,
+    "telephone": "0623584488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS MOUSSES",
+    "resultStructId": "66204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la fontaine henry iv",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1942139973917194,
+    "ville": "chaville",
+    "cp": "92370"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12634737",
+    "mail": "contact@babilou.com",
+    "distance": 134954,
+    "latitude": 48.630690053332785,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Malo Brégeons",
+    "resultStructId": "416602",
+    "omegaId": "8791",
+    "avip": false,
+    "adresse": "3 rue des bregeons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9746779748381451,
+    "ville": "stmalo",
+    "cp": "35400"
+  },
+  {
+    "resultId": "31891273",
+    "mail": "info@la-maison-bleue.fr",
+    "distance": 135203,
+    "latitude": 48.628420302010255,
+    "telephone": "0146540574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSafran - La Maison Bleue - Saint Malo",
+    "resultStructId": "675702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue du grandjardin 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9859234944124302,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634565",
+    "mail": "accueil.haltegarderie@saint-malo.fr",
+    "distance": 136511,
+    "latitude": 48.63955848074725,
+    "telephone": "0299816347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBougainville - CCAS - Saint Malo",
+    "resultStructId": "675703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du grandpassage 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9927602743176054,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634522",
+    "mail": "accueil.poupie@saint-malo.fr",
+    "distance": 137098,
+    "latitude": 48.63565864840527,
+    "telephone": "0299811009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPoupie - CCAS - Saint Malo",
+    "resultStructId": "675708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de bel-air 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0156940675379773,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634780",
+    "mail": "accueil.turpin@saint-malo.fr",
+    "distance": 137637,
+    "latitude": 48.6559753674167,
+    "telephone": "0299404917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPaul Turpin - CCAS - Saint Malo",
+    "resultStructId": "675707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue marie-laurentbarrault 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9829412060880742,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634479",
+    "mail": "accueil.graindesable@saint-malo.fr",
+    "distance": 138198,
+    "latitude": 48.65200487005851,
+    "telephone": "0223185800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Grain de Sable - CCAS - Saint-Malo",
+    "resultStructId": "675709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place annede bretagne 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0058944071275344,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634780",
+    "mail": "accueil.turpin@saint-malo.fr",
+    "distance": 111589,
+    "latitude": 48.6559753674167,
+    "telephone": "0299404917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPaul Turpin - CCAS - Saint Malo",
+    "resultStructId": "675707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue marie-laurentbarrault 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9829412060880742,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634737",
+    "mail": "contact@babilou.com",
+    "distance": 111836,
+    "latitude": 48.630690053332785,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Malo Brégeons",
+    "resultStructId": "416602",
+    "omegaId": "8791",
+    "avip": false,
+    "adresse": "3 rue des bregeons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9746779748381451,
+    "ville": "stmalo",
+    "cp": "35400"
+  },
+  {
+    "resultId": "31891273",
+    "mail": "info@la-maison-bleue.fr",
+    "distance": 112700,
+    "latitude": 48.628420302010255,
+    "telephone": "0146540574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSafran - La Maison Bleue - Saint Malo",
+    "resultStructId": "675702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue du grandjardin 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9859234944124302,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634565",
+    "mail": "accueil.haltegarderie@saint-malo.fr",
+    "distance": 112806,
+    "latitude": 48.63955848074725,
+    "telephone": "0299816347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBougainville - CCAS - Saint Malo",
+    "resultStructId": "675703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du grandpassage 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9927602743176054,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634479",
+    "mail": "accueil.graindesable@saint-malo.fr",
+    "distance": 113331,
+    "latitude": 48.65200487005851,
+    "telephone": "0223185800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Grain de Sable - CCAS - Saint-Malo",
+    "resultStructId": "675709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place annede bretagne 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0058944071275344,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634522",
+    "mail": "accueil.poupie@saint-malo.fr",
+    "distance": 114544,
+    "latitude": 48.63565864840527,
+    "telephone": "0299811009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPoupie - CCAS - Saint Malo",
+    "resultStructId": "675708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de bel-air 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0156940675379773,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634737",
+    "mail": "contact@babilou.com",
+    "distance": 134954,
+    "latitude": 48.630690053332785,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Malo Brégeons",
+    "resultStructId": "416602",
+    "omegaId": "8791",
+    "avip": false,
+    "adresse": "3 rue des bregeons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9746779748381451,
+    "ville": "stmalo",
+    "cp": "35400"
+  },
+  {
+    "resultId": "31891273",
+    "mail": "info@la-maison-bleue.fr",
+    "distance": 135203,
+    "latitude": 48.628420302010255,
+    "telephone": "0146540574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSafran - La Maison Bleue - Saint Malo",
+    "resultStructId": "675702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue du grandjardin 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9859234944124302,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634565",
+    "mail": "accueil.haltegarderie@saint-malo.fr",
+    "distance": 136511,
+    "latitude": 48.63955848074725,
+    "telephone": "0299816347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieBougainville - CCAS - Saint Malo",
+    "resultStructId": "675703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du grandpassage 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9927602743176054,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634522",
+    "mail": "accueil.poupie@saint-malo.fr",
+    "distance": 137098,
+    "latitude": 48.63565864840527,
+    "telephone": "0299811009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPoupie - CCAS - Saint Malo",
+    "resultStructId": "675708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue de bel-air 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0156940675379773,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634780",
+    "mail": "accueil.turpin@saint-malo.fr",
+    "distance": 137637,
+    "latitude": 48.6559753674167,
+    "telephone": "0299404917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPaul Turpin - CCAS - Saint Malo",
+    "resultStructId": "675707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue marie-laurentbarrault 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.9829412060880742,
+    "ville": "stmalo",
+    "cp": ""
+  },
+  {
+    "resultId": "12634479",
+    "mail": "accueil.graindesable@saint-malo.fr",
+    "distance": 138198,
+    "latitude": 48.65200487005851,
+    "telephone": "0223185800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Grain de Sable - CCAS - Saint-Malo",
+    "resultStructId": "675709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place annede bretagne 35400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.0058944071275344,
+    "ville": "stmalo",
+    "cp": ""
+  }
+]

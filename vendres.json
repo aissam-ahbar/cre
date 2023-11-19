@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12781986",
+    "mail": "laribambelle@vendres.com",
+    "distance": 118050,
+    "latitude": 43.26944089017113,
+    "telephone": "0467352779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Ribambelle",
+    "resultStructId": "181116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du languedoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2193535565518276,
+    "ville": "vendres",
+    "cp": "34350"
+  },
+  {
+    "resultId": "12781986",
+    "mail": "laribambelle@vendres.com",
+    "distance": 65813,
+    "latitude": 43.26944089017113,
+    "telephone": "0467352779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Ribambelle",
+    "resultStructId": "181116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du languedoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2193535565518276,
+    "ville": "vendres",
+    "cp": "34350"
+  }
+]

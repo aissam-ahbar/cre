@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12625277",
+    "mail": "osny@babilou.com",
+    "distance": 162873,
+    "latitude": 49.070116259446095,
+    "telephone": "0130329230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise Babilou",
+    "resultStructId": "3322",
+    "omegaId": "5092",
+    "avip": false,
+    "adresse": "chemin de livilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0689730961222117,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625191",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 163201,
+    "latitude": 49.066355622206274,
+    "telephone": "0130325384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"La farandole\"",
+    "resultStructId": "3320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07254625774071,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625363",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 163201,
+    "latitude": 49.066355622206274,
+    "telephone": "0130325384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07254625774071,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625234",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 164116,
+    "latitude": 49.06150381351818,
+    "telephone": "0130302956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minicrèche collective \"A petits pas\"",
+    "resultStructId": "3321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de puiseux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0533541846007255,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625234",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 188109,
+    "latitude": 49.06150381351818,
+    "telephone": "0130302956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minicrèche collective \"A petits pas\"",
+    "resultStructId": "3321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de puiseux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0533541846007255,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625277",
+    "mail": "osny@babilou.com",
+    "distance": 189305,
+    "latitude": 49.070116259446095,
+    "telephone": "0130329230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise Babilou",
+    "resultStructId": "3322",
+    "omegaId": "5092",
+    "avip": false,
+    "adresse": "chemin de livilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0689730961222117,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625191",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 189538,
+    "latitude": 49.066355622206274,
+    "telephone": "0130325384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"La farandole\"",
+    "resultStructId": "3320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07254625774071,
+    "ville": "osny",
+    "cp": "95520"
+  },
+  {
+    "resultId": "12625363",
+    "mail": "c.nowack@ville-osny.fr",
+    "distance": 189538,
+    "latitude": 49.066355622206274,
+    "telephone": "0130325384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.07254625774071,
+    "ville": "osny",
+    "cp": "95520"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12764743",
+    "mail": "haltegarderie@paysdelourcq.fr",
+    "distance": 115361,
+    "latitude": 49.024607820018105,
+    "telephone": "0160615720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie du Pays de l'Ourcq",
+    "resultStructId": "89421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0311221201851395,
+    "ville": "ocquerre",
+    "cp": "77440"
+  },
+  {
+    "resultId": "12764743",
+    "mail": "haltegarderie@paysdelourcq.fr",
+    "distance": 162652,
+    "latitude": 49.024607820018105,
+    "telephone": "0160615720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie du Pays de l'Ourcq",
+    "resultStructId": "89421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue louis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0311221201851395,
+    "ville": "ocquerre",
+    "cp": "77440"
+  }
+]

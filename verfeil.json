@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12727032",
+    "mail": "creche.scoubidou@free.fr",
+    "distance": 170195,
+    "latitude": 43.65930270222342,
+    "telephone": "0561748491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheScoubidou",
+    "resultStructId": "498001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6637326249540165,
+    "ville": "verfeil",
+    "cp": "31590"
+  },
+  {
+    "resultId": "12727032",
+    "mail": "creche.scoubidou@free.fr",
+    "distance": 179855,
+    "latitude": 43.65930270222342,
+    "telephone": "0561748491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheScoubidou",
+    "resultStructId": "498001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6637326249540165,
+    "ville": "verfeil",
+    "cp": "31590"
+  }
+]

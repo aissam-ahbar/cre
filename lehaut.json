@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "53886515",
+    "mail": "contactcreches@infans.fr",
+    "distance": 159741,
+    "latitude": 46.658827074650524,
+    "telephone": "0781538944",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Infans- Foncine le Haut",
+    "resultStructId": "708810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des isles 39460 foncine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.074708658383846,
+    "ville": "lehaut",
+    "cp": ""
+  },
+  {
+    "resultId": "13057288",
+    "mail": "preenbulle@sudgrenoblois.fr",
+    "distance": 423455,
+    "latitude": 45.12199121483393,
+    "telephone": "0476258180",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EajePré en Bulle",
+    "resultStructId": "13398",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1017 avenue d'uriage 38410 vaulnaveys",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.814656963833048,
+    "ville": "lehaut",
+    "cp": ""
+  },
+  {
+    "resultId": "13057288",
+    "mail": "preenbulle@sudgrenoblois.fr",
+    "distance": 131046,
+    "latitude": 45.12199121483393,
+    "telephone": "0476258180",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EajePré en Bulle",
+    "resultStructId": "13398",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1017 avenue d'uriage 38410 vaulnaveys",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.814656963833048,
+    "ville": "lehaut",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12624890",
+    "mail": "ccas@ville-montigny95.fr",
+    "distance": 168410,
+    "latitude": 48.9959595861371,
+    "telephone": "0139781300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13bis rue elsa triolet 95370 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2036041513744355,
+    "ville": "lescormeilles",
+    "cp": ""
+  },
+  {
+    "resultId": "13076767",
+    "mail": "",
+    "distance": 169569,
+    "latitude": 48.98762861729536,
+    "telephone": "0130263220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil",
+    "resultStructId": "698507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue simone de beauvoir - residence lesfossettes 95370 montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.187704520887295,
+    "ville": "lescormeilles",
+    "cp": ""
+  }
+]

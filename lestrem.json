@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43074451",
+    "mail": "lestremini@micro-baby.com",
+    "distance": 15916,
+    "latitude": 50.61518444498518,
+    "telephone": "0321022608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lestremini",
+    "resultStructId": "233011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "646route de bethune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.687941606396663,
+    "ville": "lestrem",
+    "cp": "62136"
+  },
+  {
+    "resultId": "12971409",
+    "mail": "refletlunaire@micro-baby.com",
+    "distance": 16123,
+    "latitude": 50.61629846999786,
+    "telephone": "0321027663",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "REFLETLUNAIRE",
+    "resultStructId": "216102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue nelson mandela",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.68018130256974,
+    "ville": "lestrem",
+    "cp": "62136"
+  }
+]

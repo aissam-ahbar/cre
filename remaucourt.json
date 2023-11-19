@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "31803090",
+    "mail": "remaucourt@rigolocommelavie.fr",
+    "distance": 156054,
+    "latitude": 49.896029853040964,
+    "telephone": "0323680161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE",
+    "resultStructId": "81105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3432350853309813,
+    "ville": "remaucourt",
+    "cp": "02100"
+  },
+  {
+    "resultId": "31803090",
+    "mail": "remaucourt@rigolocommelavie.fr",
+    "distance": 78080,
+    "latitude": 49.896029853040964,
+    "telephone": "0323680161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE",
+    "resultStructId": "81105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3432350853309813,
+    "ville": "remaucourt",
+    "cp": "02100"
+  }
+]

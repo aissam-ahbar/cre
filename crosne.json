@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "30880431",
+    "mail": "info@baboune.fr",
+    "distance": 198990,
+    "latitude": 48.71482456166085,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBaboune Crosne",
+    "resultStructId": "70401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis place boileau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.460257349839989,
+    "ville": "crosne",
+    "cp": "91560"
+  },
+  {
+    "resultId": "12518164",
+    "mail": "dominiquedelattre@crosne.fr",
+    "distance": 199105,
+    "latitude": 48.716393356314306,
+    "telephone": "0169834541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance Pierre Mendès France - Crosne",
+    "resultStructId": "831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenuede le haute plaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.457884300646463,
+    "ville": "crosne",
+    "cp": "91560"
+  },
+  {
+    "resultId": "30880431",
+    "mail": "info@baboune.fr",
+    "distance": 152881,
+    "latitude": 48.71482456166085,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBaboune Crosne",
+    "resultStructId": "70401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis place boileau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.460257349839989,
+    "ville": "crosne",
+    "cp": "91560"
+  },
+  {
+    "resultId": "12518164",
+    "mail": "dominiquedelattre@crosne.fr",
+    "distance": 153050,
+    "latitude": 48.716393356314306,
+    "telephone": "0169834541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance Pierre Mendès France - Crosne",
+    "resultStructId": "831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenuede le haute plaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.457884300646463,
+    "ville": "crosne",
+    "cp": "91560"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12799831",
+    "mail": "lesptitsbouts@live.fr",
+    "distance": 152267,
+    "latitude": 43.08057921360832,
+    "telephone": "0562397699",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Bouts",
+    "resultStructId": "708413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des artigues 65150 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4827538197917469,
+    "ville": "deneste",
+    "cp": ""
+  },
+  {
+    "resultId": "57688277",
+    "mail": "",
+    "distance": 152596,
+    "latitude": 43.077416541548175,
+    "telephone": "0562397699",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Bouts Saint Laurent de Neste PPI",
+    "resultStructId": "708415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone picpyrenees innovation route de tarbes-toulouse 65150 st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4828614919581637,
+    "ville": "deneste",
+    "cp": ""
+  }
+]

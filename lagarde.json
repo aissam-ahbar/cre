@@ -1,0 +1,770 @@
+[
+  {
+    "resultId": "60318626",
+    "mail": "aboutin@ville-lagarde.fr",
+    "distance": 121142,
+    "latitude": 43.11937412537258,
+    "telephone": "0494918077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUCIOLES",
+    "resultStructId": "708770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue capitaine perraud 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996796758607441,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900760",
+    "mail": "a.frank@ville-lagarde.fr",
+    "distance": 121845,
+    "latitude": 43.11859371014241,
+    "telephone": "0498011529",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AnneFrank",
+    "resultStructId": "708769",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "435 avenue jacques duclos 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.005812696136479,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900803",
+    "mail": "mtenaudier@ville-lagarde.fr",
+    "distance": 121935,
+    "latitude": 43.123987549457155,
+    "telephone": "0635405533",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesGardinous",
+    "resultStructId": "708763",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place louise michel 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.01031450009226,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900846",
+    "mail": "leidrolles@ville-lagarde.fr",
+    "distance": 122237,
+    "latitude": 43.124132459786836,
+    "telephone": "0498011590",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeïDrolles",
+    "resultStructId": "708768",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du nouveau pigeonnier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014462166349776,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900932",
+    "mail": "leslutins@ville-lagarde.fr",
+    "distance": 122331,
+    "latitude": 43.13413228760608,
+    "telephone": "0494089904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "708764",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue daubenton 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021669543545597,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900889",
+    "mail": "les-elfes.fct@ville-lagarde.fr",
+    "distance": 122353,
+    "latitude": 43.13397769211906,
+    "telephone": "0494089905",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesElfes",
+    "resultStructId": "708766",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "122 rue le corbusier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021872711893883,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "13049290",
+    "mail": "stephanie.lucide@les-doigts-de-la-main.fr",
+    "distance": 122594,
+    "latitude": 43.135673916816685,
+    "telephone": "0782171956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESDOIGTS DE LA MAIN",
+    "resultStructId": "13212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des 4 chemins 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.026086244544308,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "22142049",
+    "mail": "lagarde@creche-la-maison-bleue.fr",
+    "distance": 123060,
+    "latitude": 43.150172916636514,
+    "telephone": "0494287785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesViolettes",
+    "resultStructId": "16902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1552 avenue de draguignan 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.040569941120045,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "22142049",
+    "mail": "lagarde@creche-la-maison-bleue.fr",
+    "distance": 274232,
+    "latitude": 43.150172916636514,
+    "telephone": "0494287785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesViolettes",
+    "resultStructId": "16902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1552 avenue de draguignan 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.040569941120045,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "13049290",
+    "mail": "stephanie.lucide@les-doigts-de-la-main.fr",
+    "distance": 274695,
+    "latitude": 43.135673916816685,
+    "telephone": "0782171956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESDOIGTS DE LA MAIN",
+    "resultStructId": "13212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des 4 chemins 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.026086244544308,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900889",
+    "mail": "les-elfes.fct@ville-lagarde.fr",
+    "distance": 274939,
+    "latitude": 43.13397769211906,
+    "telephone": "0494089905",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesElfes",
+    "resultStructId": "708766",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "122 rue le corbusier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021872711893883,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900932",
+    "mail": "leslutins@ville-lagarde.fr",
+    "distance": 274960,
+    "latitude": 43.13413228760608,
+    "telephone": "0494089904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "708764",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue daubenton 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021669543545597,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900846",
+    "mail": "leidrolles@ville-lagarde.fr",
+    "distance": 275080,
+    "latitude": 43.124132459786836,
+    "telephone": "0498011590",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeïDrolles",
+    "resultStructId": "708768",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du nouveau pigeonnier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014462166349776,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900803",
+    "mail": "mtenaudier@ville-lagarde.fr",
+    "distance": 275386,
+    "latitude": 43.123987549457155,
+    "telephone": "0635405533",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesGardinous",
+    "resultStructId": "708763",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place louise michel 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.01031450009226,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900760",
+    "mail": "a.frank@ville-lagarde.fr",
+    "distance": 275500,
+    "latitude": 43.11859371014241,
+    "telephone": "0498011529",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AnneFrank",
+    "resultStructId": "708769",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "435 avenue jacques duclos 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.005812696136479,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "60318626",
+    "mail": "aboutin@ville-lagarde.fr",
+    "distance": 276211,
+    "latitude": 43.11937412537258,
+    "telephone": "0494918077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUCIOLES",
+    "resultStructId": "708770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue capitaine perraud 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996796758607441,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "60318626",
+    "mail": "aboutin@ville-lagarde.fr",
+    "distance": 177929,
+    "latitude": 43.11937412537258,
+    "telephone": "0494918077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUCIOLES",
+    "resultStructId": "708770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue capitaine perraud 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996796758607441,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900760",
+    "mail": "a.frank@ville-lagarde.fr",
+    "distance": 178652,
+    "latitude": 43.11859371014241,
+    "telephone": "0498011529",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AnneFrank",
+    "resultStructId": "708769",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "435 avenue jacques duclos 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.005812696136479,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900803",
+    "mail": "mtenaudier@ville-lagarde.fr",
+    "distance": 178814,
+    "latitude": 43.123987549457155,
+    "telephone": "0635405533",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesGardinous",
+    "resultStructId": "708763",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place louise michel 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.01031450009226,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900846",
+    "mail": "leidrolles@ville-lagarde.fr",
+    "distance": 179129,
+    "latitude": 43.124132459786836,
+    "telephone": "0498011590",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeïDrolles",
+    "resultStructId": "708768",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du nouveau pigeonnier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014462166349776,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900932",
+    "mail": "leslutins@ville-lagarde.fr",
+    "distance": 179350,
+    "latitude": 43.13413228760608,
+    "telephone": "0494089904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "708764",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue daubenton 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021669543545597,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900889",
+    "mail": "les-elfes.fct@ville-lagarde.fr",
+    "distance": 179370,
+    "latitude": 43.13397769211906,
+    "telephone": "0494089905",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesElfes",
+    "resultStructId": "708766",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "122 rue le corbusier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021872711893883,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "13049290",
+    "mail": "stephanie.lucide@les-doigts-de-la-main.fr",
+    "distance": 179640,
+    "latitude": 43.135673916816685,
+    "telephone": "0782171956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESDOIGTS DE LA MAIN",
+    "resultStructId": "13212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des 4 chemins 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.026086244544308,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "22142049",
+    "mail": "lagarde@creche-la-maison-bleue.fr",
+    "distance": 180290,
+    "latitude": 43.150172916636514,
+    "telephone": "0494287785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesViolettes",
+    "resultStructId": "16902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1552 avenue de draguignan 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.040569941120045,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "22142049",
+    "mail": "lagarde@creche-la-maison-bleue.fr",
+    "distance": 89704,
+    "latitude": 43.150172916636514,
+    "telephone": "0494287785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesViolettes",
+    "resultStructId": "16902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1552 avenue de draguignan 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.040569941120045,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "13049290",
+    "mail": "stephanie.lucide@les-doigts-de-la-main.fr",
+    "distance": 91346,
+    "latitude": 43.135673916816685,
+    "telephone": "0782171956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESDOIGTS DE LA MAIN",
+    "resultStructId": "13212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des 4 chemins 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.026086244544308,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900932",
+    "mail": "leslutins@ville-lagarde.fr",
+    "distance": 91529,
+    "latitude": 43.13413228760608,
+    "telephone": "0494089904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "708764",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue daubenton 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021669543545597,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900889",
+    "mail": "les-elfes.fct@ville-lagarde.fr",
+    "distance": 91546,
+    "latitude": 43.13397769211906,
+    "telephone": "0494089905",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesElfes",
+    "resultStructId": "708766",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "122 rue le corbusier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021872711893883,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900846",
+    "mail": "leidrolles@ville-lagarde.fr",
+    "distance": 92663,
+    "latitude": 43.124132459786836,
+    "telephone": "0498011590",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeïDrolles",
+    "resultStructId": "708768",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du nouveau pigeonnier 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.014462166349776,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900803",
+    "mail": "mtenaudier@ville-lagarde.fr",
+    "distance": 92693,
+    "latitude": 43.123987549457155,
+    "telephone": "0635405533",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesGardinous",
+    "resultStructId": "708763",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place louise michel 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.01031450009226,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "60318626",
+    "mail": "aboutin@ville-lagarde.fr",
+    "distance": 93261,
+    "latitude": 43.11937412537258,
+    "telephone": "0494918077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUCIOLES",
+    "resultStructId": "708770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue capitaine perraud 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.996796758607441,
+    "ville": "lagarde",
+    "cp": ""
+  },
+  {
+    "resultId": "12900760",
+    "mail": "a.frank@ville-lagarde.fr",
+    "distance": 93309,
+    "latitude": 43.11859371014241,
+    "telephone": "0498011529",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AnneFrank",
+    "resultStructId": "708769",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "435 avenue jacques duclos 83130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.005812696136479,
+    "ville": "lagarde",
+    "cp": ""
+  }
+]

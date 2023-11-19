@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12527151",
+    "mail": "",
+    "distance": 196418,
+    "latitude": 48.74569523522114,
+    "telephone": "0139561006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES NOBLETINS",
+    "resultStructId": "684802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue esnault pelterie78117 toussus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1133673396217194,
+    "ville": "lenoble",
+    "cp": ""
+  },
+  {
+    "resultId": "12989813",
+    "mail": "d.delgrange@auvillagedesgrenouilles.fr",
+    "distance": 30182,
+    "latitude": 50.34818367451933,
+    "telephone": "0652808841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AUVILLAGE DES GRENOUILLES",
+    "resultStructId": "11829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "189 avenue de la fraternite59450 sin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0970138970887446,
+    "ville": "lenoble",
+    "cp": ""
+  },
+  {
+    "resultId": "12786673",
+    "mail": "creche@mairie-sinlenoble.fr",
+    "distance": 30792,
+    "latitude": 50.35061794095714,
+    "telephone": "0327876295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Françoise Dolto",
+    "resultStructId": "7105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "729 rue paul foucaut 59450 sin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.108616781181842,
+    "ville": "lenoble",
+    "cp": ""
+  },
+  {
+    "resultId": "12527151",
+    "mail": "",
+    "distance": 193603,
+    "latitude": 48.74569523522114,
+    "telephone": "0139561006",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES NOBLETINS",
+    "resultStructId": "684802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue esnault pelterie78117 toussus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1133673396217194,
+    "ville": "lenoble",
+    "cp": ""
+  }
+]

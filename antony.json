@@ -1,0 +1,554 @@
+[
+  {
+    "resultId": "12529559",
+    "mail": "",
+    "distance": 197790,
+    "latitude": 48.73537543084177,
+    "telephone": "0146668254",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMEDE REINETTE",
+    "resultStructId": "237322",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue du noyer dore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2844861091264868,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12642692",
+    "mail": "iepc.pirouette@wanadoo.fr",
+    "distance": 198021,
+    "latitude": 48.737042178297116,
+    "telephone": "0146685470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIROUETTE",
+    "resultStructId": "61101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6square des alpes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2874898991129027,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12847913",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 198214,
+    "latitude": 48.73571352688058,
+    "telephone": "0978314102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS ANTONY",
+    "resultStructId": "414206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue des chardonnerets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3069898301656426,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775278",
+    "mail": "",
+    "distance": 198233,
+    "latitude": 48.73858296694385,
+    "telephone": "0140966817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOMPTINE - Arc en Ciel",
+    "resultStructId": "237321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue fontaine mouton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2901289182245703,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775192",
+    "mail": "",
+    "distance": 198233,
+    "latitude": 48.73858296694385,
+    "telephone": "0140966802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOMPTINE - La Farandole",
+    "resultStructId": "237320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue fontaine mouton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2901289182245703,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12774934",
+    "mail": "",
+    "distance": 198263,
+    "latitude": 48.74041813484639,
+    "telephone": "0140966862",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PRINCES",
+    "resultStructId": "237318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "246 rue adolphe pajeaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2801580715736605,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12612033",
+    "mail": "",
+    "distance": 198799,
+    "latitude": 48.743897021248685,
+    "telephone": "0146749154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE LES P'TILOUPS",
+    "resultStructId": "19709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue adolphe pajeaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2896470336310593,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "13032520",
+    "mail": "",
+    "distance": 198799,
+    "latitude": 48.743897021248685,
+    "telephone": "0699122185",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crech'Endo",
+    "resultStructId": "67402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80rue adolphe pajeaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2896470336310593,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "25495520",
+    "mail": "",
+    "distance": 198799,
+    "latitude": 48.743897021248685,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "P'TITEFRAMBOISINE",
+    "resultStructId": "237018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue pajeaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2896470336310593,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12987577",
+    "mail": "",
+    "distance": 198799,
+    "latitude": 48.743897021248685,
+    "telephone": "0784556968",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FRAMBOISINE",
+    "resultStructId": "236115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80rue adolphe pajeaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2896470336310593,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12774891",
+    "mail": "",
+    "distance": 198953,
+    "latitude": 48.742274813233166,
+    "telephone": "0146114090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'AURORE",
+    "resultStructId": "237305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116/ 118 rue des rabats",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.308682962372855,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775149",
+    "mail": "",
+    "distance": 199003,
+    "latitude": 48.744770873394984,
+    "telephone": "0140966481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACLE DES CHAMPS - L'Eau Vive",
+    "resultStructId": "237307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue prosper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.296042415581972,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775321",
+    "mail": "",
+    "distance": 199003,
+    "latitude": 48.744770873394984,
+    "telephone": "0146663974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACLE DES CHAMPS - Le Blé en Herbe",
+    "resultStructId": "237308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue prosper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.296042415581972,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "25496051",
+    "mail": "",
+    "distance": 200074,
+    "latitude": 48.75450793176489,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FERRANDDE MISSOL",
+    "resultStructId": "31601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du carrousel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.297127590943458,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "33364841",
+    "mail": "contact@babilou.com",
+    "distance": 200085,
+    "latitude": 48.752821571984846,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouAntony Jean Moulin",
+    "resultStructId": "427101",
+    "omegaId": "28267",
+    "avip": false,
+    "adresse": "22 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.308283760133329,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12553338",
+    "mail": "creche@association-saint-raphael.com",
+    "distance": 200098,
+    "latitude": 48.75504215558071,
+    "telephone": "0146664605",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAINTRAPHAEL",
+    "resultStructId": "237020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue du bois de verrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2951381383200746,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775063",
+    "mail": "",
+    "distance": 200103,
+    "latitude": 48.75456603020068,
+    "telephone": "0140967314",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LASOURCE - Ribambelle",
+    "resultStructId": "237316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 - 14 rue maurice labrousse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.298460402428032,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12775106",
+    "mail": "",
+    "distance": 200103,
+    "latitude": 48.75456603020068,
+    "telephone": "0140967312",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LASOURCE - Pierre de Lune",
+    "resultStructId": "237317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 - 14 rue maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.298460402428032,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12838789",
+    "mail": "antony.labrousse@lpcr.fr",
+    "distance": 200129,
+    "latitude": 48.75503075668833,
+    "telephone": "0174700588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LES MALICIEUX DELABROUSSE-ANTONY",
+    "resultStructId": "403301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22-34 rue maurice labrousse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2969997984496087,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12540438",
+    "mail": "",
+    "distance": 200265,
+    "latitude": 48.7556500900428,
+    "telephone": "0140907258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POMMED'API",
+    "resultStructId": "237323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 boulevard pierre brossolette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.30102486431117,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12494506",
+    "mail": "",
+    "distance": 200525,
+    "latitude": 48.75725220194071,
+    "telephone": "0156452230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VIKTOR& SIDONIE",
+    "resultStructId": "237201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3060604640685574,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12772569",
+    "mail": "",
+    "distance": 9733,
+    "latitude": 48.76975113806223,
+    "telephone": "0146906410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFONTAINE",
+    "resultStructId": "237210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue pierre kohlmann",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.318908214174248,
+    "ville": "antony",
+    "cp": "92160"
+  },
+  {
+    "resultId": "12772526",
+    "mail": "",
+    "distance": 10438,
+    "latitude": 48.76357652513002,
+    "telephone": "0146746419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOQUELICOTS",
+    "resultStructId": "237208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 / 9 rue d'olomouc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3118165183450463,
+    "ville": "antony",
+    "cp": "92160"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13024565",
+    "mail": "lesgalopins@kaleide-npdc.fr",
+    "distance": 40589,
+    "latitude": 50.73704385888776,
+    "telephone": "0320699001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LES GALOPINS",
+    "resultStructId": "601102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1169557825933163,
+    "ville": "roncq",
+    "cp": "59223"
+  },
+  {
+    "resultId": "12790930",
+    "mail": "lespetitscomperes@kaleide-npdc.fr",
+    "distance": 41827,
+    "latitude": 50.75054206956475,
+    "telephone": "0320463392",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS COMPERES",
+    "resultStructId": "426401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65/67 rue destombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.119981445223199,
+    "ville": "roncq",
+    "cp": "59223"
+  },
+  {
+    "resultId": "12790887",
+    "mail": "lamaisonnette@kaleide-npdc.fr",
+    "distance": 41827,
+    "latitude": 50.75054206956475,
+    "telephone": "0320463392",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISONNETTE",
+    "resultStructId": "426301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65/67 rue destombes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.119981445223199,
+    "ville": "roncq",
+    "cp": "59223"
+  },
+  {
+    "resultId": "58880093",
+    "mail": "roncq.latteprolongee@lpcr.fr",
+    "distance": 42197,
+    "latitude": 50.74763380614197,
+    "telephone": "0320183884",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits chaperons rouges",
+    "resultStructId": "689908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "192 rue de la latte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.132532022307775,
+    "ville": "roncq",
+    "cp": "59223"
+  },
+  {
+    "resultId": "12989641",
+    "mail": "microcreche59@gmail.com",
+    "distance": 42946,
+    "latitude": 50.754789051567606,
+    "telephone": "0361976362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HISTOIRESD'ENFANTS",
+    "resultStructId": "11825",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 avenue de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.136084202898924,
+    "ville": "roncq",
+    "cp": "59223"
+  }
+]

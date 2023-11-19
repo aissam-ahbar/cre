@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12747285",
+    "mail": "multi-accueil@coeur-cotentin.fr",
+    "distance": 94588,
+    "latitude": 49.51002980852592,
+    "telephone": "0233403635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Farandole",
+    "resultStructId": "6189",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de la poterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4693205094144295,
+    "ville": "valognes",
+    "cp": "50700"
+  }
+]

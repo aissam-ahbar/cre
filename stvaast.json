@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "38797584",
+    "mail": "lamaisondeslutinsnsv@gmail.com",
+    "distance": 13268,
+    "latitude": 50.35624278577928,
+    "telephone": "0782597817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lamaison des Lutins",
+    "resultStructId": "701719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean tison 62580 neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.754521536816899,
+    "ville": "stvaast",
+    "cp": ""
+  },
+  {
+    "resultId": "13034240",
+    "mail": "lesjoyeusesfrimousses@leolagrange.org",
+    "distance": 24084,
+    "latitude": 50.311453676296914,
+    "telephone": "0967377065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAC\"Les Joyeuses Frimousses\" de Biache St Vaast",
+    "resultStructId": "692706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rueedouard herriot 62118 biache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9446956075592494,
+    "ville": "stvaast",
+    "cp": ""
+  }
+]

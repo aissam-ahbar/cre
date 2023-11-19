@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12848902",
+    "mail": "lesmarmousets@ville-cleon.fr",
+    "distance": 120494,
+    "latitude": 49.30747147636683,
+    "telephone": "0235776579",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarmousets",
+    "resultStructId": "8552",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "522 rue charles perrault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0344843629740623,
+    "ville": "cleon",
+    "cp": "76410"
+  }
+]

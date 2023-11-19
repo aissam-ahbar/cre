@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "45895070",
+    "mail": "contact.ess@123pousse.fr",
+    "distance": 65298,
+    "latitude": 44.89983243609053,
+    "telephone": "0663531921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FANTASIA",
+    "resultStructId": "308201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue grand roc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5164321996685208,
+    "ville": "bassens",
+    "cp": "33530"
+  },
+  {
+    "resultId": "12798326",
+    "mail": "education.enfance.jeunesse@ville-bassens.fr",
+    "distance": 65298,
+    "latitude": 44.89983243609053,
+    "telephone": "0556068511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SERVICED'ACCUEIL FAMILIAL",
+    "resultStructId": "208404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue marechal de lattre detassigny, terrasses du bousquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5164321996685208,
+    "ville": "bassens",
+    "cp": "33530"
+  },
+  {
+    "resultId": "12798369",
+    "mail": "education.enfance.jeunesse@ville-bassens.fr",
+    "distance": 65298,
+    "latitude": 44.89983243609053,
+    "telephone": "0556068511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL Arc en Ciel",
+    "resultStructId": "208406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 quater rue marechal delattre detassigny - terrasses du bousquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5164321996685208,
+    "ville": "bassens",
+    "cp": "33530"
+  }
+]

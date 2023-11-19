@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12488357",
+    "mail": "les-ptits-clous@orange.fr",
+    "distance": 205251,
+    "latitude": 43.45826745723756,
+    "telephone": "0562180401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lesP'tits clous",
+    "resultStructId": "97812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue alexandre monoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0081440785408797,
+    "ville": "revel",
+    "cp": "31250"
+  },
+  {
+    "resultId": "12488357",
+    "mail": "les-ptits-clous@orange.fr",
+    "distance": 153060,
+    "latitude": 43.45826745723756,
+    "telephone": "0562180401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lesP'tits clous",
+    "resultStructId": "97812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue alexandre monoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0081440785408797,
+    "ville": "revel",
+    "cp": "31250"
+  }
+]

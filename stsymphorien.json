@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13011313",
+    "mail": "centremulti6accueil@orange.fr",
+    "distance": 162508,
+    "latitude": 48.46321654859324,
+    "telephone": "0237312175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa coquille d'Auneau Bleury St Symhorien",
+    "resultStructId": "12329",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place duchamp de foire 28700 auneau bleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.776383537428215,
+    "ville": "stsymphorien",
+    "cp": ""
+  },
+  {
+    "resultId": "13011313",
+    "mail": "centremulti6accueil@orange.fr",
+    "distance": 176138,
+    "latitude": 48.46321654859324,
+    "telephone": "0237312175",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa coquille d'Auneau Bleury St Symhorien",
+    "resultStructId": "12329",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 place duchamp de foire 28700 auneau bleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.776383537428215,
+    "ville": "stsymphorien",
+    "cp": ""
+  },
+  {
+    "resultId": "12573720",
+    "mail": "multia.stsymphorien@club-internet.fr",
+    "distance": 22056,
+    "latitude": 44.427058598108566,
+    "telephone": "0556258891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLES GALOPINS",
+    "resultStructId": "2123",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pasteur 33113",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4913199074037616,
+    "ville": "stsymphorien",
+    "cp": ""
+  }
+]

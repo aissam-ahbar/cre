@@ -1,0 +1,701 @@
+[
+  {
+    "resultId": "12693053",
+    "mail": "",
+    "distance": 189742,
+    "latitude": 43.568227839985695,
+    "telephone": "0493946628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCSaint-Jean",
+    "resultStructId": "624606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee dany bernard 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.980706842941011,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12795875",
+    "mail": "jardindeveil@mairie-le-cannet.fr",
+    "distance": 189925,
+    "latitude": 43.57212007837455,
+    "telephone": "0493454042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes mirandoles",
+    "resultStructId": "584509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de l'aubarede 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.983005786168696,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12794972",
+    "mail": "ludotheque@mairie-le-cannet.fr",
+    "distance": 191380,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHalte-Jeux de l'étoile",
+    "resultStructId": "629602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676885",
+    "mail": "",
+    "distance": 191380,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HJLudothèque de l'étoile",
+    "resultStructId": "646801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "47825472",
+    "mail": "smercier@mairie-le-cannet.fr",
+    "distance": 191385,
+    "latitude": 43.579033476704396,
+    "telephone": "0493461782",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MABertone",
+    "resultStructId": "628502",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "19 chemin du vieuxmoulin 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001180647370705,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12929871",
+    "mail": "creche.leslauriers@mairie-le-cannet.fr",
+    "distance": 191395,
+    "latitude": 43.56945894827024,
+    "telephone": "0493454298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes lauriers",
+    "resultStructId": "692811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin des lauriers 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001235385383256,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12799444",
+    "mail": "creche.roquebruyere@mairie-le-cannet.fr",
+    "distance": 191651,
+    "latitude": 43.569081790636154,
+    "telephone": "0493432966",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAROQUEBRUYERE",
+    "resultStructId": "693403",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 chemin du perier 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.0044062574420005,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676799",
+    "mail": "lachrysalide.creche@gmail.com",
+    "distance": 232127,
+    "latitude": 43.573225333932825,
+    "telephone": "0493996012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa chrysalide",
+    "resultStructId": "705203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue albert camus 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022368022834139,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12669403",
+    "mail": "ccas@mairie-le-cannet.fr",
+    "distance": 232129,
+    "latitude": 43.573692201771145,
+    "telephone": "0678349410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGBébébus",
+    "resultStructId": "640601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue gentil 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022914584452035,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12668672",
+    "mail": "servicedaccueilfamilial@mairie-le-cannet.fr",
+    "distance": 232129,
+    "latitude": 43.573692201771145,
+    "telephone": "0493686927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Serviced'accueil familial du cannet",
+    "resultStructId": "668201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse gentil 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022914584452035,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676842",
+    "mail": "",
+    "distance": 232574,
+    "latitude": 43.57661523095298,
+    "telephone": "0493465623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes mimosas",
+    "resultStructId": "624605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de la republique - zac lesmimosas 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.019115452916277,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12799444",
+    "mail": "creche.roquebruyere@mairie-le-cannet.fr",
+    "distance": 232891,
+    "latitude": 43.569081790636154,
+    "telephone": "0493432966",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAROQUEBRUYERE",
+    "resultStructId": "693403",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 chemin du perier 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.0044062574420005,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12929871",
+    "mail": "creche.leslauriers@mairie-le-cannet.fr",
+    "distance": 233109,
+    "latitude": 43.56945894827024,
+    "telephone": "0493454298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes lauriers",
+    "resultStructId": "692811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin des lauriers 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001235385383256,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12794972",
+    "mail": "ludotheque@mairie-le-cannet.fr",
+    "distance": 233320,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHalte-Jeux de l'étoile",
+    "resultStructId": "629602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676885",
+    "mail": "",
+    "distance": 233320,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HJLudothèque de l'étoile",
+    "resultStructId": "646801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "47825472",
+    "mail": "smercier@mairie-le-cannet.fr",
+    "distance": 233825,
+    "latitude": 43.579033476704396,
+    "telephone": "0493461782",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MABertone",
+    "resultStructId": "628502",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "19 chemin du vieuxmoulin 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001180647370705,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12693053",
+    "mail": "",
+    "distance": 234252,
+    "latitude": 43.568227839985695,
+    "telephone": "0493946628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCSaint-Jean",
+    "resultStructId": "624606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee dany bernard 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.980706842941011,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12795875",
+    "mail": "jardindeveil@mairie-le-cannet.fr",
+    "distance": 234401,
+    "latitude": 43.57212007837455,
+    "telephone": "0493454042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes mirandoles",
+    "resultStructId": "584509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de l'aubarede 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.983005786168696,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12795875",
+    "mail": "jardindeveil@mairie-le-cannet.fr",
+    "distance": 85417,
+    "latitude": 43.57212007837455,
+    "telephone": "0493454042",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes mirandoles",
+    "resultStructId": "584509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de l'aubarede 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.983005786168696,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12693053",
+    "mail": "",
+    "distance": 85477,
+    "latitude": 43.568227839985695,
+    "telephone": "0493946628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCSaint-Jean",
+    "resultStructId": "624606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee dany bernard 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.980706842941011,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "47825472",
+    "mail": "smercier@mairie-le-cannet.fr",
+    "distance": 86303,
+    "latitude": 43.579033476704396,
+    "telephone": "0493461782",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MABertone",
+    "resultStructId": "628502",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "19 chemin du vieuxmoulin 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001180647370705,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12794972",
+    "mail": "ludotheque@mairie-le-cannet.fr",
+    "distance": 86674,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAHalte-Jeux de l'étoile",
+    "resultStructId": "629602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676885",
+    "mail": "",
+    "distance": 86674,
+    "latitude": 43.57216029513925,
+    "telephone": "0493942384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HJLudothèque de l'étoile",
+    "resultStructId": "646801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 avenue franklin roosevelt06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.00107634700772,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12929871",
+    "mail": "creche.leslauriers@mairie-le-cannet.fr",
+    "distance": 86835,
+    "latitude": 43.56945894827024,
+    "telephone": "0493454298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes lauriers",
+    "resultStructId": "692811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin des lauriers 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.001235385383256,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12799444",
+    "mail": "creche.roquebruyere@mairie-le-cannet.fr",
+    "distance": 87077,
+    "latitude": 43.569081790636154,
+    "telephone": "0493432966",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MAROQUEBRUYERE",
+    "resultStructId": "693403",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 chemin du perier 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.0044062574420005,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676842",
+    "mail": "",
+    "distance": 87694,
+    "latitude": 43.57661523095298,
+    "telephone": "0493465623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes mimosas",
+    "resultStructId": "624605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de la republique - zac lesmimosas 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.019115452916277,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12676799",
+    "mail": "lachrysalide.creche@gmail.com",
+    "distance": 88107,
+    "latitude": 43.573225333932825,
+    "telephone": "0493996012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa chrysalide",
+    "resultStructId": "705203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue albert camus 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022368022834139,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12669403",
+    "mail": "ccas@mairie-le-cannet.fr",
+    "distance": 88120,
+    "latitude": 43.573692201771145,
+    "telephone": "0678349410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HGBébébus",
+    "resultStructId": "640601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue gentil 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022914584452035,
+    "ville": "lecannet",
+    "cp": ""
+  },
+  {
+    "resultId": "12668672",
+    "mail": "servicedaccueilfamilial@mairie-le-cannet.fr",
+    "distance": 88120,
+    "latitude": 43.573692201771145,
+    "telephone": "0493686927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Serviced'accueil familial du cannet",
+    "resultStructId": "668201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse gentil 06110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.022914584452035,
+    "ville": "lecannet",
+    "cp": ""
+  }
+]

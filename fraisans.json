@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "23665633",
+    "mail": "multiaccueils@jura-nord.com",
+    "distance": 121709,
+    "latitude": 47.15179967708872,
+    "telephone": "0384715845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJura Nord",
+    "resultStructId": "23101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du doubs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.758460269695277,
+    "ville": "fraisans",
+    "cp": "39700"
+  }
+]

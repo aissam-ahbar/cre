@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12604637",
+    "mail": "arsenal@saint-fons.fr",
+    "distance": 178760,
+    "latitude": 45.71259233074034,
+    "telephone": "0478704671",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Françoise Dolto",
+    "resultStructId": "679810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 bis rue mathieu dussurgey69190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858240471107743,
+    "ville": "stfons",
+    "cp": ""
+  },
+  {
+    "resultId": "12604594",
+    "mail": "arsenal@saint-fons.fr",
+    "distance": 178760,
+    "latitude": 45.71259233074034,
+    "telephone": "0478704671",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFrançoise DOLTO",
+    "resultStructId": "679811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 bis rue mathieu dussurgey 69190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858240471107743,
+    "ville": "stfons",
+    "cp": ""
+  },
+  {
+    "resultId": "13006024",
+    "mail": "saint.fons@lpcr.fr",
+    "distance": 179280,
+    "latitude": 45.70722753658169,
+    "telephone": "0437464525",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges Saint Fons",
+    "resultStructId": "161203",
+    "omegaId": "1702",
+    "avip": false,
+    "adresse": "5 rue paulbert 69190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.856069191588143,
+    "ville": "stfons",
+    "cp": ""
+  },
+  {
+    "resultId": "32049108",
+    "mail": "louisemichel@saint-fons.fr",
+    "distance": 179787,
+    "latitude": 45.70382634198457,
+    "telephone": "0437600080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLouise Michel",
+    "resultStructId": "679812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue gravallon 69190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.862417794008209,
+    "ville": "stfons",
+    "cp": ""
+  },
+  {
+    "resultId": "12600896",
+    "mail": "cs.grenouillesbleues@hotmail.fr",
+    "distance": 180688,
+    "latitude": 45.69370517922997,
+    "telephone": "0478677558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grenouilles Bleues",
+    "resultStructId": "2755",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place des palabres 69190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.854809450073626,
+    "ville": "stfons",
+    "cp": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "58604547",
+    "mail": "lespetitsbouchons.aubois@gmail.com",
+    "distance": 112709,
+    "latitude": 48.2555247164114,
+    "telephone": "0764811097",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits bouchons au'bois",
+    "resultStructId": "686601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des cerisiers 10120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031623537799865,
+    "ville": "stgermain",
+    "cp": ""
+  },
+  {
+    "resultId": "12516014",
+    "mail": "",
+    "distance": 175910,
+    "latitude": 48.56463156379072,
+    "telephone": "0764161680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuPetit Saturnin",
+    "resultStructId": "704720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 voie des gouttins 91530 le val",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.059702296191883,
+    "ville": "stgermain",
+    "cp": ""
+  },
+  {
+    "resultId": "58604547",
+    "mail": "lespetitsbouchons.aubois@gmail.com",
+    "distance": 65004,
+    "latitude": 48.2555247164114,
+    "telephone": "0764811097",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits bouchons au'bois",
+    "resultStructId": "686601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des cerisiers 10120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.031623537799865,
+    "ville": "stgermain",
+    "cp": ""
+  },
+  {
+    "resultId": "12795402",
+    "mail": "microcreche.chateloups@orange.fr",
+    "distance": 120218,
+    "latitude": 49.122836264810246,
+    "telephone": "0387611201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheChateloups",
+    "resultStructId": "577902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de bonne fontaine 57160 chatel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.078153182814948,
+    "ville": "stgermain",
+    "cp": ""
+  },
+  {
+    "resultId": "12516014",
+    "mail": "",
+    "distance": 193242,
+    "latitude": 48.56463156379072,
+    "telephone": "0764161680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuPetit Saturnin",
+    "resultStructId": "704720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 voie des gouttins 91530 le val",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.059702296191883,
+    "ville": "stgermain",
+    "cp": ""
+  }
+]

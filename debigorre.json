@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12550500",
+    "mail": "clairvallon@haute-bigorre.fr",
+    "distance": 144756,
+    "latitude": 43.07675424215626,
+    "telephone": "0562952916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA-MULTI-ACCUEIL CLAIR VALLON",
+    "resultStructId": "684719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des tilleuls 65200bagneres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15568699313208886,
+    "ville": "debigorre",
+    "cp": ""
+  },
+  {
+    "resultId": "12609797",
+    "mail": "administration.lamongie@wanadoo.fr",
+    "distance": 145610,
+    "latitude": 43.0680781147812,
+    "telephone": "0562919369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE LA MONGIE LES MARMOTTES",
+    "resultStructId": "2962",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du tourmalet - lamongie 65200 bagneres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.15057543183911082,
+    "ville": "debigorre",
+    "cp": ""
+  },
+  {
+    "resultId": "12550328",
+    "mail": "lesbambis@haute-bigorre.fr",
+    "distance": 145686,
+    "latitude": 43.066956620285254,
+    "telephone": "0562951911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA-MULTI-ACCUEIL LES BAMBIS",
+    "resultStructId": "684714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue de la republique 65200bagneres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.14791597694684638,
+    "ville": "debigorre",
+    "cp": ""
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "resultId": "58854397",
+    "mail": "contact@crechesliberty.com",
+    "distance": 171470,
+    "latitude": 49.48484904624244,
+    "telephone": "0276781078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Loup Vert",
+    "resultStructId": "698021",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "320 ruejules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 0.8785287514116339,
+    "ville": "duclair",
+    "cp": "76480"
+  },
+  {
+    "resultId": "12830791",
+    "mail": "chezlesptitsloups@orange.fr",
+    "distance": 171759,
+    "latitude": 49.48282983008168,
+    "telephone": "0235053282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHEZLES P'TITS LOUPS",
+    "resultStructId": "218801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue louis bourdon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8759211043019157,
+    "ville": "duclair",
+    "cp": "76480"
+  },
+  {
+    "resultId": "12830791",
+    "mail": "chezlesptitsloups@orange.fr",
+    "distance": 118440,
+    "latitude": 49.48282983008168,
+    "telephone": "0235053282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CHEZLES P'TITS LOUPS",
+    "resultStructId": "218801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue louis bourdon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8759211043019157,
+    "ville": "duclair",
+    "cp": "76480"
+  },
+  {
+    "resultId": "58854397",
+    "mail": "contact@crechesliberty.com",
+    "distance": 118717,
+    "latitude": 49.48484904624244,
+    "telephone": "0276781078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Loup Vert",
+    "resultStructId": "698021",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "320 ruejules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 0.8785287514116339,
+    "ville": "duclair",
+    "cp": "76480"
+  }
+]

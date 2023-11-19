@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12891558",
+    "mail": "amandine.brocard@mnhsae.fr",
+    "distance": 184033,
+    "latitude": 45.71546827714924,
+    "telephone": "0472238283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPlanète Câlins",
+    "resultStructId": "681721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "215 rue d'irlande 69124",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07087664237739,
+    "ville": "colombiersaugnieu",
+    "cp": ""
+  },
+  {
+    "resultId": "12891601",
+    "mail": "directioneaje@mairie-colombiersaugnieu.fr",
+    "distance": 185592,
+    "latitude": 45.71665758716361,
+    "telephone": "0472051689",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Arc en Ciel",
+    "resultStructId": "114101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "166 route de pont de cheruy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.12693982465972,
+    "ville": "colombiersaugnieu",
+    "cp": "69124"
+  }
+]

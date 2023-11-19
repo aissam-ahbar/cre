@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "54822152",
+    "mail": "audrey_catteau@ville-linselles.com",
+    "distance": 38980,
+    "latitude": 50.73753802185169,
+    "telephone": "0320280359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILDE LINSELLES",
+    "resultStructId": "697709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue robert descamps",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0823349759406695,
+    "ville": "linselles",
+    "cp": "59126"
+  },
+  {
+    "resultId": "12989684",
+    "mail": "microcreche59@gmail.com",
+    "distance": 39663,
+    "latitude": 50.74799481842644,
+    "telephone": "0362657672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Histoiresd'enfants",
+    "resultStructId": "11826",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 pave d'halluin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.07794070896751,
+    "ville": "linselles",
+    "cp": "59126"
+  }
+]

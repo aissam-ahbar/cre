@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "39192614",
+    "mail": "circus@people-and-baby.com",
+    "distance": 54991,
+    "latitude": 44.78417443848333,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL Circus",
+    "resultStructId": "208504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue louis denis mallet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.562372749694232,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12648669",
+    "mail": "milletresors@people-and-baby.com",
+    "distance": 55138,
+    "latitude": 44.797173951336774,
+    "telephone": "0556060530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MILLETRESORS",
+    "resultStructId": "531802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue louis bleriot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.529808845507459,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12496234",
+    "mail": "frimousse.sage@orange.fr",
+    "distance": 55863,
+    "latitude": 44.80019633146726,
+    "telephone": "0556216935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil FRIMOUSSE",
+    "resultStructId": "687005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue gaston monmousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5422658751866953,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "58785636",
+    "mail": "ptitscoeurs@mairie-begles.fr",
+    "distance": 56290,
+    "latitude": 44.80457533199855,
+    "telephone": "0556490487",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PTITS COEURS",
+    "resultStructId": "688818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des secheries",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5419106666197219,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12679766",
+    "mail": "ribambulle@mairie-begles.fr",
+    "distance": 56378,
+    "latitude": 44.80531066348247,
+    "telephone": "0556855613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil RIBAMBULLE",
+    "resultStructId": "688814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des droits de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5423344146390506,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "57207150",
+    "mail": "prelude.microcreche@gmail.com",
+    "distance": 56475,
+    "latitude": 44.800392767785134,
+    "telephone": "0557714079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePrélude",
+    "resultStructId": "673022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "196 avenue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5591840303255888,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12679680",
+    "mail": "troisptitstours@mairie-begles.fr",
+    "distance": 56929,
+    "latitude": 44.80422008427522,
+    "telephone": "0556857041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil 3 P'TITS TOURS",
+    "resultStructId": "688801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue charles lamouroux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5612789511708661,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "55687194",
+    "mail": "creche.lesesteyous@123pousse.fr",
+    "distance": 57092,
+    "latitude": 44.81298706688041,
+    "telephone": "0689723172",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES ESTEYOUS",
+    "resultStructId": "629301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 avenue marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5406275743553421,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12496105",
+    "mail": "calineriesage@yahoo.fr",
+    "distance": 57332,
+    "latitude": 44.814380024480684,
+    "telephone": "0556216935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA CALINERIE",
+    "resultStructId": "687101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue roger lejard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5436007224078272,
+    "ville": "begles",
+    "cp": "33130"
+  },
+  {
+    "resultId": "12495933",
+    "mail": "clapotis.sage@sfr.fr",
+    "distance": 57712,
+    "latitude": 44.80973581639439,
+    "telephone": "0556216935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CLAPOTIS",
+    "resultStructId": "688813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 rue de lauriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5678890557288856,
+    "ville": "begles",
+    "cp": "33130"
+  }
+]

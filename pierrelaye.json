@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12659419",
+    "mail": "creche-familiale@ville-pierrelaye.fr",
+    "distance": 166263,
+    "latitude": 49.02308834398361,
+    "telephone": "0134324194",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE \"Les Frimousses\"",
+    "resultStructId": "261912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 bis rue victor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1561711378631134,
+    "ville": "pierrelaye",
+    "cp": "95480"
+  },
+  {
+    "resultId": "12625449",
+    "mail": "g.dufour@ville-pierrelaye.fr",
+    "distance": 166400,
+    "latitude": 49.022383178879714,
+    "telephone": "0130372839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"Comme Une Image\"",
+    "resultStructId": "261501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.152656435875111,
+    "ville": "pierrelaye",
+    "cp": "95480"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "resultId": "60279618",
+    "mail": "leclerc1@berceaudesrois.fr",
+    "distance": 197582,
+    "latitude": 48.76873866918768,
+    "telephone": "0953991121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BERCEAU DES ROIS TRAPPES LECLERC",
+    "resultStructId": "708001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue del'armee leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9801460948797238,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "13076337",
+    "mail": "",
+    "distance": 198289,
+    "latitude": 48.77361793776644,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - FANNY DEWERPE",
+    "resultStructId": "682505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee du port royal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9995742304469528,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "59674844",
+    "mail": "creche-trappes.jaures@lesbidoux.fr",
+    "distance": 198339,
+    "latitude": 48.77428665312495,
+    "telephone": "0688399996",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES BEBIDOUX",
+    "resultStructId": "699003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "93 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9969181043574238,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "60281916",
+    "mail": "contact@microcreches-nel.com",
+    "distance": 198550,
+    "latitude": 48.77601102017781,
+    "telephone": "0766766901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - POLICHI'NEL",
+    "resultStructId": "708033",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue jean d'alembert rdcgauche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "60282484",
+    "mail": "contact@microcreches-nel.com",
+    "distance": 198550,
+    "latitude": 48.77601102017781,
+    "telephone": "0766766901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - RITOUR'NEL",
+    "resultStructId": "708036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue jean d'alembert rdcdroite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "57840615",
+    "mail": "eamp@micro-stars.fr",
+    "distance": 198550,
+    "latitude": 48.77601102017781,
+    "telephone": "0954930618",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS EN ATTENDANT MES PARENTS",
+    "resultStructId": "679703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 placeovale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639940",
+    "mail": "",
+    "distance": 198824,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE - LES COCCINELLES",
+    "resultStructId": "675234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 cours de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639854",
+    "mail": "",
+    "distance": 198824,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LES LUCIOLES",
+    "resultStructId": "682504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours de la corderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12658215",
+    "mail": "",
+    "distance": 198824,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MARMOTTES",
+    "resultStructId": "682506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours de la corderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639897",
+    "mail": "",
+    "distance": 198854,
+    "latitude": 48.78036518261223,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - GAVROCHE",
+    "resultStructId": "682503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee claude debussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9787097309494996,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12610313",
+    "mail": "",
+    "distance": 200347,
+    "latitude": 48.79352575459561,
+    "telephone": "0130681572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« les Z'acrobates »",
+    "resultStructId": "2974",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue edouard branly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9833790775114692,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639897",
+    "mail": "",
+    "distance": 183356,
+    "latitude": 48.78036518261223,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - GAVROCHE",
+    "resultStructId": "682503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 allee claude debussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9787097309494996,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12610313",
+    "mail": "",
+    "distance": 183546,
+    "latitude": 48.79352575459561,
+    "telephone": "0130681572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil« les Z'acrobates »",
+    "resultStructId": "2974",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue edouard branly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9833790775114692,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "60279618",
+    "mail": "leclerc1@berceaudesrois.fr",
+    "distance": 183603,
+    "latitude": 48.76873866918768,
+    "telephone": "0953991121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BERCEAU DES ROIS TRAPPES LECLERC",
+    "resultStructId": "708001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue del'armee leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9801460948797238,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "59674844",
+    "mail": "creche-trappes.jaures@lesbidoux.fr",
+    "distance": 184755,
+    "latitude": 48.77428665312495,
+    "telephone": "0688399996",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES BEBIDOUX",
+    "resultStructId": "699003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "93 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9969181043574238,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "60281916",
+    "mail": "contact@microcreches-nel.com",
+    "distance": 184908,
+    "latitude": 48.77601102017781,
+    "telephone": "0766766901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - POLICHI'NEL",
+    "resultStructId": "708033",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue jean d'alembert rdcgauche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "60282484",
+    "mail": "contact@microcreches-nel.com",
+    "distance": 184908,
+    "latitude": 48.77601102017781,
+    "telephone": "0766766901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - RITOUR'NEL",
+    "resultStructId": "708036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue jean d'alembert rdcdroite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "57840615",
+    "mail": "eamp@micro-stars.fr",
+    "distance": 184908,
+    "latitude": 48.77601102017781,
+    "telephone": "0954930618",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS EN ATTENDANT MES PARENTS",
+    "resultStructId": "679703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 placeovale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9992978864374837,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "13076337",
+    "mail": "",
+    "distance": 184957,
+    "latitude": 48.77361793776644,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - FANNY DEWERPE",
+    "resultStructId": "682505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee du port royal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9995742304469528,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639940",
+    "mail": "",
+    "distance": 185081,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE - LES COCCINELLES",
+    "resultStructId": "675234",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 cours de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12639854",
+    "mail": "",
+    "distance": 185081,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LES LUCIOLES",
+    "resultStructId": "682504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours de la corderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  },
+  {
+    "resultId": "12658215",
+    "mail": "",
+    "distance": 185081,
+    "latitude": 48.778266428594705,
+    "telephone": "0130691700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MARMOTTES",
+    "resultStructId": "682506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 cours de la corderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.002043035439439,
+    "ville": "trappes",
+    "cp": "78190"
+  }
+]

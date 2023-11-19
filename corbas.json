@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34949051",
+    "mail": "lesdouxberceaux@gmail.com",
+    "distance": 182710,
+    "latitude": 45.68566271852437,
+    "telephone": "0622214299",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Doux Berceaux",
+    "resultStructId": "137102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue du 24 aout 1944",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.90470830227202,
+    "ville": "corbas",
+    "cp": "69960"
+  },
+  {
+    "resultId": "12573419",
+    "mail": "g.borrelly@ville-corbas.fr",
+    "distance": 184007,
+    "latitude": 45.67199389556427,
+    "telephone": "0472510319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles Petits Gones",
+    "resultStructId": "2116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 rue centrale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.898473537036045,
+    "ville": "corbas",
+    "cp": "69960"
+  },
+  {
+    "resultId": "12903039",
+    "mail": "creche@ville-corbas.fr",
+    "distance": 184464,
+    "latitude": 45.66699131817591,
+    "telephone": "0472900940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Ile aux Enfants",
+    "resultStructId": "83002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61-63 avenue de corbetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.895392210150569,
+    "ville": "corbas",
+    "cp": "69960"
+  }
+]

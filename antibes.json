@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "13011743",
+    "mail": "creche-colonnes@ville-antibes.fr",
+    "distance": 226538,
+    "latitude": 43.581343115294345,
+    "telephone": "0493673557",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MALes colonnes",
+    "resultStructId": "696916",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin des eucalyptus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011829",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 226538,
+    "latitude": 43.581343115294345,
+    "telephone": "0497210891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPomme de pin",
+    "resultStructId": "696918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "970 boulevard guillaume appollinaire -quartier les semboules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011786",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 226538,
+    "latitude": 43.581343115294345,
+    "telephone": "0493651784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPins d'épices",
+    "resultStructId": "696917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert desnos - quartier lessemboules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "12928280",
+    "mail": "contact@babilou.com",
+    "distance": 226679,
+    "latitude": 43.57937088172862,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCBabilou Antibes Guillabert",
+    "resultStructId": "582302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue guillabert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.122857365966647,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011442",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 226707,
+    "latitude": 43.580090977867115,
+    "telephone": "0493344766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JESaint-Antoine",
+    "resultStructId": "585901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue saint-antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.123341551843564,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011571",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 227059,
+    "latitude": 43.57993524724597,
+    "telephone": "0493677680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes châtaigniers",
+    "resultStructId": "696921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin fournel badine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.117074475712234,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011700",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 227403,
+    "latitude": 43.58212795423147,
+    "telephone": "0497219544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAfamilial Laval",
+    "resultStructId": "585903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "vieux chemin de saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.114063728436902,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011915",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 227403,
+    "latitude": 43.58212795423147,
+    "telephone": "0497219546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFService d'accueil familial",
+    "resultStructId": "696920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "vieux chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.114063728436902,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011872",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 228286,
+    "latitude": 43.58490206349864,
+    "telephone": "0492906705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MARoger Cardi",
+    "resultStructId": "696919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "580 route de saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.102556050956396,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011614",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 228314,
+    "latitude": 43.58109579445747,
+    "telephone": "0493339242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petites terrasses",
+    "resultStructId": "696913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "196 traverse de fontmerle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.097068003162415,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011657",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 228368,
+    "latitude": 43.58139659039315,
+    "telephone": "0493657027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes terrasses",
+    "resultStructId": "696914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverse de fontmerle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.096535314253593,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011528",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 228474,
+    "latitude": 43.60240740972562,
+    "telephone": "0497239297",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa Fontonne",
+    "resultStructId": "696911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.122640392559373,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011485",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 228675,
+    "latitude": 43.58016095239974,
+    "telephone": "0492940037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JESaint-Maymes",
+    "resultStructId": "696910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "732 chemin des eucalyptus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.089673280650076,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "57601479",
+    "mail": "contact@universdespetits.fr",
+    "distance": 230081,
+    "latitude": 43.599655296371566,
+    "telephone": "0633037614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCPAJE Bulles d'Azur",
+    "resultStructId": "677004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1244 chemin des combes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.091182783109766,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "57601479",
+    "mail": "contact@universdespetits.fr",
+    "distance": 91654,
+    "latitude": 43.599655296371566,
+    "telephone": "0633037614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCPAJE Bulles d'Azur",
+    "resultStructId": "677004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1244 chemin des combes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.091182783109766,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011485",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 92517,
+    "latitude": 43.58016095239974,
+    "telephone": "0492940037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JESaint-Maymes",
+    "resultStructId": "696910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "732 chemin des eucalyptus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.089673280650076,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011657",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 92947,
+    "latitude": 43.58139659039315,
+    "telephone": "0493657027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes terrasses",
+    "resultStructId": "696914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "traverse de fontmerle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.096535314253593,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011614",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 93000,
+    "latitude": 43.58109579445747,
+    "telephone": "0493339242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petites terrasses",
+    "resultStructId": "696913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "196 traverse de fontmerle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.097068003162415,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011872",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 93203,
+    "latitude": 43.58490206349864,
+    "telephone": "0492906705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MARoger Cardi",
+    "resultStructId": "696919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "580 route de saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.102556050956396,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011528",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 93806,
+    "latitude": 43.60240740972562,
+    "telephone": "0497239297",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa Fontonne",
+    "resultStructId": "696911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.122640392559373,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011700",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 94170,
+    "latitude": 43.58212795423147,
+    "telephone": "0497219544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAfamilial Laval",
+    "resultStructId": "585903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "vieux chemin de saint-jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.114063728436902,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011915",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 94170,
+    "latitude": 43.58212795423147,
+    "telephone": "0497219546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFService d'accueil familial",
+    "resultStructId": "696920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "vieux chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.114063728436902,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011571",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 94496,
+    "latitude": 43.57993524724597,
+    "telephone": "0493677680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes châtaigniers",
+    "resultStructId": "696921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin fournel badine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.117074475712234,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011442",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 94939,
+    "latitude": 43.580090977867115,
+    "telephone": "0493344766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JESaint-Antoine",
+    "resultStructId": "585901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue saint-antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.123341551843564,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "12928280",
+    "mail": "contact@babilou.com",
+    "distance": 94940,
+    "latitude": 43.57937088172862,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCBabilou Antibes Guillabert",
+    "resultStructId": "582302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue guillabert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.122857365966647,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011743",
+    "mail": "creche-colonnes@ville-antibes.fr",
+    "distance": 95207,
+    "latitude": 43.581343115294345,
+    "telephone": "0493673557",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MALes colonnes",
+    "resultStructId": "696916",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "chemin des eucalyptus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011786",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 95207,
+    "latitude": 43.581343115294345,
+    "telephone": "0493651784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPins d'épices",
+    "resultStructId": "696917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert desnos - quartier lessemboules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  },
+  {
+    "resultId": "13011829",
+    "mail": "accueildpe@ville-antibes.fr",
+    "distance": 95207,
+    "latitude": 43.581343115294345,
+    "telephone": "0497210891",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAPomme de pin",
+    "resultStructId": "696918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "970 boulevard guillaume appollinaire -quartier les semboules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.127912520097264,
+    "ville": "antibes",
+    "cp": "06600"
+  }
+]

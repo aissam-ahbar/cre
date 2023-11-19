@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12635339",
+    "mail": "niddesbambins@mutualite-mhg.fr",
+    "distance": 141446,
+    "latitude": 43.78702646895554,
+    "telephone": "0562227628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Nidde Bambins",
+    "resultStructId": "509201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue de montauban 31620 castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3522777326286153,
+    "ville": "destretefonds",
+    "cp": ""
+  },
+  {
+    "resultId": "13073413",
+    "mail": "contact@babilou.com",
+    "distance": 142972,
+    "latitude": 43.77016448027172,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouCastelnau Eurocentre",
+    "resultStructId": "557102",
+    "omegaId": "47495",
+    "avip": false,
+    "adresse": "8 impasse saint guillan 31620castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3617317926796888,
+    "ville": "destretefonds",
+    "cp": ""
+  }
+]

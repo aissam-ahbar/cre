@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58223045",
+    "mail": "lesaiglons@crechedefrance.com",
+    "distance": 398157,
+    "latitude": 45.16258173851587,
+    "telephone": "0479590398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAiglons",
+    "resultStructId": "703115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble fornache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.430082648755522,
+    "ville": "valloire",
+    "cp": "73450"
+  },
+  {
+    "resultId": "58223045",
+    "mail": "lesaiglons@crechedefrance.com",
+    "distance": 137212,
+    "latitude": 45.16258173851587,
+    "telephone": "0479590398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesAiglons",
+    "resultStructId": "703115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "immeuble fornache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.430082648755522,
+    "ville": "valloire",
+    "cp": "73450"
+  }
+]

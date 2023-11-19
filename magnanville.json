@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "25666585",
+    "mail": "",
+    "distance": 161825,
+    "latitude": 48.97873491333779,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS CITRON",
+    "resultStructId": "678508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6977882667931907,
+    "ville": "magnanville",
+    "cp": "78200"
+  },
+  {
+    "resultId": "48008846",
+    "mail": "",
+    "distance": 161825,
+    "latitude": 48.97873491333779,
+    "telephone": "0954783066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - CRECHE A 2 PAS FUSCHIA",
+    "resultStructId": "678504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6977882667931907,
+    "ville": "magnanville",
+    "cp": "78200"
+  }
+]

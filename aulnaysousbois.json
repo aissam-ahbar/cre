@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12666135",
+    "mail": "",
+    "distance": 151679,
+    "latitude": 48.93030211533585,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Grande Nef",
+    "resultStructId": "4272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4942219165575765,
+    "ville": "aulnaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662093",
+    "mail": "",
+    "distance": 151969,
+    "latitude": 48.94977484006109,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Jean Aupest",
+    "resultStructId": "4178",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee des merisiers 93600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4943822846938155,
+    "ville": "aulnaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12662093",
+    "mail": "",
+    "distance": 170190,
+    "latitude": 48.94977484006109,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Jean Aupest",
+    "resultStructId": "4178",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee des merisiers 93600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4943822846938155,
+    "ville": "aulnaysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12666135",
+    "mail": "",
+    "distance": 172347,
+    "latitude": 48.93030211533585,
+    "telephone": "0148192507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Grande Nef",
+    "resultStructId": "4272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue isidore nerat 93600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4942219165575765,
+    "ville": "aulnaysousbois",
+    "cp": ""
+  }
+]

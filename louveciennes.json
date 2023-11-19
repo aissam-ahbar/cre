@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "25665539",
+    "mail": "louveciennes@lpcr.fr",
+    "distance": 192320,
+    "latitude": 48.87094397204011,
+    "telephone": "0173180726",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PANDAS ROUX",
+    "resultStructId": "689706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place lydie aubernon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1124032640701342,
+    "ville": "louveciennes",
+    "cp": "78430"
+  },
+  {
+    "resultId": "58845609",
+    "mail": "growing.wild.france@gmail.com",
+    "distance": 192599,
+    "latitude": 48.85797496025604,
+    "telephone": "0781726040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - GROWING WILD",
+    "resultStructId": "693316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5b rue georges blandon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1151371978533824,
+    "ville": "louveciennes",
+    "cp": "78430"
+  },
+  {
+    "resultId": "12593801",
+    "mail": "",
+    "distance": 192604,
+    "latitude": 48.85897394813279,
+    "telephone": "0139184132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde l'Etang",
+    "resultStructId": "89803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de l'etang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1152908460437274,
+    "ville": "louveciennes",
+    "cp": "78430"
+  },
+  {
+    "resultId": "12591995",
+    "mail": "etarche@louveciennes.fr",
+    "distance": 192828,
+    "latitude": 48.86319079697351,
+    "telephone": "0130824614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde l'Etarché",
+    "resultStructId": "89802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de l'etarche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.118720081204565,
+    "ville": "louveciennes",
+    "cp": "78430"
+  },
+  {
+    "resultId": "12592081",
+    "mail": "soudanes@louveciennes.fr",
+    "distance": 193768,
+    "latitude": 48.86264781430475,
+    "telephone": "0139184207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Soudanes",
+    "resultStructId": "89801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee des hauts graviers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.131545875485833,
+    "ville": "louveciennes",
+    "cp": "78430"
+  }
+]

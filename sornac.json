@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12797767",
+    "mail": "amusette19@orange.fr",
+    "distance": 153712,
+    "latitude": 45.666664738827244,
+    "telephone": "0555947164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Amusette",
+    "resultStructId": "7363",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue pre au rocher - route des bouyges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.193649902576969,
+    "ville": "sornac",
+    "cp": "19290"
+  },
+  {
+    "resultId": "12797767",
+    "mail": "amusette19@orange.fr",
+    "distance": 240911,
+    "latitude": 45.666664738827244,
+    "telephone": "0555947164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Amusette",
+    "resultStructId": "7363",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue pre au rocher - route des bouyges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.193649902576969,
+    "ville": "sornac",
+    "cp": "19290"
+  }
+]

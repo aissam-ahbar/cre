@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12738556",
+    "mail": "creche-ailly@wanadoo.fr",
+    "distance": 71118,
+    "latitude": 49.924599178108885,
+    "telephone": "0322394545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TETINEET DOUDOU",
+    "resultStructId": "672910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue jean catelas 80470 ailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.206054369031159,
+    "ville": "sursomme",
+    "cp": ""
+  },
+  {
+    "resultId": "12712188",
+    "mail": "ptitsmousses@akeonet.com",
+    "distance": 83865,
+    "latitude": 50.18210571557421,
+    "telephone": "0322604293",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS MOUSSES",
+    "resultStructId": "255001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des corderies 80230 st valery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6293514945438357,
+    "ville": "sursomme",
+    "cp": ""
+  }
+]

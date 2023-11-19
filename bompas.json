@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12678648",
+    "mail": "lescargolines@orange.fr",
+    "distance": 165175,
+    "latitude": 42.73024985414011,
+    "telephone": "0468635752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCargolines",
+    "resultStructId": "700737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue barbou job",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.935399050762229,
+    "ville": "bompas",
+    "cp": "66430"
+  },
+  {
+    "resultId": "12678648",
+    "mail": "lescargolines@orange.fr",
+    "distance": 124100,
+    "latitude": 42.73024985414011,
+    "telephone": "0468635752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCargolines",
+    "resultStructId": "700737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue barbou job",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.935399050762229,
+    "ville": "bompas",
+    "cp": "66430"
+  }
+]

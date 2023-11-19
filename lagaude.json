@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12668285",
+    "mail": "espaceparent.lagaude@free.fr",
+    "distance": 235517,
+    "latitude": 43.72170847077405,
+    "telephone": "0493249154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAEspace môme",
+    "resultStructId": "575501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2210 route de saint-laurent 06610",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.166615646918787,
+    "ville": "lagaude",
+    "cp": ""
+  },
+  {
+    "resultId": "12668242",
+    "mail": "espaceparent.lagaude@free.fr",
+    "distance": 235636,
+    "latitude": 43.72368969797071,
+    "telephone": "0493248210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAEspace Créatifs",
+    "resultStructId": "665101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du mont-gros 06610",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.167404527311488,
+    "ville": "lagaude",
+    "cp": ""
+  },
+  {
+    "resultId": "12668242",
+    "mail": "espaceparent.lagaude@free.fr",
+    "distance": 92345,
+    "latitude": 43.72368969797071,
+    "telephone": "0493248210",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAEspace Créatifs",
+    "resultStructId": "665101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du mont-gros 06610",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.167404527311488,
+    "ville": "lagaude",
+    "cp": ""
+  },
+  {
+    "resultId": "12668285",
+    "mail": "espaceparent.lagaude@free.fr",
+    "distance": 92347,
+    "latitude": 43.72170847077405,
+    "telephone": "0493249154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAEspace môme",
+    "resultStructId": "575501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2210 route de saint-laurent 06610",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.166615646918787,
+    "ville": "lagaude",
+    "cp": ""
+  }
+]

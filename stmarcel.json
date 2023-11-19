@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13040260",
+    "mail": "creche.espaly@lepuyenvelay.fr",
+    "distance": 176079,
+    "latitude": 45.045891785367814,
+    "telephone": "0471096470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Câlins\"",
+    "resultStructId": "198007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue de la mairie43000 espaly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8674074056001473,
+    "ville": "stmarcel",
+    "cp": ""
+  },
+  {
+    "resultId": "13039916",
+    "mail": "creche.espaly@lepuyenvelay.fr",
+    "distance": 176079,
+    "latitude": 45.045891785367814,
+    "telephone": "0471096470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS LES PETITS POUSSES",
+    "resultStructId": "198602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue de la mairie43000 espaly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8674074056001473,
+    "ville": "stmarcel",
+    "cp": ""
+  },
+  {
+    "resultId": "12565507",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 76475,
+    "latitude": 46.77493601592474,
+    "telephone": "0385422410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLouise Michel",
+    "resultStructId": "669103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louise michel 71380",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.889385514157536,
+    "ville": "stmarcel",
+    "cp": ""
+  },
+  {
+    "resultId": "12670005",
+    "mail": "",
+    "distance": 144944,
+    "latitude": 49.09823314773823,
+    "telephone": "0232711711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCompagnie des Ours",
+    "resultStructId": "693109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 chemin des maraichers 27950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4535215454055221,
+    "ville": "stmarcel",
+    "cp": ""
+  },
+  {
+    "resultId": "13040260",
+    "mail": "creche.espaly@lepuyenvelay.fr",
+    "distance": 160959,
+    "latitude": 45.045891785367814,
+    "telephone": "0471096470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Câlins\"",
+    "resultStructId": "198007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue de la mairie43000 espaly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8674074056001473,
+    "ville": "stmarcel",
+    "cp": ""
+  },
+  {
+    "resultId": "13039916",
+    "mail": "creche.espaly@lepuyenvelay.fr",
+    "distance": 160959,
+    "latitude": 45.045891785367814,
+    "telephone": "0471096470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS LES PETITS POUSSES",
+    "resultStructId": "198602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue de la mairie43000 espaly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8674074056001473,
+    "ville": "stmarcel",
+    "cp": ""
+  }
+]

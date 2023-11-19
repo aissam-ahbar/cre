@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "60207135",
+    "mail": "boubou@les-cherubins.com",
+    "distance": 147862,
+    "latitude": 43.596266359748945,
+    "telephone": "0562191079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Boubou& Les Cherubins",
+    "resultStructId": "706404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue isaac newton 31830 plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.287693888312007,
+    "ville": "dutouch",
+    "cp": ""
+  },
+  {
+    "resultId": "13074445",
+    "mail": "cre-574@babilou.com",
+    "distance": 148989,
+    "latitude": 43.589046867381796,
+    "telephone": "0532093896",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABABILOU PLAISANCE YOURCENAR",
+    "resultStructId": "676814",
+    "omegaId": "47512",
+    "avip": false,
+    "adresse": "17 impasse margueriteyourcenar 31830 plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2978036439748848,
+    "ville": "dutouch",
+    "cp": ""
+  },
+  {
+    "resultId": "13063093",
+    "mail": "crechetraindesbambins@plaisancedutouch.fr",
+    "distance": 150104,
+    "latitude": 43.56756936498714,
+    "telephone": "0562135295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil le Train des Bambins",
+    "resultStructId": "628001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de l'ancienne gare31830 plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2937228199781954,
+    "ville": "dutouch",
+    "cp": ""
+  },
+  {
+    "resultId": "13018580",
+    "mail": "plaisance.touch@lpcr.fr",
+    "distance": 151035,
+    "latitude": 43.57160370158817,
+    "telephone": "0567805177",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LES MALICIEUX DE BERNADET - PLAISANCE DUTOU",
+    "resultStructId": "614801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue bernadet 31830 plaisance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.311904085038539,
+    "ville": "dutouch",
+    "cp": ""
+  }
+]

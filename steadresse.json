@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "37448180",
+    "mail": "f.despres@malittlecreche.fr",
+    "distance": 77845,
+    "latitude": 49.5088967663805,
+    "telephone": "0663203661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaLittle Crèche \"One\" Sainte Adresse",
+    "resultStructId": "703213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des phares76310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08447622663459257,
+    "ville": "steadresse",
+    "cp": ""
+  },
+  {
+    "resultId": "12824556",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 78311,
+    "latitude": 49.51574429808946,
+    "telephone": "0235545313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYSAINTE ADRESSE",
+    "resultStructId": "696941",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "63 rued'ignauval 76310",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 0.08041596363254198,
+    "ville": "steadresse",
+    "cp": ""
+  }
+]

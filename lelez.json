@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12778718",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 57023,
+    "latitude": 43.63604004570101,
+    "telephone": "0467043730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LES NYMPHEAS",
+    "resultStructId": "687428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 route de nimes 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9258299636679856,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778761",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 58995,
+    "latitude": 43.63276510336863,
+    "telephone": "0467107191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF CHARLOTTE FERRERES",
+    "resultStructId": "687417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose defrance 34170 castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12776955",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 58995,
+    "latitude": 43.63276510336863,
+    "telephone": "0620907118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS JEAN MOULIN",
+    "resultStructId": "687423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose de france 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "38095133",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 59227,
+    "latitude": 43.63273380988721,
+    "telephone": "0411281911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MADIBA",
+    "resultStructId": "687418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31-71 rue saint teresa de calcutta 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8975107027390736,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12801336",
+    "mail": "creche@prades-le-lez.fr",
+    "distance": 63202,
+    "latitude": 43.69883836078899,
+    "telephone": "0467595075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMaison de la petite enfance",
+    "resultStructId": "435201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 rue georges brassens34730 prades",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8648912984612034,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778718",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 453083,
+    "latitude": 43.63604004570101,
+    "telephone": "0467043730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LES NYMPHEAS",
+    "resultStructId": "687428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 route de nimes 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9258299636679856,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778761",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 454888,
+    "latitude": 43.63276510336863,
+    "telephone": "0467107191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF CHARLOTTE FERRERES",
+    "resultStructId": "687417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose defrance 34170 castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12776955",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 454888,
+    "latitude": 43.63276510336863,
+    "telephone": "0620907118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS JEAN MOULIN",
+    "resultStructId": "687423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose de france 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "38095133",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 455108,
+    "latitude": 43.63273380988721,
+    "telephone": "0411281911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MADIBA",
+    "resultStructId": "687418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31-71 rue saint teresa de calcutta 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8975107027390736,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "38095133",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 3807,
+    "latitude": 43.63273380988721,
+    "telephone": "0411281911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MADIBA",
+    "resultStructId": "687418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31-71 rue saint teresa de calcutta 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8975107027390736,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778761",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 3821,
+    "latitude": 43.63276510336863,
+    "telephone": "0467107191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF CHARLOTTE FERRERES",
+    "resultStructId": "687417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose defrance 34170 castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12776955",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 3821,
+    "latitude": 43.63276510336863,
+    "telephone": "0620907118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS JEAN MOULIN",
+    "resultStructId": "687423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee rose de france 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9004275151469905,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778718",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 4782,
+    "latitude": 43.63604004570101,
+    "telephone": "0467043730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LES NYMPHEAS",
+    "resultStructId": "687428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 route de nimes 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9258299636679856,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12801336",
+    "mail": "creche@prades-le-lez.fr",
+    "distance": 11449,
+    "latitude": 43.69883836078899,
+    "telephone": "0467595075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMaison de la petite enfance",
+    "resultStructId": "435201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 rue georges brassens34730 prades",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8648912984612034,
+    "ville": "lelez",
+    "cp": ""
+  },
+  {
+    "resultId": "12778718",
+    "mail": "petiteenfance@castelnau-le-lez.fr",
+    "distance": 175135,
+    "latitude": 43.63604004570101,
+    "telephone": "0467043730",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LES NYMPHEAS",
+    "resultStructId": "687428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "405 route de nimes 34170castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9258299636679856,
+    "ville": "lelez",
+    "cp": ""
+  }
+]

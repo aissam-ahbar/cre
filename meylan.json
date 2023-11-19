@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "41109750",
+    "mail": "",
+    "distance": 432277,
+    "latitude": 45.20953334055406,
+    "telephone": "0476410401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL INOVALLEE",
+    "resultStructId": "212601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.788276305551565,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12884893",
+    "mail": "",
+    "distance": 432655,
+    "latitude": 45.212609866764524,
+    "telephone": "0476619076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilde Bérivière",
+    "resultStructId": "90816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 chemin de beriviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7859942070421475,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12898954",
+    "mail": "",
+    "distance": 432813,
+    "latitude": 45.20751797356282,
+    "telephone": "0476907463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Buclos",
+    "resultStructId": "90814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue du vercors",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.773993928916031,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12882055",
+    "mail": "",
+    "distance": 432829,
+    "latitude": 45.2098100597976,
+    "telephone": "0476904762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Maupertuis",
+    "resultStructId": "90812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cours des challendes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.777639216325512,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "58730710",
+    "mail": "contact@microcreche-leschamallows.fr",
+    "distance": 433190,
+    "latitude": 45.219185185323,
+    "telephone": "0769599780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Chamallows",
+    "resultStructId": "688125",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee des fleurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.786641172025991,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12865156",
+    "mail": "",
+    "distance": 433205,
+    "latitude": 45.20674319437407,
+    "telephone": "0476904795",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Ayguinards",
+    "resultStructId": "90815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue des aiguinards",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.764775242847917,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12898954",
+    "mail": "",
+    "distance": 140940,
+    "latitude": 45.20751797356282,
+    "telephone": "0476907463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Buclos",
+    "resultStructId": "90814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue du vercors",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.773993928916031,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12865156",
+    "mail": "",
+    "distance": 140975,
+    "latitude": 45.20674319437407,
+    "telephone": "0476904795",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Ayguinards",
+    "resultStructId": "90815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue des aiguinards",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.764775242847917,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "41109750",
+    "mail": "",
+    "distance": 140982,
+    "latitude": 45.20953334055406,
+    "telephone": "0476410401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL INOVALLEE",
+    "resultStructId": "212601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.788276305551565,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12882055",
+    "mail": "",
+    "distance": 141145,
+    "latitude": 45.2098100597976,
+    "telephone": "0476904762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde Maupertuis",
+    "resultStructId": "90812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cours des challendes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.777639216325512,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "12884893",
+    "mail": "",
+    "distance": 141348,
+    "latitude": 45.212609866764524,
+    "telephone": "0476619076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilde Bérivière",
+    "resultStructId": "90816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 chemin de beriviere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7859942070421475,
+    "ville": "meylan",
+    "cp": "38240"
+  },
+  {
+    "resultId": "58730710",
+    "mail": "contact@microcreche-leschamallows.fr",
+    "distance": 142062,
+    "latitude": 45.219185185323,
+    "telephone": "0769599780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Chamallows",
+    "resultStructId": "688125",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee des fleurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.786641172025991,
+    "ville": "meylan",
+    "cp": "38240"
+  }
+]

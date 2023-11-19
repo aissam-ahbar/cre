@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12852944",
+    "mail": "contact@lescampacreches.fr",
+    "distance": 181460,
+    "latitude": 45.75244912031993,
+    "telephone": "0601202086",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Campacrèches",
+    "resultStructId": "8646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 route de cremieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.111389501331133,
+    "ville": "janneyrias",
+    "cp": "38280"
+  },
+  {
+    "resultId": "28515361",
+    "mail": "janneyrias.1@lpcr.fr",
+    "distance": 181460,
+    "latitude": 45.75244912031993,
+    "telephone": "0426072648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMALICIEUX DE CREMIEU 1",
+    "resultStructId": "46201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 route de cremieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.111389501331133,
+    "ville": "janneyrias",
+    "cp": "38280"
+  },
+  {
+    "resultId": "28515470",
+    "mail": "janneyrias.2@lpcr.fr",
+    "distance": 181460,
+    "latitude": 45.75244912031993,
+    "telephone": "0426072648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMALICIEUX DE CREMIEU 2",
+    "resultStructId": "46202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 route de cremieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.111389501331133,
+    "ville": "janneyrias",
+    "cp": "38280"
+  }
+]

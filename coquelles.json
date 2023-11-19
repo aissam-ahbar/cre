@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12998456",
+    "mail": "creche-de-coquelles@orange.fr",
+    "distance": 82419,
+    "latitude": 50.93340455197336,
+    "telephone": "0321342928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les petits Poussins\"",
+    "resultStructId": "683607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "220 chemin rouge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8013838101827147,
+    "ville": "coquelles",
+    "cp": "62231"
+  },
+  {
+    "resultId": "13000907",
+    "mail": "creche-de-coquelles@orange.fr",
+    "distance": 82419,
+    "latitude": 50.93340455197336,
+    "telephone": "0977911580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants A Petits Pas",
+    "resultStructId": "683608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "220 chemin rouge cambre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8013838101827147,
+    "ville": "coquelles",
+    "cp": "62231"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12926947",
+    "mail": "multi-accueil@cc-ventadour.fr",
+    "distance": 180412,
+    "latitude": 45.40110104738054,
+    "telephone": "0555932062",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfant",
+    "resultStructId": "10367",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue martial bergeal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053114127519175,
+    "ville": "egletons",
+    "cp": "19300"
+  },
+  {
+    "resultId": "12926947",
+    "mail": "multi-accueil@cc-ventadour.fr",
+    "distance": 215170,
+    "latitude": 45.40110104738054,
+    "telephone": "0555932062",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfant",
+    "resultStructId": "10367",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue martial bergeal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.053114127519175,
+    "ville": "egletons",
+    "cp": "19300"
+  }
+]

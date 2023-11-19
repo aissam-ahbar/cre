@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13038583",
+    "mail": "creche.familiale@mairie-sarlat.fr",
+    "distance": 129961,
+    "latitude": 44.88996156878367,
+    "telephone": "0553314564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE LA MAISON DE LA PETITE ENFANCE DUPLANTIER",
+    "resultStructId": "254601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du majoral monestier 24200 sarlat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2170544627147841,
+    "ville": "lacaneda",
+    "cp": ""
+  },
+  {
+    "resultId": "13037852",
+    "mail": "labrousse.estelle@sarlat.fr",
+    "distance": 130113,
+    "latitude": 44.88805004403757,
+    "telephone": "0553314566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS CROQUANTS",
+    "resultStructId": "236806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du majoral jean monestier 24200sarlat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2206026236103757,
+    "ville": "lacaneda",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12695590",
+    "mail": "creche.elniu@saleilles.fr",
+    "distance": 169019,
+    "latitude": 42.658270058964284,
+    "telephone": "0468373290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElNiu",
+    "resultStructId": "4957",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue vincent auriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.947797057196503,
+    "ville": "saleilles",
+    "cp": "66280"
+  },
+  {
+    "resultId": "12814752",
+    "mail": "contact@les-moments-enchantes.fr",
+    "distance": 170339,
+    "latitude": 42.65674177998888,
+    "telephone": "0468891758",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES MOMENTS ENCHANTES",
+    "resultStructId": "7758",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fenouilledes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9292144198119248,
+    "ville": "saleilles",
+    "cp": "66280"
+  },
+  {
+    "resultId": "12695590",
+    "mail": "creche.elniu@saleilles.fr",
+    "distance": 129852,
+    "latitude": 42.658270058964284,
+    "telephone": "0468373290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElNiu",
+    "resultStructId": "4957",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue vincent auriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.947797057196503,
+    "ville": "saleilles",
+    "cp": "66280"
+  },
+  {
+    "resultId": "12814752",
+    "mail": "contact@les-moments-enchantes.fr",
+    "distance": 130888,
+    "latitude": 42.65674177998888,
+    "telephone": "0468891758",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES MOMENTS ENCHANTES",
+    "resultStructId": "7758",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des fenouilledes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9292144198119248,
+    "ville": "saleilles",
+    "cp": "66280"
+  }
+]

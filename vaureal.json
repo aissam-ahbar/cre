@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12623127",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 167808,
+    "latitude": 49.03385509497136,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementmixte des Sablons",
+    "resultStructId": "3272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules valles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0179823270621755,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12623213",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 168063,
+    "latitude": 49.0313189407105,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Moissons",
+    "resultStructId": "3274",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de la gerbe d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.018627746941627,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12623170",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 168707,
+    "latitude": 49.02287742021613,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLapinous",
+    "resultStructId": "3273",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 mail mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0305686235014924,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12627427",
+    "mail": "fcamus@mairie-vaureal.fr",
+    "distance": 168707,
+    "latitude": 49.02287742021613,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale des Toupets",
+    "resultStructId": "3372",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 mail mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0305686235014924,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12623127",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 185370,
+    "latitude": 49.03385509497136,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementmixte des Sablons",
+    "resultStructId": "3272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules valles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0179823270621755,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12623213",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 185404,
+    "latitude": 49.0313189407105,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes Moissons",
+    "resultStructId": "3274",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de la gerbe d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.018627746941627,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12623170",
+    "mail": "bjomotte@mairie-vaureal.fr",
+    "distance": 186235,
+    "latitude": 49.02287742021613,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLapinous",
+    "resultStructId": "3273",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 mail mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0305686235014924,
+    "ville": "vaureal",
+    "cp": "95490"
+  },
+  {
+    "resultId": "12627427",
+    "mail": "fcamus@mairie-vaureal.fr",
+    "distance": 186235,
+    "latitude": 49.02287742021613,
+    "telephone": "0134245344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale des Toupets",
+    "resultStructId": "3372",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 mail mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0305686235014924,
+    "ville": "vaureal",
+    "cp": "95490"
+  }
+]

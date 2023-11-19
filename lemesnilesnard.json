@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "37472269",
+    "mail": "les-petits-pandas1@orange.fr",
+    "distance": 163314,
+    "latitude": 49.406069704525514,
+    "telephone": "0235916718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS PANDAS",
+    "resultStructId": "533201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 route de paris 76240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1513527177843006,
+    "ville": "lemesnilesnard",
+    "cp": ""
+  },
+  {
+    "resultId": "12989039",
+    "mail": "halte.garderie@le-mesnil-esnard.fr",
+    "distance": 163428,
+    "latitude": 49.41275647851332,
+    "telephone": "0235343077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Mesniloups",
+    "resultStructId": "517201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "107 route de paris 76240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1380207772896564,
+    "ville": "lemesnilesnard",
+    "cp": ""
+  },
+  {
+    "resultId": "12989039",
+    "mail": "halte.garderie@le-mesnil-esnard.fr",
+    "distance": 131785,
+    "latitude": 49.41275647851332,
+    "telephone": "0235343077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Mesniloups",
+    "resultStructId": "517201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "107 route de paris 76240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1380207772896564,
+    "ville": "lemesnilesnard",
+    "cp": ""
+  },
+  {
+    "resultId": "37472269",
+    "mail": "les-petits-pandas1@orange.fr",
+    "distance": 132378,
+    "latitude": 49.406069704525514,
+    "telephone": "0235916718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS PANDAS",
+    "resultStructId": "533201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 route de paris 76240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1513527177843006,
+    "ville": "lemesnilesnard",
+    "cp": ""
+  }
+]

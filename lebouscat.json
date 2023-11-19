@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "58972768",
+    "mail": "cre-649@babilou.com",
+    "distance": 63439,
+    "latitude": 44.85966779172675,
+    "telephone": "0176311600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BABILOU LE BOUSCAT VICTOR HUGO",
+    "resultStructId": "691301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue victorhugo 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5895060349606362,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "51318862",
+    "mail": "contact@welovelittle.com",
+    "distance": 64491,
+    "latitude": 44.868930939603906,
+    "telephone": "0547500365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheLittle Bouscat",
+    "resultStructId": "444501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue raymond ducourneau 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.593166795649342,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "12552607",
+    "mail": "f.colin@bouscat.fr",
+    "distance": 64518,
+    "latitude": 44.86986671336127,
+    "telephone": "0556506560",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LA PASSERELLE",
+    "resultStructId": "692406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue pompiere 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5912244705080472,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "12552478",
+    "mail": "crechefamiliale@mairie-le-bouscat.fr",
+    "distance": 64678,
+    "latitude": 44.867682912122454,
+    "telephone": "0557227174",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEACCUEIL FAMILIAL",
+    "resultStructId": "692402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 avenue leon blum 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6020696287373538,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "12552564",
+    "mail": "",
+    "distance": 64678,
+    "latitude": 44.867682912122454,
+    "telephone": "0557227172",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES MOSAIQUES",
+    "resultStructId": "692403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 avenue leon blum 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6020696287373538,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "12552521",
+    "mail": "",
+    "distance": 64896,
+    "latitude": 44.86716518423823,
+    "telephone": "0556027372",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective LA CHENILLE VERTE",
+    "resultStructId": "692404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 avenue du presidentkennedy 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6096152289957768,
+    "ville": "lebouscat",
+    "cp": ""
+  },
+  {
+    "resultId": "12490550",
+    "mail": "",
+    "distance": 66192,
+    "latitude": 44.875947889509604,
+    "telephone": "0556501818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil TROTTE MENU",
+    "resultStructId": "217501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "138 route du medoc 33110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6214758003932763,
+    "ville": "lebouscat",
+    "cp": ""
+  }
+]

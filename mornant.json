@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12890999",
+    "mail": "lesfifrelous@slea.asso.fr",
+    "distance": 184875,
+    "latitude": 45.62113597157742,
+    "telephone": "0478440690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Frifrelous",
+    "resultStructId": "9531",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.6699050101543245,
+    "ville": "mornant",
+    "cp": "69440"
+  },
+  {
+    "resultId": "12890956",
+    "mail": "eaje.ribambelle@wanadoo.fr",
+    "distance": 185031,
+    "latitude": 45.62006661943038,
+    "telephone": "0478440814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Ribambelle",
+    "resultStructId": "9530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue du souvenir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.672304022025108,
+    "ville": "mornant",
+    "cp": "69440"
+  }
+]

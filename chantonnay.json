@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "45856252",
+    "mail": "bullesenpagaille@gmail.com",
+    "distance": 101723,
+    "latitude": 46.70108504787422,
+    "telephone": "0686616380",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Bulles en Pagaille\"",
+    "resultStructId": "556001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des colzas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0471345941328118,
+    "ville": "chantonnay",
+    "cp": "85110"
+  },
+  {
+    "resultId": "12558670",
+    "mail": "petite.enfance@ville-chantonnay.fr",
+    "distance": 103686,
+    "latitude": 46.683660927143464,
+    "telephone": "0228155254",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"A PETITS PAS\"",
+    "resultStructId": "1773",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue des acacias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0544860908932336,
+    "ville": "chantonnay",
+    "cp": "85110"
+  },
+  {
+    "resultId": "45856252",
+    "mail": "bullesenpagaille@gmail.com",
+    "distance": 101723,
+    "latitude": 46.70108504787422,
+    "telephone": "0686616380",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Bulles en Pagaille\"",
+    "resultStructId": "556001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue des colzas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0471345941328118,
+    "ville": "chantonnay",
+    "cp": "85110"
+  },
+  {
+    "resultId": "12558670",
+    "mail": "petite.enfance@ville-chantonnay.fr",
+    "distance": 103686,
+    "latitude": 46.683660927143464,
+    "telephone": "0228155254",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL\"A PETITS PAS\"",
+    "resultStructId": "1773",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue des acacias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0544860908932336,
+    "ville": "chantonnay",
+    "cp": "85110"
+  }
+]

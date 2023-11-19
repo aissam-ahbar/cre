@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12881668",
+    "mail": "multi.accueil.biviers@le-gresivaudan.fr",
+    "distance": 433794,
+    "latitude": 45.2378105202434,
+    "telephone": "0476523837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Trotte Marmotte",
+    "resultStructId": "71409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "161 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807033839758123,
+    "ville": "biviers",
+    "cp": "38330"
+  },
+  {
+    "resultId": "12881668",
+    "mail": "multi.accueil.biviers@le-gresivaudan.fr",
+    "distance": 143873,
+    "latitude": 45.2378105202434,
+    "telephone": "0476523837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Trotte Marmotte",
+    "resultStructId": "71409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "161 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.807033839758123,
+    "ville": "biviers",
+    "cp": "38330"
+  }
+]

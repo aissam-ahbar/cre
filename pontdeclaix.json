@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33655475",
+    "mail": "petite.enfance@ville-pondeclaix.fr",
+    "distance": 430154,
+    "latitude": 45.12965908359417,
+    "telephone": "0476298064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Françoise Dolto",
+    "resultStructId": "110203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue mozart 38800 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.695523664893554,
+    "ville": "pontdeclaix",
+    "cp": ""
+  },
+  {
+    "resultId": "33655475",
+    "mail": "petite.enfance@ville-pondeclaix.fr",
+    "distance": 133620,
+    "latitude": 45.12965908359417,
+    "telephone": "0476298064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Françoise Dolto",
+    "resultStructId": "110203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue mozart 38800 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.695523664893554,
+    "ville": "pontdeclaix",
+    "cp": ""
+  }
+]

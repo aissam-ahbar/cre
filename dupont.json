@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "55943416",
+    "mail": "microcreche-25650-villedupont@outlook.fr",
+    "distance": 177873,
+    "latitude": 47.00292706347316,
+    "telephone": "0954411826",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Jardin d'Emile",
+    "resultStructId": "639401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de la fontaine 25650 ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.477355861535207,
+    "ville": "dupont",
+    "cp": ""
+  },
+  {
+    "resultId": "12882356",
+    "mail": "famille.guijarro@free.fr",
+    "distance": 450476,
+    "latitude": 45.38816587439916,
+    "telephone": "0476552879",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets de Chartreuse",
+    "resultStructId": "9330",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du 19 mars 1962 38380 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733174300541391,
+    "ville": "dupont",
+    "cp": ""
+  },
+  {
+    "resultId": "12882356",
+    "mail": "famille.guijarro@free.fr",
+    "distance": 161278,
+    "latitude": 45.38816587439916,
+    "telephone": "0476552879",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTitounets de Chartreuse",
+    "resultStructId": "9330",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du 19 mars 1962 38380 stlaurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733174300541391,
+    "ville": "dupont",
+    "cp": ""
+  }
+]

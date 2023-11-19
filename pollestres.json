@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12792263",
+    "mail": "liledestresors@orange.fr",
+    "distance": 175233,
+    "latitude": 42.64064251074992,
+    "telephone": "0468541124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Îledes trésors",
+    "resultStructId": "232904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des libertes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.870992482760351,
+    "ville": "pollestres",
+    "cp": "66450"
+  },
+  {
+    "resultId": "12792263",
+    "mail": "liledestresors@orange.fr",
+    "distance": 135189,
+    "latitude": 42.64064251074992,
+    "telephone": "0468541124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Îledes trésors",
+    "resultStructId": "232904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des libertes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.870992482760351,
+    "ville": "pollestres",
+    "cp": "66450"
+  }
+]

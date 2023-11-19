@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "12995317",
+    "mail": "contact@babydoc.fr",
+    "distance": 95156,
+    "latitude": 43.286466788233355,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Petits Matelots",
+    "resultStructId": "181304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 avenue sergents",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.508511646394659,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12808388",
+    "mail": "crechesaintandre.agde@orange.fr",
+    "distance": 96080,
+    "latitude": 43.30890996203957,
+    "telephone": "0467947507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECENTER SAINT ANDRE",
+    "resultStructId": "690208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 route de sete",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4864679740205617,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801465",
+    "mail": "colette.pascal@ccas-agde.fr",
+    "distance": 96124,
+    "latitude": 43.306727044365246,
+    "telephone": "0467946690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLouise Michel",
+    "resultStructId": "469202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du gingembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.486836818425143,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12797810",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 96616,
+    "latitude": 43.31338375629208,
+    "telephone": "0467946680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFrançoise Dolto",
+    "resultStructId": "469203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square jean felix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.47766362885746,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801250",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 96768,
+    "latitude": 43.29862037090402,
+    "telephone": "0467017454",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLucie Mathieu",
+    "resultStructId": "469102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des rosiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.482010945647356,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801680",
+    "mail": "caroline.domingo@ccas-agde.fr",
+    "distance": 96768,
+    "latitude": 43.29862037090402,
+    "telephone": "0467017455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale à Agde",
+    "resultStructId": "7454",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des rosiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.482010945647356,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12792736",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 99064,
+    "latitude": 43.2920089329946,
+    "telephone": "0467090911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Genouillade",
+    "resultStructId": "469201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du lamparo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.455121004181905,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12808388",
+    "mail": "crechesaintandre.agde@orange.fr",
+    "distance": 46197,
+    "latitude": 43.30890996203957,
+    "telephone": "0467947507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECENTER SAINT ANDRE",
+    "resultStructId": "690208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 route de sete",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4864679740205617,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801465",
+    "mail": "colette.pascal@ccas-agde.fr",
+    "distance": 46346,
+    "latitude": 43.306727044365246,
+    "telephone": "0467946690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLouise Michel",
+    "resultStructId": "469202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du gingembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.486836818425143,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12797810",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 46367,
+    "latitude": 43.31338375629208,
+    "telephone": "0467946680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFrançoise Dolto",
+    "resultStructId": "469203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square jean felix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.47766362885746,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12995317",
+    "mail": "contact@babydoc.fr",
+    "distance": 46763,
+    "latitude": 43.286466788233355,
+    "telephone": "0467783809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes Petits Matelots",
+    "resultStructId": "181304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 avenue sergents",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.508511646394659,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801250",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 47258,
+    "latitude": 43.29862037090402,
+    "telephone": "0467017454",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLucie Mathieu",
+    "resultStructId": "469102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des rosiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.482010945647356,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12801680",
+    "mail": "caroline.domingo@ccas-agde.fr",
+    "distance": 47258,
+    "latitude": 43.29862037090402,
+    "telephone": "0467017455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale municipale à Agde",
+    "resultStructId": "7454",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des rosiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.482010945647356,
+    "ville": "agde",
+    "cp": "34300"
+  },
+  {
+    "resultId": "12792736",
+    "mail": "direction.enfance@ccas-agde.fr",
+    "distance": 49327,
+    "latitude": 43.2920089329946,
+    "telephone": "0467090911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Genouillade",
+    "resultStructId": "469201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du lamparo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.455121004181905,
+    "ville": "agde",
+    "cp": "34300"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "29380977",
+    "mail": "creche@arbonne.fr",
+    "distance": 146467,
+    "latitude": 43.43205622814085,
+    "telephone": "0559231970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kilika",
+    "resultStructId": "52501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "routedu bourg maison azkenan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5518469455597843,
+    "ville": "arbonne",
+    "cp": "64210"
+  },
+  {
+    "resultId": "12954166",
+    "mail": "mairie@arbonne.fr",
+    "distance": 147879,
+    "latitude": 43.409774366037325,
+    "telephone": "0559419466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Azkenian",
+    "resultStructId": "11000",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint pee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5459762215615747,
+    "ville": "arbonne",
+    "cp": "64210"
+  }
+]

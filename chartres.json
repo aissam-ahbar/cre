@@ -1,0 +1,914 @@
+[
+  {
+    "resultId": "12514036",
+    "mail": "creche.farandole@agglo-ville.chartres.fr",
+    "distance": 159757,
+    "latitude": 48.433820023562276,
+    "telephone": "0237234218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "707733",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4862310102600544,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514509",
+    "mail": "creche.lutins@agglo-ville.chartres.fr",
+    "distance": 160128,
+    "latitude": 48.43856685077015,
+    "telephone": "0236673130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "707822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue lucien deneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5104620053231852,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514165",
+    "mail": "creche.diablotins@agglo-ville.chartres.fr",
+    "distance": 160629,
+    "latitude": 48.44344280728548,
+    "telephone": "0237344977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDiablotins",
+    "resultStructId": "707820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue foucher de chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5170817553514149,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514423",
+    "mail": "creche.jardin.poussins@agglo-ville.chartres.fr",
+    "distance": 160629,
+    "latitude": 48.44344280728548,
+    "telephone": "0236673135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin des Poussins",
+    "resultStructId": "707821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue foucher de chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5170817553514149,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12952188",
+    "mail": "creche.ronde.enfantine@agglo-ville.chartres.fr",
+    "distance": 160777,
+    "latitude": 48.44284546647763,
+    "telephone": "0236673010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLa Ronde enfantine",
+    "resultStructId": "707823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue maunoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4832105567701936,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12513907",
+    "mail": "creche.ilot.calin@agglo-ville.chartres.fr",
+    "distance": 160850,
+    "latitude": 48.44365383179718,
+    "telephone": "0237184727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îlotcâlin",
+    "resultStructId": "710203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des bouchers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4856596031597034,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12872853",
+    "mail": "chartres@lpcr.fr",
+    "distance": 160861,
+    "latitude": 48.443950953869575,
+    "telephone": "0237269093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9109",
+    "omegaId": "5108",
+    "avip": false,
+    "adresse": "rue blaise pascal - zacd'archevilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4888940753525728,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12926732",
+    "mail": "lespetitsmoutons1@gmail.com",
+    "distance": 161011,
+    "latitude": 48.44652483943333,
+    "telephone": "0237313230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits moutons",
+    "resultStructId": "10362",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue st cheron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.510190718103038,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "38873993",
+    "mail": "repere-lutins@les-cherubins.com",
+    "distance": 161233,
+    "latitude": 48.45012742375101,
+    "telephone": "0608955766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le repère des p'tits lutins\"",
+    "resultStructId": "179806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5431810269168842,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "60107721",
+    "mail": "aude.richard28@hotmail.fr",
+    "distance": 161238,
+    "latitude": 48.450222138567355,
+    "telephone": "0680405629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane des p'tits chouchoux\"",
+    "resultStructId": "704723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5443298685587867,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "59911586",
+    "mail": "aude.richard28@hotmail.fr",
+    "distance": 161238,
+    "latitude": 48.450222138567355,
+    "telephone": "0680405629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Maison des P'tits Chouchoux\"",
+    "resultStructId": "701323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5443298685587867,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "38873875",
+    "mail": "lesptitslutins@les-cherubins.com",
+    "distance": 161455,
+    "latitude": 48.450535658587505,
+    "telephone": "0608955766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe jardin des p'tits lutins",
+    "resultStructId": "179805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 avenue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.510350031157794,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514122",
+    "mail": "creche.castors@agglo-ville.chartres.fr",
+    "distance": 162371,
+    "latitude": 48.457857808516195,
+    "telephone": "0236673025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison du Castor",
+    "resultStructId": "707734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du castor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4935466268592894,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514036",
+    "mail": "creche.farandole@agglo-ville.chartres.fr",
+    "distance": 204759,
+    "latitude": 48.433820023562276,
+    "telephone": "0237234218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "707733",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4862310102600544,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12952188",
+    "mail": "creche.ronde.enfantine@agglo-ville.chartres.fr",
+    "distance": 204992,
+    "latitude": 48.44284546647763,
+    "telephone": "0236673010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLa Ronde enfantine",
+    "resultStructId": "707823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue maunoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4832105567701936,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12513907",
+    "mail": "creche.ilot.calin@agglo-ville.chartres.fr",
+    "distance": 205194,
+    "latitude": 48.44365383179718,
+    "telephone": "0237184727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îlotcâlin",
+    "resultStructId": "710203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des bouchers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4856596031597034,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12872853",
+    "mail": "chartres@lpcr.fr",
+    "distance": 205423,
+    "latitude": 48.443950953869575,
+    "telephone": "0237269093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9109",
+    "omegaId": "5108",
+    "avip": false,
+    "adresse": "rue blaise pascal - zacd'archevilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4888940753525728,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514122",
+    "mail": "creche.castors@agglo-ville.chartres.fr",
+    "distance": 206407,
+    "latitude": 48.457857808516195,
+    "telephone": "0236673025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison du Castor",
+    "resultStructId": "707734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du castor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4935466268592894,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514509",
+    "mail": "creche.lutins@agglo-ville.chartres.fr",
+    "distance": 206600,
+    "latitude": 48.43856685077015,
+    "telephone": "0236673130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "707822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue lucien deneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5104620053231852,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12952188",
+    "mail": "creche.ronde.enfantine@agglo-ville.chartres.fr",
+    "distance": 156502,
+    "latitude": 48.44284546647763,
+    "telephone": "0236673010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLa Ronde enfantine",
+    "resultStructId": "707823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue maunoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4832105567701936,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514122",
+    "mail": "creche.castors@agglo-ville.chartres.fr",
+    "distance": 156627,
+    "latitude": 48.457857808516195,
+    "telephone": "0236673025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison du Castor",
+    "resultStructId": "707734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du castor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4935466268592894,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12513907",
+    "mail": "creche.ilot.calin@agglo-ville.chartres.fr",
+    "distance": 156639,
+    "latitude": 48.44365383179718,
+    "telephone": "0237184727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îlotcâlin",
+    "resultStructId": "710203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des bouchers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4856596031597034,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12872853",
+    "mail": "chartres@lpcr.fr",
+    "distance": 156850,
+    "latitude": 48.443950953869575,
+    "telephone": "0237269093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9109",
+    "omegaId": "5108",
+    "avip": false,
+    "adresse": "rue blaise pascal - zacd'archevilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4888940753525728,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514036",
+    "mail": "creche.farandole@agglo-ville.chartres.fr",
+    "distance": 157072,
+    "latitude": 48.433820023562276,
+    "telephone": "0237234218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "707733",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4862310102600544,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "38873875",
+    "mail": "lesptitslutins@les-cherubins.com",
+    "distance": 158072,
+    "latitude": 48.450535658587505,
+    "telephone": "0608955766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe jardin des p'tits lutins",
+    "resultStructId": "179805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 avenue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.510350031157794,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12926732",
+    "mail": "lespetitsmoutons1@gmail.com",
+    "distance": 158217,
+    "latitude": 48.44652483943333,
+    "telephone": "0237313230",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes petits moutons",
+    "resultStructId": "10362",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue st cheron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.510190718103038,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514509",
+    "mail": "creche.lutins@agglo-ville.chartres.fr",
+    "distance": 158549,
+    "latitude": 48.43856685077015,
+    "telephone": "0236673130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "707822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue lucien deneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5104620053231852,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514165",
+    "mail": "creche.diablotins@agglo-ville.chartres.fr",
+    "distance": 158814,
+    "latitude": 48.44344280728548,
+    "telephone": "0237344977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDiablotins",
+    "resultStructId": "707820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue foucher de chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5170817553514149,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514423",
+    "mail": "creche.jardin.poussins@agglo-ville.chartres.fr",
+    "distance": 158814,
+    "latitude": 48.44344280728548,
+    "telephone": "0236673135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin des Poussins",
+    "resultStructId": "707821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue foucher de chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5170817553514149,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "38873993",
+    "mail": "repere-lutins@les-cherubins.com",
+    "distance": 160358,
+    "latitude": 48.45012742375101,
+    "telephone": "0608955766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le repère des p'tits lutins\"",
+    "resultStructId": "179806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5431810269168842,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "60107721",
+    "mail": "aude.richard28@hotmail.fr",
+    "distance": 160434,
+    "latitude": 48.450222138567355,
+    "telephone": "0680405629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La cabane des p'tits chouchoux\"",
+    "resultStructId": "704723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5443298685587867,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "59911586",
+    "mail": "aude.richard28@hotmail.fr",
+    "distance": 160434,
+    "latitude": 48.450222138567355,
+    "telephone": "0680405629",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La Maison des P'tits Chouchoux\"",
+    "resultStructId": "701323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gilles deroberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5443298685587867,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514036",
+    "mail": "creche.farandole@agglo-ville.chartres.fr",
+    "distance": 204759,
+    "latitude": 48.433820023562276,
+    "telephone": "0237234218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "707733",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue georges pompidou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4862310102600544,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12952188",
+    "mail": "creche.ronde.enfantine@agglo-ville.chartres.fr",
+    "distance": 204992,
+    "latitude": 48.44284546647763,
+    "telephone": "0236673010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLa Ronde enfantine",
+    "resultStructId": "707823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue maunoury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4832105567701936,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12513907",
+    "mail": "creche.ilot.calin@agglo-ville.chartres.fr",
+    "distance": 205194,
+    "latitude": 48.44365383179718,
+    "telephone": "0237184727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îlotcâlin",
+    "resultStructId": "710203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des bouchers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4856596031597034,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12872853",
+    "mail": "chartres@lpcr.fr",
+    "distance": 205423,
+    "latitude": 48.443950953869575,
+    "telephone": "0237269093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "9109",
+    "omegaId": "5108",
+    "avip": false,
+    "adresse": "rue blaise pascal - zacd'archevilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4888940753525728,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514122",
+    "mail": "creche.castors@agglo-ville.chartres.fr",
+    "distance": 206407,
+    "latitude": 48.457857808516195,
+    "telephone": "0236673025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison du Castor",
+    "resultStructId": "707734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du castor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4935466268592894,
+    "ville": "chartres",
+    "cp": "28000"
+  },
+  {
+    "resultId": "12514509",
+    "mail": "creche.lutins@agglo-ville.chartres.fr",
+    "distance": 206600,
+    "latitude": 48.43856685077015,
+    "telephone": "0236673130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "707822",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue lucien deneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5104620053231852,
+    "ville": "chartres",
+    "cp": "28000"
+  }
+]

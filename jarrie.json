@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12898309",
+    "mail": "ribambelle@lesicce.fr",
+    "distance": 424986,
+    "latitude": 45.09682054655606,
+    "telephone": "0476686830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ribambelle",
+    "resultStructId": "700011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "339 rue de la pierre du perron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742427578105441,
+    "ville": "jarrie",
+    "cp": "38560"
+  },
+  {
+    "resultId": "12898309",
+    "mail": "ribambelle@lesicce.fr",
+    "distance": 129280,
+    "latitude": 45.09682054655606,
+    "telephone": "0476686830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ribambelle",
+    "resultStructId": "700011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "339 rue de la pierre du perron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742427578105441,
+    "ville": "jarrie",
+    "cp": "38560"
+  }
+]

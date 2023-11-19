@@ -1,0 +1,554 @@
+[
+  {
+    "resultId": "12661147",
+    "mail": "anne.raynal@mairie-aubervilliers.fr",
+    "distance": 6929,
+    "latitude": 48.903261894642036,
+    "telephone": "0148334296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Marguerite le Maut",
+    "resultStructId": "4156",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 boulevard felix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3843519694750364,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661405",
+    "mail": "multiaccueil.pirouette@mairie-aubervilliers.fr",
+    "distance": 7004,
+    "latitude": 48.90417695216025,
+    "telephone": "0148346748",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux La Pirouette",
+    "resultStructId": "702099",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue bordier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3843519694750364,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "34127080",
+    "mail": "doubidou.iepc@gmail.com",
+    "distance": 7290,
+    "latitude": 48.910007291425195,
+    "telephone": "0148349439",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilassociatif Doubidou",
+    "resultStructId": "115203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 rue de la commune de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3796652002238075,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661878",
+    "mail": "houlabaloo@envoludia.org",
+    "distance": 7440,
+    "latitude": 48.91553654338873,
+    "telephone": "0148337350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HoulaBaloo",
+    "resultStructId": "451001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34bis rue du landy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3704652750976947,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661233",
+    "mail": "crosenberg@mairie-aubervilliers.fr",
+    "distance": 7450,
+    "latitude": 48.90857603324395,
+    "telephone": "0148330075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Ethel Rosenberg",
+    "resultStructId": "702106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "122 rue andre karman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3859433546077082,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12887215",
+    "mail": "haltejeux.roser@mairie-aubervilliers.fr",
+    "distance": 7510,
+    "latitude": 48.91733198457353,
+    "telephone": "0141610710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux ROSER",
+    "resultStructId": "702119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue gaetan lamy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3674193342082446,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12859308",
+    "mail": "",
+    "distance": 7588,
+    "latitude": 48.912199078683265,
+    "telephone": "0148330211",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Bernard et Mazoyer",
+    "resultStructId": "116007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12-18 rue bernard et",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.382010006999699,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661749",
+    "mail": "",
+    "distance": 7601,
+    "latitude": 48.90630372887437,
+    "telephone": "0148395008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale d' Aubervilliers",
+    "resultStructId": "4170",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue lecuyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3928419084937373,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661577",
+    "mail": "",
+    "distance": 7601,
+    "latitude": 48.90630372887437,
+    "telephone": "0148395260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Mini Crèche Lécuyer",
+    "resultStructId": "4166",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue lecuyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3928419084937373,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12962852",
+    "mail": "scoubidou.iepc@gmail.fr",
+    "distance": 7634,
+    "latitude": 48.90900712235475,
+    "telephone": "0148337488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil associatif Scoubidou",
+    "resultStructId": "452302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3890591974609294,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "59964374",
+    "mail": "clecuyer@mairie-aubervilliers.fr",
+    "distance": 7684,
+    "latitude": 48.90681058189177,
+    "telephone": "0148346463",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Lecuyer",
+    "resultStructId": "702113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue de lecuyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.393695036207227,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12859695",
+    "mail": "aubervilliers.ak@lpcr.fr",
+    "distance": 7696,
+    "latitude": 48.91276479134821,
+    "telephone": "0174733963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "117502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15-15 bis avenue de larepublique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3833165171133155,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12870230",
+    "mail": "aubervilliers.ak@lpcr.fr",
+    "distance": 7701,
+    "latitude": 48.91275675647289,
+    "telephone": "0174733963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES -AUBERVILLIERS ANNICKEKELEBE",
+    "resultStructId": "701905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3834625785317307,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "51582275",
+    "mail": "aubervilliers@lpcr.fr",
+    "distance": 7790,
+    "latitude": 48.91453208068583,
+    "telephone": "0174733269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRAUBERVILLIERS",
+    "resultStructId": "455201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue victor hugo - parc des portesde paris - batiment 264",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3818039214588613,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12665834",
+    "mail": "cmaisonee@mairie-aubervilliers.fr",
+    "distance": 7793,
+    "latitude": 48.91386028392748,
+    "telephone": "0148395005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Maisonnée",
+    "resultStructId": "702072",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis rue achille domart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.383310876397587,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661835",
+    "mail": "",
+    "distance": 8089,
+    "latitude": 48.918356545639426,
+    "telephone": "0171292275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Schaeffer\"",
+    "resultStructId": "116008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rueschaeffer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.380512960153347,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661620",
+    "mail": "",
+    "distance": 8095,
+    "latitude": 48.922084034104465,
+    "telephone": "0171294340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Buisson\"",
+    "resultStructId": "116006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue dubuisson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.37087378102467,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "53025072",
+    "mail": "microcrechelacigogne@gmail.com",
+    "distance": 8175,
+    "latitude": 48.9229706472139,
+    "telephone": "0621710222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCIGOGNE BLEUE",
+    "resultStructId": "509901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue saint denis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3706375048858823,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12868854",
+    "mail": "lespetitspoissonsrouges55@gmail.com",
+    "distance": 8196,
+    "latitude": 48.91375374425313,
+    "telephone": "0649114642",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits poissons dans l'eau",
+    "resultStructId": "701216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "170 bis rue henri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3924457245142876,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12662007",
+    "mail": "microcreche@mairie-aubervilliers.fr",
+    "distance": 8360,
+    "latitude": 48.914456510938905,
+    "telephone": "0143527365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheBruno Munan",
+    "resultStructId": "702107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue du long sentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.39465581639013,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "33609135",
+    "mail": "pipoca.iepc@gmail.com",
+    "distance": 8531,
+    "latitude": 48.91711305562465,
+    "telephone": "0148116103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil associatif PIPOCA",
+    "resultStructId": "452201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue charles tillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.393443686592814,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661319",
+    "mail": "multiaccueil.maladrerie@mairie-aubervilliers.fr",
+    "distance": 8563,
+    "latitude": 48.914409594972994,
+    "telephone": "0148344662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux La Maladrerie",
+    "resultStructId": "702081",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue lopez et jules martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.398931734386794,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  },
+  {
+    "resultId": "12661534",
+    "mail": "",
+    "distance": 8713,
+    "latitude": 48.92030926044631,
+    "telephone": "0171295865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective départementale \"Pont Blanc\"",
+    "resultStructId": "116005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue charlestillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3912200193336193,
+    "ville": "aubervilliers",
+    "cp": "93300"
+  }
+]

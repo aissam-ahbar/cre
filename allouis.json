@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12567098",
+    "mail": "crecheapetitspas@terresduhautberry.fr",
+    "distance": 146417,
+    "latitude": 47.15123206579151,
+    "telephone": "0248571011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Apetits pas",
+    "resultStructId": "210502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue chemin vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2203268707960437,
+    "ville": "allouis",
+    "cp": "18500"
+  },
+  {
+    "resultId": "12567098",
+    "mail": "crecheapetitspas@terresduhautberry.fr",
+    "distance": 43972,
+    "latitude": 47.15123206579151,
+    "telephone": "0248571011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Apetits pas",
+    "resultStructId": "210502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue chemin vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2203268707960437,
+    "ville": "allouis",
+    "cp": "18500"
+  }
+]

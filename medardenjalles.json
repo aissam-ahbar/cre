@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12554155",
+    "mail": "maj.creche@asso-confluences.fr",
+    "distance": 69293,
+    "latitude": 44.86437740289857,
+    "telephone": "0556053452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrècheIlot Câlin",
+    "resultStructId": "271401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue du commandant charcot 33160 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.725616390289578,
+    "ville": "medardenjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "32969761",
+    "mail": "petite.enfance@saint-medard-en-jalles.fr",
+    "distance": 71671,
+    "latitude": 44.88533266627981,
+    "telephone": "0556707128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL GRIBOUILLE",
+    "resultStructId": "98025",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue george clemenceau 33160 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7356927905551673,
+    "ville": "medardenjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "18399650",
+    "mail": "petiteenfance@saint-medard-en-jalles.fr",
+    "distance": 73349,
+    "latitude": 44.899170465212435,
+    "telephone": "0556014088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL SIMONE VEIL",
+    "resultStructId": "98301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue aurel chazeau 33160 st",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7447767186907324,
+    "ville": "medardenjalles",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12652582",
+    "mail": "lagrangesauxbambins@orange.fr",
+    "distance": 53869,
+    "latitude": 49.165022958007135,
+    "telephone": "0326885513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Poussins Val de Vesle",
+    "resultStructId": "3957",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jeanne d'arc 51360val",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.21572987836023,
+    "ville": "devesle",
+    "cp": ""
+  },
+  {
+    "resultId": "12652625",
+    "mail": "lagrangeauxbambins@orange.fr",
+    "distance": 53869,
+    "latitude": 49.165022958007135,
+    "telephone": "0326885513",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Lapinous Val de Vesle",
+    "resultStructId": "3958",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jeanne d'arc 51360val",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.21572987836023,
+    "ville": "devesle",
+    "cp": ""
+  }
+]

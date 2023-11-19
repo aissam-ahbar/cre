@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12666393",
+    "mail": "creche.loups@vesoul.fr",
+    "distance": 156416,
+    "latitude": 47.621908195509896,
+    "telephone": "0384971740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "261203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du breuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1570364805270845,
+    "ville": "vesoul",
+    "cp": "70000"
+  },
+  {
+    "resultId": "12612162",
+    "mail": "creche.loups@vesoul.fr",
+    "distance": 156808,
+    "latitude": 47.62428286054927,
+    "telephone": "0384754524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"les ptits loups\"",
+    "resultStructId": "704414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue serpente",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.161516480077921,
+    "ville": "vesoul",
+    "cp": "70000"
+  },
+  {
+    "resultId": "12611947",
+    "mail": "creche.marande@vesoul.fr",
+    "distance": 156982,
+    "latitude": 47.630566579072884,
+    "telephone": "0384971745",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Petite Marande",
+    "resultStructId": "438601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de barboilloz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1614183198734755,
+    "ville": "vesoul",
+    "cp": "70000"
+  },
+  {
+    "resultId": "12488142",
+    "mail": "",
+    "distance": 157497,
+    "latitude": 47.6367833990991,
+    "telephone": "0384753747",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesLutins du Villon",
+    "resultStructId": "628801",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 cours francois villon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.166043747688998,
+    "ville": "vesoul",
+    "cp": "70000"
+  }
+]

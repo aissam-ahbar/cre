@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12951887",
+    "mail": "association.cap@laposte.net",
+    "distance": 30622,
+    "latitude": 50.65380090072604,
+    "telephone": "0328364972",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Station Bout'Chou",
+    "resultStructId": "10947",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue lino ventura 59350 standre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.04672881902733,
+    "ville": "lezlille",
+    "cp": ""
+  },
+  {
+    "resultId": "12951801",
+    "mail": "association.cap@laposte.net",
+    "distance": 31125,
+    "latitude": 50.65870639970271,
+    "telephone": "0320407511",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil Enfantillages",
+    "resultStructId": "10945",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue vauban 59350 st andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0494439646675056,
+    "ville": "lezlille",
+    "cp": ""
+  },
+  {
+    "resultId": "12951844",
+    "mail": "association.cap@laposte.net",
+    "distance": 31323,
+    "latitude": 50.66105730562741,
+    "telephone": "0320408711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil L'île aux Enfants",
+    "resultStructId": "10946",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 residence des feuillesvertes 59350 st andre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0499200895174794,
+    "ville": "lezlille",
+    "cp": ""
+  },
+  {
+    "resultId": "12813290",
+    "mail": "mes2mat@hotmail.fr",
+    "distance": 31534,
+    "latitude": 50.66681788492887,
+    "telephone": "0320407472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "7724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue de quesnoy 59520 marquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.045710808751847,
+    "ville": "lezlille",
+    "cp": ""
+  },
+  {
+    "resultId": "13028736",
+    "mail": "",
+    "distance": 32918,
+    "latitude": 50.668989431820144,
+    "telephone": "0320150073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits loups",
+    "resultStructId": "12734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue st exupery 59520 marquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0690576257329054,
+    "ville": "lezlille",
+    "cp": ""
+  },
+  {
+    "resultId": "23050158",
+    "mail": "contact@babilou.com",
+    "distance": 33480,
+    "latitude": 50.68032735093822,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMarquette Wambrechies",
+    "resultStructId": "709020",
+    "omegaId": "15292",
+    "avip": false,
+    "adresse": "68 rue wambrechies 59520marquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0635774532366935,
+    "ville": "lezlille",
+    "cp": ""
+  }
+]

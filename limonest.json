@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12573333",
+    "mail": "creche@limonest.fr",
+    "distance": 163698,
+    "latitude": 45.835634037229205,
+    "telephone": "0472525747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Galipette",
+    "resultStructId": "549003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 mails des monts d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.77088296362771,
+    "ville": "limonest",
+    "cp": "69760"
+  },
+  {
+    "resultId": "13006153",
+    "mail": "limonest@lpcr.fr",
+    "distance": 166357,
+    "latitude": 45.81156420708965,
+    "telephone": "0437464539",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles petits chaperons rouges",
+    "resultStructId": "12209",
+    "omegaId": "1703",
+    "avip": false,
+    "adresse": "462 chemin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7750837587458665,
+    "ville": "limonest",
+    "cp": "69760"
+  },
+  {
+    "resultId": "21383253",
+    "mail": "limonade@people-and-baby.com",
+    "distance": 166560,
+    "latitude": 45.80968364304589,
+    "telephone": "0950074136",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchelimonade",
+    "resultStructId": "15480",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "540 allee des hetres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.775202742595627,
+    "ville": "limonest",
+    "cp": "69760"
+  },
+  {
+    "resultId": "13016516",
+    "mail": "doudouenescale@gmail.com",
+    "distance": 166560,
+    "latitude": 45.809886838251415,
+    "telephone": "0673690741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche DOUDOU EN ESCALE",
+    "resultStructId": "12450",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee des sequoias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.776181384759903,
+    "ville": "limonest",
+    "cp": "69760"
+  },
+  {
+    "resultId": "13016473",
+    "mail": "doudouenescale@gmail.com",
+    "distance": 166761,
+    "latitude": 45.80773355340561,
+    "telephone": "0673690741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche DOUDOU EN ESCALE L'ETANG",
+    "resultStructId": "12449",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "330 allee des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.774888922691885,
+    "ville": "limonest",
+    "cp": "69760"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13025382",
+    "mail": "contact@kidsup.fr",
+    "distance": 128002,
+    "latitude": 48.86400176522593,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheKids'Up Myosotis",
+    "resultStructId": "12656",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de courtalin 77700 magny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8083476506295324,
+    "ville": "lehongre",
+    "cp": ""
+  },
+  {
+    "resultId": "58345053",
+    "mail": "magny.hongre@lpcr.fr",
+    "distance": 128026,
+    "latitude": 48.8665793263385,
+    "telephone": "0155904457",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesPetits Chaperons Rouges - MAGNY LE HONGRE",
+    "resultStructId": "683601",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue decourtalin 77700 magny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.808429336367196,
+    "ville": "lehongre",
+    "cp": ""
+  }
+]

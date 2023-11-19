@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13049204",
+    "mail": "creche.grainedemalice@grandperigueux.fr",
+    "distance": 123249,
+    "latitude": 45.19223892569281,
+    "telephone": "0553539660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRAINEDE MALICE",
+    "resultStructId": "13210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue franck grandou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7731899966648514,
+    "ville": "trelissac",
+    "cp": "24750"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12624202",
+    "mail": "hezezc@villedegarges.com",
+    "distance": 168528,
+    "latitude": 48.97245960758883,
+    "telephone": "0134450460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie du Plein Midi",
+    "resultStructId": "3297",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du plein midi 95140",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.39383991121549,
+    "ville": "gargeslesgonesse",
+    "cp": ""
+  },
+  {
+    "resultId": "12624288",
+    "mail": "wegerichk@villedegarges.com",
+    "distance": 168921,
+    "latitude": 48.968640311204844,
+    "telephone": "0139866807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minicrèche des Doucettes",
+    "resultStructId": "3299",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 bis rue des louvres 95140",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.396639626193735,
+    "ville": "gargeslesgonesse",
+    "cp": ""
+  }
+]

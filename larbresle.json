@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12907683",
+    "mail": "lesoisillonsduravatel@gmail.com",
+    "distance": 160041,
+    "latitude": 45.84119077533641,
+    "telephone": "0981980005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes oisillons du ravatel",
+    "resultStructId": "85011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 c rue louis foucre 69210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.6138011503962675,
+    "ville": "larbresle",
+    "cp": ""
+  },
+  {
+    "resultId": "12908672",
+    "mail": "geraldinemeha@orange.fr",
+    "distance": 160728,
+    "latitude": 45.83504183880781,
+    "telephone": "0636591037",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants 1, 2, 3 Soleil",
+    "resultStructId": "9942",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "montee saint germain 69210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.614968635108016,
+    "ville": "larbresle",
+    "cp": ""
+  },
+  {
+    "resultId": "12907726",
+    "mail": "hg.larbresle@mairie-larbresle.fr",
+    "distance": 160827,
+    "latitude": 45.83446547081739,
+    "telephone": "0474013305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPause Tendresse",
+    "resultStructId": "692301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue claude terrasse 69210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.617081186733925,
+    "ville": "larbresle",
+    "cp": ""
+  }
+]

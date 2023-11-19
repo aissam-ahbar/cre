@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "39871298",
+    "mail": "nannyetcompagnie@gmail.com",
+    "distance": 138850,
+    "latitude": 49.4165695775453,
+    "telephone": "0382580049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Nanny & Compagnie\" - Hettange-Grande",
+    "resultStructId": "194924",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des metiers57330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.137844253757087,
+    "ville": "hettangegrande",
+    "cp": ""
+  },
+  {
+    "resultId": "28320000",
+    "mail": "contactcreches@infans.fr",
+    "distance": 139256,
+    "latitude": 49.40561388691873,
+    "telephone": "0650872464",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheINFANS - Hettange Grande",
+    "resultStructId": "710404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du general de gaulle57330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.155130117685685,
+    "ville": "hettangegrande",
+    "cp": ""
+  },
+  {
+    "resultId": "12506855",
+    "mail": "leslucioles@cc-ce.com",
+    "distance": 139503,
+    "latitude": 49.400472415178044,
+    "telephone": "0382542259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"les lucioles\" - Hettange-Grande",
+    "resultStructId": "637301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 chemin du vicus57330",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1640412816806425,
+    "ville": "hettangegrande",
+    "cp": ""
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13023576",
+    "mail": "",
+    "distance": 111734,
+    "latitude": 48.881141184540255,
+    "telephone": "0383804100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structure-multi-accueil\"La Maison des Enfants\"",
+    "resultStructId": "12614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue francoise dolto - quartierenclumechamps 54700 blenod les pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.052975325618087,
+    "ville": "amousson",
+    "cp": ""
+  },
+  {
+    "resultId": "12493517",
+    "mail": "cherubins.pam@orange.fr",
+    "distance": 112252,
+    "latitude": 48.90395398927857,
+    "telephone": "0383831401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Les Chérubins\"",
+    "resultStructId": "258",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place saint antoine54700 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0548676463061835,
+    "ville": "amousson",
+    "cp": ""
+  },
+  {
+    "resultId": "13023017",
+    "mail": "",
+    "distance": 112252,
+    "latitude": 48.903954288490915,
+    "telephone": "0383831401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchefamiliale \"Les Chérubins\"",
+    "resultStructId": "12601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place saint antoine 54700pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.054867684223573,
+    "ville": "amousson",
+    "cp": ""
+  },
+  {
+    "resultId": "46624572",
+    "mail": "cherubins.pam@orange.fr",
+    "distance": 112252,
+    "latitude": 48.903954288490915,
+    "telephone": "0383831401",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Chérubins\"",
+    "resultStructId": "325301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 place saint antoine 54700 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.054867684223573,
+    "ville": "amousson",
+    "cp": ""
+  },
+  {
+    "resultId": "12700965",
+    "mail": "admr.petitspasapont@fede54.admr.org",
+    "distance": 113151,
+    "latitude": 48.92379717814987,
+    "telephone": "0383812977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ADMR Petits pas à Pont",
+    "resultStructId": "5082",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue edmond michelet54700 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.062127599704783,
+    "ville": "amousson",
+    "cp": ""
+  },
+  {
+    "resultId": "57070339",
+    "mail": "lharchouche@achilleetcamille.com",
+    "distance": 113744,
+    "latitude": 48.922645009659114,
+    "telephone": "0383408889",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane d'Achille & Camille - Les P'tites Chipies",
+    "resultStructId": "671408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "328rue pierre adt 54700 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0707003087150815,
+    "ville": "amousson",
+    "cp": ""
+  }
+]

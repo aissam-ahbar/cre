@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13068898",
+    "mail": "creche.pommedapi@damvillers-spincourt.fr",
+    "distance": 105379,
+    "latitude": 49.329434142386084,
+    "telephone": "0329850797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Pomme d'Api",
+    "resultStructId": "273401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place louis bertrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.665451976726722,
+    "ville": "spincourt",
+    "cp": "55230"
+  }
+]

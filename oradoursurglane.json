@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12905920",
+    "mail": "brindeveil@mutualitelimousine.fr",
+    "distance": 129380,
+    "latitude": 45.93014985378607,
+    "telephone": "0975909878",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Brin d'Eveil",
+    "resultStructId": "217701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la glane 87520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0284244689798463,
+    "ville": "oradoursurglane",
+    "cp": ""
+  },
+  {
+    "resultId": "12905920",
+    "mail": "brindeveil@mutualitelimousine.fr",
+    "distance": 202070,
+    "latitude": 45.93014985378607,
+    "telephone": "0975909878",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Brin d'Eveil",
+    "resultStructId": "217701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la glane 87520",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0284244689798463,
+    "ville": "oradoursurglane",
+    "cp": ""
+  }
+]

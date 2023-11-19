@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12900158",
+    "mail": "aupaysdesdoudous@centresocialtarare.fr",
+    "distance": 151260,
+    "latitude": 45.89870535744548,
+    "telephone": "0774053876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAu Pays des Doudous",
+    "resultStructId": "104202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du docteur guffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.434609985359674,
+    "ville": "tarare",
+    "cp": "69170"
+  },
+  {
+    "resultId": "12908199",
+    "mail": "lesptitsmousses@centresocialtarare.fr",
+    "distance": 151627,
+    "latitude": 45.895288479377534,
+    "telephone": "0474050674",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les P'tits Mousses",
+    "resultStructId": "104203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "esplanade de l'amitieentre les peuples",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.43371993707389,
+    "ville": "tarare",
+    "cp": "69170"
+  },
+  {
+    "resultId": "12908242",
+    "mail": "apetitspas@centresocialtarare.fr",
+    "distance": 152748,
+    "latitude": 45.885659705944995,
+    "telephone": "0474053894",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilA Petits Pas",
+    "resultStructId": "104201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 boulevard de la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.4393620208485824,
+    "ville": "tarare",
+    "cp": "69170"
+  }
+]

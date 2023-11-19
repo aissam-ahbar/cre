@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "50974679",
+    "mail": "mcmontsetmerveilles@cc-flandreinterieure.fr",
+    "distance": 42024,
+    "latitude": 50.82122323802545,
+    "telephone": "0374540009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Monts et Merveilles",
+    "resultStructId": "437801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "689 place straete",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.485899367128695,
+    "ville": "hardifort",
+    "cp": "59670"
+  },
+  {
+    "resultId": "12789812",
+    "mail": "",
+    "distance": 42024,
+    "latitude": 50.82122323802545,
+    "telephone": "0966954725",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS \"Les Petits Poucets\"",
+    "resultStructId": "7178",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "689 place straete",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.485899367128695,
+    "ville": "hardifort",
+    "cp": "59670"
+  }
+]

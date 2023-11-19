@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "37621085",
+    "mail": "",
+    "distance": 192837,
+    "latitude": 48.68699473158414,
+    "telephone": "0164541954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilCollectif et Familial \"Les Petits Explorateurs\"",
+    "resultStructId": "696906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27rue jules ferry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.300190005094078,
+    "ville": "longjumeau",
+    "cp": "91160"
+  },
+  {
+    "resultId": "12522335",
+    "mail": "",
+    "distance": 193153,
+    "latitude": 48.68876298834191,
+    "telephone": "0169796512",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective - Yvonne Estival - Longjumeau",
+    "resultStructId": "608801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue danielmayer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3071666119123737,
+    "ville": "longjumeau",
+    "cp": "91160"
+  },
+  {
+    "resultId": "12760959",
+    "mail": "creche.chl@gh-nord-essonne.fr",
+    "distance": 193277,
+    "latitude": 48.69192093097675,
+    "telephone": "0169543426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière - Bout'chou",
+    "resultStructId": "6507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.295062730123406,
+    "ville": "longjumeau",
+    "cp": "91160"
+  },
+  {
+    "resultId": "12871004",
+    "mail": "",
+    "distance": 193428,
+    "latitude": 48.68934328143677,
+    "telephone": "0169100011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crècheparentale Hibiscus",
+    "resultStructId": "609102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 a 6 rue rameau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.318865727627683,
+    "ville": "longjumeau",
+    "cp": "91160"
+  }
+]

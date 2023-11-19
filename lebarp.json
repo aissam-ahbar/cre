@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "36554768",
+    "mail": "havre.de.paix.et.papillons@gmail.com",
+    "distance": 49710,
+    "latitude": 44.59640725033648,
+    "telephone": "0695060310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Havrede paix et Papillons",
+    "resultStructId": "148901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin de la scierie 33114",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7573674484144631,
+    "ville": "lebarp",
+    "cp": ""
+  },
+  {
+    "resultId": "57323840",
+    "mail": "laurec@ub4kids.com",
+    "distance": 51143,
+    "latitude": 44.60557202148352,
+    "telephone": "0564310940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Zephyr",
+    "resultStructId": "674530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1avenue du medoc parc laseris 33114",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7705322555426696,
+    "ville": "lebarp",
+    "cp": ""
+  },
+  {
+    "resultId": "18399741",
+    "mail": "lesfripounets@ville-le-barp.fr",
+    "distance": 51352,
+    "latitude": 44.608313705428664,
+    "telephone": "0556882975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES FRIPOUNETS",
+    "resultStructId": "676308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du parc 33114",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7711171497165866,
+    "ville": "lebarp",
+    "cp": ""
+  }
+]

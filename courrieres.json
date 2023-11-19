@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "56559277",
+    "mail": "unpasdavance62@orange.fr",
+    "distance": 16245,
+    "latitude": 50.443633733683725,
+    "telephone": "0620436265",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Unpas d'avance",
+    "resultStructId": "655001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124 rue raoul briquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.943787796469612,
+    "ville": "courrieres",
+    "cp": "62710"
+  },
+  {
+    "resultId": "13000305",
+    "mail": "la-ribambelle@courrieres.fr",
+    "distance": 16848,
+    "latitude": 50.458990312990466,
+    "telephone": "0621751834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Ribambelle\" -",
+    "resultStructId": "188105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 chemin saint-roch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9560765828665962,
+    "ville": "courrieres",
+    "cp": "62710"
+  }
+]

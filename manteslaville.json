@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "40945136",
+    "mail": "babybulle.mantes@gmail.com",
+    "distance": 162373,
+    "latitude": 48.9842176871041,
+    "telephone": "0769804425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - BABYBULLE MANTES",
+    "resultStructId": "676320",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 rue de dreux 78711",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7051279729892048,
+    "ville": "manteslaville",
+    "cp": ""
+  },
+  {
+    "resultId": "12581761",
+    "mail": "creche.famliliale@mairie-manteslaville.fr",
+    "distance": 163011,
+    "latitude": 48.97454221364496,
+    "telephone": "0130985544",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHEFAMILIALE - LES BOUT'EN TRAIN",
+    "resultStructId": "675219",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue du parc 78711",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7141511542177041,
+    "ville": "manteslaville",
+    "cp": ""
+  }
+]

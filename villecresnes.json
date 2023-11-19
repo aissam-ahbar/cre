@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13066232",
+    "mail": "service.petiteenfance@villecresnes.fr",
+    "distance": 147166,
+    "latitude": 48.72202769499932,
+    "telephone": "0143823991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Léon Constantin",
+    "resultStructId": "679817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 impasse du mont ezard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.537923674224269,
+    "ville": "villecresnes",
+    "cp": "94440"
+  },
+  {
+    "resultId": "18073067",
+    "mail": "",
+    "distance": 147405,
+    "latitude": 48.72553286585273,
+    "telephone": "0172502702",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Comme Un Poisson Dans l'Eau",
+    "resultStructId": "691201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue du generalleclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5345632394112645,
+    "ville": "villecresnes",
+    "cp": "94440"
+  }
+]

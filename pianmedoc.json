@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58917283",
+    "mail": "kokoonpian@creches-kokoon.fr",
+    "distance": 74247,
+    "latitude": 44.95410380805293,
+    "telephone": "0638119211",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "microcrècheKoKooN Pian",
+    "resultStructId": "690326",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "473 route de pauillac 33290 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6286963278310186,
+    "ville": "pianmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "12615086",
+    "mail": "petitspas@medoc-estuaire.fr",
+    "distance": 75945,
+    "latitude": 44.95513266738476,
+    "telephone": "0556281621",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A PETITS PAS",
+    "resultStructId": "3085",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "137 allee grammont 33290 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6748945745656185,
+    "ville": "pianmedoc",
+    "cp": ""
+  }
+]

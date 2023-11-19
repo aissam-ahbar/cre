@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12848171",
+    "mail": "sabine.catteau@ville-rouvroy62.fr",
+    "distance": 15267,
+    "latitude": 50.406525926422816,
+    "telephone": "0321088933",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centremulti accueil Anne Sylvestre",
+    "resultStructId": "217104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rosenberg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.907391660425046,
+    "ville": "rouvroy",
+    "cp": "62320"
+  },
+  {
+    "resultId": "59529425",
+    "mail": "maisondesmerveilles@hotmail.com",
+    "distance": 15433,
+    "latitude": 50.405552372294224,
+    "telephone": "0767971074",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "maisondes merveilles",
+    "resultStructId": "698105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue charles demuynck",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.909220531746663,
+    "ville": "rouvroy",
+    "cp": "62320"
+  },
+  {
+    "resultId": "46758074",
+    "mail": "celine.leonardczyk@people-and-baby.com",
+    "distance": 16137,
+    "latitude": 50.396537055297,
+    "telephone": "0321203859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Pomme",
+    "resultStructId": "328201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue claude bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.912368222533961,
+    "ville": "rouvroy",
+    "cp": "62320"
+  }
+]

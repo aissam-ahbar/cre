@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12821546",
+    "mail": "lespiouspious@orange.fr",
+    "distance": 137008,
+    "latitude": 45.81162559685648,
+    "telephone": "0555507720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pious Pious",
+    "resultStructId": "7916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2266807224879235,
+    "ville": "isle",
+    "cp": "87170"
+  },
+  {
+    "resultId": "12906135",
+    "mail": "lesbambislois@mutualitelimousine.fr",
+    "distance": 137050,
+    "latitude": 45.8111536339184,
+    "telephone": "0519991011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Bamb'Islois",
+    "resultStructId": "9883",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2271160355818982,
+    "ville": "isle",
+    "cp": "87170"
+  },
+  {
+    "resultId": "12906135",
+    "mail": "lesbambislois@mutualitelimousine.fr",
+    "distance": 199283,
+    "latitude": 45.8111536339184,
+    "telephone": "0519991011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Bamb'Islois",
+    "resultStructId": "9883",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2271160355818982,
+    "ville": "isle",
+    "cp": "87170"
+  },
+  {
+    "resultId": "12821546",
+    "mail": "lespiouspious@orange.fr",
+    "distance": 199306,
+    "latitude": 45.81162559685648,
+    "telephone": "0555507720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pious Pious",
+    "resultStructId": "7916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2266807224879235,
+    "ville": "isle",
+    "cp": "87170"
+  }
+]

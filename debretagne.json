@@ -1,0 +1,914 @@
+[
+  {
+    "resultId": "13064770",
+    "mail": "multiaccueil.mdp@outlook.fr",
+    "distance": 41276,
+    "latitude": 47.94538664950609,
+    "telephone": "0299961527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPas à pas - Kreiz 23 - La Guerche de Bretagne",
+    "resultStructId": "692237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bisavenue general leclerc 35130 la guerche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2310698078912312,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12941438",
+    "mail": "multi-accueil@ville-baindebretagne.fr",
+    "distance": 59050,
+    "latitude": 47.843549997995105,
+    "telephone": "0299433526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal \"La Bulle Enchantée\" - Bain de Bretagne",
+    "resultStructId": "181203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31avenue general patton 35470 bain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923993851536212,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12495847",
+    "mail": "",
+    "distance": 62436,
+    "latitude": 47.33117641785209,
+    "telephone": "0240573687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue anne de bretagne 44360 vigneux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6968982257922747,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12655592",
+    "mail": "auptitfagus@faydebretagne.fr",
+    "distance": 64999,
+    "latitude": 47.413446188738156,
+    "telephone": "0228050991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuP'tit Fagus",
+    "resultStructId": "176103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du lavoir 44130 fay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.792453875325828,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "57259065",
+    "mail": "bonjour@lilyandwolf.com",
+    "distance": 65397,
+    "latitude": 47.40740277307059,
+    "telephone": "0618552940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lilyand Wolf",
+    "resultStructId": "673724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue charles de gaulle 44130 fay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7947354473318984,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "60148750",
+    "mail": "contact@les3petitschats.fr",
+    "distance": 66069,
+    "latitude": 47.32488588660977,
+    "telephone": "0240102595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 petits chats",
+    "resultStructId": "705608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6bis rue du moulin neuf 44360 vigneux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7472154974496614,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "36970147",
+    "mail": "chartres@leszouzousrennais.fr",
+    "distance": 71120,
+    "latitude": 48.038917821187034,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Chartres - Les Zouzous Rennais - Chartres deBretagne",
+    "resultStructId": "149809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b rue leo lagrange 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.692975940026586,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12828555",
+    "mail": "creche.millepattes@orange.fr",
+    "distance": 71377,
+    "latitude": 48.03669646329471,
+    "telephone": "0299771901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMille-Pattes - Chartres de Bretagne",
+    "resultStructId": "699604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue debroceliande 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7004659564447366,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "33524079",
+    "mail": "contact@vivamini.fr",
+    "distance": 71822,
+    "latitude": 48.036377236254744,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Chartres de Bretagne",
+    "resultStructId": "541401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 avenue du maine35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7087575191687039,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12631168",
+    "mail": "tintinabulle@ville-chartresdebretagne.fr",
+    "distance": 72104,
+    "latitude": 48.042377578181146,
+    "telephone": "0299413532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilMunicipal Tintinabulle - Chartres de Bretagne",
+    "resultStructId": "708801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ruemadame de janze 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7060268807541379,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38923798",
+    "mail": "halte.senseneveil.saintaubin@admr35.org",
+    "distance": 89903,
+    "latitude": 48.333162167536386,
+    "telephone": "0299395187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieSens en Eveil - ADMR - Sens de Bretagne",
+    "resultStructId": "487101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue desruelles 35490 sens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5340342457928324,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12485691",
+    "mail": "multi-accueil.lescoccinelles@wanadoo.fr",
+    "distance": 93445,
+    "latitude": 47.32948500618401,
+    "telephone": "0240451556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoccinelles",
+    "resultStructId": "149301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de normandie 44550 montoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.149363699824911,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38933490",
+    "mail": "accueil@stmeen-montauban.fr",
+    "distance": 103050,
+    "latitude": 48.198272074692454,
+    "telephone": "0299065492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Berruchettes - CdC St Méen Montauban - Montauban deBgne",
+    "resultStructId": "500401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean zay 35360 montauban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.054016703718867,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12800476",
+    "mail": "contact@grainedepirate.fr",
+    "distance": 118792,
+    "latitude": 48.54976743792596,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraine de Pirate - SAS Crèche de Dol - Dol deBretagne",
+    "resultStructId": "703605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de la baie, pa les rolandieres 35120dol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7535411588821428,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38923798",
+    "mail": "halte.senseneveil.saintaubin@admr35.org",
+    "distance": 99902,
+    "latitude": 48.333162167536386,
+    "telephone": "0299395187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieSens en Eveil - ADMR - Sens de Bretagne",
+    "resultStructId": "487101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue desruelles 35490 sens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5340342457928324,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12800476",
+    "mail": "contact@grainedepirate.fr",
+    "distance": 100008,
+    "latitude": 48.54976743792596,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraine de Pirate - SAS Crèche de Dol - Dol deBretagne",
+    "resultStructId": "703605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de la baie, pa les rolandieres 35120dol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7535411588821428,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "13064770",
+    "mail": "multiaccueil.mdp@outlook.fr",
+    "distance": 121442,
+    "latitude": 47.94538664950609,
+    "telephone": "0299961527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPas à pas - Kreiz 23 - La Guerche de Bretagne",
+    "resultStructId": "692237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bisavenue general leclerc 35130 la guerche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2310698078912312,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "36970147",
+    "mail": "chartres@leszouzousrennais.fr",
+    "distance": 131588,
+    "latitude": 48.038917821187034,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Chartres - Les Zouzous Rennais - Chartres deBretagne",
+    "resultStructId": "149809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b rue leo lagrange 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.692975940026586,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12631168",
+    "mail": "tintinabulle@ville-chartresdebretagne.fr",
+    "distance": 131934,
+    "latitude": 48.042377578181146,
+    "telephone": "0299413532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilMunicipal Tintinabulle - Chartres de Bretagne",
+    "resultStructId": "708801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ruemadame de janze 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7060268807541379,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12828555",
+    "mail": "creche.millepattes@orange.fr",
+    "distance": 132139,
+    "latitude": 48.03669646329471,
+    "telephone": "0299771901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMille-Pattes - Chartres de Bretagne",
+    "resultStructId": "699604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue debroceliande 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7004659564447366,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "33524079",
+    "mail": "contact@vivamini.fr",
+    "distance": 132570,
+    "latitude": 48.036377236254744,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Chartres de Bretagne",
+    "resultStructId": "541401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 avenue du maine35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7087575191687039,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38933490",
+    "mail": "accueil@stmeen-montauban.fr",
+    "distance": 139279,
+    "latitude": 48.198272074692454,
+    "telephone": "0299065492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Berruchettes - CdC St Méen Montauban - Montauban deBgne",
+    "resultStructId": "500401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean zay 35360 montauban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.054016703718867,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12941438",
+    "mail": "multi-accueil@ville-baindebretagne.fr",
+    "distance": 148699,
+    "latitude": 47.843549997995105,
+    "telephone": "0299433526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal \"La Bulle Enchantée\" - Bain de Bretagne",
+    "resultStructId": "181203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31avenue general patton 35470 bain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923993851536212,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12655592",
+    "mail": "auptitfagus@faydebretagne.fr",
+    "distance": 193286,
+    "latitude": 47.413446188738156,
+    "telephone": "0228050991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuP'tit Fagus",
+    "resultStructId": "176103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du lavoir 44130 fay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.792453875325828,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "13064770",
+    "mail": "multiaccueil.mdp@outlook.fr",
+    "distance": 41276,
+    "latitude": 47.94538664950609,
+    "telephone": "0299961527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPas à pas - Kreiz 23 - La Guerche de Bretagne",
+    "resultStructId": "692237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bisavenue general leclerc 35130 la guerche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2310698078912312,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12941438",
+    "mail": "multi-accueil@ville-baindebretagne.fr",
+    "distance": 59050,
+    "latitude": 47.843549997995105,
+    "telephone": "0299433526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal \"La Bulle Enchantée\" - Bain de Bretagne",
+    "resultStructId": "181203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31avenue general patton 35470 bain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6923993851536212,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12495847",
+    "mail": "",
+    "distance": 62436,
+    "latitude": 47.33117641785209,
+    "telephone": "0240573687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue anne de bretagne 44360 vigneux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6968982257922747,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12655592",
+    "mail": "auptitfagus@faydebretagne.fr",
+    "distance": 64999,
+    "latitude": 47.413446188738156,
+    "telephone": "0228050991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuP'tit Fagus",
+    "resultStructId": "176103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du lavoir 44130 fay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.792453875325828,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "57259065",
+    "mail": "bonjour@lilyandwolf.com",
+    "distance": 65397,
+    "latitude": 47.40740277307059,
+    "telephone": "0618552940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lilyand Wolf",
+    "resultStructId": "673724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue charles de gaulle 44130 fay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7947354473318984,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "60148750",
+    "mail": "contact@les3petitschats.fr",
+    "distance": 66069,
+    "latitude": 47.32488588660977,
+    "telephone": "0240102595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 petits chats",
+    "resultStructId": "705608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6bis rue du moulin neuf 44360 vigneux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7472154974496614,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "36970147",
+    "mail": "chartres@leszouzousrennais.fr",
+    "distance": 71120,
+    "latitude": 48.038917821187034,
+    "telephone": "0299639459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMathilou Chartres - Les Zouzous Rennais - Chartres deBretagne",
+    "resultStructId": "149809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 b rue leo lagrange 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.692975940026586,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12828555",
+    "mail": "creche.millepattes@orange.fr",
+    "distance": 71377,
+    "latitude": 48.03669646329471,
+    "telephone": "0299771901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMille-Pattes - Chartres de Bretagne",
+    "resultStructId": "699604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue debroceliande 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7004659564447366,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "33524079",
+    "mail": "contact@vivamini.fr",
+    "distance": 71822,
+    "latitude": 48.036377236254744,
+    "telephone": "0985107079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheVivaMini - Chartres de Bretagne",
+    "resultStructId": "541401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 avenue du maine35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7087575191687039,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12631168",
+    "mail": "tintinabulle@ville-chartresdebretagne.fr",
+    "distance": 72104,
+    "latitude": 48.042377578181146,
+    "telephone": "0299413532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilMunicipal Tintinabulle - Chartres de Bretagne",
+    "resultStructId": "708801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ruemadame de janze 35131 chartres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7060268807541379,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38923798",
+    "mail": "halte.senseneveil.saintaubin@admr35.org",
+    "distance": 89903,
+    "latitude": 48.333162167536386,
+    "telephone": "0299395187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieSens en Eveil - ADMR - Sens de Bretagne",
+    "resultStructId": "487101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue desruelles 35490 sens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5340342457928324,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12485691",
+    "mail": "multi-accueil.lescoccinelles@wanadoo.fr",
+    "distance": 93445,
+    "latitude": 47.32948500618401,
+    "telephone": "0240451556",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoccinelles",
+    "resultStructId": "149301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue de normandie 44550 montoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.149363699824911,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "38933490",
+    "mail": "accueil@stmeen-montauban.fr",
+    "distance": 103050,
+    "latitude": 48.198272074692454,
+    "telephone": "0299065492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Berruchettes - CdC St Méen Montauban - Montauban deBgne",
+    "resultStructId": "500401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean zay 35360 montauban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.054016703718867,
+    "ville": "debretagne",
+    "cp": ""
+  },
+  {
+    "resultId": "12800476",
+    "mail": "contact@grainedepirate.fr",
+    "distance": 118792,
+    "latitude": 48.54976743792596,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraine de Pirate - SAS Crèche de Dol - Dol deBretagne",
+    "resultStructId": "703605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de la baie, pa les rolandieres 35120dol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7535411588821428,
+    "ville": "debretagne",
+    "cp": ""
+  }
+]

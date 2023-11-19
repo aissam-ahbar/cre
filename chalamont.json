@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12754509",
+    "mail": "petiteenfance@csmosaique.fr",
+    "distance": 159117,
+    "latitude": 45.997048048361286,
+    "telephone": "0474617335",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CENTRESOCIAL MOSAIQUE",
+    "resultStructId": "6357",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 place des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.172413520598832,
+    "ville": "chalamont",
+    "cp": "01320"
+  },
+  {
+    "resultId": "34101330",
+    "mail": "chalamomes@gmail.com",
+    "distance": 159143,
+    "latitude": 45.996187087200106,
+    "telephone": "0474392656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Chalamômes",
+    "resultStructId": "114503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.170871630728566,
+    "ville": "chalamont",
+    "cp": "01320"
+  }
+]

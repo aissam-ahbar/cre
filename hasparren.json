@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12953177",
+    "mail": "laguntzakuluxta@orange.fr",
+    "distance": 136791,
+    "latitude": 43.37662930700175,
+    "telephone": "0559502747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceMulti Accueil Collectif KULUXKA",
+    "resultStructId": "24206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de bonloc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.2855941483115723,
+    "ville": "hasparren",
+    "cp": "64240"
+  },
+  {
+    "resultId": "13035487",
+    "mail": "laguntzacf@orange.fr",
+    "distance": 136937,
+    "latitude": 43.38584514109417,
+    "telephone": "0559294580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SERVICEACCUEIL FAMILIAL",
+    "resultStructId": "23405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue francis jammes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3048122852586141,
+    "ville": "hasparren",
+    "cp": "64240"
+  },
+  {
+    "resultId": "12955499",
+    "mail": "mluti-accueil.irrinoak@wanadoo.fr",
+    "distance": 137317,
+    "latitude": 43.38466696664838,
+    "telephone": "0559702688",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilIRRINOAK",
+    "resultStructId": "11031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue dibildos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3103280937182438,
+    "ville": "hasparren",
+    "cp": "64240"
+  }
+]

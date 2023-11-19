@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12556864",
+    "mail": "mpevars@coeurdecharente.fr",
+    "distance": 182445,
+    "latitude": 45.761139898278785,
+    "telephone": "0545374330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Frimousse\" - Maison de la Petite Enfance",
+    "resultStructId": "210603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis rueprincipale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1274882434914762,
+    "ville": "vars",
+    "cp": "16330"
+  },
+  {
+    "resultId": "12702642",
+    "mail": "microcreche@mairie-vars.fr",
+    "distance": 334618,
+    "latitude": 44.59382017494534,
+    "telephone": "0492510187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Raffis",
+    "resultStructId": "675102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue sainte catherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.689889013116904,
+    "ville": "vars",
+    "cp": "05560"
+  },
+  {
+    "resultId": "12556864",
+    "mail": "mpevars@coeurdecharente.fr",
+    "distance": 159807,
+    "latitude": 45.761139898278785,
+    "telephone": "0545374330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Frimousse\" - Maison de la Petite Enfance",
+    "resultStructId": "210603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis rueprincipale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1274882434914762,
+    "ville": "vars",
+    "cp": "16330"
+  },
+  {
+    "resultId": "12702642",
+    "mail": "microcreche@mairie-vars.fr",
+    "distance": 86688,
+    "latitude": 44.59382017494534,
+    "telephone": "0492510187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Raffis",
+    "resultStructId": "675102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue sainte catherine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.689889013116904,
+    "ville": "vars",
+    "cp": "05560"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "54892274",
+    "mail": "servicepetiteenfance@ville-fachesthumesnil.fr",
+    "distance": 28193,
+    "latitude": 50.58846882219108,
+    "telephone": "0320963364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PASA PAS ET LA LA LA",
+    "resultStructId": "601201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue de stolberg 59155",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0745728834103763,
+    "ville": "fachesthumesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "12822535",
+    "mail": "servicepetiteenfance@ville-fachesthumesnil.fr",
+    "distance": 28629,
+    "latitude": 50.604623122502325,
+    "telephone": "0320963364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES MARMOTS",
+    "resultStructId": "430305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 rue carnot 59155",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.067692745444265,
+    "ville": "fachesthumesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "12793123",
+    "mail": "hgsucredorge.cs@5bonniers.com",
+    "distance": 28892,
+    "latitude": 50.59597312804696,
+    "telephone": "0766136237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Les Sucres d'Orge",
+    "resultStructId": "451901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenue de bordeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0795954138711545,
+    "ville": "fachesthumesnil",
+    "cp": "59155"
+  },
+  {
+    "resultId": "12822363",
+    "mail": "servicepetiteenfance@ville-fachesthumesnil.fr",
+    "distance": 28950,
+    "latitude": 50.60748034493605,
+    "telephone": "0320963364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE LES BAMBINOS",
+    "resultStructId": "430205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue du chemin rouge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0703174312045096,
+    "ville": "fachesthumesnil",
+    "cp": "59155"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "51577122",
+    "mail": "microcreche@legrandcharolais.fr",
+    "distance": 86397,
+    "latitude": 46.490008918054876,
+    "telephone": "0962599871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Loups",
+    "resultStructId": "454703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de genelard 71220 st bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.420572274310199,
+    "ville": "dejoux",
+    "cp": ""
+  },
+  {
+    "resultId": "12770290",
+    "mail": "lespetitsdelagout@orange.fr",
+    "distance": 193303,
+    "latitude": 43.648216002759185,
+    "telephone": "0964276132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ilétait une fois",
+    "resultStructId": "6724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse du rech 81220 st paul cap",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.975519331626648,
+    "ville": "dejoux",
+    "cp": ""
+  },
+  {
+    "resultId": "12770290",
+    "mail": "lespetitsdelagout@orange.fr",
+    "distance": 154748,
+    "latitude": 43.648216002759185,
+    "telephone": "0964276132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ilétait une fois",
+    "resultStructId": "6724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse du rech 81220 st paul cap",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.975519331626648,
+    "ville": "dejoux",
+    "cp": ""
+  }
+]

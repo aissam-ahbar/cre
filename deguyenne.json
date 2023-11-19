@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "18400206",
+    "mail": "multiaccueil.sauveterre@cdc-entre2mers.fr",
+    "distance": 40208,
+    "latitude": 44.692487373141226,
+    "telephone": "0556718295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS BOUCHONS",
+    "resultStructId": "243301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4/6 rue des martyrs de laresistance 33540 sauveterre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.0864611854090645,
+    "ville": "deguyenne",
+    "cp": ""
+  },
+  {
+    "resultId": "12661362",
+    "mail": "creche3@miramontdeguyenne.fr",
+    "distance": 55517,
+    "latitude": 44.60034469704634,
+    "telephone": "0553643407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"YVES DUMICHEL\"",
+    "resultStructId": "705104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 chemin yves dumichel 47800miramont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.36589260912394644,
+    "ville": "deguyenne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12969173",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 133143,
+    "latitude": 44.74795912758762,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Lucioles",
+    "resultStructId": "680217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue de tradate 26270 loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814655421157284,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968700",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 133635,
+    "latitude": 44.75176564690456,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Les Coccinelles",
+    "resultStructId": "680213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 place des nougatiers 26270loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822377904161063,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968657",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 136133,
+    "latitude": 44.77327099843581,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil familial Les petits castors",
+    "resultStructId": "680212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue dudocteur l'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835433096332491,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "52979911",
+    "mail": "petitenfance@val-de-drome.com",
+    "distance": 136206,
+    "latitude": 44.77395938648392,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ecureuils et Pomme de Pin",
+    "resultStructId": "681301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "38 rue du docteurl'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835082099237808,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968786",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 136772,
+    "latitude": 44.778377721514,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'île aux fleurs",
+    "resultStructId": "680215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 square martin luther king26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8430543220541615,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968700",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 450742,
+    "latitude": 44.75176564690456,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Les Coccinelles",
+    "resultStructId": "680213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 place des nougatiers 26270loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822377904161063,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12969173",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 450958,
+    "latitude": 44.74795912758762,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Lucioles",
+    "resultStructId": "680217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue de tradate 26270 loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814655421157284,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968786",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 451316,
+    "latitude": 44.778377721514,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'île aux fleurs",
+    "resultStructId": "680215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 square martin luther king26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8430543220541615,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968657",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 451429,
+    "latitude": 44.77327099843581,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil familial Les petits castors",
+    "resultStructId": "680212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue dudocteur l'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835433096332491,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "52979911",
+    "mail": "petitenfance@val-de-drome.com",
+    "distance": 451498,
+    "latitude": 44.77395938648392,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ecureuils et Pomme de Pin",
+    "resultStructId": "681301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "38 rue du docteurl'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835082099237808,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12969173",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 147287,
+    "latitude": 44.74795912758762,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Lucioles",
+    "resultStructId": "680217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue de tradate 26270 loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814655421157284,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968700",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 147960,
+    "latitude": 44.75176564690456,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Les Coccinelles",
+    "resultStructId": "680213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 place des nougatiers 26270loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822377904161063,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968657",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 150545,
+    "latitude": 44.77327099843581,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil familial Les petits castors",
+    "resultStructId": "680212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue dudocteur l'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835433096332491,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "52979911",
+    "mail": "petitenfance@val-de-drome.com",
+    "distance": 150597,
+    "latitude": 44.77395938648392,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ecureuils et Pomme de Pin",
+    "resultStructId": "681301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "38 rue du docteurl'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835082099237808,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968786",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 151338,
+    "latitude": 44.778377721514,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'île aux fleurs",
+    "resultStructId": "680215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 square martin luther king26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8430543220541615,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968700",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 132408,
+    "latitude": 44.75176564690456,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Les Coccinelles",
+    "resultStructId": "680213",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 place des nougatiers 26270loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822377904161063,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12969173",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 132587,
+    "latitude": 44.74795912758762,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Lucioles",
+    "resultStructId": "680217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue de tradate 26270 loriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814655421157284,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968786",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 133185,
+    "latitude": 44.778377721514,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'île aux fleurs",
+    "resultStructId": "680215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 square martin luther king26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8430543220541615,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "12968657",
+    "mail": "petiteenfance@val-de-drome.com",
+    "distance": 133242,
+    "latitude": 44.77327099843581,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil familial Les petits castors",
+    "resultStructId": "680212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue dudocteur l'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835433096332491,
+    "ville": "surdrome",
+    "cp": ""
+  },
+  {
+    "resultId": "52979911",
+    "mail": "petitenfance@val-de-drome.com",
+    "distance": 133314,
+    "latitude": 44.77395938648392,
+    "telephone": "0475256436",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ecureuils et Pomme de Pin",
+    "resultStructId": "681301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "38 rue du docteurl'hermier 26250 livron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835082099237808,
+    "ville": "surdrome",
+    "cp": ""
+  }
+]

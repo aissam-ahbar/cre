@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12894912",
+    "mail": "structuremultiaccueil@hotmail.fr",
+    "distance": 183657,
+    "latitude": 45.74954666548437,
+    "telephone": "0472029215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil",
+    "resultStructId": "9622",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 8 mai 1945 38230 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.171412700222661,
+    "ville": "decheruy",
+    "cp": ""
+  },
+  {
+    "resultId": "12852514",
+    "mail": "babi'bouilles@gmail.com",
+    "distance": 183905,
+    "latitude": 45.74961943925522,
+    "telephone": "0650416240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Babi'bouilles\"",
+    "resultStructId": "8636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue de la republique 38230 pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.17925107420668,
+    "ville": "decheruy",
+    "cp": ""
+  }
+]

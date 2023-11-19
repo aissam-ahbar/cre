@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12558885",
+    "mail": "pirouette@la-ribambule.fr",
+    "distance": 48029,
+    "latitude": 44.77187413673352,
+    "telephone": "0556233986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil PIROUETTE",
+    "resultStructId": "687112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue georges brassens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.348169336284971,
+    "ville": "creon",
+    "cp": "33670"
+  }
+]

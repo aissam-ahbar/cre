@@ -1,0 +1,390 @@
+[
+  {
+    "resultId": "57822944",
+    "mail": "marie@creche-poppins.fr",
+    "distance": 157792,
+    "latitude": 47.415737435332225,
+    "telephone": "0632782428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Marie Poppins, St Mathurin sur Loire",
+    "resultStructId": "709737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de lavilaine 49250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.31685474379113643,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "60239469",
+    "mail": "m.maurille@les-cherubins.com",
+    "distance": 162007,
+    "latitude": 47.474612703214966,
+    "telephone": "0640976814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Les Boutons d'Or, Loire-Authion",
+    "resultStructId": "709782",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue headley49630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3486408623294064,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "30275624",
+    "mail": "mc.kazandard@gmail.com",
+    "distance": 164499,
+    "latitude": 47.46025685581001,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu,Loire-Authion",
+    "resultStructId": "712606",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1impasse du pruneliers 49800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.39021164930400254,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "12902480",
+    "mail": "ma-rondelys-pdl@vyv3.fr",
+    "distance": 165499,
+    "latitude": 47.450385044085586,
+    "telephone": "0241454488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ronde Lys\", Loire-Authion",
+    "resultStructId": "712412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue azema billa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40856578706541474,
+    "ville": "loireauthion",
+    "cp": "49800"
+  },
+  {
+    "resultId": "12902480",
+    "mail": "ma-rondelys-pdl@vyv3.fr",
+    "distance": 46625,
+    "latitude": 47.450385044085586,
+    "telephone": "0241454488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ronde Lys\", Loire-Authion",
+    "resultStructId": "712412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue azema billa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40856578706541474,
+    "ville": "loireauthion",
+    "cp": "49800"
+  },
+  {
+    "resultId": "30275624",
+    "mail": "mc.kazandard@gmail.com",
+    "distance": 47484,
+    "latitude": 47.46025685581001,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu,Loire-Authion",
+    "resultStructId": "712606",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1impasse du pruneliers 49800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.39021164930400254,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "60239469",
+    "mail": "m.maurille@les-cherubins.com",
+    "distance": 49878,
+    "latitude": 47.474612703214966,
+    "telephone": "0640976814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Les Boutons d'Or, Loire-Authion",
+    "resultStructId": "709782",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue headley49630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3486408623294064,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "57822944",
+    "mail": "marie@creche-poppins.fr",
+    "distance": 54491,
+    "latitude": 47.415737435332225,
+    "telephone": "0632782428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Marie Poppins, St Mathurin sur Loire",
+    "resultStructId": "709737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de lavilaine 49250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.31685474379113643,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "60239469",
+    "mail": "m.maurille@les-cherubins.com",
+    "distance": 162264,
+    "latitude": 47.474612703214966,
+    "telephone": "0640976814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Les Boutons d'Or, Loire-Authion",
+    "resultStructId": "709782",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue headley49630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3486408623294064,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "30275624",
+    "mail": "mc.kazandard@gmail.com",
+    "distance": 163649,
+    "latitude": 47.46025685581001,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu,Loire-Authion",
+    "resultStructId": "712606",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1impasse du pruneliers 49800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.39021164930400254,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "12902480",
+    "mail": "ma-rondelys-pdl@vyv3.fr",
+    "distance": 164673,
+    "latitude": 47.450385044085586,
+    "telephone": "0241454488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ronde Lys\", Loire-Authion",
+    "resultStructId": "712412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue azema billa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40856578706541474,
+    "ville": "loireauthion",
+    "cp": "49800"
+  },
+  {
+    "resultId": "57822944",
+    "mail": "marie@creche-poppins.fr",
+    "distance": 168983,
+    "latitude": 47.415737435332225,
+    "telephone": "0632782428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Marie Poppins, St Mathurin sur Loire",
+    "resultStructId": "709737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de lavilaine 49250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.31685474379113643,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "12902480",
+    "mail": "ma-rondelys-pdl@vyv3.fr",
+    "distance": 46625,
+    "latitude": 47.450385044085586,
+    "telephone": "0241454488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ronde Lys\", Loire-Authion",
+    "resultStructId": "712412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue azema billa",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.40856578706541474,
+    "ville": "loireauthion",
+    "cp": "49800"
+  },
+  {
+    "resultId": "30275624",
+    "mail": "mc.kazandard@gmail.com",
+    "distance": 47484,
+    "latitude": 47.46025685581001,
+    "telephone": "0627011255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Kaz et Lulu,Loire-Authion",
+    "resultStructId": "712606",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1impasse du pruneliers 49800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.39021164930400254,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "60239469",
+    "mail": "m.maurille@les-cherubins.com",
+    "distance": 49878,
+    "latitude": 47.474612703214966,
+    "telephone": "0640976814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Les Boutons d'Or, Loire-Authion",
+    "resultStructId": "709782",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue headley49630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3486408623294064,
+    "ville": "loireauthion",
+    "cp": ""
+  },
+  {
+    "resultId": "57822944",
+    "mail": "marie@creche-poppins.fr",
+    "distance": 54491,
+    "latitude": 47.415737435332225,
+    "telephone": "0632782428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Marie Poppins, St Mathurin sur Loire",
+    "resultStructId": "709737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de lavilaine 49250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.31685474379113643,
+    "ville": "loireauthion",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43246255",
+    "mail": "d.dubreuil@bonsecours.fr",
+    "distance": 163139,
+    "latitude": 49.42307971609486,
+    "telephone": "0235805226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "123SOLEIL",
+    "resultStructId": "235505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du petit prince",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.127066939622595,
+    "ville": "bonsecours",
+    "cp": "76240"
+  },
+  {
+    "resultId": "43246255",
+    "mail": "d.dubreuil@bonsecours.fr",
+    "distance": 131521,
+    "latitude": 49.42307971609486,
+    "telephone": "0235805226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "123SOLEIL",
+    "resultStructId": "235505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du petit prince",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.127066939622595,
+    "ville": "bonsecours",
+    "cp": "76240"
+  }
+]

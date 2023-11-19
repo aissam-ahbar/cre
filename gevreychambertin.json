@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12874487",
+    "mail": "ccgevrey-microcreche@orange.fr",
+    "distance": 61801,
+    "latitude": 47.22609576068788,
+    "telephone": "0380518723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES LUCIOLES",
+    "resultStructId": "9147",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": ". rue souvert 21220",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9714664170648435,
+    "ville": "gevreychambertin",
+    "cp": ""
+  },
+  {
+    "resultId": "12649486",
+    "mail": "claudegianetta@orange.fr",
+    "distance": 61844,
+    "latitude": 47.22763908251412,
+    "telephone": "0380530632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LE P'TIT BOUT",
+    "resultStructId": "199760",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue combe du bas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.972127526419657,
+    "ville": "gevreychambertin",
+    "cp": "21220"
+  },
+  {
+    "resultId": "12787705",
+    "mail": "lafeeclochette.cscg@laposte.net",
+    "distance": 63340,
+    "latitude": 47.22754972910624,
+    "telephone": "0380518510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Multi-accueil \"La Fée Clochette\"",
+    "resultStructId": "204745",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de nierstein21220",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.991938625167507,
+    "ville": "gevreychambertin",
+    "cp": ""
+  }
+]

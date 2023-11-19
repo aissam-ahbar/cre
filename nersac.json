@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12557036",
+    "mail": "a-petit-pas-nersac@orange.fr",
+    "distance": 198183,
+    "latitude": 45.62611481823619,
+    "telephone": "0545906407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetit Pas",
+    "resultStructId": "1735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place foucaudie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.04340023118873398,
+    "ville": "nersac",
+    "cp": "16440"
+  },
+  {
+    "resultId": "12557036",
+    "mail": "a-petit-pas-nersac@orange.fr",
+    "distance": 143907,
+    "latitude": 45.62611481823619,
+    "telephone": "0545906407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetit Pas",
+    "resultStructId": "1735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place foucaudie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.04340023118873398,
+    "ville": "nersac",
+    "cp": "16440"
+  }
+]

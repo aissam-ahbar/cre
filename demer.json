@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12991705",
+    "mail": "lesgalopinspeyriacdemer@orange.fr",
+    "distance": 145096,
+    "latitude": 43.086484881587594,
+    "telephone": "0468486304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "11873",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du general de gaulle 11440 peyriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.953405228659159,
+    "ville": "demer",
+    "cp": ""
+  },
+  {
+    "resultId": "12991705",
+    "mail": "lesgalopinspeyriacdemer@orange.fr",
+    "distance": 95194,
+    "latitude": 43.086484881587594,
+    "telephone": "0468486304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "11873",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du general de gaulle 11440 peyriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.953405228659159,
+    "ville": "demer",
+    "cp": ""
+  }
+]

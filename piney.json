@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13010195",
+    "mail": "lespetitsbaigneurs@orange.fr",
+    "distance": 124908,
+    "latitude": 48.3621165572607,
+    "telephone": "0325463374",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PETITS BAIGNEURS",
+    "resultStructId": "702514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue basse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3321151607640545,
+    "ville": "piney",
+    "cp": "10220"
+  },
+  {
+    "resultId": "13010195",
+    "mail": "lespetitsbaigneurs@orange.fr",
+    "distance": 43918,
+    "latitude": 48.3621165572607,
+    "telephone": "0325463374",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PETITS BAIGNEURS",
+    "resultStructId": "702514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue basse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3321151607640545,
+    "ville": "piney",
+    "cp": "10220"
+  }
+]

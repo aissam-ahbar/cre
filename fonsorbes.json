@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13061588",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 147121,
+    "latitude": 43.54259030207433,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Les Copains d’abord",
+    "resultStructId": "696934",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "205 chemin de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2215828381280105,
+    "ville": "fonsorbes",
+    "cp": "31470"
+  },
+  {
+    "resultId": "12490765",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 147315,
+    "latitude": 43.55145330999749,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Eclats de rire",
+    "resultStructId": "673514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "domaine de cantelauze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2340790855987644,
+    "ville": "fonsorbes",
+    "cp": "31470"
+  },
+  {
+    "resultId": "31233830",
+    "mail": "calins.doudou.fonsorbes@gmai.com",
+    "distance": 148097,
+    "latitude": 43.5486212225229,
+    "telephone": "0954882213",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CalinsDoudou Muretain",
+    "resultStructId": "673326",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue pierre durand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2432946220054524,
+    "ville": "fonsorbes",
+    "cp": "31470"
+  },
+  {
+    "resultId": "13061674",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 148188,
+    "latitude": 43.535431854430975,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les petits lutins",
+    "resultStructId": "673513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue de provence domainedu banayre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2306704418256253,
+    "ville": "fonsorbes",
+    "cp": "31470"
+  }
+]

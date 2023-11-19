@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12825760",
+    "mail": "ccpv@ccpv.fr",
+    "distance": 115524,
+    "latitude": 49.649224541470694,
+    "telephone": "0617455751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCOM D'API",
+    "resultStructId": "702901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7337654689981712,
+    "ville": "formerie",
+    "cp": "60220"
+  },
+  {
+    "resultId": "12825760",
+    "mail": "ccpv@ccpv.fr",
+    "distance": 181805,
+    "latitude": 49.649224541470694,
+    "telephone": "0617455751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCOM D'API",
+    "resultStructId": "702901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7337654689981712,
+    "ville": "formerie",
+    "cp": "60220"
+  }
+]

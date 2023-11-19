@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12881539",
+    "mail": "ma-lucioles@sassenage.fr",
+    "distance": 438146,
+    "latitude": 45.20665439909924,
+    "telephone": "0476538336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Lucioles Sassenage",
+    "resultStructId": "473501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des blondes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.666334049771447,
+    "ville": "sassenage",
+    "cp": "38360"
+  },
+  {
+    "resultId": "32720075",
+    "mail": "jardinmelusine@liveli.fr",
+    "distance": 438328,
+    "latitude": 45.2064393138097,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin de Mélusine",
+    "resultStructId": "667902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.662376302301704,
+    "ville": "sassenage",
+    "cp": "38360"
+  },
+  {
+    "resultId": "12881539",
+    "mail": "ma-lucioles@sassenage.fr",
+    "distance": 142475,
+    "latitude": 45.20665439909924,
+    "telephone": "0476538336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Lucioles Sassenage",
+    "resultStructId": "473501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des blondes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.666334049771447,
+    "ville": "sassenage",
+    "cp": "38360"
+  },
+  {
+    "resultId": "32720075",
+    "mail": "jardinmelusine@liveli.fr",
+    "distance": 142521,
+    "latitude": 45.2064393138097,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin de Mélusine",
+    "resultStructId": "667902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.662376302301704,
+    "ville": "sassenage",
+    "cp": "38360"
+  }
+]

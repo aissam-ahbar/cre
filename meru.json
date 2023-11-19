@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12895901",
+    "mail": "hgarderie@ville-meru.fr",
+    "distance": 143923,
+    "latitude": 49.23484726072894,
+    "telephone": "0344523631",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \" LA RIBAMBELLE\" DE MERU",
+    "resultStructId": "109410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du docteurgraillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.136140954920136,
+    "ville": "meru",
+    "cp": "60110"
+  },
+  {
+    "resultId": "12895858",
+    "mail": "creche@ville-meru.fr",
+    "distance": 144008,
+    "latitude": 49.23410335706193,
+    "telephone": "0344523630",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE MERU",
+    "resultStructId": "109413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue mimaut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.135907449114982,
+    "ville": "meru",
+    "cp": "60110"
+  }
+]

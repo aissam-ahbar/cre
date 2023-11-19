@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12626696",
+    "mail": "",
+    "distance": 167364,
+    "latitude": 48.99361465949569,
+    "telephone": "0134052207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie de Soisy Sous Montmorency",
+    "resultStructId": "3355",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de l'egalite95230 soisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2935342786807076,
+    "ville": "sousmontmorency",
+    "cp": ""
+  },
+  {
+    "resultId": "12626653",
+    "mail": "",
+    "distance": 168900,
+    "latitude": 48.97908572734097,
+    "telephone": "0134052153",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3354",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue des courses 95230 soisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2976770195798517,
+    "ville": "sousmontmorency",
+    "cp": ""
+  },
+  {
+    "resultId": "12626610",
+    "mail": "",
+    "distance": 168901,
+    "latitude": 48.97901296213407,
+    "telephone": "0134052153",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "3353",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue charles godefroy 95230 soisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2982105727963495,
+    "ville": "sousmontmorency",
+    "cp": ""
+  }
+]

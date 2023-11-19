@@ -1,0 +1,483 @@
+[
+  {
+    "resultId": "12490335",
+    "mail": "lamaisondepierre@neuf.fr",
+    "distance": 60971,
+    "latitude": 44.81996458180289,
+    "telephone": "0556348792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA MAISON DE PIERRE",
+    "resultStructId": "201402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6273205976929614,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12507242",
+    "mail": "",
+    "distance": 60975,
+    "latitude": 44.819922659695116,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES COULEURS DE MON ENFANCE",
+    "resultStructId": "577",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue marceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6275095719950032,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12506984",
+    "mail": "",
+    "distance": 61371,
+    "latitude": 44.82362823222855,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil AU FIL DE L'EAU",
+    "resultStructId": "571",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue du marechal joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6285276210525594,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12531451",
+    "mail": "mbkletzlen@hotmail.com",
+    "distance": 61951,
+    "latitude": 44.82987296678505,
+    "telephone": "0556471462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES MARMOUSSETS",
+    "resultStructId": "1140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des liserons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6280412745666658,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12507328",
+    "mail": "",
+    "distance": 62251,
+    "latitude": 44.835732279659375,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PETITS LUTINS",
+    "resultStructId": "579",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue georges mandel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6212441849497807,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "59815641",
+    "mail": "",
+    "distance": 62393,
+    "latitude": 44.83033256287522,
+    "telephone": "0611563489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Devèze",
+    "resultStructId": "700204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee de caillavet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6379969033021988,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "21419676",
+    "mail": "contact@les-razmokets.com",
+    "distance": 63227,
+    "latitude": 44.82753343851318,
+    "telephone": "0554511635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES RAZMOKETS",
+    "resultStructId": "699105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue de l'alouette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6645828062106781,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "54983936",
+    "mail": "",
+    "distance": 63832,
+    "latitude": 44.8422938054703,
+    "telephone": "0953170536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BLABLABABY",
+    "resultStructId": "604501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue claude bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6453419188635996,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "60165170",
+    "mail": "smamerignac@igesa.fr",
+    "distance": 63893,
+    "latitude": 44.816745802379764,
+    "telephone": "0556051002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALES CROCIN'AILES",
+    "resultStructId": "705809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "236 avenue de l'argonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7023030956824724,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "21416222",
+    "mail": "",
+    "distance": 63913,
+    "latitude": 44.836520966765356,
+    "telephone": "0535544000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE 10 PETITS ORTEILS",
+    "resultStructId": "15530",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 avenue jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6607707570393813,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12655248",
+    "mail": "pommedapi.creche@gmail.com",
+    "distance": 63914,
+    "latitude": 44.81773434864252,
+    "telephone": "0556344583",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil pomme d api",
+    "resultStructId": "677512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 avenue de l argonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7007949979959961,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12507156",
+    "mail": "",
+    "distance": 63942,
+    "latitude": 44.83988021415284,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil CROQU'ILE",
+    "resultStructId": "575",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du president coty",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6537468695379552,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12506898",
+    "mail": "",
+    "distance": 63942,
+    "latitude": 44.83988021415284,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale LA FARANDOLE",
+    "resultStructId": "569",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du president rene coty",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6537468695379552,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12507070",
+    "mail": "",
+    "distance": 64343,
+    "latitude": 44.84697079366972,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil BADABOUM",
+    "resultStructId": "573",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue jean cocteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6469165750329581,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12579310",
+    "mail": "tom.pouce@sfr.fr",
+    "distance": 64534,
+    "latitude": 44.847413386696985,
+    "telephone": "0556971008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TOMPOUCE",
+    "resultStructId": "275701",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "28 avenue du truc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6506243254742924,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12846021",
+    "mail": "merignac@lpcr.fr",
+    "distance": 64539,
+    "latitude": 44.84497015152022,
+    "telephone": "0556170030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8485",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue graham bell - domaine depelus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6565134759754006,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12507500",
+    "mail": "",
+    "distance": 64539,
+    "latitude": 44.84497015152022,
+    "telephone": "0556556608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie 1, 2, 3 COPAINS",
+    "resultStructId": "583",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue camille pissaro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6565134759754006,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "52825562",
+    "mail": "lespetitsheros33@hotmail.com",
+    "distance": 64581,
+    "latitude": 44.83486006239352,
+    "telephone": "0547790416",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Héros",
+    "resultStructId": "500302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue apollo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6802529596177487,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "12495022",
+    "mail": "cspasserellecapeyron.haltegarderie@orange.fr",
+    "distance": 64878,
+    "latitude": 44.85211830765509,
+    "telephone": "0556121787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES ECUREUILS",
+    "resultStructId": "293",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean giono",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6479317813426066,
+    "ville": "merignac",
+    "cp": "33700"
+  },
+  {
+    "resultId": "18399295",
+    "mail": "merignac@creche-attitude.fr",
+    "distance": 64881,
+    "latitude": 44.83576054107157,
+    "telephone": "0556704779",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PAPA TANGO CHARLY",
+    "resultStructId": "14839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 avenue kennedy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6852606079162215,
+    "ville": "merignac",
+    "cp": "33700"
+  }
+]

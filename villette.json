@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59258007",
+    "mail": "contact@mrlapin.com",
+    "distance": 161274,
+    "latitude": 48.92185890741477,
+    "telephone": "0185400348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - HAUT COMME 3 POMMES 2",
+    "resultStructId": "696006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 route de houdan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6902150582926638,
+    "ville": "villette",
+    "cp": "78930"
+  },
+  {
+    "resultId": "38271475",
+    "mail": "contact@mrlapin.com",
+    "distance": 161274,
+    "latitude": 48.92185890741477,
+    "telephone": "0185400348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - HAUT COMME 3 POMMES 1",
+    "resultStructId": "696007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 route de houdan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6902150582926638,
+    "ville": "villette",
+    "cp": "78930"
+  }
+]

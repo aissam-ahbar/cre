@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12592898",
+    "mail": "ladoriane@alfa3a.org",
+    "distance": 166655,
+    "latitude": 45.81271424624766,
+    "telephone": "0472539002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Doriane",
+    "resultStructId": "2569",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue eugene collonge 69370 st didier au",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794070674880423,
+    "ville": "montdor",
+    "cp": ""
+  },
+  {
+    "resultId": "12580170",
+    "mail": "direction@pastourelles.fr",
+    "distance": 168314,
+    "latitude": 45.796073898509455,
+    "telephone": "0478432918",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pastourelles",
+    "resultStructId": "158301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue pasteur 69410 champagne au",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.788995020606231,
+    "ville": "montdor",
+    "cp": ""
+  },
+  {
+    "resultId": "50017544",
+    "mail": "bulles.dor@people-and-baby.com",
+    "distance": 168644,
+    "latitude": 45.79399411575734,
+    "telephone": "0950488729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBulles d'Or",
+    "resultStructId": "402101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue lanessan 69410 champagne au",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.79387712250821,
+    "ville": "montdor",
+    "cp": ""
+  }
+]

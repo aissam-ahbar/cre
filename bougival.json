@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13036175",
+    "mail": "inscriptions.creche.les.ecureuils@hotmail.fr",
+    "distance": 193458,
+    "latitude": 48.85956405166623,
+    "telephone": "0130820030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - LES ECUREUILS",
+    "resultStructId": "694501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 chemin de l'ariel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1270398662802714,
+    "ville": "bougival",
+    "cp": "78380"
+  },
+  {
+    "resultId": "24416082",
+    "mail": "crechelespetitspois@gmail.com",
+    "distance": 193524,
+    "latitude": 48.85656782858172,
+    "telephone": "0623395536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - NOS HEUREUX PETITS POIS",
+    "resultStructId": "694203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue claude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.12766749667839,
+    "ville": "bougival",
+    "cp": "78380"
+  },
+  {
+    "resultId": "12783706",
+    "mail": "cre-021@babilou.com",
+    "distance": 193547,
+    "latitude": 48.8554268290745,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU BOUGIVAL MONET",
+    "resultStructId": "689720",
+    "omegaId": "7708",
+    "avip": false,
+    "adresse": "7 rue claude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1278831516730046,
+    "ville": "bougival",
+    "cp": "78380"
+  },
+  {
+    "resultId": "12783663",
+    "mail": "",
+    "distance": 193871,
+    "latitude": 48.865970787767274,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BOUGIVAL PEINTRE GEROME",
+    "resultStructId": "707731",
+    "omegaId": "19637",
+    "avip": false,
+    "adresse": "20 rue du peintregerome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1332373446427413,
+    "ville": "bougival",
+    "cp": "78380"
+  }
+]

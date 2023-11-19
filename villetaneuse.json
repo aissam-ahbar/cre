@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12963024",
+    "mail": "myriam.caballero@mairie-villetaneuse.fr",
+    "distance": 169957,
+    "latitude": 48.96430607818743,
+    "telephone": "0185573971",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL Pierrette PETITOT",
+    "resultStructId": "702601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 rue roger salengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.344085486289278,
+    "ville": "villetaneuse",
+    "cp": "93430"
+  },
+  {
+    "resultId": "12630523",
+    "mail": "",
+    "distance": 171888,
+    "latitude": 48.94650519697417,
+    "telephone": "0148221272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Saint-Leu\"",
+    "resultStructId": "117036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route desaint leu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.346226276546898,
+    "ville": "villetaneuse",
+    "cp": "93430"
+  },
+  {
+    "resultId": "12630523",
+    "mail": "",
+    "distance": 10099,
+    "latitude": 48.94650519697417,
+    "telephone": "0148221272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Saint-Leu\"",
+    "resultStructId": "117036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route desaint leu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.346226276546898,
+    "ville": "villetaneuse",
+    "cp": "93430"
+  }
+]

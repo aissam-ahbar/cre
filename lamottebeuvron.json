@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12779277",
+    "mail": "igil@lamotte-beuvron.fr",
+    "distance": 164886,
+    "latitude": 47.60633366812078,
+    "telephone": "0254830164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie La Lamotine",
+    "resultStructId": "95818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de beauce 41600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0274697243530695,
+    "ville": "lamottebeuvron",
+    "cp": ""
+  },
+  {
+    "resultId": "12779277",
+    "mail": "igil@lamotte-beuvron.fr",
+    "distance": 71956,
+    "latitude": 47.60633366812078,
+    "telephone": "0254830164",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie La Lamotine",
+    "resultStructId": "95818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de beauce 41600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0274697243530695,
+    "ville": "lamottebeuvron",
+    "cp": ""
+  }
+]

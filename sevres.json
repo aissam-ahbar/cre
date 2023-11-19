@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "38821804",
+    "mail": "",
+    "distance": 8039,
+    "latitude": 48.82641333752224,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MIRABELLE",
+    "resultStructId": "177311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place marivel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.22105284396221,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12609109",
+    "mail": "crechevieuxmoulin@ville-sevres.fr",
+    "distance": 8161,
+    "latitude": 48.82573881873062,
+    "telephone": "0146265527",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILVIEUX MOULIN",
+    "resultStructId": "94709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15/17 avenue de la division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.219699552727793,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12609023",
+    "mail": "multiaccueilcristallerie@ville-sevres.fr",
+    "distance": 8161,
+    "latitude": 48.82573881873062,
+    "telephone": "0145346924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE LA CRISTALLERIE",
+    "resultStructId": "94710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15/17 avenue de la divisionleclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.219699552727793,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12609066",
+    "mail": "crecheroseraie@ville-sevres.fr",
+    "distance": 8519,
+    "latitude": 48.8241753150672,
+    "telephone": "0146265304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE LA ROSERAIE",
+    "resultStructId": "94711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue leon journault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2154080103551714,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12609152",
+    "mail": "halte-garderiebeauregard@ville-sevres.fr",
+    "distance": 8808,
+    "latitude": 48.82643995032323,
+    "telephone": "0146269021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILBEAUREGARD",
+    "resultStructId": "94712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue brancas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2095346553464332,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12608937",
+    "mail": "crecheaurore@ville-sevres.fr",
+    "distance": 8871,
+    "latitude": 48.81543920193166,
+    "telephone": "0141141260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILAURORE GEVELOT",
+    "resultStructId": "94708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue carle vernet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2171878166800707,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12489045",
+    "mail": "recrutement@crecheparentale.fr",
+    "distance": 9263,
+    "latitude": 48.814258634025265,
+    "telephone": "0146261229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AUPAYS DES MERVEILLES",
+    "resultStructId": "236105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de la garenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.212008584045117,
+    "ville": "sevres",
+    "cp": "92310"
+  },
+  {
+    "resultId": "12609195",
+    "mail": "crechebastillets@ville-sevres.fr",
+    "distance": 9464,
+    "latitude": 48.81909382051217,
+    "telephone": "0146267257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLES BAS TILLETS",
+    "resultStructId": "94707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 bis rue des bas tillets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.20483033138655,
+    "ville": "sevres",
+    "cp": "92310"
+  }
+]

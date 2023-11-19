@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12650647",
+    "mail": "freneuse@creche-la-maison-bleue.fr",
+    "distance": 155080,
+    "latitude": 49.0482456878926,
+    "telephone": "0130339628",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - DES ROSES ET DES CHOUX",
+    "resultStructId": "687509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 routedepartementale 113",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.60044316624995,
+    "ville": "freneuse",
+    "cp": "78840"
+  },
+  {
+    "resultId": "59219980",
+    "mail": "freneuse@lesptitsbabadins.com",
+    "distance": 155080,
+    "latitude": 49.0482456878926,
+    "telephone": "0188750072",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES PTITS BABADINS DE FRENEUSE 2",
+    "resultStructId": "694302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue desbourderies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.60044316624995,
+    "ville": "freneuse",
+    "cp": "78840"
+  },
+  {
+    "resultId": "59219035",
+    "mail": "freneuse@lesptitsbabadins.com",
+    "distance": 155080,
+    "latitude": 49.0482456878926,
+    "telephone": "0188750073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES PTITS BABADINS DE FRENEUSE 1",
+    "resultStructId": "694301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue desbourderies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.60044316624995,
+    "ville": "freneuse",
+    "cp": "78840"
+  }
+]

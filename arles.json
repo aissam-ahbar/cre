@@ -1,0 +1,770 @@
+[
+  {
+    "resultId": "12511714",
+    "mail": "",
+    "distance": 12135,
+    "latitude": 43.66713756760867,
+    "telephone": "0490937680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA POULE ROUSSE",
+    "resultStructId": "192902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de vercelli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.615284192884728,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18092894",
+    "mail": "",
+    "distance": 12923,
+    "latitude": 43.67448825525593,
+    "telephone": "0490497029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'HIRONDELLE",
+    "resultStructId": "194815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue parmentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626170413213636,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511671",
+    "mail": "",
+    "distance": 13123,
+    "latitude": 43.675720504805064,
+    "telephone": "0490963550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACOGRIBOUILLE",
+    "resultStructId": "192901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.641700450487962,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "13040991",
+    "mail": "lesptitsflamants@people-and-baby.com",
+    "distance": 13184,
+    "latitude": 43.676826638489366,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES P'TITS FLAMANTS",
+    "resultStructId": "480502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre hospitalier d'arles - zonefourchon - bp 80019 - 13633 cedex",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.627382461310348,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511370",
+    "mail": "",
+    "distance": 13334,
+    "latitude": 43.678186433112955,
+    "telephone": "0490963212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUNET",
+    "resultStructId": "192803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626201852195071,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18405929",
+    "mail": "",
+    "distance": 13627,
+    "latitude": 43.67885750410679,
+    "telephone": "0490917104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJECalin'ours",
+    "resultStructId": "195115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de severin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.595619899331238,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12568689",
+    "mail": "",
+    "distance": 13710,
+    "latitude": 43.68060399777326,
+    "telephone": "0490983935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACPIGEON VOLE",
+    "resultStructId": "193526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bertran boysset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.604589387595136,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511757",
+    "mail": "",
+    "distance": 14791,
+    "latitude": 43.69114517882331,
+    "telephone": "0490936851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "192903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marius allard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.634173234661552,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511671",
+    "mail": "",
+    "distance": 401117,
+    "latitude": 43.675720504805064,
+    "telephone": "0490963550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACOGRIBOUILLE",
+    "resultStructId": "192901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.641700450487962,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18092894",
+    "mail": "",
+    "distance": 402208,
+    "latitude": 43.67448825525593,
+    "telephone": "0490497029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'HIRONDELLE",
+    "resultStructId": "194815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue parmentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626170413213636,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "13040991",
+    "mail": "lesptitsflamants@people-and-baby.com",
+    "distance": 402222,
+    "latitude": 43.676826638489366,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES P'TITS FLAMANTS",
+    "resultStructId": "480502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre hospitalier d'arles - zonefourchon - bp 80019 - 13633 cedex",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.627382461310348,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511757",
+    "mail": "",
+    "distance": 402358,
+    "latitude": 43.69114517882331,
+    "telephone": "0490936851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "192903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marius allard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.634173234661552,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511370",
+    "mail": "",
+    "distance": 402369,
+    "latitude": 43.678186433112955,
+    "telephone": "0490963212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUNET",
+    "resultStructId": "192803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626201852195071,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511714",
+    "mail": "",
+    "distance": 402689,
+    "latitude": 43.66713756760867,
+    "telephone": "0490937680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA POULE ROUSSE",
+    "resultStructId": "192902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de vercelli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.615284192884728,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12568689",
+    "mail": "",
+    "distance": 404071,
+    "latitude": 43.68060399777326,
+    "telephone": "0490983935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACPIGEON VOLE",
+    "resultStructId": "193526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bertran boysset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.604589387595136,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18405929",
+    "mail": "",
+    "distance": 404656,
+    "latitude": 43.67885750410679,
+    "telephone": "0490917104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJECalin'ours",
+    "resultStructId": "195115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de severin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.595619899331238,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18405929",
+    "mail": "",
+    "distance": 56937,
+    "latitude": 43.67885750410679,
+    "telephone": "0490917104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJECalin'ours",
+    "resultStructId": "195115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de severin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.595619899331238,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12568689",
+    "mail": "",
+    "distance": 57679,
+    "latitude": 43.68060399777326,
+    "telephone": "0490983935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACPIGEON VOLE",
+    "resultStructId": "193526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bertran boysset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.604589387595136,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511714",
+    "mail": "",
+    "distance": 58321,
+    "latitude": 43.66713756760867,
+    "telephone": "0490937680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA POULE ROUSSE",
+    "resultStructId": "192902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de vercelli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.615284192884728,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18092894",
+    "mail": "",
+    "distance": 59297,
+    "latitude": 43.67448825525593,
+    "telephone": "0490497029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'HIRONDELLE",
+    "resultStructId": "194815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue parmentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626170413213636,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511370",
+    "mail": "",
+    "distance": 59358,
+    "latitude": 43.678186433112955,
+    "telephone": "0490963212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUNET",
+    "resultStructId": "192803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626201852195071,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "13040991",
+    "mail": "lesptitsflamants@people-and-baby.com",
+    "distance": 59430,
+    "latitude": 43.676826638489366,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES P'TITS FLAMANTS",
+    "resultStructId": "480502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre hospitalier d'arles - zonefourchon - bp 80019 - 13633 cedex",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.627382461310348,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511757",
+    "mail": "",
+    "distance": 60215,
+    "latitude": 43.69114517882331,
+    "telephone": "0490936851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "192903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marius allard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.634173234661552,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511671",
+    "mail": "",
+    "distance": 60553,
+    "latitude": 43.675720504805064,
+    "telephone": "0490963550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACOGRIBOUILLE",
+    "resultStructId": "192901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.641700450487962,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511671",
+    "mail": "",
+    "distance": 118181,
+    "latitude": 43.675720504805064,
+    "telephone": "0490963550",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACOGRIBOUILLE",
+    "resultStructId": "192901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du docteur schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.641700450487962,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511757",
+    "mail": "",
+    "distance": 118310,
+    "latitude": 43.69114517882331,
+    "telephone": "0490936851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA SOURIS VERTE",
+    "resultStructId": "192903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marius allard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.634173234661552,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "13040991",
+    "mail": "lesptitsflamants@people-and-baby.com",
+    "distance": 119256,
+    "latitude": 43.676826638489366,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES P'TITS FLAMANTS",
+    "resultStructId": "480502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre hospitalier d'arles - zonefourchon - bp 80019 - 13633 cedex",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.627382461310348,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511370",
+    "mail": "",
+    "distance": 119307,
+    "latitude": 43.678186433112955,
+    "telephone": "0490963212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLOU PITCHOUNET",
+    "resultStructId": "192803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur fanton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626201852195071,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18092894",
+    "mail": "",
+    "distance": 119420,
+    "latitude": 43.67448825525593,
+    "telephone": "0490497029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'HIRONDELLE",
+    "resultStructId": "194815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue parmentier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.626170413213636,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12511714",
+    "mail": "",
+    "distance": 120486,
+    "latitude": 43.66713756760867,
+    "telephone": "0490937680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLA POULE ROUSSE",
+    "resultStructId": "192902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de vercelli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.615284192884728,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "12568689",
+    "mail": "",
+    "distance": 120912,
+    "latitude": 43.68060399777326,
+    "telephone": "0490983935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACPIGEON VOLE",
+    "resultStructId": "193526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bertran boysset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.604589387595136,
+    "ville": "arles",
+    "cp": "13200"
+  },
+  {
+    "resultId": "18405929",
+    "mail": "",
+    "distance": 121659,
+    "latitude": 43.67885750410679,
+    "telephone": "0490917104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJECalin'ours",
+    "resultStructId": "195115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de severin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.595619899331238,
+    "ville": "arles",
+    "cp": "13200"
+  }
+]

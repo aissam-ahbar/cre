@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12800863",
+    "mail": "multiaccueil.montpeyroux@cc-vallee-herault.fr",
+    "distance": 91451,
+    "latitude": 43.69532733387331,
+    "telephone": "0467678766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "210913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoles caragoulette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.505432023667489,
+    "ville": "montpeyroux",
+    "cp": "34150"
+  },
+  {
+    "resultId": "12800863",
+    "mail": "multiaccueil.montpeyroux@cc-vallee-herault.fr",
+    "distance": 33283,
+    "latitude": 43.69532733387331,
+    "telephone": "0467678766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Lutins",
+    "resultStructId": "210913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoles caragoulette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.505432023667489,
+    "ville": "montpeyroux",
+    "cp": "34150"
+  }
+]

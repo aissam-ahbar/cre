@@ -1,0 +1,219 @@
+[
+  {
+    "resultId": "58729508",
+    "mail": "",
+    "distance": 64650,
+    "latitude": 42.68146746687551,
+    "telephone": "0967258167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Loups",
+    "resultStructId": "688116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route royale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.423799480559756,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "58863457",
+    "mail": "acioccia@umcs.fr",
+    "distance": 64899,
+    "latitude": 42.67829336700884,
+    "telephone": "0495334332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACioccia Micro crèche",
+    "resultStructId": "708420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.4405788079537,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "12706641",
+    "mail": "contact@laboiteamomes.fr",
+    "distance": 67605,
+    "latitude": 42.702214025048015,
+    "telephone": "0495308796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LABOITE A MOMES",
+    "resultStructId": "5214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.449124841567507,
+    "ville": "bastia",
+    "cp": "20200"
+  },
+  {
+    "resultId": "12535106",
+    "mail": "creche.familiale.cioccia@wanadoo.fr",
+    "distance": 67710,
+    "latitude": 42.70230799159277,
+    "telephone": "0495334332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACioccia",
+    "resultStructId": "708421",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "5 rue pasteur- cite aurore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 9.451886586517634,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "12531924",
+    "mail": "creche.aciucciarella@umcs.fr",
+    "distance": 67710,
+    "latitude": 42.70230799159277,
+    "telephone": "0495310784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACiucciarella",
+    "resultStructId": "712123",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rue des turquines- la citadelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.451886586517634,
+    "ville": "bastia",
+    "cp": "20200"
+  },
+  {
+    "resultId": "12529387",
+    "mail": "creche@ville-bastia.fr",
+    "distance": 67710,
+    "latitude": 42.70230799159277,
+    "telephone": "0495333694",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMunicipale de Bastia",
+    "resultStructId": "1092",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue paul giacobbi -",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.451886586517634,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "12531967",
+    "mail": "creche@ville.bastia.fr",
+    "distance": 67710,
+    "latitude": 42.70230799159277,
+    "telephone": "0495303245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiemunicipale de Bastia",
+    "resultStructId": "1152",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue paul giacobbi -",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.451886586517634,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "12729096",
+    "mail": "marie-catherine.monti@caf2b.caf.fr",
+    "distance": 67710,
+    "latitude": 42.70230799159277,
+    "telephone": "0420040425",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"L'ILOTCALIN\"",
+    "resultStructId": "700301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route royale paese novu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.451886586517634,
+    "ville": "bastia",
+    "cp": "20600"
+  },
+  {
+    "resultId": "58729787",
+    "mail": "",
+    "distance": 67812,
+    "latitude": 42.703558794111615,
+    "telephone": "0967258167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniLoups Graziani",
+    "resultStructId": "688205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard graziani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.451196792657775,
+    "ville": "bastia",
+    "cp": "20200"
+  }
+]

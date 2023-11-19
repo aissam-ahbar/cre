@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12886656",
+    "mail": "creche@ville-voreppe.fr",
+    "distance": 446952,
+    "latitude": 45.29250118658524,
+    "telephone": "0476508787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceVoreppe Enfance",
+    "resultStructId": "9430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue des tissages",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.636550337692755,
+    "ville": "voreppe",
+    "cp": "38340"
+  },
+  {
+    "resultId": "12886656",
+    "mail": "creche@ville-voreppe.fr",
+    "distance": 152301,
+    "latitude": 45.29250118658524,
+    "telephone": "0476508787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceVoreppe Enfance",
+    "resultStructId": "9430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue des tissages",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.636550337692755,
+    "ville": "voreppe",
+    "cp": "38340"
+  }
+]

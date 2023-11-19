@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12721605",
+    "mail": "direction@ohcomme3pommes.com",
+    "distance": 39932,
+    "latitude": 50.768629127648026,
+    "telephone": "0320639090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OH!COMME 3 POMMES",
+    "resultStructId": "5562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 avenue de la victoire 59117",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.041445765132935,
+    "ville": "wervicqsud",
+    "cp": ""
+  },
+  {
+    "resultId": "12558627",
+    "mail": "",
+    "distance": 40465,
+    "latitude": 50.77012657403196,
+    "telephone": "0320060684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEJARDIN DES LUTINS",
+    "resultStructId": "709804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du peuple belge 59117",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0512557534956395,
+    "ville": "wervicqsud",
+    "cp": ""
+  }
+]

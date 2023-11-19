@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58546708",
+    "mail": "coubron@micro-stars.fr",
+    "distance": 144595,
+    "latitude": 48.913759608828265,
+    "telephone": "0985001657",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars de Coubron",
+    "resultStructId": "685810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de courtry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5887006932683327,
+    "ville": "coubron",
+    "cp": "93470"
+  },
+  {
+    "resultId": "12666221",
+    "mail": "magali.salaun@coubron.fr",
+    "distance": 145113,
+    "latitude": 48.91556097824192,
+    "telephone": "0145098271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceWoopitoo",
+    "resultStructId": "691131",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.581909791851716,
+    "ville": "coubron",
+    "cp": "93470"
+  }
+]

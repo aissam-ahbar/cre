@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12789124",
+    "mail": "multiaccueilblanchesfleurs@beaunecoteetsud.com",
+    "distance": 56688,
+    "latitude": 47.03713742326271,
+    "telephone": "0380245835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil collectif et familial BLANCHES FLEURS (Commd'Aglo.)",
+    "resultStructId": "199743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue des blanches fleurs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.837623928860669,
+    "ville": "beaune",
+    "cp": "21200"
+  },
+  {
+    "resultId": "12789081",
+    "mail": "multiaccueillacabotte@beaunecoteetsud.com",
+    "distance": 57424,
+    "latitude": 47.023930972051176,
+    "telephone": "0380245828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil LA CABOTTE (Comm. d'Agglom. Beaune Côte etSud)",
+    "resultStructId": "199744",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.839304367087985,
+    "ville": "beaune",
+    "cp": "21200"
+  },
+  {
+    "resultId": "12789167",
+    "mail": "multiaccueilsaintjacques@beaunecoteetsud.com",
+    "distance": 57486,
+    "latitude": 47.01523618594662,
+    "telephone": "0380245818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil SAINT JACQUES (Communauté d'AgglomérationBeaune)",
+    "resultStructId": "199742",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue gaston roupnel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.833957334797225,
+    "ville": "beaune",
+    "cp": "21200"
+  }
+]

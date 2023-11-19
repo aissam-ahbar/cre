@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12813806",
+    "mail": "jardindecamille@ville-douai.fr",
+    "distance": 27017,
+    "latitude": 50.37676275401274,
+    "telephone": "0327918590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin de Camille",
+    "resultStructId": "7736",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "766 rue charles bourseul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0690300242912136,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "12809076",
+    "mail": "lesptitsbinbins@ville-douai.fr",
+    "distance": 27180,
+    "latitude": 50.382788434428996,
+    "telephone": "0327870269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES PTITS BINBINS",
+    "resultStructId": "463902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "356 avenue de strasbourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0754801216635825,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "12790285",
+    "mail": "jardindechantal@ville-douai.fr",
+    "distance": 28032,
+    "latitude": 50.36726296591407,
+    "telephone": "0327717868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEJARDIN DE CHANTAL",
+    "resultStructId": "7189",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "148 rue des foulons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.077996708834029,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "13028994",
+    "mail": "crecheadumont@ville-douai.fr",
+    "distance": 28057,
+    "latitude": 50.36978536225655,
+    "telephone": "0327887547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAntoinette Dumont",
+    "resultStructId": "12740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue des huit pretres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0802153362441436,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "13028951",
+    "mail": "petitapetit@ville-douai.fr",
+    "distance": 28171,
+    "latitude": 50.3672675950838,
+    "telephone": "0327888428",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petità petit",
+    "resultStructId": "12739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de l'universite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0801751791948497,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "12644971",
+    "mail": "",
+    "distance": 28627,
+    "latitude": 50.377864848122485,
+    "telephone": "0327920894",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pirouette,cacahuète",
+    "resultStructId": "3780",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gabriel faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0943693642711567,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "12974849",
+    "mail": "douai@rigolocommelavie.fr",
+    "distance": 28740,
+    "latitude": 50.376189220437304,
+    "telephone": "0327920894",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme le Vie Douai",
+    "resultStructId": "691316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "426 rue gabriel faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0950273878305956,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "55070838",
+    "mail": "leraquet@lapinsetcompagnie.com",
+    "distance": 29635,
+    "latitude": 50.34995260628272,
+    "telephone": "0766825623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LERAQUET, LAPINS ET COMPAGNIE",
+    "resultStructId": "607801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue philippe alexandrebommart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0897524790417097,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "55071781",
+    "mail": "leraquet@lapinsetcompagnie.com",
+    "distance": 29635,
+    "latitude": 50.34995260628272,
+    "telephone": "0766825623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LERAQUET, LAPINS ET COMPAGNIE",
+    "resultStructId": "607901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue philippe alexandrebommart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0897524790417097,
+    "ville": "douai",
+    "cp": "59500"
+  },
+  {
+    "resultId": "55594116",
+    "mail": "leraquet@lapinsetcompagnie.com",
+    "distance": 29637,
+    "latitude": 50.34996716934288,
+    "telephone": "0766825623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LERAQUET, LAPINS ET COMPAGNIE",
+    "resultStructId": "688032",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "144 rue philippe alexandrebommart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.089800212431392,
+    "ville": "douai",
+    "cp": "59500"
+  }
+]

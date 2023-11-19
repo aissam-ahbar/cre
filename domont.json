@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12723033",
+    "mail": "",
+    "distance": 162345,
+    "latitude": 49.03509748280037,
+    "telephone": "0952971499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"mon bébéd'or\"",
+    "resultStructId": "5625",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.331037719519164,
+    "ville": "domont",
+    "cp": "95330"
+  },
+  {
+    "resultId": "12723076",
+    "mail": "",
+    "distance": 162345,
+    "latitude": 49.03509748280037,
+    "telephone": "0613894575",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"les galopins\"",
+    "resultStructId": "5626",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.331037719519164,
+    "ville": "domont",
+    "cp": "95330"
+  },
+  {
+    "resultId": "12722990",
+    "mail": "",
+    "distance": 162345,
+    "latitude": 49.03509748280037,
+    "telephone": "0980343353",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"au pays des enfants",
+    "resultStructId": "5624",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 chemin des marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.331037719519164,
+    "ville": "domont",
+    "cp": "95330"
+  },
+  {
+    "resultId": "13015054",
+    "mail": "iberrier@domont.fr",
+    "distance": 162742,
+    "latitude": 49.03088126285889,
+    "telephone": "0174042120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMulti-accueil - Maison de la Petite Enfance",
+    "resultStructId": "127601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenuejean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.336356091328823,
+    "ville": "domont",
+    "cp": "95330"
+  },
+  {
+    "resultId": "12482853",
+    "mail": "iberrier@domont.fr",
+    "distance": 162742,
+    "latitude": 49.03088126285889,
+    "telephone": "0174042120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leservice d'accueil Familial - Maison de la PetiteEnfance",
+    "resultStructId": "129301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.336356091328823,
+    "ville": "domont",
+    "cp": "95330"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13046108",
+    "mail": "creche@enfance.mairie-morez.fr",
+    "distance": 162886,
+    "latitude": 46.528886601992625,
+    "telephone": "0384331140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMulti-accueil Les Magnoulets - MOREZ",
+    "resultStructId": "209801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue dde laliberation 39400 hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.023119312164333,
+    "ville": "debienne",
+    "cp": ""
+  },
+  {
+    "resultId": "12760013",
+    "mail": "crechecroquesoleil@enfance.mairie-morez.fr",
+    "distance": 163247,
+    "latitude": 46.52080441632274,
+    "telephone": "0384336502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMulti-accueil collectif \"Croque Soleil\"",
+    "resultStructId": "23501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 quai jobez39400 hauts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.021764383569614,
+    "ville": "debienne",
+    "cp": ""
+  }
+]

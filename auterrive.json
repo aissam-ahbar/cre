@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12953865",
+    "mail": "crecheauterrive@outlook.fr",
+    "distance": 115527,
+    "latitude": 43.46645733300751,
+    "telephone": "0559094167",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAuterrive",
+    "resultStructId": "10993",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin d'arbourette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0021252213433556,
+    "ville": "auterrive",
+    "cp": "64270"
+  }
+]

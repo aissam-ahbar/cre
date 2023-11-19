@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "39420617",
+    "mail": "ilot@les-cherubins.com",
+    "distance": 63652,
+    "latitude": 43.650995553192004,
+    "telephone": "0467720078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheL'Ilôt des Chérubins",
+    "resultStructId": "189003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "325 avenue des orchidees 34980 stclement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.845659958498639,
+    "ville": "deriviere",
+    "cp": ""
+  },
+  {
+    "resultId": "12801508",
+    "mail": "stclement34.dgs@wanadoo.fr",
+    "distance": 64061,
+    "latitude": 43.68656199465992,
+    "telephone": "0467666666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMaison de la petite enfance à St Clément de Rivière",
+    "resultStructId": "7450",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "700boulevard des sources 34980 st clement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.849888285550403,
+    "ville": "deriviere",
+    "cp": ""
+  },
+  {
+    "resultId": "39420617",
+    "mail": "ilot@les-cherubins.com",
+    "distance": 7144,
+    "latitude": 43.650995553192004,
+    "telephone": "0467720078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheL'Ilôt des Chérubins",
+    "resultStructId": "189003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "325 avenue des orchidees 34980 stclement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.845659958498639,
+    "ville": "deriviere",
+    "cp": ""
+  },
+  {
+    "resultId": "12801508",
+    "mail": "stclement34.dgs@wanadoo.fr",
+    "distance": 10495,
+    "latitude": 43.68656199465992,
+    "telephone": "0467666666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMaison de la petite enfance à St Clément de Rivière",
+    "resultStructId": "7450",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "700boulevard des sources 34980 st clement",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.849888285550403,
+    "ville": "deriviere",
+    "cp": ""
+  }
+]

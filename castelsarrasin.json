@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12719412",
+    "mail": "cscastel.caf82@orange.fr",
+    "distance": 111701,
+    "latitude": 44.048862286962354,
+    "telephone": "0563046941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche-Halte-garderiedu Centre social de Cassenel",
+    "resultStructId": "676336",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.100749645116991,
+    "ville": "castelsarrasin",
+    "cp": "82100"
+  },
+  {
+    "resultId": "12492829",
+    "mail": "maisonpetiteenfance@ville-castelsarrasin.fr",
+    "distance": 112449,
+    "latitude": 44.040488412139105,
+    "telephone": "0563326221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede la Maison Petite Enfance",
+    "resultStructId": "713310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1068221923101673,
+    "ville": "castelsarrasin",
+    "cp": "82100"
+  },
+  {
+    "resultId": "60213198",
+    "mail": "lapleinelune82@gmail.com",
+    "distance": 112665,
+    "latitude": 44.03921613812603,
+    "telephone": "0762818275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPleine Lune",
+    "resultStructId": "706531",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 boulevard de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1090769024607563,
+    "ville": "castelsarrasin",
+    "cp": "82100"
+  },
+  {
+    "resultId": "12682346",
+    "mail": "larondeenchantee@udm82.fr",
+    "distance": 112970,
+    "latitude": 44.04657677382943,
+    "telephone": "0563951360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde Enchantée",
+    "resultStructId": "674818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "611 route de lafrancaise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1164076850018205,
+    "ville": "castelsarrasin",
+    "cp": "82100"
+  }
+]

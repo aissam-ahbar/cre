@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "35647619",
+    "mail": "microcreche.admr.st-flour@outlook.fr",
+    "distance": 172068,
+    "latitude": 45.03461513317069,
+    "telephone": "0471603605",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Cocon Sanflorain",
+    "resultStructId": "137902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue du college 15100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.091247181954607,
+    "ville": "stflour",
+    "cp": ""
+  },
+  {
+    "resultId": "12929054",
+    "mail": "leslutinssanflorains@saint-flour.net",
+    "distance": 172487,
+    "latitude": 45.03430864878407,
+    "telephone": "0471600959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leslutins sanflorains",
+    "resultStructId": "10416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du docteur mallet 15100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.076156522976318,
+    "ville": "stflour",
+    "cp": ""
+  }
+]

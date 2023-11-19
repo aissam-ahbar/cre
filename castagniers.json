@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12965002",
+    "mail": "creche.castagniers@svdb.fr",
+    "distance": 239207,
+    "latitude": 43.80639376444065,
+    "telephone": "0493083509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa barboteuse",
+    "resultStructId": "585001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4648 route de la loubiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.229776137744811,
+    "ville": "castagniers",
+    "cp": "06670"
+  },
+  {
+    "resultId": "12965002",
+    "mail": "creche.castagniers@svdb.fr",
+    "distance": 95053,
+    "latitude": 43.80639376444065,
+    "telephone": "0493083509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa barboteuse",
+    "resultStructId": "585001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4648 route de la loubiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.229776137744811,
+    "ville": "castagniers",
+    "cp": "06670"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12892891",
+    "mail": "multiaccueil@goncelin.fr",
+    "distance": 435009,
+    "latitude": 45.34295257691623,
+    "telephone": "0476718494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche La Ruche",
+    "resultStructId": "701336",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.975574281893921,
+    "ville": "goncelin",
+    "cp": "38570"
+  },
+  {
+    "resultId": "12892891",
+    "mail": "multiaccueil@goncelin.fr",
+    "distance": 154291,
+    "latitude": 45.34295257691623,
+    "telephone": "0476718494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche La Ruche",
+    "resultStructId": "701336",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.975574281893921,
+    "ville": "goncelin",
+    "cp": "38570"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12989211",
+    "mail": "frimousse.vittel@free.fr",
+    "distance": 171213,
+    "latitude": 48.202808727786724,
+    "telephone": "0952632476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Frimousse",
+    "resultStructId": "89702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue marcel soulier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9459508724991315,
+    "ville": "vittel",
+    "cp": "88800"
+  },
+  {
+    "resultId": "12989426",
+    "mail": "frimousse.vittel@free.fr",
+    "distance": 171213,
+    "latitude": 48.202808727786724,
+    "telephone": "0952632476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Frimousse",
+    "resultStructId": "90005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue marcel soulier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9459508724991315,
+    "ville": "vittel",
+    "cp": "88800"
+  },
+  {
+    "resultId": "12989211",
+    "mail": "frimousse.vittel@free.fr",
+    "distance": 118876,
+    "latitude": 48.202808727786724,
+    "telephone": "0952632476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Frimousse",
+    "resultStructId": "89702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue marcel soulier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9459508724991315,
+    "ville": "vittel",
+    "cp": "88800"
+  },
+  {
+    "resultId": "12989426",
+    "mail": "frimousse.vittel@free.fr",
+    "distance": 118876,
+    "latitude": 48.202808727786724,
+    "telephone": "0952632476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Frimousse",
+    "resultStructId": "90005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue marcel soulier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9459508724991315,
+    "ville": "vittel",
+    "cp": "88800"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12851009",
+    "mail": "cmalauze@ville-mazamet.com",
+    "distance": 180318,
+    "latitude": 43.49446676352716,
+    "telephone": "0563989736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centremulti accueil de la Lauze",
+    "resultStructId": "223402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.390848238449984,
+    "ville": "mazamet",
+    "cp": "81200"
+  },
+  {
+    "resultId": "12851052",
+    "mail": "cmamazel@ville-mazamet.com",
+    "distance": 181633,
+    "latitude": 43.48797482390241,
+    "telephone": "0563611388",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CentreMulti-Accueil Jeanne Mazel - Mazamet",
+    "resultStructId": "704504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.375014554880742,
+    "ville": "mazamet",
+    "cp": "81200"
+  },
+  {
+    "resultId": "12851052",
+    "mail": "cmamazel@ville-mazamet.com",
+    "distance": 230002,
+    "latitude": 43.48797482390241,
+    "telephone": "0563611388",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CentreMulti-Accueil Jeanne Mazel - Mazamet",
+    "resultStructId": "704504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.375014554880742,
+    "ville": "mazamet",
+    "cp": "81200"
+  },
+  {
+    "resultId": "12851009",
+    "mail": "cmalauze@ville-mazamet.com",
+    "distance": 230848,
+    "latitude": 43.49446676352716,
+    "telephone": "0563989736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centremulti accueil de la Lauze",
+    "resultStructId": "223402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.390848238449984,
+    "ville": "mazamet",
+    "cp": "81200"
+  },
+  {
+    "resultId": "12851009",
+    "mail": "cmalauze@ville-mazamet.com",
+    "distance": 121925,
+    "latitude": 43.49446676352716,
+    "telephone": "0563989736",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centremulti accueil de la Lauze",
+    "resultStructId": "223402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin des chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.390848238449984,
+    "ville": "mazamet",
+    "cp": "81200"
+  },
+  {
+    "resultId": "12851052",
+    "mail": "cmamazel@ville-mazamet.com",
+    "distance": 123272,
+    "latitude": 43.48797482390241,
+    "telephone": "0563611388",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CentreMulti-Accueil Jeanne Mazel - Mazamet",
+    "resultStructId": "704504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.375014554880742,
+    "ville": "mazamet",
+    "cp": "81200"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12855911",
+    "mail": "multiaccueil@saint-maurice-de-beynost.fr",
+    "distance": 169389,
+    "latitude": 45.83072646843597,
+    "telephone": "0478555400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Françoise DOLTO",
+    "resultStructId": "8715",
+    "omegaId": "2687",
+    "avip": false,
+    "adresse": "place charles de gaulle 01700st maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.97560707779117,
+    "ville": "debeynost",
+    "cp": ""
+  },
+  {
+    "resultId": "12996306",
+    "mail": "berceaudesiles@creche-attitude.fr",
+    "distance": 169389,
+    "latitude": 45.83072646843597,
+    "telephone": "0967343866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELE BERCEAU DES ILES",
+    "resultStructId": "11980",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin de thil - zi ouest 01700 stmaurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.97560707779117,
+    "ville": "debeynost",
+    "cp": ""
+  }
+]

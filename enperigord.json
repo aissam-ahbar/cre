@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "13042281",
+    "mail": "s.carouge@dronneetbelle.fr",
+    "distance": 198258,
+    "latitude": 45.4383701335667,
+    "telephone": "0553564369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGATIFLETTES",
+    "resultStructId": "492801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de saint-pardoux 24340 mareuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4463477365118396,
+    "ville": "enperigord",
+    "cp": ""
+  },
+  {
+    "resultId": "13050795",
+    "mail": "lescoccinelles123@free.fr",
+    "distance": 199662,
+    "latitude": 45.35466813018316,
+    "telephone": "0553052783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOCCINELLES",
+    "resultStructId": "13247",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue de perigueux 24310 brantome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6536155725943686,
+    "ville": "enperigord",
+    "cp": ""
+  },
+  {
+    "resultId": "13051612",
+    "mail": "coquinsdesorges@voieverte.fede24.admr.org",
+    "distance": 131978,
+    "latitude": 45.263189721954234,
+    "telephone": "0553035782",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOQUINS DE SORGES",
+    "resultStructId": "13266",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les potences nord 24420 sorges etligueux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8267223816336343,
+    "ville": "enperigord",
+    "cp": ""
+  },
+  {
+    "resultId": "13050795",
+    "mail": "lescoccinelles123@free.fr",
+    "distance": 132211,
+    "latitude": 45.35466813018316,
+    "telephone": "0553052783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOCCINELLES",
+    "resultStructId": "13247",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 avenue de perigueux 24310 brantome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6536155725943686,
+    "ville": "enperigord",
+    "cp": ""
+  },
+  {
+    "resultId": "13042281",
+    "mail": "s.carouge@dronneetbelle.fr",
+    "distance": 132739,
+    "latitude": 45.4383701335667,
+    "telephone": "0553564369",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGATIFLETTES",
+    "resultStructId": "492801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de saint-pardoux 24340 mareuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4463477365118396,
+    "ville": "enperigord",
+    "cp": ""
+  }
+]

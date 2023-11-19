@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12534891",
+    "mail": "creche@ville-lanton.fr",
+    "distance": 76242,
+    "latitude": 44.714522454606055,
+    "telephone": "0556829008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de l'OYAT",
+    "resultStructId": "95808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue marc delest",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0494292350444638,
+    "ville": "lanton",
+    "cp": "33138"
+  }
+]

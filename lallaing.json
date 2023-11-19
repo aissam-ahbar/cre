@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12611345",
+    "mail": "sdevriendt.desetoiles@utas.fr",
+    "distance": 34116,
+    "latitude": 50.38060586946798,
+    "telephone": "0327900641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Dansonsla capucine",
+    "resultStructId": "2998",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lusanger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.178168083389511,
+    "ville": "lallaing",
+    "cp": "59167"
+  },
+  {
+    "resultId": "12974720",
+    "mail": "lallaing@rigolocommelavie.fr",
+    "distance": 34116,
+    "latitude": 50.38060586946798,
+    "telephone": "0327900641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE LALLAING",
+    "resultStructId": "691324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lusanger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.178168083389511,
+    "ville": "lallaing",
+    "cp": "59167"
+  }
+]

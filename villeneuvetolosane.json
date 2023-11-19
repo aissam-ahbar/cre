@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "47514285",
+    "mail": "microcreche.lespetitspapillons@gmail.com",
+    "distance": 154763,
+    "latitude": 43.529521601310236,
+    "telephone": "0749545355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Petits Papillons",
+    "resultStructId": "343401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 chemin des mailheaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.326944109331692,
+    "ville": "villeneuvetolosane",
+    "cp": "31270"
+  },
+  {
+    "resultId": "13018709",
+    "mail": "microcreche.leschrysalides@gmail.com",
+    "distance": 155435,
+    "latitude": 43.53131929961701,
+    "telephone": "0534510986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Chrysalides",
+    "resultStructId": "98115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 ter boulevard des pyrenees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3391261500050486,
+    "ville": "villeneuvetolosane",
+    "cp": "31270"
+  },
+  {
+    "resultId": "12488443",
+    "mail": "petiteenfance@villeneuve-tolosane.fr",
+    "distance": 155886,
+    "latitude": 43.524526100175216,
+    "telephone": "0562873200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance Les p'tits loups",
+    "resultStructId": "91610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 boulevard desecoles 31270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3391807817143093,
+    "ville": "villeneuvetolosane",
+    "cp": ""
+  },
+  {
+    "resultId": "12487927",
+    "mail": "",
+    "distance": 155886,
+    "latitude": 43.524526100175216,
+    "telephone": "0562873200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les P'tits Loups",
+    "resultStructId": "128",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 boulevard des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3391807817143093,
+    "ville": "villeneuvetolosane",
+    "cp": "31270"
+  }
+]

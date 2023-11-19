@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "22978345",
+    "mail": "",
+    "distance": 185474,
+    "latitude": 48.79991787578423,
+    "telephone": "0130071540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - COCCINELLES",
+    "resultStructId": "693605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue fritz lang 78390 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0107691923822544,
+    "ville": "darcy",
+    "cp": ""
+  },
+  {
+    "resultId": "12828985",
+    "mail": "crechefamiliale@boisdarcy.fr",
+    "distance": 185589,
+    "latitude": 48.80397264809318,
+    "telephone": "0130071540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - LA PEROUSE",
+    "resultStructId": "693607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jean gabin 78390 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.012925654061111,
+    "ville": "darcy",
+    "cp": ""
+  },
+  {
+    "resultId": "12829028",
+    "mail": "multiaccueil@boisdarcy.fr",
+    "distance": 185589,
+    "latitude": 48.80397264809318,
+    "telephone": "0130071541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - JACQUES DEMY",
+    "resultStructId": "693608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jean gabin 78390 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.012925654061111,
+    "ville": "darcy",
+    "cp": ""
+  },
+  {
+    "resultId": "12829071",
+    "mail": "crechelesoursons@gmail.com",
+    "distance": 185978,
+    "latitude": 48.79844214044544,
+    "telephone": "0130451150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE ASSOCIATIVE - LES OURSONS",
+    "resultStructId": "672916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 avenue paulvaillant couturier 78390 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.017464392828246,
+    "ville": "darcy",
+    "cp": ""
+  },
+  {
+    "resultId": "12781126",
+    "mail": "crechecollective@boisdarcy.fr",
+    "distance": 186067,
+    "latitude": 48.800086969925225,
+    "telephone": "0130451728",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE - AMBROISE PARE",
+    "resultStructId": "693606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis avenue ambroise pare78390 bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.018920515430113,
+    "ville": "darcy",
+    "cp": ""
+  }
+]

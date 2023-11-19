@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13062276",
+    "mail": "contact@ptitscoquins.fr",
+    "distance": 144143,
+    "latitude": 43.60003533866258,
+    "telephone": "0561864613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPTITS COQUINS",
+    "resultStructId": "681604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis rue du languedoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2347874042868707,
+    "ville": "leguevin",
+    "cp": "31490"
+  },
+  {
+    "resultId": "13062233",
+    "mail": "creche.calinous@ville-leguevin.fr",
+    "distance": 144151,
+    "latitude": 43.600507508609894,
+    "telephone": "0562135660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILFAMILIAL / COLLECTIF LES CALINOUS",
+    "resultStructId": "674213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue pipet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2353775670376366,
+    "ville": "leguevin",
+    "cp": "31490"
+  },
+  {
+    "resultId": "12635296",
+    "mail": "directrice.bullesdeveil31@gmail.com",
+    "distance": 146031,
+    "latitude": 43.5994892755509,
+    "telephone": "0534599693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bullesd'Eveil",
+    "resultStructId": "523701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue de lengel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2630396958571808,
+    "ville": "leguevin",
+    "cp": "31490"
+  }
+]

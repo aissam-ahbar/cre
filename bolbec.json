@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59945320",
+    "mail": "creche.ilotcalin@people-and-baby.com",
+    "distance": 100799,
+    "latitude": 49.56702345141661,
+    "telephone": "0235385185",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilIlot Calin",
+    "resultStructId": "701713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules grevy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4700881788666701,
+    "ville": "bolbec",
+    "cp": "76210"
+  },
+  {
+    "resultId": "12823782",
+    "mail": "lespetitspiedsdirection@gmail.com",
+    "distance": 101400,
+    "latitude": 49.575269758459946,
+    "telephone": "0235388459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PIEDS",
+    "resultStructId": "374401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis route de mirville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.469269414964881,
+    "ville": "bolbec",
+    "cp": "76210"
+  }
+]

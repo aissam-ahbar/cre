@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12568259",
+    "mail": "multiaccueil@lesepis.fr",
+    "distance": 143534,
+    "latitude": 48.598120132192676,
+    "telephone": "0383743773",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Farandole\"",
+    "resultStructId": "707321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis avenue du general de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.488360215363839,
+    "ville": "luneville",
+    "cp": "54300"
+  },
+  {
+    "resultId": "12517562",
+    "mail": "ecuny@mairie-luneville.fr",
+    "distance": 143748,
+    "latitude": 48.59039049263183,
+    "telephone": "0383743767",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMunicipale \"L'Ile aux Enfants\"",
+    "resultStructId": "675303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.4898965712909895,
+    "ville": "luneville",
+    "cp": "54300"
+  },
+  {
+    "resultId": "12656753",
+    "mail": "accueil-ccas@mairie-luneville.fr",
+    "distance": 144988,
+    "latitude": 48.585048500750915,
+    "telephone": "0383764855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Le Donjeux\"",
+    "resultStructId": "4054",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue ernest bichat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.505877350029828,
+    "ville": "luneville",
+    "cp": "54300"
+  }
+]

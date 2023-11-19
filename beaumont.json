@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12941051",
+    "mail": "beaumont.tetes@lpcr.fr",
+    "distance": 12836,
+    "latitude": 45.74955820728016,
+    "telephone": "0983761868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux des Têtes",
+    "resultStructId": "10695",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "163 rue des tetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0901341274197565,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984739",
+    "mail": "",
+    "distance": 13022,
+    "latitude": 45.75241617823946,
+    "telephone": "0473272959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Masage",
+    "resultStructId": "11711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du masage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0922754068752747,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12982847",
+    "mail": "",
+    "distance": 13193,
+    "latitude": 45.75197949730038,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Beaumont",
+    "resultStructId": "11667",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rene brut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.087007492163406,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984696",
+    "mail": "",
+    "distance": 13428,
+    "latitude": 45.75399416276106,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Mourette",
+    "resultStructId": "11710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des droits de l'homme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.085898490284881,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12940965",
+    "mail": "beaumont.lepetit@lpcr.fr",
+    "distance": 13920,
+    "latitude": 45.75657466022436,
+    "telephone": "0473342498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux de Lepetit",
+    "resultStructId": "10693",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse docteur lepetit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.079897907018721,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984739",
+    "mail": "",
+    "distance": 184792,
+    "latitude": 45.75241617823946,
+    "telephone": "0473272959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Masage",
+    "resultStructId": "11711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du masage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0922754068752747,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12940965",
+    "mail": "beaumont.lepetit@lpcr.fr",
+    "distance": 184795,
+    "latitude": 45.75657466022436,
+    "telephone": "0473342498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux de Lepetit",
+    "resultStructId": "10693",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse docteur lepetit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.079897907018721,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984696",
+    "mail": "",
+    "distance": 184849,
+    "latitude": 45.75399416276106,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Mourette",
+    "resultStructId": "11710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des droits de l'homme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.085898490284881,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12982847",
+    "mail": "",
+    "distance": 185014,
+    "latitude": 45.75197949730038,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Beaumont",
+    "resultStructId": "11667",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rene brut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.087007492163406,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12941051",
+    "mail": "beaumont.tetes@lpcr.fr",
+    "distance": 185151,
+    "latitude": 45.74955820728016,
+    "telephone": "0983761868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux des Têtes",
+    "resultStructId": "10695",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "163 rue des tetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0901341274197565,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12940965",
+    "mail": "beaumont.lepetit@lpcr.fr",
+    "distance": 175245,
+    "latitude": 45.75657466022436,
+    "telephone": "0473342498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux de Lepetit",
+    "resultStructId": "10693",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse docteur lepetit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.079897907018721,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984696",
+    "mail": "",
+    "distance": 175755,
+    "latitude": 45.75399416276106,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de la Mourette",
+    "resultStructId": "11710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place des droits de l'homme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.085898490284881,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12982847",
+    "mail": "",
+    "distance": 175986,
+    "latitude": 45.75197949730038,
+    "telephone": "0473399854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Beaumont",
+    "resultStructId": "11667",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rene brut",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.087007492163406,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12984739",
+    "mail": "",
+    "distance": 176195,
+    "latitude": 45.75241617823946,
+    "telephone": "0473272959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Masage",
+    "resultStructId": "11711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du masage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0922754068752747,
+    "ville": "beaumont",
+    "cp": "63110"
+  },
+  {
+    "resultId": "12941051",
+    "mail": "beaumont.tetes@lpcr.fr",
+    "distance": 176347,
+    "latitude": 45.74955820728016,
+    "telephone": "0983761868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Malicieux des Têtes",
+    "resultStructId": "10695",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "163 rue des tetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0901341274197565,
+    "ville": "beaumont",
+    "cp": "63110"
+  }
+]

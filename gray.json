@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "43334310",
+    "mail": "multi.accueil@ville-gray.fr",
+    "distance": 111168,
+    "latitude": 47.44038646367637,
+    "telephone": "0384649019",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "GRAY'NED'EVEIL",
+    "resultStructId": "628701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 avenue charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.600447624227576,
+    "ville": "gray",
+    "cp": "70100"
+  }
+]

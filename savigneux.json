@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12737610",
+    "mail": "etoileetmoi@crechesabricot.fr",
+    "distance": 181532,
+    "latitude": 45.61315665523363,
+    "telephone": "0477973385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Etoile & Moi\"",
+    "resultStructId": "5964",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la bruyere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.094740966801191,
+    "ville": "savigneux",
+    "cp": "42600"
+  },
+  {
+    "resultId": "12793467",
+    "mail": "",
+    "distance": 181532,
+    "latitude": 45.61315665523363,
+    "telephone": "0477279291",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAttitude",
+    "resultStructId": "7263",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "113 chemin de la bruyere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.094740966801191,
+    "ville": "savigneux",
+    "cp": "42600"
+  },
+  {
+    "resultId": "12547361",
+    "mail": "lesfripouilles@wanadoo.fr",
+    "distance": 182075,
+    "latitude": 45.60848703540979,
+    "telephone": "0477584786",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFripouilles",
+    "resultStructId": "1510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue bayard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.083081560446178,
+    "ville": "savigneux",
+    "cp": "42600"
+  }
+]

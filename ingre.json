@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12991791",
+    "mail": "madeira.m@ingre.fr",
+    "distance": 102530,
+    "latitude": 47.91987187266367,
+    "telephone": "0676733977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie \"La Coccinelle\" INGRE",
+    "resultStructId": "586301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue de l 'ecolematernelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8284260174976639,
+    "ville": "ingre",
+    "cp": "45140"
+  },
+  {
+    "resultId": "40396489",
+    "mail": "v.lacroix@les-cherubins.com",
+    "distance": 103287,
+    "latitude": 47.92637803821906,
+    "telephone": "0661832597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leschérubins en musique - Ingré",
+    "resultStructId": "200616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue frederic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8330673304723089,
+    "ville": "ingre",
+    "cp": "45140"
+  }
+]

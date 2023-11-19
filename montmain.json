@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12826104",
+    "mail": "creche-montmain@orange.fr",
+    "distance": 158864,
+    "latitude": 49.40786666070277,
+    "telephone": "0235792922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ARBREAUX FEES",
+    "resultStructId": "8022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 rue de la mairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2401821551409267,
+    "ville": "montmain",
+    "cp": "76520"
+  },
+  {
+    "resultId": "12826104",
+    "mail": "creche-montmain@orange.fr",
+    "distance": 138395,
+    "latitude": 49.40786666070277,
+    "telephone": "0235792922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ARBREAUX FEES",
+    "resultStructId": "8022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 rue de la mairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2401821551409267,
+    "ville": "montmain",
+    "cp": "76520"
+  }
+]

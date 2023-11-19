@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12859351",
+    "mail": "boutchoupoisat@gmail.com",
+    "distance": 429516,
+    "latitude": 45.15911579371117,
+    "telephone": "0476255333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BoutChou",
+    "resultStructId": "699919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.757130645107791,
+    "ville": "poisat",
+    "cp": "38320"
+  },
+  {
+    "resultId": "12859351",
+    "mail": "boutchoupoisat@gmail.com",
+    "distance": 135864,
+    "latitude": 45.15911579371117,
+    "telephone": "0476255333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BoutChou",
+    "resultStructId": "699919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.757130645107791,
+    "ville": "poisat",
+    "cp": "38320"
+  }
+]

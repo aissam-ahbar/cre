@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "51205092",
+    "mail": "",
+    "distance": 87592,
+    "latitude": 50.256883092191174,
+    "telephone": "0327597081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE POMME DE REINETTE",
+    "resultStructId": "440601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place alfred de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.906467230600772,
+    "ville": "hautmont",
+    "cp": "59330"
+  },
+  {
+    "resultId": "51205575",
+    "mail": "",
+    "distance": 88520,
+    "latitude": 50.24919953677955,
+    "telephone": "0327652185",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE POMME D'API",
+    "resultStructId": "440701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la sucrerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9165120084805567,
+    "ville": "hautmont",
+    "cp": "59330"
+  },
+  {
+    "resultId": "12824771",
+    "mail": "dsu.collet@mairie-hautmont.fr",
+    "distance": 88719,
+    "latitude": 50.25162283630313,
+    "telephone": "0605184094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMaternel \"Les Jacinthes\"",
+    "resultStructId": "23713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place alfred de musset -groupe scolaire victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9205745040900917,
+    "ville": "hautmont",
+    "cp": "59330"
+  },
+  {
+    "resultId": "24378414",
+    "mail": "dsu.collet@mairie-hautmont.fr",
+    "distance": 88719,
+    "latitude": 50.25162283630313,
+    "telephone": "0605184094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMaternel \" George Sand\" Juillet",
+    "resultStructId": "23709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ecole george sand ruede la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9205745040900917,
+    "ville": "hautmont",
+    "cp": "59330"
+  },
+  {
+    "resultId": "12824728",
+    "mail": "dsu.collet@mairie-hautmont.fr",
+    "distance": 89475,
+    "latitude": 50.24523508324942,
+    "telephone": "0605184094",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMaternel \"Les Roses\"",
+    "resultStructId": "23711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de kalisz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9286636374744988,
+    "ville": "hautmont",
+    "cp": "59330"
+  }
+]

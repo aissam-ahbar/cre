@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12622998",
+    "mail": "",
+    "distance": 164727,
+    "latitude": 49.007527995071435,
+    "telephone": "0134539095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil - Mini crèche et Halte garderie Arnouville",
+    "resultStructId": "3269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73avenue henri barbusse - 95400 villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.387906816385002,
+    "ville": "lebel",
+    "cp": ""
+  },
+  {
+    "resultId": "12622912",
+    "mail": "lespitchouns@ville-villiers-le-bel.fr",
+    "distance": 164727,
+    "latitude": 49.007527995071435,
+    "telephone": "0139943114",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Les Pitchouns\"",
+    "resultStructId": "3267",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 bis avenue du 8 mai 1945 -maison de quartier camille claudel 95400 villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.387906816385002,
+    "ville": "lebel",
+    "cp": ""
+  },
+  {
+    "resultId": "12623041",
+    "mail": "pierrot.colombine.vlb@wanadoo.fr",
+    "distance": 164967,
+    "latitude": 49.00302775506913,
+    "telephone": "0134292827",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Pierrot et Colombine",
+    "resultStructId": "3270",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des roses 95400villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4135560856108027,
+    "ville": "lebel",
+    "cp": ""
+  },
+  {
+    "resultId": "12622783",
+    "mail": "lileauxenfants@ville-villiers-le-bel.fr",
+    "distance": 165007,
+    "latitude": 49.0026060527531,
+    "telephone": "0139907304",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Accueilfamilial \" L'île aux enfants\"",
+    "resultStructId": "685702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 avenue alexisvaragne 95400 villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4143294240176854,
+    "ville": "lebel",
+    "cp": ""
+  },
+  {
+    "resultId": "12623084",
+    "mail": "lesmarmousets.vlb@wanadoo.fr",
+    "distance": 165030,
+    "latitude": 49.004464207940984,
+    "telephone": "0139945727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"Les Marmousets\"",
+    "resultStructId": "3271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard allende 95400villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.391260777324022,
+    "ville": "lebel",
+    "cp": ""
+  },
+  {
+    "resultId": "12622955",
+    "mail": "arcenciel@ville-villiers-le-bel.fr",
+    "distance": 165092,
+    "latitude": 49.00167824025341,
+    "telephone": "0139858234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"Arc en Ciel\"",
+    "resultStructId": "3268",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue scribe 95400 villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.416142448246492,
+    "ville": "lebel",
+    "cp": ""
+  }
+]

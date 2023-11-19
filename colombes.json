@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12516831",
+    "mail": "creche-puce@wanadoo.fr",
+    "distance": 7977,
+    "latitude": 48.91375747417372,
+    "telephone": "0146491060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCIGOGNES",
+    "resultStructId": "237607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "191 avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2531132674939593,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12517003",
+    "mail": "creche.hirondelles@wanadoo.fr",
+    "distance": 8211,
+    "latitude": 48.9182889331641,
+    "telephone": "0147842365",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESHIRONDELLES",
+    "resultStructId": "237609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue des monts clairs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2571079251840707,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "33611014",
+    "mail": "contact@babilou.com",
+    "distance": 8278,
+    "latitude": 48.916664443754186,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCOLOMBES BARBUSSE",
+    "resultStructId": "429802",
+    "omegaId": "11023",
+    "avip": false,
+    "adresse": "102 avenue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2521123267774925,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12516702",
+    "mail": "creche-les-goelands@wanadoo.fr",
+    "distance": 8331,
+    "latitude": 48.912844768214256,
+    "telephone": "0142424182",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESGOELANDS",
+    "resultStructId": "237604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "193 rue des voies du bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.243967646222139,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "33611193",
+    "mail": "contact@babilou.com",
+    "distance": 8468,
+    "latitude": 48.909030582879915,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA- BABILOU COLOMBES DEBARCADERE",
+    "resultStructId": "429801",
+    "omegaId": "1458",
+    "avip": false,
+    "adresse": "12 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2354295538492885,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "32603957",
+    "mail": "colombes.mai45@lpcr.fr",
+    "distance": 8553,
+    "latitude": 48.92261433192186,
+    "telephone": "0185608607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - COLOMBES - LES POUSSINS",
+    "resultStructId": "400701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2586429549247464,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12557423",
+    "mail": "president.galipette@gmail.com",
+    "distance": 8614,
+    "latitude": 48.91429547534795,
+    "telephone": "0146495963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEPARENTALE GALIPETTE",
+    "resultStructId": "101908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue pierre deloron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2406266225868285,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12517089",
+    "mail": "creche-les-moineaux@wanadoo.fr",
+    "distance": 8702,
+    "latitude": 48.91657475848001,
+    "telephone": "0142424409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMOINEAUX",
+    "resultStructId": "237611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "267 rue des gros gres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.242711982345892,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12837456",
+    "mail": "colombes.europe@lpcr.fr",
+    "distance": 8711,
+    "latitude": 48.92251969000774,
+    "telephone": "0155904456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - COLOMBES LES ALOUETTES",
+    "resultStructId": "397301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 zacde l'ile marrante",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.254433666140101,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "33611748",
+    "mail": "cre-141@babilou.com",
+    "distance": 8711,
+    "latitude": 48.92251969000774,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCOLOMBES STALINGRAD",
+    "resultStructId": "109208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "142 - 176 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.254433666140101,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "23611776",
+    "mail": "contact@happyeveil.com",
+    "distance": 8719,
+    "latitude": 48.91082448912071,
+    "telephone": "0768752510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HAPPYEVEIL - Les Sunny",
+    "resultStructId": "22803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue aubenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2332808571622738,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "33611337",
+    "mail": "contact@babilou.com",
+    "distance": 8743,
+    "latitude": 48.92771436992284,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCOLOMBES ECOLES",
+    "resultStructId": "429902",
+    "omegaId": "1459",
+    "avip": false,
+    "adresse": "55 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.267221561882925,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12869499",
+    "mail": "",
+    "distance": 8746,
+    "latitude": 48.91423976161869,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PITCHOUNS",
+    "resultStructId": "9031",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue de chatou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2379033797254473,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12837499",
+    "mail": "colombes@lpcr.fr",
+    "distance": 8794,
+    "latitude": 48.91116251212058,
+    "telephone": "0141192820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - COLOMBES - LES POUSSINS",
+    "resultStructId": "397401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue de la cerisaie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2323494056158646,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "24520627",
+    "mail": "",
+    "distance": 8794,
+    "latitude": 48.91116251212058,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Les Koalas",
+    "resultStructId": "25601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la cerisaie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2323494056158646,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "39000782",
+    "mail": "",
+    "distance": 8823,
+    "latitude": 48.91758733896285,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITES CANAILLES",
+    "resultStructId": "182401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue arago",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2419762119862914,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "59503501",
+    "mail": "petite-enfance@mairie-colombes.fr",
+    "distance": 9091,
+    "latitude": 48.9127588470409,
+    "telephone": "0147822025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilF. DOLTO",
+    "resultStructId": "697707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "236 rue des gros gres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2290671693087423,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12517046",
+    "mail": "creche.colibris@wanadoo.fr",
+    "distance": 9119,
+    "latitude": 48.92765502684361,
+    "telephone": "0142421151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOLIBRIS",
+    "resultStructId": "237610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue desmont dupont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.256353865033115,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "59503375",
+    "mail": "petite-enfance@mairie-colombes.fr",
+    "distance": 9287,
+    "latitude": 48.9318866520547,
+    "telephone": "0170721850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLES ARLEQUINS",
+    "resultStructId": "697706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jean jacques rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2632951537051174,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "24514993",
+    "mail": "",
+    "distance": 9293,
+    "latitude": 48.914808625195796,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Les Mouettes",
+    "resultStructId": "25504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 boulevard charles degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2282032213737684,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12516745",
+    "mail": "creche-les-mesanges@wanadoo.fr",
+    "distance": 9318,
+    "latitude": 48.92599771580969,
+    "telephone": "0147813388",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMESANGES",
+    "resultStructId": "237605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2474375127550417,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12516788",
+    "mail": "creche-les-rossignols@wanadoo.fr",
+    "distance": 9325,
+    "latitude": 48.93210975478011,
+    "telephone": "0147801798",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESROSSIGNOLS",
+    "resultStructId": "237606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue jean jacques rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.262802789716639,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12516659",
+    "mail": "petite-enfance@mairie-colombes.fr",
+    "distance": 9634,
+    "latitude": 48.919373646294304,
+    "telephone": "0147819355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPASSEREAUX",
+    "resultStructId": "697708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue cesaria evora",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2284943866776543,
+    "ville": "colombes",
+    "cp": "92700"
+  },
+  {
+    "resultId": "12748059",
+    "mail": "contact@kidsup.fr",
+    "distance": 9850,
+    "latitude": 48.93526836772829,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KIDS'UPCLEMATITE",
+    "resultStructId": "66222",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "165 boulevard de valmy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.256473289722515,
+    "ville": "colombes",
+    "cp": "92700"
+  }
+]

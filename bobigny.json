@@ -1,0 +1,458 @@
+[
+  {
+    "resultId": "12862017",
+    "mail": "petite.enfance@ville-bobigny.fr",
+    "distance": 153242,
+    "latitude": 48.91139919828374,
+    "telephone": "0148475554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Danielle Casanova",
+    "resultStructId": "702209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d'oslo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4690386969391946,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12880550",
+    "mail": "lmkbobigny@lamaisonkangourou.com",
+    "distance": 153602,
+    "latitude": 48.907035421355026,
+    "telephone": "0141550954",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou Bobigny",
+    "resultStructId": "701004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des republicainsespagnols",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4633144175720516,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12662351",
+    "mail": "petite.enfance@ville-bobigny.fr",
+    "distance": 154275,
+    "latitude": 48.905340302377454,
+    "telephone": "0148302416",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheFamiliale \"Olympe de Gouges\"",
+    "resultStructId": "702208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis rue hectorberlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4537467721902972,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "59939440",
+    "mail": "",
+    "distance": 154287,
+    "latitude": 48.90629797617039,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBobigny berlioz",
+    "resultStructId": "701702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4537499940700505,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12662523",
+    "mail": "",
+    "distance": 154916,
+    "latitude": 48.90611929808513,
+    "telephone": "0171295737",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Bergère",
+    "resultStructId": "116013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de la bergere - citeadministrative n°2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.445061831613672,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "59928290",
+    "mail": "lmkbobignyecocite@lamaisonkangourou.com",
+    "distance": 155019,
+    "latitude": 48.898622946597754,
+    "telephone": "0184039427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou Ecocité",
+    "resultStructId": "701536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4423899429137914,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12662480",
+    "mail": "",
+    "distance": 155198,
+    "latitude": 48.90742364667172,
+    "telephone": "0171292097",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil départemental \"L' Union\"",
+    "resultStructId": "108610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4413925341811424,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12685786",
+    "mail": "multiaccueil93@solensi.org",
+    "distance": 155235,
+    "latitude": 48.90761413392911,
+    "telephone": "0749796088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Bambigny",
+    "resultStructId": "453001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du lieutenant lebrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4409279418552523,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12666178",
+    "mail": "chrysalide@asmae.fr",
+    "distance": 155327,
+    "latitude": 48.91081355056204,
+    "telephone": "0141505709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AsmaeCrèche L'île aux enfants",
+    "resultStructId": "701519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue perron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4402185112867634,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12861974",
+    "mail": "petite.enfance@ville-bobigny.fr",
+    "distance": 155662,
+    "latitude": 48.91038345453169,
+    "telephone": "0175343050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilTony Lainé",
+    "resultStructId": "702215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la ferme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4355291306107683,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "51659707",
+    "mail": "secretariat.creche.avc@aphp.fr",
+    "distance": 156523,
+    "latitude": 48.91572962149853,
+    "telephone": "0148955778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECHARLES PERREAULT",
+    "resultStructId": "468001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4246097321714553,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "34240442",
+    "mail": "secretariat.creche@avc.aphp.fr",
+    "distance": 156523,
+    "latitude": 48.9157293494233,
+    "telephone": "0148955778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCharles Perrault",
+    "resultStructId": "117703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue de stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.424609862172503,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12662437",
+    "mail": "",
+    "distance": 156753,
+    "latitude": 48.913730515705105,
+    "telephone": "0171295805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Fernand Lamaze\"",
+    "resultStructId": "108620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50rue marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.421086452921487,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12662437",
+    "mail": "",
+    "distance": 9674,
+    "latitude": 48.913730515705105,
+    "telephone": "0171295805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Fernand Lamaze\"",
+    "resultStructId": "108620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50rue marcel cachin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.421086452921487,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "51659707",
+    "mail": "secretariat.creche.avc@aphp.fr",
+    "distance": 10014,
+    "latitude": 48.91572962149853,
+    "telephone": "0148955778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECHARLES PERREAULT",
+    "resultStructId": "468001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4246097321714553,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "34240442",
+    "mail": "secretariat.creche@avc.aphp.fr",
+    "distance": 10014,
+    "latitude": 48.9157293494233,
+    "telephone": "0148955778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCharles Perrault",
+    "resultStructId": "117703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue de stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.424609862172503,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "59928290",
+    "mail": "lmkbobignyecocite@lamaisonkangourou.com",
+    "distance": 10035,
+    "latitude": 48.898622946597754,
+    "telephone": "0184039427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou Ecocité",
+    "resultStructId": "701536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4423899429137914,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12861974",
+    "mail": "petite.enfance@ville-bobigny.fr",
+    "distance": 10282,
+    "latitude": 48.91038345453169,
+    "telephone": "0175343050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilTony Lainé",
+    "resultStructId": "702215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la ferme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4355291306107683,
+    "ville": "bobigny",
+    "cp": "93000"
+  },
+  {
+    "resultId": "12685786",
+    "mail": "multiaccueil93@solensi.org",
+    "distance": 10440,
+    "latitude": 48.90761413392911,
+    "telephone": "0749796088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Bambigny",
+    "resultStructId": "453001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du lieutenant lebrun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4409279418552523,
+    "ville": "bobigny",
+    "cp": "93000"
+  }
+]

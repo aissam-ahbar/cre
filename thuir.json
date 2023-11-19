@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12494248",
+    "mail": "creche@cc-aspres.fr",
+    "distance": 183263,
+    "latitude": 42.63174404380452,
+    "telephone": "0468530407",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "EtablissementAccueil Jeune Enfant \"Claudine Touxagas\"",
+    "resultStructId": "563301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee desdroits de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7590361717879355,
+    "ville": "thuir",
+    "cp": "66300"
+  },
+  {
+    "resultId": "12696751",
+    "mail": "apetitspas@ch-thuir.fr",
+    "distance": 184275,
+    "latitude": 42.62824529867877,
+    "telephone": "0468846682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" A petits pas\"",
+    "resultStructId": "190001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du roussillon - bp 22",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7472658458068135,
+    "ville": "thuir",
+    "cp": "66300"
+  },
+  {
+    "resultId": "12494248",
+    "mail": "creche@cc-aspres.fr",
+    "distance": 141720,
+    "latitude": 42.63174404380452,
+    "telephone": "0468530407",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "EtablissementAccueil Jeune Enfant \"Claudine Touxagas\"",
+    "resultStructId": "563301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "allee desdroits de l'enfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7590361717879355,
+    "ville": "thuir",
+    "cp": "66300"
+  },
+  {
+    "resultId": "12696751",
+    "mail": "apetitspas@ch-thuir.fr",
+    "distance": 142640,
+    "latitude": 42.62824529867877,
+    "telephone": "0468846682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\" A petits pas\"",
+    "resultStructId": "190001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du roussillon - bp 22",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7472658458068135,
+    "ville": "thuir",
+    "cp": "66300"
+  }
+]

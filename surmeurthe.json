@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12698299",
+    "mail": "tatiana.afr.artsurmeurthe@gmail.com",
+    "distance": 124855,
+    "latitude": 48.66343935795295,
+    "telephone": "0983470313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPirates de Bosserville",
+    "resultStructId": "707630",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du pigea 54510 art",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.242419823126466,
+    "ville": "surmeurthe",
+    "cp": ""
+  },
+  {
+    "resultId": "12517648",
+    "mail": "multiaccueilfanny@ville-dombasle.fr",
+    "distance": 133379,
+    "latitude": 48.62524516943731,
+    "telephone": "0383481935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil de Dombasle",
+    "resultStructId": "707641",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue saint don 54110dombasle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.353873298894832,
+    "ville": "surmeurthe",
+    "cp": ""
+  }
+]

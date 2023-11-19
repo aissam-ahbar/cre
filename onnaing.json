@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "58747601",
+    "mail": "petiteenfance@onnaing.fr",
+    "distance": 62892,
+    "latitude": 50.38527499405607,
+    "telephone": "0327424852",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMunicipale",
+    "resultStructId": "688403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "210 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5961530788330895,
+    "ville": "onnaing",
+    "cp": "59264"
+  },
+  {
+    "resultId": "12609926",
+    "mail": "petiteenfance.onnaing@orange.fr",
+    "distance": 63050,
+    "latitude": 50.401555232804846,
+    "telephone": "0327309566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Espace\"Petit à Petit\"",
+    "resultStructId": "2965",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 bis chasse de valenciennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6022064089297365,
+    "ville": "onnaing",
+    "cp": "59264"
+  },
+  {
+    "resultId": "12957520",
+    "mail": "onnaing@lpcr.fr",
+    "distance": 63147,
+    "latitude": 50.38516024722485,
+    "telephone": "0361101357",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - ONNAING",
+    "resultStructId": "11078",
+    "omegaId": "14892",
+    "avip": false,
+    "adresse": "8 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.599773108190962,
+    "ville": "onnaing",
+    "cp": "59264"
+  }
+]

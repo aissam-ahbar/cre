@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12981901",
+    "mail": "vallagetendre@ccbjc.fr",
+    "distance": 153016,
+    "latitude": 48.44652483943333,
+    "telephone": "0325056347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Vall'âgetendre",
+    "resultStructId": "11645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.153607079987167,
+    "ville": "joinville",
+    "cp": "52300"
+  },
+  {
+    "resultId": "12981901",
+    "mail": "vallagetendre@ccbjc.fr",
+    "distance": 54871,
+    "latitude": 48.44652483943333,
+    "telephone": "0325056347",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Vall'âgetendre",
+    "resultStructId": "11645",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.153607079987167,
+    "ville": "joinville",
+    "cp": "52300"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12866790",
+    "mail": "lmkclichy@lamaisonkangourou.com",
+    "distance": 149248,
+    "latitude": 48.903510186139606,
+    "telephone": "0141531933",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMulti-Accueil Maison Kangourou PN2",
+    "resultStructId": "701008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee desespaliers 93340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5226526852434707,
+    "ville": "leraincy",
+    "cp": ""
+  },
+  {
+    "resultId": "59962084",
+    "mail": "",
+    "distance": 149664,
+    "latitude": 48.89847878771631,
+    "telephone": "0607162227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "iledes enfants people and baby",
+    "resultStructId": "702004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 allee des bosquee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.516055722042525,
+    "ville": "leraincy",
+    "cp": "93340"
+  },
+  {
+    "resultId": "12663942",
+    "mail": "",
+    "distance": 149721,
+    "latitude": 48.8957677643644,
+    "telephone": "0143013901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Emilienne Bueno Richard",
+    "resultStructId": "702002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des maisonsrusses 93340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5148143175617923,
+    "ville": "leraincy",
+    "cp": ""
+  },
+  {
+    "resultId": "38951929",
+    "mail": "compta@lespetitescanailles.fr",
+    "distance": 149938,
+    "latitude": 48.89543140653626,
+    "telephone": "0180909765",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles Le Raincy",
+    "resultStructId": "701214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 allee gambetta 93340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5117698639481674,
+    "ville": "leraincy",
+    "cp": ""
+  },
+  {
+    "resultId": "12666479",
+    "mail": "",
+    "distance": 150069,
+    "latitude": 48.8940028383336,
+    "telephone": "0143024200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Anne Frank",
+    "resultStructId": "702001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 bis boulevard de l'ouest 93340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5097308087921926,
+    "ville": "leraincy",
+    "cp": ""
+  }
+]

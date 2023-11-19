@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "50699505",
+    "mail": "les-petits-papillons@orange.fr",
+    "distance": 94071,
+    "latitude": 43.72994982222519,
+    "telephone": "0558902440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche les petits papillons du Mail",
+    "resultStructId": "423301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1141 boulevardsaint vincent de paul 40990 st paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0420102795781834,
+    "ville": "lesdax",
+    "cp": ""
+  },
+  {
+    "resultId": "12757347",
+    "mail": "crechestpaul@wanadoo.fr",
+    "distance": 94847,
+    "latitude": 43.729014926149084,
+    "telephone": "0558916488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Françoise Dolto\" Saint Paul les Dax",
+    "resultStructId": "6423",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruegustave eiffel 40990 st paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0547601603370074,
+    "ville": "lesdax",
+    "cp": ""
+  },
+  {
+    "resultId": "58981804",
+    "mail": "",
+    "distance": 96725,
+    "latitude": 43.72836742378051,
+    "telephone": "0787899292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKoKooN Les Lacs",
+    "resultStructId": "691411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "233 route des lacs 40990 st paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0875946892103636,
+    "ville": "lesdax",
+    "cp": ""
+  }
+]

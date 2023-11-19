@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12721433",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 156095,
+    "latitude": 43.49469115757278,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITES CANAILLES",
+    "resultStructId": "673508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3112007363308307,
+    "ville": "seysses",
+    "cp": "31600"
+  },
+  {
+    "resultId": "12721476",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 156095,
+    "latitude": 43.49469115757278,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L' ILOT Z' ENFANTS",
+    "resultStructId": "673509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3112007363308307,
+    "ville": "seysses",
+    "cp": "31600"
+  }
+]

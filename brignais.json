@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12888720",
+    "mail": "crechefamiliale@mairie-brignais.fr",
+    "distance": 180275,
+    "latitude": 45.679174768330995,
+    "telephone": "0472317677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Arc en Ciel",
+    "resultStructId": "496301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 boulevard des allees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.762471806189056,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "12888591",
+    "mail": "vdq@latribudesfilous.com",
+    "distance": 180290,
+    "latitude": 45.68036679252745,
+    "telephone": "0951475239",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La tribu des filous",
+    "resultStructId": "9475",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 chemin de sacuny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.769664044389302,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "41271172",
+    "mail": "contact@upy-creche.fr",
+    "distance": 180441,
+    "latitude": 45.67963301969271,
+    "telephone": "0749002709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheUP'Y",
+    "resultStructId": "545601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 route de lyon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.773242657713175,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "12888634",
+    "mail": "lacalinerie.csb@orange.fr",
+    "distance": 180649,
+    "latitude": 45.67505163463485,
+    "telephone": "0478050372",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Câlinerie",
+    "resultStructId": "82606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue du renouveau - batimentl'alhambra",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.758929789343348,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "27713670",
+    "mail": "vdq@latribudesfilous.com",
+    "distance": 180838,
+    "latitude": 45.6740626172601,
+    "telephone": "0954190035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche la Tribu des Lutins",
+    "resultStructId": "40910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.763134419787665,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "12888677",
+    "mail": "crechecollective@mairie-brignais.fr",
+    "distance": 181148,
+    "latitude": 45.67019186825581,
+    "telephone": "0472756689",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective ABRI'CO",
+    "resultStructId": "496102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 boulevard de schweighouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.757719959928414,
+    "ville": "brignais",
+    "cp": "69530"
+  },
+  {
+    "resultId": "27713471",
+    "mail": "vdq@latribudesfilous.fr",
+    "distance": 181491,
+    "latitude": 45.666075038548044,
+    "telephone": "0980726524",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche La Tribu des Elfes",
+    "resultStructId": "40912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "227 rue du general de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.752577963563775,
+    "ville": "brignais",
+    "cp": "69530"
+  }
+]

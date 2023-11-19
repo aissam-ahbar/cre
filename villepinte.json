@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "59958839",
+    "mail": "villepinte1@creche-la-maison-bleue.fr",
+    "distance": 146806,
+    "latitude": 48.9442867395396,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du vert galant",
+    "resultStructId": "701963",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue sully",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5646242283862826,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "59981945",
+    "mail": "",
+    "distance": 147878,
+    "latitude": 48.95140575924256,
+    "telephone": "0178783437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE ARC EN CIEL",
+    "resultStructId": "702534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88/92 avenue emile dambel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.551429561095666,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12667984",
+    "mail": "",
+    "distance": 148006,
+    "latitude": 48.95479183679589,
+    "telephone": "0180622031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Pasteur",
+    "resultStructId": "702541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue francois mauriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5504509336028645,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12668027",
+    "mail": "",
+    "distance": 148392,
+    "latitude": 48.96701183860892,
+    "telephone": "0141525300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Marie Laurencin",
+    "resultStructId": "702540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue claude nicolas ledoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5481069869027797,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "59982122",
+    "mail": "",
+    "distance": 148906,
+    "latitude": 48.95653271304007,
+    "telephone": "0141528911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LISE LONDON",
+    "resultStructId": "702537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue norbert segard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5383955368059206,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12880507",
+    "mail": "lamaisondukangourou@club.fr",
+    "distance": 149308,
+    "latitude": 48.96368735814342,
+    "telephone": "0148637451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou PN2 Villepinte",
+    "resultStructId": "9287",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue des nations -parc d'activite silic, batiment raphael d",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.534550153562064,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12668027",
+    "mail": "",
+    "distance": 167955,
+    "latitude": 48.96701183860892,
+    "telephone": "0141525300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Marie Laurencin",
+    "resultStructId": "702540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue claude nicolas ledoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5481069869027797,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12880507",
+    "mail": "lamaisondukangourou@club.fr",
+    "distance": 168398,
+    "latitude": 48.96368735814342,
+    "telephone": "0148637451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou PN2 Villepinte",
+    "resultStructId": "9287",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue des nations -parc d'activite silic, batiment raphael d",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.534550153562064,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "59982122",
+    "mail": "",
+    "distance": 169169,
+    "latitude": 48.95653271304007,
+    "telephone": "0141528911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LISE LONDON",
+    "resultStructId": "702537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue norbert segard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5383955368059206,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "12667984",
+    "mail": "",
+    "distance": 169298,
+    "latitude": 48.95479183679589,
+    "telephone": "0180622031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Pasteur",
+    "resultStructId": "702541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue francois mauriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5504509336028645,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "59981945",
+    "mail": "",
+    "distance": 169669,
+    "latitude": 48.95140575924256,
+    "telephone": "0178783437",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE ARC EN CIEL",
+    "resultStructId": "702534",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "88/92 avenue emile dambel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.551429561095666,
+    "ville": "villepinte",
+    "cp": "93420"
+  },
+  {
+    "resultId": "59958839",
+    "mail": "villepinte1@creche-la-maison-bleue.fr",
+    "distance": 170394,
+    "latitude": 48.9442867395396,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du vert galant",
+    "resultStructId": "701963",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue sully",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5646242283862826,
+    "ville": "villepinte",
+    "cp": "93420"
+  }
+]

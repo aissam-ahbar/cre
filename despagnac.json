@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12710554",
+    "mail": "c.brochet@grandangouleme.fr",
+    "distance": 187564,
+    "latitude": 45.663234648304,
+    "telephone": "0545690077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPoussins",
+    "resultStructId": "5305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 avenue maryse bastie - zone industrielle n° 316340 l isle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1976718895428123,
+    "ville": "despagnac",
+    "cp": ""
+  },
+  {
+    "resultId": "12680454",
+    "mail": "l.hennequin@sivuenfancejeunesse16.fr",
+    "distance": 187973,
+    "latitude": 45.66512524647792,
+    "telephone": "0545688128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde la Maison de la Petite Enfance",
+    "resultStructId": "4605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue calmette 16340 lisle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.18531952714449906,
+    "ville": "despagnac",
+    "cp": ""
+  },
+  {
+    "resultId": "12680454",
+    "mail": "l.hennequin@sivuenfancejeunesse16.fr",
+    "distance": 150260,
+    "latitude": 45.66512524647792,
+    "telephone": "0545688128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde la Maison de la Petite Enfance",
+    "resultStructId": "4605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue calmette 16340 lisle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.18531952714449906,
+    "ville": "despagnac",
+    "cp": ""
+  },
+  {
+    "resultId": "12710554",
+    "mail": "c.brochet@grandangouleme.fr",
+    "distance": 150273,
+    "latitude": 45.663234648304,
+    "telephone": "0545690077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPoussins",
+    "resultStructId": "5305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 avenue maryse bastie - zone industrielle n° 316340 l isle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.1976718895428123,
+    "ville": "despagnac",
+    "cp": ""
+  }
+]

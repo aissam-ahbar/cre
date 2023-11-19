@@ -1,0 +1,175 @@
+[
+  {
+    "resultId": "12561164",
+    "mail": "",
+    "distance": 66086,
+    "latitude": 44.86463967762507,
+    "telephone": "0556162306",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE LA FORET",
+    "resultStructId": "1831",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "27 ruecamille saint saens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.647981833452845,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "12561250",
+    "mail": "",
+    "distance": 66097,
+    "latitude": 44.86715481126516,
+    "telephone": "0556283591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU MIGRON",
+    "resultStructId": "1833",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "15 bis ruefrancois mauriac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6419553918102415,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "12561207",
+    "mail": "",
+    "distance": 67254,
+    "latitude": 44.88265534830367,
+    "telephone": "0556576216",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU VIGEAN",
+    "resultStructId": "1832",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "5 ter ruegilbert cauderan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6324234410482853,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "57207014",
+    "mail": "contact2@les-razmokets.com",
+    "distance": 67298,
+    "latitude": 44.871856228743795,
+    "telephone": "0554787138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESRAZMOKETS 2",
+    "resultStructId": "673021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 avenue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6611182798756433,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "57105991",
+    "mail": "contact@les-razmokets.com",
+    "distance": 67394,
+    "latitude": 44.88248526317758,
+    "telephone": "0554511635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESRAZMOKETS",
+    "resultStructId": "671823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6366829821718684,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "12561121",
+    "mail": "",
+    "distance": 68175,
+    "latitude": 44.88587145741726,
+    "telephone": "0556285451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEACCUEIL FAMILIAL",
+    "resultStructId": "1830",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "39 avenue del'hippodrome residence les cottages entree c",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6486749635002627,
+    "ville": "eysines",
+    "cp": "33320"
+  },
+  {
+    "resultId": "12561078",
+    "mail": "",
+    "distance": 68208,
+    "latitude": 44.88629114792447,
+    "telephone": "0556289462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DU BOURG",
+    "resultStructId": "1829",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "ruejean lahary",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6484655303230128,
+    "ville": "eysines",
+    "cp": "33320"
+  }
+]

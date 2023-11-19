@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13032477",
+    "mail": "multiaccueil@cctds.fr",
+    "distance": 155679,
+    "latitude": 47.79903801428746,
+    "telephone": "0384911152",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiaccueilAmance",
+    "resultStructId": "628802",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.057585213995519,
+    "ville": "amance",
+    "cp": "70160"
+  },
+  {
+    "resultId": "13032477",
+    "mail": "multiaccueil@cctds.fr",
+    "distance": 152613,
+    "latitude": 47.79903801428746,
+    "telephone": "0384911152",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiaccueilAmance",
+    "resultStructId": "628802",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.057585213995519,
+    "ville": "amance",
+    "cp": "70160"
+  }
+]

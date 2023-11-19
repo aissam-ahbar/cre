@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12854664",
+    "mail": "",
+    "distance": 65701,
+    "latitude": 50.66748401128129,
+    "telephone": "0321996000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde DESVRES",
+    "resultStructId": "82301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue claude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8404062033983972,
+    "ville": "desvres",
+    "cp": "62240"
+  },
+  {
+    "resultId": "35467367",
+    "mail": "pauline.fiolka@cc-desvressamer.fr",
+    "distance": 65701,
+    "latitude": 50.66748401128129,
+    "telephone": "0321996000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits Copains",
+    "resultStructId": "215303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue claude",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8404062033983972,
+    "ville": "desvres",
+    "cp": "62240"
+  },
+  {
+    "resultId": "60594459",
+    "mail": "",
+    "distance": 66289,
+    "latitude": 50.671886448781386,
+    "telephone": "0321335261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBulles de Chléo",
+    "resultStructId": "713002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des anciens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8339750629486384,
+    "ville": "desvres",
+    "cp": "62240"
+  }
+]

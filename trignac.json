@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12919637",
+    "mail": "trignac@lpcr.fr",
+    "distance": 96383,
+    "latitude": 47.31903449964545,
+    "telephone": "0951839299",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits chaperons rouges",
+    "resultStructId": "10197",
+    "omegaId": "1889",
+    "avip": false,
+    "adresse": "3 chemin chemin de la petiteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1852156369336972,
+    "ville": "trignac",
+    "cp": "44570"
+  },
+  {
+    "resultId": "12563099",
+    "mail": "direction@lespetitsmoussaillons.org",
+    "distance": 98775,
+    "latitude": 47.296533540050575,
+    "telephone": "0240458335",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Moussaillons",
+    "resultStructId": "696020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue barbara",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.206496683117839,
+    "ville": "trignac",
+    "cp": "44570"
+  },
+  {
+    "resultId": "12919637",
+    "mail": "trignac@lpcr.fr",
+    "distance": 96383,
+    "latitude": 47.31903449964545,
+    "telephone": "0951839299",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits chaperons rouges",
+    "resultStructId": "10197",
+    "omegaId": "1889",
+    "avip": false,
+    "adresse": "3 chemin chemin de la petiteville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1852156369336972,
+    "ville": "trignac",
+    "cp": "44570"
+  },
+  {
+    "resultId": "12563099",
+    "mail": "direction@lespetitsmoussaillons.org",
+    "distance": 98775,
+    "latitude": 47.296533540050575,
+    "telephone": "0240458335",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Moussaillons",
+    "resultStructId": "696020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue barbara",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.206496683117839,
+    "ville": "trignac",
+    "cp": "44570"
+  }
+]

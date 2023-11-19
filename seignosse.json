@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34979435",
+    "mail": "",
+    "distance": 116663,
+    "latitude": 43.68964137100653,
+    "telephone": "0973152883",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheL'ilot aux calins",
+    "resultStructId": "127804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue amiral beranger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.374102174050089,
+    "ville": "seignosse",
+    "cp": "40510"
+  },
+  {
+    "resultId": "57909080",
+    "mail": "seignosse@les-cherubins.com",
+    "distance": 116680,
+    "latitude": 43.68032907071661,
+    "telephone": "0558351676",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Super-héros de Seignosse par Les Chérubins",
+    "resultStructId": "680422",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "465avenue de larrigan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3637511715087782,
+    "ville": "seignosse",
+    "cp": "40510"
+  },
+  {
+    "resultId": "38569069",
+    "mail": "creche.lesrayonsdesoleil@enfancepourtous.com",
+    "distance": 116754,
+    "latitude": 43.687269102590086,
+    "telephone": "0980430126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Rayons de Soleil",
+    "resultStructId": "172301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue marcel cerdan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3728802289868467,
+    "ville": "seignosse",
+    "cp": "40510"
+  }
+]

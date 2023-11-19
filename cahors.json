@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12521389",
+    "mail": "gribouille@mf46.fr",
+    "distance": 132832,
+    "latitude": 44.45881865724778,
+    "telephone": "0565223343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemutualiste GRIBOUILLE",
+    "resultStructId": "157706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "240 rue albert camus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.427570123097538,
+    "ville": "cahors",
+    "cp": "46000"
+  },
+  {
+    "resultId": "12695203",
+    "mail": "lespolissons@mairie-cahors.fr",
+    "distance": 133523,
+    "latitude": 44.443257181710784,
+    "telephone": "0565353471",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES POLISSONS CAHORS",
+    "resultStructId": "218802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4379854390180384,
+    "ville": "cahors",
+    "cp": "46000"
+  },
+  {
+    "resultId": "60393750",
+    "mail": "lespailettes@bbox.fr",
+    "distance": 133778,
+    "latitude": 44.451007536923576,
+    "telephone": "0986236488",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesfeux d'artifices \"Les étoiles\"",
+    "resultStructId": "713008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4404032870830046,
+    "ville": "cahors",
+    "cp": "46000"
+  },
+  {
+    "resultId": "60393859",
+    "mail": "lespaillettes@bbox.fr",
+    "distance": 133799,
+    "latitude": 44.44681860987605,
+    "telephone": "0986357786",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesfeux d'artifices \"Les paillettes\"",
+    "resultStructId": "713009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "784 cote desormeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4411096117197735,
+    "ville": "cahors",
+    "cp": "46000"
+  },
+  {
+    "resultId": "57296173",
+    "mail": "crechesaintevalerie@mairie-cahors.fr",
+    "distance": 133799,
+    "latitude": 44.44681860987605,
+    "telephone": "0565221967",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Sainte Valérie",
+    "resultStructId": "674217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "216 avenue corps franc pommies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4411096117197735,
+    "ville": "cahors",
+    "cp": "46000"
+  },
+  {
+    "resultId": "57295795",
+    "mail": "crecheterrerouge@mairie-cahors.fr",
+    "distance": 135116,
+    "latitude": 44.46196528469838,
+    "telephone": "0565239632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede Terre-Rouge",
+    "resultStructId": "674211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue jean lurcat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4560880979326831,
+    "ville": "cahors",
+    "cp": "46000"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12873713",
+    "mail": "min@min-athena.fr",
+    "distance": 66266,
+    "latitude": 47.336639673473215,
+    "telephone": "0665309079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche MIN'ATHENA",
+    "resultStructId": "199753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue de bourgogne 21121",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.021605473247792,
+    "ville": "fontainelesdijon",
+    "cp": ""
+  },
+  {
+    "resultId": "31377957",
+    "mail": "crescendo@dijon-creche.com",
+    "distance": 67104,
+    "latitude": 47.34874549765302,
+    "telephone": "0768251444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche CRESCENDO",
+    "resultStructId": "199763",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de la petite fin 21121",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.030025067951073,
+    "ville": "fontainelesdijon",
+    "cp": ""
+  }
+]

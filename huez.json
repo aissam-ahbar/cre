@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12883259",
+    "mail": "accueil.creche@mairie-alpedhuez.fr",
+    "distance": 408083,
+    "latitude": 45.08911991652962,
+    "telephone": "0476112161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Intrépides",
+    "resultStructId": "692017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "167 rue des cimes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0690406158800645,
+    "ville": "huez",
+    "cp": "38750"
+  },
+  {
+    "resultId": "12883259",
+    "mail": "accueil.creche@mairie-alpedhuez.fr",
+    "distance": 125914,
+    "latitude": 45.08911991652962,
+    "telephone": "0476112161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Intrépides",
+    "resultStructId": "692017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "167 rue des cimes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.0690406158800645,
+    "ville": "huez",
+    "cp": "38750"
+  }
+]

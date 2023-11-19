@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12956273",
+    "mail": "espacexitoak@wanadoo.fr",
+    "distance": 137444,
+    "latitude": 43.46654382513974,
+    "telephone": "0559441273",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceXITOAK",
+    "resultStructId": "11049",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis allee du tennis 64990 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4411155385840149,
+    "ville": "dirube",
+    "cp": ""
+  },
+  {
+    "resultId": "59297102",
+    "mail": "kokoonhiriburu@creches-kokoon.fr",
+    "distance": 137716,
+    "latitude": 43.462890343136536,
+    "telephone": "0633570651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoKooNHiriburu",
+    "resultStructId": "695008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue harrokan 64990 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4407548773443646,
+    "ville": "dirube",
+    "cp": ""
+  },
+  {
+    "resultId": "12953994",
+    "mail": "contact@aafs.fr",
+    "distance": 137912,
+    "latitude": 43.47553292141021,
+    "telephone": "0559597272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AAFS",
+    "resultStructId": "74802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1allee des silex 64990 st pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.461977855245714,
+    "ville": "dirube",
+    "cp": ""
+  }
+]

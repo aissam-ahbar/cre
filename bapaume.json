@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "56477419",
+    "mail": "creches.petitspetons@gmail.com",
+    "distance": 41803,
+    "latitude": 50.107293425320506,
+    "telephone": "0361337510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITSPETONS",
+    "resultStructId": "652503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du tour de ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8527248722609917,
+    "ville": "bapaume",
+    "cp": "62450"
+  },
+  {
+    "resultId": "13014538",
+    "mail": "multi-bapaume@cc-sudartois.fr",
+    "distance": 42245,
+    "latitude": 50.10308763982916,
+    "telephone": "0321249677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Au Jardin d'Eveil\"",
+    "resultStructId": "216906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8518622522825336,
+    "ville": "bapaume",
+    "cp": "62450"
+  }
+]

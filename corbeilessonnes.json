@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "37605241",
+    "mail": "",
+    "distance": 186331,
+    "latitude": 48.59329242812144,
+    "telephone": "0173216820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "158602",
+    "omegaId": "16433",
+    "avip": false,
+    "adresse": "7 rue alphonse beranger91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.468934741129954,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764399",
+    "mail": "",
+    "distance": 187039,
+    "latitude": 48.59846872975364,
+    "telephone": "0160880587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Koalas",
+    "resultStructId": "6587",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue leon bua 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.475808612724206,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764485",
+    "mail": "",
+    "distance": 187861,
+    "latitude": 48.60480039456223,
+    "telephone": "0160887013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "6589",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 boulevard henri dunant 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.482379837201796,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764313",
+    "mail": "",
+    "distance": 188048,
+    "latitude": 48.60908742034308,
+    "telephone": "0160880835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chanteprince",
+    "resultStructId": "6585",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24a 26 avenue chantemerle 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4711443777631996,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764442",
+    "mail": "",
+    "distance": 188097,
+    "latitude": 48.60936317417386,
+    "telephone": "0169228440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet",
+    "resultStructId": "6588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2/4 rue widmer 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.472002950386704,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "32431799",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 188206,
+    "latitude": 48.60757744583802,
+    "telephone": "0169223195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS CORBEIL",
+    "resultStructId": "414401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "113 rue saint spire 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.484586923695979,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764356",
+    "mail": "",
+    "distance": 188360,
+    "latitude": 48.61335938127507,
+    "telephone": "0160882068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "6586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue labruyere 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4651986139828943,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "32431799",
+    "mail": "accueil@calins-matins-creches.fr",
+    "distance": 151870,
+    "latitude": 48.60757744583802,
+    "telephone": "0169223195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CÂLINSMATINS CORBEIL",
+    "resultStructId": "414401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "113 rue saint spire 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.484586923695979,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764485",
+    "mail": "",
+    "distance": 152064,
+    "latitude": 48.60480039456223,
+    "telephone": "0160887013",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TomPouce",
+    "resultStructId": "6589",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 boulevard henri dunant 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.482379837201796,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764399",
+    "mail": "",
+    "distance": 152620,
+    "latitude": 48.59846872975364,
+    "telephone": "0160880587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Koalas",
+    "resultStructId": "6587",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue leon bua 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.475808612724206,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764442",
+    "mail": "",
+    "distance": 152770,
+    "latitude": 48.60936317417386,
+    "telephone": "0169228440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet",
+    "resultStructId": "6588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2/4 rue widmer 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.472002950386704,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764313",
+    "mail": "",
+    "distance": 152836,
+    "latitude": 48.60908742034308,
+    "telephone": "0160880835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chanteprince",
+    "resultStructId": "6585",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24a 26 avenue chantemerle 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4711443777631996,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "37605241",
+    "mail": "",
+    "distance": 153187,
+    "latitude": 48.59329242812144,
+    "telephone": "0173216820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "158602",
+    "omegaId": "16433",
+    "avip": false,
+    "adresse": "7 rue alphonse beranger91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.468934741129954,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12764356",
+    "mail": "",
+    "distance": 153223,
+    "latitude": 48.61335938127507,
+    "telephone": "0160882068",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins",
+    "resultStructId": "6586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue labruyere 91100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4651986139828943,
+    "ville": "corbeilessonnes",
+    "cp": ""
+  }
+]

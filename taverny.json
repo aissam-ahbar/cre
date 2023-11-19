@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12622697",
+    "mail": "petiteenfance@ville-taverny.fr",
+    "distance": 165293,
+    "latitude": 49.02208368292553,
+    "telephone": "0139955942",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les Sarments",
+    "resultStructId": "3262",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 mail du pressoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2214681657637088,
+    "ville": "taverny",
+    "cp": "95150"
+  },
+  {
+    "resultId": "12622482",
+    "mail": "petiteenfance@ville-taverny.fr",
+    "distance": 166280,
+    "latitude": 49.01446898538524,
+    "telephone": "0130405840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison de la Petite Enfance - \"Les Minipousses\" -",
+    "resultStructId": "3257",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 ruedu chemin vert de boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.211295226889095,
+    "ville": "taverny",
+    "cp": "95150"
+  }
+]

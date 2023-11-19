@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12543534",
+    "mail": "",
+    "distance": 5648,
+    "latitude": 48.81549113080652,
+    "telephone": "0153141976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti accueil Françoise Dolto",
+    "resultStructId": "693806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue pasteur 94270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.364284156769299,
+    "ville": "lekremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "12539492",
+    "mail": "",
+    "distance": 6080,
+    "latitude": 48.80616658844232,
+    "telephone": "0146725224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale 2 Charles Gide",
+    "resultStructId": "15336",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 rue c.gide 94270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3499277070746105,
+    "ville": "lekremlinbicetre",
+    "cp": ""
+  },
+  {
+    "resultId": "12530333",
+    "mail": "",
+    "distance": 6105,
+    "latitude": 48.80710817066175,
+    "telephone": "0145152391",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Madeleine Brès",
+    "resultStructId": "703405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 avenue charles gide 94270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.354286688674141,
+    "ville": "lekremlinbicetre",
+    "cp": ""
+  }
+]

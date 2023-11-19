@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12788780",
+    "mail": "somain@rigolocommelavie.fr",
+    "distance": 41797,
+    "latitude": 50.35588997296172,
+    "telephone": "0327921739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Somain",
+    "resultStructId": "691404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue faidherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2794411785377227,
+    "ville": "somain",
+    "cp": "59490"
+  },
+  {
+    "resultId": "12792994",
+    "mail": "v.scalzini@ccas-somain.fr",
+    "distance": 41888,
+    "latitude": 50.355863328030594,
+    "telephone": "0327088221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Structuremulti accueil municipal",
+    "resultStructId": "464801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue rue faidherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.280777492330613,
+    "ville": "somain",
+    "cp": "59490"
+  }
+]

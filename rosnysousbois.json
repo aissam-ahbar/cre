@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "33708957",
+    "mail": "c.lelievre@agg-rosny93.org",
+    "distance": 151755,
+    "latitude": 48.8727348088539,
+    "telephone": "0158661303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'ARC EN CIEL",
+    "resultStructId": "700906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16/18 place carnot 93110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.483353997179141,
+    "ville": "rosnysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12871219",
+    "mail": "jpmartin@mairie-rosny-sous-bois.fr",
+    "distance": 151768,
+    "latitude": 48.882346456823804,
+    "telephone": "0148128989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilJean-Pierre Martin",
+    "resultStructId": "164904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue jacques offenbach 93110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.484557757319541,
+    "ville": "rosnysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12871133",
+    "mail": "tulipiers@mairie-rosny-sous-bois.fr",
+    "distance": 152589,
+    "latitude": 48.87361404897204,
+    "telephone": "0148559215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Tulipiers",
+    "resultStructId": "164303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des tulipiers 93110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4720309028734655,
+    "ville": "rosnysousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12871477",
+    "mail": "boissiere@mairie-rosny-sous-bois.fr",
+    "distance": 152747,
+    "latitude": 48.875199297221116,
+    "telephone": "0148553183",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Boissière",
+    "resultStructId": "164501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des sycomores 93110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4700786060438205,
+    "ville": "rosnysousbois",
+    "cp": ""
+  }
+]

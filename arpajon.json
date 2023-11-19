@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12520099",
+    "mail": "",
+    "distance": 181362,
+    "latitude": 48.58994266222713,
+    "telephone": "0169260258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FloconPapillon",
+    "resultStructId": "876",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue marcel duhamel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2435135135083195,
+    "ville": "arpajon",
+    "cp": "91290"
+  },
+  {
+    "resultId": "12517863",
+    "mail": "saf.arpajon@coeuressonne.fr",
+    "distance": 181383,
+    "latitude": 48.58956441862688,
+    "telephone": "0160832795",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuRoyaume des bambins",
+    "resultStructId": "55512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 bis rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.247050263175743,
+    "ville": "arpajon",
+    "cp": "91290"
+  },
+  {
+    "resultId": "12517906",
+    "mail": "haltegarderie.arpajon@coeuressonne.fr",
+    "distance": 181475,
+    "latitude": 48.58963015372589,
+    "telephone": "0164906680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"A Petits Pas\"",
+    "resultStructId": "55513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue dauvilliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.251903869033783,
+    "ville": "arpajon",
+    "cp": "91290"
+  }
+]

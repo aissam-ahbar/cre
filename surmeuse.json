@@ -1,0 +1,172 @@
+[
+  {
+    "resultId": "13068597",
+    "mail": "maisonde.lenfance@orange.fr",
+    "distance": 74430,
+    "latitude": 49.107111530792494,
+    "telephone": "0329876408",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- L'accueillette",
+    "resultStructId": "601801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la republique 55100 dugny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3872070821016464,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "13068855",
+    "mail": "maisonde.lenfance@orange.fr",
+    "distance": 74565,
+    "latitude": 49.069730056005014,
+    "telephone": "0329847283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Pôle Enfance",
+    "resultStructId": "58506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue des ecoles 55320 dieue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.424933211556819,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "13068554",
+    "mail": "contact55@alys.fr",
+    "distance": 75671,
+    "latitude": 48.97281528266685,
+    "telephone": "0372610272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Trésors de Neptune",
+    "resultStructId": "86709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue du general de gaulle55300 lacroix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.511195192863206,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "13068382",
+    "mail": "contact55@alys.fr",
+    "distance": 76603,
+    "latitude": 49.1679656670153,
+    "telephone": "0329882352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Libellules",
+    "resultStructId": "637701",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1rue gerard bievelot 55840 thierville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.355628637962196,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "13068296",
+    "mail": "lespetitslutins55@gmail.com",
+    "distance": 78456,
+    "latitude": 49.174508504779695,
+    "telephone": "0329861820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Petits Lutins",
+    "resultStructId": "687913",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-12-06",
+    "adresse": "2place andre maginot ( mjc du verdunois ) 55430 belleville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 5.380295731623707,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "21358585",
+    "mail": "lesptitsbouts08@gmail.com",
+    "distance": 109133,
+    "latitude": 49.69935274566761,
+    "telephone": "0782496829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Les ptitsbouts",
+    "resultStructId": "306501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le gossebu 08160 nouvion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.791494907995983,
+    "ville": "surmeuse",
+    "cp": ""
+  },
+  {
+    "resultId": "21358585",
+    "mail": "lesptitsbouts08@gmail.com",
+    "distance": 171075,
+    "latitude": 49.69935274566761,
+    "telephone": "0782496829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Les ptitsbouts",
+    "resultStructId": "306501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le gossebu 08160 nouvion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.791494907995983,
+    "ville": "surmeuse",
+    "cp": ""
+  }
+]

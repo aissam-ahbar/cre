@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12484186",
+    "mail": "multi-accueil.varilhes@agglo-pf.fr",
+    "distance": 208673,
+    "latitude": 43.04632330093294,
+    "telephone": "0581300039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde VARILHES",
+    "resultStructId": "403802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue benazet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6337260975231775,
+    "ville": "varilhes",
+    "cp": "09120"
+  }
+]

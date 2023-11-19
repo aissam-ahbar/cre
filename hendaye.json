@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12955542",
+    "mail": "contact.hendaye@hnd.ap-hop-paris.fr",
+    "distance": 161868,
+    "latitude": 43.37707699445946,
+    "telephone": "0559480817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHÔPITAL MARIN d'HENDAYE",
+    "resultStructId": "11032",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de la corniche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7425941195615289,
+    "ville": "hendaye",
+    "cp": "64700"
+  },
+  {
+    "resultId": "12955628",
+    "mail": "dongoxenia@hendaye.com",
+    "distance": 162810,
+    "latitude": 43.37104155732624,
+    "telephone": "0559482350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL DONGOXENIA",
+    "resultStructId": "107102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue dongoxenia",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.750794206146952,
+    "ville": "hendaye",
+    "cp": "64700"
+  },
+  {
+    "resultId": "12955585",
+    "mail": "sducos@hendaye.com",
+    "distance": 165552,
+    "latitude": 43.35346784433376,
+    "telephone": "0559480204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "STRUCTUREMULTI ACCUEIL IRANDATZ",
+    "resultStructId": "689504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue d'irandatz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7746497873162617,
+    "ville": "hendaye",
+    "cp": "64700"
+  },
+  {
+    "resultId": "12860426",
+    "mail": "",
+    "distance": 165566,
+    "latitude": 43.353692044074656,
+    "telephone": "0559203332",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GUICHETUNIQUE PETITE ENFANCE",
+    "resultStructId": "8820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue irandatz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7751712879933808,
+    "ville": "hendaye",
+    "cp": "64700"
+  }
+]

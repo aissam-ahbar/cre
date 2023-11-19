@@ -1,0 +1,4730 @@
+[
+  {
+    "resultId": "12758465",
+    "mail": "multiaccueil@vert-saint-denis.fr",
+    "distance": 186987,
+    "latitude": 48.56469325284943,
+    "telephone": "0160636260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"L'îlot Câlin\"",
+    "resultStructId": "150601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pasteur 77240 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6106817364071175,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13015312",
+    "mail": "contact@creche-vert-saint-denis.com",
+    "distance": 187168,
+    "latitude": 48.565391829177756,
+    "telephone": "0967480999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGaïa",
+    "resultStructId": "72602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur 77240 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6146199693335332,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12583868",
+    "mail": "",
+    "distance": 194676,
+    "latitude": 48.74371121345581,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MESNILOUPS DU BOURG",
+    "resultStructId": "689514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du generalleclerc 78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.963104888477712,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12714940",
+    "mail": "les.champmesniloups@people-and-baby.com",
+    "distance": 194852,
+    "latitude": 48.745755058684686,
+    "telephone": "0954388411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CHAMPS MESNILOUPS",
+    "resultStructId": "688241",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du lac aux belles78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9566917551206275,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12714983",
+    "mail": "les.mesniloups.de.breteuil@people-and-baby.com",
+    "distance": 194886,
+    "latitude": 48.746418015578676,
+    "telephone": "0953542371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES MESNILOUPS DE BRETEUIL",
+    "resultStructId": "688219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue charles deselle 78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9517153302104226,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13015312",
+    "mail": "contact@creche-vert-saint-denis.com",
+    "distance": 142952,
+    "latitude": 48.565391829177756,
+    "telephone": "0967480999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGaïa",
+    "resultStructId": "72602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur 77240 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6146199693335332,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12758465",
+    "mail": "multiaccueil@vert-saint-denis.fr",
+    "distance": 143250,
+    "latitude": 48.56469325284943,
+    "telephone": "0160636260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"L'îlot Câlin\"",
+    "resultStructId": "150601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pasteur 77240 vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6106817364071175,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12991017",
+    "mail": "hg@cc-pe.fr",
+    "distance": 116445,
+    "latitude": 49.42748642737049,
+    "telephone": "0344418325",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE \"CARAMELLE\" CCPE - ESTREES STDENIS",
+    "resultStructId": "109433",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la plaine 60190 estrees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.638461577554885,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "33574044",
+    "mail": "",
+    "distance": 171400,
+    "latitude": 48.95015799955796,
+    "telephone": "0171292093",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Pierre Sémard\"",
+    "resultStructId": "115418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ruegaston monmousseau 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3540684448778464,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667382",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 171895,
+    "latitude": 48.94314540158654,
+    "telephone": "0149337170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Pierre de La Lune",
+    "resultStructId": "702513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.380105831840349,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "12877927",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 172023,
+    "latitude": 48.94184152065035,
+    "telephone": "0149337104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Le Chat Perché",
+    "resultStructId": "702509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 promenade de labasilique 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.38164868845822,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12962981",
+    "mail": "sfm.ad@sfmad.fr",
+    "distance": 172283,
+    "latitude": 48.94233732322224,
+    "telephone": "0148218574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Saint Denis",
+    "resultStructId": "701605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place gaston dourdin 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3519591020081294,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "33620005",
+    "mail": "saintdenis@creche-la-maison-bleue.fr",
+    "distance": 6217,
+    "latitude": 48.907154814818696,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeRêve de Basile",
+    "resultStructId": "109442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 avenue du president wilson 93210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3588296408327194,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12659806",
+    "mail": "crechelerevedebasile@lapartdereve.com",
+    "distance": 6217,
+    "latitude": 48.907154814818696,
+    "telephone": "0967063346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Rêve de Basile",
+    "resultStructId": "4125",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 avenue du president wilson93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3588296408327194,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667511",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 6427,
+    "latitude": 48.90978033636228,
+    "telephone": "0149337112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant La Marelle",
+    "resultStructId": "702516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "153 avenue du presidentwilson 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.357186876532748,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "34228017",
+    "mail": "saintdenis@babilou.com",
+    "distance": 6635,
+    "latitude": 48.90963859764847,
+    "telephone": "0148228246",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLa Plaine Saint-Denis Gouges",
+    "resultStructId": "701027",
+    "omegaId": "15800",
+    "avip": false,
+    "adresse": "6 rue olympe de gouges93210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.363924236019666,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12878099",
+    "mail": "info@club-biberon.fr",
+    "distance": 6667,
+    "latitude": 48.91518688656595,
+    "telephone": "0148207844",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ClubBiberon Pleyel",
+    "resultStructId": "117401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 boulevard ornano 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3440577958850226,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667468",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 6894,
+    "latitude": 48.915373572646516,
+    "telephone": "0149337009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Plumes et Poésie",
+    "resultStructId": "115419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 rue du landy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3533608456381283,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "12665103",
+    "mail": "raphael.mailly@babilou.com",
+    "distance": 7079,
+    "latitude": 48.915455270442756,
+    "telephone": "0141499810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Papillions Du Landy Ronde Des Crèches",
+    "resultStructId": "4248",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 ruedu landy 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.359730762407267,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "34227476",
+    "mail": "lespapillonsdulandy@babilou.com",
+    "distance": 7101,
+    "latitude": 48.91569683580765,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Saint-Denis Landy",
+    "resultStructId": "701101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62-64 rue du landy 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3596393943680525,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12877884",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 7245,
+    "latitude": 48.920558226870845,
+    "telephone": "0149337065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Les Sonatines",
+    "resultStructId": "702511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 allee de seine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3440318224085535,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "51865947",
+    "mail": "contact@creche-saintdenis-lestimouns.fr",
+    "distance": 7290,
+    "latitude": 48.91631063372925,
+    "telephone": "0155938146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESTIMOUNS",
+    "resultStructId": "477005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue cristino garcia 93210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.363790381195423,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12878959",
+    "mail": "lacitedesenfants@people-and-baby.com",
+    "distance": 7415,
+    "latitude": 48.9231225023932,
+    "telephone": "0155995100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCité des Enfants",
+    "resultStructId": "115426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue ampere 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3365449753585885,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "51652602",
+    "mail": "lacitedesenfants@people-and-baby.com",
+    "distance": 7415,
+    "latitude": 48.9231225023932,
+    "telephone": "0951718834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACITE DES ENFANTS",
+    "resultStructId": "460301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue ampere 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3365449753585885,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "59354862",
+    "mail": "bonjour@creche-lacachette.fr",
+    "distance": 7510,
+    "latitude": 48.92090417552089,
+    "telephone": "0986180772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCachette",
+    "resultStructId": "695917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 bis rue jean-philippe rameau 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.354897452063431,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667554",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 8392,
+    "latitude": 48.929479808786816,
+    "telephone": "0149337185",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Pain d'Epices",
+    "resultStructId": "702512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue genin 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.353840038610841,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667339",
+    "mail": "lecirqueduvent.saintdenis@gmail.com",
+    "distance": 8488,
+    "latitude": 48.930593965851486,
+    "telephone": "0148093219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'associationLe Cirque du Vent - Crèche parentale",
+    "resultStructId": "701602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue genin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3527771037118392,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "34236495",
+    "mail": "saintdenis@tilloucreche.com",
+    "distance": 8605,
+    "latitude": 48.93061576989971,
+    "telephone": "0148099363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TillouSaint-Denis",
+    "resultStructId": "117504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue de la barbacane 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3579883826181294,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12880593",
+    "mail": "lmkisd@lamaisonkangourou.com",
+    "distance": 8615,
+    "latitude": 48.93368015771829,
+    "telephone": "0148211021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison Kangourou PN2 Ile Saint Denis",
+    "resultStructId": "700924",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue louis bouxin93450 l ile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3400227568860137,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "34127827",
+    "mail": "administration@jardin-picou.fr",
+    "distance": 8674,
+    "latitude": 48.931043429702505,
+    "telephone": "0781180548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilJardin Picou",
+    "resultStructId": "701021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse picou 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3590117639699333,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12878400",
+    "mail": "conseil-collegial@jardin-picou.fr",
+    "distance": 8676,
+    "latitude": 48.931085759498636,
+    "telephone": "0781180548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheassociative Jardin Picou",
+    "resultStructId": "163201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse picou 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3589149693519467,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12663555",
+    "mail": "",
+    "distance": 8706,
+    "latitude": 48.93475509444229,
+    "telephone": "0171294840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Quai du Moulin\"",
+    "resultStructId": "116224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14quai du moulin 93450 l ile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3376061462613493,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "52912201",
+    "mail": "contact@mini-montessori.com",
+    "distance": 9104,
+    "latitude": 48.935834853694246,
+    "telephone": "0684640909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniMontessori",
+    "resultStructId": "691134",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue gabriel peri 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.355507742126406,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12877841",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9112,
+    "latitude": 48.93609627997251,
+    "telephone": "0149337199",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Le Petit Prince",
+    "resultStructId": "702518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue emile connoy93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3545514622195043,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "59928157",
+    "mail": "annesylvestre.iepc@gmail.com",
+    "distance": 9200,
+    "latitude": 48.93616109560519,
+    "telephone": "0184742590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL ANNE SYLVESTRE",
+    "resultStructId": "701532",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue almiral cabral 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3583864583127574,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667683",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9200,
+    "latitude": 48.93616109560519,
+    "telephone": "0149337150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Pom'Cannelle",
+    "resultStructId": "702519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du ru montfort93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3583864583127574,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "51583355",
+    "mail": "saint.denis@lpcr.fr",
+    "distance": 9200,
+    "latitude": 48.93616109560519,
+    "telephone": "0155904452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCRSAINT DENIS",
+    "resultStructId": "455401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean-philippe rameau - zac landypleyel - immeuble city one 93210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3583864583127574,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12869456",
+    "mail": "saint.denis@lpcr.fr",
+    "distance": 9200,
+    "latitude": 48.93616109560519,
+    "telephone": "0155904452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "9030",
+    "omegaId": "11016",
+    "avip": false,
+    "adresse": "5 rue jean philippe immeublecity one 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3583864583127574,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12629620",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9204,
+    "latitude": 48.938041841485536,
+    "telephone": "0149337046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux A Petits Pas",
+    "resultStructId": "702508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue dezobry 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.347988075555575,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12962938",
+    "mail": "sfm.ad@sfmad.fr",
+    "distance": 9243,
+    "latitude": 48.93955805100778,
+    "telephone": "0980841307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"La Farand'ile\" SFM AD",
+    "resultStructId": "701022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue arnold geraux93450 l ile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3384308411045955,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12629534",
+    "mail": "",
+    "distance": 9292,
+    "latitude": 48.931921527295195,
+    "telephone": "0171295940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective départementale \"Les Hautes Noelles\"",
+    "resultStructId": "117028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63route de la courneuve 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3775642298887663,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667640",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9332,
+    "latitude": 48.93722749320015,
+    "telephone": "0149337158",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Les Poulbots",
+    "resultStructId": "702510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue albert walter",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.359267068864661,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "34241178",
+    "mail": "",
+    "distance": 9471,
+    "latitude": 48.93414251417175,
+    "telephone": "0142356030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Filous",
+    "resultStructId": "701208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du moulin basset 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3762364061004018,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12877755",
+    "mail": "catherine.hogret@ch-stdenis.fr",
+    "distance": 9568,
+    "latitude": 48.93618785619038,
+    "telephone": "0142356030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière \" Les Petits Filous \"",
+    "resultStructId": "163403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du docteurdelafontaine 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.372614954629879,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12667597",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9576,
+    "latitude": 48.940513786035716,
+    "telephone": "0149337141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Le Coin du Feu",
+    "resultStructId": "702515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3540556855174875,
+    "ville": "stdenis",
+    "cp": "93200"
+  },
+  {
+    "resultId": "12962981",
+    "mail": "sfm.ad@sfmad.fr",
+    "distance": 9735,
+    "latitude": 48.94233732322224,
+    "telephone": "0148218574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Saint Denis",
+    "resultStructId": "701605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place gaston dourdin 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3519591020081294,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12484057",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 9800,
+    "latitude": 48.9388263293532,
+    "telephone": "0149337085",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu Petit Enfant La Ribambelle",
+    "resultStructId": "702517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue henri barbusse93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3712728658706297,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12877927",
+    "mail": "petiteenfance.direction@ville-saint-denis.fr",
+    "distance": 10414,
+    "latitude": 48.94184152065035,
+    "telephone": "0149337104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MaisonDu Petit Enfant Le Chat Perché",
+    "resultStructId": "702509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 promenade de labasilique 93200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.38164868845822,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12614570",
+    "mail": "cm@saintdenis.re",
+    "distance": 1414810,
+    "latitude": -20.88790152877264,
+    "telephone": "0262236532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede La Montagne",
+    "resultStructId": "187709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 chemin bailly 97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.423116109537865,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12927850",
+    "mail": "liv97400@gmail.com",
+    "distance": 1415888,
+    "latitude": -20.8793602953867,
+    "telephone": "0692748292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchel'Îlot Vert",
+    "resultStructId": "62210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 ruelle de la delivrance 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4432169086553,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648024",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1416257,
+    "latitude": -20.87494953993394,
+    "telephone": "0262203939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Alamandas\"",
+    "resultStructId": "61707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des sables 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45131078503522,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12717090",
+    "mail": "smastdenis@igesa.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262935096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche Le Lambert",
+    "resultStructId": "709106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du chef de bataillon lambert- caserne lambert - bp 50800 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "21804802",
+    "mail": "canebie974@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262520594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCanebie 2",
+    "resultStructId": "633701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 chemin des eucalyptus - pitonbois-de-nefles - ste clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12608851",
+    "mail": "association.le-coin-des-bout-choux@orange.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262536007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Le Coin des Bout'choux",
+    "resultStructId": "680306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 impasse emilemoutoussamy domenjod 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "17961650",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262584498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ladybird\"",
+    "resultStructId": "62003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue monseigneur de langavant - labretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12814322",
+    "mail": "gpadavatan@poucelina2.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262971797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePoucet Poucette",
+    "resultStructId": "61904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue lory-les-hauts - sainte-clotilde97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "17961562",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0693101713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE FUNNY BEES",
+    "resultStructId": "62005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 bis rue monseigneur de langavant -la bretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648196",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262291596",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Lé Kalou\"",
+    "resultStructId": "62007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 rue monseigneur de langavant - labretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "18069511",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0692726768",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTi kaz ekolo",
+    "resultStructId": "62008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 rue monseigneur langavant - la bretagne97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12619859",
+    "mail": "marionnettes.association@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262286096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheInter entreprises Pierrot",
+    "resultStructId": "62105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue henri cornu - rodriguesii - zone technor 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12750983",
+    "mail": "mdanube@babyland.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262230638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMicro Line 1",
+    "resultStructId": "62108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 route de bois de nefles -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12751026",
+    "mail": "mdanube@babyland.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262230638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMicro Line 2",
+    "resultStructId": "62109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 route de bois de nefles -sainte-clorilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13003745",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262777227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tites Canailles",
+    "resultStructId": "62113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue emile grimaud -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12732579",
+    "mail": "lespetitspas974@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262095664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Papangues",
+    "resultStructId": "62203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue de la vierge - montgaillard97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13003702",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262777227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Bisounours",
+    "resultStructId": "62206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 boulevard mahatma gandhi -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12849246",
+    "mail": "mcpazapas@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262984670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePazapas",
+    "resultStructId": "62207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 route des ananas - sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002541",
+    "mail": "contact@ogestras.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262922980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedes Goyaves",
+    "resultStructId": "62209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des goyaves - sainte-clotilde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12862662",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Lauriers 1",
+    "resultStructId": "67406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des lauriers - laprovidence 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713349",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Poterne 1",
+    "resultStructId": "36940",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin bailly - la montagne97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713392",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Poterne 2",
+    "resultStructId": "36941",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin bailly - la montagne97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713564",
+    "mail": "association.le-coin-des-bout-choux@orange.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262536007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le coin des Bout'Choux\"",
+    "resultStructId": "169302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse paille en queue -domenjod 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12625836",
+    "mail": "poinsettias@babyland.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0692346924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationLes Poinsettias",
+    "resultStructId": "183813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 chemin de l'ime - la montagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97417"
+  },
+  {
+    "resultId": "12615559",
+    "mail": "hortensias@babyland.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0692222370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Hortensias",
+    "resultStructId": "183816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis route de la riviere des pluies -residence la tonnelle 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12602014",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Babies",
+    "resultStructId": "183316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis chemin bois rouge - la bretagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12614613",
+    "mail": "malp@saintdenis.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262297783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Léonel Payet",
+    "resultStructId": "187710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy - lechaudron 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12622181",
+    "mail": "lvellin@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262920734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'Tits Mounes",
+    "resultStructId": "620201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue pitel (deux canons ,sainte-clotilde) 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12708404",
+    "mail": "csc@saintdenis.re",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262302493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSœur Colette",
+    "resultStructId": "203201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules verne - boulevard de lasource 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "21804701",
+    "mail": "canebie974@gmail.com",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262307904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCanebie 1",
+    "resultStructId": "633601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des poivriers - la trinite 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661792",
+    "mail": "dsap.onyx@wanadoo.fr",
+    "distance": 1416270,
+    "latitude": -20.879433879082576,
+    "telephone": "0262410337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Onyx",
+    "resultStructId": "376701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee des onyx - boulevard de la source97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002584",
+    "mail": "contact@ogestras.re",
+    "distance": 1416465,
+    "latitude": -20.885194941492124,
+    "telephone": "0262519680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheYlang-Ylang",
+    "resultStructId": "62208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rampe ozoux 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44542879534525,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12676326",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416592,
+    "latitude": -20.886921143040485,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Leroy 1",
+    "resultStructId": "36934",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse adolphe leroy 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.445550570728834,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12676369",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416599,
+    "latitude": -20.88696833568932,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Leroy 2",
+    "resultStructId": "36935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 impasse adolphe leroy 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.445604022141104,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "36112539",
+    "mail": "case.marmailles@gmail.com",
+    "distance": 1416814,
+    "latitude": -20.886653634715508,
+    "telephone": "0693134012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison de Ben",
+    "resultStructId": "144606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue milius 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44846576191246,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747414",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416854,
+    "latitude": -20.89235753513109,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bellepierre 1",
+    "resultStructId": "36938",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44427117773662,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747457",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1416854,
+    "latitude": -20.89235753513109,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bellepierre 2",
+    "resultStructId": "36939",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44427117773662,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12592812",
+    "mail": "mapd@saintdenis.re",
+    "distance": 1416897,
+    "latitude": -20.88351995235767,
+    "telephone": "0262412687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePaul Demange",
+    "resultStructId": "187817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue sainte-marie 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45204330669937,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12534418",
+    "mail": "",
+    "distance": 1416970,
+    "latitude": -20.88449072762635,
+    "telephone": "0262412687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil PAUL DEMANGE",
+    "resultStructId": "18201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue monseigneur de beaumont97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45213177359856,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12654904",
+    "mail": "creche.lespetitsprinces@cg974.fr",
+    "distance": 1416975,
+    "latitude": -20.88806057204394,
+    "telephone": "0262909820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDépartementale \"Les Petits Princes\"",
+    "resultStructId": "62104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue bertin97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.449264414938746,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002842",
+    "mail": "perlesapinpins@babyland.re",
+    "distance": 1417087,
+    "latitude": -20.883375434603813,
+    "telephone": "0693779336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPerles à Pinpin",
+    "resultStructId": "183819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 rue jules auber 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.454473551840714,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12764571",
+    "mail": "daniele.algot@gmail.com",
+    "distance": 1417248,
+    "latitude": -20.886641788451907,
+    "telephone": "0262930036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La source des Petits Anges\"",
+    "resultStructId": "62111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de suffren",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.453746979359046,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "12752445",
+    "mail": "manege1.direction@gmail.com",
+    "distance": 1417255,
+    "latitude": -20.896122485775397,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 1",
+    "resultStructId": "62202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 allee des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.446044262385215,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12671209",
+    "mail": "ilotjacpetits@babyland.re",
+    "distance": 1417281,
+    "latitude": -20.88175587806259,
+    "telephone": "0692251514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilIlôt Saint-Jacques - Petits",
+    "resultStructId": "183817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue roland garros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45814750117724,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "12671166",
+    "mail": "ilotjacgrands@babyland.re",
+    "distance": 1417281,
+    "latitude": -20.88175587806259,
+    "telephone": "0692252510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Ilôt Saint-Jacques - Grands",
+    "resultStructId": "183818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue rolandgarros 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45814750117724,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12752488",
+    "mail": "manege.direction@gmail.com",
+    "distance": 1417288,
+    "latitude": -20.896287833383514,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 2",
+    "resultStructId": "62204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 allee des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44629710306595,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "58524633",
+    "mail": "manege.direction@gmail.com",
+    "distance": 1417518,
+    "latitude": -20.893287844116585,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 3",
+    "resultStructId": "685601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des onyx 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45155512173068,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648110",
+    "mail": "jacgrands@babyland.re",
+    "distance": 1417557,
+    "latitude": -20.88890591869049,
+    "telephone": "0692346922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jacarandas - Ilet aux Grands",
+    "resultStructId": "183812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue bois de nefles97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45563066978439,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648153",
+    "mail": "jacpetits@babyland.re",
+    "distance": 1417624,
+    "latitude": -20.889420048821663,
+    "telephone": "0692346921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jacarandas - Ilet aux Petits",
+    "resultStructId": "183814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ruelle camp calixte97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45602034189396,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12684926",
+    "mail": "zinnias@babyland.re",
+    "distance": 1417670,
+    "latitude": -20.887141188360506,
+    "telephone": "0692346925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Zinnias",
+    "resultStructId": "183815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue d'apres 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45844909973718,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002498",
+    "mail": "daniele.algot@gmail.com",
+    "distance": 1417685,
+    "latitude": -20.889397269021586,
+    "telephone": "0262525965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Caz des Petits Anges",
+    "resultStructId": "62205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis ruelle samat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.456778092931685,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "30296459",
+    "mail": "petitsanges@notredamedesenfants.re",
+    "distance": 1417761,
+    "latitude": -20.89319473457107,
+    "telephone": "0692942502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Anges",
+    "resultStructId": "187707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 a ruelle ave maria 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45458705219854,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713134",
+    "mail": "cherubins@notredamedesenfants.re",
+    "distance": 1417761,
+    "latitude": -20.89319473457107,
+    "telephone": "0692942509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Chérubins",
+    "resultStructId": "187706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 b ruelle ave maria 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45458705219854,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "21750996",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1418351,
+    "latitude": -20.898527650260295,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Lauriers 2",
+    "resultStructId": "36905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des lauriers 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45736855028611,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12534762",
+    "mail": "casezouzou@gmail.com",
+    "distance": 1419113,
+    "latitude": -20.896611447964517,
+    "telephone": "0262307904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCase Zouzou",
+    "resultStructId": "633101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des poivriers 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.46818286545336,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747500",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 1419419,
+    "latitude": -20.900474262959396,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Pinarello",
+    "resultStructId": "36937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du stade 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.468728533341945,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661921",
+    "mail": "creche.lesjonquilles@gmail.com",
+    "distance": 1419520,
+    "latitude": -20.89124450180626,
+    "telephone": "0262485076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jonquilles",
+    "resultStructId": "183906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue pitel 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47751923633592,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661964",
+    "mail": "association.colombine@wanadoo.fr",
+    "distance": 1419535,
+    "latitude": -20.891249460363447,
+    "telephone": "0262295634",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilColombine",
+    "resultStructId": "651502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue pitel 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47769696890541,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30296086",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 1419770,
+    "latitude": -20.916843987594117,
+    "telephone": "0692302081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLES P'TITS PAPILLONS",
+    "resultStructId": "67203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 route de saint-francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4595289480911,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "12532526",
+    "mail": "cma.poucelina2@wanadoo.fr",
+    "distance": 1419843,
+    "latitude": -20.896913642986497,
+    "telephone": "0262971797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti Accueil Poucélina II",
+    "resultStructId": "183825",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue du muscadier 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4767934348494,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12678906",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1419845,
+    "latitude": -20.898829161517497,
+    "telephone": "0262280274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Petites Lucioles 1\"",
+    "resultStructId": "80503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 route de bois de nefles97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47523694992381,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30646349",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 1420195,
+    "latitude": -20.894293390510885,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTamarin 2",
+    "resultStructId": "67202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue lacroix 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48320159781274,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30646298",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 1420195,
+    "latitude": -20.894293390510885,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTamarin 1",
+    "resultStructId": "67201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue lacroix 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48320159781274,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30313448",
+    "mail": "jardin@jardinpoucelina.re",
+    "distance": 1420234,
+    "latitude": -20.89518652290153,
+    "telephone": "0262971731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Poucélina",
+    "resultStructId": "183901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue meziaire guignard 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48294192531104,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12678949",
+    "mail": "lmaleck@babyland.re",
+    "distance": 1420303,
+    "latitude": -20.902826559952032,
+    "telephone": "0262280274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Petites Lucioles 2\"",
+    "resultStructId": "80502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 route de bois de nefles97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47752292713733,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "40518730",
+    "mail": "malp@saintdenis.re",
+    "distance": 1420605,
+    "latitude": -20.893316376608162,
+    "telephone": "0262297783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLéonel Payet",
+    "resultStructId": "203301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.488977572727414,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12619687",
+    "mail": "clp@saintdenis.re",
+    "distance": 1420605,
+    "latitude": -20.893316376608162,
+    "telephone": "0262212806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLéonel Payet",
+    "resultStructId": "203202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.488977572727414,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "60594017",
+    "mail": "assistante@casemarmailles.re",
+    "distance": 1421422,
+    "latitude": -20.909610589372576,
+    "telephone": "0693134012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAssociation Case Marmailles du Moufia",
+    "resultStructId": "712901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de labourgogne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48552003974453,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12681185",
+    "mail": "lesflamboyantsasso@gmail.com",
+    "distance": 1421644,
+    "latitude": -20.911028048839228,
+    "telephone": "0692566951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Doudous",
+    "resultStructId": "62110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la chapelle 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48705055890686,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12612936",
+    "mail": "malt@saintdenis.re",
+    "distance": 1421676,
+    "latitude": -20.914125846217345,
+    "telephone": "0262289529",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Tulipiers\"",
+    "resultStructId": "203302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 chemin de la source",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48490133300136,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12930860",
+    "mail": "accueil@creche-and-go.fr",
+    "distance": 1422630,
+    "latitude": -20.907194695128783,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilCrèche & Go SEQUOIA",
+    "resultStructId": "651501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue boyer de la giroday 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.502154700257314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12615817",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 1423203,
+    "latitude": -20.926246409394903,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Babas",
+    "resultStructId": "61807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "252 route gabriel mace 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.49347641336607,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12646519",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 1423441,
+    "latitude": -20.92833681683156,
+    "telephone": "0262472903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba Ecolo\"",
+    "resultStructId": "62006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 rue monseigneur de langavant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.49464767771403,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12714983",
+    "mail": "les.mesniloups.de.breteuil@people-and-baby.com",
+    "distance": 181834,
+    "latitude": 48.746418015578676,
+    "telephone": "0953542371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES MESNILOUPS DE BRETEUIL",
+    "resultStructId": "688219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue charles deselle 78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9517153302104226,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12714940",
+    "mail": "les.champmesniloups@people-and-baby.com",
+    "distance": 182205,
+    "latitude": 48.745755058684686,
+    "telephone": "0954388411",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES CHAMPS MESNILOUPS",
+    "resultStructId": "688241",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue du lac aux belles78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9566917551206275,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12583868",
+    "mail": "",
+    "distance": 182701,
+    "latitude": 48.74371121345581,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MESNILOUPS DU BOURG",
+    "resultStructId": "689514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue du generalleclerc 78320 le mesnil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.963104888477712,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12930860",
+    "mail": "accueil@creche-and-go.fr",
+    "distance": 3609,
+    "latitude": -20.907194695128783,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilCrèche & Go SEQUOIA",
+    "resultStructId": "651501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "6 rue boyer de la giroday 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.502154700257314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "40518730",
+    "mail": "malp@saintdenis.re",
+    "distance": 4956,
+    "latitude": -20.893316376608162,
+    "telephone": "0262297783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLéonel Payet",
+    "resultStructId": "203301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.488977572727414,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12619687",
+    "mail": "clp@saintdenis.re",
+    "distance": 4956,
+    "latitude": -20.893316376608162,
+    "telephone": "0262212806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLéonel Payet",
+    "resultStructId": "203202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.488977572727414,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12681185",
+    "mail": "lesflamboyantsasso@gmail.com",
+    "distance": 5233,
+    "latitude": -20.911028048839228,
+    "telephone": "0692566951",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Doudous",
+    "resultStructId": "62110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la chapelle 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48705055890686,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12615817",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 5286,
+    "latitude": -20.926246409394903,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Babas",
+    "resultStructId": "61807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "252 route gabriel mace 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.49347641336607,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12646519",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 5317,
+    "latitude": -20.92833681683156,
+    "telephone": "0262472903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ti Baba Ecolo\"",
+    "resultStructId": "62006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 rue monseigneur de langavant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.49464767771403,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "60594017",
+    "mail": "assistante@casemarmailles.re",
+    "distance": 5355,
+    "latitude": -20.909610589372576,
+    "telephone": "0693134012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAssociation Case Marmailles du Moufia",
+    "resultStructId": "712901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de labourgogne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48552003974453,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30646349",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 5535,
+    "latitude": -20.894293390510885,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTamarin 2",
+    "resultStructId": "67202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue lacroix 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48320159781274,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30646298",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 5535,
+    "latitude": -20.894293390510885,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTamarin 1",
+    "resultStructId": "67201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue lacroix 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48320159781274,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12612936",
+    "mail": "malt@saintdenis.re",
+    "distance": 5536,
+    "latitude": -20.914125846217345,
+    "telephone": "0262289529",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Tulipiers\"",
+    "resultStructId": "203302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 chemin de la source",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48490133300136,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "30313448",
+    "mail": "jardin@jardinpoucelina.re",
+    "distance": 5551,
+    "latitude": -20.89518652290153,
+    "telephone": "0262971731",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Poucélina",
+    "resultStructId": "183901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue meziaire guignard 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.48294192531104,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12678949",
+    "mail": "lmaleck@babyland.re",
+    "distance": 6091,
+    "latitude": -20.902826559952032,
+    "telephone": "0262280274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Petites Lucioles 2\"",
+    "resultStructId": "80502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 route de bois de nefles97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47752292713733,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661964",
+    "mail": "association.colombine@wanadoo.fr",
+    "distance": 6149,
+    "latitude": -20.891249460363447,
+    "telephone": "0262295634",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilColombine",
+    "resultStructId": "651502",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue pitel 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47769696890541,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661921",
+    "mail": "creche.lesjonquilles@gmail.com",
+    "distance": 6167,
+    "latitude": -20.89124450180626,
+    "telephone": "0262485076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jonquilles",
+    "resultStructId": "183906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue pitel 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47751923633592,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12532526",
+    "mail": "cma.poucelina2@wanadoo.fr",
+    "distance": 6172,
+    "latitude": -20.896913642986497,
+    "telephone": "0262971797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti Accueil Poucélina II",
+    "resultStructId": "183825",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue du muscadier 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4767934348494,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12678906",
+    "mail": "lmaleck@babyland.re",
+    "distance": 6324,
+    "latitude": -20.898829161517497,
+    "telephone": "0262280274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Petites Lucioles 1\"",
+    "resultStructId": "80503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 route de bois de nefles97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.47523694992381,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747500",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 6998,
+    "latitude": -20.900474262959396,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Pinarello",
+    "resultStructId": "36937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du stade 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.468728533341945,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12534762",
+    "mail": "casezouzou@gmail.com",
+    "distance": 7067,
+    "latitude": -20.896611447964517,
+    "telephone": "0262307904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCase Zouzou",
+    "resultStructId": "633101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des poivriers 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.46818286545336,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30296086",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 8164,
+    "latitude": -20.916843987594117,
+    "telephone": "0692302081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLES P'TITS PAPILLONS",
+    "resultStructId": "67203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 route de saint-francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4595289480911,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "21750996",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 8181,
+    "latitude": -20.898527650260295,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Lauriers 2",
+    "resultStructId": "36905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des lauriers 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45736855028611,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12684926",
+    "mail": "zinnias@babyland.re",
+    "distance": 8197,
+    "latitude": -20.887141188360506,
+    "telephone": "0692346925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Zinnias",
+    "resultStructId": "183815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue d'apres 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45844909973718,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002498",
+    "mail": "daniele.algot@gmail.com",
+    "distance": 8328,
+    "latitude": -20.889397269021586,
+    "telephone": "0262525965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Caz des Petits Anges",
+    "resultStructId": "62205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis ruelle samat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.456778092931685,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "12671209",
+    "mail": "ilotjacpetits@babyland.re",
+    "distance": 8355,
+    "latitude": -20.88175587806259,
+    "telephone": "0692251514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilIlôt Saint-Jacques - Petits",
+    "resultStructId": "183817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue roland garros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45814750117724,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "12671166",
+    "mail": "ilotjacgrands@babyland.re",
+    "distance": 8355,
+    "latitude": -20.88175587806259,
+    "telephone": "0692252510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Ilôt Saint-Jacques - Grands",
+    "resultStructId": "183818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 rue rolandgarros 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45814750117724,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648153",
+    "mail": "jacpetits@babyland.re",
+    "distance": 8406,
+    "latitude": -20.889420048821663,
+    "telephone": "0692346921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jacarandas - Ilet aux Petits",
+    "resultStructId": "183814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ruelle camp calixte97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45602034189396,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648110",
+    "mail": "jacgrands@babyland.re",
+    "distance": 8454,
+    "latitude": -20.88890591869049,
+    "telephone": "0692346922",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Jacarandas - Ilet aux Grands",
+    "resultStructId": "183812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue bois de nefles97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45563066978439,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "30296459",
+    "mail": "petitsanges@notredamedesenfants.re",
+    "distance": 8504,
+    "latitude": -20.89319473457107,
+    "telephone": "0692942502",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Anges",
+    "resultStructId": "187707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 a ruelle ave maria 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45458705219854,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713134",
+    "mail": "cherubins@notredamedesenfants.re",
+    "distance": 8504,
+    "latitude": -20.89319473457107,
+    "telephone": "0692942509",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Chérubins",
+    "resultStructId": "187706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 b ruelle ave maria 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45458705219854,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002842",
+    "mail": "perlesapinpins@babyland.re",
+    "distance": 8685,
+    "latitude": -20.883375434603813,
+    "telephone": "0693779336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPerles à Pinpin",
+    "resultStructId": "183819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 rue jules auber 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.454473551840714,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12764571",
+    "mail": "daniele.algot@gmail.com",
+    "distance": 8688,
+    "latitude": -20.886641788451907,
+    "telephone": "0262930036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La source des Petits Anges\"",
+    "resultStructId": "62111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de suffren",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.453746979359046,
+    "ville": "stdenis",
+    "cp": "97400"
+  },
+  {
+    "resultId": "58524633",
+    "mail": "manege.direction@gmail.com",
+    "distance": 8817,
+    "latitude": -20.893287844116585,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 3",
+    "resultStructId": "685601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des onyx 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45155512173068,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12534418",
+    "mail": "",
+    "distance": 8897,
+    "latitude": -20.88449072762635,
+    "telephone": "0262412687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil PAUL DEMANGE",
+    "resultStructId": "18201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis rue monseigneur de beaumont97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45213177359856,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12592812",
+    "mail": "mapd@saintdenis.re",
+    "distance": 8928,
+    "latitude": -20.88351995235767,
+    "telephone": "0262412687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePaul Demange",
+    "resultStructId": "187817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue sainte-marie 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45204330669937,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12654904",
+    "mail": "creche.lespetitsprinces@cg974.fr",
+    "distance": 9122,
+    "latitude": -20.88806057204394,
+    "telephone": "0262909820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheDépartementale \"Les Petits Princes\"",
+    "resultStructId": "62104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue bertin97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.449264414938746,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "36112539",
+    "mail": "case.marmailles@gmail.com",
+    "distance": 9229,
+    "latitude": -20.886653634715508,
+    "telephone": "0693134012",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison de Ben",
+    "resultStructId": "144606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue milius 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44846576191246,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648024",
+    "mail": "lmaleck@babyland.re",
+    "distance": 9247,
+    "latitude": -20.87494953993394,
+    "telephone": "0262203939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Les Alamandas\"",
+    "resultStructId": "61707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des sables 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.45131078503522,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12752488",
+    "mail": "manege.direction@gmail.com",
+    "distance": 9339,
+    "latitude": -20.896287833383514,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 2",
+    "resultStructId": "62204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 allee des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44629710306595,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12752445",
+    "mail": "manege1.direction@gmail.com",
+    "distance": 9366,
+    "latitude": -20.896122485775397,
+    "telephone": "0262370608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Manège enchanté 1",
+    "resultStructId": "62202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 allee des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.446044262385215,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12717090",
+    "mail": "smastdenis@igesa.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262935096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetiteCrèche Le Lambert",
+    "resultStructId": "709106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du chef de bataillon lambert- caserne lambert - bp 50800 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "21804802",
+    "mail": "canebie974@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262520594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCanebie 2",
+    "resultStructId": "633701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 chemin des eucalyptus - pitonbois-de-nefles - ste clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12608851",
+    "mail": "association.le-coin-des-bout-choux@orange.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262536007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Le Coin des Bout'choux",
+    "resultStructId": "680306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 impasse emilemoutoussamy domenjod 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "17961650",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262584498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ladybird\"",
+    "resultStructId": "62003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 rue monseigneur de langavant - labretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12814322",
+    "mail": "gpadavatan@poucelina2.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262971797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePoucet Poucette",
+    "resultStructId": "61904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue lory-les-hauts - sainte-clotilde97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "17961562",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0693101713",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE FUNNY BEES",
+    "resultStructId": "62005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 bis rue monseigneur de langavant -la bretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12648196",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262291596",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Lé Kalou\"",
+    "resultStructId": "62007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 rue monseigneur de langavant - labretagne 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "18069511",
+    "mail": "ecsper@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0692726768",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTi kaz ekolo",
+    "resultStructId": "62008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 rue monseigneur langavant - la bretagne97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12619859",
+    "mail": "marionnettes.association@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262286096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheInter entreprises Pierrot",
+    "resultStructId": "62105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue henri cornu - rodriguesii - zone technor 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12750983",
+    "mail": "mdanube@babyland.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262230638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMicro Line 1",
+    "resultStructId": "62108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 route de bois de nefles -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12751026",
+    "mail": "mdanube@babyland.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262230638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMicro Line 2",
+    "resultStructId": "62109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 route de bois de nefles -sainte-clorilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13003745",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262777227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tites Canailles",
+    "resultStructId": "62113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue emile grimaud -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12732579",
+    "mail": "lespetitspas974@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262095664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Papangues",
+    "resultStructId": "62203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue de la vierge - montgaillard97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13003702",
+    "mail": "adm.microcreches@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262777227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Bisounours",
+    "resultStructId": "62206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 boulevard mahatma gandhi -sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12849246",
+    "mail": "mcpazapas@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262984670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePazapas",
+    "resultStructId": "62207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 route des ananas - sainte-clotilde 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002541",
+    "mail": "contact@ogestras.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262922980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchedes Goyaves",
+    "resultStructId": "62209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue des goyaves - sainte-clotilde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12862662",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Les Lauriers 1",
+    "resultStructId": "67406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des lauriers - laprovidence 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713349",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Poterne 1",
+    "resultStructId": "36940",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin bailly - la montagne97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713392",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Poterne 2",
+    "resultStructId": "36941",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin bailly - la montagne97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12713564",
+    "mail": "association.le-coin-des-bout-choux@orange.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262536007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le coin des Bout'Choux\"",
+    "resultStructId": "169302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse paille en queue -domenjod 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12625836",
+    "mail": "poinsettias@babyland.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0692346924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationLes Poinsettias",
+    "resultStructId": "183813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 chemin de l'ime - la montagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97417"
+  },
+  {
+    "resultId": "12615559",
+    "mail": "hortensias@babyland.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0692222370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Hortensias",
+    "resultStructId": "183816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis route de la riviere des pluies -residence la tonnelle 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12602014",
+    "mail": "associationlesbabies@orange.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262989200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Babies",
+    "resultStructId": "183316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 bis chemin bois rouge - la bretagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": "97490"
+  },
+  {
+    "resultId": "12614613",
+    "mail": "malp@saintdenis.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262297783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Léonel Payet",
+    "resultStructId": "187710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue jacob de cordemoy - lechaudron 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12622181",
+    "mail": "lvellin@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262920734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes P'Tits Mounes",
+    "resultStructId": "620201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue pitel (deux canons ,sainte-clotilde) 97490",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12708404",
+    "mail": "csc@saintdenis.re",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262302493",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSœur Colette",
+    "resultStructId": "203201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue jules verne - boulevard de lasource 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "21804701",
+    "mail": "canebie974@gmail.com",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262307904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCanebie 1",
+    "resultStructId": "633601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des poivriers - la trinite 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12661792",
+    "mail": "dsap.onyx@wanadoo.fr",
+    "distance": 9462,
+    "latitude": -20.879433879082576,
+    "telephone": "0262410337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Onyx",
+    "resultStructId": "376701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee des onyx - boulevard de la source97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44779187715314,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12676369",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9516,
+    "latitude": -20.88696833568932,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Leroy 2",
+    "resultStructId": "36935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 impasse adolphe leroy 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.445604022141104,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12676326",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9523,
+    "latitude": -20.886921143040485,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Leroy 1",
+    "resultStructId": "36934",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse adolphe leroy 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.445550570728834,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "13002584",
+    "mail": "contact@ogestras.re",
+    "distance": 9567,
+    "latitude": -20.885194941492124,
+    "telephone": "0262519680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheYlang-Ylang",
+    "resultStructId": "62208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rampe ozoux 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44542879534525,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747414",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9580,
+    "latitude": -20.89235753513109,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bellepierre 1",
+    "resultStructId": "36938",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44427117773662,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12747457",
+    "mail": "direction@creche-and-go.fr",
+    "distance": 9580,
+    "latitude": -20.89235753513109,
+    "telephone": "0262104128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCrèche & Go Bellepierre 2",
+    "resultStructId": "36939",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53 rue des topazes 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.44427117773662,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12927850",
+    "mail": "liv97400@gmail.com",
+    "distance": 9925,
+    "latitude": -20.8793602953867,
+    "telephone": "0692748292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchel'Îlot Vert",
+    "resultStructId": "62210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 ruelle de la delivrance 97400",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.4432169086553,
+    "ville": "stdenis",
+    "cp": ""
+  },
+  {
+    "resultId": "12614570",
+    "mail": "cm@saintdenis.re",
+    "distance": 11817,
+    "latitude": -20.88790152877264,
+    "telephone": "0262236532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede La Montagne",
+    "resultStructId": "187709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 chemin bailly 97417",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.423116109537865,
+    "ville": "stdenis",
+    "cp": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12942685",
+    "mail": "maithas.leroy@ghsc.fr",
+    "distance": 22094,
+    "latitude": 50.54251574562556,
+    "telephone": "0320627057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"ôcomme 3 pommes\", Crèche du Groupe Hospitalier SeclinCarvin",
+    "resultStructId": "438301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d' apolda",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.012059000831181,
+    "ville": "seclin",
+    "cp": "59113"
+  },
+  {
+    "resultId": "12813118",
+    "mail": "naima.bouarfaoui@ville-seclin.fr",
+    "distance": 23905,
+    "latitude": 50.55514387385998,
+    "telephone": "0320321296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Les P'tits Loups\"",
+    "resultStructId": "693807",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65a boulevard josephhentges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0318404744085794,
+    "ville": "seclin",
+    "cp": "59113"
+  },
+  {
+    "resultId": "60240391",
+    "mail": "cl.microcreche@gmail.com",
+    "distance": 24937,
+    "latitude": 50.56306540742386,
+    "telephone": "0633657990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BBTROTT",
+    "resultStructId": "707204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 et 7 rue du luyot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.042440289212833,
+    "ville": "seclin",
+    "cp": "59113"
+  }
+]

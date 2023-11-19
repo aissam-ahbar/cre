@@ -1,0 +1,1562 @@
+[
+  {
+    "resultId": "13004003",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 152346,
+    "latitude": 44.91592937929102,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Petit Prince",
+    "resultStructId": "561007",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.88270566736435,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58732340",
+    "mail": "contact@lescopainsdeloann.com",
+    "distance": 152544,
+    "latitude": 44.914153665977004,
+    "telephone": "0749760945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lescopains de Loann",
+    "resultStructId": "688136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue jean bertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.91716187746387,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12859910",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 152784,
+    "latitude": 44.918173615532915,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule Châteauvert",
+    "resultStructId": "186408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.899985205857356,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862533",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 152895,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Balives",
+    "resultStructId": "560503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "53972277",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 152895,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBaliv'up",
+    "resultStructId": "560701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12989512",
+    "mail": "lesgrabouilles@creche-grabouilles.fr",
+    "distance": 153219,
+    "latitude": 44.918395993567174,
+    "telephone": "0475831756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles",
+    "resultStructId": "138702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue henri rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933990227818427,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "30918030",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 153233,
+    "latitude": 44.92363635530754,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule VH",
+    "resultStructId": "138903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.886207800856347,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12964271",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 153388,
+    "latitude": 44.92389949786654,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChâteauvert",
+    "resultStructId": "552102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue chateauvert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897614611296856,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "59138710",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 153409,
+    "latitude": 44.921329977136914,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIBELLULEBF",
+    "resultStructId": "693007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44-46 rue gilles de roberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.923396537721962,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "46041634",
+    "mail": "creche.apolline@people-and-baby.com",
+    "distance": 153997,
+    "latitude": 44.925437359744,
+    "telephone": "0985216104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Apolline",
+    "resultStructId": "372501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9004 chemin gaston reynaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.934368472257169,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12991275",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154044,
+    "latitude": 44.92717441712328,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale Pain d'Épices",
+    "resultStructId": "564501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 place jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922892351217312,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814580",
+    "mail": "lesgrabouilleslautagne@creche-grabouilles.fr",
+    "distance": 154358,
+    "latitude": 44.933268361638305,
+    "telephone": "0458171711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Lautagne",
+    "resultStructId": "138703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "plateau de lautagne avenue deslangories",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814537",
+    "mail": "lesgrabouillessud@creche-grabouilles.fr",
+    "distance": 154358,
+    "latitude": 44.933268361638305,
+    "telephone": "0475564984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Sud",
+    "resultStructId": "138704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zi la motte quartier mauboule",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12996822",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154358,
+    "latitude": 44.933268361638305,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Plan",
+    "resultStructId": "552201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des aravis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855868",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154423,
+    "latitude": 44.93130834118994,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheL'Îlot Câlins",
+    "resultStructId": "565701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.916604149029522,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855610",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154427,
+    "latitude": 44.93362368453047,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Souris Verte",
+    "resultStructId": "560802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue d'armenie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894823876358515,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855997",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154731,
+    "latitude": 44.93371787213006,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheMaurice Ravel",
+    "resultStructId": "550901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place maurice ravel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9202575913298485,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862576",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154761,
+    "latitude": 44.93625581277992,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePablo Neruda",
+    "resultStructId": "560504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue georges clemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.898782122819423,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12856040",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 154839,
+    "latitude": 44.9362494957864,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "561001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "20 avenue de l'yser",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905806526540553,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58757314",
+    "mail": "bonnetoile@ub4kids.com",
+    "distance": 154878,
+    "latitude": 44.93589363736324,
+    "telephone": "0980373776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bonnétoile",
+    "resultStructId": "688503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue georges bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.912508191407674,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855954",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 155886,
+    "latitude": 44.945374240387046,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePetons Petits Pas",
+    "resultStructId": "560903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue jean vilar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.909497614974289,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12989512",
+    "mail": "lesgrabouilles@creche-grabouilles.fr",
+    "distance": 455817,
+    "latitude": 44.918395993567174,
+    "telephone": "0475831756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles",
+    "resultStructId": "138702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue henri rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933990227818427,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "46041634",
+    "mail": "creche.apolline@people-and-baby.com",
+    "distance": 456309,
+    "latitude": 44.925437359744,
+    "telephone": "0985216104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Apolline",
+    "resultStructId": "372501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9004 chemin gaston reynaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.934368472257169,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "13004003",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 166201,
+    "latitude": 44.91592937929102,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Petit Prince",
+    "resultStructId": "561007",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.88270566736435,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862533",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 166709,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Balives",
+    "resultStructId": "560503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "53972277",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 166709,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBaliv'up",
+    "resultStructId": "560701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12859910",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 167074,
+    "latitude": 44.918173615532915,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule Châteauvert",
+    "resultStructId": "186408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.899985205857356,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "30918030",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 167086,
+    "latitude": 44.92363635530754,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule VH",
+    "resultStructId": "138903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.886207800856347,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58732340",
+    "mail": "contact@lescopainsdeloann.com",
+    "distance": 167343,
+    "latitude": 44.914153665977004,
+    "telephone": "0749760945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lescopains de Loann",
+    "resultStructId": "688136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue jean bertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.91716187746387,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12964271",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 167542,
+    "latitude": 44.92389949786654,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChâteauvert",
+    "resultStructId": "552102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue chateauvert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897614611296856,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814580",
+    "mail": "lesgrabouilleslautagne@creche-grabouilles.fr",
+    "distance": 168249,
+    "latitude": 44.933268361638305,
+    "telephone": "0458171711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Lautagne",
+    "resultStructId": "138703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "plateau de lautagne avenue deslangories",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814537",
+    "mail": "lesgrabouillessud@creche-grabouilles.fr",
+    "distance": 168249,
+    "latitude": 44.933268361638305,
+    "telephone": "0475564984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Sud",
+    "resultStructId": "138704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zi la motte quartier mauboule",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12996822",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 168249,
+    "latitude": 44.933268361638305,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Plan",
+    "resultStructId": "552201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des aravis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "59138710",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 168279,
+    "latitude": 44.921329977136914,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIBELLULEBF",
+    "resultStructId": "693007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44-46 rue gilles de roberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.923396537721962,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855610",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 168385,
+    "latitude": 44.93362368453047,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Souris Verte",
+    "resultStructId": "560802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue d'armenie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894823876358515,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12989512",
+    "mail": "lesgrabouilles@creche-grabouilles.fr",
+    "distance": 168407,
+    "latitude": 44.918395993567174,
+    "telephone": "0475831756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles",
+    "resultStructId": "138702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue henri rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933990227818427,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862576",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 168791,
+    "latitude": 44.93625581277992,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePablo Neruda",
+    "resultStructId": "560504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue georges clemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.898782122819423,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12991275",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 168826,
+    "latitude": 44.92717441712328,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale Pain d'Épices",
+    "resultStructId": "564501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 place jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922892351217312,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855868",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 168986,
+    "latitude": 44.93130834118994,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheL'Îlot Câlins",
+    "resultStructId": "565701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.916604149029522,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12856040",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 169056,
+    "latitude": 44.9362494957864,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "561001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "20 avenue de l'yser",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905806526540553,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "46041634",
+    "mail": "creche.apolline@people-and-baby.com",
+    "distance": 169102,
+    "latitude": 44.925437359744,
+    "telephone": "0985216104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Apolline",
+    "resultStructId": "372501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9004 chemin gaston reynaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.934368472257169,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58757314",
+    "mail": "bonnetoile@ub4kids.com",
+    "distance": 169275,
+    "latitude": 44.93589363736324,
+    "telephone": "0980373776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bonnétoile",
+    "resultStructId": "688503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue georges bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.912508191407674,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855997",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 169359,
+    "latitude": 44.93371787213006,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheMaurice Ravel",
+    "resultStructId": "550901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place maurice ravel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9202575913298485,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855954",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 170085,
+    "latitude": 44.945374240387046,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePetons Petits Pas",
+    "resultStructId": "560903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue jean vilar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.909497614974289,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12989512",
+    "mail": "lesgrabouilles@creche-grabouilles.fr",
+    "distance": 139490,
+    "latitude": 44.918395993567174,
+    "telephone": "0475831756",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles",
+    "resultStructId": "138702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue henri rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933990227818427,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58732340",
+    "mail": "contact@lescopainsdeloann.com",
+    "distance": 139994,
+    "latitude": 44.914153665977004,
+    "telephone": "0749760945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lescopains de Loann",
+    "resultStructId": "688136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue jean bertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.91716187746387,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "46041634",
+    "mail": "creche.apolline@people-and-baby.com",
+    "distance": 140068,
+    "latitude": 44.925437359744,
+    "telephone": "0985216104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Apolline",
+    "resultStructId": "372501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9004 chemin gaston reynaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.934368472257169,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "59138710",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 140279,
+    "latitude": 44.921329977136914,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BIBELLULEBF",
+    "resultStructId": "693007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44-46 rue gilles de roberval",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.923396537721962,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12991275",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 140799,
+    "latitude": 44.92717441712328,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Crèchefamiliale Pain d'Épices",
+    "resultStructId": "564501",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 place jacques brel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922892351217312,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12859910",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 141220,
+    "latitude": 44.918173615532915,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule Châteauvert",
+    "resultStructId": "186408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.899985205857356,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855868",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 141470,
+    "latitude": 44.93130834118994,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheL'Îlot Câlins",
+    "resultStructId": "565701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.916604149029522,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855997",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 141488,
+    "latitude": 44.93371787213006,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheMaurice Ravel",
+    "resultStructId": "550901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place maurice ravel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9202575913298485,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12964271",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 141822,
+    "latitude": 44.92389949786654,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheChâteauvert",
+    "resultStructId": "552102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue chateauvert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897614611296856,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "13004003",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 141933,
+    "latitude": 44.91592937929102,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Petit Prince",
+    "resultStructId": "561007",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.88270566736435,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "58757314",
+    "mail": "bonnetoile@ub4kids.com",
+    "distance": 142067,
+    "latitude": 44.93589363736324,
+    "telephone": "0980373776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bonnétoile",
+    "resultStructId": "688503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue georges bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.912508191407674,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862533",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142300,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Balives",
+    "resultStructId": "560503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "53972277",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142300,
+    "latitude": 44.920832909041486,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBaliv'up",
+    "resultStructId": "560701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 avenue maurice faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883484003684226,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "30918030",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 142392,
+    "latitude": 44.92363635530754,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibellule VH",
+    "resultStructId": "138903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.886207800856347,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12856040",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142440,
+    "latitude": 44.9362494957864,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "561001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "20 avenue de l'yser",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905806526540553,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855610",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142782,
+    "latitude": 44.93362368453047,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Souris Verte",
+    "resultStructId": "560802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue d'armenie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894823876358515,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12862576",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142800,
+    "latitude": 44.93625581277992,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePablo Neruda",
+    "resultStructId": "560504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue georges clemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.898782122819423,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814580",
+    "mail": "lesgrabouilleslautagne@creche-grabouilles.fr",
+    "distance": 142892,
+    "latitude": 44.933268361638305,
+    "telephone": "0458171711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Lautagne",
+    "resultStructId": "138703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "plateau de lautagne avenue deslangories",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12814537",
+    "mail": "lesgrabouillessud@creche-grabouilles.fr",
+    "distance": 142892,
+    "latitude": 44.933268361638305,
+    "telephone": "0475564984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Grabouilles Sud",
+    "resultStructId": "138704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zi la motte quartier mauboule",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12996822",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 142892,
+    "latitude": 44.933268361638305,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheLe Plan",
+    "resultStructId": "552201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place des aravis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89210871675032,
+    "ville": "valence",
+    "cp": "26000"
+  },
+  {
+    "resultId": "12855954",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 143025,
+    "latitude": 44.945374240387046,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePetons Petits Pas",
+    "resultStructId": "560903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue jean vilar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.909497614974289,
+    "ville": "valence",
+    "cp": "26000"
+  }
+]

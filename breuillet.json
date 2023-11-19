@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12567356",
+    "mail": "saf.breuillet@coeuressonne.fr",
+    "distance": 177687,
+    "latitude": 48.56667191706833,
+    "telephone": "0169721432",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"LesOursons\"",
+    "resultStructId": "55518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des ecoles - maison des larris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.173066191713346,
+    "ville": "breuillet",
+    "cp": "91650"
+  },
+  {
+    "resultId": "12567227",
+    "mail": "multiaccueil.breuillet@coeuressonne.fr",
+    "distance": 177751,
+    "latitude": 48.567739664949514,
+    "telephone": "0164585747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil \"Les P'tits Mousses\"",
+    "resultStructId": "55516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1696572180993896,
+    "ville": "breuillet",
+    "cp": "91650"
+  }
+]

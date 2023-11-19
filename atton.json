@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12674907",
+    "mail": "multiaccueilfratton@sfr.fr",
+    "distance": 114515,
+    "latitude": 48.89086188286675,
+    "telephone": "0383809939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilles Ch'attons",
+    "resultStructId": "4476",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des dames",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.089279714220003,
+    "ville": "atton",
+    "cp": "54700"
+  },
+  {
+    "resultId": "35266801",
+    "mail": "multiaccueilfratton@sfr.fr",
+    "distance": 114515,
+    "latitude": 48.89086268553483,
+    "telephone": "0383809939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les Ch'attons",
+    "resultStructId": "134903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des dames",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.08928028209558,
+    "ville": "atton",
+    "cp": "54700"
+  }
+]

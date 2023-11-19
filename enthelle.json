@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13050924",
+    "mail": "enfance@thelloise.fr",
+    "distance": 142449,
+    "latitude": 49.223193900446965,
+    "telephone": "0344269950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE CC THELLOISE - SITE DE NEUILLY ENTHELLE",
+    "resultStructId": "175006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de driard 60530 neuilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2856655365420844,
+    "ville": "enthelle",
+    "cp": ""
+  },
+  {
+    "resultId": "13050838",
+    "mail": "enfance@thelloise.fr",
+    "distance": 145161,
+    "latitude": 49.200709390678014,
+    "telephone": "0344269950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE ITINERANTE CC THELLOISE - SITE DE FRESNOY ENTHELLE",
+    "resultStructId": "112610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place mairie 60530 fresnoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2684762799212645,
+    "ville": "enthelle",
+    "cp": ""
+  }
+]

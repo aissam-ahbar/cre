@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "60246566",
+    "mail": "petitsbouchons34@gmail.com",
+    "distance": 76695,
+    "latitude": 43.74455985542497,
+    "telephone": "0781208091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS BOUCHONS DU FORT",
+    "resultStructId": "707303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des meules34380 viols",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.707921857076341,
+    "ville": "lefort",
+    "cp": ""
+  },
+  {
+    "resultId": "12615946",
+    "mail": "",
+    "distance": 67586,
+    "latitude": 46.79843726634149,
+    "telephone": "0677092952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche A P'tits Pas - DRACY LE FORT",
+    "resultStructId": "3105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des crays 71640dracy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.757904045547479,
+    "ville": "lefort",
+    "cp": ""
+  },
+  {
+    "resultId": "12698987",
+    "mail": "nathalie.zecchino@aptitspas.com",
+    "distance": 67586,
+    "latitude": 46.79843726634149,
+    "telephone": "0385934553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Ap'tits pas\"",
+    "resultStructId": "5036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de crays 71640 dracy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.757904045547479,
+    "ville": "lefort",
+    "cp": ""
+  },
+  {
+    "resultId": "60246566",
+    "mail": "petitsbouchons34@gmail.com",
+    "distance": 22241,
+    "latitude": 43.74455985542497,
+    "telephone": "0781208091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS BOUCHONS DU FORT",
+    "resultStructId": "707303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des meules34380 viols",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.707921857076341,
+    "ville": "lefort",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12979192",
+    "mail": "rose-marie.cauvin@porto-vecchio.fr",
+    "distance": 63702,
+    "latitude": 41.59142498768811,
+    "telephone": "0495705224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilcollectif de Porto-Vecchio",
+    "resultStructId": "11582",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue funtana vecchia",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.27880628717087,
+    "ville": "portovecchio",
+    "cp": "20137"
+  },
+  {
+    "resultId": "12542373",
+    "mail": "",
+    "distance": 63702,
+    "latitude": 41.59142498768811,
+    "telephone": "0495705224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Créchefamiliale de Porto-Vecchio",
+    "resultStructId": "1394",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue funtana vecchia",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.27880628717087,
+    "ville": "portovecchio",
+    "cp": "20137"
+  }
+]

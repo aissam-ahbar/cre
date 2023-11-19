@@ -1,0 +1,962 @@
+[
+  {
+    "resultId": "12854406",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 147574,
+    "latitude": 44.86623773838415,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMéli-mélo",
+    "resultStructId": "550902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 allee des pins 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939537942249895,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58758045",
+    "mail": "contact@les-petites-creches.fr",
+    "distance": 147800,
+    "latitude": 44.875090488733676,
+    "telephone": "0475596807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Pépites",
+    "resultStructId": "688507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "salvador allende, lieu-dit les aureats26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.878244579993345,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855825",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 148016,
+    "latitude": 44.877283805194544,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Pitchouline",
+    "resultStructId": "560901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue charles doucet 26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8759107951836995,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58757708",
+    "mail": "contact@latitcreche.fr",
+    "distance": 149861,
+    "latitude": 44.88935149297529,
+    "telephone": "0782627817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTit' Crèche",
+    "resultStructId": "688505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 rue saint-exupery 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.920508686731523,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855653",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 155778,
+    "latitude": 44.945654729281344,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLucile Herbet",
+    "resultStructId": "560803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue leon jouhaux 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897201148617526,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855696",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 155944,
+    "latitude": 44.94773490097301,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAux P'tits Mômes",
+    "resultStructId": "560804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue tony garnier 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.891434556139835,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "37723773",
+    "mail": "contact@lespetitespaillettes.fr",
+    "distance": 156957,
+    "latitude": 44.957221869056006,
+    "telephone": "0667419561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petites Paillettes",
+    "resultStructId": "186208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 bis avenue de lyon26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8884818796942415,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855739",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 157337,
+    "latitude": 44.958966174717396,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchel'Allet",
+    "resultStructId": "560805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128 place elie cester 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905608718855839,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "35856487",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 158290,
+    "latitude": 44.963777745010695,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibebulle",
+    "resultStructId": "138905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des noyers 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.941119886424673,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "59420874",
+    "mail": "topaze@youbeeforkids.com",
+    "distance": 158559,
+    "latitude": 44.96607901168781,
+    "telephone": "0617604751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Topaze",
+    "resultStructId": "696710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue topaze 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.942448541039275,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12859781",
+    "mail": "k.bussac@gb2s-franchise-creche.com",
+    "distance": 158883,
+    "latitude": 44.974136628022286,
+    "telephone": "0475832791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Nidouille - GB2S",
+    "resultStructId": "57103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue carl von linne 26500bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894358365855017,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12605110",
+    "mail": "resp.petitescanailles@admr26.fr",
+    "distance": 159269,
+    "latitude": 44.97131290391934,
+    "telephone": "0475857028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ADMR Les petites canailles",
+    "resultStructId": "35513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ecoles26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.952966766735517,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12854406",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 451699,
+    "latitude": 44.86623773838415,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMéli-mélo",
+    "resultStructId": "550902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 allee des pins 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939537942249895,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58757708",
+    "mail": "contact@latitcreche.fr",
+    "distance": 454510,
+    "latitude": 44.88935149297529,
+    "telephone": "0782627817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTit' Crèche",
+    "resultStructId": "688505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 rue saint-exupery 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.920508686731523,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58758045",
+    "mail": "contact@les-petites-creches.fr",
+    "distance": 456018,
+    "latitude": 44.875090488733676,
+    "telephone": "0475596807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Pépites",
+    "resultStructId": "688507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "salvador allende, lieu-dit les aureats26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.878244579993345,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855825",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 456316,
+    "latitude": 44.877283805194544,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Pitchouline",
+    "resultStructId": "560901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue charles doucet 26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8759107951836995,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58758045",
+    "mail": "contact@les-petites-creches.fr",
+    "distance": 162054,
+    "latitude": 44.875090488733676,
+    "telephone": "0475596807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Pépites",
+    "resultStructId": "688507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "salvador allende, lieu-dit les aureats26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.878244579993345,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855825",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 162178,
+    "latitude": 44.877283805194544,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Pitchouline",
+    "resultStructId": "560901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue charles doucet 26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8759107951836995,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12854406",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 163620,
+    "latitude": 44.86623773838415,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMéli-mélo",
+    "resultStructId": "550902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 allee des pins 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939537942249895,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58757708",
+    "mail": "contact@latitcreche.fr",
+    "distance": 165077,
+    "latitude": 44.88935149297529,
+    "telephone": "0782627817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTit' Crèche",
+    "resultStructId": "688505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 rue saint-exupery 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.920508686731523,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855696",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 169640,
+    "latitude": 44.94773490097301,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAux P'tits Mômes",
+    "resultStructId": "560804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue tony garnier 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.891434556139835,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855653",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 169651,
+    "latitude": 44.945654729281344,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLucile Herbet",
+    "resultStructId": "560803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue leon jouhaux 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897201148617526,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "37723773",
+    "mail": "contact@lespetitespaillettes.fr",
+    "distance": 170461,
+    "latitude": 44.957221869056006,
+    "telephone": "0667419561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petites Paillettes",
+    "resultStructId": "186208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 bis avenue de lyon26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8884818796942415,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855739",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 171268,
+    "latitude": 44.958966174717396,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchel'Allet",
+    "resultStructId": "560805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128 place elie cester 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905608718855839,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12859781",
+    "mail": "k.bussac@gb2s-franchise-creche.com",
+    "distance": 172340,
+    "latitude": 44.974136628022286,
+    "telephone": "0475832791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Nidouille - GB2S",
+    "resultStructId": "57103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue carl von linne 26500bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894358365855017,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "35856487",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 173079,
+    "latitude": 44.963777745010695,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibebulle",
+    "resultStructId": "138905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des noyers 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.941119886424673,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "59420874",
+    "mail": "topaze@youbeeforkids.com",
+    "distance": 173353,
+    "latitude": 44.96607901168781,
+    "telephone": "0617604751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Topaze",
+    "resultStructId": "696710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue topaze 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.942448541039275,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12605110",
+    "mail": "resp.petitescanailles@admr26.fr",
+    "distance": 174264,
+    "latitude": 44.97131290391934,
+    "telephone": "0475857028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ADMR Les petites canailles",
+    "resultStructId": "35513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ecoles26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.952966766735517,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12854406",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 134830,
+    "latitude": 44.86623773838415,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMéli-mélo",
+    "resultStructId": "550902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 allee des pins 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.939537942249895,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58757708",
+    "mail": "contact@latitcreche.fr",
+    "distance": 137747,
+    "latitude": 44.88935149297529,
+    "telephone": "0782627817",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTit' Crèche",
+    "resultStructId": "688505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 rue saint-exupery 26760 beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.920508686731523,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "58758045",
+    "mail": "contact@les-petites-creches.fr",
+    "distance": 138816,
+    "latitude": 44.875090488733676,
+    "telephone": "0475596807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Pépites",
+    "resultStructId": "688507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "salvador allende, lieu-dit les aureats26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.878244579993345,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855825",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 139119,
+    "latitude": 44.877283805194544,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Pitchouline",
+    "resultStructId": "560901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue charles doucet 26800 portes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8759107951836995,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "35856487",
+    "mail": "contact.mcs26@gmail.com",
+    "distance": 143020,
+    "latitude": 44.963777745010695,
+    "telephone": "0695349089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bibebulle",
+    "resultStructId": "138905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des noyers 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.941119886424673,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12605110",
+    "mail": "resp.petitescanailles@admr26.fr",
+    "distance": 143093,
+    "latitude": 44.97131290391934,
+    "telephone": "0475857028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil ADMR Les petites canailles",
+    "resultStructId": "35513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des ecoles26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.952966766735517,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "59420874",
+    "mail": "topaze@youbeeforkids.com",
+    "distance": 143154,
+    "latitude": 44.96607901168781,
+    "telephone": "0617604751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Topaze",
+    "resultStructId": "696710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue topaze 26320 st marcel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.942448541039275,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855653",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 143675,
+    "latitude": 44.945654729281344,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLucile Herbet",
+    "resultStructId": "560803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue leon jouhaux 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897201148617526,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855696",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 144146,
+    "latitude": 44.94773490097301,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAux P'tits Mômes",
+    "resultStructId": "560804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 avenue tony garnier 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.891434556139835,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12855739",
+    "mail": "petiteenfance.valence@valenceromansagglo.fr",
+    "distance": 144379,
+    "latitude": 44.958966174717396,
+    "telephone": "0475813030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchel'Allet",
+    "resultStructId": "560805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128 place elie cester 26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.905608718855839,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "37723773",
+    "mail": "contact@lespetitespaillettes.fr",
+    "distance": 145099,
+    "latitude": 44.957221869056006,
+    "telephone": "0667419561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petites Paillettes",
+    "resultStructId": "186208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "157 bis avenue de lyon26500 bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8884818796942415,
+    "ville": "lesvalence",
+    "cp": ""
+  },
+  {
+    "resultId": "12859781",
+    "mail": "k.bussac@gb2s-franchise-creche.com",
+    "distance": 146241,
+    "latitude": 44.974136628022286,
+    "telephone": "0475832791",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Nidouille - GB2S",
+    "resultStructId": "57103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue carl von linne 26500bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894358365855017,
+    "ville": "lesvalence",
+    "cp": ""
+  }
+]

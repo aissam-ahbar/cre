@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12555746",
+    "mail": "haltegarderie-mairie-pertuis@orange.fr",
+    "distance": 71887,
+    "latitude": 43.692810495507544,
+    "telephone": "0490790874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"A Petits Pas\"",
+    "resultStructId": "698212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "186 rue de croze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.499328257673912,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12711156",
+    "mail": "optimom@club-internet.fr",
+    "distance": 72225,
+    "latitude": 43.69463112248604,
+    "telephone": "0490097363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Optimon\"",
+    "resultStructId": "5319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier saint clair - route de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.503105532954561,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555660",
+    "mail": "elisabeth.diamante@hotmail.fr",
+    "distance": 72549,
+    "latitude": 43.6985621239745,
+    "telephone": "0490796742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Mistigris\"",
+    "resultStructId": "1703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 chemin des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.506072249843947,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12551919",
+    "mail": "mpe@mairie-pertuis.fr",
+    "distance": 72860,
+    "latitude": 43.69636580287597,
+    "telephone": "0490085410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"A Petits Pas\" (crèche collective)",
+    "resultStructId": "684604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du chanoinetrouillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.510675071335359,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12551919",
+    "mail": "mpe@mairie-pertuis.fr",
+    "distance": 339459,
+    "latitude": 43.69636580287597,
+    "telephone": "0490085410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"A Petits Pas\" (crèche collective)",
+    "resultStructId": "684604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du chanoinetrouillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.510675071335359,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12711156",
+    "mail": "optimom@club-internet.fr",
+    "distance": 339897,
+    "latitude": 43.69463112248604,
+    "telephone": "0490097363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Optimon\"",
+    "resultStructId": "5319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier saint clair - route de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.503105532954561,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555660",
+    "mail": "elisabeth.diamante@hotmail.fr",
+    "distance": 339901,
+    "latitude": 43.6985621239745,
+    "telephone": "0490796742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Mistigris\"",
+    "resultStructId": "1703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 chemin des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.506072249843947,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555746",
+    "mail": "haltegarderie-mairie-pertuis@orange.fr",
+    "distance": 340064,
+    "latitude": 43.692810495507544,
+    "telephone": "0490790874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"A Petits Pas\"",
+    "resultStructId": "698212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "186 rue de croze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.499328257673912,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555746",
+    "mail": "haltegarderie-mairie-pertuis@orange.fr",
+    "distance": 129364,
+    "latitude": 43.692810495507544,
+    "telephone": "0490790874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"A Petits Pas\"",
+    "resultStructId": "698212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "186 rue de croze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.499328257673912,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12711156",
+    "mail": "optimom@club-internet.fr",
+    "distance": 129681,
+    "latitude": 43.69463112248604,
+    "telephone": "0490097363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Optimon\"",
+    "resultStructId": "5319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier saint clair - route de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.503105532954561,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555660",
+    "mail": "elisabeth.diamante@hotmail.fr",
+    "distance": 129952,
+    "latitude": 43.6985621239745,
+    "telephone": "0490796742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Mistigris\"",
+    "resultStructId": "1703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 chemin des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.506072249843947,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12551919",
+    "mail": "mpe@mairie-pertuis.fr",
+    "distance": 130302,
+    "latitude": 43.69636580287597,
+    "telephone": "0490085410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"A Petits Pas\" (crèche collective)",
+    "resultStructId": "684604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du chanoinetrouillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.510675071335359,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12551919",
+    "mail": "mpe@mairie-pertuis.fr",
+    "distance": 52878,
+    "latitude": 43.69636580287597,
+    "telephone": "0490085410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"A Petits Pas\" (crèche collective)",
+    "resultStructId": "684604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du chanoinetrouillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.510675071335359,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555660",
+    "mail": "elisabeth.diamante@hotmail.fr",
+    "distance": 53055,
+    "latitude": 43.6985621239745,
+    "telephone": "0490796742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Mistigris\"",
+    "resultStructId": "1703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 chemin des pres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.506072249843947,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12711156",
+    "mail": "optimom@club-internet.fr",
+    "distance": 53493,
+    "latitude": 43.69463112248604,
+    "telephone": "0490097363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Optimon\"",
+    "resultStructId": "5319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier saint clair - route de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.503105532954561,
+    "ville": "pertuis",
+    "cp": "84120"
+  },
+  {
+    "resultId": "12555746",
+    "mail": "haltegarderie-mairie-pertuis@orange.fr",
+    "distance": 53858,
+    "latitude": 43.692810495507544,
+    "telephone": "0490790874",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie \"A Petits Pas\"",
+    "resultStructId": "698212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "186 rue de croze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.499328257673912,
+    "ville": "pertuis",
+    "cp": "84120"
+  }
+]

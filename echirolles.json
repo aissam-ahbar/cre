@@ -1,0 +1,626 @@
+[
+  {
+    "resultId": "13012474",
+    "mail": "echirolles@les-cherubins.com",
+    "distance": 429572,
+    "latitude": 45.14379319165335,
+    "telephone": "0768192809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Cherubins",
+    "resultStructId": "12356",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue frederic joliot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.730311388686748,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12886613",
+    "mail": "creche.planning@chu-grenoble.fr",
+    "distance": 429724,
+    "latitude": 45.14666830944602,
+    "telephone": "0476765253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBout'chous",
+    "resultStructId": "700010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de kimberley",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.73210564090179,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12893020",
+    "mail": "ma-leslucioles@ville-echirolles.fr",
+    "distance": 429977,
+    "latitude": 45.13863349505854,
+    "telephone": "0476209963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les Lucioles",
+    "resultStructId": "699627",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean henri fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713779463923645,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12882313",
+    "mail": "",
+    "distance": 430132,
+    "latitude": 45.14673724111501,
+    "telephone": "0476704576",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Cèdres",
+    "resultStructId": "700016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee joseph kessel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7242083074472125,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12894482",
+    "mail": "creche-laribambulle@ville-echirolles.fr",
+    "distance": 430603,
+    "latitude": 45.14799495550413,
+    "telephone": "0476236690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Ribambulle",
+    "resultStructId": "700018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue ponson du terrail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.717040004578854,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12892332",
+    "mail": "haltegarderie.lespapillons@ville-echirolles.fr",
+    "distance": 430754,
+    "latitude": 45.155492288010976,
+    "telephone": "0476220008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Papillons",
+    "resultStructId": "700022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 a allee du rhin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726561177802247,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12862146",
+    "mail": "creche-lesmarmousets@ville-echirolles.fr",
+    "distance": 430799,
+    "latitude": 45.15610059160297,
+    "telephone": "0476096772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Marmousets",
+    "resultStructId": "700023",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 allee des vosges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726687596247366,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12859265",
+    "mail": "multiaccueilfamilialeleslutins@ville-echirolles.fr",
+    "distance": 430806,
+    "latitude": 45.15750219630939,
+    "telephone": "0476338352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Lutins",
+    "resultStructId": "699628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.728904491789796,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12891816",
+    "mail": "creche-lapirouette@ville-echirolles.fr",
+    "distance": 430898,
+    "latitude": 45.14870716525406,
+    "telephone": "0476336593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Pirouette",
+    "resultStructId": "700021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue paul heroult",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7124127228797175,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12887000",
+    "mail": "haltegarderie.surieux@ville-echirolles.fr",
+    "distance": 430975,
+    "latitude": 45.15597368742413,
+    "telephone": "0476330410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieSurieux",
+    "resultStructId": "700019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 place beaumarchais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.72301253768397,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12893149",
+    "mail": "haltegarderie.lesessarts@ville-echirolles.fr",
+    "distance": 431386,
+    "latitude": 45.15684774650456,
+    "telephone": "0476095313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Essarts",
+    "resultStructId": "210308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la convention",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.716366649235836,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12898094",
+    "mail": "multiaccueil-ponatiere@ville-echirolles.fr",
+    "distance": 431402,
+    "latitude": 45.14911309962776,
+    "telephone": "0476233233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ponatière",
+    "resultStructId": "700020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.703204998247596,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12891859",
+    "mail": "creche-lafarandole@ville-echirolles.fr",
+    "distance": 431603,
+    "latitude": 45.15256660208031,
+    "telephone": "0476098257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Farandole",
+    "resultStructId": "701451",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de ronsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704977646433105,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12893020",
+    "mail": "ma-leslucioles@ville-echirolles.fr",
+    "distance": 134289,
+    "latitude": 45.13863349505854,
+    "telephone": "0476209963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les Lucioles",
+    "resultStructId": "699627",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean henri fabre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713779463923645,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "13012474",
+    "mail": "echirolles@les-cherubins.com",
+    "distance": 134588,
+    "latitude": 45.14379319165335,
+    "telephone": "0768192809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Cherubins",
+    "resultStructId": "12356",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue frederic joliot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.730311388686748,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12886613",
+    "mail": "creche.planning@chu-grenoble.fr",
+    "distance": 134873,
+    "latitude": 45.14666830944602,
+    "telephone": "0476765253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBout'chous",
+    "resultStructId": "700010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de kimberley",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.73210564090179,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12882313",
+    "mail": "",
+    "distance": 135004,
+    "latitude": 45.14673724111501,
+    "telephone": "0476704576",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Cèdres",
+    "resultStructId": "700016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee joseph kessel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7242083074472125,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12894482",
+    "mail": "creche-laribambulle@ville-echirolles.fr",
+    "distance": 135254,
+    "latitude": 45.14799495550413,
+    "telephone": "0476236690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Ribambulle",
+    "resultStructId": "700018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue ponson du terrail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.717040004578854,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12891816",
+    "mail": "creche-lapirouette@ville-echirolles.fr",
+    "distance": 135407,
+    "latitude": 45.14870716525406,
+    "telephone": "0476336593",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Pirouette",
+    "resultStructId": "700021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue paul heroult",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7124127228797175,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12898094",
+    "mail": "multiaccueil-ponatiere@ville-echirolles.fr",
+    "distance": 135602,
+    "latitude": 45.14911309962776,
+    "telephone": "0476233233",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ponatière",
+    "resultStructId": "700020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.703204998247596,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12892332",
+    "mail": "haltegarderie.lespapillons@ville-echirolles.fr",
+    "distance": 135921,
+    "latitude": 45.155492288010976,
+    "telephone": "0476220008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Papillons",
+    "resultStructId": "700022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 a allee du rhin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726561177802247,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12891859",
+    "mail": "creche-lafarandole@ville-echirolles.fr",
+    "distance": 135948,
+    "latitude": 45.15256660208031,
+    "telephone": "0476098257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Farandole",
+    "resultStructId": "701451",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de ronsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704977646433105,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12862146",
+    "mail": "creche-lesmarmousets@ville-echirolles.fr",
+    "distance": 135985,
+    "latitude": 45.15610059160297,
+    "telephone": "0476096772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Marmousets",
+    "resultStructId": "700023",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 allee des vosges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726687596247366,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12887000",
+    "mail": "haltegarderie.surieux@ville-echirolles.fr",
+    "distance": 136029,
+    "latitude": 45.15597368742413,
+    "telephone": "0476330410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieSurieux",
+    "resultStructId": "700019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 place beaumarchais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.72301253768397,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12859265",
+    "mail": "multiaccueilfamilialeleslutins@ville-echirolles.fr",
+    "distance": 136104,
+    "latitude": 45.15750219630939,
+    "telephone": "0476338352",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Lutins",
+    "resultStructId": "699628",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.728904491789796,
+    "ville": "echirolles",
+    "cp": "38130"
+  },
+  {
+    "resultId": "12893149",
+    "mail": "haltegarderie.lesessarts@ville-echirolles.fr",
+    "distance": 136229,
+    "latitude": 45.15684774650456,
+    "telephone": "0476095313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Essarts",
+    "resultStructId": "210308",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la convention",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.716366649235836,
+    "ville": "echirolles",
+    "cp": "38130"
+  }
+]

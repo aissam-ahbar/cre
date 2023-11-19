@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12885280",
+    "mail": "sandra.briere@ville-sevran.fr",
+    "distance": 148784,
+    "latitude": 48.934672213537254,
+    "telephone": "0141524370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Pavillon aux histoires",
+    "resultStructId": "701443",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de livry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.535134967157768,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667769",
+    "mail": "fabienne.caresmel@ville-sevran.fr",
+    "distance": 148846,
+    "latitude": 48.946078257587665,
+    "telephone": "0141524394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Pont Blanc",
+    "resultStructId": "701445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee des iris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.536780795206084,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33506559",
+    "mail": "roses@apprentis-auteuil.org",
+    "distance": 149002,
+    "latitude": 48.95011943880295,
+    "telephone": "0972607911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Roses",
+    "resultStructId": "700911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 bis avenue montceleux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5355484298370974,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667726",
+    "mail": "isabelle.jodin@ville-sevran.fr",
+    "distance": 149184,
+    "latitude": 48.9386026099104,
+    "telephone": "0141524389",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Péri",
+    "resultStructId": "701436",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1bis rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5304545101367224,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12885323",
+    "mail": "demarches-petite-enfance@ville-sevran.fr",
+    "distance": 149185,
+    "latitude": 48.938475055872196,
+    "telephone": "0141524016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Péri",
+    "resultStructId": "170313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5304049054184565,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33701243",
+    "mail": "kellie.remacle@ville-sevran.fr",
+    "distance": 150116,
+    "latitude": 48.94611414704626,
+    "telephone": "0141524389",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEJEUX BEAUDOTTES",
+    "resultStructId": "701435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee la perouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.519218483291175,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33506017",
+    "mail": "meriem.bezzaouya@apprentis-auteuil.org",
+    "distance": 150222,
+    "latitude": 48.94695672712252,
+    "telephone": "0763875974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Au Fil de l'Eau",
+    "resultStructId": "700908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee bougainville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5179316476908387,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12665146",
+    "mail": "",
+    "distance": 150422,
+    "latitude": 48.93449688758141,
+    "telephone": "0141524016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Rougemont",
+    "resultStructId": "113701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 quinquies rue pierre brossolette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.512453543719284,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667812",
+    "mail": "anne-helene.risse@ville-sevran.fr",
+    "distance": 150434,
+    "latitude": 48.93587588755801,
+    "telephone": "0141524860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Maison Des Colombes",
+    "resultStructId": "701442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5125863783760516,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12878658",
+    "mail": "vmoeson@ville-sevran.fr",
+    "distance": 150568,
+    "latitude": 48.93692028573592,
+    "telephone": "0143838462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Colibris",
+    "resultStructId": "701441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee cezanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5109518622444575,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "51660030",
+    "mail": "secretariat.creche.rmb@aphp.fr",
+    "distance": 150632,
+    "latitude": 48.93637784144611,
+    "telephone": "0141525904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFRANCOISE DOLTO",
+    "resultStructId": "460901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du dr schaeffner",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5099496092015294,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "34240718",
+    "mail": "",
+    "distance": 150632,
+    "latitude": 48.93637784144611,
+    "telephone": "0141525904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière Françoise Dolto",
+    "resultStructId": "117708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du dr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5099496092015294,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33506559",
+    "mail": "roses@apprentis-auteuil.org",
+    "distance": 169896,
+    "latitude": 48.95011943880295,
+    "telephone": "0972607911",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Les Roses",
+    "resultStructId": "700911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 bis avenue montceleux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5355484298370974,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667769",
+    "mail": "fabienne.caresmel@ville-sevran.fr",
+    "distance": 170338,
+    "latitude": 48.946078257587665,
+    "telephone": "0141524394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Pont Blanc",
+    "resultStructId": "701445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee des iris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.536780795206084,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33506017",
+    "mail": "meriem.bezzaouya@apprentis-auteuil.org",
+    "distance": 170350,
+    "latitude": 48.94695672712252,
+    "telephone": "0763875974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Au Fil de l'Eau",
+    "resultStructId": "700908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 allee bougainville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5179316476908387,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "33701243",
+    "mail": "kellie.remacle@ville-sevran.fr",
+    "distance": 170435,
+    "latitude": 48.94611414704626,
+    "telephone": "0141524389",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEJEUX BEAUDOTTES",
+    "resultStructId": "701435",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee la perouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.519218483291175,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667726",
+    "mail": "isabelle.jodin@ville-sevran.fr",
+    "distance": 171202,
+    "latitude": 48.9386026099104,
+    "telephone": "0141524389",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Péri",
+    "resultStructId": "701436",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1bis rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5304545101367224,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12885323",
+    "mail": "demarches-petite-enfance@ville-sevran.fr",
+    "distance": 171216,
+    "latitude": 48.938475055872196,
+    "telephone": "0141524016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Péri",
+    "resultStructId": "170313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue gabriel peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5304049054184565,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12878658",
+    "mail": "vmoeson@ville-sevran.fr",
+    "distance": 171505,
+    "latitude": 48.93692028573592,
+    "telephone": "0143838462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Colibris",
+    "resultStructId": "701441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee cezanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5109518622444575,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "34240718",
+    "mail": "",
+    "distance": 171571,
+    "latitude": 48.93637784144611,
+    "telephone": "0141525904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHospitalière Françoise Dolto",
+    "resultStructId": "117708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du dr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5099496092015294,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "51660030",
+    "mail": "secretariat.creche.rmb@aphp.fr",
+    "distance": 171571,
+    "latitude": 48.93637784144611,
+    "telephone": "0141525904",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFRANCOISE DOLTO",
+    "resultStructId": "460901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du dr schaeffner",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5099496092015294,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12885280",
+    "mail": "sandra.briere@ville-sevran.fr",
+    "distance": 171611,
+    "latitude": 48.934672213537254,
+    "telephone": "0141524370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Pavillon aux histoires",
+    "resultStructId": "701443",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de livry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.535134967157768,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12667812",
+    "mail": "anne-helene.risse@ville-sevran.fr",
+    "distance": 171611,
+    "latitude": 48.93587588755801,
+    "telephone": "0141524860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Maison Des Colombes",
+    "resultStructId": "701442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5125863783760516,
+    "ville": "sevran",
+    "cp": "93270"
+  },
+  {
+    "resultId": "12665146",
+    "mail": "",
+    "distance": 171764,
+    "latitude": 48.93449688758141,
+    "telephone": "0141524016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux Rougemont",
+    "resultStructId": "113701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 quinquies rue pierre brossolette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.512453543719284,
+    "ville": "sevran",
+    "cp": "93270"
+  }
+]

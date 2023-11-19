@@ -1,0 +1,626 @@
+[
+  {
+    "resultId": "60380002",
+    "mail": "contact@tilloucreche.com",
+    "distance": 4565,
+    "latitude": 48.897480807490055,
+    "telephone": "0789281662",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TILLOUCRECHE CLICHY JAURES",
+    "resultStructId": "710115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3076903370791833,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "42713853",
+    "mail": "",
+    "distance": 4603,
+    "latitude": 48.89827651063931,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CLARINETTE",
+    "resultStructId": "231502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41boulevard victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3115876556170716,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "32604840",
+    "mail": "clichy.bonnet@lpcr.fr",
+    "distance": 4604,
+    "latitude": 48.8980420314548,
+    "telephone": "0185608605",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LPCR- CLICHY BONNET",
+    "resultStructId": "400401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11-13 rue bonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.309315929555828,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "33609243",
+    "mail": "contact@babilou.com",
+    "distance": 4618,
+    "latitude": 48.89733316738628,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCLICHY CHANCE MILLY",
+    "resultStructId": "426901",
+    "omegaId": "17249",
+    "avip": false,
+    "adresse": "28 rue chance milly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.303701463316729,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "32751362",
+    "mail": "clichy2@creche-la-maison-bleue.fr",
+    "distance": 4637,
+    "latitude": 48.89771768742535,
+    "telephone": "0141270946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Micro crèche Gasparine",
+    "resultStructId": "96708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue anatolefrance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3048751959688842,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "13030284",
+    "mail": "",
+    "distance": 4709,
+    "latitude": 48.89948712153783,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Fanny",
+    "resultStructId": "12770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13rue fanny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.315018300052987,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12642993",
+    "mail": "",
+    "distance": 4952,
+    "latitude": 48.901155089146144,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HenriBarbusse",
+    "resultStructId": "3734",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.308767186046224,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "24432382",
+    "mail": "info@baboune.fr",
+    "distance": 5000,
+    "latitude": 48.90088915665711,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABOUNEClichy",
+    "resultStructId": "24403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.303726732710769,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "24515299",
+    "mail": "",
+    "distance": 5044,
+    "latitude": 48.90044817985408,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON BLEUE - Au Fil de l'Eau",
+    "resultStructId": "25506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 passage emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2991953692087566,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12643122",
+    "mail": "",
+    "distance": 5111,
+    "latitude": 48.90251486281833,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE LES GALOPINS",
+    "resultStructId": "237508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue palloy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3079289022218994,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12643165",
+    "mail": "",
+    "distance": 5125,
+    "latitude": 48.90265679899885,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEJARDIN EXTRAORDINAIRE",
+    "resultStructId": "3738",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue palloy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.308090465400715,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "33610689",
+    "mail": "contact@babilou.com",
+    "distance": 5133,
+    "latitude": 48.90293731893279,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCLICHY GAMBETTA",
+    "resultStructId": "427301",
+    "omegaId": "1445",
+    "avip": false,
+    "adresse": "27 allee leon gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3100342837792684,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "25497375",
+    "mail": "contact@lbbe.fr",
+    "distance": 5133,
+    "latitude": 48.902820068118714,
+    "telephone": "0641824017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESEXPLORATEURS DE CLICHY",
+    "resultStructId": "36402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue palloy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3088549366354223,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12574967",
+    "mail": "espacemomes@orange.fr",
+    "distance": 5139,
+    "latitude": 48.90345065342371,
+    "telephone": "0147377485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ESPACEMOMES LIEU D'ACCUEIL PARENTS ENFANTS",
+    "resultStructId": "89245",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 bis rue madamede sanzillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3170068176421004,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12643036",
+    "mail": "",
+    "distance": 5177,
+    "latitude": 48.90380064927565,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFLUTE ENCHANTEE crèche",
+    "resultStructId": "3735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 bis rue georges boisseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3173488962101603,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12643079",
+    "mail": "",
+    "distance": 5177,
+    "latitude": 48.90380064927565,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFLUTE ENCHANTEE halte garderie",
+    "resultStructId": "3736",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 bis rue georgesboisseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3173488962101603,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "24420682",
+    "mail": "contact@tilloucreche.com",
+    "distance": 5329,
+    "latitude": 48.90456701966272,
+    "telephone": "0142703521",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TILLOUCLICHY VILLENEUVE",
+    "resultStructId": "710113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3085172624378427,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12515842",
+    "mail": "",
+    "distance": 5338,
+    "latitude": 48.90517794799421,
+    "telephone": "0147398061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEBLE EN HERBE",
+    "resultStructId": "236110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue georges boisseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3154367831726432,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "13030671",
+    "mail": "",
+    "distance": 5408,
+    "latitude": 48.9051188717205,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeLivre d'Images",
+    "resultStructId": "12779",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue gaston paymal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307050024991335,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12823094",
+    "mail": "clichy@lpcr.fr",
+    "distance": 5456,
+    "latitude": 48.9063325502797,
+    "telephone": "0174700555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "395203",
+    "omegaId": "10324",
+    "avip": false,
+    "adresse": "6 allee jean prouve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.318227686298789,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12491883",
+    "mail": "sfmclichy@club-internet.fr",
+    "distance": 5466,
+    "latitude": 48.90528255233468,
+    "telephone": "0147311858",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DAGOBERT",
+    "resultStructId": "237019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110rue martre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.304270148826726,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "12503544",
+    "mail": "creche.clichy@croix-rouge.fr",
+    "distance": 5470,
+    "latitude": 48.90575588826833,
+    "telephone": "0147313342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE de la CROIX ROUGE FRANCAISE",
+    "resultStructId": "97503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.307644275964115,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "13029768",
+    "mail": "",
+    "distance": 5672,
+    "latitude": 48.907348373898664,
+    "telephone": "0147153000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Calypso",
+    "resultStructId": "12758",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17rue alexandre antonini",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3055337999289978,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "58854229",
+    "mail": "clichy@micro-stars.fr",
+    "distance": 5945,
+    "latitude": 48.9100999801238,
+    "telephone": "0146390685",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars de Clichy",
+    "resultStructId": "689611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee paul signac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3077706499737287,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "33610314",
+    "mail": "contact@babilou.com",
+    "distance": 6051,
+    "latitude": 48.91115078235989,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUCLICHY EUROPE",
+    "resultStructId": "429101",
+    "omegaId": "1451",
+    "avip": false,
+    "adresse": "17 allee de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3086154226422875,
+    "ville": "clichy",
+    "cp": "92110"
+  },
+  {
+    "resultId": "59721142",
+    "mail": "directionclichy@bullotins.com",
+    "distance": 6062,
+    "latitude": 48.91129838164802,
+    "telephone": "0184785591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBULLOTINS - CLICHY",
+    "resultStructId": "702504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 - 21 allee de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.309217769351383,
+    "ville": "clichy",
+    "cp": "92110"
+  }
+]

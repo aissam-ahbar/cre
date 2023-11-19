@@ -1,0 +1,100 @@
+[
+  {
+    "resultId": "60311978",
+    "mail": "freneuse@lesptitsbabadins.com",
+    "distance": 133944,
+    "latitude": 49.89075496529719,
+    "telephone": "0235827565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles P'tits Babadins",
+    "resultStructId": "708519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue neuve 76550 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0726059246819002,
+    "ville": "surscie",
+    "cp": ""
+  },
+  {
+    "resultId": "12875562",
+    "mail": "lespoussins@terroirdecaux.net",
+    "distance": 137525,
+    "latitude": 49.79360305440761,
+    "telephone": "0235045604",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "M.A.Les Poussins",
+    "resultStructId": "374701",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2impasse des fleurs 76590 longueville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.107182113059799,
+    "ville": "surscie",
+    "cp": ""
+  },
+  {
+    "resultId": "12875562",
+    "mail": "lespoussins@terroirdecaux.net",
+    "distance": 151884,
+    "latitude": 49.79360305440761,
+    "telephone": "0235045604",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "M.A.Les Poussins",
+    "resultStructId": "374701",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2impasse des fleurs 76590 longueville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.107182113059799,
+    "ville": "surscie",
+    "cp": ""
+  },
+  {
+    "resultId": "60311978",
+    "mail": "freneuse@lesptitsbabadins.com",
+    "distance": 157009,
+    "latitude": 49.89075496529719,
+    "telephone": "0235827565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles P'tits Babadins",
+    "resultStructId": "708519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue neuve 76550 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0726059246819002,
+    "ville": "surscie",
+    "cp": ""
+  }
+]

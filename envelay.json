@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "13040819",
+    "mail": "lapetitepoulerousse@lepuyenvelay.fr",
+    "distance": 175350,
+    "latitude": 45.04309352339422,
+    "telephone": "0471025990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Petite Poule Rousse",
+    "resultStructId": "707730",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place bernard jammes43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8835440337810025,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13040647",
+    "mail": "",
+    "distance": 175350,
+    "latitude": 45.04309352339422,
+    "telephone": "0471077318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Robins des Bois\"",
+    "resultStructId": "198012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint flory -guitard 43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8835440337810025,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13040303",
+    "mail": "lespetitsmousses@lepuyenvelay.fr",
+    "distance": 175412,
+    "latitude": 45.045677639147115,
+    "telephone": "0471070144",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Mousses\"",
+    "resultStructId": "198008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 bis boulevard de larepublique 43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.891364672810632,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "18422910",
+    "mail": "crechedespatiosduvelay@creche-attitude.fr",
+    "distance": 176449,
+    "latitude": 45.052728043461116,
+    "telephone": "0471043531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Patios du Velay",
+    "resultStructId": "125502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 boulevard docteur chantemesse43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8801205201958413,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13039830",
+    "mail": "crechemontfaucon@paysdemontfaucon.fr",
+    "distance": 182543,
+    "latitude": 45.184535766008295,
+    "telephone": "0471656530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Libellules\"",
+    "resultStructId": "63623",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue notre-dame 43290montfaucon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3121012390505955,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13040819",
+    "mail": "lapetitepoulerousse@lepuyenvelay.fr",
+    "distance": 160635,
+    "latitude": 45.04309352339422,
+    "telephone": "0471025990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Petite Poule Rousse",
+    "resultStructId": "707730",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place bernard jammes43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8835440337810025,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13040647",
+    "mail": "",
+    "distance": 160635,
+    "latitude": 45.04309352339422,
+    "telephone": "0471077318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Robins des Bois\"",
+    "resultStructId": "198012",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue saint flory -guitard 43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8835440337810025,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13040303",
+    "mail": "lespetitsmousses@lepuyenvelay.fr",
+    "distance": 160919,
+    "latitude": 45.045677639147115,
+    "telephone": "0471070144",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Petits Mousses\"",
+    "resultStructId": "198008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 bis boulevard de larepublique 43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.891364672810632,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "18422910",
+    "mail": "crechedespatiosduvelay@creche-attitude.fr",
+    "distance": 161708,
+    "latitude": 45.052728043461116,
+    "telephone": "0471043531",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Patios du Velay",
+    "resultStructId": "125502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 boulevard docteur chantemesse43000 le puy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.8801205201958413,
+    "ville": "envelay",
+    "cp": ""
+  },
+  {
+    "resultId": "13039830",
+    "mail": "crechemontfaucon@paysdemontfaucon.fr",
+    "distance": 179418,
+    "latitude": 45.184535766008295,
+    "telephone": "0471656530",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Libellules\"",
+    "resultStructId": "63623",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue notre-dame 43290montfaucon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3121012390505955,
+    "ville": "envelay",
+    "cp": ""
+  }
+]

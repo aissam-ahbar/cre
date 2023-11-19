@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "38798039",
+    "mail": "ma-ilemysterieuse-pdl@vyv3.fr",
+    "distance": 65044,
+    "latitude": 47.260908308013484,
+    "telephone": "0228070384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEMYSTERIEUSE",
+    "resultStructId": "176503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee capitaine grant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6685649158497682,
+    "ville": "sautron",
+    "cp": "44880"
+  },
+  {
+    "resultId": "12498040",
+    "mail": "enfancejeunesse@sautron.fr",
+    "distance": 65300,
+    "latitude": 47.26508510863441,
+    "telephone": "0240949525",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Bouts",
+    "resultStructId": "363",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6774892405361994,
+    "ville": "sautron",
+    "cp": "44880"
+  },
+  {
+    "resultId": "38798039",
+    "mail": "ma-ilemysterieuse-pdl@vyv3.fr",
+    "distance": 65044,
+    "latitude": 47.260908308013484,
+    "telephone": "0228070384",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEMYSTERIEUSE",
+    "resultStructId": "176503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee capitaine grant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6685649158497682,
+    "ville": "sautron",
+    "cp": "44880"
+  },
+  {
+    "resultId": "12498040",
+    "mail": "enfancejeunesse@sautron.fr",
+    "distance": 65300,
+    "latitude": 47.26508510863441,
+    "telephone": "0240949525",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Bouts",
+    "resultStructId": "363",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6774892405361994,
+    "ville": "sautron",
+    "cp": "44880"
+  }
+]

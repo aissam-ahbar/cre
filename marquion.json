@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "59523250",
+    "mail": "microcreche.eed@gmail.com",
+    "distance": 39454,
+    "latitude": 50.20868024728749,
+    "telephone": "0629476170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVEILEN DOUCEUR MARQUION",
+    "resultStructId": "698016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la croisette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0892807618170077,
+    "ville": "marquion",
+    "cp": "62860"
+  },
+  {
+    "resultId": "59783602",
+    "mail": "lesrazzmokets@gmail.com",
+    "distance": 39672,
+    "latitude": 50.20928181194856,
+    "telephone": "0361337102",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesRazzmokets",
+    "resultStructId": "699915",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 route nationale",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.09492922762615,
+    "ville": "marquion",
+    "cp": "62860"
+  }
+]

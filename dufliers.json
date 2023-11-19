@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60265077",
+    "mail": "opal.isae@gmail.com",
+    "distance": 78623,
+    "latitude": 50.41432355876487,
+    "telephone": "0321947934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASOPAL ISAE - GRAINS DE SABLE",
+    "resultStructId": "707722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2594 route de berck 62180rang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.612690805918353,
+    "ville": "dufliers",
+    "cp": ""
+  },
+  {
+    "resultId": "60264984",
+    "mail": "opal.isae@gmail.com",
+    "distance": 78623,
+    "latitude": 50.41432355876487,
+    "telephone": "0321947934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SASOPAL ISAE - Le tipi magique",
+    "resultStructId": "707721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2594 route de berck 62180rang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.612690805918353,
+    "ville": "dufliers",
+    "cp": ""
+  }
+]

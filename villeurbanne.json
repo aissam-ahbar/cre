@@ -1,0 +1,1418 @@
+[
+  {
+    "resultId": "40390301",
+    "mail": "contact@babilou.com",
+    "distance": 171753,
+    "latitude": 45.779110305864855,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCrèche Babilou Villeurbanne Guérin",
+    "resultStructId": "411904",
+    "omegaId": "57586",
+    "avip": false,
+    "adresse": "4 rue louisguerin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.859903245480012,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12639983",
+    "mail": "eaje@castj.org",
+    "distance": 171890,
+    "latitude": 45.786290736359035,
+    "telephone": "0478792616",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Petits Curieux",
+    "resultStructId": "114104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue petite rue du roulet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8960996154093355,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "50160306",
+    "mail": "morgane.bertrand@univ-lyon1.fr",
+    "distance": 172043,
+    "latitude": 45.77921522202349,
+    "telephone": "0472432991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde l'association du CLE",
+    "resultStructId": "405801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 boulevard du 11 novembre1918",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872318431768773,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12790113",
+    "mail": "morgane.bertrand@univ-lyon1.fr",
+    "distance": 172043,
+    "latitude": 45.77921522202349,
+    "telephone": "0472432991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAssociation du CLE",
+    "resultStructId": "450201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 boulevard du 11 novembre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872318431768773,
+    "ville": "villeurbanne",
+    "cp": "191869100"
+  },
+  {
+    "resultId": "12842495",
+    "mail": "",
+    "distance": 172153,
+    "latitude": 45.77597097211136,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Samouraïs",
+    "resultStructId": "116106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.862758495739602,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "35852681",
+    "mail": "",
+    "distance": 172262,
+    "latitude": 45.781067238344924,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilHelen Keller",
+    "resultStructId": "386107",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 rue francoise giroud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8890390929399965,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "34835993",
+    "mail": "celine@papouilles.fr",
+    "distance": 172298,
+    "latitude": 45.77533902974332,
+    "telephone": "0632019546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Papouilles du Tonkin",
+    "resultStructId": "126701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue lakanal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.865959724140135,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "13005164",
+    "mail": "tompouce@maisoncroixluizet.fr",
+    "distance": 172337,
+    "latitude": 45.77995048457403,
+    "telephone": "0478687600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTom Pouce",
+    "resultStructId": "164003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue armand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.887337535346612,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842237",
+    "mail": "",
+    "distance": 172434,
+    "latitude": 45.77334113626665,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Centre de la Petite Enfance",
+    "resultStructId": "116101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee de la nigritellenoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.862855554525063,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12684539",
+    "mail": "croqu.nuage@hotmail.fr",
+    "distance": 172451,
+    "latitude": 45.7728661287635,
+    "telephone": "0980857792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Croq'Nuage",
+    "resultStructId": "94018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 cours andre philip",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.861503216124634,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12593113",
+    "mail": "contact@creche-chat-perche.fr",
+    "distance": 172495,
+    "latitude": 45.77931525415032,
+    "telephone": "0478894466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Le Chat Perché",
+    "resultStructId": "95112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue professeur emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.891002287076368,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12924797",
+    "mail": "villeurbanne2@lpcr.fr",
+    "distance": 172517,
+    "latitude": 45.77273541656485,
+    "telephone": "0437452112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES LES MINUSCULES LE TONKINS",
+    "resultStructId": "10317",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37cours andre philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.863636001631582,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "23598021",
+    "mail": "mc.lelionalunettes@gmail.com",
+    "distance": 172518,
+    "latitude": 45.77764417551084,
+    "telephone": "0981773309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Lion à Lunettes",
+    "resultStructId": "22702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue chateau gaillard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884864207726877,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "27440218",
+    "mail": "villeurbanne2@lcpr.fr",
+    "distance": 172522,
+    "latitude": 45.772726079967505,
+    "telephone": "0437452112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMINUSCULES DU TONKIN",
+    "resultStructId": "39801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37-39 cours andre philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.863815964704343,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12911166",
+    "mail": "p.enfance.ref@cs-charpennestonkin.org",
+    "distance": 172525,
+    "latitude": 45.77292059922175,
+    "telephone": "0478890501",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin des Couleurs",
+    "resultStructId": "94022",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue bat yam",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864790433840722,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12660932",
+    "mail": "p.enfance.ref@cs-charpennestonkin.org",
+    "distance": 172525,
+    "latitude": 45.77292059922175,
+    "telephone": "0478890501",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Tonkinous",
+    "resultStructId": "94024",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue bat yam",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864790433840722,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "34190632",
+    "mail": "",
+    "distance": 172544,
+    "latitude": 45.77448079785126,
+    "telephone": "0760364074",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCocon d'Etoiles Perroncel",
+    "resultStructId": "116215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue alexis perroncel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872353231410473,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "34190497",
+    "mail": "",
+    "distance": 172626,
+    "latitude": 45.771361882557585,
+    "telephone": "0698448481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCocon d'Etoiles Hanoï",
+    "resultStructId": "116214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue d'hanoi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.862163576490802,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842409",
+    "mail": "",
+    "distance": 172679,
+    "latitude": 45.77220322802181,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFrançois Truffaut",
+    "resultStructId": "116208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue jubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868017581898991,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "27800760",
+    "mail": "direction@urbancreches.fr",
+    "distance": 172768,
+    "latitude": 45.775133832906995,
+    "telephone": "0660934127",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Barbotins",
+    "resultStructId": "42001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue des bienvenus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884291597949907,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12924840",
+    "mail": "villeurbanne1@lpcr.fr",
+    "distance": 172843,
+    "latitude": 45.76983373435259,
+    "telephone": "0472742011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES LES MINUSCULESVILLEURBANNE",
+    "resultStructId": "39802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue jules valles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864449553704315,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12592941",
+    "mail": "enfantillage@csbuers.fr",
+    "distance": 172969,
+    "latitude": 45.774824700259124,
+    "telephone": "0472657710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEnfantillage",
+    "resultStructId": "94019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue pierre-joseph proudhon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89106326629937,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "58963018",
+    "mail": "lionelazoulay@hotmail.com",
+    "distance": 173053,
+    "latitude": 45.768891267344216,
+    "telephone": "0618189908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes bambins Do Ré Azur",
+    "resultStructId": "691104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue alexandre boutin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.869047017251662,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "58962863",
+    "mail": "lionelazoulay@hotmail.com",
+    "distance": 173124,
+    "latitude": 45.7682210670213,
+    "telephone": "0618189908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes bambins Do Ré Boutin",
+    "resultStructId": "691101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue alexandre boutin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.869029169941762,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "58962969",
+    "mail": "lionelazoulay@hotmail.com",
+    "distance": 173139,
+    "latitude": 45.76862152824445,
+    "telephone": "0618189908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes bambins Do Ré Magenta",
+    "resultStructId": "691103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue magenta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.871392451227572,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842667",
+    "mail": "",
+    "distance": 173274,
+    "latitude": 45.767948649323635,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPauline Kergomard",
+    "resultStructId": "116207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 cours de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87401288062877,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "32970049",
+    "mail": "creche.arcengratteciel@gmail.com",
+    "distance": 173323,
+    "latitude": 45.76715081484348,
+    "telephone": "0695120417",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Arc en Gratte Ciel",
+    "resultStructId": "98027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87256276495982,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "23817332",
+    "mail": "contact@mc-lespetitesabeilles.fr",
+    "distance": 173547,
+    "latitude": 45.769636617822,
+    "telephone": "0472568359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrècheles petites abeilles",
+    "resultStructId": "71501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "256 rue francis de pressense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.892325982404947,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "59541928",
+    "mail": "villeurbanne.agnesvarda@lpcr.fr",
+    "distance": 173560,
+    "latitude": 45.76652588669172,
+    "telephone": "0487388375",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-cècheAgnès Varda",
+    "resultStructId": "698302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 esplanade agnes varda",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87959384432082,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12606916",
+    "mail": "cecile.martini@garderisettes.fr",
+    "distance": 173668,
+    "latitude": 45.76431524573083,
+    "telephone": "0472070751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGarderisettes Villeurbanne",
+    "resultStructId": "2895",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "83 cours de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.874463531959736,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12927592",
+    "mail": "creche@petitnemo.fr",
+    "distance": 173705,
+    "latitude": 45.76694911671106,
+    "telephone": "0478854020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Petit Némo",
+    "resultStructId": "685806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.887292917071864,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "27536997",
+    "mail": "contact@crechicrecha.com",
+    "distance": 173727,
+    "latitude": 45.76404080204802,
+    "telephone": "0613493831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHICRECHA LES BLEUS DE THULA",
+    "resultStructId": "40105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue du 4 aout 1789",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87567782361421,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "28617854",
+    "mail": "cphaya@hotmail.fr",
+    "distance": 173768,
+    "latitude": 45.76877195982636,
+    "telephone": "0478682985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Haya",
+    "resultStructId": "682103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "293 rue francis de pressense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897532811126485,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12593070",
+    "mail": "jpmmouchka@hotmail.fr",
+    "distance": 173785,
+    "latitude": 45.76849747812124,
+    "telephone": "0478684957",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Mouchka",
+    "resultStructId": "94030",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "293 rue francis de pressense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897064514221637,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "46669518",
+    "mail": "dir.villenciel@bottinesetbottillons.fr",
+    "distance": 173785,
+    "latitude": 45.76564108216518,
+    "telephone": "0659904989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBBS VILLENCIEL",
+    "resultStructId": "326402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue docteur rollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884955374284959,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "34190743",
+    "mail": "",
+    "distance": 173799,
+    "latitude": 45.764498507511284,
+    "telephone": "0760864076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCocon d'Etoiles Verlaine",
+    "resultStructId": "116217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59 rue paul verlaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.880618023169593,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842581",
+    "mail": "",
+    "distance": 173888,
+    "latitude": 45.7633399343481,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilHannah Arendt",
+    "resultStructId": "116104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 a rue baudelaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.879267504893794,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "27763160",
+    "mail": "eajepcassenoisettes@cscusset.fr",
+    "distance": 173952,
+    "latitude": 45.76773241743745,
+    "telephone": "0472657171",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Casse-Noisettes",
+    "resultStructId": "41402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87-89 rue pierre voyant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.900479104535665,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12600509",
+    "mail": "eajelesecureuils@cscusset.fr",
+    "distance": 173952,
+    "latitude": 45.76773241743745,
+    "telephone": "0472657170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Ecureuils",
+    "resultStructId": "107103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87-89 rue pierre voyant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.900479104535665,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842624",
+    "mail": "",
+    "distance": 174014,
+    "latitude": 45.764752055194066,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilNelly Roussel",
+    "resultStructId": "116206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40/42 rue jules kumer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.890407367827569,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842452",
+    "mail": "",
+    "distance": 174026,
+    "latitude": 45.76448851735235,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiede la Perralière",
+    "resultStructId": "116105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 rue du 4-aout-1789",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.889788651808817,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12927549",
+    "mail": "creche@petitnemo.fr",
+    "distance": 174183,
+    "latitude": 45.76365768003533,
+    "telephone": "0478854020",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby Némo",
+    "resultStructId": "684801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la baisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.892597732707219,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12669446",
+    "mail": "",
+    "distance": 174183,
+    "latitude": 45.76365743120198,
+    "telephone": "0478031466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPEP'ITOUS",
+    "resultStructId": "4349",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue de la baisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.892596670663151,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842323",
+    "mail": "",
+    "distance": 174343,
+    "latitude": 45.76299753375517,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEugénie Niboyet",
+    "resultStructId": "116102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.896224190782707,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "32635896",
+    "mail": "creche-jeanjacques-rousseau@leaetleo.com",
+    "distance": 174483,
+    "latitude": 45.75726640403348,
+    "telephone": "0426785250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJean-Jacques Rousseau",
+    "resultStructId": "684805",
+    "omegaId": "52284",
+    "avip": false,
+    "adresse": "12 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.877357914561352,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "33628922",
+    "mail": "",
+    "distance": 174512,
+    "latitude": 45.76046162879884,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJanusz Korczak",
+    "resultStructId": "116203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21-25 rue du docteur frappaz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8922560793932135,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "58853071",
+    "mail": "creche.lovelymontessori@gmail.com",
+    "distance": 174530,
+    "latitude": 45.76090747545502,
+    "telephone": "0954654138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLovely Montessori",
+    "resultStructId": "689604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 boulevard eugene reguillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.89487504922734,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12672800",
+    "mail": "villeurbanne@crechelesmarsupiaux.fr",
+    "distance": 174548,
+    "latitude": 45.75841850205636,
+    "telephone": "0472307414",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Marsupiaux",
+    "resultStructId": "4427",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue antonin perrin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885006988346589,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842538",
+    "mail": "",
+    "distance": 174600,
+    "latitude": 45.75731752767903,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Hormat",
+    "resultStructId": "116204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.882383394459382,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "58962922",
+    "mail": "lionelazoulay@hotmail.com",
+    "distance": 174694,
+    "latitude": 45.755091401628505,
+    "telephone": "0618189908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes bambins Do Ré Rubis",
+    "resultStructId": "691102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue paul pechoux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87659345478734,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "59367319",
+    "mail": "contact@abeilleetpapillon.fr",
+    "distance": 174783,
+    "latitude": 45.75974845968981,
+    "telephone": "0622497814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAbeille et Papillon",
+    "resultStructId": "706405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue emile decorps",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.900147442026706,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842280",
+    "mail": "",
+    "distance": 174783,
+    "latitude": 45.75524211634423,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilVictor Hugo",
+    "resultStructId": "116209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.880890147144894,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "37201769",
+    "mail": "petitbloom@mfrpds.fr",
+    "distance": 174833,
+    "latitude": 45.76075715277854,
+    "telephone": "0481655281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Bloom",
+    "resultStructId": "153701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "171-173 rue leon blum",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.906332431827926,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12652797",
+    "mail": "lespetitsleonard@mfrpds.fr",
+    "distance": 175081,
+    "latitude": 45.756194739730574,
+    "telephone": "0478187885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Léonard",
+    "resultStructId": "115114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 avenue paul kruger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.897077899904735,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12592984",
+    "mail": "",
+    "distance": 175327,
+    "latitude": 45.75526079539046,
+    "telephone": "0472686871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilhome",
+    "resultStructId": "117105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue jules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.903012219411512,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "34145105",
+    "mail": "crechepepilou@lespep69.org",
+    "distance": 175391,
+    "latitude": 45.75490589244285,
+    "telephone": "0478031466",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPepilou",
+    "resultStructId": "115701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue jean-baptiste durand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.904056302693156,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12842366",
+    "mail": "",
+    "distance": 175406,
+    "latitude": 45.75623521029865,
+    "telephone": "0478036784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFlora Tristan",
+    "resultStructId": "116103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 allee des cedres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.91021222962011,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12593156",
+    "mail": "resp-gribouille@mscyprianlesbrosses.fr",
+    "distance": 175716,
+    "latitude": 45.75415745282452,
+    "telephone": "0472375319",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGribouille",
+    "resultStructId": "698001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue severine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.913819968685258,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  },
+  {
+    "resultId": "12907511",
+    "mail": "damien@lamaisondepilou.fr",
+    "distance": 176149,
+    "latitude": 45.75002713627618,
+    "telephone": "0624709027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchela Maison de Pilou Villeurbanne Voillot",
+    "resultStructId": "601901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "223 rue jeanvoillot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.913802121375359,
+    "ville": "villeurbanne",
+    "cp": "69100"
+  }
+]

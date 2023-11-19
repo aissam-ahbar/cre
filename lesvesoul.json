@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "43539972",
+    "mail": "lejardindesboutschoux@fede70.admr.org",
+    "distance": 154281,
+    "latitude": 47.61332701679934,
+    "telephone": "0384760063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEJARDIN DES BOUTS D'CHOUX",
+    "resultStructId": "685802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des droits de l'homme70000 noidans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.1309291867151865,
+    "ville": "lesvesoul",
+    "cp": ""
+  },
+  {
+    "resultId": "43538087",
+    "mail": "microcrechefrotey@fede70.admr.org",
+    "distance": 158202,
+    "latitude": 47.621424916996304,
+    "telephone": "0384680724",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrècheles p'tits sabots",
+    "resultStructId": "685804",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "20 bis ruemarcel rozard 70000 frotey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.181863900638745,
+    "ville": "lesvesoul",
+    "cp": ""
+  }
+]

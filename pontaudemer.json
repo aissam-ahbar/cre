@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13020867",
+    "mail": "ingrid.boimare@ville-pont-audemer.fr",
+    "distance": 89311,
+    "latitude": 49.35268570357535,
+    "telephone": "0232422250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMarelle (Pont-Audemer)",
+    "resultStructId": "12551",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pierre de coubertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5263276155227841,
+    "ville": "pontaudemer",
+    "cp": "27500"
+  }
+]

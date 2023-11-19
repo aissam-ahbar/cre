@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13001122",
+    "mail": "crechedirection.lecci@orange.fr",
+    "distance": 55053,
+    "latitude": 41.68058299270875,
+    "telephone": "0495102589",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMUNICIPALE DE LECCI",
+    "resultStructId": "180406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "mairie de lecci",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.318712117032451,
+    "ville": "lecci",
+    "cp": "20137"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12693698",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 234314,
+    "latitude": 43.8038951460009,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'olivier",
+    "resultStructId": "579101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "264 chemin du pilon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.3212788536531574,
+    "ville": "contes",
+    "cp": "06390"
+  },
+  {
+    "resultId": "12693698",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 102328,
+    "latitude": 43.8038951460009,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAL'olivier",
+    "resultStructId": "579101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "264 chemin du pilon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.3212788536531574,
+    "ville": "contes",
+    "cp": "06390"
+  }
+]

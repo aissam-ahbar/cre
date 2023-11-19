@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12800949",
+    "mail": "creche-montblanc@orange.fr",
+    "distance": 103498,
+    "latitude": 43.396411423928534,
+    "telephone": "0467376661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Jeunes Pousses",
+    "resultStructId": "176502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 lotissement les vignes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3625931385204533,
+    "ville": "montblanc",
+    "cp": "34290"
+  },
+  {
+    "resultId": "12601842",
+    "mail": "",
+    "distance": 455534,
+    "latitude": 45.91318697813013,
+    "telephone": "0450533741",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaGrainederie",
+    "resultStructId": "2777",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "190 descente joseph-marie couttet 74400chamonix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.853260140547363,
+    "ville": "montblanc",
+    "cp": ""
+  },
+  {
+    "resultId": "12568990",
+    "mail": "",
+    "distance": 456101,
+    "latitude": 45.92372055361944,
+    "telephone": "0450539215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Créchefamiliale",
+    "resultStructId": "2013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "creche familiale ccas mairie de chamonix b.p89 74402 74400 chamonix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.8692713278962865,
+    "ville": "montblanc",
+    "cp": ""
+  },
+  {
+    "resultId": "12601756",
+    "mail": "creche.cham@chamonix.fr",
+    "distance": 456251,
+    "latitude": 45.92586473745876,
+    "telephone": "0450533668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Centre",
+    "resultStructId": "2775",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94promenade du fori 74400 chamonix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.871448309281292,
+    "ville": "montblanc",
+    "cp": ""
+  },
+  {
+    "resultId": "12800949",
+    "mail": "creche-montblanc@orange.fr",
+    "distance": 48600,
+    "latitude": 43.396411423928534,
+    "telephone": "0467376661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Jeunes Pousses",
+    "resultStructId": "176502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 lotissement les vignes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3625931385204533,
+    "ville": "montblanc",
+    "cp": "34290"
+  }
+]

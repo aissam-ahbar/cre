@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13064512",
+    "mail": "multiaccueil.fronton@cc-dufrontonnais.fr",
+    "distance": 141796,
+    "latitude": 43.837765889555456,
+    "telephone": "0562790885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Fronton",
+    "resultStructId": "525002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.390483790593521,
+    "ville": "fronton",
+    "cp": "31620"
+  }
+]

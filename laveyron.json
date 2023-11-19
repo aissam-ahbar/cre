@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12860039",
+    "mail": "la-patoune@laposte.net",
+    "distance": 184044,
+    "latitude": 45.207936208084966,
+    "telephone": "0475038070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Patoune",
+    "resultStructId": "169009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "89 rue de la paradisiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81399477968399,
+    "ville": "laveyron",
+    "cp": "26240"
+  },
+  {
+    "resultId": "12860039",
+    "mail": "la-patoune@laposte.net",
+    "distance": 170667,
+    "latitude": 45.207936208084966,
+    "telephone": "0475038070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Patoune",
+    "resultStructId": "169009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "89 rue de la paradisiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81399477968399,
+    "ville": "laveyron",
+    "cp": "26240"
+  }
+]

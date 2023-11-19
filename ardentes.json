@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12773816",
+    "mail": "multiaccueilpitchouns@mairie-ardentes.com",
+    "distance": 184739,
+    "latitude": 46.74102275063279,
+    "telephone": "0254366118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pitchouns",
+    "resultStructId": "191002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue george sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.832365663399083,
+    "ville": "ardentes",
+    "cp": "36120"
+  },
+  {
+    "resultId": "12773816",
+    "mail": "multiaccueilpitchouns@mairie-ardentes.com",
+    "distance": 31308,
+    "latitude": 46.74102275063279,
+    "telephone": "0254366118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Pitchouns",
+    "resultStructId": "191002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue george sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.832365663399083,
+    "ville": "ardentes",
+    "cp": "36120"
+  }
+]

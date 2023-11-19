@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "48862568",
+    "mail": "bonjourstandre@plantine.fr",
+    "distance": 124338,
+    "latitude": 43.55985793505759,
+    "telephone": "0559747022",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PlantineSaint André",
+    "resultStructId": "681824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1129 route de saint martin de hinx 40390 standre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3401704133045635,
+    "ville": "deseignanx",
+    "cp": ""
+  },
+  {
+    "resultId": "34999445",
+    "mail": "lodyssseedesenfants64@gmail.com",
+    "distance": 127623,
+    "latitude": 43.54048949339362,
+    "telephone": "0952885717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Odyséedes enfants",
+    "resultStructId": "128901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee de saubeyres 40390 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.371103432749106,
+    "ville": "deseignanx",
+    "cp": ""
+  },
+  {
+    "resultId": "20524828",
+    "mail": "eaje@saintmartindeseignanx.fr",
+    "distance": 128413,
+    "latitude": 43.54150409327726,
+    "telephone": "0559566394",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'îleaux enfants",
+    "resultStructId": "120907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "402 rue de gascogne 40390 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3863161203245682,
+    "ville": "deseignanx",
+    "cp": ""
+  }
+]

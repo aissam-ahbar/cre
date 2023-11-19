@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12899943",
+    "mail": "poleressourcespe@agglodebrive.fr",
+    "distance": 168591,
+    "latitude": 45.16428832187042,
+    "telephone": "0555182404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial de Malemort",
+    "resultStructId": "9739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5614503549528231,
+    "ville": "malemort",
+    "cp": "19360"
+  },
+  {
+    "resultId": "12899556",
+    "mail": "rape@agglodebrive.fr",
+    "distance": 168591,
+    "latitude": 45.16428832187042,
+    "telephone": "0555182404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison de l'Enfant de Malemort : multi-accueilcollectif",
+    "resultStructId": "217902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5614503549528231,
+    "ville": "malemort",
+    "cp": "19360"
+  }
+]

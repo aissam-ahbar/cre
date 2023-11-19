@@ -1,0 +1,650 @@
+[
+  {
+    "resultId": "12629792",
+    "mail": "creche.lesvignerons@ville-draguignan.fr",
+    "distance": 148101,
+    "latitude": 43.53383176893387,
+    "telephone": "0494507747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesVignerons",
+    "resultStructId": "708721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vignerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463057822603824,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "21349273",
+    "mail": "",
+    "distance": 148104,
+    "latitude": 43.53808615146537,
+    "telephone": "0494672103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minibulle",
+    "resultStructId": "703420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251avenue verdun le monastir appt 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629964",
+    "mail": "creche.petitprince@ville-draguignan.fr",
+    "distance": 148104,
+    "latitude": 43.53808615146537,
+    "telephone": "0494687177",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaPlanète du Petit Prince",
+    "resultStructId": "708723",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "62 avenue du 551eme bataillondes parachutistes americains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12632501",
+    "mail": "creche.lesbelugues@ville-draguignan.fr",
+    "distance": 148104,
+    "latitude": 43.53808615146537,
+    "telephone": "0494670939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBelugues",
+    "resultStructId": "708722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 avenue 551 eme bataillon des parasamericains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "13017505",
+    "mail": "",
+    "distance": 148104,
+    "latitude": 43.53808615146537,
+    "telephone": "0498106089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aupays des Nistouns",
+    "resultStructId": "12473",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue verdun hlm les colettes bat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "183300"
+  },
+  {
+    "resultId": "12629921",
+    "mail": "baby.club@free.fr",
+    "distance": 148416,
+    "latitude": 43.52985280990386,
+    "telephone": "0494472036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBaby-Club",
+    "resultStructId": "15611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "290 chemin jean rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.466793160036464,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12853675",
+    "mail": "draguignan.chabran@koalakids.fr",
+    "distance": 148990,
+    "latitude": 43.531679008514104,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ATELIERDES KIDS",
+    "resultStructId": "677912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.474005109628003,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12896933",
+    "mail": "draguignan@creche-la-maison-bleue.fr",
+    "distance": 149733,
+    "latitude": 43.531474653561574,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPITCHOLINE",
+    "resultStructId": "9669",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 boulevard aubanel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.483213576325021,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12633533",
+    "mail": "creche.eaudescollines@ville-draguignan.fr",
+    "distance": 150035,
+    "latitude": 43.528772751503354,
+    "telephone": "0494507381",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'eaudes Collines",
+    "resultStructId": "708719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin sainte barbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.486838481575292,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12633533",
+    "mail": "creche.eaudescollines@ville-draguignan.fr",
+    "distance": 262866,
+    "latitude": 43.528772751503354,
+    "telephone": "0494507381",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'eaudes Collines",
+    "resultStructId": "708719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin sainte barbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.486838481575292,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12896933",
+    "mail": "draguignan@creche-la-maison-bleue.fr",
+    "distance": 263278,
+    "latitude": 43.531474653561574,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPITCHOLINE",
+    "resultStructId": "9669",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 boulevard aubanel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.483213576325021,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12853675",
+    "mail": "draguignan.chabran@koalakids.fr",
+    "distance": 263900,
+    "latitude": 43.531679008514104,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ATELIERDES KIDS",
+    "resultStructId": "677912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.474005109628003,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629921",
+    "mail": "baby.club@free.fr",
+    "distance": 264263,
+    "latitude": 43.52985280990386,
+    "telephone": "0494472036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBaby-Club",
+    "resultStructId": "15611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "290 chemin jean rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.466793160036464,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629792",
+    "mail": "creche.lesvignerons@ville-draguignan.fr",
+    "distance": 264762,
+    "latitude": 43.53383176893387,
+    "telephone": "0494507747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesVignerons",
+    "resultStructId": "708721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vignerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463057822603824,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "21349273",
+    "mail": "",
+    "distance": 265018,
+    "latitude": 43.53808615146537,
+    "telephone": "0494672103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minibulle",
+    "resultStructId": "703420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251avenue verdun le monastir appt 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12632501",
+    "mail": "creche.lesbelugues@ville-draguignan.fr",
+    "distance": 265018,
+    "latitude": 43.53808615146537,
+    "telephone": "0494670939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBelugues",
+    "resultStructId": "708722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 avenue 551 eme bataillon des parasamericains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629964",
+    "mail": "creche.petitprince@ville-draguignan.fr",
+    "distance": 265018,
+    "latitude": 43.53808615146537,
+    "telephone": "0494687177",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaPlanète du Petit Prince",
+    "resultStructId": "708723",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "62 avenue du 551eme bataillondes parachutistes americains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "13017505",
+    "mail": "",
+    "distance": 265018,
+    "latitude": 43.53808615146537,
+    "telephone": "0498106089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aupays des Nistouns",
+    "resultStructId": "12473",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue verdun hlm les colettes bat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "183300"
+  },
+  {
+    "resultId": "21349273",
+    "mail": "",
+    "distance": 56610,
+    "latitude": 43.53808615146537,
+    "telephone": "0494672103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Minibulle",
+    "resultStructId": "703420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251avenue verdun le monastir appt 2",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629964",
+    "mail": "creche.petitprince@ville-draguignan.fr",
+    "distance": 56610,
+    "latitude": 43.53808615146537,
+    "telephone": "0494687177",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaPlanète du Petit Prince",
+    "resultStructId": "708723",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "62 avenue du 551eme bataillondes parachutistes americains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12632501",
+    "mail": "creche.lesbelugues@ville-draguignan.fr",
+    "distance": 56610,
+    "latitude": 43.53808615146537,
+    "telephone": "0494670939",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBelugues",
+    "resultStructId": "708722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 avenue 551 eme bataillon des parasamericains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "13017505",
+    "mail": "",
+    "distance": 56610,
+    "latitude": 43.53808615146537,
+    "telephone": "0498106089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aupays des Nistouns",
+    "resultStructId": "12473",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue verdun hlm les colettes bat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463263129214855,
+    "ville": "draguignan",
+    "cp": "183300"
+  },
+  {
+    "resultId": "12629792",
+    "mail": "creche.lesvignerons@ville-draguignan.fr",
+    "distance": 56991,
+    "latitude": 43.53383176893387,
+    "telephone": "0494507747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesVignerons",
+    "resultStructId": "708721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vignerons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.463057822603824,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12629921",
+    "mail": "baby.club@free.fr",
+    "distance": 57526,
+    "latitude": 43.52985280990386,
+    "telephone": "0494472036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBaby-Club",
+    "resultStructId": "15611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "290 chemin jean rostand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.466793160036464,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12853675",
+    "mail": "draguignan.chabran@koalakids.fr",
+    "distance": 57689,
+    "latitude": 43.531679008514104,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ATELIERDES KIDS",
+    "resultStructId": "677912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.474005109628003,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12896933",
+    "mail": "draguignan@creche-la-maison-bleue.fr",
+    "distance": 58135,
+    "latitude": 43.531474653561574,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPITCHOLINE",
+    "resultStructId": "9669",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 boulevard aubanel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.483213576325021,
+    "ville": "draguignan",
+    "cp": "83300"
+  },
+  {
+    "resultId": "12633533",
+    "mail": "creche.eaudescollines@ville-draguignan.fr",
+    "distance": 58549,
+    "latitude": 43.528772751503354,
+    "telephone": "0494507381",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'eaudes Collines",
+    "resultStructId": "708719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin sainte barbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.486838481575292,
+    "ville": "draguignan",
+    "cp": "83300"
+  }
+]

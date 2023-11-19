@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "53011028",
+    "mail": "contact@les-degourdis.com",
+    "distance": 62835,
+    "latitude": 44.17801682690777,
+    "telephone": "0656678739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDégourdis",
+    "resultStructId": "508902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue lieu dit buscasse 47310 ste colombe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5156539646219258,
+    "ville": "enbruilhois",
+    "cp": ""
+  },
+  {
+    "resultId": "12509177",
+    "mail": "",
+    "distance": 62835,
+    "latitude": 44.17801682690777,
+    "telephone": "0553670707",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Le Blé en Herbe\" Ste Colombe en Bruilhois",
+    "resultStructId": "118402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "au bourg47310 ste colombe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5156539646219258,
+    "ville": "enbruilhois",
+    "cp": ""
+  }
+]

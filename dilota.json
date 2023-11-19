@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12729741",
+    "mail": "enjeuducap@orange.fr",
+    "distance": 69791,
+    "latitude": 42.72174623907393,
+    "telephone": "0495344528",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Enjeudu Cap",
+    "resultStructId": "5781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 route grisgione 20200 san martino",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.455320672267405,
+    "ville": "dilota",
+    "cp": ""
+  },
+  {
+    "resultId": "12734557",
+    "mail": "creche.asumente@ugrm-2b.fr",
+    "distance": 71963,
+    "latitude": 42.74280119890213,
+    "telephone": "0495368835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ASumente",
+    "resultStructId": "5893",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit route du tennis - lieu mocali 20200santa maria",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.456326676617296,
+    "ville": "dilota",
+    "cp": ""
+  }
+]

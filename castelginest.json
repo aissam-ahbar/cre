@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13060169",
+    "mail": "garderie@mairie-castelginest.fr",
+    "distance": 152071,
+    "latitude": 43.69517917622763,
+    "telephone": "0561709594",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilMunicipal de CASTELGINEST",
+    "resultStructId": "673702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin des barrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.434635631433938,
+    "ville": "castelginest",
+    "cp": "31780"
+  },
+  {
+    "resultId": "13060083",
+    "mail": "creches@mairie-castelginest.fr",
+    "distance": 152071,
+    "latitude": 43.69517917622763,
+    "telephone": "0561705115",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Municipale de Castelginest",
+    "resultStructId": "674206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin desbarrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.434635631433938,
+    "ville": "castelginest",
+    "cp": "31780"
+  }
+]

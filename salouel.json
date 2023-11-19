@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12713521",
+    "mail": "nid-dabeilles@orange.fr",
+    "distance": 75222,
+    "latitude": 49.86987954321896,
+    "telephone": "0322956389",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NIDD'ABEILLES",
+    "resultStructId": "257305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee fulgence lapostolle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.242020381571529,
+    "ville": "salouel",
+    "cp": "80480"
+  },
+  {
+    "resultId": "12732622",
+    "mail": "petitprincesalouel@orange.fr",
+    "distance": 75290,
+    "latitude": 49.8656832436894,
+    "telephone": "0322389011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITPRINCE",
+    "resultStructId": "257601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue des aubretias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.253028706283895,
+    "ville": "salouel",
+    "cp": "80480"
+  }
+]

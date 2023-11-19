@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12893837",
+    "mail": "halte-garderie@oignies.fr",
+    "distance": 19778,
+    "latitude": 50.46864901252169,
+    "telephone": "0321407051",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Les P'tits Pieds\"",
+    "resultStructId": "672002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9984897216331547,
+    "ville": "oignies",
+    "cp": "62590"
+  },
+  {
+    "resultId": "37280219",
+    "mail": "contact@lesptitschtis.fr",
+    "distance": 20046,
+    "latitude": 50.4598576399441,
+    "telephone": "0321371533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOLIBRIS",
+    "resultStructId": "154710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des grives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0015401952182983,
+    "ville": "oignies",
+    "cp": "62590"
+  },
+  {
+    "resultId": "59528159",
+    "mail": "contact@lesptitschtis.fr",
+    "distance": 20274,
+    "latitude": 50.459735424301556,
+    "telephone": "0321371533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCOLIBRIS",
+    "resultStructId": "698102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des grives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0047646180157863,
+    "ville": "oignies",
+    "cp": "62590"
+  },
+  {
+    "resultId": "12696923",
+    "mail": "contact@creches-entreprises.fr",
+    "distance": 20846,
+    "latitude": 50.47201232225541,
+    "telephone": "0321080772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Monde de Siméon - Carvin",
+    "resultStructId": "683513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue emile basly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.013685298413697,
+    "ville": "oignies",
+    "cp": "62590"
+  },
+  {
+    "resultId": "58333806",
+    "mail": "",
+    "distance": 20846,
+    "latitude": 50.47201232225541,
+    "telephone": "0634773990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Monde de Siméon - Oignies",
+    "resultStructId": "683514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue emile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.013685298413697,
+    "ville": "oignies",
+    "cp": "62590"
+  },
+  {
+    "resultId": "41204246",
+    "mail": "lepetitmondedesimeon.sr@gmail.com",
+    "distance": 20846,
+    "latitude": 50.47201232225541,
+    "telephone": "0321080772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT MONDE DE SIMEON",
+    "resultStructId": "655901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 rue emile basly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.013685298413697,
+    "ville": "oignies",
+    "cp": "62590"
+  }
+]

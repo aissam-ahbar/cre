@@ -1,0 +1,1346 @@
+[
+  {
+    "resultId": "12969947",
+    "mail": "creche.simon@mairie-perpignan.com",
+    "distance": 166914,
+    "latitude": 42.69451821672676,
+    "telephone": "0468636122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Claude Simon",
+    "resultStructId": "703110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la roseraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9435442912486476,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12603347",
+    "mail": "perpignan@lpcr.fr",
+    "distance": 167818,
+    "latitude": 42.73334533156821,
+    "telephone": "0953477038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges - Perpignan",
+    "resultStructId": "2812",
+    "omegaId": "2430",
+    "avip": false,
+    "adresse": "rue beau de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.893486894653427,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12685657",
+    "mail": "babysonge@free.fr",
+    "distance": 167890,
+    "latitude": 42.69769431331818,
+    "telephone": "0953236634",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYSONGE",
+    "resultStructId": "4726",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jacques antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.925795121429448,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12695676",
+    "mail": "valerie.monchau@orange.fr",
+    "distance": 168414,
+    "latitude": 42.72404719415395,
+    "telephone": "0468633559",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les p'tites merveilles\"",
+    "resultStructId": "4959",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue georges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8931875974027363,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12872466",
+    "mail": "creche.leshirondelles@mfgs.fr",
+    "distance": 168524,
+    "latitude": 42.72779231505059,
+    "telephone": "0468897568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Hirondelles",
+    "resultStructId": "293801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "314 avenue du languedoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8881444450395115,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12827480",
+    "mail": "pyrenees.orientales@ufcv.fr",
+    "distance": 168570,
+    "latitude": 42.717311957878046,
+    "telephone": "0468084978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderie\"AINSI FONT LES PETITS\"",
+    "resultStructId": "8054",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue niccolo paganini",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.897105140656083,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12512359",
+    "mail": "caroline.hesel@mnhsae.fr",
+    "distance": 168853,
+    "latitude": 42.72611297304327,
+    "telephone": "0468616608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JoanPetit",
+    "resultStructId": "683705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue fernand leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8848259313157203,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12761561",
+    "mail": "eaje-saint-gauderique.cafperpignan@caf.fr",
+    "distance": 169266,
+    "latitude": 42.691273105737395,
+    "telephone": "0468287555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Gaudérique",
+    "resultStructId": "695603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue nature",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9113398997971833,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875820",
+    "mail": "creche.despres@mairie-perpignan.com",
+    "distance": 169368,
+    "latitude": 42.69807506167534,
+    "telephone": "0468663007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Hippolyte Desprès",
+    "resultStructId": "703108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue fustel decoulanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9033053823052763,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875648",
+    "mail": "creche.familiale@mairie-perpignan.com",
+    "distance": 169448,
+    "latitude": 42.709655616687144,
+    "telephone": "0468663590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale (Moyen-Vernet, St-Assiscle, Las Cobas,Vertefeuille)",
+    "resultStructId": "703107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean-victor poncelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8912024370064877,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12696149",
+    "mail": "clairebernard66@hotmail.fr",
+    "distance": 169657,
+    "latitude": 42.715151093374345,
+    "telephone": "0468356141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaToupie",
+    "resultStructId": "700741",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des mesanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8830072953323267,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12697869",
+    "mail": "julie.alaminos@apprentis-auteuil.org",
+    "distance": 169829,
+    "latitude": 42.70220323560523,
+    "telephone": "0468862570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Anges",
+    "resultStructId": "5010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du marche aux bestiaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8925357431765857,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875777",
+    "mail": "creche.moulinavent@mairie-perpignan.com",
+    "distance": 169873,
+    "latitude": 42.699397681199315,
+    "telephone": "0468636116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Moulin à Vent",
+    "resultStructId": "703021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'alghero",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12724108",
+    "mail": "contact@les-moments-enchantes.fr",
+    "distance": 169873,
+    "latitude": 42.699397681199315,
+    "telephone": "0468738138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les Moments Enchantés\"",
+    "resultStructId": "5650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "km 4 route d'elne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12683507",
+    "mail": "petitdhom@crechesdefrance.com",
+    "distance": 169873,
+    "latitude": 42.699397681199315,
+    "telephone": "0468687358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitd'Hom'",
+    "resultStructId": "4676",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 passage leonce elie de beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12724452",
+    "mail": "contact.66@luckyservices.fr",
+    "distance": 169873,
+    "latitude": 42.699397681199315,
+    "telephone": "0468282154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les P'tits Pandas\"",
+    "resultStructId": "5658",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean sabazes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12872552",
+    "mail": "mc.lesecureuils@enfancelr.fr",
+    "distance": 169873,
+    "latitude": 42.699397681199315,
+    "telephone": "0468915119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Ecureuils",
+    "resultStructId": "320201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la passio vella",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12744189",
+    "mail": "halte-garderie.petits-princes@apprentis-auteuil.org",
+    "distance": 169983,
+    "latitude": 42.69699123737379,
+    "telephone": "0468352680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie « Les Petits Princes »",
+    "resultStructId": "700740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8951613133736287,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875863",
+    "mail": "creche.jordibarre@mairie-perpignan.com",
+    "distance": 170092,
+    "latitude": 42.695968111986275,
+    "telephone": "0468636055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Jordi Barre",
+    "resultStructId": "703109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue des remparts saintmathieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8945054247348363,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12682088",
+    "mail": "contact@babilou.com",
+    "distance": 170149,
+    "latitude": 42.696344134387026,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PapeCarpantier",
+    "resultStructId": "700734",
+    "omegaId": "48468",
+    "avip": false,
+    "adresse": "23 rue grande-la-monnaie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8932932949375205,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12745221",
+    "mail": "annagram@crechesdefrance.com",
+    "distance": 170293,
+    "latitude": 42.69954268017349,
+    "telephone": "0468678687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAnna'Gram",
+    "resultStructId": "6141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue camille pelletan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.888130783787939,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12923679",
+    "mail": "hg.perpignan@leolagrange.org",
+    "distance": 170694,
+    "latitude": 42.705784392422494,
+    "telephone": "0468514307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie 1.2.3 Sourire",
+    "resultStructId": "591501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee de vaillere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8763324014300546,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12636543",
+    "mail": "delphine.teissier@ufcv.fr",
+    "distance": 170789,
+    "latitude": 42.690984640025796,
+    "telephone": "0468980568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIECORBINOT",
+    "resultStructId": "18303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue joseph tastu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.888843199588376,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12926431",
+    "mail": "lespetitskoalas66@gmail.com",
+    "distance": 171205,
+    "latitude": 42.698590890414785,
+    "telephone": "0972886652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS KOALAS",
+    "resultStructId": "10355",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "605 avenue de prades",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8754576453752234,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12745780",
+    "mail": "labarbotine66@gmail.com",
+    "distance": 171209,
+    "latitude": 42.666239598952,
+    "telephone": "0434102121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche LA BARBOTINE",
+    "resultStructId": "6154",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "600 rue felix trombe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9065227123645814,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "13037895",
+    "mail": "creche.joanmiro@mfgs.fr",
+    "distance": 171412,
+    "latitude": 42.68927905822651,
+    "telephone": "0962580989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJoan Miro",
+    "resultStructId": "320501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8811572712409204,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12808689",
+    "mail": "doucenfance66000@yahoo.com",
+    "distance": 172155,
+    "latitude": 42.687446734866384,
+    "telephone": "0645735131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOUC'ENFANCE66",
+    "resultStructId": "236901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1415 avenue julien panchot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.87182311451695,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "13046581",
+    "mail": "ocomme3pommes@crechesdefrance.com",
+    "distance": 173244,
+    "latitude": 42.691185990792306,
+    "telephone": "0468377705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ÔComme 3 Pommes",
+    "resultStructId": "13149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rond-point de copenhague",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8521184598971008,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12603347",
+    "mail": "perpignan@lpcr.fr",
+    "distance": 126000,
+    "latitude": 42.73334533156821,
+    "telephone": "0953477038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges - Perpignan",
+    "resultStructId": "2812",
+    "omegaId": "2430",
+    "avip": false,
+    "adresse": "rue beau de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.893486894653427,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12872466",
+    "mail": "creche.leshirondelles@mfgs.fr",
+    "distance": 126753,
+    "latitude": 42.72779231505059,
+    "telephone": "0468897568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Hirondelles",
+    "resultStructId": "293801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "314 avenue du languedoc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8881444450395115,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12695676",
+    "mail": "valerie.monchau@orange.fr",
+    "distance": 126810,
+    "latitude": 42.72404719415395,
+    "telephone": "0468633559",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les p'tites merveilles\"",
+    "resultStructId": "4959",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue georges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8931875974027363,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12969947",
+    "mail": "creche.simon@mairie-perpignan.com",
+    "distance": 126826,
+    "latitude": 42.69451821672676,
+    "telephone": "0468636122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Claude Simon",
+    "resultStructId": "703110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la roseraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9435442912486476,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12512359",
+    "mail": "caroline.hesel@mnhsae.fr",
+    "distance": 127070,
+    "latitude": 42.72611297304327,
+    "telephone": "0468616608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JoanPetit",
+    "resultStructId": "683705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue fernand leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8848259313157203,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12827480",
+    "mail": "pyrenees.orientales@ufcv.fr",
+    "distance": 127185,
+    "latitude": 42.717311957878046,
+    "telephone": "0468084978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Garderie\"AINSI FONT LES PETITS\"",
+    "resultStructId": "8054",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue niccolo paganini",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.897105140656083,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12685657",
+    "mail": "babysonge@free.fr",
+    "distance": 127430,
+    "latitude": 42.69769431331818,
+    "telephone": "0953236634",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABYSONGE",
+    "resultStructId": "4726",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jacques antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.925795121429448,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12696149",
+    "mail": "clairebernard66@hotmail.fr",
+    "distance": 128102,
+    "latitude": 42.715151093374345,
+    "telephone": "0468356141",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaToupie",
+    "resultStructId": "700741",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des mesanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8830072953323267,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875648",
+    "mail": "creche.familiale@mairie-perpignan.com",
+    "distance": 128150,
+    "latitude": 42.709655616687144,
+    "telephone": "0468663590",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale (Moyen-Vernet, St-Assiscle, Las Cobas,Vertefeuille)",
+    "resultStructId": "703107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean-victor poncelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8912024370064877,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875820",
+    "mail": "creche.despres@mairie-perpignan.com",
+    "distance": 128532,
+    "latitude": 42.69807506167534,
+    "telephone": "0468663007",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Hippolyte Desprès",
+    "resultStructId": "703108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue fustel decoulanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9033053823052763,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12761561",
+    "mail": "eaje-saint-gauderique.cafperpignan@caf.fr",
+    "distance": 128719,
+    "latitude": 42.691273105737395,
+    "telephone": "0468287555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Gaudérique",
+    "resultStructId": "695603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue nature",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9113398997971833,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12697869",
+    "mail": "julie.alaminos@apprentis-auteuil.org",
+    "distance": 128725,
+    "latitude": 42.70220323560523,
+    "telephone": "0468862570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Anges",
+    "resultStructId": "5010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du marche aux bestiaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8925357431765857,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875777",
+    "mail": "creche.moulinavent@mairie-perpignan.com",
+    "distance": 128866,
+    "latitude": 42.699397681199315,
+    "telephone": "0468636116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Moulin à Vent",
+    "resultStructId": "703021",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'alghero",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12724108",
+    "mail": "contact@les-moments-enchantes.fr",
+    "distance": 128866,
+    "latitude": 42.699397681199315,
+    "telephone": "0468738138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les Moments Enchantés\"",
+    "resultStructId": "5650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "km 4 route d'elne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12683507",
+    "mail": "petitdhom@crechesdefrance.com",
+    "distance": 128866,
+    "latitude": 42.699397681199315,
+    "telephone": "0468687358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitd'Hom'",
+    "resultStructId": "4676",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 passage leonce elie de beaumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12724452",
+    "mail": "contact.66@luckyservices.fr",
+    "distance": 128866,
+    "latitude": 42.699397681199315,
+    "telephone": "0468282154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les P'tits Pandas\"",
+    "resultStructId": "5658",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jean sabazes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12872552",
+    "mail": "mc.lesecureuils@enfancelr.fr",
+    "distance": 128866,
+    "latitude": 42.699397681199315,
+    "telephone": "0468915119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Ecureuils",
+    "resultStructId": "320201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la passio vella",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.894521393951126,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12744189",
+    "mail": "halte-garderie.petits-princes@apprentis-auteuil.org",
+    "distance": 129042,
+    "latitude": 42.69699123737379,
+    "telephone": "0468352680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie « Les Petits Princes »",
+    "resultStructId": "700740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue sainte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8951613133736287,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12875863",
+    "mail": "creche.jordibarre@mairie-perpignan.com",
+    "distance": 129164,
+    "latitude": 42.695968111986275,
+    "telephone": "0468636055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Jordi Barre",
+    "resultStructId": "703109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue des remparts saintmathieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8945054247348363,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12745221",
+    "mail": "annagram@crechesdefrance.com",
+    "distance": 129181,
+    "latitude": 42.69954268017349,
+    "telephone": "0468678687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAnna'Gram",
+    "resultStructId": "6141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue camille pelletan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.888130783787939,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12682088",
+    "mail": "contact@babilou.com",
+    "distance": 129193,
+    "latitude": 42.696344134387026,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PapeCarpantier",
+    "resultStructId": "700734",
+    "omegaId": "48468",
+    "avip": false,
+    "adresse": "23 rue grande-la-monnaie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8932932949375205,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12923679",
+    "mail": "hg.perpignan@leolagrange.org",
+    "distance": 129253,
+    "latitude": 42.705784392422494,
+    "telephone": "0468514307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie 1.2.3 Sourire",
+    "resultStructId": "591501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee de vaillere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8763324014300546,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12636543",
+    "mail": "delphine.teissier@ufcv.fr",
+    "distance": 129886,
+    "latitude": 42.690984640025796,
+    "telephone": "0468980568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIECORBINOT",
+    "resultStructId": "18303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue joseph tastu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.888843199588376,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12926431",
+    "mail": "lespetitskoalas66@gmail.com",
+    "distance": 129917,
+    "latitude": 42.698590890414785,
+    "telephone": "0972886652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS KOALAS",
+    "resultStructId": "10355",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "605 avenue de prades",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8754576453752234,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "13037895",
+    "mail": "creche.joanmiro@mfgs.fr",
+    "distance": 130427,
+    "latitude": 42.68927905822651,
+    "telephone": "0962580989",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJoan Miro",
+    "resultStructId": "320501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue de belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8811572712409204,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12808689",
+    "mail": "doucenfance66000@yahoo.com",
+    "distance": 131065,
+    "latitude": 42.687446734866384,
+    "telephone": "0645735131",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DOUC'ENFANCE66",
+    "resultStructId": "236901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1415 avenue julien panchot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.87182311451695,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "12745780",
+    "mail": "labarbotine66@gmail.com",
+    "distance": 131161,
+    "latitude": 42.666239598952,
+    "telephone": "0434102121",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche LA BARBOTINE",
+    "resultStructId": "6154",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "600 rue felix trombe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9065227123645814,
+    "ville": "perpignan",
+    "cp": "66000"
+  },
+  {
+    "resultId": "13046581",
+    "mail": "ocomme3pommes@crechesdefrance.com",
+    "distance": 131765,
+    "latitude": 42.691185990792306,
+    "telephone": "0468377705",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ÔComme 3 Pommes",
+    "resultStructId": "13149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rond-point de copenhague",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8521184598971008,
+    "ville": "perpignan",
+    "cp": "66000"
+  }
+]

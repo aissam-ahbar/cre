@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12954037",
+    "mail": "creche.anglet@croix-rouge.fr",
+    "distance": 137889,
+    "latitude": 43.5064327633451,
+    "telephone": "0559524862",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchouns",
+    "resultStructId": "33203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue henri reneric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5028422133764874,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "12954080",
+    "mail": "pomdapil@orange.fr",
+    "distance": 139993,
+    "latitude": 43.49806543525891,
+    "telephone": "0559032599",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilPOMME D'API",
+    "resultStructId": "10998",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 promenade de la barre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5277525275076795,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "59115209",
+    "mail": "jeremy.gatounes@creches-kokoon.fr",
+    "distance": 140041,
+    "latitude": 43.481678185734445,
+    "telephone": "0633570651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoKooNMontaury",
+    "resultStructId": "692712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue de bayonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.507256928580143,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "12656925",
+    "mail": "secretariat@aafs.fr",
+    "distance": 140088,
+    "latitude": 43.48182500012738,
+    "telephone": "0559597272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ASSOCIATIOND'AIDE FAMILIALE ET SOCIALE",
+    "resultStructId": "74703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 avenue de bayonne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5082580805483075,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "13035659",
+    "mail": "creche.quintaou@ville-anglet.fr",
+    "distance": 140169,
+    "latitude": 43.47976977796797,
+    "telephone": "0559634668",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheMAYLIS DE MENDITTE",
+    "resultStructId": "12895",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenue de maignon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5069169572978125,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "13035616",
+    "mail": "creche.quintaou@anglet.fr",
+    "distance": 140173,
+    "latitude": 43.484369548552955,
+    "telephone": "0559638818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheQUINTAOU",
+    "resultStructId": "411701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 avenue eugene bernain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.513069202503957,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "12954123",
+    "mail": "microcreche.bebeabord@gmail.com",
+    "distance": 140379,
+    "latitude": 43.486856818852246,
+    "telephone": "0540074201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Bébé A Bord\"",
+    "resultStructId": "30304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de jouanicot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.519844449095606,
+    "ville": "anglet",
+    "cp": "64600"
+  },
+  {
+    "resultId": "58700530",
+    "mail": "jeremy.gatounes@creches-kokoon.fr",
+    "distance": 142065,
+    "latitude": 43.463376731833506,
+    "telephone": "0633570651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheKOKOON Maignon",
+    "resultStructId": "687803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 route de pitoys",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5177498125649829,
+    "ville": "anglet",
+    "cp": "64600"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12620891",
+    "mail": "valerie.valin@wanadoo.fr",
+    "distance": 26165,
+    "latitude": 50.435846503766435,
+    "telephone": "0327911132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesenfants de Suzanne",
+    "resultStructId": "3220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 rue henri lenne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.083972251300314,
+    "ville": "raimbeaucourt",
+    "cp": "59283"
+  },
+  {
+    "resultId": "12643251",
+    "mail": "lesgalopins@laposte.net",
+    "distance": 27279,
+    "latitude": 50.44009728034721,
+    "telephone": "0672940842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins (Itinérant)",
+    "resultStructId": "3740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1008949391757046,
+    "ville": "raimbeaucourt",
+    "cp": "59283"
+  }
+]

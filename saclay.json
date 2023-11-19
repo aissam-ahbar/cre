@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12710855",
+    "mail": "saclay@creche-la-maison-bleue.fr",
+    "distance": 198261,
+    "latitude": 48.75545119765956,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilVanille",
+    "resultStructId": "158201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue arthur rimbaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.17303623246402,
+    "ville": "saclay",
+    "cp": "91400"
+  }
+]

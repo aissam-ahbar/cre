@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13039959",
+    "mail": "creche.brives@lepuyenvelay.fr",
+    "distance": 174983,
+    "latitude": 45.04825394396592,
+    "telephone": "0471059627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Petite Maison Bleue",
+    "resultStructId": "198005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des lilas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9182176617476094,
+    "ville": "brivescharensac",
+    "cp": "43700"
+  },
+  {
+    "resultId": "23367206",
+    "mail": "creche.brives@lepuyenvelay.fr",
+    "distance": 174983,
+    "latitude": 45.04825394396592,
+    "telephone": "0471059627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPETITE MAISON BLEUE",
+    "resultStructId": "198014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des lilas 43700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9182176617476094,
+    "ville": "brivescharensac",
+    "cp": ""
+  },
+  {
+    "resultId": "13039959",
+    "mail": "creche.brives@lepuyenvelay.fr",
+    "distance": 161214,
+    "latitude": 45.04825394396592,
+    "telephone": "0471059627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Petite Maison Bleue",
+    "resultStructId": "198005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des lilas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9182176617476094,
+    "ville": "brivescharensac",
+    "cp": "43700"
+  },
+  {
+    "resultId": "23367206",
+    "mail": "creche.brives@lepuyenvelay.fr",
+    "distance": 161214,
+    "latitude": 45.04825394396592,
+    "telephone": "0471059627",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAPETITE MAISON BLEUE",
+    "resultStructId": "198014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des lilas 43700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9182176617476094,
+    "ville": "brivescharensac",
+    "cp": ""
+  }
+]

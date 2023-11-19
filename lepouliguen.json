@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12620762",
+    "mail": "enfance.bigorneaux@wanadoo.fr",
+    "distance": 115202,
+    "latitude": 47.26987353484666,
+    "telephone": "0240155252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES BIGORNEAUX",
+    "resultStructId": "3217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des salorgnes 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.424430154292155,
+    "ville": "lepouliguen",
+    "cp": ""
+  },
+  {
+    "resultId": "12620848",
+    "mail": "enfance.crevette@orange.fr",
+    "distance": 115775,
+    "latitude": 47.27419116241174,
+    "telephone": "0610678122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES CREVETTES",
+    "resultStructId": "3219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee des mouettes 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.434785749103296,
+    "ville": "lepouliguen",
+    "cp": ""
+  },
+  {
+    "resultId": "12494119",
+    "mail": "enfance.bigorneaux@wanadoo.fr",
+    "distance": 115788,
+    "latitude": 47.27562454181538,
+    "telephone": "0240155252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBigorneaux",
+    "resultStructId": "272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des salorges 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.4357285991797575,
+    "ville": "lepouliguen",
+    "cp": ""
+  },
+  {
+    "resultId": "12620762",
+    "mail": "enfance.bigorneaux@wanadoo.fr",
+    "distance": 115202,
+    "latitude": 47.26987353484666,
+    "telephone": "0240155252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES BIGORNEAUX",
+    "resultStructId": "3217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des salorgnes 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.424430154292155,
+    "ville": "lepouliguen",
+    "cp": ""
+  },
+  {
+    "resultId": "12620848",
+    "mail": "enfance.crevette@orange.fr",
+    "distance": 115775,
+    "latitude": 47.27419116241174,
+    "telephone": "0610678122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES CREVETTES",
+    "resultStructId": "3219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee des mouettes 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.434785749103296,
+    "ville": "lepouliguen",
+    "cp": ""
+  },
+  {
+    "resultId": "12494119",
+    "mail": "enfance.bigorneaux@wanadoo.fr",
+    "distance": 115788,
+    "latitude": 47.27562454181538,
+    "telephone": "0240155252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBigorneaux",
+    "resultStructId": "272",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des salorges 44510",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.4357285991797575,
+    "ville": "lepouliguen",
+    "cp": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12664802",
+    "mail": "administrationcreche@mairie-neuillyplaisance.com",
+    "distance": 148955,
+    "latitude": 48.85293794970697,
+    "telephone": "0143086505",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Abbé Pierre",
+    "resultStructId": "702310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue michel debre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.519239728788434,
+    "ville": "neuillyplaisance",
+    "cp": "93360"
+  },
+  {
+    "resultId": "12664888",
+    "mail": "neuillyplaisance@creche-la-maison-bleue.fr",
+    "distance": 149303,
+    "latitude": 48.851514920501494,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil PILI PILI",
+    "resultStructId": "701941",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue paul cezanne 93360",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5142991434040165,
+    "ville": "neuillyplaisance",
+    "cp": ""
+  },
+  {
+    "resultId": "12666651",
+    "mail": "haltejeux@mairie-neuillyplaisance.com",
+    "distance": 149733,
+    "latitude": 48.86533700325437,
+    "telephone": "0143007778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-Jeuxdes Renouilléres",
+    "resultStructId": "702405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9/11 rue des renouilleres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.51011563380723,
+    "ville": "neuillyplaisance",
+    "cp": "93360"
+  },
+  {
+    "resultId": "34054259",
+    "mail": "administrationcreche@mairie-neuillyplaisance.com",
+    "distance": 149738,
+    "latitude": 48.86350622871828,
+    "telephone": "0155812660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrécheMulti-Accueil Pirouettes-Cahouettes",
+    "resultStructId": "702404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue descahouettes 93360",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.509802198031789,
+    "ville": "neuillyplaisance",
+    "cp": ""
+  },
+  {
+    "resultId": "12664845",
+    "mail": "administrationcreche@mairie-neuillyplaisance.com",
+    "distance": 149995,
+    "latitude": 48.860314547126286,
+    "telephone": "0143003492",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective du Centre",
+    "resultStructId": "702401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue du general de gaulle93360",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5058772771298075,
+    "ville": "neuillyplaisance",
+    "cp": ""
+  }
+]

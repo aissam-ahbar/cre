@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12753262",
+    "mail": "rouldoudou@cc2so.fr",
+    "distance": 93548,
+    "latitude": 49.77905630877203,
+    "telephone": "0624052245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ROUL'DOUDOU",
+    "resultStructId": "689002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16bis route d'aumale 80290 poix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9781516579984966,
+    "ville": "depicardie",
+    "cp": ""
+  },
+  {
+    "resultId": "12863092",
+    "mail": "lesfrimousses@cc2so.fr",
+    "distance": 93799,
+    "latitude": 49.77353595035042,
+    "telephone": "0322341010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESFRIMOUSSES",
+    "resultStructId": "118502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des fontaines 80290 poix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9846102761514721,
+    "ville": "depicardie",
+    "cp": ""
+  }
+]

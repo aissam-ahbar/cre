@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12642520",
+    "mail": "lesgalopins@laposte.net",
+    "distance": 42797,
+    "latitude": 50.365675560825615,
+    "telephone": "0672940842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGalopins (Itinérant)",
+    "resultStructId": "3723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place nos fusilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2990320122840013,
+    "ville": "fenain",
+    "cp": "59179"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12601025",
+    "mail": "pre-en-bulle@ville-varennes-vauzelles.fr",
+    "distance": 80339,
+    "latitude": 47.013319913387676,
+    "telephone": "0386591942",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PRE EN BULLE",
+    "resultStructId": "692120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee jacques prevert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.147586911517388,
+    "ville": "varennesvauzelles",
+    "cp": "58640"
+  },
+  {
+    "resultId": "12601025",
+    "mail": "pre-en-bulle@ville-varennes-vauzelles.fr",
+    "distance": 111136,
+    "latitude": 47.013319913387676,
+    "telephone": "0386591942",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PRE EN BULLE",
+    "resultStructId": "692120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee jacques prevert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.147586911517388,
+    "ville": "varennesvauzelles",
+    "cp": "58640"
+  }
+]

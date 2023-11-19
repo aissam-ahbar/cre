@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12761948",
+    "mail": "ecrispu@mairieavermes.fr",
+    "distance": 97274,
+    "latitude": 46.58788459094677,
+    "telephone": "0470456151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lasouris verte",
+    "resultStructId": "696808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place claude worsmer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3082834045937464,
+    "ville": "avermes",
+    "cp": "03000"
+  },
+  {
+    "resultId": "12761948",
+    "mail": "ecrispu@mairieavermes.fr",
+    "distance": 132133,
+    "latitude": 46.58788459094677,
+    "telephone": "0470456151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lasouris verte",
+    "resultStructId": "696808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place claude worsmer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3082834045937464,
+    "ville": "avermes",
+    "cp": "03000"
+  }
+]

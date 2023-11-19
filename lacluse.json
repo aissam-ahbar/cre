@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12980869",
+    "mail": "multi-accueil@montreal-lacluse.fr",
+    "distance": 161026,
+    "latitude": 46.177052717807015,
+    "telephone": "0474760263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL A PETITS PAS",
+    "resultStructId": "24301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du jura 01460 montreal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.579564800233391,
+    "ville": "lacluse",
+    "cp": ""
+  }
+]

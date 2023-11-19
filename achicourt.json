@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60259011",
+    "mail": "topla.pigny@gmail.com",
+    "distance": 22317,
+    "latitude": 50.27422502431174,
+    "telephone": "0620274229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TopLà ! Achicourt",
+    "resultStructId": "707636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106 ter rue raoul briquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7576834852206926,
+    "ville": "achicourt",
+    "cp": "62217"
+  },
+  {
+    "resultId": "50489578",
+    "mail": "achicourt@rigolocommelavie.fr",
+    "distance": 22788,
+    "latitude": 50.271394236171396,
+    "telephone": "0352790142",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie Achicourt",
+    "resultStructId": "415601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place flers de l'orne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.77309017549111,
+    "ville": "achicourt",
+    "cp": "62217"
+  }
+]

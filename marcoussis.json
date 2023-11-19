@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12505866",
+    "mail": "creche.marcoussis@wanadoo.fr",
+    "distance": 186525,
+    "latitude": 48.6410559105773,
+    "telephone": "0169806985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ermitage",
+    "resultStructId": "545",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parcdes celestins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.221160230428777,
+    "ville": "marcoussis",
+    "cp": "91460"
+  },
+  {
+    "resultId": "32441831",
+    "mail": "contact@babilou.com",
+    "distance": 186597,
+    "latitude": 48.64076378885094,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBabilou Marcoussis Jacquemarderie",
+    "resultStructId": "430501",
+    "omegaId": "11792",
+    "avip": false,
+    "adresse": "ruejacquemarderie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2276136789435874,
+    "ville": "marcoussis",
+    "cp": "91460"
+  }
+]

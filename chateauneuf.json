@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "41276734",
+    "mail": "multiaccueil.chateauneuf@cc.coeurdesavoie.fr",
+    "distance": 444435,
+    "latitude": 45.54551158159505,
+    "telephone": "0479257145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacabane des Croès",
+    "resultStructId": "700754",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 route de la fruitiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.181081693863661,
+    "ville": "chateauneuf",
+    "cp": "73390"
+  },
+  {
+    "resultId": "41276734",
+    "mail": "multiaccueil.chateauneuf@cc.coeurdesavoie.fr",
+    "distance": 176911,
+    "latitude": 45.54551158159505,
+    "telephone": "0479257145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lacabane des Croès",
+    "resultStructId": "700754",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 route de la fruitiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.181081693863661,
+    "ville": "chateauneuf",
+    "cp": "73390"
+  }
+]

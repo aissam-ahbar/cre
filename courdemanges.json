@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43531270",
+    "mail": "vivre-avec-l-ecole-rurale@orange.fr",
+    "distance": 163855,
+    "latitude": 48.695480216282704,
+    "telephone": "0326411683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBambins du Mont Moret",
+    "resultStructId": "687106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.543507622864204,
+    "ville": "courdemanges",
+    "cp": "51300"
+  },
+  {
+    "resultId": "43531270",
+    "mail": "vivre-avec-l-ecole-rurale@orange.fr",
+    "distance": 3979,
+    "latitude": 48.695480216282704,
+    "telephone": "0326411683",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBambins du Mont Moret",
+    "resultStructId": "687106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.543507622864204,
+    "ville": "courdemanges",
+    "cp": "51300"
+  }
+]

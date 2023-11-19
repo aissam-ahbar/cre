@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12649228",
+    "mail": "",
+    "distance": 34482,
+    "latitude": 46.952242755042924,
+    "telephone": "0385869530",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisonde la petite enfance Bel Gazou",
+    "resultStructId": "703903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 boulevard fredericlatouche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.302714623805378,
+    "ville": "autun",
+    "cp": "71400"
+  },
+  {
+    "resultId": "12649228",
+    "mail": "",
+    "distance": 198902,
+    "latitude": 46.952242755042924,
+    "telephone": "0385869530",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisonde la petite enfance Bel Gazou",
+    "resultStructId": "703903",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 boulevard fredericlatouche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.302714623805378,
+    "ville": "autun",
+    "cp": "71400"
+  }
+]

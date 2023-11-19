@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12777600",
+    "mail": "creche@mairie-esbly.fr",
+    "distance": 128088,
+    "latitude": 48.90121273071319,
+    "telephone": "0160438350",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Petitecrèche La Marelle",
+    "resultStructId": "685004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8140081079864965,
+    "ville": "esbly",
+    "cp": "77450"
+  },
+  {
+    "resultId": "13015398",
+    "mail": "contact@babilou.com",
+    "distance": 128432,
+    "latitude": 48.89921725704424,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUESBLY AULNOYES",
+    "resultStructId": "553401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 chemin des aulnoyes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.808842799046526,
+    "ville": "esbly",
+    "cp": "77450"
+  }
+]

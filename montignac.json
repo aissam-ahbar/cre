@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13042711",
+    "mail": "c.laval@cc-vh.fr",
+    "distance": 139481,
+    "latitude": 45.08295576065055,
+    "telephone": "0553518706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLUTINS",
+    "resultStructId": "13059",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de gouny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1925404565105437,
+    "ville": "montignac",
+    "cp": "24290"
+  },
+  {
+    "resultId": "13042797",
+    "mail": "c.laval@cc-vh.fr",
+    "distance": 139481,
+    "latitude": 45.08295576065055,
+    "telephone": "0553518706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESLOUPIOTS",
+    "resultStructId": "13061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de gouny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1925404565105437,
+    "ville": "montignac",
+    "cp": "24290"
+  }
+]

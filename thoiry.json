@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "41741453",
+    "mail": "lescalinous.paysdegexagglo@leolagrange.org",
+    "distance": 179321,
+    "latitude": 46.23186489270666,
+    "telephone": "0450202563",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Calinous",
+    "resultStructId": "222118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "288 rue du creux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.984072575957552,
+    "ville": "thoiry",
+    "cp": "01710"
+  },
+  {
+    "resultId": "27538409",
+    "mail": "drolesdezebres@liveli.fr",
+    "distance": 168877,
+    "latitude": 48.866632157312296,
+    "telephone": "0954166504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - DROLES DES ZEBRES",
+    "resultStructId": "681805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de la mare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7910687192567767,
+    "ville": "thoiry",
+    "cp": "78770"
+  }
+]

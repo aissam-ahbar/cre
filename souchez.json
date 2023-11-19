@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "57283121",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 8939,
+    "latitude": 50.39483878275753,
+    "telephone": "0986288633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheSes Premiers Pas Souchez 1",
+    "resultStructId": "674003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.745780816793803,
+    "ville": "souchez",
+    "cp": "62153"
+  },
+  {
+    "resultId": "57283223",
+    "mail": "sespremierspas@yahoo.fr",
+    "distance": 8939,
+    "latitude": 50.39483878275753,
+    "telephone": "0987113237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheSes Premiers Pas Souchez 2",
+    "resultStructId": "674004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.745780816793803,
+    "ville": "souchez",
+    "cp": "62153"
+  },
+  {
+    "resultId": "24316355",
+    "mail": "contact@ilotloulou.fr",
+    "distance": 9155,
+    "latitude": 50.392380467710126,
+    "telephone": "0359420455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche ILOTLOULOU",
+    "resultStructId": "23408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue pasteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7419992814071454,
+    "ville": "souchez",
+    "cp": "62153"
+  }
+]

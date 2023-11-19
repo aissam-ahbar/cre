@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12505780",
+    "mail": "dolto@petite-enfance-cenonlormont.fr",
+    "distance": 59721,
+    "latitude": 44.84884115624294,
+    "telephone": "0621846235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE FRANCOISE DOLTO",
+    "resultStructId": "692615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue paul valery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5068125867024408,
+    "ville": "cenon",
+    "cp": "33150"
+  },
+  {
+    "resultId": "12503802",
+    "mail": "poulbot@petite-enfance-cenonlormont.fr",
+    "distance": 60487,
+    "latitude": 44.85394228046015,
+    "telephone": "0556678771",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PETITECRECHE POULBOT",
+    "resultStructId": "692616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue petrus ruben",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5151487677011557,
+    "ville": "cenon",
+    "cp": "33150"
+  },
+  {
+    "resultId": "55589072",
+    "mail": "asaltel@hotmail.fr",
+    "distance": 60551,
+    "latitude": 44.854687694219265,
+    "telephone": "0535316318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINSDOUDOU",
+    "resultStructId": "625601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue cuvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5146817630921283,
+    "ville": "cenon",
+    "cp": "33150"
+  },
+  {
+    "resultId": "12991619",
+    "mail": "cenon@lespetitsenfants.fr",
+    "distance": 61145,
+    "latitude": 44.857668385825704,
+    "telephone": "0637515376",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS ENFANTS CENON",
+    "resultStructId": "149403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue aristide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.52449206405489,
+    "ville": "cenon",
+    "cp": "33150"
+  },
+  {
+    "resultId": "22076337",
+    "mail": "abc@petite-enfance-cenonlormont.fr",
+    "distance": 61300,
+    "latitude": 44.85699873184108,
+    "telephone": "0556409993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL ABC",
+    "resultStructId": "692606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des acacias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5320100137283508,
+    "ville": "cenon",
+    "cp": "33150"
+  },
+  {
+    "resultId": "58981535",
+    "mail": "lartdesbebes@gmail.com",
+    "distance": 61774,
+    "latitude": 44.861627908237104,
+    "telephone": "0749543439",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRÈCHEL'ART DES BÉBÉS - POUPY",
+    "resultStructId": "691407",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 chemin cailly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5319653954536028,
+    "ville": "cenon",
+    "cp": "33150"
+  }
+]

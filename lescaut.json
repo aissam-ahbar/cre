@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "26004563",
+    "mail": "multiaccueil@bruaysurescaut.fr",
+    "distance": 58778,
+    "latitude": 50.39843124253208,
+    "telephone": "0327459067",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \" à petits pas…\"",
+    "resultStructId": "33602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "370 bis rue jean jaures59860 bruay sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5406511249680164,
+    "ville": "lescaut",
+    "cp": ""
+  },
+  {
+    "resultId": "13027919",
+    "mail": "b.guillaumet@conde59.fr",
+    "distance": 61810,
+    "latitude": 50.448302017119175,
+    "telephone": "0327400872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lejardin des marmots",
+    "resultStructId": "12715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du college 59163 conde sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.591419079882347,
+    "ville": "lescaut",
+    "cp": ""
+  },
+  {
+    "resultId": "57282715",
+    "mail": "lespetitsmarmots@condesurlescaut.fr",
+    "distance": 61810,
+    "latitude": 50.448302017119175,
+    "telephone": "0327400872",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE EVEIL ET MOI",
+    "resultStructId": "674001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du college 59163 conde sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.591419079882347,
+    "ville": "lescaut",
+    "cp": ""
+  },
+  {
+    "resultId": "12786888",
+    "mail": "",
+    "distance": 62304,
+    "latitude": 50.4670169599481,
+    "telephone": "0327233032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CARACOL",
+    "resultStructId": "7110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1mail des chardonnettes 59163 conde sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5994018259031426,
+    "ville": "lescaut",
+    "cp": ""
+  }
+]

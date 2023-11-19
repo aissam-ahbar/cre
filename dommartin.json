@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "46661029",
+    "mail": "lpdoms3@gmail.com",
+    "distance": 162016,
+    "latitude": 45.83692473897824,
+    "telephone": "0602127268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Eveil et Rigolades",
+    "resultStructId": "325701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1305 route de lozanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.696813647927167,
+    "ville": "dommartin",
+    "cp": "69380"
+  },
+  {
+    "resultId": "13032219",
+    "mail": "contact@lesptitsdoms.fr",
+    "distance": 162454,
+    "latitude": 45.83617626548407,
+    "telephone": "0678570211",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche les p'tits Doms",
+    "resultStructId": "12815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1702 route des bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.714766834476589,
+    "ville": "dommartin",
+    "cp": "69380"
+  },
+  {
+    "resultId": "60030371",
+    "mail": "domdapi69380@gmail.com",
+    "distance": 162638,
+    "latitude": 45.83456866588431,
+    "telephone": "0673086283",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDom d'Api",
+    "resultStructId": "703401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse du presbytere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7153319702265755,
+    "ville": "dommartin",
+    "cp": "69380"
+  },
+  {
+    "resultId": "37052915",
+    "mail": "enfant.dommartin@acolea-asso.fr",
+    "distance": 162638,
+    "latitude": 45.83456866588431,
+    "telephone": "0478435354",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Enfant Do",
+    "resultStructId": "214001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse du presbytere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7153319702265755,
+    "ville": "dommartin",
+    "cp": "69380"
+  },
+  {
+    "resultId": "12817117",
+    "mail": "",
+    "distance": 166877,
+    "latitude": 46.9199273229282,
+    "telephone": "0381493468",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Poupons",
+    "resultStructId": "567601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue des ravieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.305013313494335,
+    "ville": "dommartin",
+    "cp": "25300"
+  }
+]

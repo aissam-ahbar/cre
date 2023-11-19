@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12484229",
+    "mail": "multi-accueil.verniolle@agglo-pfv.fr",
+    "distance": 206913,
+    "latitude": 43.08023462547831,
+    "telephone": "0561695614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde VERNIOLLE",
+    "resultStructId": "404101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place adelin moulis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6484817844720336,
+    "ville": "verniolle",
+    "cp": "09340"
+  },
+  {
+    "resultId": "12484229",
+    "mail": "multi-accueil.verniolle@agglo-pfv.fr",
+    "distance": 190736,
+    "latitude": 43.08023462547831,
+    "telephone": "0561695614",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde VERNIOLLE",
+    "resultStructId": "404101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place adelin moulis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6484817844720336,
+    "ville": "verniolle",
+    "cp": "09340"
+  }
+]

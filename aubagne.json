@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "41133092",
+    "mail": "aubagne@creche-attitude.fr",
+    "distance": 81202,
+    "latitude": 43.282702972289606,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES GAVOTINES",
+    "resultStructId": "213001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "704 chemin du vallon des gavots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.556867182608373,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18405972",
+    "mail": "",
+    "distance": 81567,
+    "latitude": 43.31227183033518,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEPetit Jules",
+    "resultStructId": "195116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1135 route nationale 96",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.577475712141641,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18406016",
+    "mail": "",
+    "distance": 81732,
+    "latitude": 43.296647426577934,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJERose de miel",
+    "resultStructId": "195117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "180 allee robert govi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571599887582541,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12548393",
+    "mail": "",
+    "distance": 81746,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA TOURTELLE",
+    "resultStructId": "197202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier d'anjou groupe scolaire latourtelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553381",
+    "mail": "",
+    "distance": 81746,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACDE LA DELPHINE",
+    "resultStructId": "197204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin st michel les aires",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553725",
+    "mail": "",
+    "distance": 81746,
+    "latitude": 43.29236998846957,
+    "telephone": "0442822986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PASSONS",
+    "resultStructId": "197208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc des passons chemin des passons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12568904",
+    "mail": "",
+    "distance": 81767,
+    "latitude": 43.29603751660849,
+    "telephone": "0442181953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BERGERONETTES",
+    "resultStructId": "199214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "265 avenue marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571737251703189,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12600595",
+    "mail": "",
+    "distance": 82279,
+    "latitude": 43.291861613287075,
+    "telephone": "0442181721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PAPILLONS",
+    "resultStructId": "197216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "aires de st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.576289384167951,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12739502",
+    "mail": "aubagne@creches-du-sud.fr",
+    "distance": 83933,
+    "latitude": 43.291617633564705,
+    "telephone": "0442710003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PRINCES AUBAGNE",
+    "resultStructId": "199004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 rue du vallat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.5980843429417675,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12739502",
+    "mail": "aubagne@creches-du-sud.fr",
+    "distance": 313380,
+    "latitude": 43.291617633564705,
+    "telephone": "0442710003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PRINCES AUBAGNE",
+    "resultStructId": "199004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 rue du vallat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.5980843429417675,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12600595",
+    "mail": "",
+    "distance": 315018,
+    "latitude": 43.291861613287075,
+    "telephone": "0442181721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PAPILLONS",
+    "resultStructId": "197216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "aires de st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.576289384167951,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12568904",
+    "mail": "",
+    "distance": 315537,
+    "latitude": 43.29603751660849,
+    "telephone": "0442181953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BERGERONETTES",
+    "resultStructId": "199214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "265 avenue marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571737251703189,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12548393",
+    "mail": "",
+    "distance": 315548,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA TOURTELLE",
+    "resultStructId": "197202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier d'anjou groupe scolaire latourtelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553381",
+    "mail": "",
+    "distance": 315548,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACDE LA DELPHINE",
+    "resultStructId": "197204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin st michel les aires",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553725",
+    "mail": "",
+    "distance": 315548,
+    "latitude": 43.29236998846957,
+    "telephone": "0442822986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PASSONS",
+    "resultStructId": "197208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc des passons chemin des passons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18406016",
+    "mail": "",
+    "distance": 315573,
+    "latitude": 43.296647426577934,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJERose de miel",
+    "resultStructId": "195117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "180 allee robert govi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571599887582541,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18405972",
+    "mail": "",
+    "distance": 315808,
+    "latitude": 43.31227183033518,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEPetit Jules",
+    "resultStructId": "195116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1135 route nationale 96",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.577475712141641,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "41133092",
+    "mail": "aubagne@creche-attitude.fr",
+    "distance": 316083,
+    "latitude": 43.282702972289606,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES GAVOTINES",
+    "resultStructId": "213001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "704 chemin du vallon des gavots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.556867182608373,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "41133092",
+    "mail": "aubagne@creche-attitude.fr",
+    "distance": 138546,
+    "latitude": 43.282702972289606,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES GAVOTINES",
+    "resultStructId": "213001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "704 chemin du vallon des gavots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.556867182608373,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12548393",
+    "mail": "",
+    "distance": 139255,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA TOURTELLE",
+    "resultStructId": "197202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier d'anjou groupe scolaire latourtelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553381",
+    "mail": "",
+    "distance": 139255,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACDE LA DELPHINE",
+    "resultStructId": "197204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin st michel les aires",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553725",
+    "mail": "",
+    "distance": 139255,
+    "latitude": 43.29236998846957,
+    "telephone": "0442822986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PASSONS",
+    "resultStructId": "197208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc des passons chemin des passons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18406016",
+    "mail": "",
+    "distance": 139300,
+    "latitude": 43.296647426577934,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJERose de miel",
+    "resultStructId": "195117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "180 allee robert govi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571599887582541,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12568904",
+    "mail": "",
+    "distance": 139328,
+    "latitude": 43.29603751660849,
+    "telephone": "0442181953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BERGERONETTES",
+    "resultStructId": "199214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "265 avenue marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571737251703189,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18405972",
+    "mail": "",
+    "distance": 139336,
+    "latitude": 43.31227183033518,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEPetit Jules",
+    "resultStructId": "195116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1135 route nationale 96",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.577475712141641,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12600595",
+    "mail": "",
+    "distance": 139802,
+    "latitude": 43.291861613287075,
+    "telephone": "0442181721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PAPILLONS",
+    "resultStructId": "197216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "aires de st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.576289384167951,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12739502",
+    "mail": "aubagne@creches-du-sud.fr",
+    "distance": 141515,
+    "latitude": 43.291617633564705,
+    "telephone": "0442710003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PRINCES AUBAGNE",
+    "resultStructId": "199004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 rue du vallat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.5980843429417675,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18405972",
+    "mail": "",
+    "distance": 81594,
+    "latitude": 43.31227183033518,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEPetit Jules",
+    "resultStructId": "195116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1135 route nationale 96",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.577475712141641,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12739502",
+    "mail": "aubagne@creches-du-sud.fr",
+    "distance": 82860,
+    "latitude": 43.291617633564705,
+    "telephone": "0442710003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PETITS PRINCES AUBAGNE",
+    "resultStructId": "199004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "172 rue du vallat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.5980843429417675,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "18406016",
+    "mail": "",
+    "distance": 83349,
+    "latitude": 43.296647426577934,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJERose de miel",
+    "resultStructId": "195117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "180 allee robert govi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571599887582541,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12568904",
+    "mail": "",
+    "distance": 83404,
+    "latitude": 43.29603751660849,
+    "telephone": "0442181953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES BERGERONETTES",
+    "resultStructId": "199214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "265 avenue marcel pagnol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.571737251703189,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12600595",
+    "mail": "",
+    "distance": 83642,
+    "latitude": 43.291861613287075,
+    "telephone": "0442181721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PAPILLONS",
+    "resultStructId": "197216",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "aires de st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.576289384167951,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12548393",
+    "mail": "",
+    "distance": 83849,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181632",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA TOURTELLE",
+    "resultStructId": "197202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quartier d'anjou groupe scolaire latourtelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553381",
+    "mail": "",
+    "distance": 83849,
+    "latitude": 43.29236998846957,
+    "telephone": "0442181780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACDE LA DELPHINE",
+    "resultStructId": "197204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin st michel les aires",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "12553725",
+    "mail": "",
+    "distance": 83849,
+    "latitude": 43.29236998846957,
+    "telephone": "0442822986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES PASSONS",
+    "resultStructId": "197208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc des passons chemin des passons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.569488446281926,
+    "ville": "aubagne",
+    "cp": "13400"
+  },
+  {
+    "resultId": "41133092",
+    "mail": "aubagne@creche-attitude.fr",
+    "distance": 85279,
+    "latitude": 43.282702972289606,
+    "telephone": "0482537393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES GAVOTINES",
+    "resultStructId": "213001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "704 chemin du vallon des gavots",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.556867182608373,
+    "ville": "aubagne",
+    "cp": "13400"
+  }
+]

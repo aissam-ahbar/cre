@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12490636",
+    "mail": "haltegarderie@saintaubindemedoc.fr",
+    "distance": 73427,
+    "latitude": 44.91162444738699,
+    "telephone": "0556703057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil LA CLE DES CHAMPS",
+    "resultStructId": "345201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 14 route de germignan33160 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7189282968241983,
+    "ville": "demedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "21435023",
+    "mail": "crechemunicipale.staubindemedoc@orange.fr",
+    "distance": 73608,
+    "latitude": 44.912092443523036,
+    "telephone": "0556150499",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL MES PREMIERS PAS",
+    "resultStructId": "345301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin des ecoles 33160 staubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.722245977218916,
+    "ville": "demedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "12523797",
+    "mail": "",
+    "distance": 87305,
+    "latitude": 45.02334837995701,
+    "telephone": "0556581187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie L'ECOLE DES DOUDOUS",
+    "resultStructId": "962",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue du stade 33480castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7986755945860804,
+    "ville": "demedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "21435311",
+    "mail": "lecole.des.doudous@enfancepourtous.com",
+    "distance": 87305,
+    "latitude": 45.02334837995701,
+    "telephone": "0556586251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE L'ECOLE DES DOUDOUS",
+    "resultStructId": "15627",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenue du stade 33480castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7986755945860804,
+    "ville": "demedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "12993812",
+    "mail": "lacastel@les-cherubins.com",
+    "distance": 87575,
+    "latitude": 45.02731117390176,
+    "telephone": "0674385065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LE CASTEL DES CHERUBINS",
+    "resultStructId": "11922",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la fontaine33480 castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7959393849629185,
+    "ville": "demedoc",
+    "cp": ""
+  }
+]

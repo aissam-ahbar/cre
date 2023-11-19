@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12797165",
+    "mail": "creche@ville-serignan.fr",
+    "distance": 113538,
+    "latitude": 43.27614085032268,
+    "telephone": "0467377976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilles Glob'trotteurs",
+    "resultStructId": "690224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue georges brassens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2747386485744707,
+    "ville": "serignan",
+    "cp": "34410"
+  },
+  {
+    "resultId": "12797165",
+    "mail": "creche@ville-serignan.fr",
+    "distance": 61707,
+    "latitude": 43.27614085032268,
+    "telephone": "0467377976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilles Glob'trotteurs",
+    "resultStructId": "690224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue georges brassens",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2747386485744707,
+    "ville": "serignan",
+    "cp": "34410"
+  }
+]

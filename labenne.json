@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12545598",
+    "mail": "maisonenfance@ville-labenne.fr",
+    "distance": 126677,
+    "latitude": 43.59485838138425,
+    "telephone": "0559456984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'enfance \"Les diablotins\" Labenne",
+    "resultStructId": "118509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 place louisdarmente",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4258957953431577,
+    "ville": "labenne",
+    "cp": "40530"
+  },
+  {
+    "resultId": "21431171",
+    "mail": "lesfripouilles@ville-labenne.fr",
+    "distance": 128514,
+    "latitude": 43.58789494501142,
+    "telephone": "0559458591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Fripouilles de Labenne",
+    "resultStructId": "118510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "450 rue du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.447878579471874,
+    "ville": "labenne",
+    "cp": "40530"
+  }
+]

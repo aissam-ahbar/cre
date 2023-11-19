@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12545125",
+    "mail": "lesloupiots.capbreton@wanadoo.fr",
+    "distance": 122362,
+    "latitude": 43.650333656207344,
+    "telephone": "0558720327",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective \"les loupiots\" Capbreton",
+    "resultStructId": "1458",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4211468607295792,
+    "ville": "capbreton",
+    "cp": "40130"
+  },
+  {
+    "resultId": "60298282",
+    "mail": "kokoondespins@creches-kokoon.fr",
+    "distance": 123602,
+    "latitude": 43.64087477405774,
+    "telephone": "0787899292",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KoKooNDes Pins",
+    "resultStructId": "709211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue madan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.430324611984153,
+    "ville": "capbreton",
+    "cp": "40130"
+  }
+]

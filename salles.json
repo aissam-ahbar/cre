@@ -1,0 +1,51 @@
+[
+  {
+    "resultId": "12508962",
+    "mail": "multiaccueil@ville-de-salles.com",
+    "distance": 54815,
+    "latitude": 44.55056918108156,
+    "telephone": "0618522788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil TETES ENL'EYRE",
+    "resultStructId": "686401",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "23 rue sylvieducourneau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.8662956358487975,
+    "ville": "salles",
+    "cp": "33770"
+  },
+  {
+    "resultId": "12670693",
+    "mail": "microcreche.salles@ccbastides47.com",
+    "distance": 90748,
+    "latitude": 44.549811854332894,
+    "telephone": "0553750154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Salles'perlipopète\"",
+    "resultStructId": "706003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "74 chemin cote folle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.8702248668049828,
+    "ville": "salles",
+    "cp": "47150"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12686732",
+    "mail": "sylvie.thomas@agglo-grandgueret.fr",
+    "distance": 93406,
+    "latitude": 46.172569063782596,
+    "telephone": "0555526346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCOLLECTIF DU GRAND GUERET",
+    "resultStructId": "234003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue alfred grand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8648792680411468,
+    "ville": "gueret",
+    "cp": "23000"
+  },
+  {
+    "resultId": "12686689",
+    "mail": "sylvie.thomas@agglo-grandgueret.fr",
+    "distance": 93406,
+    "latitude": 46.172569063782596,
+    "telephone": "0555526346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILFAMILIAL DU GRAND GUERET",
+    "resultStructId": "234002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue alfred grand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8648792680411468,
+    "ville": "gueret",
+    "cp": "23000"
+  }
+]

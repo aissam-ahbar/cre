@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12873498",
+    "mail": "virginie.federico@lescampacreches.fr",
+    "distance": 68010,
+    "latitude": 47.3027193036242,
+    "telephone": "0345183451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARLBIOTIFUL BABY'Z",
+    "resultStructId": "9124",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des bleuets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.050857089228849,
+    "ville": "longvic",
+    "cp": "21600"
+  },
+  {
+    "resultId": "12720659",
+    "mail": "lodysseedesbebes@free.fr",
+    "distance": 68090,
+    "latitude": 47.299489564532166,
+    "telephone": "0984261514",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche L'ODYSSEE DES BEBES",
+    "resultStructId": "199769",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 route de dijon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.052325616084091,
+    "ville": "longvic",
+    "cp": "21600"
+  },
+  {
+    "resultId": "12837886",
+    "mail": "petite.enfance@ville-longvic.fr",
+    "distance": 68512,
+    "latitude": 47.28190473219858,
+    "telephone": "0345625030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Les Pitchouns",
+    "resultStructId": "204740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee francois pompon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.059708466690265,
+    "ville": "longvic",
+    "cp": "21600"
+  },
+  {
+    "resultId": "12837843",
+    "mail": "petite.enfance@ville-longvic.fr",
+    "distance": 68645,
+    "latitude": 47.2851803649708,
+    "telephone": "0345625200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Les Frimousses",
+    "resultStructId": "204738",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue celestin freinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061203634019678,
+    "ville": "longvic",
+    "cp": "21600"
+  },
+  {
+    "resultId": "12837929",
+    "mail": "petite.enfance@ville-longvic.fr",
+    "distance": 68702,
+    "latitude": 47.28730928520223,
+    "telephone": "0380682163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Les P'tits Lutins",
+    "resultStructId": "204739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue aristide briand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061768028836469,
+    "ville": "longvic",
+    "cp": "21600"
+  }
+]

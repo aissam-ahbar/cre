@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "20515541",
+    "mail": "creche-lesmoussaillons@ville-tarnos.fr",
+    "distance": 132697,
+    "latitude": 43.542672616288016,
+    "telephone": "0559637569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Moussaillons",
+    "resultStructId": "694916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee de la grangette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.461394897424078,
+    "ville": "tarnos",
+    "cp": "40220"
+  },
+  {
+    "resultId": "21169708",
+    "mail": "dma@aafs.fr",
+    "distance": 132807,
+    "latitude": 43.54042256867951,
+    "telephone": "0559648875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Associationd'Aide Familiale et Sociale crèche familiale",
+    "resultStructId": "15009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenuejulian grimaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.460386736207694,
+    "ville": "tarnos",
+    "cp": "40220"
+  },
+  {
+    "resultId": "12659247",
+    "mail": "contact@aafs.fr",
+    "distance": 132826,
+    "latitude": 43.54302806341894,
+    "telephone": "0559597272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ASSOCIATIOND'AIDE FAMILIALE ET SOCIALE",
+    "resultStructId": "74704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 chemin de tichene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.464036905554077,
+    "ville": "tarnos",
+    "cp": "40220"
+  },
+  {
+    "resultId": "29785621",
+    "mail": "microcreche.sud-landes@aafs.fr",
+    "distance": 132826,
+    "latitude": 43.54302806341894,
+    "telephone": "0559527250",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheJoan MIRO",
+    "resultStructId": "58202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue tichene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.464036905554077,
+    "ville": "tarnos",
+    "cp": "40220"
+  },
+  {
+    "resultId": "20519780",
+    "mail": "creche-petitsmatelots@ville-tarnos.fr",
+    "distance": 132920,
+    "latitude": 43.53391170634903,
+    "telephone": "0559640482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Matelots",
+    "resultStructId": "694917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 bis avenue salvador",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.453896446533418,
+    "ville": "tarnos",
+    "cp": "40220"
+  },
+  {
+    "resultId": "20521704",
+    "mail": "creche-stexupery@ville-tarnos.fr",
+    "distance": 134506,
+    "latitude": 43.53905299794459,
+    "telephone": "0559483711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAntoine de Saint-Exupéry",
+    "resultStructId": "694918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des grives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.487295381412348,
+    "ville": "tarnos",
+    "cp": "40220"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12699632",
+    "mail": "sma.avoudrey@famillesrurales.org",
+    "distance": 172805,
+    "latitude": 47.13796091585268,
+    "telephone": "0381642322",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Avoudrey",
+    "resultStructId": "106701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.434936721561362,
+    "ville": "avoudrey",
+    "cp": "25690"
+  },
+  {
+    "resultId": "33204797",
+    "mail": "sma.frasalpe-avoudrey@famillesrurales.org",
+    "distance": 173333,
+    "latitude": 47.14247976345638,
+    "telephone": "0355330950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les P'tits mutins",
+    "resultStructId": "100306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue zone artisanale sur lejura",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.442487365502017,
+    "ville": "avoudrey",
+    "cp": "25690"
+  }
+]

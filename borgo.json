@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12548436",
+    "mail": "garderie-lepetitprince@orange.fr",
+    "distance": 54350,
+    "latitude": 42.56485788072824,
+    "telephone": "0495338821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "1535",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route 336, route de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 9.454555122358604,
+    "ville": "borgo",
+    "cp": "20290"
+  }
+]

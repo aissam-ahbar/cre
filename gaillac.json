@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13034799",
+    "mail": "creche.gaillac@gailac-graulhet.fr",
+    "distance": 176131,
+    "latitude": 43.89636209821485,
+    "telephone": "0563427568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRose des Vents - Gaillac",
+    "resultStructId": "687905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 avenue des alizes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8781249223930434,
+    "ville": "gaillac",
+    "cp": "81600"
+  },
+  {
+    "resultId": "12771924",
+    "mail": "association.lou.pitchoun@orange.fr",
+    "distance": 177679,
+    "latitude": 43.89601806716229,
+    "telephone": "0563572721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil - Lou Pitchoun",
+    "resultStructId": "6762",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard foucaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8981998034563627,
+    "ville": "gaillac",
+    "cp": "81600"
+  },
+  {
+    "resultId": "12771924",
+    "mail": "association.lou.pitchoun@orange.fr",
+    "distance": 163913,
+    "latitude": 43.89601806716229,
+    "telephone": "0563572721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil - Lou Pitchoun",
+    "resultStructId": "6762",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard foucaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8981998034563627,
+    "ville": "gaillac",
+    "cp": "81600"
+  },
+  {
+    "resultId": "13034799",
+    "mail": "creche.gaillac@gailac-graulhet.fr",
+    "distance": 165500,
+    "latitude": 43.89636209821485,
+    "telephone": "0563427568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRose des Vents - Gaillac",
+    "resultStructId": "687905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 avenue des alizes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8781249223930434,
+    "ville": "gaillac",
+    "cp": "81600"
+  }
+]

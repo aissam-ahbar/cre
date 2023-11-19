@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "12605454",
+    "mail": "creche.montesquieu@ville-roubaix.fr",
+    "distance": 39103,
+    "latitude": 50.68620666096873,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMONTESQUIEU",
+    "resultStructId": "697202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "96 boulevard montesquieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1600391886897965,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12531021",
+    "mail": "petiteenfance@centresocialnautilus.fr",
+    "distance": 39168,
+    "latitude": 50.686778994636676,
+    "telephone": "0320707091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \" ENFANTILLAGE\"",
+    "resultStructId": "1130",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue watt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.160524355903938,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12789468",
+    "mail": "",
+    "distance": 39318,
+    "latitude": 50.68055777844231,
+    "telephone": "0320991410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil'l'Ile aux enfants\" du CH de Roubaix",
+    "resultStructId": "7170",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1704032269205684,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990845",
+    "mail": "roubaix-palissy@rigolocommelavie.fr",
+    "distance": 39392,
+    "latitude": 50.674149208714674,
+    "telephone": "0320756135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE ROUBAIX-PALISSY",
+    "resultStructId": "11853",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.178760735211571,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12605325",
+    "mail": "creche.fourmies@ville-roubaix.fr",
+    "distance": 39690,
+    "latitude": 50.67328515622987,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFOURMIES",
+    "resultStructId": "697201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "186 boulevard de fourmies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1847874584165785,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990673",
+    "mail": "roubaix-noemi@rigolocommelavie.fr",
+    "distance": 39867,
+    "latitude": 50.68430403636608,
+    "telephone": "0328091854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie - Noemi",
+    "resultStructId": "11849",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.175748956514523,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "24635765",
+    "mail": "roubaix-noemi@rigolocommelavie.fr",
+    "distance": 39870,
+    "latitude": 50.684442662609634,
+    "telephone": "0328091854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE ROUBAIX - NOEMI",
+    "resultStructId": "480504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.175633275714155,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12566410",
+    "mail": "chahpar.badkoube@wanadoo.fr",
+    "distance": 39876,
+    "latitude": 50.68109336924046,
+    "telephone": "0320020839",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL- CENTRE SOCIAL MOULIN POTENNERIE",
+    "resultStructId": "1953",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue d'hem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1795237191481562,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12977386",
+    "mail": "roubaix-carpeaux@rigolocommelavie.fr",
+    "distance": 39924,
+    "latitude": 50.67694754248666,
+    "telephone": "0320651607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE ROUBAIX-CARPEAUX",
+    "resultStructId": "11540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue carpeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1848898907723298,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12978031",
+    "mail": "roubaix-rueneuve@rigolocommelavie.fr",
+    "distance": 40056,
+    "latitude": 50.69045242354752,
+    "telephone": "0320025926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Rigolocomme la vie - NEUVE",
+    "resultStructId": "691329",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue neuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1719240098067867,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "52226706",
+    "mail": "roubaix-leonmarlot@rigolocommelavie.fr",
+    "distance": 40167,
+    "latitude": 50.672374645466505,
+    "telephone": "0320654743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE LEON MARLOT",
+    "resultStructId": "480302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "170 rue leon marlot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.193868764603582,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12606099",
+    "mail": "",
+    "distance": 40209,
+    "latitude": 50.69093740667983,
+    "telephone": "0320756242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE - CENTRE SOCIAL MAISON DES DEUX QUARTIERS",
+    "resultStructId": "2876",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 ruefranklin roosevelt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1740702393322344,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990802",
+    "mail": "roubaix-leonmarlot@rigolocommelavie.fr",
+    "distance": 40237,
+    "latitude": 50.67315763085869,
+    "telephone": "0320654743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE ROUBAIX - LEON MARLOT",
+    "resultStructId": "11852",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "170 rue leon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.194252124888459,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990501",
+    "mail": "diablotins@homedesflandres.fr",
+    "distance": 40311,
+    "latitude": 50.69293321625896,
+    "telephone": "0320810076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES DIABLOTINS\"",
+    "resultStructId": "11845",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 - 53 rue du vieilabreuvoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1735206229176725,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12611388",
+    "mail": "creche.cassel@ville-roubaix.fr",
+    "distance": 40314,
+    "latitude": 50.69977272002509,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMUNICIAPLE CASSEL",
+    "resultStructId": "697205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue de cassel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.165204497629767,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12605626",
+    "mail": "creche.familiale@ville-roubaix.fr",
+    "distance": 40314,
+    "latitude": 50.69977272002509,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "697204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue de cassel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.165204497629767,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990630",
+    "mail": "srocchio@afeji.org",
+    "distance": 40412,
+    "latitude": 50.6957557891123,
+    "telephone": "0320279915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKAMALI'I",
+    "resultStructId": "437701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue emile moreau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.171915086151837,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "13029553",
+    "mail": "contact@csalma.org",
+    "distance": 40433,
+    "latitude": 50.69974981685676,
+    "telephone": "0320363251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE POLICHINELLE",
+    "resultStructId": "12753",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 et 8 place de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.167388306851498,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12952102",
+    "mail": "roubaix@creche-la-maison-bleue.fr",
+    "distance": 40621,
+    "latitude": 50.70361523357977,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Maison Bleue \"Reinette\"",
+    "resultStructId": "23804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 boulevard des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1659327889093274,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12605583",
+    "mail": "cpe.roubaix@tempsdevie.fr",
+    "distance": 40683,
+    "latitude": 50.6862754480228,
+    "telephone": "0320200450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PILE AU SOLEIL",
+    "resultStructId": "630001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue nabuchodonosor",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.187769446445557,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "13029467",
+    "mail": "contact@csalma.org",
+    "distance": 40702,
+    "latitude": 50.703046290178285,
+    "telephone": "0320363251",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTE-GARDERIEPIMPRENELLE ET NICOLAS",
+    "resultStructId": "12751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue des anges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1681325028317637,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12789382",
+    "mail": "khaldinadia@cshommelet.com",
+    "distance": 40825,
+    "latitude": 50.696309222235804,
+    "telephone": "0320734161",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil La Paix",
+    "resultStructId": "20201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73/3 rue la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1786382025846955,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12990544",
+    "mail": "calinmalin@homedesflandres.fr",
+    "distance": 41193,
+    "latitude": 50.70223430932797,
+    "telephone": "0320701825",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"CALINS MALINS\"",
+    "resultStructId": "11846",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue basse masure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.178028984535547,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "55604024",
+    "mail": "creche.lannes@ville-roubaix.fr",
+    "distance": 41358,
+    "latitude": 50.689941428974315,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemunicipale Lannes",
+    "resultStructId": "697206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue lannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1954058479683707,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12605497",
+    "mail": "creche.noyon@ville-roubaix.fr",
+    "distance": 41420,
+    "latitude": 50.68395265129596,
+    "telephone": "0359635204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHENOYON",
+    "resultStructId": "697203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue d'ypres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2030586419258054,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12524184",
+    "mail": "bsiemieniecki@ccas-roubaix.fr",
+    "distance": 41503,
+    "latitude": 50.68594460485428,
+    "telephone": "0320023540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreSocial des Trois-Ponts Halte Garderie Les Marmottes",
+    "resultStructId": "971",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71avenue du president kennedy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2023335974218035,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "12974548",
+    "mail": "lalucioleroubaix@innovenfance.org",
+    "distance": 41757,
+    "latitude": 50.70212299260905,
+    "telephone": "0320276933",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Laluciole",
+    "resultStructId": "11474",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue d'oran",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.188282556605157,
+    "ville": "roubaix",
+    "cp": "59100"
+  },
+  {
+    "resultId": "23331439",
+    "mail": "contact@babilou.com",
+    "distance": 41759,
+    "latitude": 50.692060692994204,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouRoubaix Kellermann",
+    "resultStructId": "687520",
+    "omegaId": "15320",
+    "avip": false,
+    "adresse": "28 rue kellerman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.200010192158752,
+    "ville": "roubaix",
+    "cp": "59100"
+  }
+]

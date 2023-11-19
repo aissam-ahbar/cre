@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "39467983",
+    "mail": "kokooneurope@icloud.com",
+    "distance": 141987,
+    "latitude": 43.48149778427636,
+    "telephone": "0559854095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KOKOONEUROPE",
+    "resultStructId": "189802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de mohernando",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5402542190388109,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12956617",
+    "mail": "creche.estella@biarritz.fr",
+    "distance": 142162,
+    "latitude": 43.48581014457945,
+    "telephone": "0559245101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheESTELLA",
+    "resultStructId": "684237",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des jardins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5487682841296753,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12955112",
+    "mail": "creche.mouriscot@biarritz.fr",
+    "distance": 142567,
+    "latitude": 43.47486693109067,
+    "telephone": "0559248693",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Eveil LE BRAOU",
+    "resultStructId": "684235",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3bis rue des barthes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.541541732584212,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12955198",
+    "mail": "microcrechepetitselfesbtz@yahoo.fr",
+    "distance": 143132,
+    "latitude": 43.46612334308124,
+    "telephone": "0559511972",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Petits Elfes",
+    "resultStructId": "11024",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue de chapelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5397583671822686,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12955155",
+    "mail": "ohakoa@gmail.com",
+    "distance": 144139,
+    "latitude": 43.47194480197392,
+    "telephone": "0559437064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OHAKOA",
+    "resultStructId": "23410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasselabordotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5644550344826216,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12955026",
+    "mail": "creche.mouriscot@biarritz.fr",
+    "distance": 144254,
+    "latitude": 43.46060177122021,
+    "telephone": "0559232598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Eveil VICTOR DURUY",
+    "resultStructId": "684234",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "136 avenue du president",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5517145775388554,
+    "ville": "biarritz",
+    "cp": "64200"
+  },
+  {
+    "resultId": "12954983",
+    "mail": "creche.mouriscot@biarritz.fr",
+    "distance": 144518,
+    "latitude": 43.461034884408065,
+    "telephone": "0559412548",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MOURISCOT",
+    "resultStructId": "684233",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25rue mouriscot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5567812763938922,
+    "ville": "biarritz",
+    "cp": "64200"
+  }
+]

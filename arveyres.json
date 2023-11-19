@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57780792",
+    "mail": "arveyres@les-cherubins.com",
+    "distance": 59844,
+    "latitude": 44.88395468687549,
+    "telephone": "0633319252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Chérubins d'Arveyres",
+    "resultStructId": "679013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 impasse de lande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2931564907967524,
+    "ville": "arveyres",
+    "cp": "33500"
+  },
+  {
+    "resultId": "21409503",
+    "mail": "farandole@enfancepourtous.com",
+    "distance": 59979,
+    "latitude": 44.885431028663014,
+    "telephone": "0980689743",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL FARANDOLE",
+    "resultStructId": "690819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 bis rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.28785732703253847,
+    "ville": "arveyres",
+    "cp": "33500"
+  }
+]

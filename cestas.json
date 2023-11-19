@@ -1,0 +1,99 @@
+[
+  {
+    "resultId": "12495065",
+    "mail": "bebescopains@free.fr",
+    "distance": 55002,
+    "latitude": 44.73319154898784,
+    "telephone": "0556781520",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie BEBES COPAINS",
+    "resultStructId": "89413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6712681528025173,
+    "ville": "cestas",
+    "cp": "33610"
+  },
+  {
+    "resultId": "12560992",
+    "mail": "florence.avril@mairie-cestas.fr",
+    "distance": 56276,
+    "latitude": 44.740871586378155,
+    "telephone": "0556788483",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "654501",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-23",
+    "adresse": "2 avenuebaron haussmann",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": -0.6835559839092695,
+    "ville": "cestas",
+    "cp": "33610"
+  },
+  {
+    "resultId": "12524958",
+    "mail": "dirbonsptitsdiables@free.fr",
+    "distance": 56747,
+    "latitude": 44.74519107873764,
+    "telephone": "0556788032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil associatif \"les bons ptits diables\"",
+    "resultStructId": "388201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 routede fourc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6855147261706984,
+    "ville": "cestas",
+    "cp": "33610"
+  },
+  {
+    "resultId": "12602143",
+    "mail": "dir.ptitsfutes@gmail.com",
+    "distance": 59878,
+    "latitude": 44.766109335981014,
+    "telephone": "0554524235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES P TITS FUTES",
+    "resultStructId": "410901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 chemin de chantebois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7121443957623167,
+    "ville": "cestas",
+    "cp": "33610"
+  }
+]

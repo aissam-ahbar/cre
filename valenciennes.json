@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12517949",
+    "mail": "iescano@ville-valenciennes.fr",
+    "distance": 55371,
+    "latitude": 50.36393021493525,
+    "telephone": "0327225637",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babichou",
+    "resultStructId": "690302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63avenue desandrouin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4815330121342396,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "57314438",
+    "mail": "vstuyvaert@ville-valenciennes.fr",
+    "distance": 56204,
+    "latitude": 50.35262609444607,
+    "telephone": "0327309625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES FRIMOUSSES CHASSE",
+    "resultStructId": "674404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue lucien jonas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.489338533373364,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12632759",
+    "mail": "sec-crechefamiliale@ch-valenciennes.fr",
+    "distance": 56343,
+    "latitude": 50.36192123802259,
+    "telephone": "0327143226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Centre Hospitalier",
+    "resultStructId": "3496",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue desandrouins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.494860198494177,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "23050774",
+    "mail": "brinkhuizen-as@ch-valenciennes.fr",
+    "distance": 56343,
+    "latitude": 50.36192123802259,
+    "telephone": "0327143380",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DU C.H.V",
+    "resultStructId": "20415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue desandrouin bp 479",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.494860198494177,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "56334785",
+    "mail": "lessottises@liveli.fr",
+    "distance": 57850,
+    "latitude": 50.363285949398566,
+    "telephone": "0359616617",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELES SOTTISES",
+    "resultStructId": "649103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5171281651514272,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12499803",
+    "mail": "abarauttaux@ville-valenciennes.fr",
+    "distance": 57916,
+    "latitude": 50.35341118315051,
+    "telephone": "0327418135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIBAMBELLE,FARANDOLE ET SERPENTINS",
+    "resultStructId": "674410",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue du faubourg de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.514486763286358,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12632802",
+    "mail": "",
+    "distance": 58309,
+    "latitude": 50.3626828864961,
+    "telephone": "0327468395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pirouette",
+    "resultStructId": "690304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3cours broutin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5235515455826105,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12633017",
+    "mail": "ghaudegond@ville-valenciennes.fr",
+    "distance": 58405,
+    "latitude": 50.357874017568975,
+    "telephone": "0623555820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Val'Frimousse(itinérante)",
+    "resultStructId": "3502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'armes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5232364632689404,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12718165",
+    "mail": "contact@crechesetmalices.com",
+    "distance": 58460,
+    "latitude": 50.365043804163385,
+    "telephone": "0000000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMalicieux des Tertiales - Crèches et Malices",
+    "resultStructId": "5482",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue henryderycke",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.526546066165513,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12632716",
+    "mail": "fgoemaere@ville-valenciennes.fr",
+    "distance": 58472,
+    "latitude": 50.35786192486107,
+    "telephone": "0327460101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VALCALINS",
+    "resultStructId": "674409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue maurice bauchon - place du neuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5242013603638815,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "57315094",
+    "mail": "vstuyvaert@ville-valenciennes.fr",
+    "distance": 58472,
+    "latitude": 50.35786192486107,
+    "telephone": "0623555820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES FRIMOUSSESPICOTI ET COQUELICOTS",
+    "resultStructId": "674408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue descoquelicots appt 3",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5242013603638815,
+    "ville": "valenciennes",
+    "cp": "59300"
+  },
+  {
+    "resultId": "12520787",
+    "mail": "sbaton@ville-valenciennes.fr",
+    "distance": 58858,
+    "latitude": 50.35195483910486,
+    "telephone": "0327224393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Comptines",
+    "resultStructId": "690303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue claudin lejeune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5276016898259908,
+    "ville": "valenciennes",
+    "cp": "59300"
+  }
+]

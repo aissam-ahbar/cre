@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12856986",
+    "mail": "larchedesbambins@wanadoo.fr",
+    "distance": 136846,
+    "latitude": 46.16194209293279,
+    "telephone": "0474556204",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEL'ARCHE DES BAMBINS",
+    "resultStructId": "711502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 allee sophie de grouchy 01400neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.005110159285664,
+    "ville": "lesdames",
+    "cp": ""
+  },
+  {
+    "resultId": "34050626",
+    "mail": "microcreche.bld@gmail.com",
+    "distance": 165013,
+    "latitude": 47.3466258890391,
+    "telephone": "0381253888",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Doux Doubs BAUME LES DAMES",
+    "resultStructId": "113401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue simone debeauvoir 25110 baume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.336454324433289,
+    "ville": "lesdames",
+    "cp": ""
+  }
+]

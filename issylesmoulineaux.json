@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12870445",
+    "mail": "",
+    "distance": 4718,
+    "latitude": 48.827381709106106,
+    "telephone": "0146489785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEATTITUDE - LE CERF VOLANT",
+    "resultStructId": "237625",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue victor hugo 92130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2746491193071074,
+    "ville": "issylesmoulineaux",
+    "cp": ""
+  },
+  {
+    "resultId": "12837585",
+    "mail": "issy@lpcr.fr",
+    "distance": 6416,
+    "latitude": 48.82368418085064,
+    "telephone": "0174711570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8289",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 boulevard des iles 92130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2491058695098594,
+    "ville": "issylesmoulineaux",
+    "cp": ""
+  }
+]

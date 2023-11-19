@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13035057",
+    "mail": "creche.montgaillard@gaillac-graulhet.fr",
+    "distance": 153954,
+    "latitude": 43.91099520554411,
+    "telephone": "0563815482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Micro-crèche ENFANT PHARE",
+    "resultStructId": "687903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 grand rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5935292270031711,
+    "ville": "montgaillard",
+    "cp": "81630"
+  },
+  {
+    "resultId": "12652668",
+    "mail": "multi-accueil.montgailhard@agglo-pfv.fr",
+    "distance": 217284,
+    "latitude": 42.93939065303934,
+    "telephone": "0561651818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"les Petits gailhards\"",
+    "resultStructId": "403902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 chemin du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6356538786713413,
+    "ville": "montgaillard",
+    "cp": "09330"
+  },
+  {
+    "resultId": "13035057",
+    "mail": "creche.montgaillard@gaillac-graulhet.fr",
+    "distance": 188223,
+    "latitude": 43.91099520554411,
+    "telephone": "0563815482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Micro-crèche ENFANT PHARE",
+    "resultStructId": "687903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 grand rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5935292270031711,
+    "ville": "montgaillard",
+    "cp": "81630"
+  }
+]

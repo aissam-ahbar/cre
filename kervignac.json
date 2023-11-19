@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12738040",
+    "mail": "multi-accueil@kervignac.com",
+    "distance": 169722,
+    "latitude": 47.762229155637364,
+    "telephone": "0297026666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "337401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.2368255295866732,
+    "ville": "kervignac",
+    "cp": "56700"
+  },
+  {
+    "resultId": "37643432",
+    "mail": "contact@piratesdecitemarine.com",
+    "distance": 170653,
+    "latitude": 47.795239805345325,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pirates de Cité Marine",
+    "resultStructId": "224302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone d'activite le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.2447670022202564,
+    "ville": "kervignac",
+    "cp": "56700"
+  },
+  {
+    "resultId": "12738040",
+    "mail": "multi-accueil@kervignac.com",
+    "distance": 169722,
+    "latitude": 47.762229155637364,
+    "telephone": "0297026666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "337401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.2368255295866732,
+    "ville": "kervignac",
+    "cp": "56700"
+  },
+  {
+    "resultId": "37643432",
+    "mail": "contact@piratesdecitemarine.com",
+    "distance": 170653,
+    "latitude": 47.795239805345325,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pirates de Cité Marine",
+    "resultStructId": "224302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone d'activite le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.2447670022202564,
+    "ville": "kervignac",
+    "cp": "56700"
+  }
+]

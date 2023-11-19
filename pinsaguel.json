@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12991490",
+    "mail": "levillagedesfilous@gmail.com",
+    "distance": 160377,
+    "latitude": 43.506668910223674,
+    "telephone": "0972818814",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEVILLAGE DES FILOUS",
+    "resultStructId": "91421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis rue du ruisseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3902118658994798,
+    "ville": "pinsaguel",
+    "cp": "31120"
+  },
+  {
+    "resultId": "13063050",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 160762,
+    "latitude": 43.50184214473314,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Tom Pouce",
+    "resultStructId": "674417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 b rue d'andorre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3912473337933478,
+    "ville": "pinsaguel",
+    "cp": "31120"
+  }
+]

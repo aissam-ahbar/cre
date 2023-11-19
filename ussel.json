@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12841979",
+    "mail": "dir.maison.enfance@ussel19.fr",
+    "distance": 169279,
+    "latitude": 45.54464080528216,
+    "telephone": "0555723160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif d'Ussel",
+    "resultStructId": "8391",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.313314779581859,
+    "ville": "ussel",
+    "cp": "19200"
+  },
+  {
+    "resultId": "12841893",
+    "mail": "maison.enfance@ussel19.fr",
+    "distance": 169279,
+    "latitude": 45.54464080528216,
+    "telephone": "0555723160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale d'Ussel",
+    "resultStructId": "8389",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du docteur roullet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.313314779581859,
+    "ville": "ussel",
+    "cp": "19200"
+  },
+  {
+    "resultId": "12841979",
+    "mail": "dir.maison.enfance@ussel19.fr",
+    "distance": 240854,
+    "latitude": 45.54464080528216,
+    "telephone": "0555723160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif d'Ussel",
+    "resultStructId": "8391",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.313314779581859,
+    "ville": "ussel",
+    "cp": "19200"
+  },
+  {
+    "resultId": "12841893",
+    "mail": "maison.enfance@ussel19.fr",
+    "distance": 240854,
+    "latitude": 45.54464080528216,
+    "telephone": "0555723160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale d'Ussel",
+    "resultStructId": "8389",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du docteur roullet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.313314779581859,
+    "ville": "ussel",
+    "cp": "19200"
+  }
+]

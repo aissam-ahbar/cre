@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12665490",
+    "mail": "ma.boulay@aasbr.com",
+    "distance": 147373,
+    "latitude": 49.123700801313696,
+    "telephone": "0387792058",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Boulay",
+    "resultStructId": "180605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.471161050493643,
+    "ville": "boulay",
+    "cp": "57220"
+  }
+]

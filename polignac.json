@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13040561",
+    "mail": "creche.polignac@lepuyenvelay.fr",
+    "distance": 178502,
+    "latitude": 45.067913264448876,
+    "telephone": "0471091805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceMulti Accueil \"Rêves et Ritournelles\"",
+    "resultStructId": "198011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.862785995130522,
+    "ville": "polignac",
+    "cp": "43000"
+  },
+  {
+    "resultId": "13040561",
+    "mail": "creche.polignac@lepuyenvelay.fr",
+    "distance": 163413,
+    "latitude": 45.067913264448876,
+    "telephone": "0471091805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EspaceMulti Accueil \"Rêves et Ritournelles\"",
+    "resultStructId": "198011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.862785995130522,
+    "ville": "polignac",
+    "cp": "43000"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "resultId": "12660459",
+    "mail": "dir-cdt-laval@domusvi.com",
+    "distance": 51273,
+    "latitude": 48.057162643160645,
+    "telephone": "0243663110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Tertre",
+    "resultStructId": "558101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 avenue des francais libres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7861973504149447,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632630",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 52165,
+    "latitude": 48.056485635088606,
+    "telephone": "0962113861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom St Nicolas",
+    "resultStructId": "708017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue drouot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7445345611405761,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736449",
+    "mail": "ileauxepices@laval.fr",
+    "distance": 52215,
+    "latitude": 48.06396467354887,
+    "telephone": "0253741315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Île aux épices",
+    "resultStructId": "679304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue de la croix de pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7760556165647686,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12701137",
+    "mail": "pomme.dapi.crf@orange.fr",
+    "distance": 52292,
+    "latitude": 48.06699645069463,
+    "telephone": "0243907997",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fourches Pomme d'Api",
+    "resultStructId": "5086",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7877217437177468,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736406",
+    "mail": "tompouce@laval.fr",
+    "distance": 52673,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tom Pouce",
+    "resultStructId": "679303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736363",
+    "mail": "tistou@laval.fr",
+    "distance": 52673,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tistou",
+    "resultStructId": "679307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736234",
+    "mail": "tiredaile@laval.fr",
+    "distance": 52905,
+    "latitude": 48.07107545363415,
+    "telephone": "0253741330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Tire d'Aile",
+    "resultStructId": "679301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de rennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7791530599448805,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632587",
+    "mail": "microcreche.lavalagglo@aidadom53.com",
+    "distance": 53173,
+    "latitude": 48.07844345412524,
+    "telephone": "0963244222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom Grenoux",
+    "resultStructId": "708018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place louis coulange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.805682150997311,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736191",
+    "mail": "painepices@laval.fr",
+    "distance": 53309,
+    "latitude": 48.072495015828345,
+    "telephone": "0253741348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Pain d'Epices",
+    "resultStructId": "679302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de lore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7674680859516411,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12645960",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 53807,
+    "latitude": 48.0784066884097,
+    "telephone": "0243377880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid A Dom Hilard",
+    "resultStructId": "708015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue docteur marc dupre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7734677566293957,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736148",
+    "mail": "3pommes@laval.fr",
+    "distance": 54411,
+    "latitude": 48.07992479002651,
+    "telephone": "0253741340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les 3 Pommes",
+    "resultStructId": "679305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue hebert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7535681441249915,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736277",
+    "mail": "oiseauflute@laval.fr",
+    "distance": 54890,
+    "latitude": 48.08467526051944,
+    "telephone": "0253741310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil l'Oiseau Flûte",
+    "resultStructId": "679306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue pierre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7545941175306105,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736277",
+    "mail": "oiseauflute@laval.fr",
+    "distance": 95559,
+    "latitude": 48.08467526051944,
+    "telephone": "0253741310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil l'Oiseau Flûte",
+    "resultStructId": "679306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue pierre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7545941175306105,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736148",
+    "mail": "3pommes@laval.fr",
+    "distance": 96064,
+    "latitude": 48.07992479002651,
+    "telephone": "0253741340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les 3 Pommes",
+    "resultStructId": "679305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue hebert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7535681441249915,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12645960",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 96506,
+    "latitude": 48.0784066884097,
+    "telephone": "0243377880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid A Dom Hilard",
+    "resultStructId": "708015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue docteur marc dupre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7734677566293957,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632587",
+    "mail": "microcreche.lavalagglo@aidadom53.com",
+    "distance": 96994,
+    "latitude": 48.07844345412524,
+    "telephone": "0963244222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom Grenoux",
+    "resultStructId": "708018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place louis coulange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.805682150997311,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736191",
+    "mail": "painepices@laval.fr",
+    "distance": 97066,
+    "latitude": 48.072495015828345,
+    "telephone": "0253741348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Pain d'Epices",
+    "resultStructId": "679302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de lore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7674680859516411,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736234",
+    "mail": "tiredaile@laval.fr",
+    "distance": 97388,
+    "latitude": 48.07107545363415,
+    "telephone": "0253741330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Tire d'Aile",
+    "resultStructId": "679301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de rennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7791530599448805,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736406",
+    "mail": "tompouce@laval.fr",
+    "distance": 97878,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tom Pouce",
+    "resultStructId": "679303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736363",
+    "mail": "tistou@laval.fr",
+    "distance": 97878,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tistou",
+    "resultStructId": "679307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12701137",
+    "mail": "pomme.dapi.crf@orange.fr",
+    "distance": 97960,
+    "latitude": 48.06699645069463,
+    "telephone": "0243907997",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fourches Pomme d'Api",
+    "resultStructId": "5086",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7877217437177468,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736449",
+    "mail": "ileauxepices@laval.fr",
+    "distance": 98119,
+    "latitude": 48.06396467354887,
+    "telephone": "0253741315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Île aux épices",
+    "resultStructId": "679304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue de la croix de pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7760556165647686,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632630",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 98514,
+    "latitude": 48.056485635088606,
+    "telephone": "0962113861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom St Nicolas",
+    "resultStructId": "708017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue drouot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7445345611405761,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12660459",
+    "mail": "dir-cdt-laval@domusvi.com",
+    "distance": 99008,
+    "latitude": 48.057162643160645,
+    "telephone": "0243663110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Tertre",
+    "resultStructId": "558101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 avenue des francais libres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7861973504149447,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12660459",
+    "mail": "dir-cdt-laval@domusvi.com",
+    "distance": 51273,
+    "latitude": 48.057162643160645,
+    "telephone": "0243663110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Tertre",
+    "resultStructId": "558101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 avenue des francais libres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7861973504149447,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632630",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 52165,
+    "latitude": 48.056485635088606,
+    "telephone": "0962113861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom St Nicolas",
+    "resultStructId": "708017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue drouot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7445345611405761,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736449",
+    "mail": "ileauxepices@laval.fr",
+    "distance": 52215,
+    "latitude": 48.06396467354887,
+    "telephone": "0253741315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Île aux épices",
+    "resultStructId": "679304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue de la croix de pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7760556165647686,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12701137",
+    "mail": "pomme.dapi.crf@orange.fr",
+    "distance": 52292,
+    "latitude": 48.06699645069463,
+    "telephone": "0243907997",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderiedes Fourches Pomme d'Api",
+    "resultStructId": "5086",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du docteur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7877217437177468,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736406",
+    "mail": "tompouce@laval.fr",
+    "distance": 52673,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tom Pouce",
+    "resultStructId": "679303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736363",
+    "mail": "tistou@laval.fr",
+    "distance": 52673,
+    "latitude": 48.063247742895186,
+    "telephone": "0253741320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Tistou",
+    "resultStructId": "679307",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue bonaparte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7527217074929028,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736234",
+    "mail": "tiredaile@laval.fr",
+    "distance": 52905,
+    "latitude": 48.07107545363415,
+    "telephone": "0253741330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A Tire d'Aile",
+    "resultStructId": "679301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de rennes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7791530599448805,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12632587",
+    "mail": "microcreche.lavalagglo@aidadom53.com",
+    "distance": 53173,
+    "latitude": 48.07844345412524,
+    "telephone": "0963244222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid'a dom Grenoux",
+    "resultStructId": "708018",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 place louis coulange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.805682150997311,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736191",
+    "mail": "painepices@laval.fr",
+    "distance": 53309,
+    "latitude": 48.072495015828345,
+    "telephone": "0253741348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Pain d'Epices",
+    "resultStructId": "679302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de lore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7674680859516411,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12645960",
+    "mail": "microcreche.laval@aidadom53.com",
+    "distance": 53807,
+    "latitude": 48.0784066884097,
+    "telephone": "0243377880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAid A Dom Hilard",
+    "resultStructId": "708015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue docteur marc dupre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7734677566293957,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736148",
+    "mail": "3pommes@laval.fr",
+    "distance": 54411,
+    "latitude": 48.07992479002651,
+    "telephone": "0253741340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les 3 Pommes",
+    "resultStructId": "679305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue hebert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7535681441249915,
+    "ville": "laval",
+    "cp": "53000"
+  },
+  {
+    "resultId": "12736277",
+    "mail": "oiseauflute@laval.fr",
+    "distance": 54890,
+    "latitude": 48.08467526051944,
+    "telephone": "0253741310",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil l'Oiseau Flûte",
+    "resultStructId": "679306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue pierre de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7545941175306105,
+    "ville": "laval",
+    "cp": "53000"
+  }
+]

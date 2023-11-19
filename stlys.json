@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57782962",
+    "mail": "lemerveilleuxcocon@gmail.com",
+    "distance": 146267,
+    "latitude": 43.51325034658952,
+    "telephone": "0626692116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHELE MERVEILLEUX COCON",
+    "resultStructId": "679054",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place jean moulin 31470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.175322385639666,
+    "ville": "stlys",
+    "cp": ""
+  },
+  {
+    "resultId": "12489217",
+    "mail": "petite.enfance@agglo-muretain.fr",
+    "distance": 146583,
+    "latitude": 43.52268840119797,
+    "telephone": "0534601040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Mélodie à petits pas",
+    "resultStructId": "673516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ondes courtes31470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.191149024187419,
+    "ville": "stlys",
+    "cp": ""
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12594360",
+    "mail": "creche.pinocchio@ville-oullins.fr",
+    "distance": 176558,
+    "latitude": 45.71802104517942,
+    "telephone": "0472392047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPinocchio",
+    "resultStructId": "115513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue salvador allende",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.784569746167978,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "12594317",
+    "mail": "creche.bamboullins@ville-oullins.fr",
+    "distance": 177008,
+    "latitude": 45.71742479118217,
+    "telephone": "0437225184",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBamb'Oullins",
+    "resultStructId": "115515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue du buisset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.802800121831432,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "12594403",
+    "mail": "pointaccueilparents@ville-oullins.fr",
+    "distance": 177236,
+    "latitude": 45.71684035269751,
+    "telephone": "0478508373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Arlequin",
+    "resultStructId": "2604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81045914457762,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "13005508",
+    "mail": "oullins@lpcr.fr",
+    "distance": 177243,
+    "latitude": 45.716374091715245,
+    "telephone": "0437464532",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges Oullins",
+    "resultStructId": "12194",
+    "omegaId": "1707",
+    "avip": false,
+    "adresse": "3 place arlesdufour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.80845872860353,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "35413939",
+    "mail": "contact.oullins@babymontessori.fr",
+    "distance": 177283,
+    "latitude": 45.714793912052755,
+    "telephone": "0472497796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby Montessori Oullins",
+    "resultStructId": "450006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de la camille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8025003477411365,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "12835607",
+    "mail": "lestchoutchou@csoullins.com",
+    "distance": 177330,
+    "latitude": 45.71749073096442,
+    "telephone": "0478501835",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilTchouTchou",
+    "resultStructId": "386103",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue de la convention",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.817907038011553,
+    "ville": "oullins",
+    "cp": "69600"
+  },
+  {
+    "resultId": "12835650",
+    "mail": "lespoussins@csoullins.com",
+    "distance": 177348,
+    "latitude": 45.71497736237267,
+    "telephone": "0472663937",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Poussins",
+    "resultStructId": "98014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "91 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.806413693685782,
+    "ville": "oullins",
+    "cp": "69600"
+  }
+]

@@ -1,0 +1,2114 @@
+[
+  {
+    "resultId": "12655678",
+    "mail": "crechejeanmace@mfg.fr",
+    "distance": 35803,
+    "latitude": 43.81890196489068,
+    "telephone": "0466706760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Jean Macé\"",
+    "resultStructId": "4029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.364292017449671,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12864468",
+    "mail": "nimes@lpcr.fr",
+    "distance": 35913,
+    "latitude": 43.815271445700716,
+    "telephone": "0952051635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes petits chaperons rouges",
+    "resultStructId": "8914",
+    "omegaId": "13078",
+    "avip": false,
+    "adresse": "440 rue yves sigal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.355253706762282,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705867",
+    "mail": "creche.lautre-maison@wanadoo.fr",
+    "distance": 36284,
+    "latitude": 43.832116134788485,
+    "telephone": "0466294830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Autre Maison\"",
+    "resultStructId": "5196",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue salomon reinach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.380350375272898,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617623",
+    "mail": "",
+    "distance": 36500,
+    "latitude": 43.82413862410046,
+    "telephone": "0466844004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Courlis\"",
+    "resultStructId": "3144",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 ancienne route de generac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.359513328583688,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12613624",
+    "mail": "",
+    "distance": 37095,
+    "latitude": 43.84362067239285,
+    "telephone": "0466278022",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Mosaique\"",
+    "resultStructId": "3051",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de lattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.386716030848769,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12709092",
+    "mail": "christine.lasserre@dalzon.com",
+    "distance": 37378,
+    "latitude": 43.83760026878096,
+    "telephone": "0466049300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Emmanuel d'Alzon\"",
+    "resultStructId": "5271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue seguier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.367101774762178,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12703072",
+    "mail": "assocl-ile-aux-tresors@orange.fr",
+    "distance": 37671,
+    "latitude": 43.81718600062248,
+    "telephone": "0466232906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ile Aux Trésors\"",
+    "resultStructId": "5131",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue jacques cartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.323617388409235,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617451",
+    "mail": "creche.begonias@ville-nimes.fr",
+    "distance": 37728,
+    "latitude": 43.85530544199102,
+    "telephone": "0466021240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bégonias\" (familial) Multi-accueil \"Les Grillons\"(co",
+    "resultStructId": "3140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 avenue monseigneur claverie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.398918999136263,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708576",
+    "mail": "creche.cotton@ville-nimes.fr",
+    "distance": 37728,
+    "latitude": 43.82394650976651,
+    "telephone": "0466368360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Eugénie Cotton\"",
+    "resultStructId": "5259",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "232 rue matisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.333900491025651,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708619",
+    "mail": "creche.delon-soubeyran@ville-nimes.fr",
+    "distance": 37762,
+    "latitude": 43.8343287601001,
+    "telephone": "0466284070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Delon Soubeyran\"",
+    "resultStructId": "5260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3522063766758805,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708662",
+    "mail": "",
+    "distance": 37917,
+    "latitude": 43.856999973268046,
+    "telephone": "0466275984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Amelliers\"",
+    "resultStructId": "5261",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue malherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.39828867792233,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617580",
+    "mail": "creche.boutchou164@orange.fr",
+    "distance": 37948,
+    "latitude": 43.84124041289603,
+    "telephone": "0466219119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'Chou\"",
+    "resultStructId": "3143",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.361882594492032,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12703889",
+    "mail": "creche-petites-canailles@wanadoo.fr",
+    "distance": 38019,
+    "latitude": 43.83584862129347,
+    "telephone": "0466233677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petites Canailles\"",
+    "resultStructId": "5150",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.349646592842345,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708232",
+    "mail": "martine.greenaway@cafnimes.cnafmail.fr",
+    "distance": 38213,
+    "latitude": 43.84355103157421,
+    "telephone": "0466676998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Rangueil\"",
+    "resultStructId": "5251",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.360731425745605,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12727935",
+    "mail": "creche@mfg.fr",
+    "distance": 38264,
+    "latitude": 43.84691596472232,
+    "telephone": "0466288031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Suzanne Crémieux\"",
+    "resultStructId": "5739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue de la biche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.366621126308723,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705953",
+    "mail": "crechespap@orange.fr",
+    "distance": 38292,
+    "latitude": 43.84543453403851,
+    "telephone": "0466047670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Château Silhol\"",
+    "resultStructId": "5198",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 impasse du chateau silhol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.362864588444417,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708533",
+    "mail": "creche.alisiers@ville-nimes.fr",
+    "distance": 38350,
+    "latitude": 43.82711954179492,
+    "telephone": "0466239220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Alisiers\"",
+    "resultStructId": "5258",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "363 rue neper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.326993552813749,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617537",
+    "mail": "",
+    "distance": 38372,
+    "latitude": 43.82254033258502,
+    "telephone": "0466683095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"C H U\"",
+    "resultStructId": "3142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du professeur debre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3188609249091465,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12651722",
+    "mail": "saje.cmd@wanadoo.fr",
+    "distance": 38427,
+    "latitude": 43.854212615791525,
+    "telephone": "0466021170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Marelle\"",
+    "resultStructId": "3937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du chalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.378898772305826,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12865242",
+    "mail": "nimes2@lpcr.fr",
+    "distance": 38709,
+    "latitude": 43.85645087736786,
+    "telephone": "0430318400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits Chaperons rouges",
+    "resultStructId": "8932",
+    "omegaId": "15457",
+    "avip": false,
+    "adresse": "115 route",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.377238947601675,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617494",
+    "mail": "",
+    "distance": 39539,
+    "latitude": 43.83769707588578,
+    "telephone": "0466646274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Colibris\"",
+    "resultStructId": "3141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 impasse combe des oiseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.321588713770829,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703846",
+    "mail": "crechedugrandbois@vivadom.net",
+    "distance": 40811,
+    "latitude": 43.848563342566266,
+    "telephone": "0466388940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Grand Bois",
+    "resultStructId": "5149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "862 rue roger bertreux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.315111136257666,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617451",
+    "mail": "creche.begonias@ville-nimes.fr",
+    "distance": 427072,
+    "latitude": 43.85530544199102,
+    "telephone": "0466021240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bégonias\" (familial) Multi-accueil \"Les Grillons\"(co",
+    "resultStructId": "3140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 avenue monseigneur claverie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.398918999136263,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708662",
+    "mail": "",
+    "distance": 427197,
+    "latitude": 43.856999973268046,
+    "telephone": "0466275984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Amelliers\"",
+    "resultStructId": "5261",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue malherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.39828867792233,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705867",
+    "mail": "creche.lautre-maison@wanadoo.fr",
+    "distance": 427356,
+    "latitude": 43.832116134788485,
+    "telephone": "0466294830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Autre Maison\"",
+    "resultStructId": "5196",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue salomon reinach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.380350375272898,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12613624",
+    "mail": "",
+    "distance": 427420,
+    "latitude": 43.84362067239285,
+    "telephone": "0466278022",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Mosaique\"",
+    "resultStructId": "3051",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de lattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.386716030848769,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12655678",
+    "mail": "crechejeanmace@mfg.fr",
+    "distance": 427929,
+    "latitude": 43.81890196489068,
+    "telephone": "0466706760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Jean Macé\"",
+    "resultStructId": "4029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.364292017449671,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12864468",
+    "mail": "nimes@lpcr.fr",
+    "distance": 428427,
+    "latitude": 43.815271445700716,
+    "telephone": "0952051635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes petits chaperons rouges",
+    "resultStructId": "8914",
+    "omegaId": "13078",
+    "avip": false,
+    "adresse": "440 rue yves sigal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.355253706762282,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12651722",
+    "mail": "saje.cmd@wanadoo.fr",
+    "distance": 428480,
+    "latitude": 43.854212615791525,
+    "telephone": "0466021170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Marelle\"",
+    "resultStructId": "3937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du chalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.378898772305826,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617623",
+    "mail": "",
+    "distance": 428516,
+    "latitude": 43.82413862410046,
+    "telephone": "0466844004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Courlis\"",
+    "resultStructId": "3144",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 ancienne route de generac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.359513328583688,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12709092",
+    "mail": "christine.lasserre@dalzon.com",
+    "distance": 428575,
+    "latitude": 43.83760026878096,
+    "telephone": "0466049300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Emmanuel d'Alzon\"",
+    "resultStructId": "5271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue seguier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.367101774762178,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12865242",
+    "mail": "nimes2@lpcr.fr",
+    "distance": 428705,
+    "latitude": 43.85645087736786,
+    "telephone": "0430318400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits Chaperons rouges",
+    "resultStructId": "8932",
+    "omegaId": "15457",
+    "avip": false,
+    "adresse": "115 route",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.377238947601675,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12727935",
+    "mail": "creche@mfg.fr",
+    "distance": 429038,
+    "latitude": 43.84691596472232,
+    "telephone": "0466288031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Suzanne Crémieux\"",
+    "resultStructId": "5739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue de la biche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.366621126308723,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617580",
+    "mail": "creche.boutchou164@orange.fr",
+    "distance": 429124,
+    "latitude": 43.84124041289603,
+    "telephone": "0466219119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'Chou\"",
+    "resultStructId": "3143",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.361882594492032,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705953",
+    "mail": "crechespap@orange.fr",
+    "distance": 429245,
+    "latitude": 43.84543453403851,
+    "telephone": "0466047670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Château Silhol\"",
+    "resultStructId": "5198",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 impasse du chateau silhol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.362864588444417,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708232",
+    "mail": "martine.greenaway@cafnimes.cnafmail.fr",
+    "distance": 429314,
+    "latitude": 43.84355103157421,
+    "telephone": "0466676998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Rangueil\"",
+    "resultStructId": "5251",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.360731425745605,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708619",
+    "mail": "creche.delon-soubeyran@ville-nimes.fr",
+    "distance": 429515,
+    "latitude": 43.8343287601001,
+    "telephone": "0466284070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Delon Soubeyran\"",
+    "resultStructId": "5260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3522063766758805,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703889",
+    "mail": "creche-petites-canailles@wanadoo.fr",
+    "distance": 429772,
+    "latitude": 43.83584862129347,
+    "telephone": "0466233677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petites Canailles\"",
+    "resultStructId": "5150",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.349646592842345,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708576",
+    "mail": "creche.cotton@ville-nimes.fr",
+    "distance": 430384,
+    "latitude": 43.82394650976651,
+    "telephone": "0466368360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Eugénie Cotton\"",
+    "resultStructId": "5259",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "232 rue matisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.333900491025651,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703072",
+    "mail": "assocl-ile-aux-tresors@orange.fr",
+    "distance": 430833,
+    "latitude": 43.81718600062248,
+    "telephone": "0466232906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ile Aux Trésors\"",
+    "resultStructId": "5131",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue jacques cartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.323617388409235,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708533",
+    "mail": "creche.alisiers@ville-nimes.fr",
+    "distance": 431034,
+    "latitude": 43.82711954179492,
+    "telephone": "0466239220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Alisiers\"",
+    "resultStructId": "5258",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "363 rue neper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.326993552813749,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617537",
+    "mail": "",
+    "distance": 431423,
+    "latitude": 43.82254033258502,
+    "telephone": "0466683095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"C H U\"",
+    "resultStructId": "3142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du professeur debre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3188609249091465,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617494",
+    "mail": "",
+    "distance": 431909,
+    "latitude": 43.83769707588578,
+    "telephone": "0466646274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Colibris\"",
+    "resultStructId": "3141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 impasse combe des oiseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.321588713770829,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703846",
+    "mail": "crechedugrandbois@vivadom.net",
+    "distance": 432877,
+    "latitude": 43.848563342566266,
+    "telephone": "0466388940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Grand Bois",
+    "resultStructId": "5149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "862 rue roger bertreux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.315111136257666,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703072",
+    "mail": "assocl-ile-aux-tresors@orange.fr",
+    "distance": 42048,
+    "latitude": 43.81718600062248,
+    "telephone": "0466232906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ile Aux Trésors\"",
+    "resultStructId": "5131",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue jacques cartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.323617388409235,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617537",
+    "mail": "",
+    "distance": 42085,
+    "latitude": 43.82254033258502,
+    "telephone": "0466683095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"C H U\"",
+    "resultStructId": "3142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du professeur debre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3188609249091465,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708533",
+    "mail": "creche.alisiers@ville-nimes.fr",
+    "distance": 42912,
+    "latitude": 43.82711954179492,
+    "telephone": "0466239220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Alisiers\"",
+    "resultStructId": "5258",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "363 rue neper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.326993552813749,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708576",
+    "mail": "creche.cotton@ville-nimes.fr",
+    "distance": 43155,
+    "latitude": 43.82394650976651,
+    "telephone": "0466368360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Eugénie Cotton\"",
+    "resultStructId": "5259",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "232 rue matisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.333900491025651,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617494",
+    "mail": "",
+    "distance": 43273,
+    "latitude": 43.83769707588578,
+    "telephone": "0466646274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Colibris\"",
+    "resultStructId": "3141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 impasse combe des oiseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.321588713770829,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703846",
+    "mail": "crechedugrandbois@vivadom.net",
+    "distance": 43621,
+    "latitude": 43.848563342566266,
+    "telephone": "0466388940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Grand Bois",
+    "resultStructId": "5149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "862 rue roger bertreux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.315111136257666,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12864468",
+    "mail": "nimes@lpcr.fr",
+    "distance": 44030,
+    "latitude": 43.815271445700716,
+    "telephone": "0952051635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes petits chaperons rouges",
+    "resultStructId": "8914",
+    "omegaId": "13078",
+    "avip": false,
+    "adresse": "440 rue yves sigal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.355253706762282,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12655678",
+    "mail": "crechejeanmace@mfg.fr",
+    "distance": 44858,
+    "latitude": 43.81890196489068,
+    "telephone": "0466706760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Jean Macé\"",
+    "resultStructId": "4029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.364292017449671,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617623",
+    "mail": "",
+    "distance": 44859,
+    "latitude": 43.82413862410046,
+    "telephone": "0466844004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Courlis\"",
+    "resultStructId": "3144",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 ancienne route de generac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.359513328583688,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703889",
+    "mail": "creche-petites-canailles@wanadoo.fr",
+    "distance": 44953,
+    "latitude": 43.83584862129347,
+    "telephone": "0466233677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petites Canailles\"",
+    "resultStructId": "5150",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.349646592842345,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708619",
+    "mail": "creche.delon-soubeyran@ville-nimes.fr",
+    "distance": 45021,
+    "latitude": 43.8343287601001,
+    "telephone": "0466284070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Delon Soubeyran\"",
+    "resultStructId": "5260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3522063766758805,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617580",
+    "mail": "creche.boutchou164@orange.fr",
+    "distance": 46099,
+    "latitude": 43.84124041289603,
+    "telephone": "0466219119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'Chou\"",
+    "resultStructId": "3143",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.361882594492032,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708232",
+    "mail": "martine.greenaway@cafnimes.cnafmail.fr",
+    "distance": 46175,
+    "latitude": 43.84355103157421,
+    "telephone": "0466676998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Rangueil\"",
+    "resultStructId": "5251",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.360731425745605,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12709092",
+    "mail": "christine.lasserre@dalzon.com",
+    "distance": 46207,
+    "latitude": 43.83760026878096,
+    "telephone": "0466049300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Emmanuel d'Alzon\"",
+    "resultStructId": "5271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue seguier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.367101774762178,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705953",
+    "mail": "crechespap@orange.fr",
+    "distance": 46436,
+    "latitude": 43.84543453403851,
+    "telephone": "0466047670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Château Silhol\"",
+    "resultStructId": "5198",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 impasse du chateau silhol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.362864588444417,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705867",
+    "mail": "creche.lautre-maison@wanadoo.fr",
+    "distance": 46741,
+    "latitude": 43.832116134788485,
+    "telephone": "0466294830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Autre Maison\"",
+    "resultStructId": "5196",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue salomon reinach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.380350375272898,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12727935",
+    "mail": "creche@mfg.fr",
+    "distance": 46777,
+    "latitude": 43.84691596472232,
+    "telephone": "0466288031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Suzanne Crémieux\"",
+    "resultStructId": "5739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue de la biche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.366621126308723,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12613624",
+    "mail": "",
+    "distance": 47881,
+    "latitude": 43.84362067239285,
+    "telephone": "0466278022",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Mosaique\"",
+    "resultStructId": "3051",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de lattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.386716030848769,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12651722",
+    "mail": "saje.cmd@wanadoo.fr",
+    "distance": 48050,
+    "latitude": 43.854212615791525,
+    "telephone": "0466021170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Marelle\"",
+    "resultStructId": "3937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du chalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.378898772305826,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12865242",
+    "mail": "nimes2@lpcr.fr",
+    "distance": 48090,
+    "latitude": 43.85645087736786,
+    "telephone": "0430318400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits Chaperons rouges",
+    "resultStructId": "8932",
+    "omegaId": "15457",
+    "avip": false,
+    "adresse": "115 route",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.377238947601675,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617451",
+    "mail": "creche.begonias@ville-nimes.fr",
+    "distance": 49426,
+    "latitude": 43.85530544199102,
+    "telephone": "0466021240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bégonias\" (familial) Multi-accueil \"Les Grillons\"(co",
+    "resultStructId": "3140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 avenue monseigneur claverie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.398918999136263,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708662",
+    "mail": "",
+    "distance": 49494,
+    "latitude": 43.856999973268046,
+    "telephone": "0466275984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Amelliers\"",
+    "resultStructId": "5261",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue malherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.39828867792233,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617451",
+    "mail": "creche.begonias@ville-nimes.fr",
+    "distance": 133730,
+    "latitude": 43.85530544199102,
+    "telephone": "0466021240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bégonias\" (familial) Multi-accueil \"Les Grillons\"(co",
+    "resultStructId": "3140",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 avenue monseigneur claverie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.398918999136263,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708662",
+    "mail": "",
+    "distance": 133762,
+    "latitude": 43.856999973268046,
+    "telephone": "0466275984",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Amelliers\"",
+    "resultStructId": "5261",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue malherbe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.39828867792233,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12613624",
+    "mail": "",
+    "distance": 134832,
+    "latitude": 43.84362067239285,
+    "telephone": "0466278022",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Mosaique\"",
+    "resultStructId": "3051",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue de lattre de tassigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.386716030848769,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12651722",
+    "mail": "saje.cmd@wanadoo.fr",
+    "distance": 135339,
+    "latitude": 43.854212615791525,
+    "telephone": "0466021170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Marelle\"",
+    "resultStructId": "3937",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue du chalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.378898772305826,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12865242",
+    "mail": "nimes2@lpcr.fr",
+    "distance": 135448,
+    "latitude": 43.85645087736786,
+    "telephone": "0430318400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les petits Chaperons rouges",
+    "resultStructId": "8932",
+    "omegaId": "15457",
+    "avip": false,
+    "adresse": "115 route",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.377238947601675,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705867",
+    "mail": "creche.lautre-maison@wanadoo.fr",
+    "distance": 135477,
+    "latitude": 43.832116134788485,
+    "telephone": "0466294830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Autre Maison\"",
+    "resultStructId": "5196",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue salomon reinach",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.380350375272898,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12727935",
+    "mail": "creche@mfg.fr",
+    "distance": 136398,
+    "latitude": 43.84691596472232,
+    "telephone": "0466288031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Suzanne Crémieux\"",
+    "resultStructId": "5739",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 rue de la biche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.366621126308723,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12709092",
+    "mail": "christine.lasserre@dalzon.com",
+    "distance": 136467,
+    "latitude": 43.83760026878096,
+    "telephone": "0466049300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Emmanuel d'Alzon\"",
+    "resultStructId": "5271",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue seguier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.367101774762178,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12705953",
+    "mail": "crechespap@orange.fr",
+    "distance": 136714,
+    "latitude": 43.84543453403851,
+    "telephone": "0466047670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Château Silhol\"",
+    "resultStructId": "5198",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 impasse du chateau silhol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.362864588444417,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12617580",
+    "mail": "creche.boutchou164@orange.fr",
+    "distance": 136840,
+    "latitude": 43.84124041289603,
+    "telephone": "0466219119",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bout'Chou\"",
+    "resultStructId": "3143",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue de bourgogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.361882594492032,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12708232",
+    "mail": "martine.greenaway@cafnimes.cnafmail.fr",
+    "distance": 136906,
+    "latitude": 43.84355103157421,
+    "telephone": "0466676998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Rangueil\"",
+    "resultStructId": "5251",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue rangueil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.360731425745605,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12655678",
+    "mail": "crechejeanmace@mfg.fr",
+    "distance": 136929,
+    "latitude": 43.81890196489068,
+    "telephone": "0466706760",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Jean Macé\"",
+    "resultStructId": "4029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 impasse jean mace",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.364292017449671,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617623",
+    "mail": "",
+    "distance": 137240,
+    "latitude": 43.82413862410046,
+    "telephone": "0466844004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Courlis\"",
+    "resultStructId": "3144",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "375 ancienne route de generac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.359513328583688,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708619",
+    "mail": "creche.delon-soubeyran@ville-nimes.fr",
+    "distance": 137694,
+    "latitude": 43.8343287601001,
+    "telephone": "0466284070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Delon Soubeyran\"",
+    "resultStructId": "5260",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3522063766758805,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12864468",
+    "mail": "nimes@lpcr.fr",
+    "distance": 137699,
+    "latitude": 43.815271445700716,
+    "telephone": "0952051635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes petits chaperons rouges",
+    "resultStructId": "8914",
+    "omegaId": "13078",
+    "avip": false,
+    "adresse": "440 rue yves sigal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.355253706762282,
+    "ville": "nimes",
+    "cp": "30000"
+  },
+  {
+    "resultId": "12703889",
+    "mail": "creche-petites-canailles@wanadoo.fr",
+    "distance": 137880,
+    "latitude": 43.83584862129347,
+    "telephone": "0466233677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petites Canailles\"",
+    "resultStructId": "5150",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des tilleuls",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.349646592842345,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708576",
+    "mail": "creche.cotton@ville-nimes.fr",
+    "distance": 139283,
+    "latitude": 43.82394650976651,
+    "telephone": "0466368360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Eugénie Cotton\"",
+    "resultStructId": "5259",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "232 rue matisse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.333900491025651,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12708533",
+    "mail": "creche.alisiers@ville-nimes.fr",
+    "distance": 139793,
+    "latitude": 43.82711954179492,
+    "telephone": "0466239220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Alisiers\"",
+    "resultStructId": "5258",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "363 rue neper",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.326993552813749,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617494",
+    "mail": "",
+    "distance": 140095,
+    "latitude": 43.83769707588578,
+    "telephone": "0466646274",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Colibris\"",
+    "resultStructId": "3141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 impasse combe des oiseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.321588713770829,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703072",
+    "mail": "assocl-ile-aux-tresors@orange.fr",
+    "distance": 140192,
+    "latitude": 43.81718600062248,
+    "telephone": "0466232906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Ile Aux Trésors\"",
+    "resultStructId": "5131",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue jacques cartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.323617388409235,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12703846",
+    "mail": "crechedugrandbois@vivadom.net",
+    "distance": 140491,
+    "latitude": 43.848563342566266,
+    "telephone": "0466388940",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Grand Bois",
+    "resultStructId": "5149",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "862 rue roger bertreux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.315111136257666,
+    "ville": "nimes",
+    "cp": "30900"
+  },
+  {
+    "resultId": "12617537",
+    "mail": "",
+    "distance": 140500,
+    "latitude": 43.82254033258502,
+    "telephone": "0466683095",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"C H U\"",
+    "resultStructId": "3142",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du professeur debre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3188609249091465,
+    "ville": "nimes",
+    "cp": "30900"
+  }
+]

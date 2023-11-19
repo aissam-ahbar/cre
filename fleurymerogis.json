@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12518809",
+    "mail": "",
+    "distance": 188709,
+    "latitude": 48.637330976371274,
+    "telephone": "0169466700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde l'Enfant - Fleury Mérogis",
+    "resultStructId": "846",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue andre malraux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3637417735280777,
+    "ville": "fleurymerogis",
+    "cp": "91700"
+  },
+  {
+    "resultId": "12752273",
+    "mail": "cafaxe@mairie-fleury-merogis.fr",
+    "distance": 188709,
+    "latitude": 48.637330976371274,
+    "telephone": "0169466710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "6305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue andre malraux 91700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3637417735280777,
+    "ville": "fleurymerogis",
+    "cp": ""
+  },
+  {
+    "resultId": "12752187",
+    "mail": "dehay@mairie-fleury-merogis.fr",
+    "distance": 188709,
+    "latitude": 48.637330976371274,
+    "telephone": "0169466715",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie",
+    "resultStructId": "6303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60rue andre malraux 91700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3637417735280777,
+    "ville": "fleurymerogis",
+    "cp": ""
+  },
+  {
+    "resultId": "31989541",
+    "mail": "gmellinger@lecarrouseldesrois.com",
+    "distance": 188745,
+    "latitude": 48.6385020305528,
+    "telephone": "0699688030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 rue rosa parks 91700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.359315780477153,
+    "ville": "fleurymerogis",
+    "cp": ""
+  },
+  {
+    "resultId": "12752230",
+    "mail": "hocine@mairie-fleury-merogis.fr",
+    "distance": 189013,
+    "latitude": 48.63997510478294,
+    "telephone": "0169253980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil",
+    "resultStructId": "6304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77rue de l'ecoute s'il pleut 91700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.36482371868678,
+    "ville": "fleurymerogis",
+    "cp": ""
+  }
+]

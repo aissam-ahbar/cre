@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "35031140",
+    "mail": "lacourteechelle@partenaire-parents.com",
+    "distance": 60951,
+    "latitude": 44.88049130209067,
+    "telephone": "0988304287",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACOURTE ECHELLE PARTENAIRE-PARENTS MONTUSSAN",
+    "resultStructId": "129001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue deslauriers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4154924461394306,
+    "ville": "montussan",
+    "cp": "33450"
+  },
+  {
+    "resultId": "47299623",
+    "mail": "",
+    "distance": 61659,
+    "latitude": 44.88468811196702,
+    "telephone": "0533054635",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheTom&Josette - Angeline",
+    "resultStructId": "338701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 route d'angeline",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.42896480958223293,
+    "ville": "montussan",
+    "cp": "33450"
+  }
+]

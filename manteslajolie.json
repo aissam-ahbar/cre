@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "24416402",
+    "mail": "mc.123.coucou@gmail.com",
+    "distance": 161416,
+    "latitude": 48.9946222685347,
+    "telephone": "0785580597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - 1 2 3 COUCOU",
+    "resultStructId": "696016",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue saint nicolas 78200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6915803774999458,
+    "ville": "manteslajolie",
+    "cp": ""
+  },
+  {
+    "resultId": "12842796",
+    "mail": "creche.picotipicota@people-and-baby.com",
+    "distance": 162095,
+    "latitude": 48.99693204266192,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - PICOTI PICOTA",
+    "resultStructId": "688236",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue paul bert 78200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7007881021320683,
+    "ville": "manteslajolie",
+    "cp": ""
+  },
+  {
+    "resultId": "23288451",
+    "mail": "infos@creche-mantes-la-jolie.com",
+    "distance": 162341,
+    "latitude": 48.989664723777516,
+    "telephone": "0954721098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BIBOU",
+    "resultStructId": "676312",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue franklin roosevelt 78200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.704489931660311,
+    "ville": "manteslajolie",
+    "cp": ""
+  }
+]

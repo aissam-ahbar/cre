@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12567614",
+    "mail": "lamaisondangele@creches-du-sud.fr",
+    "distance": 60371,
+    "latitude": 43.493853110740254,
+    "telephone": "0442242969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA MAISON D ANGELE",
+    "resultStructId": "198903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue marcellin berthelot 13290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.369292240965798,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18084687",
+    "mail": "",
+    "distance": 65824,
+    "latitude": 43.52609292425224,
+    "telephone": "0442942440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACNOTRE DAME DE LA MERCI",
+    "resultStructId": "194814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "455 avenue max juvenal 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.441218133343349,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18082200",
+    "mail": "",
+    "distance": 66297,
+    "latitude": 43.529800781493456,
+    "telephone": "0442920066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Aquarelle LPCR DSP AIX",
+    "resultStructId": "191748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean orsini 13090",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12863866",
+    "mail": "aix.lauzier@lpcr.fr",
+    "distance": 66297,
+    "latitude": 43.529800781493456,
+    "telephone": "0488800820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICAix Lauziere",
+    "resultStructId": "191744",
+    "omegaId": "15154",
+    "avip": false,
+    "adresse": "1030 rue jean-rene guilibert 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12612549",
+    "mail": "csc.jean-paul-coste@wanadoo.fr",
+    "distance": 67208,
+    "latitude": 43.51358181845424,
+    "telephone": "0442273296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE JARDIN DE MADY",
+    "resultStructId": "190702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "217 avenue jean paul coste 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.457235414165496,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12612549",
+    "mail": "csc.jean-paul-coste@wanadoo.fr",
+    "distance": 333894,
+    "latitude": 43.51358181845424,
+    "telephone": "0442273296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE JARDIN DE MADY",
+    "resultStructId": "190702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "217 avenue jean paul coste 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.457235414165496,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12863866",
+    "mail": "aix.lauzier@lpcr.fr",
+    "distance": 335396,
+    "latitude": 43.529800781493456,
+    "telephone": "0488800820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICAix Lauziere",
+    "resultStructId": "191744",
+    "omegaId": "15154",
+    "avip": false,
+    "adresse": "1030 rue jean-rene guilibert 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18082200",
+    "mail": "",
+    "distance": 335396,
+    "latitude": 43.529800781493456,
+    "telephone": "0442920066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Aquarelle LPCR DSP AIX",
+    "resultStructId": "191748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean orsini 13090",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18084687",
+    "mail": "",
+    "distance": 335663,
+    "latitude": 43.52609292425224,
+    "telephone": "0442942440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACNOTRE DAME DE LA MERCI",
+    "resultStructId": "194814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "455 avenue max juvenal 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.441218133343349,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12567614",
+    "mail": "lamaisondangele@creches-du-sud.fr",
+    "distance": 339369,
+    "latitude": 43.493853110740254,
+    "telephone": "0442242969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA MAISON D ANGELE",
+    "resultStructId": "198903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue marcellin berthelot 13290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.369292240965798,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12567614",
+    "mail": "lamaisondangele@creches-du-sud.fr",
+    "distance": 119240,
+    "latitude": 43.493853110740254,
+    "telephone": "0442242969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA MAISON D ANGELE",
+    "resultStructId": "198903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue marcellin berthelot 13290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.369292240965798,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18084687",
+    "mail": "",
+    "distance": 124695,
+    "latitude": 43.52609292425224,
+    "telephone": "0442942440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACNOTRE DAME DE LA MERCI",
+    "resultStructId": "194814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "455 avenue max juvenal 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.441218133343349,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18082200",
+    "mail": "",
+    "distance": 125161,
+    "latitude": 43.529800781493456,
+    "telephone": "0442920066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Aquarelle LPCR DSP AIX",
+    "resultStructId": "191748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean orsini 13090",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12863866",
+    "mail": "aix.lauzier@lpcr.fr",
+    "distance": 125161,
+    "latitude": 43.529800781493456,
+    "telephone": "0488800820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICAix Lauziere",
+    "resultStructId": "191744",
+    "omegaId": "15154",
+    "avip": false,
+    "adresse": "1030 rue jean-rene guilibert 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12612549",
+    "mail": "csc.jean-paul-coste@wanadoo.fr",
+    "distance": 126092,
+    "latitude": 43.51358181845424,
+    "telephone": "0442273296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE JARDIN DE MADY",
+    "resultStructId": "190702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "217 avenue jean paul coste 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.457235414165496,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18082200",
+    "mail": "",
+    "distance": 68509,
+    "latitude": 43.529800781493456,
+    "telephone": "0442920066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Aquarelle LPCR DSP AIX",
+    "resultStructId": "191748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean orsini 13090",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12863866",
+    "mail": "aix.lauzier@lpcr.fr",
+    "distance": 68509,
+    "latitude": 43.529800781493456,
+    "telephone": "0488800820",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICAix Lauziere",
+    "resultStructId": "191744",
+    "omegaId": "15154",
+    "avip": false,
+    "adresse": "1030 rue jean-rene guilibert 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.447381510619457,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "18084687",
+    "mail": "",
+    "distance": 69153,
+    "latitude": 43.52609292425224,
+    "telephone": "0442942440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACNOTRE DAME DE LA MERCI",
+    "resultStructId": "194814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "455 avenue max juvenal 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.441218133343349,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12612549",
+    "mail": "csc.jean-paul-coste@wanadoo.fr",
+    "distance": 69218,
+    "latitude": 43.51358181845424,
+    "telephone": "0442273296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLE JARDIN DE MADY",
+    "resultStructId": "190702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "217 avenue jean paul coste 13100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.457235414165496,
+    "ville": "aixenprovence",
+    "cp": ""
+  },
+  {
+    "resultId": "12567614",
+    "mail": "lamaisondangele@creches-du-sud.fr",
+    "distance": 75828,
+    "latitude": 43.493853110740254,
+    "telephone": "0442242969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLA MAISON D ANGELE",
+    "resultStructId": "198903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue marcellin berthelot 13290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.369292240965798,
+    "ville": "aixenprovence",
+    "cp": ""
+  }
+]

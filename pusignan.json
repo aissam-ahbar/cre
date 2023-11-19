@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12987792",
+    "mail": "pusignan@creche-attitude.fr",
+    "distance": 179443,
+    "latitude": 45.76225061022652,
+    "telephone": "0967875597",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheattitude Pusignan",
+    "resultStructId": "11782",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 impasse des freres lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.078164109404704,
+    "ville": "pusignan",
+    "cp": "69330"
+  },
+  {
+    "resultId": "32034403",
+    "mail": "garderie@mairie-pusignan.fr",
+    "distance": 179814,
+    "latitude": 45.7553295763882,
+    "telephone": "0472051422",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-acceuilLes P'tits Loups",
+    "resultStructId": "142005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place schonwald",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.066853306897493,
+    "ville": "pusignan",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12924625",
+    "mail": "pusignan@lpcr.fr",
+    "distance": 180738,
+    "latitude": 45.74815053404179,
+    "telephone": "0472970740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES MALICIEUX DE SAUGNIEU",
+    "resultStructId": "10313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route de saugnieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.073143416581441,
+    "ville": "pusignan",
+    "cp": "69330"
+  }
+]

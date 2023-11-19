@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "60280990",
+    "mail": "creche@epsm-loiret.fr",
+    "distance": 182930,
+    "latitude": 47.9444242776933,
+    "telephone": "0238605751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCEPSM G. DAUMEZON FLEURY LES AUBRAIS",
+    "resultStructId": "708027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route de chanteau45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9450225889982518,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772698",
+    "mail": "halte.garderie@ville-fleurylesaubrais.fr",
+    "distance": 183777,
+    "latitude": 47.928096894104485,
+    "telephone": "0238710363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"L'île aux Mômes\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16avenue des cosmonautes 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9217639475743233,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "41130740",
+    "mail": "fleury@milkncookie.fr",
+    "distance": 184108,
+    "latitude": 47.93140572205657,
+    "telephone": "0953118229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Milk N'Cookie - Fleury Les Aubrais",
+    "resultStructId": "212802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue louispasteur 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9190688574326642,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "13033380",
+    "mail": "multiaccueilat@ville-fleurylesaubrais.fr",
+    "distance": 184216,
+    "latitude": 47.92570715837883,
+    "telephone": "0238584092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Anaïs et Thibault\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue des droits de l'enfant 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.913789473688552,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "25329207",
+    "mail": "fleury@creche-attitude.fr",
+    "distance": 184421,
+    "latitude": 47.935668740492815,
+    "telephone": "0238681998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheFleury les Aubrais Crèche attitude",
+    "resultStructId": "30203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 a rue pierre etmarie curie 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9172711683305612,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772655",
+    "mail": "lespetitschoux@ville-fleurylesaubrais.fr",
+    "distance": 184965,
+    "latitude": 47.93592605905998,
+    "telephone": "0238830173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CF«les Petits Choux Fleuryssois» - FLEURY LES AUBRAIS",
+    "resultStructId": "477002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue george sand 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9094704336741388,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12961476",
+    "mail": "lespetitschoux@ville-fleurylesaubrais.fr",
+    "distance": 184965,
+    "latitude": 47.93592605905998,
+    "telephone": "0238830173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HG\"Les petits choux fleuryssois\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue george sand 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9094704336741388,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772612",
+    "mail": "creche.collective@ville-fleurylesaubrais.fr",
+    "distance": 185025,
+    "latitude": 47.936552280347065,
+    "telephone": "0238735162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \" Les Oisillons\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "79rue jean jaures 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9090007685185237,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "13033380",
+    "mail": "multiaccueilat@ville-fleurylesaubrais.fr",
+    "distance": 104056,
+    "latitude": 47.92570715837883,
+    "telephone": "0238584092",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Anaïs et Thibault\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue des droits de l'enfant 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.913789473688552,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772698",
+    "mail": "halte.garderie@ville-fleurylesaubrais.fr",
+    "distance": 104420,
+    "latitude": 47.928096894104485,
+    "telephone": "0238710363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"L'île aux Mômes\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477009",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16avenue des cosmonautes 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9217639475743233,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "41130740",
+    "mail": "fleury@milkncookie.fr",
+    "distance": 104748,
+    "latitude": 47.93140572205657,
+    "telephone": "0953118229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche Milk N'Cookie - Fleury Les Aubrais",
+    "resultStructId": "212802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue louispasteur 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9190688574326642,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772655",
+    "mail": "lespetitschoux@ville-fleurylesaubrais.fr",
+    "distance": 105123,
+    "latitude": 47.93592605905998,
+    "telephone": "0238830173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CF«les Petits Choux Fleuryssois» - FLEURY LES AUBRAIS",
+    "resultStructId": "477002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue george sand 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9094704336741388,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12961476",
+    "mail": "lespetitschoux@ville-fleurylesaubrais.fr",
+    "distance": 105123,
+    "latitude": 47.93592605905998,
+    "telephone": "0238830173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HG\"Les petits choux fleuryssois\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue george sand 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9094704336741388,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "12772612",
+    "mail": "creche.collective@ville-fleurylesaubrais.fr",
+    "distance": 105186,
+    "latitude": 47.936552280347065,
+    "telephone": "0238735162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \" Les Oisillons\" - FLEURY LES AUBRAIS",
+    "resultStructId": "477003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "79rue jean jaures 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9090007685185237,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "25329207",
+    "mail": "fleury@creche-attitude.fr",
+    "distance": 105192,
+    "latitude": 47.935668740492815,
+    "telephone": "0238681998",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheFleury les Aubrais Crèche attitude",
+    "resultStructId": "30203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 a rue pierre etmarie curie 45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9172711683305612,
+    "ville": "lesaubrais",
+    "cp": ""
+  },
+  {
+    "resultId": "60280990",
+    "mail": "creche@epsm-loiret.fr",
+    "distance": 106519,
+    "latitude": 47.9444242776933,
+    "telephone": "0238605751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCEPSM G. DAUMEZON FLEURY LES AUBRAIS",
+    "resultStructId": "708027",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route de chanteau45400 fleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9450225889982518,
+    "ville": "lesaubrais",
+    "cp": ""
+  }
+]

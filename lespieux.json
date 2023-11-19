@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12586405",
+    "mail": "creche@lespieux.fr",
+    "distance": 113814,
+    "latitude": 49.515780532586525,
+    "telephone": "0233875000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des Pieux",
+    "resultStructId": "2418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 route de cherbourg 50340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.8020028647137334,
+    "ville": "lespieux",
+    "cp": ""
+  }
+]

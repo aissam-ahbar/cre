@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "41130921",
+    "mail": "chateauneuf@les-cherubins.com",
+    "distance": 44656,
+    "latitude": 43.39802164132132,
+    "telephone": "0442882399",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Crèche de Chateauneuf les Martigues",
+    "resultStructId": "212804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route du jai13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.133246752176108,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406521",
+    "mail": "contact@microcreche-envolemoi.fr",
+    "distance": 45710,
+    "latitude": 43.392749048355114,
+    "telephone": "0613899038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Petits Gatés",
+    "resultStructId": "195119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de l’homme a la fenetre13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.144304594221356,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406570",
+    "mail": "",
+    "distance": 46093,
+    "latitude": 43.3882366970925,
+    "telephone": "0488401799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBaby Boo",
+    "resultStructId": "195120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard valampe 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.146716991785165,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "12568173",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 46280,
+    "latitude": 43.3912309368989,
+    "telephone": "0442762440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLES OISILLONS",
+    "resultStructId": "192107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue general de gaulle 13220chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1510986631047695,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18118190",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 47897,
+    "latitude": 43.38795135388716,
+    "telephone": "0442742024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Ilot Pitchoun CHATEAUNEUF LES MARTIGUES",
+    "resultStructId": "192106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevardmendes france 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.170973336956658,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18118190",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 349404,
+    "latitude": 43.38795135388716,
+    "telephone": "0442742024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Ilot Pitchoun CHATEAUNEUF LES MARTIGUES",
+    "resultStructId": "192106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevardmendes france 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.170973336956658,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "12568173",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 351030,
+    "latitude": 43.3912309368989,
+    "telephone": "0442762440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLES OISILLONS",
+    "resultStructId": "192107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue general de gaulle 13220chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1510986631047695,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406570",
+    "mail": "",
+    "distance": 351235,
+    "latitude": 43.3882366970925,
+    "telephone": "0488401799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBaby Boo",
+    "resultStructId": "195120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard valampe 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.146716991785165,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406521",
+    "mail": "contact@microcreche-envolemoi.fr",
+    "distance": 351602,
+    "latitude": 43.392749048355114,
+    "telephone": "0613899038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Petits Gatés",
+    "resultStructId": "195119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de l’homme a la fenetre13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.144304594221356,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "41130921",
+    "mail": "chateauneuf@les-cherubins.com",
+    "distance": 352650,
+    "latitude": 43.39802164132132,
+    "telephone": "0442882399",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Crèche de Chateauneuf les Martigues",
+    "resultStructId": "212804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route du jai13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.133246752176108,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "41130921",
+    "mail": "chateauneuf@les-cherubins.com",
+    "distance": 102188,
+    "latitude": 43.39802164132132,
+    "telephone": "0442882399",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Crèche de Chateauneuf les Martigues",
+    "resultStructId": "212804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route du jai13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.133246752176108,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406521",
+    "mail": "contact@microcreche-envolemoi.fr",
+    "distance": 103191,
+    "latitude": 43.392749048355114,
+    "telephone": "0613899038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Petits Gatés",
+    "resultStructId": "195119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de l’homme a la fenetre13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.144304594221356,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406570",
+    "mail": "",
+    "distance": 103497,
+    "latitude": 43.3882366970925,
+    "telephone": "0488401799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBaby Boo",
+    "resultStructId": "195120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard valampe 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.146716991785165,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "12568173",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 103764,
+    "latitude": 43.3912309368989,
+    "telephone": "0442762440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLES OISILLONS",
+    "resultStructId": "192107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue general de gaulle 13220chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1510986631047695,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18118190",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 105411,
+    "latitude": 43.38795135388716,
+    "telephone": "0442742024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Ilot Pitchoun CHATEAUNEUF LES MARTIGUES",
+    "resultStructId": "192106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevardmendes france 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.170973336956658,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18118190",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 95595,
+    "latitude": 43.38795135388716,
+    "telephone": "0442742024",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACL'Ilot Pitchoun CHATEAUNEUF LES MARTIGUES",
+    "resultStructId": "192106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 boulevardmendes france 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.170973336956658,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "12568173",
+    "mail": "ccas@chateauneuf-les-martigues.fr",
+    "distance": 96560,
+    "latitude": 43.3912309368989,
+    "telephone": "0442762440",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLES OISILLONS",
+    "resultStructId": "192107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 avenue general de gaulle 13220chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1510986631047695,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406521",
+    "mail": "contact@microcreche-envolemoi.fr",
+    "distance": 96866,
+    "latitude": 43.392749048355114,
+    "telephone": "0613899038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Petits Gatés",
+    "resultStructId": "195119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue de l’homme a la fenetre13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.144304594221356,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "18406570",
+    "mail": "",
+    "distance": 97046,
+    "latitude": 43.3882366970925,
+    "telephone": "0488401799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJEBaby Boo",
+    "resultStructId": "195120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 boulevard valampe 13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.146716991785165,
+    "ville": "lesmartigues",
+    "cp": ""
+  },
+  {
+    "resultId": "41130921",
+    "mail": "chateauneuf@les-cherubins.com",
+    "distance": 97167,
+    "latitude": 43.39802164132132,
+    "telephone": "0442882399",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPetite Crèche de Chateauneuf les Martigues",
+    "resultStructId": "212804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route du jai13220 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.133246752176108,
+    "ville": "lesmartigues",
+    "cp": ""
+  }
+]

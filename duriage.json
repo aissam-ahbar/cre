@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12884936",
+    "mail": "multi-acc.uriage@mairie-smu.fr",
+    "distance": 424422,
+    "latitude": 45.14016718837265,
+    "telephone": "0476891303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins",
+    "resultStructId": "573101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue des etons 38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.82637374568891,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "35113769",
+    "mail": "monjardin@mairie-smu.fr",
+    "distance": 424633,
+    "latitude": 45.14694598497007,
+    "telephone": "0476892144",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Mon Jardin\"",
+    "resultStructId": "573301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "216 allee des petites maisons38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.83380268843442,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "12851482",
+    "mail": "",
+    "distance": 425275,
+    "latitude": 45.14953742291605,
+    "telephone": "0612376360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La P'tite Ruche",
+    "resultStructId": "8612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "709 route de gieres 38410 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.825389895731794,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "12893536",
+    "mail": "multi-acc.pinet@mairie-smu.fr",
+    "distance": 425342,
+    "latitude": 45.16479128217496,
+    "telephone": "0476597753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Pommiers",
+    "resultStructId": "573001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 route du montrond 38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.850457203121951,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "12884936",
+    "mail": "multi-acc.uriage@mairie-smu.fr",
+    "distance": 132910,
+    "latitude": 45.14016718837265,
+    "telephone": "0476891303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lutins",
+    "resultStructId": "573101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue des etons 38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.82637374568891,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "35113769",
+    "mail": "monjardin@mairie-smu.fr",
+    "distance": 133575,
+    "latitude": 45.14694598497007,
+    "telephone": "0476892144",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Mon Jardin\"",
+    "resultStructId": "573301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "216 allee des petites maisons38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.83380268843442,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "12851482",
+    "mail": "",
+    "distance": 133953,
+    "latitude": 45.14953742291605,
+    "telephone": "0612376360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La P'tite Ruche",
+    "resultStructId": "8612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "709 route de gieres 38410 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.825389895731794,
+    "ville": "duriage",
+    "cp": ""
+  },
+  {
+    "resultId": "12893536",
+    "mail": "multi-acc.pinet@mairie-smu.fr",
+    "distance": 135371,
+    "latitude": 45.16479128217496,
+    "telephone": "0476597753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 Pommiers",
+    "resultStructId": "573001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 route du montrond 38410 st martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.850457203121951,
+    "ville": "duriage",
+    "cp": ""
+  }
+]

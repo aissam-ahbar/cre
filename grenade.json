@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13061846",
+    "mail": "halte-garderie@hautstolosans.fr",
+    "distance": 137354,
+    "latitude": 43.774450093623415,
+    "telephone": "0561821716",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Halte-garderieLes petits loups",
+    "resultStructId": "673619",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "23 rue de belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.285829223322535,
+    "ville": "grenade",
+    "cp": "31330"
+  },
+  {
+    "resultId": "12710941",
+    "mail": "crechegrenade@hautstolosans.fr",
+    "distance": 138582,
+    "latitude": 43.76148710748468,
+    "telephone": "0561821890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCitronelle",
+    "resultStructId": "604302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 chemin montasse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2935226723227389,
+    "ville": "grenade",
+    "cp": "31330"
+  },
+  {
+    "resultId": "31232147",
+    "mail": "grenade@les-cherubins.com",
+    "distance": 139568,
+    "latitude": 43.75737381369084,
+    "telephone": "0561098700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCHERUBINS DE GRENADE",
+    "resultStructId": "75002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du tourmalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3044010016067116,
+    "ville": "grenade",
+    "cp": "31330"
+  }
+]

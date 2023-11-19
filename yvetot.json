@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "37755354",
+    "mail": "christine.esteban@ccas-yvetot.fr",
+    "distance": 169063,
+    "latitude": 49.61552566712666,
+    "telephone": "0235951214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LA CAPUCINE",
+    "resultStructId": "646401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des petits",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7643129807602937,
+    "ville": "yvetot",
+    "cp": "76190"
+  },
+  {
+    "resultId": "39062891",
+    "mail": "vanillechocaux@people-and-baby.com",
+    "distance": 169466,
+    "latitude": 49.616448486777095,
+    "telephone": "0235164126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VANILLECHO'CAUX",
+    "resultStructId": "184612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marechal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7564708995453149,
+    "ville": "yvetot",
+    "cp": "76190"
+  },
+  {
+    "resultId": "39062891",
+    "mail": "vanillechocaux@people-and-baby.com",
+    "distance": 119886,
+    "latitude": 49.616448486777095,
+    "telephone": "0235164126",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VANILLECHO'CAUX",
+    "resultStructId": "184612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue marechal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7564708995453149,
+    "ville": "yvetot",
+    "cp": "76190"
+  },
+  {
+    "resultId": "37755354",
+    "mail": "christine.esteban@ccas-yvetot.fr",
+    "distance": 120260,
+    "latitude": 49.61552566712666,
+    "telephone": "0235951214",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLLECTIF LA CAPUCINE",
+    "resultStructId": "646401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des petits",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7643129807602937,
+    "ville": "yvetot",
+    "cp": "76190"
+  }
+]

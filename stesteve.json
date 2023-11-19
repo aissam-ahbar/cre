@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12754853",
+    "mail": "creche@st-esteve.com",
+    "distance": 172791,
+    "latitude": 42.70989397834548,
+    "telephone": "0468382491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCASSt Estève",
+    "resultStructId": "6365",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du mas carbasse 66240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.841592252753024,
+    "ville": "stesteve",
+    "cp": ""
+  },
+  {
+    "resultId": "12754853",
+    "mail": "creche@st-esteve.com",
+    "distance": 130728,
+    "latitude": 42.70989397834548,
+    "telephone": "0468382491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCASSt Estève",
+    "resultStructId": "6365",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du mas carbasse 66240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.841592252753024,
+    "ville": "stesteve",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12907468",
+    "mail": "arcenciel@bievre-isere.com",
+    "distance": 164052,
+    "latitude": 45.340655244062326,
+    "telephone": "0476655747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEArc-en-Ciel de St Etienne de St Geoirs",
+    "resultStructId": "450801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue marathon38590 st etienne de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.343403089883553,
+    "ville": "stgeoirs",
+    "cp": ""
+  },
+  {
+    "resultId": "37050191",
+    "mail": "creche-la-voie-lactee@leaetleo.com",
+    "distance": 165970,
+    "latitude": 45.35730164071584,
+    "telephone": "0476063051",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELA VOIE LACTEE",
+    "resultStructId": "151126",
+    "omegaId": "9961",
+    "avip": false,
+    "adresse": "18 avenue louis bleriot 38590 stetienne de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.336677683304784,
+    "ville": "stgeoirs",
+    "cp": ""
+  }
+]

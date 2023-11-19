@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12784265",
+    "mail": "buclepetitprince@liveli.fr",
+    "distance": 198860,
+    "latitude": 48.76760934624537,
+    "telephone": "0171427003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE PETIT PRINCE",
+    "resultStructId": "676909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee daniel bovet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1165801223700735,
+    "ville": "buc",
+    "cp": "78530"
+  },
+  {
+    "resultId": "12784136",
+    "mail": "lesalouettes.cdf@lpcr.fr",
+    "distance": 198864,
+    "latitude": 48.76762605797992,
+    "telephone": "0139568169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES ALOUETTES",
+    "resultStructId": "676923",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 avenue morane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.116807408604775,
+    "ville": "buc",
+    "cp": "78530"
+  },
+  {
+    "resultId": "47231477",
+    "mail": "leshirondelles@mairie-buc.fr",
+    "distance": 199730,
+    "latitude": 48.774754184892956,
+    "telephone": "0139207195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES HIRONDELLES",
+    "resultStructId": "698818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue freres robin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.12369795750166,
+    "ville": "buc",
+    "cp": "78530"
+  },
+  {
+    "resultId": "12784265",
+    "mail": "buclepetitprince@liveli.fr",
+    "distance": 193553,
+    "latitude": 48.76760934624537,
+    "telephone": "0171427003",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LE PETIT PRINCE",
+    "resultStructId": "676909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee daniel bovet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1165801223700735,
+    "ville": "buc",
+    "cp": "78530"
+  },
+  {
+    "resultId": "12784136",
+    "mail": "lesalouettes.cdf@lpcr.fr",
+    "distance": 193570,
+    "latitude": 48.76762605797992,
+    "telephone": "0139568169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES ALOUETTES",
+    "resultStructId": "676923",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 avenue morane",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.116807408604775,
+    "ville": "buc",
+    "cp": "78530"
+  }
+]

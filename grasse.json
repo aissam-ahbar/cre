@@ -1,0 +1,812 @@
+[
+  {
+    "resultId": "12785727",
+    "mail": "",
+    "distance": 184764,
+    "latitude": 43.65033911030322,
+    "telephone": "0497055640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit Paris",
+    "resultStructId": "661003",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "78 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.916991620831926,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775536",
+    "mail": "",
+    "distance": 185032,
+    "latitude": 43.65208781521201,
+    "telephone": "0497055680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACastel Aroma",
+    "resultStructId": "711104",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "51 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.920224958475316,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "13016946",
+    "mail": "contact@babilou.com",
+    "distance": 185869,
+    "latitude": 43.64558775649175,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCPAJE Babilou Grasse Saint Antoine",
+    "resultStructId": "581701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin de lachapelle saint-antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.9309958099994375,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12698772",
+    "mail": "siege@harpeges.fr",
+    "distance": 186039,
+    "latitude": 43.650285969673966,
+    "telephone": "0493706946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes bengalis",
+    "resultStructId": "580602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 chemin de la cavalerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.932852248275277,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775579",
+    "mail": "",
+    "distance": 186681,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055602",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa bastide",
+    "resultStructId": "692240",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12785770",
+    "mail": "",
+    "distance": 186681,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe peyrard",
+    "resultStructId": "661101",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12718294",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 186756,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes écureuils",
+    "resultStructId": "581202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12693096",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 186756,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes aspres",
+    "resultStructId": "623604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775622",
+    "mail": "",
+    "distance": 186818,
+    "latitude": 43.64190264258271,
+    "telephone": "0493701000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit bois",
+    "resultStructId": "711103",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "64 route decannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942987714975823,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "33720798",
+    "mail": "grasse@lpcr.fr",
+    "distance": 186891,
+    "latitude": 43.65256883464841,
+    "telephone": "0489398208",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits chaperons rouges - Grasse",
+    "resultStructId": "580707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 chemin del'orme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.943329788415556,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775665",
+    "mail": "",
+    "distance": 188064,
+    "latitude": 43.64186281973171,
+    "telephone": "0497054753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petites frimousses",
+    "resultStructId": "692241",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 avenuelouis cauvin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.958492565450683,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775665",
+    "mail": "",
+    "distance": 241076,
+    "latitude": 43.64186281973171,
+    "telephone": "0497054753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petites frimousses",
+    "resultStructId": "692241",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 avenuelouis cauvin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.958492565450683,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775622",
+    "mail": "",
+    "distance": 241996,
+    "latitude": 43.64190264258271,
+    "telephone": "0493701000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit bois",
+    "resultStructId": "711103",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "64 route decannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942987714975823,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12718294",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 242088,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes écureuils",
+    "resultStructId": "581202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12693096",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 242088,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes aspres",
+    "resultStructId": "623604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775579",
+    "mail": "",
+    "distance": 242449,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055602",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa bastide",
+    "resultStructId": "692240",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12785770",
+    "mail": "",
+    "distance": 242449,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe peyrard",
+    "resultStructId": "661101",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "33720798",
+    "mail": "grasse@lpcr.fr",
+    "distance": 242780,
+    "latitude": 43.65256883464841,
+    "telephone": "0489398208",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits chaperons rouges - Grasse",
+    "resultStructId": "580707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 chemin del'orme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.943329788415556,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "13016946",
+    "mail": "contact@babilou.com",
+    "distance": 242984,
+    "latitude": 43.64558775649175,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCPAJE Babilou Grasse Saint Antoine",
+    "resultStructId": "581701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin de lachapelle saint-antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.9309958099994375,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12698772",
+    "mail": "siege@harpeges.fr",
+    "distance": 243227,
+    "latitude": 43.650285969673966,
+    "telephone": "0493706946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes bengalis",
+    "resultStructId": "580602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 chemin de la cavalerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.932852248275277,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775536",
+    "mail": "",
+    "distance": 244112,
+    "latitude": 43.65208781521201,
+    "telephone": "0497055680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACastel Aroma",
+    "resultStructId": "711104",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "51 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.920224958475316,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12785727",
+    "mail": "",
+    "distance": 244173,
+    "latitude": 43.65033911030322,
+    "telephone": "0497055640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit Paris",
+    "resultStructId": "661003",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "78 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.916991620831926,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12785727",
+    "mail": "",
+    "distance": 76588,
+    "latitude": 43.65033911030322,
+    "telephone": "0497055640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit Paris",
+    "resultStructId": "661003",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "78 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.916991620831926,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775536",
+    "mail": "",
+    "distance": 76734,
+    "latitude": 43.65208781521201,
+    "telephone": "0497055680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACastel Aroma",
+    "resultStructId": "711104",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "51 boulevardvictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.920224958475316,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12698772",
+    "mail": "siege@harpeges.fr",
+    "distance": 77733,
+    "latitude": 43.650285969673966,
+    "telephone": "0493706946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JELes bengalis",
+    "resultStructId": "580602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 chemin de la cavalerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.932852248275277,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "13016946",
+    "mail": "contact@babilou.com",
+    "distance": 77832,
+    "latitude": 43.64558775649175,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCPAJE Babilou Grasse Saint Antoine",
+    "resultStructId": "581701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 chemin de lachapelle saint-antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.9309958099994375,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "33720798",
+    "mail": "grasse@lpcr.fr",
+    "distance": 78378,
+    "latitude": 43.65256883464841,
+    "telephone": "0489398208",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petits chaperons rouges - Grasse",
+    "resultStructId": "580707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 chemin del'orme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.943329788415556,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775579",
+    "mail": "",
+    "distance": 78516,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055602",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa bastide",
+    "resultStructId": "692240",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12785770",
+    "mail": "",
+    "distance": 78516,
+    "latitude": 43.64640675957424,
+    "telephone": "0497055606",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe peyrard",
+    "resultStructId": "661101",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "4 chemin des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.941057230955067,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12718294",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 78792,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes écureuils",
+    "resultStructId": "581202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12693096",
+    "mail": "lelec@wanadoo.fr",
+    "distance": 78792,
+    "latitude": 43.642502519103395,
+    "telephone": "0493706764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes aspres",
+    "resultStructId": "623604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 boulevard emmanuel rouquier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942193281877769,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775622",
+    "mail": "",
+    "distance": 78879,
+    "latitude": 43.64190264258271,
+    "telephone": "0493701000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit bois",
+    "resultStructId": "711103",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "64 route decannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.942987714975823,
+    "ville": "grasse",
+    "cp": "06130"
+  },
+  {
+    "resultId": "12775665",
+    "mail": "",
+    "distance": 79998,
+    "latitude": 43.64186281973171,
+    "telephone": "0497054753",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes petites frimousses",
+    "resultStructId": "692241",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6 avenuelouis cauvin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.958492565450683,
+    "ville": "grasse",
+    "cp": "06130"
+  }
+]

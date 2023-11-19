@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12513348",
+    "mail": "",
+    "distance": 8959,
+    "latitude": 48.782291158285396,
+    "telephone": "0146612508",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS PIRATES",
+    "resultStructId": "88703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue edmond about 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.275633158484325,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12513305",
+    "mail": "",
+    "distance": 9196,
+    "latitude": 48.78571548571481,
+    "telephone": "0146325826",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS MOUSSES",
+    "resultStructId": "88702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin de la cote sainte catherine92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.25742855859599,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12513176",
+    "mail": "",
+    "distance": 9313,
+    "latitude": 48.78236563925069,
+    "telephone": "0146301328",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX BAMBINS",
+    "resultStructId": "88802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de l'orangerie 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.263505729597543,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12836983",
+    "mail": "plessis.robinson@lpcr.fr",
+    "distance": 9378,
+    "latitude": 48.78214866792675,
+    "telephone": "0155904451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - LE PLESSIS ROBINSON",
+    "resultStructId": "396101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centred'affaires la boursidiere - rue de la boursidiere 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2621949079709345,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "32053283",
+    "mail": "",
+    "distance": 9465,
+    "latitude": 48.78176448339132,
+    "telephone": "0141360163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPOISSONS CLOWNS",
+    "resultStructId": "88701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 / 6 rue de la ferme 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.26071959593494,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12513391",
+    "mail": "",
+    "distance": 9611,
+    "latitude": 48.78089167959912,
+    "telephone": "0146317948",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX TRESORS",
+    "resultStructId": "88803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue pierre d'artagnan 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2589620338348353,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12878314",
+    "mail": "contact@babilou.com",
+    "distance": 9762,
+    "latitude": 48.781963620359,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLe Plessis Herriot",
+    "resultStructId": "545204",
+    "omegaId": "1447",
+    "avip": false,
+    "adresse": "81-83 avenue edouard herriot92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2518684135422045,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12567141",
+    "mail": "contact@babilou.com",
+    "distance": 10079,
+    "latitude": 48.7774569236324,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLe-Plessis Libération",
+    "resultStructId": "424901",
+    "omegaId": "1470",
+    "avip": false,
+    "adresse": "20/22 avenue de la liberation92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2551578111367157,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "33618781",
+    "mail": "",
+    "distance": 10079,
+    "latitude": 48.77745704559682,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOULE PLESSIS ROBINSON",
+    "resultStructId": "109427",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 - 22 avenue de la liberation92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.255157580273068,
+    "ville": "plessisrobinson",
+    "cp": ""
+  },
+  {
+    "resultId": "12513133",
+    "mail": "",
+    "distance": 10193,
+    "latitude": 48.77733302547392,
+    "telephone": "0146301028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESDAUPHINS",
+    "resultStructId": "88801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue augustin rodin 92350 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2522825779689364,
+    "ville": "plessisrobinson",
+    "cp": ""
+  }
+]

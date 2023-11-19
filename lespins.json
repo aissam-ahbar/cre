@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12720057",
+    "mail": "creche.sausset@gmail.com",
+    "distance": 45820,
+    "latitude": 43.33221551264088,
+    "telephone": "0442132330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACSAUSSET LES PINS EX CHENE",
+    "resultStructId": "194006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue des chenes 13960sausset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.100308631116571,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12591092",
+    "mail": "crechecugeslespins@wanadoo.fr",
+    "distance": 92289,
+    "latitude": 43.27525579248317,
+    "telephone": "0442739680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLa Maison des bébés",
+    "resultStructId": "196103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ribassee. quartier lecros reynier 13780 cuges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.699922779842152,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12627943",
+    "mail": "leisesteleto@maisonenfance.fr",
+    "distance": 95858,
+    "latitude": 43.37166777312705,
+    "telephone": "0494800853",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeisEsteleto",
+    "resultStructId": "708745",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier la ferrage 83860 nans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.78537965452134,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12499889",
+    "mail": "multiaccueil.pommedapi@cc-sudestuaire.fr",
+    "distance": 98082,
+    "latitude": 47.24088192029497,
+    "telephone": "0240390407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 avenue de la guerche 44250 st brevin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1608655667573453,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12700406",
+    "mail": "creche@ville-roquefort-les-pins.fr",
+    "distance": 237538,
+    "latitude": 43.66585376311902,
+    "telephone": "0493770700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCBoule de gomme",
+    "resultStructId": "665302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place mougins-roquefort - cidex 40106330 roquefort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.05084396824692,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12627943",
+    "mail": "leisesteleto@maisonenfance.fr",
+    "distance": 303183,
+    "latitude": 43.37166777312705,
+    "telephone": "0494800853",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeisEsteleto",
+    "resultStructId": "708745",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier la ferrage 83860 nans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.78537965452134,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12591092",
+    "mail": "crechecugeslespins@wanadoo.fr",
+    "distance": 305078,
+    "latitude": 43.27525579248317,
+    "telephone": "0442739680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLa Maison des bébés",
+    "resultStructId": "196103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ribassee. quartier lecros reynier 13780 cuges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.699922779842152,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12720057",
+    "mail": "creche.sausset@gmail.com",
+    "distance": 352489,
+    "latitude": 43.33221551264088,
+    "telephone": "0442132330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACSAUSSET LES PINS EX CHENE",
+    "resultStructId": "194006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue des chenes 13960sausset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.100308631116571,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12720057",
+    "mail": "creche.sausset@gmail.com",
+    "distance": 101536,
+    "latitude": 43.33221551264088,
+    "telephone": "0442132330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACSAUSSET LES PINS EX CHENE",
+    "resultStructId": "194006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue des chenes 13960sausset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.100308631116571,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12591092",
+    "mail": "crechecugeslespins@wanadoo.fr",
+    "distance": 149952,
+    "latitude": 43.27525579248317,
+    "telephone": "0442739680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLa Maison des bébés",
+    "resultStructId": "196103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ribassee. quartier lecros reynier 13780 cuges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.699922779842152,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12627943",
+    "mail": "leisesteleto@maisonenfance.fr",
+    "distance": 154432,
+    "latitude": 43.37166777312705,
+    "telephone": "0494800853",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeisEsteleto",
+    "resultStructId": "708745",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier la ferrage 83860 nans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.78537965452134,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12499889",
+    "mail": "multiaccueil.pommedapi@cc-sudestuaire.fr",
+    "distance": 98082,
+    "latitude": 47.24088192029497,
+    "telephone": "0240390407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 avenue de la guerche 44250 st brevin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.1608655667573453,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12627943",
+    "mail": "leisesteleto@maisonenfance.fr",
+    "distance": 68764,
+    "latitude": 43.37166777312705,
+    "telephone": "0494800853",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeisEsteleto",
+    "resultStructId": "708745",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "quartier la ferrage 83860 nans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.78537965452134,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12591092",
+    "mail": "crechecugeslespins@wanadoo.fr",
+    "distance": 81198,
+    "latitude": 43.27525579248317,
+    "telephone": "0442739680",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFLa Maison des bébés",
+    "resultStructId": "196103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la ribassee. quartier lecros reynier 13780 cuges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.699922779842152,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12700406",
+    "mail": "creche@ville-roquefort-les-pins.fr",
+    "distance": 85665,
+    "latitude": 43.66585376311902,
+    "telephone": "0493770700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCBoule de gomme",
+    "resultStructId": "665302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place mougins-roquefort - cidex 40106330 roquefort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.05084396824692,
+    "ville": "lespins",
+    "cp": ""
+  },
+  {
+    "resultId": "12720057",
+    "mail": "creche.sausset@gmail.com",
+    "distance": 103988,
+    "latitude": 43.33221551264088,
+    "telephone": "0442132330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACSAUSSET LES PINS EX CHENE",
+    "resultStructId": "194006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue des chenes 13960sausset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.100308631116571,
+    "ville": "lespins",
+    "cp": ""
+  }
+]

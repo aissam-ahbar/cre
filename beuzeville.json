@@ -1,0 +1,75 @@
+[
+  {
+    "resultId": "34240512",
+    "mail": "lesptitesmainsvertes@orange.fr",
+    "distance": 78036,
+    "latitude": 49.348724602273606,
+    "telephone": "0232204806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES P'TITES MAINS VERTES",
+    "resultStructId": "117705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 rue du clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.34309609379694866,
+    "ville": "beuzeville",
+    "cp": "27210"
+  },
+  {
+    "resultId": "57478676",
+    "mail": "lesptitesmainsvertes@orange.fr",
+    "distance": 78063,
+    "latitude": 49.34890468284117,
+    "telephone": "0232204806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tites MainsVertes",
+    "resultStructId": "701001",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-12-06",
+    "adresse": "212 rue duclos romy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 0.34335294399718047,
+    "ville": "beuzeville",
+    "cp": "27210"
+  },
+  {
+    "resultId": "38798646",
+    "mail": "contact@nino-camille.fr",
+    "distance": 78358,
+    "latitude": 49.34549192995759,
+    "telephone": "0980675431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNino et Camille",
+    "resultStructId": "677824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "612 rue louis gillain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.3522113917743727,
+    "ville": "beuzeville",
+    "cp": "27210"
+  }
+]

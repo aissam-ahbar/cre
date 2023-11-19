@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12752660",
+    "mail": "lescorbisous@mairie-corbie.fr",
+    "distance": 64410,
+    "latitude": 49.90979124821084,
+    "telephone": "0322964398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCORBISOUS",
+    "resultStructId": "222806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 parking de l'enclos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.510369206857528,
+    "ville": "corbie",
+    "cp": "80800"
+  }
+]

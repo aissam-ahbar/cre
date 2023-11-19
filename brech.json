@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12642004",
+    "mail": "brech@leolagrange.org",
+    "distance": 151480,
+    "latitude": 47.719565984483964,
+    "telephone": "0297576169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Tamm Ha Tamm\"",
+    "resultStructId": "69805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue park ar fetan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.996884400107768,
+    "ville": "brech",
+    "cp": "56400"
+  },
+  {
+    "resultId": "12868596",
+    "mail": "ma.auray.dir@lespep56.com",
+    "distance": 152386,
+    "latitude": 47.67033996561584,
+    "telephone": "0222481531",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilpartagé Les Pépites \"Océane\" - BRECH",
+    "resultStructId": "238106",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "42 rue dudanemark",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.0123411224539045,
+    "ville": "brech",
+    "cp": "56400"
+  },
+  {
+    "resultId": "12642004",
+    "mail": "brech@leolagrange.org",
+    "distance": 151480,
+    "latitude": 47.719565984483964,
+    "telephone": "0297576169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Tamm Ha Tamm\"",
+    "resultStructId": "69805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue park ar fetan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.996884400107768,
+    "ville": "brech",
+    "cp": "56400"
+  },
+  {
+    "resultId": "12868596",
+    "mail": "ma.auray.dir@lespep56.com",
+    "distance": 152386,
+    "latitude": 47.67033996561584,
+    "telephone": "0222481531",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilpartagé Les Pépites \"Océane\" - BRECH",
+    "resultStructId": "238106",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "42 rue dudanemark",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.0123411224539045,
+    "ville": "brech",
+    "cp": "56400"
+  }
+]

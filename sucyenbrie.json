@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12536826",
+    "mail": "",
+    "distance": 147576,
+    "latitude": 48.77567991899522,
+    "telephone": "0145906625",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale des Monrois",
+    "resultStructId": "15411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pendants 94370",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5323406897965826,
+    "ville": "sucyenbrie",
+    "cp": ""
+  },
+  {
+    "resultId": "12541212",
+    "mail": "crecherondor@ville-sucy.fr",
+    "distance": 148021,
+    "latitude": 48.77467412566431,
+    "telephone": "0149825078",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil du Rond d'or",
+    "resultStructId": "277501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la fraternite 94370",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5262369736317325,
+    "ville": "sucyenbrie",
+    "cp": ""
+  }
+]

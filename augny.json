@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43110541",
+    "mail": "inscription-ondp@hotmail.com",
+    "distance": 120974,
+    "latitude": 49.05782112603185,
+    "telephone": "0354738595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"O 'nid des petits\" Village",
+    "resultStructId": "233802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.12283818976033,
+    "ville": "augny",
+    "cp": "57685"
+  },
+  {
+    "resultId": "43102727",
+    "mail": "inscription-ondp@hotmail.com",
+    "distance": 120979,
+    "latitude": 49.05864143103212,
+    "telephone": "0788549431",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"O'nid des petits\" Plateau de Frescaty",
+    "resultStructId": "233504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 11emerius",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.122527821335871,
+    "ville": "augny",
+    "cp": "57685"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12722517",
+    "mail": "jardindeslutins@ville-montbrison.fr",
+    "distance": 181788,
+    "latitude": 45.61178867799044,
+    "telephone": "0630853776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants des Lutins",
+    "resultStructId": "699006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue fernand leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.05397970874449,
+    "ville": "montbrison",
+    "cp": "42600"
+  },
+  {
+    "resultId": "12552134",
+    "mail": "",
+    "distance": 182332,
+    "latitude": 45.606664701252626,
+    "telephone": "0477586566",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBambins",
+    "resultStructId": "1621",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 boulevard chavassieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.062200946697914,
+    "ville": "montbrison",
+    "cp": "42600"
+  },
+  {
+    "resultId": "12552177",
+    "mail": "",
+    "distance": 182526,
+    "latitude": 45.60459513968752,
+    "telephone": "0477587171",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "1622",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 avenue alsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.075635710633932,
+    "ville": "montbrison",
+    "cp": "42600"
+  }
+]

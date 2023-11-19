@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12859437",
+    "mail": "lesminuscules-lorient@optimomes.org",
+    "distance": 178792,
+    "latitude": 47.75120430398895,
+    "telephone": "0297059855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Minuscules\" Lorient",
+    "resultStructId": "8797",
+    "omegaId": "3717",
+    "avip": false,
+    "adresse": "1 rue jules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.359746862261491,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "13051741",
+    "mail": "lapommedetouline@lapartdereve.com",
+    "distance": 179703,
+    "latitude": 47.7337165983825,
+    "telephone": "0297058263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPomme de Touline",
+    "resultStructId": "13269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue sous-marin venus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.373623353739744,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809807",
+    "mail": "c_polygone@mairie-lorient.fr",
+    "distance": 179848,
+    "latitude": 47.74041632899461,
+    "telephone": "0297645260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAnne Frank",
+    "resultStructId": "7643",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 c rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3749604347514213,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810065",
+    "mail": "scabelguen@marie-lorient.fr",
+    "distance": 179858,
+    "latitude": 47.74948929845612,
+    "telephone": "0297353269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les Petits Mousses",
+    "resultStructId": "7649",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue bouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.374225709479154,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810151",
+    "mail": "cbouvet@mairie.fr",
+    "distance": 179858,
+    "latitude": 47.74948929845612,
+    "telephone": "0297353268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanneRoux",
+    "resultStructId": "7651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue bouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.374225709479154,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809764",
+    "mail": "celsatriolet@mairie-lorient.fr",
+    "distance": 180016,
+    "latitude": 47.76505446176409,
+    "telephone": "0297377002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiaccueilElsa Triolet",
+    "resultStructId": "7642",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue gabriel faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3746477342901153,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810108",
+    "mail": "crepublique@mairie-lorient.fr",
+    "distance": 180103,
+    "latitude": 47.74689518269919,
+    "telephone": "0297643660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôleEnfance République",
+    "resultStructId": "7650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue francois le brise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.377765479009512,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809850",
+    "mail": "ctintinabule@mairie-lorient.fr",
+    "distance": 180858,
+    "latitude": 47.762688884316184,
+    "telephone": "0297871002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tintinnabule",
+    "resultStructId": "7644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue pierre philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3862192815349554,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809936",
+    "mail": "ckorrigans@mairie-lorient.fr",
+    "distance": 181106,
+    "latitude": 47.7402893041986,
+    "telephone": "0297353303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôleEnfance Les Korrigans",
+    "resultStructId": "7646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois renault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3918308573492593,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12579568",
+    "mail": "pateasel.salopette@gmail.com",
+    "distance": 181282,
+    "latitude": 47.74033986944175,
+    "telephone": "0297374213",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Salopetteet Pâte à Sel",
+    "resultStructId": "685506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue maurice thorez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.394186076802179,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12859437",
+    "mail": "lesminuscules-lorient@optimomes.org",
+    "distance": 178792,
+    "latitude": 47.75120430398895,
+    "telephone": "0297059855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Minuscules\" Lorient",
+    "resultStructId": "8797",
+    "omegaId": "3717",
+    "avip": false,
+    "adresse": "1 rue jules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.359746862261491,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "13051741",
+    "mail": "lapommedetouline@lapartdereve.com",
+    "distance": 179703,
+    "latitude": 47.7337165983825,
+    "telephone": "0297058263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPomme de Touline",
+    "resultStructId": "13269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue sous-marin venus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.373623353739744,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809807",
+    "mail": "c_polygone@mairie-lorient.fr",
+    "distance": 179848,
+    "latitude": 47.74041632899461,
+    "telephone": "0297645260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAnne Frank",
+    "resultStructId": "7643",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "82 c rue du general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3749604347514213,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810065",
+    "mail": "scabelguen@marie-lorient.fr",
+    "distance": 179858,
+    "latitude": 47.74948929845612,
+    "telephone": "0297353269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les Petits Mousses",
+    "resultStructId": "7649",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue bouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.374225709479154,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810151",
+    "mail": "cbouvet@mairie.fr",
+    "distance": 179858,
+    "latitude": 47.74948929845612,
+    "telephone": "0297353268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JeanneRoux",
+    "resultStructId": "7651",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue bouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.374225709479154,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809764",
+    "mail": "celsatriolet@mairie-lorient.fr",
+    "distance": 180016,
+    "latitude": 47.76505446176409,
+    "telephone": "0297377002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiaccueilElsa Triolet",
+    "resultStructId": "7642",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue gabriel faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3746477342901153,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12810108",
+    "mail": "crepublique@mairie-lorient.fr",
+    "distance": 180103,
+    "latitude": 47.74689518269919,
+    "telephone": "0297643660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôleEnfance République",
+    "resultStructId": "7650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue francois le brise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.377765479009512,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809850",
+    "mail": "ctintinabule@mairie-lorient.fr",
+    "distance": 180858,
+    "latitude": 47.762688884316184,
+    "telephone": "0297871002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tintinnabule",
+    "resultStructId": "7644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9rue pierre philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3862192815349554,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12809936",
+    "mail": "ckorrigans@mairie-lorient.fr",
+    "distance": 181106,
+    "latitude": 47.7402893041986,
+    "telephone": "0297353303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PôleEnfance Les Korrigans",
+    "resultStructId": "7646",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue francois renault",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.3918308573492593,
+    "ville": "lorient",
+    "cp": "56100"
+  },
+  {
+    "resultId": "12579568",
+    "mail": "pateasel.salopette@gmail.com",
+    "distance": 181282,
+    "latitude": 47.74033986944175,
+    "telephone": "0297374213",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Salopetteet Pâte à Sel",
+    "resultStructId": "685506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue maurice thorez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -3.394186076802179,
+    "ville": "lorient",
+    "cp": "56100"
+  }
+]

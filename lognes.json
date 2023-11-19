@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12767280",
+    "mail": "",
+    "distance": 139599,
+    "latitude": 48.83530644043456,
+    "telephone": "0164807864",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MiniCrèche La Petite Fugue",
+    "resultStructId": "6654",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue erik satie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.645451303532337,
+    "ville": "lognes",
+    "cp": "77185"
+  },
+  {
+    "resultId": "13014624",
+    "mail": "maison-enfance-famille@mairie-lognes.fr",
+    "distance": 140570,
+    "latitude": 48.83875919066856,
+    "telephone": "0160068848",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil Les Ricochets",
+    "resultStructId": "154303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 grande allee descharmilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6325189287228943,
+    "ville": "lognes",
+    "cp": "77185"
+  },
+  {
+    "resultId": "12946469",
+    "mail": "lognes@lpcr.fr",
+    "distance": 140570,
+    "latitude": 48.83875919066856,
+    "telephone": "0173088111",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges - Lognes",
+    "resultStructId": "189403",
+    "omegaId": "16988",
+    "avip": false,
+    "adresse": "12 rue de lamaison blanche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6325189287228943,
+    "ville": "lognes",
+    "cp": "77185"
+  },
+  {
+    "resultId": "12767237",
+    "mail": "",
+    "distance": 140664,
+    "latitude": 48.838991095067236,
+    "telephone": "0160068845",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective du Mandinet",
+    "resultStructId": "6653",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue nicolas appert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.631263987031812,
+    "ville": "lognes",
+    "cp": "77185"
+  },
+  {
+    "resultId": "13014667",
+    "mail": "centre.multi-accueil@mairie-lognes.fr",
+    "distance": 140788,
+    "latitude": 48.841778297466604,
+    "telephone": "0160068934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil La Malvoisine",
+    "resultStructId": "154301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue mithridate",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6298803789663348,
+    "ville": "lognes",
+    "cp": "77185"
+  },
+  {
+    "resultId": "12966636",
+    "mail": "liseron@kidsup.fr",
+    "distance": 140796,
+    "latitude": 48.839278150469426,
+    "telephone": "0146382895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKids'up Liseron",
+    "resultStructId": "11290",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 mail barthelemy thimonnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6294868200164845,
+    "ville": "lognes",
+    "cp": "77185"
+  }
+]

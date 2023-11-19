@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "21387787",
+    "mail": "rachel.haguette@laposte.net",
+    "distance": 112525,
+    "latitude": 49.71205228885331,
+    "telephone": "0324538875",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Les Marcassins",
+    "resultStructId": "15493",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue des martyrs de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.925931483471521,
+    "ville": "floing",
+    "cp": "08200"
+  },
+  {
+    "resultId": "22377892",
+    "mail": "leroyaumedestoutpetits@gmail.com",
+    "distance": 113689,
+    "latitude": 49.72204357593896,
+    "telephone": "0695112917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche- Le royaume Des Tout Petits",
+    "resultStructId": "18502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.930850617074896,
+    "ville": "floing",
+    "cp": "08200"
+  }
+]

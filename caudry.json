@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12790844",
+    "mail": "la.maison.enchantee@wanadoo.fr",
+    "distance": 62702,
+    "latitude": 50.12169869157105,
+    "telephone": "0327750727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMAISON ENCHANTEE",
+    "resultStructId": "596801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la creche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4091180111733537,
+    "ville": "caudry",
+    "cp": "59540"
+  },
+  {
+    "resultId": "12592253",
+    "mail": "ribambelle.itinerant@laposte.net",
+    "distance": 62702,
+    "latitude": 50.12169869157105,
+    "telephone": "0665272807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Structureitinérante \"Ribambelle\"",
+    "resultStructId": "2554",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la creche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4091180111733537,
+    "ville": "caudry",
+    "cp": "59540"
+  }
+]

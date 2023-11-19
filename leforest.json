@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "38773581",
+    "mail": "lesptitsexplorateurs62@gmail.com",
+    "distance": 24378,
+    "latitude": 50.442180534093424,
+    "telephone": "0987464268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes P'tits Explorateurs",
+    "resultStructId": "175801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de cayeux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0599793568725664,
+    "ville": "leforest",
+    "cp": "62790"
+  },
+  {
+    "resultId": "56785273",
+    "mail": "leforest@rigolocommelavie.fr",
+    "distance": 24452,
+    "latitude": 50.433381594072095,
+    "telephone": "0321405009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE LEFOREST",
+    "resultStructId": "664001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue lazare carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.058727446771606,
+    "ville": "leforest",
+    "cp": "62790"
+  },
+  {
+    "resultId": "12636070",
+    "mail": "monptitbijou.microcreche@orange.fr",
+    "distance": 24459,
+    "latitude": 50.43346487548318,
+    "telephone": "0321405009",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Mon Ptit Bijou\" de Leforest",
+    "resultStructId": "3573",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10ter rue lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0588502987216244,
+    "ville": "leforest",
+    "cp": "62790"
+  }
+]

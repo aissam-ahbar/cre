@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12672972",
+    "mail": "vanessa.petithomme@orange.fr",
+    "distance": 27384,
+    "latitude": 48.953903930739,
+    "telephone": "0326263110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Jardin des P'tits Loups Saint Memmie",
+    "resultStructId": "4431",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 avenuele corbusier 51470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.384334846941733,
+    "ville": "stmemmie",
+    "cp": ""
+  },
+  {
+    "resultId": "12805937",
+    "mail": "grainedemalice@mairie-saint-memmie.fr",
+    "distance": 27491,
+    "latitude": 48.95418925486101,
+    "telephone": "0326212936",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainede Malice",
+    "resultStructId": "695602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de poix 51470",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3818288424880585,
+    "ville": "stmemmie",
+    "cp": ""
+  }
+]

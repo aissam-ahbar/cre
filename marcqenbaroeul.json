@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58817444",
+    "mail": "cre-615@babilou.com",
+    "distance": 33265,
+    "latitude": 50.660593909393874,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMarcq Maginot Club",
+    "resultStructId": "689221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue sergent maginot 59700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.086548428352687,
+    "ville": "marcqenbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12989254",
+    "mail": "",
+    "distance": 33266,
+    "latitude": 50.662586953480286,
+    "telephone": "0320454545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"l'Ilot Câlin\"",
+    "resultStructId": "11816",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "122 rue du docteur charcot 59700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.084031957656911,
+    "ville": "marcqenbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "12951758",
+    "mail": "",
+    "distance": 34338,
+    "latitude": 50.66655869761432,
+    "telephone": "0320454545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Maison de l'Enfance\"",
+    "resultStructId": "10944",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du marquisat 59700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.098519377744195,
+    "ville": "marcqenbaroeul",
+    "cp": ""
+  },
+  {
+    "resultId": "58817174",
+    "mail": "cre-612@babilou.com",
+    "distance": 34771,
+    "latitude": 50.66750697781075,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouMarcq Herrengrie",
+    "resultStructId": "689219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis rue de l'herrengrie 59700",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1051691216807717,
+    "ville": "marcqenbaroeul",
+    "cp": ""
+  }
+]

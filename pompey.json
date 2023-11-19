@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12492700",
+    "mail": "jaubert@bassinpompey.fr",
+    "distance": 116473,
+    "latitude": 48.77121507075617,
+    "telephone": "0383498100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SMAARCHIPEL",
+    "resultStructId": "679808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des 4 elements",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.131850634755321,
+    "ville": "pompey",
+    "cp": "54340"
+  }
+]

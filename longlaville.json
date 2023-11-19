@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12638048",
+    "mail": "crechepommedapi@wanadoo.fr",
+    "distance": 127485,
+    "latitude": 49.53294293195313,
+    "telephone": "0382238526",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "678540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du 24 juillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.797002942593478,
+    "ville": "longlaville",
+    "cp": "54810"
+  }
+]

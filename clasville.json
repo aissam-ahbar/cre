@@ -1,0 +1,52 @@
+[
+  {
+    "resultId": "12826878",
+    "mail": "sma.lavallee@cote-albatre.com",
+    "distance": 166553,
+    "latitude": 49.79637711520822,
+    "telephone": "0235973427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SMALA VALLEE",
+    "resultStructId": "184813",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "impasse du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6345317041708743,
+    "ville": "clasville",
+    "cp": "76450"
+  },
+  {
+    "resultId": "12826878",
+    "mail": "sma.lavallee@cote-albatre.com",
+    "distance": 127463,
+    "latitude": 49.79637711520822,
+    "telephone": "0235973427",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SMALA VALLEE",
+    "resultStructId": "184813",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "impasse du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6345317041708743,
+    "ville": "clasville",
+    "cp": "76450"
+  }
+]

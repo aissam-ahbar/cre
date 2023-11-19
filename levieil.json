@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12849332",
+    "mail": "vendinlevieil@rigolocommelavie.fr",
+    "distance": 8490,
+    "latitude": 50.45847540882152,
+    "telephone": "0321671768",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ZEBULONLE PETIT CHATON",
+    "resultStructId": "8562",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue alfred nobel 62880 vendin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.836764532268049,
+    "ville": "levieil",
+    "cp": ""
+  },
+  {
+    "resultId": "13018967",
+    "mail": "vendinlevieil@rigolocommelavie.fr",
+    "distance": 8490,
+    "latitude": 50.45847540882152,
+    "telephone": "0321671768",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RigoloComme La Vie - Vendin le Vieil",
+    "resultStructId": "217114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue alfred nobel 62880vendin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.836764532268049,
+    "ville": "levieil",
+    "cp": ""
+  },
+  {
+    "resultId": "12929226",
+    "mail": "milleetuneaventures@gmail.com",
+    "distance": 10739,
+    "latitude": 50.472422856009366,
+    "telephone": "0768617584",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Mille et Une Aventures\"",
+    "resultStructId": "10420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue pasteur 62880vendin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.870867061967275,
+    "ville": "levieil",
+    "cp": ""
+  }
+]

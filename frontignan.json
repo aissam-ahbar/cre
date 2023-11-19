@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12799315",
+    "mail": "creche.rmichelr@frontignan.fr",
+    "distance": 71240,
+    "latitude": 43.44566106569407,
+    "telephone": "0467460454",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilRoger Michel",
+    "resultStructId": "189014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue du stade la peyrade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7562332174194,
+    "ville": "frontignan",
+    "cp": "34110"
+  },
+  {
+    "resultId": "12797853",
+    "mail": "creche.fametller@frontignan.fr",
+    "distance": 71473,
+    "latitude": 43.44770465499855,
+    "telephone": "0467185450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFelicie Ametller",
+    "resultStructId": "210906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue frederic mistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.752785912613734,
+    "ville": "frontignan",
+    "cp": "34110"
+  },
+  {
+    "resultId": "12800734",
+    "mail": "",
+    "distance": 71723,
+    "latitude": 43.44740009616906,
+    "telephone": "0467185452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Le Jardin de Mathieu à Frontignan",
+    "resultStructId": "7432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenuejean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.749717300627573,
+    "ville": "frontignan",
+    "cp": "34110"
+  },
+  {
+    "resultId": "12797853",
+    "mail": "creche.fametller@frontignan.fr",
+    "distance": 20397,
+    "latitude": 43.44770465499855,
+    "telephone": "0467185450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilFelicie Ametller",
+    "resultStructId": "210906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue frederic mistral",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.752785912613734,
+    "ville": "frontignan",
+    "cp": "34110"
+  },
+  {
+    "resultId": "12799315",
+    "mail": "creche.rmichelr@frontignan.fr",
+    "distance": 20429,
+    "latitude": 43.44566106569407,
+    "telephone": "0467460454",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilRoger Michel",
+    "resultStructId": "189014",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 avenue du stade la peyrade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7562332174194,
+    "ville": "frontignan",
+    "cp": "34110"
+  },
+  {
+    "resultId": "12800734",
+    "mail": "",
+    "distance": 20567,
+    "latitude": 43.44740009616906,
+    "telephone": "0467185452",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Le Jardin de Mathieu à Frontignan",
+    "resultStructId": "7432",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenuejean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.749717300627573,
+    "ville": "frontignan",
+    "cp": "34110"
+  }
+]

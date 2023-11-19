@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "48236222",
+    "mail": "sophie@generation-bambins.fr",
+    "distance": 172057,
+    "latitude": 45.751555804135606,
+    "telephone": "0478442388",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGénération Bambins Craponne",
+    "resultStructId": "360402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "119 rue auguste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.740409556602091,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "51692788",
+    "mail": "contact@lapetitebulle.net",
+    "distance": 172175,
+    "latitude": 45.748309540294876,
+    "telephone": "0660087592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLA PETITE BULLE",
+    "resultStructId": "461601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 b rue des landes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.728740390479716,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "23376445",
+    "mail": "craponne.millaud@lpcr.fr",
+    "distance": 172198,
+    "latitude": 45.747416083703975,
+    "telephone": "0426836383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES - LES MALICIEUX DEMILLAUD",
+    "resultStructId": "21908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76 avenue e millaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.72501238017064,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "34324814",
+    "mail": "contact@petit-guili.com",
+    "distance": 172212,
+    "latitude": 45.746672845280266,
+    "telephone": "0951391897",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePetit Guili",
+    "resultStructId": "647601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111 b avenue pierre dumond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.721598491968416,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "12905705",
+    "mail": "dir.bibetbul@leaetleo.com",
+    "distance": 172361,
+    "latitude": 45.74702364381349,
+    "telephone": "0984522723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBib et Bull",
+    "resultStructId": "674101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue edouard millaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.731155726419396,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "57865365",
+    "mail": "dir.jardindenfants@leaetleo.com",
+    "distance": 172582,
+    "latitude": 45.74355029207916,
+    "telephone": "0481760581",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS",
+    "resultStructId": "679904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue du 8 mai 1945 - maison de l'enfancealbert vidal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.723313966214606,
+    "ville": "craponne",
+    "cp": "69290"
+  },
+  {
+    "resultId": "12905791",
+    "mail": "dir.grainesdefrimousse@leaetleo.com",
+    "distance": 172814,
+    "latitude": 45.74162027159298,
+    "telephone": "0478570982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraine de Frimousse",
+    "resultStructId": "674302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.724580479997395,
+    "ville": "craponne",
+    "cp": "69290"
+  }
+]

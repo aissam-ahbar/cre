@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "31903887",
+    "mail": "lejardindeslucioles.paysdegexagglo@leolagrange.org",
+    "distance": 182491,
+    "latitude": 46.266450192812925,
+    "telephone": "0450428416",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe jardin des Lucioles",
+    "resultStructId": "676101",
+    "omegaId": "51681",
+    "avip": false,
+    "adresse": "94 impasse gaston laverriere01280",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.076412499294389,
+    "ville": "prevessinmoens",
+    "cp": ""
+  },
+  {
+    "resultId": "12856771",
+    "mail": "lespetitselectrons.ccpg@leolagrange.org",
+    "distance": 182861,
+    "latitude": 46.256011428247824,
+    "telephone": "0950655187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS ELECTRONS",
+    "resultStructId": "8735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "83 rue des acculats",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.070901171326457,
+    "ville": "prevessinmoens",
+    "cp": "01280"
+  }
+]

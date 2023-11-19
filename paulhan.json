@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12818149",
+    "mail": "creche.apasdeloup@mfgs.fr",
+    "distance": 94039,
+    "latitude": 43.53725247834209,
+    "telephone": "0467382138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA pas de Loup",
+    "resultStructId": "210917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue paulette hauchard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4592877878575923,
+    "ville": "paulhan",
+    "cp": "34230"
+  },
+  {
+    "resultId": "12818149",
+    "mail": "creche.apasdeloup@mfgs.fr",
+    "distance": 35904,
+    "latitude": 43.53725247834209,
+    "telephone": "0467382138",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheA pas de Loup",
+    "resultStructId": "210917",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 rue paulette hauchard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4592877878575923,
+    "ville": "paulhan",
+    "cp": "34230"
+  }
+]

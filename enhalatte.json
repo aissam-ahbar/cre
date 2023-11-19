@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12875304",
+    "mail": "grenouilles@ccpoh.fr",
+    "distance": 133426,
+    "latitude": 49.28012984136542,
+    "telephone": "0365960768",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES GRENOUILLES\" CCPOH",
+    "resultStructId": "248703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee du vieiletang 60550 verneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.52345897205847,
+    "ville": "enhalatte",
+    "cp": ""
+  },
+  {
+    "resultId": "31913320",
+    "mail": "contact@babilou.com",
+    "distance": 134123,
+    "latitude": 49.274234774261814,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouVerneuil Deville",
+    "resultStructId": "543501",
+    "omegaId": "2618",
+    "avip": false,
+    "adresse": "rue sainte cecile deville 60550verneuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5175327801278877,
+    "ville": "enhalatte",
+    "cp": ""
+  }
+]

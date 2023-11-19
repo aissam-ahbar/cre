@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12770978",
+    "mail": "amac.couffouleux@orange.fr",
+    "distance": 167960,
+    "latitude": 43.81694998911287,
+    "telephone": "0563403419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoquins d'Abord",
+    "resultStructId": "6740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7317790932279356,
+    "ville": "coufouleux",
+    "cp": "81800"
+  },
+  {
+    "resultId": "12771021",
+    "mail": "amac.couffouleux@orange.fr",
+    "distance": 167975,
+    "latitude": 43.817023250584214,
+    "telephone": "0563403419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeChat Botté",
+    "resultStructId": "6741",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.732013422682458,
+    "ville": "coufouleux",
+    "cp": "81800"
+  },
+  {
+    "resultId": "12771021",
+    "mail": "amac.couffouleux@orange.fr",
+    "distance": 175692,
+    "latitude": 43.817023250584214,
+    "telephone": "0563403419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeChat Botté",
+    "resultStructId": "6741",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.732013422682458,
+    "ville": "coufouleux",
+    "cp": "81800"
+  },
+  {
+    "resultId": "12770978",
+    "mail": "amac.couffouleux@orange.fr",
+    "distance": 175709,
+    "latitude": 43.81694998911287,
+    "telephone": "0563403419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoquins d'Abord",
+    "resultStructId": "6740",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7317790932279356,
+    "ville": "coufouleux",
+    "cp": "81800"
+  }
+]

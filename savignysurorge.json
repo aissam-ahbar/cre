@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12836209",
+    "mail": "crechelesdauphins@savigny.org",
+    "distance": 193783,
+    "latitude": 48.687201923103025,
+    "telephone": "0169432800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDauphins",
+    "resultStructId": "641001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place les jardins ste therese 91600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3500818335550133,
+    "ville": "savignysurorge",
+    "cp": ""
+  },
+  {
+    "resultId": "37677889",
+    "mail": "",
+    "distance": 194105,
+    "latitude": 48.688212074664385,
+    "telephone": "0966879835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Fripons",
+    "resultStructId": "160205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "59-61 rue du vert galant 91600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.361112587942366,
+    "ville": "savignysurorge",
+    "cp": ""
+  }
+]

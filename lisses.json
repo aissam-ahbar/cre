@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12777815",
+    "mail": "",
+    "distance": 186144,
+    "latitude": 48.60023758339306,
+    "telephone": "0169114000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFDolto",
+    "resultStructId": "6899",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue paul bouchard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4288528262165356,
+    "ville": "lisses",
+    "cp": "91090"
+  },
+  {
+    "resultId": "30880704",
+    "mail": "info@baboune.fr",
+    "distance": 187278,
+    "latitude": 48.61185863756501,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBaboune Centre Essonne",
+    "resultStructId": "70402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du vivarais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.424435848292229,
+    "ville": "lisses",
+    "cp": "91090"
+  },
+  {
+    "resultId": "12777815",
+    "mail": "",
+    "distance": 156031,
+    "latitude": 48.60023758339306,
+    "telephone": "0169114000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACFDolto",
+    "resultStructId": "6899",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue paul bouchard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4288528262165356,
+    "ville": "lisses",
+    "cp": "91090"
+  },
+  {
+    "resultId": "30880704",
+    "mail": "info@baboune.fr",
+    "distance": 156221,
+    "latitude": 48.61185863756501,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBaboune Centre Essonne",
+    "resultStructId": "70402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du vivarais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.424435848292229,
+    "ville": "lisses",
+    "cp": "91090"
+  }
+]

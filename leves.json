@@ -1,0 +1,482 @@
+[
+  {
+    "resultId": "12608894",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 163693,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Pôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rueantoine de saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12515326",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 163693,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue antoine desaint-exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "40931788",
+    "mail": "lucie.menon@leves.fr",
+    "distance": 163880,
+    "latitude": 48.47035687850177,
+    "telephone": "0237221754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Lèves",
+    "resultStructId": "208901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de la chacatiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4750222708227119,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57331757",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 164448,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille & Camille Les écureuils",
+    "resultStructId": "674604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 bisroute de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57326383",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 164448,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa cabane d'Achille et Camille Les rouges gorges",
+    "resultStructId": "674605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80route de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12608894",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 205529,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Pôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rueantoine de saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12515326",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 205529,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue antoine desaint-exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57331757",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 205670,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille & Camille Les écureuils",
+    "resultStructId": "674604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 bisroute de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57326383",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 205670,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa cabane d'Achille et Camille Les rouges gorges",
+    "resultStructId": "674605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80route de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "40931788",
+    "mail": "lucie.menon@leves.fr",
+    "distance": 205800,
+    "latitude": 48.47035687850177,
+    "telephone": "0237221754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Lèves",
+    "resultStructId": "208901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de la chacatiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4750222708227119,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57331757",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 154296,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille & Camille Les écureuils",
+    "resultStructId": "674604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 bisroute de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57326383",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 154296,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa cabane d'Achille et Camille Les rouges gorges",
+    "resultStructId": "674605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80route de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12608894",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 154749,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Pôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rueantoine de saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12515326",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 154749,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue antoine desaint-exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "40931788",
+    "mail": "lucie.menon@leves.fr",
+    "distance": 154866,
+    "latitude": 48.47035687850177,
+    "telephone": "0237221754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Lèves",
+    "resultStructId": "208901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de la chacatiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4750222708227119,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12515326",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 205529,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue antoine desaint-exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "12608894",
+    "mail": "ange-helene.vequaud@leves.fr",
+    "distance": 205529,
+    "latitude": 48.46849018720348,
+    "telephone": "0237211678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Pôle Enfance \"Jean-Pierre RESCHOEUR\"",
+    "resultStructId": "208508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rueantoine de saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4723113026309844,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57326383",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 205670,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa cabane d'Achille et Camille Les rouges gorges",
+    "resultStructId": "674605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80route de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "57331757",
+    "mail": "ncorrec@achilleetcamille.com",
+    "distance": 205670,
+    "latitude": 48.475131211686694,
+    "telephone": "0783839073",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Cabane d'Achille & Camille Les écureuils",
+    "resultStructId": "674604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 bisroute de chavannes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4694185511515019,
+    "ville": "leves",
+    "cp": "28300"
+  },
+  {
+    "resultId": "40931788",
+    "mail": "lucie.menon@leves.fr",
+    "distance": 205800,
+    "latitude": 48.47035687850177,
+    "telephone": "0237221754",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchede Lèves",
+    "resultStructId": "208901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue de la chacatiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4750222708227119,
+    "ville": "leves",
+    "cp": "28300"
+  }
+]

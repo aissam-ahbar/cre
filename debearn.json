@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "24420012",
+    "mail": "l-urrutibehety@cc-lacqorthez.fr",
+    "distance": 104515,
+    "latitude": 43.51392387801007,
+    "telephone": "0559658684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraines d'éveil - Baigts",
+    "resultStructId": "24104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 lotissement pedebernard 64300baigts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8410001149736295,
+    "ville": "debearn",
+    "cp": ""
+  },
+  {
+    "resultId": "12803443",
+    "mail": "crechesalies@hotmail.fr",
+    "distance": 111967,
+    "latitude": 43.47487901433604,
+    "telephone": "0559650237",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchehalte-garderie « Lous Petitous »",
+    "resultStructId": "321701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 place decoulomme-labarthe 64270 salies",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9353562902817492,
+    "ville": "debearn",
+    "cp": ""
+  }
+]

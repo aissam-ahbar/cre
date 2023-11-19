@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "46209723",
+    "mail": "belbex.creche@aurillac.fr",
+    "distance": 219658,
+    "latitude": 44.917894643265626,
+    "telephone": "0471454675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche BELBEX",
+    "resultStructId": "377401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 bis rue pablo neruda",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4205284666405564,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12969259",
+    "mail": "pioupious@fede15.admr.org",
+    "distance": 219870,
+    "latitude": 44.90234912825565,
+    "telephone": "0471638766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pioupious du Garric",
+    "resultStructId": "11351",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue du garric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4294668607275867,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "60231352",
+    "mail": "tivoli.creche@aurillac.fr",
+    "distance": 220788,
+    "latitude": 44.91455314986602,
+    "telephone": "0471454720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede TIVOLI",
+    "resultStructId": "706911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 bis avenue de tivoli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.436780415183638,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928710",
+    "mail": "camisieres@aurillac.fr",
+    "distance": 220870,
+    "latitude": 44.914189092786,
+    "telephone": "0471635129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Camisières",
+    "resultStructId": "199781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert garric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.438001376038397,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12968915",
+    "mail": "m.pouderoux@ch-aurillac.fr",
+    "distance": 221294,
+    "latitude": 44.925516931325504,
+    "telephone": "0471464669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes P'tits Loups du Centre Hospitalier Henri Mondor àAurillac",
+    "resultStructId": "672001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439067667673758,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928624",
+    "mail": "carmes@aurillac.fr",
+    "distance": 221530,
+    "latitude": 44.92529162462164,
+    "telephone": "0471454613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif du Jardin des Carmes",
+    "resultStructId": "377601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue descarmes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4422843374075858,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928753",
+    "mail": "ptitspas@aurillac.fr",
+    "distance": 221904,
+    "latitude": 44.931155667166635,
+    "telephone": "0471454746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les p'tits Pas de la Coste\"",
+    "resultStructId": "377701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la coste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.44484542637811,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "27630268",
+    "mail": "jardin.jb@aurillac.fr",
+    "distance": 222541,
+    "latitude": 44.933096176445154,
+    "telephone": "0471481298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Jardin de Jean-Baptiste",
+    "resultStructId": "378101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue jean-baptisteveyre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4524811004632845,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12969259",
+    "mail": "pioupious@fede15.admr.org",
+    "distance": 186216,
+    "latitude": 44.90234912825565,
+    "telephone": "0471638766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pioupious du Garric",
+    "resultStructId": "11351",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue du garric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4294668607275867,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928710",
+    "mail": "camisieres@aurillac.fr",
+    "distance": 186812,
+    "latitude": 44.914189092786,
+    "telephone": "0471635129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildes Camisières",
+    "resultStructId": "199781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue robert garric",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.438001376038397,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "60231352",
+    "mail": "tivoli.creche@aurillac.fr",
+    "distance": 186904,
+    "latitude": 44.91455314986602,
+    "telephone": "0471454720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede TIVOLI",
+    "resultStructId": "706911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 bis avenue de tivoli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.436780415183638,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928624",
+    "mail": "carmes@aurillac.fr",
+    "distance": 187563,
+    "latitude": 44.92529162462164,
+    "telephone": "0471454613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilfamilial et collectif du Jardin des Carmes",
+    "resultStructId": "377601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue descarmes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4422843374075858,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12968915",
+    "mail": "m.pouderoux@ch-aurillac.fr",
+    "distance": 187741,
+    "latitude": 44.925516931325504,
+    "telephone": "0471464669",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes P'tits Loups du Centre Hospitalier Henri Mondor àAurillac",
+    "resultStructId": "672001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.439067667673758,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "27630268",
+    "mail": "jardin.jb@aurillac.fr",
+    "distance": 187743,
+    "latitude": 44.933096176445154,
+    "telephone": "0471481298",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Jardin de Jean-Baptiste",
+    "resultStructId": "378101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue jean-baptisteveyre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4524811004632845,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "12928753",
+    "mail": "ptitspas@aurillac.fr",
+    "distance": 187947,
+    "latitude": 44.931155667166635,
+    "telephone": "0471454746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les p'tits Pas de la Coste\"",
+    "resultStructId": "377701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de la coste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.44484542637811,
+    "ville": "aurillac",
+    "cp": "15000"
+  },
+  {
+    "resultId": "46209723",
+    "mail": "belbex.creche@aurillac.fr",
+    "distance": 188000,
+    "latitude": 44.917894643265626,
+    "telephone": "0471454675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche BELBEX",
+    "resultStructId": "377401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 bis rue pablo neruda",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4205284666405564,
+    "ville": "aurillac",
+    "cp": "15000"
+  }
+]

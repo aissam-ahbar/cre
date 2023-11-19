@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "45233401",
+    "mail": "jardin@nid-deveil.fr",
+    "distance": 4631,
+    "latitude": 48.81652629340261,
+    "telephone": "0178682962",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JardinNid d'éveil",
+    "resultStructId": "624207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "149 avenue paul vaillant couturier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3334454925394414,
+    "ville": "gentilly",
+    "cp": "94250"
+  },
+  {
+    "resultId": "13066318",
+    "mail": "contact@nid-deveil.fr",
+    "distance": 4631,
+    "latitude": 48.81652629340261,
+    "telephone": "0149121059",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Nid d'Eveil",
+    "resultStructId": "683305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "149 avenue paul vaillant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3334454925394414,
+    "ville": "gentilly",
+    "cp": "94250"
+  },
+  {
+    "resultId": "12538718",
+    "mail": "",
+    "distance": 5053,
+    "latitude": 48.81560464103846,
+    "telephone": "0149850421",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Chaperon Vert 2",
+    "resultStructId": "15327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cite du chaperon vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3479578932794833,
+    "ville": "gentilly",
+    "cp": "294250"
+  },
+  {
+    "resultId": "12538847",
+    "mail": "",
+    "distance": 5053,
+    "latitude": 48.81560464103846,
+    "telephone": "0149851096",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Chaperon Vert 1",
+    "resultStructId": "15328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cite du chaperon vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3479578932794833,
+    "ville": "gentilly",
+    "cp": "194250"
+  },
+  {
+    "resultId": "12538761",
+    "mail": "",
+    "distance": 5053,
+    "latitude": 48.81560464103846,
+    "telephone": "0145463639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Gabriel Péri",
+    "resultStructId": "15329",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 ter rue de la divisionleclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3479578932794833,
+    "ville": "gentilly",
+    "cp": "94250"
+  },
+  {
+    "resultId": "12544609",
+    "mail": "",
+    "distance": 5103,
+    "latitude": 48.81517149894979,
+    "telephone": "0146637903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "15449",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 place henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3481293791434563,
+    "ville": "gentilly",
+    "cp": "94250"
+  },
+  {
+    "resultId": "57318264",
+    "mail": "",
+    "distance": 5560,
+    "latitude": 48.81141657621434,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Peride Gentilly",
+    "resultStructId": "674436",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 avenue g. peri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3506955232033127,
+    "ville": "gentilly",
+    "cp": "94250"
+  }
+]

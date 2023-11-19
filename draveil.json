@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12516487",
+    "mail": "",
+    "distance": 192542,
+    "latitude": 48.661323768905824,
+    "telephone": "0169521080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tétineet Doudou",
+    "resultStructId": "792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue sainte anne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4249712756161492,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521131",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 193142,
+    "latitude": 48.66602108199427,
+    "telephone": "0169597963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetitsLoups des Bois",
+    "resultStructId": "135707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue louis camatte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4296196350645975,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12641359",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 194369,
+    "latitude": 48.68238462225122,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRibambelle",
+    "resultStructId": "135704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'oberkirch - maison de la petiteenfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4052763656403364,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521260",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 194369,
+    "latitude": 48.68238462225122,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieVilliers Arc en Ciel",
+    "resultStructId": "135705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place oberkirch - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4052763656403364,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521174",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 194854,
+    "latitude": 48.6832807443123,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommede Rainette - Draveil",
+    "resultStructId": "135709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 rue du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.423850405625624,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "31995996",
+    "mail": "draveil@happy-zou.fr",
+    "distance": 195039,
+    "latitude": 48.68326717388284,
+    "telephone": "0616168457",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainesde Soleil",
+    "resultStructId": "87403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue charles mory",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.432568394423321,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521045",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 195512,
+    "latitude": 48.691162357857586,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Frimousses",
+    "resultStructId": "135706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue f. joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4152121783960325,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12568646",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 195666,
+    "latitude": 48.68921567623004,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "135708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.432331915783757,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12568646",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 155028,
+    "latitude": 48.68921567623004,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "135708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.432331915783757,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "31995996",
+    "mail": "draveil@happy-zou.fr",
+    "distance": 155041,
+    "latitude": 48.68326717388284,
+    "telephone": "0616168457",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainesde Soleil",
+    "resultStructId": "87403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue charles mory",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.432568394423321,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521131",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 155361,
+    "latitude": 48.66602108199427,
+    "telephone": "0169597963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetitsLoups des Bois",
+    "resultStructId": "135707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue louis camatte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4296196350645975,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521174",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 155680,
+    "latitude": 48.6832807443123,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommede Rainette - Draveil",
+    "resultStructId": "135709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 rue du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.423850405625624,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12516487",
+    "mail": "",
+    "distance": 155735,
+    "latitude": 48.661323768905824,
+    "telephone": "0169521080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tétineet Doudou",
+    "resultStructId": "792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue sainte anne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4249712756161492,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521045",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 156274,
+    "latitude": 48.691162357857586,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Frimousses",
+    "resultStructId": "135706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue f. joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4152121783960325,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12641359",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 157047,
+    "latitude": 48.68238462225122,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRibambelle",
+    "resultStructId": "135704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place d'oberkirch - maison de la petiteenfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4052763656403364,
+    "ville": "draveil",
+    "cp": "91210"
+  },
+  {
+    "resultId": "12521260",
+    "mail": "bal-petiteenfance@mairiedraveil.fr",
+    "distance": 157047,
+    "latitude": 48.68238462225122,
+    "telephone": "0169527963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieVilliers Arc en Ciel",
+    "resultStructId": "135705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place oberkirch - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4052763656403364,
+    "ville": "draveil",
+    "cp": "91210"
+  }
+]

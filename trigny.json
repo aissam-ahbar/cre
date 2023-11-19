@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12777213",
+    "mail": "associatiolalouviere@orange.fr",
+    "distance": 79120,
+    "latitude": 49.30126956939222,
+    "telephone": "0326035287",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaLouvière",
+    "resultStructId": "187728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de prouilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.89487600492491,
+    "ville": "trigny",
+    "cp": "51140"
+  },
+  {
+    "resultId": "12777213",
+    "mail": "associatiolalouviere@orange.fr",
+    "distance": 155182,
+    "latitude": 49.30126956939222,
+    "telephone": "0326035287",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaLouvière",
+    "resultStructId": "187728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de prouilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.89487600492491,
+    "ville": "trigny",
+    "cp": "51140"
+  }
+]

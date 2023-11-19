@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12770806",
+    "mail": "3pommes@grand-armagnac.fr",
+    "distance": 60405,
+    "latitude": 43.86143629318719,
+    "telephone": "0562099222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les3 pommes",
+    "resultStructId": "377301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue raphael",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10138492473834305,
+    "ville": "eauze",
+    "cp": "32800"
+  }
+]

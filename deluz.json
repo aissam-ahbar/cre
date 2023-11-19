@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12954510",
+    "mail": "copainsetcopines@gmail.com",
+    "distance": 152474,
+    "latitude": 43.406745684480704,
+    "telephone": "0953321959",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "COPAINS& COPINES",
+    "resultStructId": "11008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de l'industrie 64500 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6216501198438589,
+    "ville": "deluz",
+    "cp": ""
+  },
+  {
+    "resultId": "12501867",
+    "mail": "sagardian@wanadoo.fr",
+    "distance": 155630,
+    "latitude": 43.38828555245085,
+    "telephone": "",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilSAGARDIAN",
+    "resultStructId": "452",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 avenue de habas 64500 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.651405006072576,
+    "ville": "deluz",
+    "cp": ""
+  },
+  {
+    "resultId": "31617822",
+    "mail": "itsasargia@saintjeandeluz.fr",
+    "distance": 155784,
+    "latitude": 43.38634533097632,
+    "telephone": "0763594221",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilItsas Argia",
+    "resultStructId": "79701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de l'ichaca 64500 st jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6514940238432807,
+    "ville": "deluz",
+    "cp": ""
+  }
+]

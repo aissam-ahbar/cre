@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12538116",
+    "mail": "",
+    "distance": 155601,
+    "latitude": 48.76418802653496,
+    "telephone": "0148909231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale De La Paix",
+    "resultStructId": "15314",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue de la paix 94600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4225618526585095,
+    "ville": "choisyleroi",
+    "cp": ""
+  },
+  {
+    "resultId": "13066490",
+    "mail": "",
+    "distance": 155695,
+    "latitude": 48.772039868784226,
+    "telephone": "0170978011",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Tony Lainé",
+    "resultStructId": "624501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 avenue de la folie 94600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4214237791537614,
+    "ville": "choisyleroi",
+    "cp": ""
+  },
+  {
+    "resultId": "57813656",
+    "mail": "support@berceaudesrois.fr",
+    "distance": 156391,
+    "latitude": 48.75671233904856,
+    "telephone": "0185460980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Leberceau des rois Choisy",
+    "resultStructId": "679413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue albert 1er 94600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4117148701020397,
+    "ville": "choisyleroi",
+    "cp": ""
+  }
+]

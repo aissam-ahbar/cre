@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57321994",
+    "mail": "",
+    "distance": 150940,
+    "latitude": 48.839773135298415,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAENogent Lutins",
+    "resultStructId": "674508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du marechal vaillant 94130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4905970053045086,
+    "ville": "nogentsurmarne",
+    "cp": ""
+  },
+  {
+    "resultId": "12542201",
+    "mail": "petitsmoussaillons@gmail.com",
+    "distance": 151415,
+    "latitude": 48.84222713609542,
+    "telephone": "0953227975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Les Petits Canotiers et les PetitsMoussaillons",
+    "resultStructId": "338401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124 boulevard de strasbourg 94130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.484337205923273,
+    "ville": "nogentsurmarne",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12786716",
+    "mail": "sivu.4chatons@orange.fr",
+    "distance": 53616,
+    "latitude": 50.48254585134674,
+    "telephone": "0327368132",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES 4 CHATONS",
+    "resultStructId": "7106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de l'eglise 59230 chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4766926604369823,
+    "ville": "labbaye",
+    "cp": ""
+  },
+  {
+    "resultId": "12559014",
+    "mail": "",
+    "distance": 53629,
+    "latitude": 50.48220631305953,
+    "telephone": "0327486604",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les4 châtons",
+    "resultStructId": "1781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place de l'eglise - espace petite enfance59230 chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.476892408388342,
+    "ville": "labbaye",
+    "cp": ""
+  }
+]

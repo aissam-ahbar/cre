@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12998542",
+    "mail": "frimousse62950@gmail.com",
+    "distance": 20379,
+    "latitude": 50.41990544633737,
+    "telephone": "0321439490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil FRIMOUSSE",
+    "resultStructId": "673201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "galerie commercante auchan avenue dela republique 62950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9943892437931363,
+    "ville": "noyellesgodault",
+    "cp": ""
+  },
+  {
+    "resultId": "57318310",
+    "mail": "grainedeveil@orange.fr",
+    "distance": 20444,
+    "latitude": 50.41218256849174,
+    "telephone": "0321436014",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GRAINED EVEIL",
+    "resultStructId": "674437",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des saules 62950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.991344928247472,
+    "ville": "noyellesgodault",
+    "cp": ""
+  },
+  {
+    "resultId": "60600047",
+    "mail": "contact.bebezen@gmail.com",
+    "distance": 20499,
+    "latitude": 50.41889712531795,
+    "telephone": "0321135644",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BébéZen",
+    "resultStructId": "713010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11rue victor hugo 62950",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.995674388173834,
+    "ville": "noyellesgodault",
+    "cp": ""
+  },
+  {
+    "resultId": "12892160",
+    "mail": "petiteenfance@mairie-noyelles-godault.fr",
+    "distance": 20747,
+    "latitude": 50.42449321542833,
+    "telephone": "0321753169",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti accueil Louise Michel",
+    "resultStructId": "175101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.001887335820959,
+    "ville": "noyellesgodault",
+    "cp": "62950"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12696407",
+    "mail": "chapi.chapeau@orange.fr",
+    "distance": 149250,
+    "latitude": 44.17678493527138,
+    "telephone": "0563659430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chapi-chapeauAccueil de Septfonds",
+    "resultStructId": "684225",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 boulevard de la fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6218806832405752,
+    "ville": "septfonds",
+    "cp": "82240"
+  }
+]

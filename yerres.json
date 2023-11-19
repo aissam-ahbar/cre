@@ -1,0 +1,626 @@
+[
+  {
+    "resultId": "37677742",
+    "mail": "",
+    "distance": 197182,
+    "latitude": 48.69342274748396,
+    "telephone": "0169838551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Lapinous",
+    "resultStructId": "160202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue morin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4810387890780348,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "32001010",
+    "mail": "lacabanedebibou@laposte.net",
+    "distance": 197840,
+    "latitude": 48.7000046344447,
+    "telephone": "0632253684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane de Bibou",
+    "resultStructId": "706841",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue pierre brossolette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4793219672757387,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12854148",
+    "mail": "yerres@lprc.fr",
+    "distance": 199013,
+    "latitude": 48.710770827919305,
+    "telephone": "0155904444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8674",
+    "omegaId": "12194",
+    "avip": false,
+    "adresse": "2 ter rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4807732138554384,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "30879599",
+    "mail": "info@baboune.fr",
+    "distance": 199115,
+    "latitude": 48.70797667841583,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaboune Yerres",
+    "resultStructId": "70304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue raymond poincare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.498370925234935,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691634",
+    "mail": "bambi.pinocchio@ville-de-yerres.fr",
+    "distance": 199216,
+    "latitude": 48.712718893327754,
+    "telephone": "0169497685",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bambi- Pinocchio",
+    "resultStructId": "115916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean bouin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4806311477826046,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "58900711",
+    "mail": "cre-633@babilou.com",
+    "distance": 199297,
+    "latitude": 48.71197387713725,
+    "telephone": "0185747700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouYerres Concy",
+    "resultStructId": "690114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue concy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.487748872099774,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691720",
+    "mail": "",
+    "distance": 199508,
+    "latitude": 48.71356357380623,
+    "telephone": "0169560447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Caramiel",
+    "resultStructId": "4867",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pierre loti",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.489660618415308,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12670865",
+    "mail": "",
+    "distance": 199508,
+    "latitude": 48.71356357380623,
+    "telephone": "0169497670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCalinous",
+    "resultStructId": "4382",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pierre loti",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.489660618415308,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "32431554",
+    "mail": "",
+    "distance": 199553,
+    "latitude": 48.711646237289514,
+    "telephone": "0169496286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Beth Rivkah",
+    "resultStructId": "92101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue caresmentrant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500578075647981,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "34126321",
+    "mail": "",
+    "distance": 199553,
+    "latitude": 48.711646237289514,
+    "telephone": "0169496286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BethRivkah",
+    "resultStructId": "115117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue caresmentrant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500578075647981,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12670822",
+    "mail": "",
+    "distance": 199848,
+    "latitude": 48.71711102289619,
+    "telephone": "0169560447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Coquinours",
+    "resultStructId": "4381",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "107bis rue charles de gaulle - residence le manoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691763",
+    "mail": "",
+    "distance": 199848,
+    "latitude": 48.71711102289619,
+    "telephone": "0169480462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tobogantine",
+    "resultStructId": "4868",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53rue francois boucher - residence la grande prairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12853933",
+    "mail": "yerres.dorlotte@lpcr.fr",
+    "distance": 199848,
+    "latitude": 48.71711102289619,
+    "telephone": "0178180140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaDorlotte - LES PETITS CHAPERONS ROUGES",
+    "resultStructId": "115115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue demending",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "32431554",
+    "mail": "",
+    "distance": 149933,
+    "latitude": 48.711646237289514,
+    "telephone": "0169496286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Beth Rivkah",
+    "resultStructId": "92101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue caresmentrant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500578075647981,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "34126321",
+    "mail": "",
+    "distance": 149933,
+    "latitude": 48.711646237289514,
+    "telephone": "0169496286",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BethRivkah",
+    "resultStructId": "115117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue caresmentrant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500578075647981,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "30879599",
+    "mail": "info@baboune.fr",
+    "distance": 150107,
+    "latitude": 48.70797667841583,
+    "telephone": "0183817709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaboune Yerres",
+    "resultStructId": "70304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue raymond poincare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.498370925234935,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691720",
+    "mail": "",
+    "distance": 150728,
+    "latitude": 48.71356357380623,
+    "telephone": "0169560447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Caramiel",
+    "resultStructId": "4867",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue pierre loti",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.489660618415308,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12670865",
+    "mail": "",
+    "distance": 150728,
+    "latitude": 48.71356357380623,
+    "telephone": "0169497670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCalinous",
+    "resultStructId": "4382",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue pierre loti",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.489660618415308,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12670822",
+    "mail": "",
+    "distance": 150831,
+    "latitude": 48.71711102289619,
+    "telephone": "0169560447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Coquinours",
+    "resultStructId": "4381",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "107bis rue charles de gaulle - residence le manoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691763",
+    "mail": "",
+    "distance": 150831,
+    "latitude": 48.71711102289619,
+    "telephone": "0169480462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tobogantine",
+    "resultStructId": "4868",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53rue francois boucher - residence la grande prairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12853933",
+    "mail": "yerres.dorlotte@lpcr.fr",
+    "distance": 150831,
+    "latitude": 48.71711102289619,
+    "telephone": "0178180140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaDorlotte - LES PETITS CHAPERONS ROUGES",
+    "resultStructId": "115115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue demending",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4881090103610233,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "58900711",
+    "mail": "cre-633@babilou.com",
+    "distance": 150873,
+    "latitude": 48.71197387713725,
+    "telephone": "0185747700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouYerres Concy",
+    "resultStructId": "690114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue concy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.487748872099774,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12854148",
+    "mail": "yerres@lprc.fr",
+    "distance": 151388,
+    "latitude": 48.710770827919305,
+    "telephone": "0155904444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8674",
+    "omegaId": "12194",
+    "avip": false,
+    "adresse": "2 ter rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4807732138554384,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "12691634",
+    "mail": "bambi.pinocchio@ville-de-yerres.fr",
+    "distance": 151392,
+    "latitude": 48.712718893327754,
+    "telephone": "0169497685",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bambi- Pinocchio",
+    "resultStructId": "115916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean bouin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4806311477826046,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "37677742",
+    "mail": "",
+    "distance": 151436,
+    "latitude": 48.69342274748396,
+    "telephone": "0169838551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Lapinous",
+    "resultStructId": "160202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue morin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4810387890780348,
+    "ville": "yerres",
+    "cp": "91330"
+  },
+  {
+    "resultId": "32001010",
+    "mail": "lacabanedebibou@laposte.net",
+    "distance": 151533,
+    "latitude": 48.7000046344447,
+    "telephone": "0632253684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane de Bibou",
+    "resultStructId": "706841",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue pierre brossolette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4793219672757387,
+    "ville": "yerres",
+    "cp": "91330"
+  }
+]

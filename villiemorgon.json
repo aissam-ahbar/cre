@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12888376",
+    "mail": "ptitsbouchons-69@orange.fr",
+    "distance": 126953,
+    "latitude": 46.162808883250115,
+    "telephone": "0474691322",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Bouchons",
+    "resultStructId": "104706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "220 avenue jean-baptiste sornay69910",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.683033429828064,
+    "ville": "villiemorgon",
+    "cp": ""
+  },
+  {
+    "resultId": "59743971",
+    "mail": "latribudesgones.ouat@gmail.com",
+    "distance": 128711,
+    "latitude": 46.145367414456516,
+    "telephone": "0769194885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchele Domaine des Gones",
+    "resultStructId": "699602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1350 route du cru 69910",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.679509119717236,
+    "ville": "villiemorgon",
+    "cp": ""
+  }
+]

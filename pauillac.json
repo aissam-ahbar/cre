@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12495890",
+    "mail": "multiaccueil@cccentremedoc.fr",
+    "distance": 103066,
+    "latitude": 45.200161079180866,
+    "telephone": "0556592388",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil C'EST LE COIN CALIN DU MEDOC",
+    "resultStructId": "313",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue montauroy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7483626655385579,
+    "ville": "pauillac",
+    "cp": "33250"
+  }
+]

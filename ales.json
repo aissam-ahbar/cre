@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12694644",
+    "mail": "",
+    "distance": 77153,
+    "latitude": 44.129625834770195,
+    "telephone": "0466548802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Princes\"",
+    "resultStructId": "4935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 faubourg d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.079916396668945,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12711973",
+    "mail": "",
+    "distance": 77448,
+    "latitude": 44.132406914347605,
+    "telephone": "0466556840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Lutins\"",
+    "resultStructId": "5338",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 b avenue jean baptiste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.078999329171865,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12616290",
+    "mail": "sesames.admi@nolog.org",
+    "distance": 77815,
+    "latitude": 44.1404602913981,
+    "telephone": "0466303742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sésames\"",
+    "resultStructId": "3113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de l'aigoual",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.087311560529719,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12712403",
+    "mail": "califourchon@alesagglo.fr",
+    "distance": 77890,
+    "latitude": 44.140009017891984,
+    "telephone": "0466860199",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Califourchon\"",
+    "resultStructId": "5348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue de la judie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.084678483215687,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12840087",
+    "mail": "papillonsbleus@alesagglo.fr",
+    "distance": 78274,
+    "latitude": 44.150666265306356,
+    "telephone": "0466432850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespapillons bleus",
+    "resultStructId": "8347",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des potences",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.098423260285252,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12694644",
+    "mail": "",
+    "distance": 60854,
+    "latitude": 44.129625834770195,
+    "telephone": "0466548802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Princes\"",
+    "resultStructId": "4935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 faubourg d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.079916396668945,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12711973",
+    "mail": "",
+    "distance": 61137,
+    "latitude": 44.132406914347605,
+    "telephone": "0466556840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Lutins\"",
+    "resultStructId": "5338",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 b avenue jean baptiste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.078999329171865,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12712403",
+    "mail": "califourchon@alesagglo.fr",
+    "distance": 62067,
+    "latitude": 44.140009017891984,
+    "telephone": "0466860199",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Califourchon\"",
+    "resultStructId": "5348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue de la judie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.084678483215687,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12616290",
+    "mail": "sesames.admi@nolog.org",
+    "distance": 62167,
+    "latitude": 44.1404602913981,
+    "telephone": "0466303742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sésames\"",
+    "resultStructId": "3113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de l'aigoual",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.087311560529719,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12840087",
+    "mail": "papillonsbleus@alesagglo.fr",
+    "distance": 63488,
+    "latitude": 44.150666265306356,
+    "telephone": "0466432850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespapillons bleus",
+    "resultStructId": "8347",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des potences",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.098423260285252,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12840087",
+    "mail": "papillonsbleus@alesagglo.fr",
+    "distance": 158409,
+    "latitude": 44.150666265306356,
+    "telephone": "0466432850",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespapillons bleus",
+    "resultStructId": "8347",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des potences",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.098423260285252,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12616290",
+    "mail": "sesames.admi@nolog.org",
+    "distance": 159152,
+    "latitude": 44.1404602913981,
+    "telephone": "0466303742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Sésames\"",
+    "resultStructId": "3113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de l'aigoual",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.087311560529719,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12712403",
+    "mail": "califourchon@alesagglo.fr",
+    "distance": 159355,
+    "latitude": 44.140009017891984,
+    "telephone": "0466860199",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Califourchon\"",
+    "resultStructId": "5348",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue de la judie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.084678483215687,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12694644",
+    "mail": "",
+    "distance": 159603,
+    "latitude": 44.129625834770195,
+    "telephone": "0466548802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Princes\"",
+    "resultStructId": "4935",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 faubourg d'auvergne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.079916396668945,
+    "ville": "ales",
+    "cp": "30100"
+  },
+  {
+    "resultId": "12711973",
+    "mail": "",
+    "distance": 159710,
+    "latitude": 44.132406914347605,
+    "telephone": "0466556840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Lutins\"",
+    "resultStructId": "5338",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 b avenue jean baptiste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.078999329171865,
+    "ville": "ales",
+    "cp": "30100"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13050064",
+    "mail": "creche.lexylophone@grandperigueux.fr",
+    "distance": 120765,
+    "latitude": 45.14968499508864,
+    "telephone": "0553082410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEXYLOPHONE",
+    "resultStructId": "13230",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg 24330 boulazac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7933180651271942,
+    "ville": "islemanoire",
+    "cp": ""
+  },
+  {
+    "resultId": "13049634",
+    "mail": "creche.valentinebussiere@grandperigueux.fr",
+    "distance": 123175,
+    "latitude": 45.18276868855349,
+    "telephone": "0553035316",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VALENTINEBUSSIERE",
+    "resultStructId": "13220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "espace lucien dutard 24750 boulazac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7871860665238546,
+    "ville": "islemanoire",
+    "cp": ""
+  }
+]

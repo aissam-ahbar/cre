@@ -1,0 +1,75 @@
+[
+  {
+    "resultId": "12799702",
+    "mail": "microcrecheleslibellules@hotmail.fr",
+    "distance": 128832,
+    "latitude": 43.20586926604218,
+    "telephone": "0681312142",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche \"Les Libellules\"",
+    "resultStructId": "678502",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "6chemin palu de l'oume",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.038735058638968055,
+    "ville": "juillan",
+    "cp": "65290"
+  },
+  {
+    "resultId": "59482483",
+    "mail": "admr.juillan-marquisat.lesptitsouistitis@fede65.admr.org",
+    "distance": 129142,
+    "latitude": 43.20106644709966,
+    "telephone": "0562325302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Eaje- Micro-crèche les P'tits Ouistitis",
+    "resultStructId": "697404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "teleport 3 zonepyrene aeropole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.02254689006983165,
+    "ville": "juillan",
+    "cp": "65290"
+  },
+  {
+    "resultId": "59482347",
+    "mail": "admr.juillan-marquisat.lesloupings@fede65.admr.org",
+    "distance": 129142,
+    "latitude": 43.20106644709966,
+    "telephone": "0562958089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Loup'ings",
+    "resultStructId": "701415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "teleport 3 zone pyrene aeropole",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.02254689006983165,
+    "ville": "juillan",
+    "cp": "65290"
+  }
+]

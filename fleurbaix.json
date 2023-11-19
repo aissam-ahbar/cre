@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13021770",
+    "mail": "multi.accueil@fleurbaix.fr",
+    "distance": 21308,
+    "latitude": 50.65180615967205,
+    "telephone": "0321651023",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde Fleurbaix",
+    "resultStructId": "217103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 bis rue du quesne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8293508453964415,
+    "ville": "fleurbaix",
+    "cp": "62840"
+  },
+  {
+    "resultId": "32059204",
+    "mail": "par-ici-lespetits@les-cherubins.com",
+    "distance": 21372,
+    "latitude": 50.65140822050782,
+    "telephone": "0987452587",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Parici les Petits Chérubins",
+    "resultStructId": "679214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis place jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8333486428138457,
+    "ville": "fleurbaix",
+    "cp": "62840"
+  }
+]

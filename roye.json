@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12710167",
+    "mail": "lesroitelets@grandroye.fr",
+    "distance": 85446,
+    "latitude": 49.706047868446205,
+    "telephone": "0322878812",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESROITELETS",
+    "resultStructId": "256601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue des granges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.782085276151559,
+    "ville": "roye",
+    "cp": "80700"
+  }
+]

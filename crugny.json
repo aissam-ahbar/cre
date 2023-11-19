@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12779406",
+    "mail": "creche-crugny@hotmail.fr",
+    "distance": 82946,
+    "latitude": 49.2592955636334,
+    "telephone": "0326974573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Crugny",
+    "resultStructId": "6936",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du bon martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7412045044186124,
+    "ville": "crugny",
+    "cp": "51170"
+  },
+  {
+    "resultId": "12779406",
+    "mail": "creche-crugny@hotmail.fr",
+    "distance": 153595,
+    "latitude": 49.2592955636334,
+    "telephone": "0326974573",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Crugny",
+    "resultStructId": "6936",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du bon martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.7412045044186124,
+    "ville": "crugny",
+    "cp": "51170"
+  }
+]

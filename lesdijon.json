@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12788479",
+    "mail": "rochefort.francoise@wanadoo.fr",
+    "distance": 66375,
+    "latitude": 47.340932257613815,
+    "telephone": "0380556045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil MARCELLE MARCHANT (Mairie)",
+    "resultStructId": "199737",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du general degaulle 21121 fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.022108180015096,
+    "ville": "lesdijon",
+    "cp": ""
+  },
+  {
+    "resultId": "33385286",
+    "mail": "microcreche@nospremierspas.com",
+    "distance": 66850,
+    "latitude": 47.35402253421985,
+    "telephone": "0659217066",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche NOS PREMIERS PAS",
+    "resultStructId": "199762",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue des cortots 21121fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.025252328257939,
+    "ville": "lesdijon",
+    "cp": ""
+  },
+  {
+    "resultId": "12788522",
+    "mail": "haltegarderie-fld@wanadoo.fr",
+    "distance": 67007,
+    "latitude": 47.34691767628287,
+    "telephone": "0380584232",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil JEANNE LELIEVRE (Mairie)",
+    "resultStructId": "199736",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place des troissaffres 21121 fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029171921884149,
+    "ville": "lesdijon",
+    "cp": ""
+  },
+  {
+    "resultId": "12873799",
+    "mail": "ileauxenfants21@gmail.com",
+    "distance": 69142,
+    "latitude": 47.38436160777969,
+    "telephone": "0345212261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche L'ILE AUX ENFANTS",
+    "resultStructId": "199712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles 21380asnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047299999420791,
+    "ville": "lesdijon",
+    "cp": ""
+  },
+  {
+    "resultId": "12873799",
+    "mail": "ileauxenfants21@gmail.com",
+    "distance": 154363,
+    "latitude": 47.38436160777969,
+    "telephone": "0345212261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche L'ILE AUX ENFANTS",
+    "resultStructId": "199712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des ecoles 21380asnieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047299999420791,
+    "ville": "lesdijon",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12686474",
+    "mail": "sigma@checy.fr",
+    "distance": 174613,
+    "latitude": 47.892554004400175,
+    "telephone": "0238868686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Héron Cendré CHECY",
+    "resultStructId": "515802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue herpiniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.03276429656642,
+    "ville": "checy",
+    "cp": "45430"
+  },
+  {
+    "resultId": "12823567",
+    "mail": "contact@bilulle.fr",
+    "distance": 175112,
+    "latitude": 47.90282767570061,
+    "telephone": "0981306026",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BiLuLLeChécy",
+    "resultStructId": "7963",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean berlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0321856737989714,
+    "ville": "checy",
+    "cp": "45430"
+  },
+  {
+    "resultId": "12686474",
+    "mail": "sigma@checy.fr",
+    "distance": 102358,
+    "latitude": 47.892554004400175,
+    "telephone": "0238868686",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Héron Cendré CHECY",
+    "resultStructId": "515802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue herpiniere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.03276429656642,
+    "ville": "checy",
+    "cp": "45430"
+  },
+  {
+    "resultId": "12823567",
+    "mail": "contact@bilulle.fr",
+    "distance": 103450,
+    "latitude": 47.90282767570061,
+    "telephone": "0981306026",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BiLuLLeChécy",
+    "resultStructId": "7963",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue jean berlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0321856737989714,
+    "ville": "checy",
+    "cp": "45430"
+  }
+]

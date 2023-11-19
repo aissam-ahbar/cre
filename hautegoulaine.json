@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12621020",
+    "mail": "multi-accueil@espacedesloriots.fr",
+    "distance": 57394,
+    "latitude": 47.198319313637555,
+    "telephone": "0240545041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Haute-Goulaine",
+    "resultStructId": "3223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la chataigneraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4305102280418232,
+    "ville": "hautegoulaine",
+    "cp": "44115"
+  },
+  {
+    "resultId": "12572817",
+    "mail": "multi-accueil@espacedesloriots.fr",
+    "distance": 57418,
+    "latitude": 47.198057366343505,
+    "telephone": "0240545041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Espacedes Loriots",
+    "resultStructId": "2102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la chataigneraie 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4305236767790417,
+    "ville": "hautegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "57309041",
+    "mail": "creche-hapili-hautegoulaine@leaetleo.com",
+    "distance": 58220,
+    "latitude": 47.18328843016647,
+    "telephone": "0252105681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HapiliHaute Goulaine",
+    "resultStructId": "674335",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue georges charpak 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.418125975668103,
+    "ville": "hautegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "43176883",
+    "mail": "hautegoulaine1@creche-la-maison-bleue.fr",
+    "distance": 58416,
+    "latitude": 47.18312569198628,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Marjolaine\"",
+    "resultStructId": "234509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 impasse alfred kastler 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.422345821931173,
+    "ville": "hautegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "12621020",
+    "mail": "multi-accueil@espacedesloriots.fr",
+    "distance": 57394,
+    "latitude": 47.198319313637555,
+    "telephone": "0240545041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Haute-Goulaine",
+    "resultStructId": "3223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la chataigneraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4305102280418232,
+    "ville": "hautegoulaine",
+    "cp": "44115"
+  },
+  {
+    "resultId": "12572817",
+    "mail": "multi-accueil@espacedesloriots.fr",
+    "distance": 57418,
+    "latitude": 47.198057366343505,
+    "telephone": "0240545041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Espacedes Loriots",
+    "resultStructId": "2102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de la chataigneraie 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4305236767790417,
+    "ville": "hautegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "57309041",
+    "mail": "creche-hapili-hautegoulaine@leaetleo.com",
+    "distance": 58220,
+    "latitude": 47.18328843016647,
+    "telephone": "0252105681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HapiliHaute Goulaine",
+    "resultStructId": "674335",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue georges charpak 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.418125975668103,
+    "ville": "hautegoulaine",
+    "cp": ""
+  },
+  {
+    "resultId": "43176883",
+    "mail": "hautegoulaine1@creche-la-maison-bleue.fr",
+    "distance": 58416,
+    "latitude": 47.18312569198628,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Marjolaine\"",
+    "resultStructId": "234509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 impasse alfred kastler 44115",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.422345821931173,
+    "ville": "hautegoulaine",
+    "cp": ""
+  }
+]

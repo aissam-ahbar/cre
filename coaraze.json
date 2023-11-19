@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12687850",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 241118,
+    "latitude": 43.865728645570584,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCLi estelas",
+    "resultStructId": "579302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 route du col saint-roch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.292693854242515,
+    "ville": "coaraze",
+    "cp": "06390"
+  },
+  {
+    "resultId": "12687850",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 99083,
+    "latitude": 43.865728645570584,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCLi estelas",
+    "resultStructId": "579302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 route du col saint-roch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.292693854242515,
+    "ville": "coaraze",
+    "cp": "06390"
+  }
+]

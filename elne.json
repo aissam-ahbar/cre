@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12967109",
+    "mail": "eajeelne@cc-acvi.com",
+    "distance": 171198,
+    "latitude": 42.604991039680215,
+    "telephone": "0468680792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElRatoli",
+    "resultStructId": "674008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard du pas de la baneta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9703428605251148,
+    "ville": "elne",
+    "cp": "66200"
+  },
+  {
+    "resultId": "12707931",
+    "mail": "dmum66@gmail.com",
+    "distance": 172022,
+    "latitude": 42.59861864084492,
+    "telephone": "0982261016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Dessine-moi un mouton\"",
+    "resultStructId": "5244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10bis avenue pierresemard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9643860458009628,
+    "ville": "elne",
+    "cp": "66200"
+  },
+  {
+    "resultId": "12967109",
+    "mail": "eajeelne@cc-acvi.com",
+    "distance": 133648,
+    "latitude": 42.604991039680215,
+    "telephone": "0468680792",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ElRatoli",
+    "resultStructId": "674008",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard du pas de la baneta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9703428605251148,
+    "ville": "elne",
+    "cp": "66200"
+  },
+  {
+    "resultId": "12707931",
+    "mail": "dmum66@gmail.com",
+    "distance": 134508,
+    "latitude": 42.59861864084492,
+    "telephone": "0982261016",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Dessine-moi un mouton\"",
+    "resultStructId": "5244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10bis avenue pierresemard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9643860458009628,
+    "ville": "elne",
+    "cp": "66200"
+  }
+]

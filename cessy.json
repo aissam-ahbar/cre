@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60414709",
+    "mail": "apetitspas.paysdegexagglo@leolagrange.org",
+    "distance": 178648,
+    "latitude": 46.31703017407844,
+    "telephone": "0450200921",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil A petits pas",
+    "resultStructId": "711111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "345 rue joseph leger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.068535595811808,
+    "ville": "cessy",
+    "cp": "01170"
+  },
+  {
+    "resultId": "34120383",
+    "mail": "cessy@bulle-d-etoiles.com",
+    "distance": 179487,
+    "latitude": 46.30240844330828,
+    "telephone": "0450410679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulle d'étoiles Cessy",
+    "resultStructId": "114909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "166 chemin du journans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.066570159195196,
+    "ville": "cessy",
+    "cp": "01170"
+  }
+]

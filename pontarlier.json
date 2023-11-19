@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "54118171",
+    "mail": "contact@microcreche-apetitspas.fr",
+    "distance": 170430,
+    "latitude": 46.90220410031375,
+    "telephone": "0672829349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Ouistitis",
+    "resultStructId": "567701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue arthur bourdin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.3468845897935,
+    "ville": "pontarlier",
+    "cp": "25300"
+  },
+  {
+    "resultId": "13022071",
+    "mail": "crechecapucine@ville-pontarlier.com",
+    "distance": 170469,
+    "latitude": 46.90664155196193,
+    "telephone": "0381390443",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrècheFamiliale Pontarlier",
+    "resultStructId": "686504",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue des capucins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.348986110534122,
+    "ville": "pontarlier",
+    "cp": "25300"
+  },
+  {
+    "resultId": "12817246",
+    "mail": "contact@microcreche-apetitspas.fr",
+    "distance": 170505,
+    "latitude": 46.90808438130663,
+    "telephone": "0672829349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Pirates",
+    "resultStructId": "567202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue de besancon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.3499840726126475,
+    "ville": "pontarlier",
+    "cp": "25300"
+  },
+  {
+    "resultId": "12742856",
+    "mail": "",
+    "distance": 170674,
+    "latitude": 46.90378219653505,
+    "telephone": "0381397916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crèchecollective Les P'tits Loups",
+    "resultStructId": "567602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.350747045110836,
+    "ville": "pontarlier",
+    "cp": "25300"
+  },
+  {
+    "resultId": "13022157",
+    "mail": "",
+    "distance": 170919,
+    "latitude": 46.90410475549304,
+    "telephone": "0381396901",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Pirouette",
+    "resultStructId": "12581",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des toulombier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.354192642830943,
+    "ville": "pontarlier",
+    "cp": "25300"
+  }
+]

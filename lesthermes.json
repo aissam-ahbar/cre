@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "38874062",
+    "mail": "amneville1@creche-la-maison-bleue.fr",
+    "distance": 129105,
+    "latitude": 49.25255298898436,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa forêt enchantée",
+    "resultStructId": "671503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue pasteur 57360 amneville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.125455472806386,
+    "ville": "lesthermes",
+    "cp": ""
+  },
+  {
+    "resultId": "58833330",
+    "mail": "garderie@ax-ski.com",
+    "distance": 246367,
+    "latitude": 42.720097778301536,
+    "telephone": "0642094571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Marmottes et les Bouquetins d'Ax 3Domaines",
+    "resultStructId": "689404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de la griole 09110 ax",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8374203445409678,
+    "ville": "lesthermes",
+    "cp": ""
+  },
+  {
+    "resultId": "12638478",
+    "mail": "creche.ax@cc-hauteariege.fr",
+    "distance": 246422,
+    "latitude": 42.71899116443936,
+    "telephone": "0561020030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCroque Soleil",
+    "resultStructId": "401602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "camp de granou 09110 ax",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.83675249950099,
+    "ville": "lesthermes",
+    "cp": ""
+  }
+]

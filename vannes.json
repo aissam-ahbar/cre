@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "45923675",
+    "mail": "eveilrohig@orange.fr",
+    "distance": 130282,
+    "latitude": 47.66127465968939,
+    "telephone": "0297471701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe ptit club à Vannes",
+    "resultStructId": "353901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 impasse prad er rohig",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.717430958185726,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12613280",
+    "mail": "",
+    "distance": 132123,
+    "latitude": 47.66470536435395,
+    "telephone": "0297014027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCâlins Bleus",
+    "resultStructId": "368601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 boulevard general maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.741874336368398,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761088",
+    "mail": "",
+    "distance": 132187,
+    "latitude": 47.650615572619486,
+    "telephone": "0297012766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeTohannic",
+    "resultStructId": "6510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jacques buchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7432468235596845,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "60376911",
+    "mail": "direction.vannestohannic@na-creches.fr",
+    "distance": 132456,
+    "latitude": 47.654891446593915,
+    "telephone": "0290795975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NA! VANNES TOHANNIC",
+    "resultStructId": "710102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue pierre marechal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7467079827994105,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12996779",
+    "mail": "contact@lapasserellemontessori.fr",
+    "distance": 132939,
+    "latitude": 47.64023751997233,
+    "telephone": "0756985699",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPasserelle Montessori",
+    "resultStructId": "129514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louis de broglie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.753507255965017,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761131",
+    "mail": "chrystel.stephan@mairie-vannes.fr",
+    "distance": 133053,
+    "latitude": 47.65144106407818,
+    "telephone": "0297012766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Capucines VANNES",
+    "resultStructId": "6511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des capucins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7547819271203724,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "60364569",
+    "mail": "",
+    "distance": 133123,
+    "latitude": 47.66010165755693,
+    "telephone": "0200000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUVANNES MAURY",
+    "resultStructId": "709709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du lieutenant colonel maury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.755430855512606,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761045",
+    "mail": "",
+    "distance": 133702,
+    "latitude": 47.655944530844984,
+    "telephone": "0297633002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Richemont",
+    "resultStructId": "6509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24bis rue richemont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7633090820792248,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761002",
+    "mail": "",
+    "distance": 133982,
+    "latitude": 47.67180087207835,
+    "telephone": "0297633316",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ménimur",
+    "resultStructId": "6508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9avenue paul cezanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7663641096330447,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12721691",
+    "mail": "babigoubreizhmc@laposte.net",
+    "distance": 134407,
+    "latitude": 47.635424314549205,
+    "telephone": "0297546077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEKERBIHAN",
+    "resultStructId": "5564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 avenue marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7731490464543715,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12859394",
+    "mail": "lesminuscules@optimomes.org",
+    "distance": 134715,
+    "latitude": 47.64288322693341,
+    "telephone": "0297405124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Minuscules\" Vannes",
+    "resultStructId": "8796",
+    "omegaId": "3746",
+    "avip": false,
+    "adresse": "92 boulevard de laresistance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.77716475138377,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12737997",
+    "mail": "",
+    "distance": 134793,
+    "latitude": 47.64750308983465,
+    "telephone": "0297016450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE du Cente Socioculturel de KERCADO",
+    "resultStructId": "5973",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue guillaumele bartz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7781180570777546,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12680067",
+    "mail": "leslibellules@dmuc.fr",
+    "distance": 134841,
+    "latitude": 47.68133983194485,
+    "telephone": "0297445582",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Libellules",
+    "resultStructId": "689121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue du docteur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7772863737599054,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12866317",
+    "mail": "",
+    "distance": 135031,
+    "latitude": 47.64773895682027,
+    "telephone": "0297626925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Vénètes",
+    "resultStructId": "8957",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue des venetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7812930948322587,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "45923675",
+    "mail": "eveilrohig@orange.fr",
+    "distance": 130282,
+    "latitude": 47.66127465968939,
+    "telephone": "0297471701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe ptit club à Vannes",
+    "resultStructId": "353901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 impasse prad er rohig",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.717430958185726,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12613280",
+    "mail": "",
+    "distance": 132123,
+    "latitude": 47.66470536435395,
+    "telephone": "0297014027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCâlins Bleus",
+    "resultStructId": "368601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 boulevard general maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.741874336368398,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761088",
+    "mail": "",
+    "distance": 132187,
+    "latitude": 47.650615572619486,
+    "telephone": "0297012766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeTohannic",
+    "resultStructId": "6510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jacques buchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7432468235596845,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "60376911",
+    "mail": "direction.vannestohannic@na-creches.fr",
+    "distance": 132456,
+    "latitude": 47.654891446593915,
+    "telephone": "0290795975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NA! VANNES TOHANNIC",
+    "resultStructId": "710102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue pierre marechal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7467079827994105,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12996779",
+    "mail": "contact@lapasserellemontessori.fr",
+    "distance": 132939,
+    "latitude": 47.64023751997233,
+    "telephone": "0756985699",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaPasserelle Montessori",
+    "resultStructId": "129514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louis de broglie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.753507255965017,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761131",
+    "mail": "chrystel.stephan@mairie-vannes.fr",
+    "distance": 133053,
+    "latitude": 47.65144106407818,
+    "telephone": "0297012766",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Capucines VANNES",
+    "resultStructId": "6511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des capucins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7547819271203724,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "60364569",
+    "mail": "",
+    "distance": 133123,
+    "latitude": 47.66010165755693,
+    "telephone": "0200000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BABILOUVANNES MAURY",
+    "resultStructId": "709709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue du lieutenant colonel maury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.755430855512606,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761045",
+    "mail": "",
+    "distance": 133702,
+    "latitude": 47.655944530844984,
+    "telephone": "0297633002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Richemont",
+    "resultStructId": "6509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24bis rue richemont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7633090820792248,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12761002",
+    "mail": "",
+    "distance": 133982,
+    "latitude": 47.67180087207835,
+    "telephone": "0297633316",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ménimur",
+    "resultStructId": "6508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9avenue paul cezanne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7663641096330447,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12721691",
+    "mail": "babigoubreizhmc@laposte.net",
+    "distance": 134407,
+    "latitude": 47.635424314549205,
+    "telephone": "0297546077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHEKERBIHAN",
+    "resultStructId": "5564",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 avenue marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7731490464543715,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12859394",
+    "mail": "lesminuscules@optimomes.org",
+    "distance": 134715,
+    "latitude": 47.64288322693341,
+    "telephone": "0297405124",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Minuscules\" Vannes",
+    "resultStructId": "8796",
+    "omegaId": "3746",
+    "avip": false,
+    "adresse": "92 boulevard de laresistance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.77716475138377,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12737997",
+    "mail": "",
+    "distance": 134793,
+    "latitude": 47.64750308983465,
+    "telephone": "0297016450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE du Cente Socioculturel de KERCADO",
+    "resultStructId": "5973",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue guillaumele bartz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7781180570777546,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12680067",
+    "mail": "leslibellules@dmuc.fr",
+    "distance": 134841,
+    "latitude": 47.68133983194485,
+    "telephone": "0297445582",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Libellules",
+    "resultStructId": "689121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue du docteur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7772863737599054,
+    "ville": "vannes",
+    "cp": "56000"
+  },
+  {
+    "resultId": "12866317",
+    "mail": "",
+    "distance": 135031,
+    "latitude": 47.64773895682027,
+    "telephone": "0297626925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Vénètes",
+    "resultStructId": "8957",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue des venetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7812930948322587,
+    "ville": "vannes",
+    "cp": "56000"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12769301",
+    "mail": "gaillon@lpcr.fr",
+    "distance": 137161,
+    "latitude": 49.15956593860964,
+    "telephone": "0986196436",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheprivée Les Minis Chatelains",
+    "resultStructId": "683303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place salvador",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.33166111514348,
+    "ville": "gaillon",
+    "cp": "27600"
+  },
+  {
+    "resultId": "12741738",
+    "mail": "contact.enfance@ccems.fr",
+    "distance": 137890,
+    "latitude": 49.16440143523792,
+    "telephone": "0232773777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Doudou & Cie\"",
+    "resultStructId": "675505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue roland roche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3405184393943124,
+    "ville": "gaillon",
+    "cp": "27600"
+  }
+]

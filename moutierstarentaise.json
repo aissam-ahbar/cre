@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43748427",
+    "mail": "laurence.joulin-eyssartier@coeurdetarentaise.fr",
+    "distance": 428056,
+    "latitude": 45.52611344302257,
+    "telephone": "0479244187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Sucre d'Orge",
+    "resultStructId": "702714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 avenue des salines royales73600",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.540754925053653,
+    "ville": "moutierstarentaise",
+    "cp": ""
+  },
+  {
+    "resultId": "43748011",
+    "mail": "direction.multiaccueil@coeurdetarentaise.fr",
+    "distance": 428056,
+    "latitude": 45.52611344302257,
+    "telephone": "0479244187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPATIO DES MOMES",
+    "resultStructId": "702715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "68 avenue des salines royales",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.540754925053653,
+    "ville": "moutierstarentaise",
+    "cp": "73600"
+  }
+]

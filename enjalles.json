@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12573548",
+    "mail": "petiteenfance@saint-medard-en-jalles.fr",
+    "distance": 69555,
+    "latitude": 44.8795619872815,
+    "telephone": "0556708135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil MAISON DE LA PETITE ENFANCE",
+    "resultStructId": "98104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue henri dunant33160 st medard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6986790115728985,
+    "ville": "enjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "12573462",
+    "mail": "enfance@saint-medard-en-jalles.fr",
+    "distance": 71182,
+    "latitude": 44.891206700121636,
+    "telephone": "0556054364",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "2117",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue jean duperier 33160 st medard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.711369947056553,
+    "ville": "enjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "12573505",
+    "mail": "petiteenfance@saint-medard-en-jalles.fr",
+    "distance": 71182,
+    "latitude": 44.891206700121636,
+    "telephone": "0556708130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECOLLECTIVE",
+    "resultStructId": "113017",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue jean duperier 33160 st medard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.711369947056553,
+    "ville": "enjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "12573591",
+    "mail": "enfance@saint-medard-en-jalles.fr",
+    "distance": 72446,
+    "latitude": 44.89997130196484,
+    "telephone": "0556050357",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEACCUEIL PIERRE MENDES FRANCE",
+    "resultStructId": "2120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de saint aubin 33160st medard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7218421774281061,
+    "ville": "enjalles",
+    "cp": ""
+  },
+  {
+    "resultId": "21419428",
+    "mail": "contact@lesjardinsdamalthee.fr",
+    "distance": 74187,
+    "latitude": 44.89523747338938,
+    "telephone": "0668792910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES JARDINS D'AMALTHEE",
+    "resultStructId": "15537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 avenue blaise pascal33160 st medard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7718912616283123,
+    "ville": "enjalles",
+    "cp": ""
+  }
+]

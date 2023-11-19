@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57048240",
+    "mail": "pepinous.bousse@peplorest.org",
+    "distance": 134944,
+    "latitude": 49.273354922926416,
+    "telephone": "0387640613",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pépinous de Bousse",
+    "resultStructId": "677504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12c rue de metz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.199434577234429,
+    "ville": "bousse",
+    "cp": "57310"
+  },
+  {
+    "resultId": "57048094",
+    "mail": "pepichoux.bousse@peplorest.org",
+    "distance": 135031,
+    "latitude": 49.27341314535904,
+    "telephone": "0387332682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pépichoux de Bousse",
+    "resultStructId": "677503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12d rue de metz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.200737430857067,
+    "ville": "bousse",
+    "cp": "57310"
+  }
+]

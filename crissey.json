@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "30700204",
+    "mail": "lesfunambulles@crechesdefrance.com",
+    "distance": 72068,
+    "latitude": 46.82099635770454,
+    "telephone": "0339250220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilles Funam'bulles à Crissey",
+    "resultStructId": "68506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des confreries",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872323665572462,
+    "ville": "crissey",
+    "cp": "71530"
+  },
+  {
+    "resultId": "13048731",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 72981,
+    "latitude": 46.81759067211473,
+    "telephone": "0385438983",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Tourterelle",
+    "resultStructId": "668904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883888542708607,
+    "ville": "crissey",
+    "cp": "71530"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12681787",
+    "mail": "maison-enfance-chilly@orange.fr",
+    "distance": 193759,
+    "latitude": 48.693086653572585,
+    "telephone": "0169102130",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance",
+    "resultStructId": "4636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2-4 rue des tilleuls 91380",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.314933524060033,
+    "ville": "chillymazarin",
+    "cp": ""
+  },
+  {
+    "resultId": "12681099",
+    "mail": "",
+    "distance": 194734,
+    "latitude": 48.70253508985741,
+    "telephone": "0169100620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE DU CHATEAU",
+    "resultStructId": "4620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 domaine du chateau 91380",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.312533760787575,
+    "ville": "chillymazarin",
+    "cp": ""
+  },
+  {
+    "resultId": "12680755",
+    "mail": "creche.familiale@ville-chilly-mazarin.fr",
+    "distance": 194778,
+    "latitude": 48.70256049377206,
+    "telephone": "0160491953",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale François Mouthon",
+    "resultStructId": "158007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue francois mouthon91380",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.314824016343859,
+    "ville": "chillymazarin",
+    "cp": ""
+  },
+  {
+    "resultId": "12713607",
+    "mail": "chlly.mazarin@lpcr.fri",
+    "distance": 195157,
+    "latitude": 48.70591516001864,
+    "telephone": "0954890592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges",
+    "resultStructId": "5376",
+    "omegaId": "12193",
+    "avip": false,
+    "adresse": "3 rue blaise pascal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.315773743121395,
+    "ville": "chillymazarin",
+    "cp": "91380"
+  },
+  {
+    "resultId": "12681056",
+    "mail": "",
+    "distance": 195219,
+    "latitude": 48.70706580140755,
+    "telephone": "0169090802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMazarin",
+    "resultStructId": "4619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 avenue mazarin 91380",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.312370794100228,
+    "ville": "chillymazarin",
+    "cp": ""
+  }
+]

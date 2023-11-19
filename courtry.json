@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12762593",
+    "mail": "labarbotte@ville-courtry.fr",
+    "distance": 143507,
+    "latitude": 48.915067646906316,
+    "telephone": "0160086473",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Barbotte",
+    "resultStructId": "98901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue charles van wyngene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.603981715518559,
+    "ville": "courtry",
+    "cp": "77181"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12925141",
+    "mail": "multiaccueil.montagny@orange.fr",
+    "distance": 184740,
+    "latitude": 45.63277048954628,
+    "telephone": "0478734457",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Petite Comp'agny",
+    "resultStructId": "683003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 route du batard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.734451012620896,
+    "ville": "montagny",
+    "cp": "69700"
+  },
+  {
+    "resultId": "12987749",
+    "mail": "montagny@creche-attitude.fr",
+    "distance": 185559,
+    "latitude": 45.62957125115781,
+    "telephone": "0967826987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheattitude MONTAGNY",
+    "resultStructId": "11781",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de millery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.759612131180973,
+    "ville": "montagny",
+    "cp": "69700"
+  }
+]

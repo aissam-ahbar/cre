@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12808087",
+    "mail": "multiaccueil.gignac@cc-vallee-herault.fr",
+    "distance": 87150,
+    "latitude": 43.6529146079978,
+    "telephone": "0467678764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Calinous",
+    "resultStructId": "111510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre georges frayssine rue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5512802632708844,
+    "ville": "gignac",
+    "cp": "34150"
+  },
+  {
+    "resultId": "12808087",
+    "mail": "multiaccueil.gignac@cc-vallee-herault.fr",
+    "distance": 28465,
+    "latitude": 43.6529146079978,
+    "telephone": "0467678764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Calinous",
+    "resultStructId": "111510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "centre georges frayssine rue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5512802632708844,
+    "ville": "gignac",
+    "cp": "34150"
+  }
+]

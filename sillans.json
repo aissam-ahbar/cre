@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12907425",
+    "mail": "pilotin@bievre-isere.com",
+    "distance": 162881,
+    "latitude": 45.340985029612916,
+    "telephone": "0476911397",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEPilotin Sillans",
+    "resultStructId": "449501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 place victor carrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3886463919430945,
+    "ville": "sillans",
+    "cp": "38590"
+  }
+]

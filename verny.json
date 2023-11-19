@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12917745",
+    "mail": "chezboomille@gmail.com",
+    "distance": 125093,
+    "latitude": 49.00598938715797,
+    "telephone": "0666775045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchechez Mamille Verny",
+    "resultStructId": "10153",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue de la mairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.202825006035951,
+    "ville": "verny",
+    "cp": "57420"
+  },
+  {
+    "resultId": "12826577",
+    "mail": "chezboomille@gmail.com",
+    "distance": 125147,
+    "latitude": 49.01074842099298,
+    "telephone": "0666775045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche chez Boomille",
+    "resultStructId": "8033",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue du chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.20182432047819,
+    "ville": "verny",
+    "cp": "57420"
+  }
+]

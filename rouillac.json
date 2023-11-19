@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12930000",
+    "mail": "alpr@wanadoo.fr",
+    "distance": 190919,
+    "latitude": 45.77853521622587,
+    "telephone": "0545968711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie",
+    "resultStructId": "10438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "301 avenue paul ricard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.06312826537829555,
+    "ville": "rouillac",
+    "cp": "16170"
+  },
+  {
+    "resultId": "12930000",
+    "mail": "alpr@wanadoo.fr",
+    "distance": 159739,
+    "latitude": 45.77853521622587,
+    "telephone": "0545968711",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie",
+    "resultStructId": "10438",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "301 avenue paul ricard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.06312826537829555,
+    "ville": "rouillac",
+    "cp": "16170"
+  }
+]

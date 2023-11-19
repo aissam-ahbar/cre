@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "41953618",
+    "mail": "lesexplorateursdoubs@gmail.com",
+    "distance": 169656,
+    "latitude": 46.92433892925431,
+    "telephone": "0381387465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes Explorateurs",
+    "resultStructId": "712122",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 a rue de besancon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.344089998518464,
+    "ville": "doubs",
+    "cp": "25300"
+  },
+  {
+    "resultId": "12990458",
+    "mail": "",
+    "distance": 169991,
+    "latitude": 46.92740169274827,
+    "telephone": "0381388745",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Au clair de la lune",
+    "resultStructId": "567503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 b rue grande",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.349639618712683,
+    "ville": "doubs",
+    "cp": "25300"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12786587",
+    "mail": "",
+    "distance": 26078,
+    "latitude": 50.58594580919226,
+    "telephone": "0320160670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Ribambelle",
+    "resultStructId": "7103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0428350958479564,
+    "ville": "wattignies",
+    "cp": "59139"
+  },
+  {
+    "resultId": "12786630",
+    "mail": "",
+    "distance": 26078,
+    "latitude": 50.58594580919226,
+    "telephone": "0320160670",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie Les Titous",
+    "resultStructId": "7104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0428350958479564,
+    "ville": "wattignies",
+    "cp": "59139"
+  },
+  {
+    "resultId": "12514767",
+    "mail": "centresocialblancriez@wanadoo.fr",
+    "distance": 26299,
+    "latitude": 50.58725922160062,
+    "telephone": "0320973244",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie de l'étoile",
+    "resultStructId": "448501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du petit bois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.045270575107669,
+    "ville": "wattignies",
+    "cp": "59139"
+  }
+]

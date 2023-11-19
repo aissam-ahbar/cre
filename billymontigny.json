@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "59559983",
+    "mail": "les-ptits-choux@outlook.fr",
+    "distance": 14847,
+    "latitude": 50.4210548690253,
+    "telephone": "0609301450",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes P'tits Choux",
+    "resultStructId": "707402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue du 8 mai 1945 62420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.912004712090926,
+    "ville": "billymontigny",
+    "cp": ""
+  },
+  {
+    "resultId": "13001982",
+    "mail": "billy.montigny@lpcr.fr",
+    "distance": 14943,
+    "latitude": 50.413240462711684,
+    "telephone": "0359937999",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Chaperons Rouges - Billy Montigny",
+    "resultStructId": "146203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jeanrostand 62420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9077983727873855,
+    "ville": "billymontigny",
+    "cp": ""
+  },
+  {
+    "resultId": "12807700",
+    "mail": "etlbmsecretariat@free.fr",
+    "distance": 14990,
+    "latitude": 50.417653908143954,
+    "telephone": "0954194435",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementmulti-accueil \"Petits pas...Tapon\"",
+    "resultStructId": "7594",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean rostandmaison de l'enfant parent'aise 62420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9118582517800236,
+    "ville": "billymontigny",
+    "cp": ""
+  }
+]

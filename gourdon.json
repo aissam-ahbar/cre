@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12742469",
+    "mail": "creche-ecoutesiljoue@orange.fr",
+    "distance": 135440,
+    "latitude": 44.73691693927052,
+    "telephone": "0565413533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ECOUTES'IL JOUE",
+    "resultStructId": "172211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee francois rey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3819723072699022,
+    "ville": "gourdon",
+    "cp": "46300"
+  }
+]

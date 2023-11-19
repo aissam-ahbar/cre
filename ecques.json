@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "34120712",
+    "mail": "pe-ecques@ca-pso.fr",
+    "distance": 37415,
+    "latitude": 50.669049943953034,
+    "telephone": "0687968082",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison des Bout'Choux",
+    "resultStructId": "702034",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 rue de cauchie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2880619616599893,
+    "ville": "ecques",
+    "cp": "62129"
+  }
+]

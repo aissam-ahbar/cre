@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "33643194",
+    "mail": "mc.miserey@famillesrurales.org",
+    "distance": 137408,
+    "latitude": 47.28651149235396,
+    "telephone": "0381533772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FamillesRurales Micro crèche \"Les Koalas\" MISEREY SALINES",
+    "resultStructId": "110013",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10route de besancon 25480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.973429525535235,
+    "ville": "misereysalines",
+    "cp": ""
+  },
+  {
+    "resultId": "13002154",
+    "mail": "misereysalines@creche-la-maison-bleue.fr",
+    "distance": 137649,
+    "latitude": 47.28139214554678,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLES KANGOUROUS",
+    "resultStructId": "107121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue d'ecole 25480",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9767700516571605,
+    "ville": "misereysalines",
+    "cp": ""
+  }
+]

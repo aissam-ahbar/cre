@@ -1,0 +1,410 @@
+[
+  {
+    "resultId": "60407579",
+    "mail": "cre-214@babilou.com",
+    "distance": 177187,
+    "latitude": 45.728077368317905,
+    "telephone": "0619354854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Vénissieux Préssensé",
+    "resultStructId": "710902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 avenue francispressense",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.861250717377395,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12574623",
+    "mail": "conract@centre-social-mav.fr",
+    "distance": 177238,
+    "latitude": 45.72685000640438,
+    "telephone": "0472214510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Moulin à Malices",
+    "resultStructId": "93701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue professeur roux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.857832564359541,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769516",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 177506,
+    "latitude": 45.72468520735948,
+    "telephone": "0478756331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Musicaline",
+    "resultStructId": "6706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "44 rue ernest renan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85952064772801,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769774",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 177634,
+    "latitude": 45.72529987345819,
+    "telephone": "0437538880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGribouille",
+    "resultStructId": "6712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue viviani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8677573047276415,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12574494",
+    "mail": "petite_enfance@ville-venissieux.fr",
+    "distance": 177773,
+    "latitude": 45.724074687715344,
+    "telephone": "0472214510",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Viviani",
+    "resultStructId": "2141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 avenue viviani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868139540344996,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12770634",
+    "mail": "moulinbambins@creche-attitude.fr",
+    "distance": 178096,
+    "latitude": 45.71952984455516,
+    "telephone": "0478011117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeMoulin des Bambins",
+    "resultStructId": "6732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue georges levy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.861347049821825,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "35139561",
+    "mail": "damien@lamaisondepilou.fr",
+    "distance": 178877,
+    "latitude": 45.71916516937082,
+    "telephone": "0624709027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison de Pilou Vénissieux",
+    "resultStructId": "132002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue du clos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8926106192979,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12574408",
+    "mail": "crechesaperlipopette@free.fr",
+    "distance": 179892,
+    "latitude": 45.704246824603956,
+    "telephone": "0472514843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaperlipopette",
+    "resultStructId": "113908",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue pierre degeyter",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868877240213506,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769344",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 180443,
+    "latitude": 45.70262127797445,
+    "telephone": "0472511749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Berlingot",
+    "resultStructId": "6702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884959394806685,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12600251",
+    "mail": "graine@csxminguettes.com",
+    "distance": 180772,
+    "latitude": 45.696257821026315,
+    "telephone": "0472215088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraines d'Eugénie",
+    "resultStructId": "113911",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue aristide bruant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.870270838553821,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769473",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 180811,
+    "latitude": 45.696897731262844,
+    "telephone": "0478701242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Le Carrousel",
+    "resultStructId": "6705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue gabriel faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87484576757709,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769688",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 180814,
+    "latitude": 45.699032443780744,
+    "telephone": "0472503896",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Le Sac de Billes",
+    "resultStructId": "6710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place de la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884560798909989,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12574365",
+    "mail": "",
+    "distance": 180884,
+    "latitude": 45.69616017174234,
+    "telephone": "0478704890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTourni-Cotton",
+    "resultStructId": "113913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue georges lyvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8746271347531565,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12903211",
+    "mail": "",
+    "distance": 180927,
+    "latitude": 45.694694373170314,
+    "telephone": "0478677933",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale Arc-en-Ciel",
+    "resultStructId": "110508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue de la division",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.869797877751025,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769602",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 181047,
+    "latitude": 45.69705697550432,
+    "telephone": "0478012925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParilly",
+    "resultStructId": "6708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue joannes vallet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885577861332646,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769559",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 181371,
+    "latitude": 45.69654765140755,
+    "telephone": "0437250735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Pain d'épices",
+    "resultStructId": "6707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 boulevard du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.896881576552632,
+    "ville": "venissieux",
+    "cp": "69200"
+  },
+  {
+    "resultId": "12769387",
+    "mail": "arpe@ville-venissieux.fr",
+    "distance": 181421,
+    "latitude": 45.68893994641735,
+    "telephone": "0478674839",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Capucine",
+    "resultStructId": "386101",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue du 11 novembre 1918",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864751077468677,
+    "ville": "venissieux",
+    "cp": "69200"
+  }
+]

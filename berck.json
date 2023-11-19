@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12997080",
+    "mail": "auclairdeladune@berck-sur-mer.com",
+    "distance": 80106,
+    "latitude": 50.40819116504072,
+    "telephone": "0321899081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACCollectif - Au Clair de la Dune - Berck",
+    "resultStructId": "677502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rond-point ducottage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.592586822087665,
+    "ville": "berck",
+    "cp": "62600"
+  },
+  {
+    "resultId": "13020429",
+    "mail": "lespetitsmatelots@berck-sur-mer.com",
+    "distance": 80106,
+    "latitude": 50.40819116504072,
+    "telephone": "0321899039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFamilial \"Les P'tits Matelots\" - Berck sur Mer",
+    "resultStructId": "694814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2rond-point du cottage",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.592586822087665,
+    "ville": "berck",
+    "cp": "62600"
+  },
+  {
+    "resultId": "12996349",
+    "mail": "multiaccueil.espacemarianne@berck-sur-mer.com",
+    "distance": 80474,
+    "latitude": 50.408890808626786,
+    "telephone": "0321893720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Espace Marianne\"",
+    "resultStructId": "608601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue des grognards",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5872598765879296,
+    "ville": "berck",
+    "cp": "62600"
+  },
+  {
+    "resultId": "12982073",
+    "mail": "annabelle.vasseur@fondation-hopale.org",
+    "distance": 81901,
+    "latitude": 50.418324742902804,
+    "telephone": "0321894110",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHopale",
+    "resultStructId": "495001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue du dr calot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5657092498847396,
+    "ville": "berck",
+    "cp": "62600"
+  },
+  {
+    "resultId": "12996951",
+    "mail": "creche.floratristan@leolagrange.org",
+    "distance": 82265,
+    "latitude": 50.40078047237773,
+    "telephone": "0321090846",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFlora Tristan, Léo Lagrange",
+    "resultStructId": "689006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue st exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5631500146969932,
+    "ville": "berck",
+    "cp": "62600"
+  }
+]

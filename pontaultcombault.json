@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12767925",
+    "mail": "",
+    "distance": 141478,
+    "latitude": 48.795757892133174,
+    "telephone": "0170054608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Mare aux Canards",
+    "resultStructId": "6669",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue robespierre 77340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6164932950997026,
+    "ville": "pontaultcombault",
+    "cp": ""
+  },
+  {
+    "resultId": "12958724",
+    "mail": "creches@mairie-pontault-clt.fr",
+    "distance": 141524,
+    "latitude": 48.806101794138584,
+    "telephone": "0160342480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Au clair de la Vie",
+    "resultStructId": "11106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ter avenue de larepublique 77340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6165189134503124,
+    "ville": "pontaultcombault",
+    "cp": ""
+  },
+  {
+    "resultId": "12690301",
+    "mail": "",
+    "distance": 141524,
+    "latitude": 48.806101794138584,
+    "telephone": "0160342485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Jacques a dit... !\"",
+    "resultStructId": "108101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1ter avenue de la republique77340",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6165189134503124,
+    "ville": "pontaultcombault",
+    "cp": ""
+  },
+  {
+    "resultId": "12764657",
+    "mail": "",
+    "distance": 142163,
+    "latitude": 48.80221773426937,
+    "telephone": "0170054607",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieLa Nouvelle Oasis",
+    "resultStructId": "6593",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.607522247110338,
+    "ville": "pontaultcombault",
+    "cp": "77340"
+  },
+  {
+    "resultId": "12758121",
+    "mail": "",
+    "distance": 143109,
+    "latitude": 48.78348051681982,
+    "telephone": "0170054994",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin Extraordinaire",
+    "resultStructId": "6441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue de l'affinoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5936005741641615,
+    "ville": "pontaultcombault",
+    "cp": "77340"
+  }
+]

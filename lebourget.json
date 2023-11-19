@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12896417",
+    "mail": "lebourget@creche-la-maison-bleue.fr",
+    "distance": 156460,
+    "latitude": 48.932280055537305,
+    "telephone": "0185530691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Maison Bleue \" Les Petits Coucous \"",
+    "resultStructId": "701922",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenuemarcel dassault 93350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4285996158749192,
+    "ville": "lebourget",
+    "cp": ""
+  },
+  {
+    "resultId": "12866661",
+    "mail": "petite.enfance@ville-lebourget.fr",
+    "distance": 156519,
+    "latitude": 48.93621881210073,
+    "telephone": "0143112675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux La Petite Escadrille",
+    "resultStructId": "702224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue de la divisionleclerc 93350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4285761161292356,
+    "ville": "lebourget",
+    "cp": ""
+  },
+  {
+    "resultId": "12666436",
+    "mail": "",
+    "distance": 156583,
+    "latitude": 48.93681176934621,
+    "telephone": "0148373742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Division Leclerc",
+    "resultStructId": "4279",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.427812707306542,
+    "ville": "lebourget",
+    "cp": "93350"
+  },
+  {
+    "resultId": "12866532",
+    "mail": "petite.enfance@ville-lebourget.fr",
+    "distance": 156781,
+    "latitude": 48.931438172877854,
+    "telephone": "0148381991",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Maryse Bastié",
+    "resultStructId": "702223",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du chevalier de la barre93350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4240042302434106,
+    "ville": "lebourget",
+    "cp": ""
+  },
+  {
+    "resultId": "58546796",
+    "mail": "lebourget@micro-stars.fr",
+    "distance": 157079,
+    "latitude": 48.934854915926564,
+    "telephone": "0148385254",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMicroStars du Bourget",
+    "resultStructId": "685811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue anizan cavillon 93350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.420564161260355,
+    "ville": "lebourget",
+    "cp": ""
+  },
+  {
+    "resultId": "12666436",
+    "mail": "",
+    "distance": 172142,
+    "latitude": 48.93681176934621,
+    "telephone": "0148373742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Division Leclerc",
+    "resultStructId": "4279",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue division leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.427812707306542,
+    "ville": "lebourget",
+    "cp": "93350"
+  },
+  {
+    "resultId": "12866661",
+    "mail": "petite.enfance@ville-lebourget.fr",
+    "distance": 172201,
+    "latitude": 48.93621881210073,
+    "telephone": "0143112675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteJeux La Petite Escadrille",
+    "resultStructId": "702224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 avenue de la divisionleclerc 93350",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4285761161292356,
+    "ville": "lebourget",
+    "cp": ""
+  }
+]

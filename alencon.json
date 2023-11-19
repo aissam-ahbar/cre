@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "12850192",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 196782,
+    "latitude": 48.41452558558742,
+    "telephone": "0233261899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe monde des couleurs",
+    "resultStructId": "693711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue michelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09509931125680722,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489647",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 197960,
+    "latitude": 48.42558214006483,
+    "telephone": "0233273467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Montsort à petits pas",
+    "resultStructId": "689210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09056810841349261,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12757691",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 198342,
+    "latitude": 48.43784344892901,
+    "telephone": "0233295701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits loup de mer",
+    "resultStructId": "689206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489604",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 198342,
+    "latitude": 48.43784344892901,
+    "telephone": "0233808722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "689205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12848085",
+    "mail": "centre.edith.bonnem@orange.fr",
+    "distance": 198747,
+    "latitude": 48.430146966073075,
+    "telephone": "0233265851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "457903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place edith bonnem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08201853865371371,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12488959",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 199303,
+    "latitude": 48.429897866102245,
+    "telephone": "0233265465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "689209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.06920487846424384,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12850192",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 119590,
+    "latitude": 48.41452558558742,
+    "telephone": "0233261899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe monde des couleurs",
+    "resultStructId": "693711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue michelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09509931125680722,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12488959",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 119593,
+    "latitude": 48.429897866102245,
+    "telephone": "0233265465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "689209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.06920487846424384,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12848085",
+    "mail": "centre.edith.bonnem@orange.fr",
+    "distance": 120238,
+    "latitude": 48.430146966073075,
+    "telephone": "0233265851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "457903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place edith bonnem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08201853865371371,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489647",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 120278,
+    "latitude": 48.42558214006483,
+    "telephone": "0233273467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Montsort à petits pas",
+    "resultStructId": "689210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09056810841349261,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12757691",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 122067,
+    "latitude": 48.43784344892901,
+    "telephone": "0233295701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits loup de mer",
+    "resultStructId": "689206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489604",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 122067,
+    "latitude": 48.43784344892901,
+    "telephone": "0233808722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "689205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12488959",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 70290,
+    "latitude": 48.429897866102245,
+    "telephone": "0233265465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "689209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.06920487846424384,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12848085",
+    "mail": "centre.edith.bonnem@orange.fr",
+    "distance": 70849,
+    "latitude": 48.430146966073075,
+    "telephone": "0233265851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "457903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place edith bonnem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08201853865371371,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12757691",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 71308,
+    "latitude": 48.43784344892901,
+    "telephone": "0233295701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits loup de mer",
+    "resultStructId": "689206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489604",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 71308,
+    "latitude": 48.43784344892901,
+    "telephone": "0233808722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "689205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489647",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 71638,
+    "latitude": 48.42558214006483,
+    "telephone": "0233273467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Montsort à petits pas",
+    "resultStructId": "689210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09056810841349261,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12850192",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 72812,
+    "latitude": 48.41452558558742,
+    "telephone": "0233261899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe monde des couleurs",
+    "resultStructId": "693711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue michelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09509931125680722,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12850192",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 119590,
+    "latitude": 48.41452558558742,
+    "telephone": "0233261899",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe monde des couleurs",
+    "resultStructId": "693711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue michelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09509931125680722,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12488959",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 119593,
+    "latitude": 48.429897866102245,
+    "telephone": "0233265465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraine de Malice",
+    "resultStructId": "689209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.06920487846424384,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12848085",
+    "mail": "centre.edith.bonnem@orange.fr",
+    "distance": 120238,
+    "latitude": 48.430146966073075,
+    "telephone": "0233265851",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "457903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place edith bonnem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.08201853865371371,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489647",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 120278,
+    "latitude": 48.42558214006483,
+    "telephone": "0233273467",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil de Montsort à petits pas",
+    "resultStructId": "689210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.09056810841349261,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12757691",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 122067,
+    "latitude": 48.43784344892901,
+    "telephone": "0233295701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits loup de mer",
+    "resultStructId": "689206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  },
+  {
+    "resultId": "12489604",
+    "mail": "petite.enfance@cu-alencon.fr",
+    "distance": 122067,
+    "latitude": 48.43784344892901,
+    "telephone": "0233808722",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "689205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue vicques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.10627820295219499,
+    "ville": "alencon",
+    "cp": "61000"
+  }
+]

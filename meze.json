@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12811957",
+    "mail": "lespetitsthau@ville-meze.fr",
+    "distance": 83490,
+    "latitude": 43.425571571173656,
+    "telephone": "0467748088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARFLES PETITS THAU MEZE",
+    "resultStructId": "700115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "jardin andre montet rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6070622385892186,
+    "ville": "meze",
+    "cp": "34140"
+  },
+  {
+    "resultId": "12797724",
+    "mail": "claudebastide@ville-meze.fr",
+    "distance": 83627,
+    "latitude": 43.43638618145739,
+    "telephone": "0467182398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCLAUDE BASTIDE MEZE",
+    "resultStructId": "700116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue des enfedettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6026926306352927,
+    "ville": "meze",
+    "cp": "34140"
+  },
+  {
+    "resultId": "12810194",
+    "mail": "loumezou@ville-meze.fr",
+    "distance": 84398,
+    "latitude": 43.42251515195714,
+    "telephone": "0467435113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLOU MEZOU MEZE",
+    "resultStructId": "700114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse lou mezou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.596413874126771,
+    "ville": "meze",
+    "cp": "34140"
+  },
+  {
+    "resultId": "12797724",
+    "mail": "claudebastide@ville-meze.fr",
+    "distance": 29791,
+    "latitude": 43.43638618145739,
+    "telephone": "0467182398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILCLAUDE BASTIDE MEZE",
+    "resultStructId": "700116",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "85 rue des enfedettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6026926306352927,
+    "ville": "meze",
+    "cp": "34140"
+  },
+  {
+    "resultId": "12811957",
+    "mail": "lespetitsthau@ville-meze.fr",
+    "distance": 30262,
+    "latitude": 43.425571571173656,
+    "telephone": "0467748088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SARFLES PETITS THAU MEZE",
+    "resultStructId": "700115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "jardin andre montet rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.6070622385892186,
+    "ville": "meze",
+    "cp": "34140"
+  },
+  {
+    "resultId": "12810194",
+    "mail": "loumezou@ville-meze.fr",
+    "distance": 31143,
+    "latitude": 43.42251515195714,
+    "telephone": "0467435113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLOU MEZOU MEZE",
+    "resultStructId": "700114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse lou mezou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.596413874126771,
+    "ville": "meze",
+    "cp": "34140"
+  }
+]

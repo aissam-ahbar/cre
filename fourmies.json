@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12515154",
+    "mail": "hgcenvol@free.fr",
+    "distance": 147200,
+    "latitude": 50.01762863003436,
+    "telephone": "0327604176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'envol",
+    "resultStructId": "761",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue jean-baptiste lebas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.06412227024147,
+    "ville": "fourmies",
+    "cp": "59610"
+  },
+  {
+    "resultId": "60242530",
+    "mail": "contact@microcrechegabichette.fr",
+    "distance": 148713,
+    "latitude": 50.026558032063434,
+    "telephone": "0979374867",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GABICHETTE",
+    "resultStructId": "707218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65ter rue marceau batteux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.032779107775479,
+    "ville": "fourmies",
+    "cp": "59610"
+  },
+  {
+    "resultId": "60242530",
+    "mail": "contact@microcrechegabichette.fr",
+    "distance": 105796,
+    "latitude": 50.026558032063434,
+    "telephone": "0979374867",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "GABICHETTE",
+    "resultStructId": "707218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "65ter rue marceau batteux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.032779107775479,
+    "ville": "fourmies",
+    "cp": "59610"
+  },
+  {
+    "resultId": "12515154",
+    "mail": "hgcenvol@free.fr",
+    "distance": 108238,
+    "latitude": 50.01762863003436,
+    "telephone": "0327604176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'envol",
+    "resultStructId": "761",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue jean-baptiste lebas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.06412227024147,
+    "ville": "fourmies",
+    "cp": "59610"
+  }
+]

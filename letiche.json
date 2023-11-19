@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "38877211",
+    "mail": "aurelie.sadler@leolagrange.org",
+    "distance": 131381,
+    "latitude": 49.46913271538907,
+    "telephone": "0382833219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'île aux trésors",
+    "resultStructId": "179907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue paul roef 57390 audun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.9537985083815865,
+    "ville": "letiche",
+    "cp": ""
+  },
+  {
+    "resultId": "58312587",
+    "mail": "bienvenue@lilyetpablo.com",
+    "distance": 131634,
+    "latitude": 49.47231659385599,
+    "telephone": "0372729282",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGirafons Lily et Pablo - AUDUN LE TICHE",
+    "resultStructId": "712616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 place rolandmarchesin 57390 audun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.954401423250261,
+    "ville": "letiche",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12532397",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 415457,
+    "latitude": 45.43420153036788,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPITCHOUNETS",
+    "resultStructId": "700720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les cimes blanches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637252844606127,
+    "ville": "courchevel",
+    "cp": "73120"
+  },
+  {
+    "resultId": "12534977",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 415457,
+    "latitude": 45.43420153036788,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PRALINS",
+    "resultStructId": "700721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le praz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637252844606127,
+    "ville": "courchevel",
+    "cp": "73120"
+  },
+  {
+    "resultId": "12532397",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 170454,
+    "latitude": 45.43420153036788,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPITCHOUNETS",
+    "resultStructId": "700720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les cimes blanches",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637252844606127,
+    "ville": "courchevel",
+    "cp": "73120"
+  },
+  {
+    "resultId": "12534977",
+    "mail": "adminenfance@valvanoise.fr",
+    "distance": 170454,
+    "latitude": 45.43420153036788,
+    "telephone": "0479550259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS PRALINS",
+    "resultStructId": "700721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le praz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637252844606127,
+    "ville": "courchevel",
+    "cp": "73120"
+  }
+]

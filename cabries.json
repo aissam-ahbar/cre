@@ -1,0 +1,674 @@
+[
+  {
+    "resultId": "12562712",
+    "mail": "licabrichou@cabries.fr",
+    "distance": 60011,
+    "latitude": 43.445638345943586,
+    "telephone": "0442281258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELI CABRI CHOU",
+    "resultStructId": "197114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raymond martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.353427465886911,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406349",
+    "mail": "contact@creche-lespoulbots.com",
+    "distance": 60187,
+    "latitude": 43.46379120486362,
+    "telephone": "0442274338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Poulbots",
+    "resultStructId": "195124",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.360650316952722,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "52227658",
+    "mail": "creche.lesgriottesdelapalmeraie@people-and-baby.com",
+    "distance": 61012,
+    "latitude": 43.421426779273695,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGriottes de la Palmeraie",
+    "resultStructId": "480602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406195",
+    "mail": "",
+    "distance": 61012,
+    "latitude": 43.421426779273695,
+    "telephone": "0663014337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Cocotiers",
+    "resultStructId": "195118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12740018",
+    "mail": "lesgriottes@people-and-baby.com",
+    "distance": 61045,
+    "latitude": 43.421206404860264,
+    "telephone": "0442022995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACGRIOTTES DE LA PALMERAIE",
+    "resultStructId": "196903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.358523118210598,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12721820",
+    "mail": "severine.sala@famillesrurales.org",
+    "distance": 62214,
+    "latitude": 43.441223564068565,
+    "telephone": "0442663359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICla Poulinière",
+    "resultStructId": "192105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7776 chemin departemental 60 a",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12739459",
+    "mail": "liesquirou@cabries.fr",
+    "distance": 62214,
+    "latitude": 43.441223564068565,
+    "telephone": "0442281257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLI ESQUIROU",
+    "resultStructId": "197113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "286 avenue raymond martin - quartier loupan perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12739459",
+    "mail": "liesquirou@cabries.fr",
+    "distance": 336159,
+    "latitude": 43.441223564068565,
+    "telephone": "0442281257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLI ESQUIROU",
+    "resultStructId": "197113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "286 avenue raymond martin - quartier loupan perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12721820",
+    "mail": "severine.sala@famillesrurales.org",
+    "distance": 336159,
+    "latitude": 43.441223564068565,
+    "telephone": "0442663359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICla Poulinière",
+    "resultStructId": "192105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7776 chemin departemental 60 a",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12740018",
+    "mail": "lesgriottes@people-and-baby.com",
+    "distance": 336851,
+    "latitude": 43.421206404860264,
+    "telephone": "0442022995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACGRIOTTES DE LA PALMERAIE",
+    "resultStructId": "196903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.358523118210598,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "52227658",
+    "mail": "creche.lesgriottesdelapalmeraie@people-and-baby.com",
+    "distance": 336887,
+    "latitude": 43.421426779273695,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGriottes de la Palmeraie",
+    "resultStructId": "480602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406195",
+    "mail": "",
+    "distance": 336887,
+    "latitude": 43.421426779273695,
+    "telephone": "0663014337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Cocotiers",
+    "resultStructId": "195118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12562712",
+    "mail": "licabrichou@cabries.fr",
+    "distance": 338321,
+    "latitude": 43.445638345943586,
+    "telephone": "0442281258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELI CABRI CHOU",
+    "resultStructId": "197114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raymond martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.353427465886911,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406349",
+    "mail": "contact@creche-lespoulbots.com",
+    "distance": 338614,
+    "latitude": 43.46379120486362,
+    "telephone": "0442274338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Poulbots",
+    "resultStructId": "195124",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.360650316952722,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12562712",
+    "mail": "licabrichou@cabries.fr",
+    "distance": 118663,
+    "latitude": 43.445638345943586,
+    "telephone": "0442281258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELI CABRI CHOU",
+    "resultStructId": "197114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raymond martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.353427465886911,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406349",
+    "mail": "contact@creche-lespoulbots.com",
+    "distance": 118951,
+    "latitude": 43.46379120486362,
+    "telephone": "0442274338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Poulbots",
+    "resultStructId": "195124",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.360650316952722,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "52227658",
+    "mail": "creche.lesgriottesdelapalmeraie@people-and-baby.com",
+    "distance": 119479,
+    "latitude": 43.421426779273695,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGriottes de la Palmeraie",
+    "resultStructId": "480602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406195",
+    "mail": "",
+    "distance": 119479,
+    "latitude": 43.421426779273695,
+    "telephone": "0663014337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Cocotiers",
+    "resultStructId": "195118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12740018",
+    "mail": "lesgriottes@people-and-baby.com",
+    "distance": 119511,
+    "latitude": 43.421206404860264,
+    "telephone": "0442022995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACGRIOTTES DE LA PALMERAIE",
+    "resultStructId": "196903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.358523118210598,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12721820",
+    "mail": "severine.sala@famillesrurales.org",
+    "distance": 120861,
+    "latitude": 43.441223564068565,
+    "telephone": "0442663359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICla Poulinière",
+    "resultStructId": "192105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7776 chemin departemental 60 a",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12739459",
+    "mail": "liesquirou@cabries.fr",
+    "distance": 120861,
+    "latitude": 43.441223564068565,
+    "telephone": "0442281257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLI ESQUIROU",
+    "resultStructId": "197113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "286 avenue raymond martin - quartier loupan perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406349",
+    "mail": "contact@creche-lespoulbots.com",
+    "distance": 78642,
+    "latitude": 43.46379120486362,
+    "telephone": "0442274338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Poulbots",
+    "resultStructId": "195124",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue rene cassin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.360650316952722,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12721820",
+    "mail": "severine.sala@famillesrurales.org",
+    "distance": 79334,
+    "latitude": 43.441223564068565,
+    "telephone": "0442663359",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICla Poulinière",
+    "resultStructId": "192105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7776 chemin departemental 60 a",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12739459",
+    "mail": "liesquirou@cabries.fr",
+    "distance": 79334,
+    "latitude": 43.441223564068565,
+    "telephone": "0442281257",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLI ESQUIROU",
+    "resultStructId": "197113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "286 avenue raymond martin - quartier loupan perdu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.380032714238285,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12562712",
+    "mail": "licabrichou@cabries.fr",
+    "distance": 80478,
+    "latitude": 43.445638345943586,
+    "telephone": "0442281258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHELI CABRI CHOU",
+    "resultStructId": "197114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue raymond martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.353427465886911,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "12740018",
+    "mail": "lesgriottes@people-and-baby.com",
+    "distance": 82144,
+    "latitude": 43.421206404860264,
+    "telephone": "0442022995",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACGRIOTTES DE LA PALMERAIE",
+    "resultStructId": "196903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.358523118210598,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "52227658",
+    "mail": "creche.lesgriottesdelapalmeraie@people-and-baby.com",
+    "distance": 82146,
+    "latitude": 43.421426779273695,
+    "telephone": "0768842770",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesGriottes de la Palmeraie",
+    "resultStructId": "480602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  },
+  {
+    "resultId": "18406195",
+    "mail": "",
+    "distance": 82146,
+    "latitude": 43.421426779273695,
+    "telephone": "0663014337",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mic-PAJELes Cocotiers",
+    "resultStructId": "195118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 chemin des bouscauds",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.35817187962282,
+    "ville": "cabries",
+    "cp": "13480"
+  }
+]

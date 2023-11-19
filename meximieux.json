@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12868166",
+    "mail": "mcpoucespoucettes@gmail.com",
+    "distance": 168584,
+    "latitude": 45.90885990173115,
+    "telephone": "0623948245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE POUCES POUCETTES",
+    "resultStructId": "662403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 avenue du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.195217016588889,
+    "ville": "meximieux",
+    "cp": "01800"
+  },
+  {
+    "resultId": "56743219",
+    "mail": "mcpoucespoucettes@gmail.com",
+    "distance": 169120,
+    "latitude": 45.90389091274512,
+    "telephone": "0623948245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE POUCES POUCETTES III",
+    "resultStructId": "662402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue du champ de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.196536734790951,
+    "ville": "meximieux",
+    "cp": "01800"
+  },
+  {
+    "resultId": "12857244",
+    "mail": "meximieux1@la-maison-bleue.fr",
+    "distance": 169136,
+    "latitude": 45.90257076744272,
+    "telephone": "0474613247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL A PETITS PAS",
+    "resultStructId": "711501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.19335792180773,
+    "ville": "meximieux",
+    "cp": "01800"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "resultId": "59432718",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 165957,
+    "latitude": 49.10628139854084,
+    "telephone": "0231062800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAMPOMMESAINT LO",
+    "resultStructId": "697003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue leny escudero 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0608986839536894,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12577332",
+    "mail": "creche.pignet@ch-stlo.fr",
+    "distance": 166166,
+    "latitude": 49.10669322978976,
+    "telephone": "0233063309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilAlphonse Pignet - Centre Hospitalier MémorialSaint-Lô",
+    "resultStructId": "696604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "715 rue dunant 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1083663975490006,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12795832",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 166562,
+    "latitude": 49.111492386723,
+    "telephone": "0233556701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ValSaint Jean",
+    "resultStructId": "7318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue des tilleuls 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0702859481238058,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796219",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 166634,
+    "latitude": 49.11164139608333,
+    "telephone": "0233570405",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FontaineVenise",
+    "resultStructId": "7327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue fontaine venise 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0873125226467337,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60134075",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 167066,
+    "latitude": 49.116361126732166,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Philomène",
+    "resultStructId": "705207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1283avenue de paris 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.056531358830339,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133624",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibichou",
+    "resultStructId": "705202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "porteb, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133765",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibidou",
+    "resultStructId": "705204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portea, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133911",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibilou",
+    "resultStructId": "705206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portec , 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796090",
+    "mail": "karine.hebert@saint-lo-agglo.fr",
+    "distance": 167754,
+    "latitude": 49.12163710522505,
+    "telephone": "0214163028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilNelson Mandela",
+    "resultStructId": "7324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue john kennedy 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0901519107552398,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "59432718",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 44246,
+    "latitude": 49.10628139854084,
+    "telephone": "0231062800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAMPOMMESAINT LO",
+    "resultStructId": "697003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue leny escudero 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0608986839536894,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60134075",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 44470,
+    "latitude": 49.116361126732166,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Philomène",
+    "resultStructId": "705207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1283avenue de paris 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.056531358830339,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12795832",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 45115,
+    "latitude": 49.111492386723,
+    "telephone": "0233556701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ValSaint Jean",
+    "resultStructId": "7318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue des tilleuls 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0702859481238058,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796219",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 46236,
+    "latitude": 49.11164139608333,
+    "telephone": "0233570405",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FontaineVenise",
+    "resultStructId": "7327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue fontaine venise 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0873125226467337,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133624",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 46665,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibichou",
+    "resultStructId": "705202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "porteb, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133765",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 46665,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibidou",
+    "resultStructId": "705204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portea, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133911",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 46665,
+    "latitude": 49.116210517896015,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibilou",
+    "resultStructId": "705206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portec , 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796090",
+    "mail": "karine.hebert@saint-lo-agglo.fr",
+    "distance": 46913,
+    "latitude": 49.12163710522505,
+    "telephone": "0214163028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilNelson Mandela",
+    "resultStructId": "7324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue john kennedy 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0901519107552398,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12577332",
+    "mail": "creche.pignet@ch-stlo.fr",
+    "distance": 47391,
+    "latitude": 49.10669322978976,
+    "telephone": "0233063309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilAlphonse Pignet - Centre Hospitalier MémorialSaint-Lô",
+    "resultStructId": "696604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "715 rue dunant 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1083663975490006,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "59432718",
+    "mail": "reservation@pimpampomme.fr",
+    "distance": 165957,
+    "latitude": 49.10628139854084,
+    "telephone": "0231062800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PIMPAMPOMMESAINT LO",
+    "resultStructId": "697003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue leny escudero 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0608986839536894,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12577332",
+    "mail": "creche.pignet@ch-stlo.fr",
+    "distance": 166166,
+    "latitude": 49.10669322978976,
+    "telephone": "0233063309",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilAlphonse Pignet - Centre Hospitalier MémorialSaint-Lô",
+    "resultStructId": "696604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "715 rue dunant 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.1083663975490006,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12795832",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 166562,
+    "latitude": 49.111492386723,
+    "telephone": "0233556701",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ValSaint Jean",
+    "resultStructId": "7318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue des tilleuls 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0702859481238058,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796219",
+    "mail": "karine.hasley@saint-lo-agglo.fr",
+    "distance": 166634,
+    "latitude": 49.11164139608333,
+    "telephone": "0233570405",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FontaineVenise",
+    "resultStructId": "7327",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue fontaine venise 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0873125226467337,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60134075",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 167066,
+    "latitude": 49.116361126732166,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Philomène",
+    "resultStructId": "705207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1283avenue de paris 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.056531358830339,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133911",
+    "mail": "marie.godet@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0644274822",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibilou",
+    "resultStructId": "705206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portec , 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133624",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibichou",
+    "resultStructId": "705202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "porteb, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "60133765",
+    "mail": "aline.binard@leskibis.fr",
+    "distance": 167153,
+    "latitude": 49.116210517896015,
+    "telephone": "0647487572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Kibidou",
+    "resultStructId": "705204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "portea, 321 rue popielujko 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0904802741297657,
+    "ville": "stlo",
+    "cp": ""
+  },
+  {
+    "resultId": "12796090",
+    "mail": "karine.hebert@saint-lo-agglo.fr",
+    "distance": 167754,
+    "latitude": 49.12163710522505,
+    "telephone": "0214163028",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilNelson Mandela",
+    "resultStructId": "7324",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue john kennedy 50000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.0901519107552398,
+    "ville": "stlo",
+    "cp": ""
+  }
+]

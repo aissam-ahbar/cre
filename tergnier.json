@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12990974",
+    "mail": "multiaccueil@tergnier.fr",
+    "distance": 136813,
+    "latitude": 49.65593013047424,
+    "telephone": "0323578334",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aufil de l'eau",
+    "resultStructId": "11856",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3021350082791305,
+    "ville": "tergnier",
+    "cp": "02700"
+  },
+  {
+    "resultId": "12990974",
+    "mail": "multiaccueil@tergnier.fr",
+    "distance": 99972,
+    "latitude": 49.65593013047424,
+    "telephone": "0323578334",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Aufil de l'eau",
+    "resultStructId": "11856",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.3021350082791305,
+    "ville": "tergnier",
+    "cp": "02700"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12952059",
+    "mail": "bailleul@creche-la-maison-bleue.fr",
+    "distance": 29467,
+    "latitude": 50.73811999121309,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison Bleue \"Chicorée\"",
+    "resultStructId": "10951",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue paul perrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7391775087838557,
+    "ville": "bailleul",
+    "cp": "59270"
+  },
+  {
+    "resultId": "13016215",
+    "mail": "inieuwjaer@ville-bailleul.fr",
+    "distance": 29467,
+    "latitude": 50.73811999121309,
+    "telephone": "0328502503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieCoquins Coquines",
+    "resultStructId": "12443",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue paul perrier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7391775087838557,
+    "ville": "bailleul",
+    "cp": "59270"
+  }
+]

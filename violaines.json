@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "30287444",
+    "mail": "tipidespetits@micro-baby.com",
+    "distance": 8793,
+    "latitude": 50.540065050841065,
+    "telephone": "0320298129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tipides Petits",
+    "resultStructId": "145504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des pins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.786058253895797,
+    "ville": "violaines",
+    "cp": "62138"
+  },
+  {
+    "resultId": "38828701",
+    "mail": "microcrechetetedelinotte62@gmail.com",
+    "distance": 9376,
+    "latitude": 50.549202794982314,
+    "telephone": "0374452030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Têtede Linotte",
+    "resultStructId": "652504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 f rue du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7772753696624544,
+    "ville": "violaines",
+    "cp": "62138"
+  }
+]

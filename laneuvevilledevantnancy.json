@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "38273946",
+    "mail": "agnes.remmele@leolagrange.org",
+    "distance": 122996,
+    "latitude": 48.6588459856561,
+    "telephone": "0383547348",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lucioles",
+    "resultStructId": "170623",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des ardennes 54410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.216526073446803,
+    "ville": "laneuvevilledevantnancy",
+    "cp": ""
+  },
+  {
+    "resultId": "12500792",
+    "mail": "h.garderie@ville-laneuveville-devant-nancy.fr",
+    "distance": 123647,
+    "latitude": 48.65894210871513,
+    "telephone": "0383532902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "halte-garderie\"Les Pit'chouns\"",
+    "resultStructId": "427",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue robert damery 54410",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.225423234999202,
+    "ville": "laneuvevilledevantnancy",
+    "cp": ""
+  }
+]

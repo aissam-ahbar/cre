@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "13018150",
+    "mail": "j.raymond@lievin.fr",
+    "distance": 6558,
+    "latitude": 50.42398238744026,
+    "telephone": "0321442249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Simone De Beauvoir",
+    "resultStructId": "278201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue charles baudelaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.769625758210412,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "13020824",
+    "mail": "crechelievin@vieactive.asso.fr",
+    "distance": 6805,
+    "latitude": 50.42824284830428,
+    "telephone": "0321450847",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBienvenue chez les P'tits\"",
+    "resultStructId": "207704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "152 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7839681108746244,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "12999488",
+    "mail": "mbreslievin@epdef.fr",
+    "distance": 6880,
+    "latitude": 50.42733577869548,
+    "telephone": "0321427954",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Brès",
+    "resultStructId": "215602",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "114 rue denis papin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.783960977598318,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "13019268",
+    "mail": "dolto@lievin.fr",
+    "distance": 7026,
+    "latitude": 50.4206974458182,
+    "telephone": "0321444191",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Françoise Dolto\" de Liévin",
+    "resultStructId": "255702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue marie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7738151362182815,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "12848214",
+    "mail": "direction@1001comptines.fr",
+    "distance": 7191,
+    "latitude": 50.42248572961821,
+    "telephone": "0658630912",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Milleet une comptines les Aventuriers",
+    "resultStructId": "673725",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 rue jean baptistedefernez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7817134007240356,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "57259761",
+    "mail": "direction@1001comptines.fr",
+    "distance": 7191,
+    "latitude": 50.42248572961821,
+    "telephone": "0658630912",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Milleet une comptines les Explorateurs",
+    "resultStructId": "681815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "156 bis rue jeanbaptiste defernez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7817134007240356,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "58012361",
+    "mail": "direction@1001comptines.fr",
+    "distance": 7201,
+    "latitude": 50.42229214965746,
+    "telephone": "0658630912",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Milleet une comptines - Les Fripouilles",
+    "resultStructId": "681818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "150 jean baptistedefernez",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.781540587102298,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "57202887",
+    "mail": "cuvilliezfanny3@gmail.com",
+    "distance": 7442,
+    "latitude": 50.42105484467201,
+    "telephone": "0650421610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Enattendant d'être Grand...E",
+    "resultStructId": "679722",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de la bastille porte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7845875567145018,
+    "ville": "lievin",
+    "cp": "62800"
+  },
+  {
+    "resultId": "57842821",
+    "mail": "cuvilliezfanny3@gmail.com",
+    "distance": 7442,
+    "latitude": 50.42105484467201,
+    "telephone": "0650421610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EnAttendant d'Etre Grand... E",
+    "resultStructId": "679723",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de la bastille porteb",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7845875567145018,
+    "ville": "lievin",
+    "cp": "62800"
+  }
+]

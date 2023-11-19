@@ -1,0 +1,218 @@
+[
+  {
+    "resultId": "12957950",
+    "mail": "creche.rotonde@chelles.fr",
+    "distance": 143190,
+    "latitude": 48.87921705813322,
+    "telephone": "0164211287",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale La Rotonde",
+    "resultStructId": "11088",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue du docteur mouchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6019701681783296,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12761475",
+    "mail": "contact@babilou.com",
+    "distance": 143208,
+    "latitude": 48.87708860389231,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouChelles Mitterand",
+    "resultStructId": "430304",
+    "omegaId": "9443",
+    "avip": false,
+    "adresse": "55-57 avenue francois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6013891473181556,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12812258",
+    "mail": "contact@babilou.com",
+    "distance": 143353,
+    "latitude": 48.87684095297358,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "M-ABabilou Chelles Aulnoy",
+    "resultStructId": "430303",
+    "omegaId": "14858",
+    "avip": false,
+    "adresse": "8 rue maurice abbes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5993681704179794,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12765345",
+    "mail": "creche.poucets@chelles.fr",
+    "distance": 143787,
+    "latitude": 48.87987915533381,
+    "telephone": "0160203703",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Poucets",
+    "resultStructId": "6609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 avenue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.593867221036973,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12765388",
+    "mail": "creche.parc@chelles.fr",
+    "distance": 143979,
+    "latitude": 48.876804324724134,
+    "telephone": "0164726546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedu Parc",
+    "resultStructId": "6610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue adolphe besson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5907590955353785,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12812301",
+    "mail": "chelles@creche-la-maison-bleue.fr",
+    "distance": 144138,
+    "latitude": 48.87746884045917,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDES FRERES VERDEAUX",
+    "resultStructId": "7701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue des freres verdeaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5886766926064855,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12765259",
+    "mail": "creche.dolto@chelles.fr",
+    "distance": 144187,
+    "latitude": 48.90301463774731,
+    "telephone": "0160200077",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Françoise DOLTO",
+    "resultStructId": "6607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "97 avenue des sciences",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.592297434965407,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12839692",
+    "mail": "",
+    "distance": 144367,
+    "latitude": 48.87755785236022,
+    "telephone": "0640197498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche1001 Bulles",
+    "resultStructId": "8338",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1b rue louis guerin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5855384935690666,
+    "ville": "chelles",
+    "cp": "77500"
+  },
+  {
+    "resultId": "12765302",
+    "mail": "chelles2@creche-la-maison-bleue.fr",
+    "distance": 145307,
+    "latitude": 48.873590558184546,
+    "telephone": "0160930010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchede la Maison de la Petite Enfance",
+    "resultStructId": "109508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 boulevardalsace-lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5720322277404075,
+    "ville": "chelles",
+    "cp": "77500"
+  }
+]

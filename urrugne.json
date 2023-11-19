@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12956488",
+    "mail": "kimua.urrugne@yahoo.fr",
+    "distance": 160021,
+    "latitude": 43.37030619224015,
+    "telephone": "0559240843",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDINd'ENFANTS KIMUA",
+    "resultStructId": "11054",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 route notre dame de socorri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7028306331878067,
+    "ville": "urrugne",
+    "cp": "64122"
+  },
+  {
+    "resultId": "45484951",
+    "mail": "creche.ttiki@gmail.com",
+    "distance": 160304,
+    "latitude": 43.36342409752969,
+    "telephone": "0559542373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "OhantzeaTtiki",
+    "resultStructId": "292101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue dongaitz anaiak",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6987028114541385,
+    "ville": "urrugne",
+    "cp": "64122"
+  },
+  {
+    "resultId": "12956445",
+    "mail": "creche.ohantzea@wanadoo.fr",
+    "distance": 160444,
+    "latitude": 43.36172111976836,
+    "telephone": "0559546133",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte Garderie OHANTZEA",
+    "resultStructId": "11053",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue posta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6988604239088358,
+    "ville": "urrugne",
+    "cp": "64122"
+  }
+]

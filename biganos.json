@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12565292",
+    "mail": "multiaccueil@villedebiganos.fr",
+    "distance": 66626,
+    "latitude": 44.63901156590567,
+    "telephone": "0556827104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL L'ETOILE FILANTE",
+    "resultStructId": "245901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9708808465956972,
+    "ville": "biganos",
+    "cp": "33380"
+  },
+  {
+    "resultId": "30468412",
+    "mail": "lespetitsgribouillisbiganos@gmail.com",
+    "distance": 66668,
+    "latitude": 44.63582027767754,
+    "telephone": "0647718856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS GRIBOUILLIS",
+    "resultStructId": "64201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 b avenue de la cote d'argent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9739407115019119,
+    "ville": "biganos",
+    "cp": "33380"
+  },
+  {
+    "resultId": "18180289",
+    "mail": "directricebrinsdestey@brins-d-eveil.fr",
+    "distance": 67012,
+    "latitude": 44.63781839280161,
+    "telephone": "0699787059",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BRINS D'ESTEY",
+    "resultStructId": "14724",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la verrerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9773600098843885,
+    "ville": "biganos",
+    "cp": "33380"
+  },
+  {
+    "resultId": "21419585",
+    "mail": "sandra.garnung@orange.fr",
+    "distance": 67083,
+    "latitude": 44.63249481007026,
+    "telephone": "0670916621",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MON JARDIN ENSOLEILLE",
+    "resultStructId": "15539",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 chemin de lyze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.9824088820406871,
+    "ville": "biganos",
+    "cp": "33380"
+  }
+]

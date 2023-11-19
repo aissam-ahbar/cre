@@ -1,0 +1,266 @@
+[
+  {
+    "resultId": "50487923",
+    "mail": "mc.imagine@bbox.fr",
+    "distance": 52483,
+    "latitude": 44.761503784315046,
+    "telephone": "0983479598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheIMAGINE",
+    "resultStructId": "415202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue des alizes 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5546299917496627,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12496965",
+    "mail": "lejardindelise@orange.fr",
+    "distance": 52882,
+    "latitude": 44.76992177905859,
+    "telephone": "0556758976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LE JARDIN DE LISE",
+    "resultStructId": "213701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue du marechal foch33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5431353460908621,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12810925",
+    "mail": "creche.ptits-nuages@mairie-villenavedornon.fr",
+    "distance": 53246,
+    "latitude": 44.77696451879641,
+    "telephone": "0556756986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Nobel",
+    "resultStructId": "687824",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruecolette besson 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5337285418384335,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "21413277",
+    "mail": "chezluciemicrocreche@hotmail.com",
+    "distance": 53849,
+    "latitude": 44.76915739209363,
+    "telephone": "0619368140",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE CHEZ LUCIE",
+    "resultStructId": "600401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 allee brignon 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5708353491380657,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "54874129",
+    "mail": "",
+    "distance": 54029,
+    "latitude": 44.76915105674497,
+    "telephone": "0619368140",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CHEZLOU",
+    "resultStructId": "600301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8 rue de la harpe 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5754607769535881,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "21437680",
+    "mail": "ablomme@achilleetcamille.com",
+    "distance": 54104,
+    "latitude": 44.76758831618286,
+    "telephone": "0664425226",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA CABANE D'ACHILLE ET CAMILLE",
+    "resultStructId": "648601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue duprofesseur bergonie 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5811302723982092,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12505049",
+    "mail": "creche.petits-moussaillons@mairie-villenavedornon.fr",
+    "distance": 54191,
+    "latitude": 44.769916573010406,
+    "telephone": "0556755128",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Nobel",
+    "resultStructId": "687821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue condorcet 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5776797924843785,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12504619",
+    "mail": "ecureuils@mairie-villenavedornon.fr",
+    "distance": 54362,
+    "latitude": 44.769322520402284,
+    "telephone": "0556876258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES ECUREUILS",
+    "resultStructId": "687819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue alfred nobel 33140villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5834320849407636,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12556520",
+    "mail": "crecheleslutins@hotmail.fr",
+    "distance": 54732,
+    "latitude": 44.774608874376504,
+    "telephone": "0556758810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES LUTINS",
+    "resultStructId": "688212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin gaston 33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5799483544584828,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "12504920",
+    "mail": "crecheguilis@mairie-villenavedornon.fr",
+    "distance": 55445,
+    "latitude": 44.786641362290396,
+    "telephone": "0557991807",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ACCUEILFAMILIAL DOUX GUILIS",
+    "resultStructId": "687820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis avenue edouard bourlaux33140 villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.568069016103702,
+    "ville": "dornon",
+    "cp": ""
+  },
+  {
+    "resultId": "18399011",
+    "mail": "creche.carroussel@mairie-villenavedornon.fr",
+    "distance": 56791,
+    "latitude": 44.79684783827585,
+    "telephone": "0556756947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CARROUSEL",
+    "resultStructId": "687823",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 chemin de leysotte 33140villenave",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5773124353556217,
+    "ville": "dornon",
+    "cp": ""
+  }
+]

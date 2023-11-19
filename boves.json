@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12829587",
+    "mail": "contact@creche-ile-mysterieuse.fr",
+    "distance": 72054,
+    "latitude": 49.86653627229868,
+    "telephone": "0339270370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise l'ïle mystérieuse",
+    "resultStructId": "256002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue de l'ilemysterieuse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3644885341390256,
+    "ville": "boves",
+    "cp": "80440"
+  },
+  {
+    "resultId": "12996091",
+    "mail": "bovesmultiaccueil@gmail.com",
+    "distance": 73828,
+    "latitude": 49.844303846160564,
+    "telephone": "0961327479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuxPetits Pieds du Marais",
+    "resultStructId": "255101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ter rue joseph mancel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3878101973850443,
+    "ville": "boves",
+    "cp": "80440"
+  }
+]

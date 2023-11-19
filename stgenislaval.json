@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12574236",
+    "mail": "recollets@wanadoo.fr",
+    "distance": 178865,
+    "latitude": 45.698491242138715,
+    "telephone": "0478561036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Recollets",
+    "resultStructId": "110506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue georges clemenceau 69230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794893082432775,
+    "ville": "stgenislaval",
+    "cp": ""
+  },
+  {
+    "resultId": "12574064",
+    "mail": "",
+    "distance": 180728,
+    "latitude": 45.67892890666415,
+    "telephone": "0472399675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDINPASSERELLE POM'CERISES",
+    "resultStructId": "195801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee paul frantz 69230",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.783661307317293,
+    "ville": "stgenislaval",
+    "cp": ""
+  }
+]

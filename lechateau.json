@@ -1,0 +1,484 @@
+[
+  {
+    "resultId": "12529516",
+    "mail": "directioncreche@mairie-salses.fr",
+    "distance": 160433,
+    "latitude": 42.83017902118559,
+    "telephone": "0468386222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Salses le Chateau",
+    "resultStructId": "705004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jules ferry66600 salses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.91708970813635,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12607819",
+    "mail": "gbernard@onet-le-chateau.fr",
+    "distance": 185711,
+    "latitude": 44.366685565386284,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison des Bouts de Choux",
+    "resultStructId": "2916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 boulevard des capucines12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.595273890660867,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "13001595",
+    "mail": "onet@creche-rodez.com",
+    "distance": 185804,
+    "latitude": 44.36552846714026,
+    "telephone": "0565470789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBébés du Causses",
+    "resultStructId": "12103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone commerciale comtal ouest(derriere mr bricolage de sebazac) 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5930737507792845,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "41213154",
+    "mail": "",
+    "distance": 187995,
+    "latitude": 44.376149378241585,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "jardind'enfants",
+    "resultStructId": "214905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue des palombes 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5697648656412455,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "13012431",
+    "mail": "pasapas.brienne@orange.fr",
+    "distance": 130227,
+    "latitude": 48.38931243150818,
+    "telephone": "0749138554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PAS A PAS",
+    "resultStructId": "600201",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "10 rue rue dumarechal valee 10500 brienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.526234739062348,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12603132",
+    "mail": "mc.lasourisverte@famillesrurales.org",
+    "distance": 132779,
+    "latitude": 47.18400323710258,
+    "telephone": "0381517415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche La Souris Verte MONTFERRAND LE CHATEAU",
+    "resultStructId": "107106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue duchenassard 25320 montferrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.909086110249182,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12976311",
+    "mail": "petitscabris@liveli.fr",
+    "distance": 57975,
+    "latitude": 46.990499142362026,
+    "telephone": "0967426284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les petits cabris\"",
+    "resultStructId": "709566",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles 37600 betz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9176785473465282,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12821804",
+    "mail": "creche-piccolo@cc-portesdevassiviere.fr",
+    "distance": 132535,
+    "latitude": 45.81292821536134,
+    "telephone": "0555694840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPiccolo",
+    "resultStructId": "421002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue st martin 87470 peyrat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7748340431459673,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12976311",
+    "mail": "petitscabris@liveli.fr",
+    "distance": 159028,
+    "latitude": 46.990499142362026,
+    "telephone": "0967426284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les petits cabris\"",
+    "resultStructId": "709566",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles 37600 betz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9176785473465282,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "13012431",
+    "mail": "pasapas.brienne@orange.fr",
+    "distance": 38046,
+    "latitude": 48.38931243150818,
+    "telephone": "0749138554",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PAS A PAS",
+    "resultStructId": "600201",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "10 rue rue dumarechal valee 10500 brienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.526234739062348,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12720530",
+    "mail": "jouars@creche-la-maison-bleue.fr",
+    "distance": 177618,
+    "latitude": 48.80629314344149,
+    "telephone": "0134890529",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - CŒURS D'ENFANTS",
+    "resultStructId": "687522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 sente de la pommeraye 78640neauphle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9039453060857756,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "41213154",
+    "mail": "",
+    "distance": 223161,
+    "latitude": 44.376149378241585,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "jardind'enfants",
+    "resultStructId": "214905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue des palombes 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5697648656412455,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "13001595",
+    "mail": "onet@creche-rodez.com",
+    "distance": 225020,
+    "latitude": 44.36552846714026,
+    "telephone": "0565470789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBébés du Causses",
+    "resultStructId": "12103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone commerciale comtal ouest(derriere mr bricolage de sebazac) 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5930737507792845,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12607819",
+    "mail": "gbernard@onet-le-chateau.fr",
+    "distance": 225194,
+    "latitude": 44.366685565386284,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison des Bouts de Choux",
+    "resultStructId": "2916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 boulevard des capucines12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.595273890660867,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12821804",
+    "mail": "creche-piccolo@cc-portesdevassiviere.fr",
+    "distance": 226964,
+    "latitude": 45.81292821536134,
+    "telephone": "0555694840",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPiccolo",
+    "resultStructId": "421002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue st martin 87470 peyrat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7748340431459673,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12529516",
+    "mail": "directioncreche@mairie-salses.fr",
+    "distance": 116629,
+    "latitude": 42.83017902118559,
+    "telephone": "0468386222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Salses le Chateau",
+    "resultStructId": "705004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard jules ferry66600 salses",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.91708970813635,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12607819",
+    "mail": "gbernard@onet-le-chateau.fr",
+    "distance": 134686,
+    "latitude": 44.366685565386284,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison des Bouts de Choux",
+    "resultStructId": "2916",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 boulevard des capucines12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.595273890660867,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "13001595",
+    "mail": "onet@creche-rodez.com",
+    "distance": 134742,
+    "latitude": 44.36552846714026,
+    "telephone": "0565470789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesBébés du Causses",
+    "resultStructId": "12103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zone commerciale comtal ouest(derriere mr bricolage de sebazac) 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5930737507792845,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "41213154",
+    "mail": "",
+    "distance": 136926,
+    "latitude": 44.376149378241585,
+    "telephone": "0565772280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "jardind'enfants",
+    "resultStructId": "214905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue des palombes 12850 onet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5697648656412455,
+    "ville": "lechateau",
+    "cp": ""
+  },
+  {
+    "resultId": "12976311",
+    "mail": "petitscabris@liveli.fr",
+    "distance": 159028,
+    "latitude": 46.990499142362026,
+    "telephone": "0967426284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"les petits cabris\"",
+    "resultStructId": "709566",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles 37600 betz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.9176785473465282,
+    "ville": "lechateau",
+    "cp": ""
+  }
+]

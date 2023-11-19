@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12865113",
+    "mail": "chambalous@bievre-isere.com",
+    "distance": 158607,
+    "latitude": 45.25969315121694,
+    "telephone": "0476384240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Chambalous Roybon",
+    "resultStructId": "450005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "141 impasse du chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.246861182333649,
+    "ville": "roybon",
+    "cp": "38940"
+  }
+]

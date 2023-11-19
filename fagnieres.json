@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12787060",
+    "mail": "creched@orange.fr",
+    "distance": 30047,
+    "latitude": 48.957618999855576,
+    "telephone": "0326659258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les Petits Petons Fagnières",
+    "resultStructId": "7114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64bis avenue de lanoue du moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.32001217776151,
+    "ville": "fagnieres",
+    "cp": "51510"
+  },
+  {
+    "resultId": "12787103",
+    "mail": "creche@fagnieres.fr",
+    "distance": 30047,
+    "latitude": 48.957618999855576,
+    "telephone": "0326659258",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petits Petons Fagnières",
+    "resultStructId": "7115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 bis avenue de lanoue du moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.32001217776151,
+    "ville": "fagnieres",
+    "cp": "51510"
+  }
+]

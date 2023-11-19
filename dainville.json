@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12797982",
+    "mail": "contact@lebelairmicrocreche.fr",
+    "distance": 20529,
+    "latitude": 50.28917844996776,
+    "telephone": "0986431398",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Le Bel Air\"",
+    "resultStructId": "707501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du kent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.737704909064451,
+    "ville": "dainville",
+    "cp": "62000"
+  },
+  {
+    "resultId": "46927101",
+    "mail": "celine.leonardczyk@people-and-baby.com",
+    "distance": 21280,
+    "latitude": 50.28214140219541,
+    "telephone": "0983814098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCerise",
+    "resultStructId": "657501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place du vert tilleul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7286042682917238,
+    "ville": "dainville",
+    "cp": "62000"
+  }
+]

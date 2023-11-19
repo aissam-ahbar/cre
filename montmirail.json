@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12673531",
+    "mail": "microcrechelesptitsloups@orange.fr",
+    "distance": 74972,
+    "latitude": 48.87735666824628,
+    "telephone": "0326422334",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Loups Montmirail",
+    "resultStructId": "174601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.544904528457761,
+    "ville": "montmirail",
+    "cp": "51210"
+  },
+  {
+    "resultId": "12838101",
+    "mail": "creche.montmirail@orange.fr",
+    "distance": 75470,
+    "latitude": 48.87416867262689,
+    "telephone": "0326816979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les P'tites Hirondelles Montmirail",
+    "resultStructId": "8301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue dufaubourg de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.536917636193106,
+    "ville": "montmirail",
+    "cp": "51210"
+  }
+]

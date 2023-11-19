@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12828641",
+    "mail": "creche.arc-en-ciel@wanadoo.fr",
+    "distance": 100701,
+    "latitude": 49.52105189994201,
+    "telephone": "0235381926",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILFAMILIAL",
+    "resultStructId": "204601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 bis rue thiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5328170113346087,
+    "ville": "lillebonne",
+    "cp": "76170"
+  },
+  {
+    "resultId": "12828770",
+    "mail": "haltegarderie.ribambelle@orange.fr",
+    "distance": 102301,
+    "latitude": 49.530745908915414,
+    "telephone": "0235386489",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LARIBAMBELLE",
+    "resultStructId": "8084",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5492229561930412,
+    "ville": "lillebonne",
+    "cp": "76170"
+  }
+]

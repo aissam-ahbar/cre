@@ -1,0 +1,27 @@
+[
+  {
+    "resultId": "13029725",
+    "mail": "creche.verquigneul@sivom-bethunois.fr",
+    "distance": 5085,
+    "latitude": 50.50264143339057,
+    "telephone": "0321683930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCoccinelles",
+    "resultStructId": "657901",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "5002fsentier du chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 2.663818533357911,
+    "ville": "verquigneul",
+    "cp": "62113"
+  }
+]

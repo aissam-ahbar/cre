@@ -1,0 +1,722 @@
+[
+  {
+    "resultId": "12815741",
+    "mail": "multi-accueil@apeed.fr",
+    "distance": 35649,
+    "latitude": 47.49434799689972,
+    "telephone": "0240144853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL JARDIN DES TI'BOUTS",
+    "resultStructId": "179001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des primeveres 44440joue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.420182878133977,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12499846",
+    "mail": "multiaccueil@nort-sur-erdre.fr",
+    "distance": 44058,
+    "latitude": 47.437648019029865,
+    "telephone": "0240722268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde La Garenne",
+    "resultStructId": "405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de la garenne 44390 nort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5048182480234362,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485562",
+    "mail": "multiaccueil@suce-sur-erdre.fr",
+    "distance": 50776,
+    "latitude": 47.3460616018255,
+    "telephone": "0251811039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux Calins",
+    "resultStructId": "73",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruelle du levant 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.526227888289231,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "60414922",
+    "mail": "funambules44240@gmail.com",
+    "distance": 51217,
+    "latitude": 47.33669789918313,
+    "telephone": "0678617430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles petits funambules",
+    "resultStructId": "711113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 allee cassandre 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5232109363541326,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12492786",
+    "mail": "petits.queniaux@wanadoo.fr",
+    "distance": 54437,
+    "latitude": 47.30883475361437,
+    "telephone": "0228244215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Queniaux",
+    "resultStructId": "124501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue olympe de gouges 44240 lachapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5452530280474188,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "43097801",
+    "mail": "petitspasduploreau@orange.fr",
+    "distance": 55221,
+    "latitude": 47.30248613522123,
+    "telephone": "0240544772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS PAS DU PLOREAU",
+    "resultStructId": "233402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue emilie launay44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5510534907470832,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485605",
+    "mail": "",
+    "distance": 55249,
+    "latitude": 47.303042046231326,
+    "telephone": "0240720474",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCapucine",
+    "resultStructId": "74",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du plessis 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5521992467389814,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12486379",
+    "mail": "",
+    "distance": 55451,
+    "latitude": 47.29945085345557,
+    "telephone": "0240935207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde des Couleurs",
+    "resultStructId": "92",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de l'hopitau -maison del'enfance- 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.551332798580372,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485992",
+    "mail": "",
+    "distance": 55812,
+    "latitude": 47.29819578265799,
+    "telephone": "0240778290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Soleil",
+    "resultStructId": "83",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de beauregard 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5560016873713594,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12657054",
+    "mail": "contact@dounidou.fr",
+    "distance": 55837,
+    "latitude": 47.28655847454344,
+    "telephone": "0240292441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Dounidoucrèche Inter-entreprises",
+    "resultStructId": "4061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de l'europe 44240 lachapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5419443261877963,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "59856306",
+    "mail": "contact@lbbe.fr",
+    "distance": 56408,
+    "latitude": 47.28999590284262,
+    "telephone": "0667057988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesExplorateurs de La Chapelle-sur-Erdre",
+    "resultStructId": "700516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue mauriceravel 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5562418451499327,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "60315934",
+    "mail": "lachapellesurerdre@lesptitsbabadins.com",
+    "distance": 57954,
+    "latitude": 47.26262407905778,
+    "telephone": "0686156218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits Babadins de la Chapelle sur Erdre",
+    "resultStructId": "708715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1bis ruenewton 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5480053116314876,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "37661574",
+    "mail": "contact@babilou.com",
+    "distance": 58012,
+    "latitude": 47.26458717644114,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLes Bambins de Gesvrine",
+    "resultStructId": "559702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee de la grande friche44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5517145775388554,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12815741",
+    "mail": "multi-accueil@apeed.fr",
+    "distance": 173040,
+    "latitude": 47.49434799689972,
+    "telephone": "0240144853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL JARDIN DES TI'BOUTS",
+    "resultStructId": "179001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des primeveres 44440joue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.420182878133977,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12499846",
+    "mail": "multiaccueil@nort-sur-erdre.fr",
+    "distance": 181326,
+    "latitude": 47.437648019029865,
+    "telephone": "0240722268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde La Garenne",
+    "resultStructId": "405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de la garenne 44390 nort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5048182480234362,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485562",
+    "mail": "multiaccueil@suce-sur-erdre.fr",
+    "distance": 191328,
+    "latitude": 47.3460616018255,
+    "telephone": "0251811039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux Calins",
+    "resultStructId": "73",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruelle du levant 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.526227888289231,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "60414922",
+    "mail": "funambules44240@gmail.com",
+    "distance": 192202,
+    "latitude": 47.33669789918313,
+    "telephone": "0678617430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles petits funambules",
+    "resultStructId": "711113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 allee cassandre 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5232109363541326,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12815741",
+    "mail": "multi-accueil@apeed.fr",
+    "distance": 35649,
+    "latitude": 47.49434799689972,
+    "telephone": "0240144853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL JARDIN DES TI'BOUTS",
+    "resultStructId": "179001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des primeveres 44440joue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.420182878133977,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12499846",
+    "mail": "multiaccueil@nort-sur-erdre.fr",
+    "distance": 44058,
+    "latitude": 47.437648019029865,
+    "telephone": "0240722268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueilde La Garenne",
+    "resultStructId": "405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc de la garenne 44390 nort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5048182480234362,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485562",
+    "mail": "multiaccueil@suce-sur-erdre.fr",
+    "distance": 50776,
+    "latitude": 47.3460616018255,
+    "telephone": "0251811039",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux Calins",
+    "resultStructId": "73",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruelle du levant 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.526227888289231,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "60414922",
+    "mail": "funambules44240@gmail.com",
+    "distance": 51217,
+    "latitude": 47.33669789918313,
+    "telephone": "0678617430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles petits funambules",
+    "resultStructId": "711113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 allee cassandre 44240 suce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5232109363541326,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12492786",
+    "mail": "petits.queniaux@wanadoo.fr",
+    "distance": 54437,
+    "latitude": 47.30883475361437,
+    "telephone": "0228244215",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Queniaux",
+    "resultStructId": "124501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue olympe de gouges 44240 lachapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5452530280474188,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "43097801",
+    "mail": "petitspasduploreau@orange.fr",
+    "distance": 55221,
+    "latitude": 47.30248613522123,
+    "telephone": "0240544772",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS PAS DU PLOREAU",
+    "resultStructId": "233402",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue emilie launay44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5510534907470832,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485605",
+    "mail": "",
+    "distance": 55249,
+    "latitude": 47.303042046231326,
+    "telephone": "0240720474",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCapucine",
+    "resultStructId": "74",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du plessis 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5521992467389814,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12486379",
+    "mail": "",
+    "distance": 55451,
+    "latitude": 47.29945085345557,
+    "telephone": "0240935207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRonde des Couleurs",
+    "resultStructId": "92",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard de l'hopitau -maison del'enfance- 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.551332798580372,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12485992",
+    "mail": "",
+    "distance": 55812,
+    "latitude": 47.29819578265799,
+    "telephone": "0240778290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Soleil",
+    "resultStructId": "83",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de beauregard 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5560016873713594,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "12657054",
+    "mail": "contact@dounidou.fr",
+    "distance": 55837,
+    "latitude": 47.28655847454344,
+    "telephone": "0240292441",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Dounidoucrèche Inter-entreprises",
+    "resultStructId": "4061",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de l'europe 44240 lachapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5419443261877963,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "59856306",
+    "mail": "contact@lbbe.fr",
+    "distance": 56408,
+    "latitude": 47.28999590284262,
+    "telephone": "0667057988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesExplorateurs de La Chapelle-sur-Erdre",
+    "resultStructId": "700516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue mauriceravel 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5562418451499327,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "60315934",
+    "mail": "lachapellesurerdre@lesptitsbabadins.com",
+    "distance": 57954,
+    "latitude": 47.26262407905778,
+    "telephone": "0686156218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits Babadins de la Chapelle sur Erdre",
+    "resultStructId": "708715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1bis ruenewton 44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5480053116314876,
+    "ville": "surerdre",
+    "cp": ""
+  },
+  {
+    "resultId": "37661574",
+    "mail": "contact@babilou.com",
+    "distance": 58012,
+    "latitude": 47.26458717644114,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouLes Bambins de Gesvrine",
+    "resultStructId": "559702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee de la grande friche44240 la chapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5517145775388554,
+    "ville": "surerdre",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12989340",
+    "mail": "cabrioles@rochefoucauld-perigord.fr",
+    "distance": 174117,
+    "latitude": 45.66675147211455,
+    "telephone": "0545253518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Cabrioles\"",
+    "resultStructId": "133001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des vieilles ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4997253807873871,
+    "ville": "montbron",
+    "cp": "16220"
+  },
+  {
+    "resultId": "12989340",
+    "mail": "cabrioles@rochefoucauld-perigord.fr",
+    "distance": 157746,
+    "latitude": 45.66675147211455,
+    "telephone": "0545253518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Cabrioles\"",
+    "resultStructId": "133001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des vieilles ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4997253807873871,
+    "ville": "montbron",
+    "cp": "16220"
+  }
+]

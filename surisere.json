@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12779578",
+    "mail": "fr-multiaccueil@wanadoo.fr",
+    "distance": 163740,
+    "latitude": 45.014244425129,
+    "telephone": "0475718242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes chatons",
+    "resultStructId": "675904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue du moulin 26300 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933554341585367,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856212",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 168159,
+    "latitude": 45.04371187111378,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Clé des Champs",
+    "resultStructId": "565801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "699 a avenue genevieve de gaulleanthonioz 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.022208757629545,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856255",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 168575,
+    "latitude": 45.04190954290356,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrançoise Dolto",
+    "resultStructId": "561005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue etienne dolet 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061347753973035,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856298",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 168654,
+    "latitude": 45.04484639690878,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrèchePom d'Api",
+    "resultStructId": "562701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue paradis 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.046350075401806,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12810753",
+    "mail": "romans.isere@lpcr.fr",
+    "distance": 169446,
+    "latitude": 45.048206771383065,
+    "telephone": "0475701005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minuscules de Romans",
+    "resultStructId": "80512",
+    "omegaId": "552",
+    "avip": false,
+    "adresse": "1 rue jean-josephmounier 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07264169220172,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "44535561",
+    "mail": "roulboutchou@arlysere.fr",
+    "distance": 446637,
+    "latitude": 45.60148722925411,
+    "telephone": "0479105751",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILITINERANT ROUL'BOUTCHOU",
+    "resultStructId": "700710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "- 73460 gresy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.254580380504711,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12779578",
+    "mail": "fr-multiaccueil@wanadoo.fr",
+    "distance": 177724,
+    "latitude": 45.014244425129,
+    "telephone": "0475718242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes chatons",
+    "resultStructId": "675904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue du moulin 26300 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933554341585367,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856212",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 183950,
+    "latitude": 45.04371187111378,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Clé des Champs",
+    "resultStructId": "565801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "699 a avenue genevieve de gaulleanthonioz 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.022208757629545,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856298",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 185001,
+    "latitude": 45.04484639690878,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrèchePom d'Api",
+    "resultStructId": "562701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue paradis 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.046350075401806,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856255",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 185312,
+    "latitude": 45.04190954290356,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrançoise Dolto",
+    "resultStructId": "561005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue etienne dolet 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061347753973035,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12810753",
+    "mail": "romans.isere@lpcr.fr",
+    "distance": 186365,
+    "latitude": 45.048206771383065,
+    "telephone": "0475701005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minuscules de Romans",
+    "resultStructId": "80512",
+    "omegaId": "552",
+    "avip": false,
+    "adresse": "1 rue jean-josephmounier 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07264169220172,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856255",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 144432,
+    "latitude": 45.04190954290356,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFrançoise Dolto",
+    "resultStructId": "561005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue etienne dolet 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.061347753973035,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12810753",
+    "mail": "romans.isere@lpcr.fr",
+    "distance": 144527,
+    "latitude": 45.048206771383065,
+    "telephone": "0475701005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Minuscules de Romans",
+    "resultStructId": "80512",
+    "omegaId": "552",
+    "avip": false,
+    "adresse": "1 rue jean-josephmounier 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07264169220172,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856298",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 145359,
+    "latitude": 45.04484639690878,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CrèchePom d'Api",
+    "resultStructId": "562701",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue paradis 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.046350075401806,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12856212",
+    "mail": "petiteenfance.romans@valenceromansagglo.fr",
+    "distance": 146325,
+    "latitude": 45.04371187111378,
+    "telephone": "0475716623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Clé des Champs",
+    "resultStructId": "565801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "699 a avenue genevieve de gaulleanthonioz 26100 romans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.022208757629545,
+    "ville": "surisere",
+    "cp": ""
+  },
+  {
+    "resultId": "12779578",
+    "mail": "fr-multiaccueil@wanadoo.fr",
+    "distance": 147794,
+    "latitude": 45.014244425129,
+    "telephone": "0475718242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes chatons",
+    "resultStructId": "675904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 rue du moulin 26300 chateauneuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.933554341585367,
+    "ville": "surisere",
+    "cp": ""
+  }
+]

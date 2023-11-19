@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "43122760",
+    "mail": "",
+    "distance": 201231,
+    "latitude": 44.40655789912433,
+    "telephone": "0565645057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "l'Arcen ciel",
+    "resultStructId": "234107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2934678280701792,
+    "ville": "rignac",
+    "cp": "12390"
+  },
+  {
+    "resultId": "43122760",
+    "mail": "",
+    "distance": 156583,
+    "latitude": 44.40655789912433,
+    "telephone": "0565645057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "l'Arcen ciel",
+    "resultStructId": "234107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 avenue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2934678280701792,
+    "ville": "rignac",
+    "cp": "12390"
+  }
+]

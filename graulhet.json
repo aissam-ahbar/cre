@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "13034928",
+    "mail": "creche.graulhet@gaillac-graulhet.fr",
+    "distance": 189712,
+    "latitude": 43.762512711273516,
+    "telephone": "0563420032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDadou's - Graulhet",
+    "resultStructId": "687907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9930983642492535,
+    "ville": "graulhet",
+    "cp": "81300"
+  },
+  {
+    "resultId": "12966851",
+    "mail": "crechedesmoussaillons@gmail.com",
+    "distance": 191273,
+    "latitude": 43.76184500094476,
+    "telephone": "0563342595",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesMoussaillons",
+    "resultStructId": "689609",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 bis rue du cardinal roques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0135388093828106,
+    "ville": "graulhet",
+    "cp": "81300"
+  },
+  {
+    "resultId": "12966851",
+    "mail": "crechedesmoussaillons@gmail.com",
+    "distance": 152531,
+    "latitude": 43.76184500094476,
+    "telephone": "0563342595",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LesMoussaillons",
+    "resultStructId": "689609",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 bis rue du cardinal roques",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0135388093828106,
+    "ville": "graulhet",
+    "cp": "81300"
+  },
+  {
+    "resultId": "13034928",
+    "mail": "creche.graulhet@gaillac-graulhet.fr",
+    "distance": 154171,
+    "latitude": 43.762512711273516,
+    "telephone": "0563420032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDadou's - Graulhet",
+    "resultStructId": "687907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place henri dunant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9930983642492535,
+    "ville": "graulhet",
+    "cp": "81300"
+  }
+]

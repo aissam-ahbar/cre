@@ -1,0 +1,578 @@
+[
+  {
+    "resultId": "59734689",
+    "mail": "contact-rambouillet@oursonsetcie.fr",
+    "distance": 180365,
+    "latitude": 48.622204468625526,
+    "telephone": "0698187120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OURSONS ET CIE",
+    "resultStructId": "699507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue hippolyte mege",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8283398514294424,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "59734822",
+    "mail": "contact-rambouillet@oursonsetcie.fr",
+    "distance": 180365,
+    "latitude": 48.622204468625526,
+    "telephone": "0698187120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OURSONS ET CIE LES PETITS CHERIS",
+    "resultStructId": "699506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruehippolyte mege mouries",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8283398514294424,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579869",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 181833,
+    "latitude": 48.635254691886914,
+    "telephone": "0134949860",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE - LES FONTAINES",
+    "resultStructId": "695313",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "36 rue des fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8328046534558733,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "21435397",
+    "mail": "ciaspetiteenfance@rt78.fr",
+    "distance": 182300,
+    "latitude": 48.63972555352302,
+    "telephone": "0130887503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LA SABLIERE",
+    "resultStructId": "704713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue de la sabliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8262472543437709,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "59015197",
+    "mail": "contact@lbbe.fr",
+    "distance": 182606,
+    "latitude": 48.642443848114326,
+    "telephone": "0641824017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES EXPLORATEURS DE RAMBOUILLET",
+    "resultStructId": "691714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8272809110420944,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "55588514",
+    "mail": "direction@anosanges.fr",
+    "distance": 183034,
+    "latitude": 48.64636673951338,
+    "telephone": "0134852842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - A NOS ANGES",
+    "resultStructId": "692801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8256716785995244,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579783",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 183041,
+    "latitude": 48.64627240502435,
+    "telephone": "0175034376",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - RIBAMBELLE",
+    "resultStructId": "695301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "35 rue sadi carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8294805919871613,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579826",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 183041,
+    "latitude": 48.64627240502435,
+    "telephone": "0175034370",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHEFAMILIALE - LA FARANDOLE",
+    "resultStructId": "695302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "35 rue sadi carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8294805919871613,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12715069",
+    "mail": "ciaspetiteenfance@rt78.fr",
+    "distance": 183199,
+    "latitude": 48.647168575545635,
+    "telephone": "0980613456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LA PETITE RONDE",
+    "resultStructId": "704712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue du muguet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.842048072707793,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12583954",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 183365,
+    "latitude": 48.64797531192229,
+    "telephone": "0178820299",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL MUNICIPAL- BOUT'CHOU",
+    "resultStructId": "695315",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 place de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8570769949186787,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579740",
+    "mail": "",
+    "distance": 183405,
+    "latitude": 48.64979115852032,
+    "telephone": "0134830902",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - LES LUTINS",
+    "resultStructId": "695307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "55 rue dreyfus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8233901974840856,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12583997",
+    "mail": "lulupistache@orange.fr",
+    "distance": 183776,
+    "latitude": 48.6524263780183,
+    "telephone": "0237239296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LULU PISTACHE",
+    "resultStructId": "684011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue claude chappe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8406470588807127,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579740",
+    "mail": "",
+    "distance": 174263,
+    "latitude": 48.64979115852032,
+    "telephone": "0134830902",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE MUNICIPALE - LES LUTINS",
+    "resultStructId": "695307",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "55 rue dreyfus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8233901974840856,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "55588514",
+    "mail": "direction@anosanges.fr",
+    "distance": 174502,
+    "latitude": 48.64636673951338,
+    "telephone": "0134852842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - A NOS ANGES",
+    "resultStructId": "692801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8256716785995244,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "21435397",
+    "mail": "ciaspetiteenfance@rt78.fr",
+    "distance": 174689,
+    "latitude": 48.63972555352302,
+    "telephone": "0130887503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LA SABLIERE",
+    "resultStructId": "704713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue de la sabliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8262472543437709,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "59015197",
+    "mail": "contact@lbbe.fr",
+    "distance": 174704,
+    "latitude": 48.642443848114326,
+    "telephone": "0641824017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES EXPLORATEURS DE RAMBOUILLET",
+    "resultStructId": "691714",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8272809110420944,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579783",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 174778,
+    "latitude": 48.64627240502435,
+    "telephone": "0175034376",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - RIBAMBELLE",
+    "resultStructId": "695301",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "35 rue sadi carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8294805919871613,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579826",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 174778,
+    "latitude": 48.64627240502435,
+    "telephone": "0175034370",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHEFAMILIALE - LA FARANDOLE",
+    "resultStructId": "695302",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "35 rue sadi carnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8294805919871613,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "59734689",
+    "mail": "contact-rambouillet@oursonsetcie.fr",
+    "distance": 175239,
+    "latitude": 48.622204468625526,
+    "telephone": "0698187120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OURSONS ET CIE",
+    "resultStructId": "699507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue hippolyte mege",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8283398514294424,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "59734822",
+    "mail": "contact-rambouillet@oursonsetcie.fr",
+    "distance": 175239,
+    "latitude": 48.622204468625526,
+    "telephone": "0698187120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OURSONS ET CIE LES PETITS CHERIS",
+    "resultStructId": "699506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ruehippolyte mege mouries",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8283398514294424,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12579869",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 175261,
+    "latitude": 48.635254691886914,
+    "telephone": "0134949860",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHECOLLECTIVE - LES FONTAINES",
+    "resultStructId": "695313",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "36 rue des fontaines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8328046534558733,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12583997",
+    "mail": "lulupistache@orange.fr",
+    "distance": 175451,
+    "latitude": 48.6524263780183,
+    "telephone": "0237239296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LULU PISTACHE",
+    "resultStructId": "684011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue claude chappe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8406470588807127,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12715069",
+    "mail": "ciaspetiteenfance@rt78.fr",
+    "distance": 175665,
+    "latitude": 48.647168575545635,
+    "telephone": "0980613456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LA PETITE RONDE",
+    "resultStructId": "704712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue du muguet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.842048072707793,
+    "ville": "rambouillet",
+    "cp": "78120"
+  },
+  {
+    "resultId": "12583954",
+    "mail": "petite.enfance@rambouillet.fr",
+    "distance": 176731,
+    "latitude": 48.64797531192229,
+    "telephone": "0178820299",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL MUNICIPAL- BOUT'CHOU",
+    "resultStructId": "695315",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 place de l'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8570769949186787,
+    "ville": "rambouillet",
+    "cp": "78120"
+  }
+]

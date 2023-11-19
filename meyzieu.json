@@ -1,0 +1,339 @@
+[
+  {
+    "resultId": "43343625",
+    "mail": "microcreche.abracadabulle@gmail.com",
+    "distance": 175260,
+    "latitude": 45.779849871247734,
+    "telephone": "0780987732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAbracadabulle",
+    "resultStructId": "701222",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "2 ruevictor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 4.996967610953618,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12898782",
+    "mail": "creche@meyzieu.fr",
+    "distance": 175611,
+    "latitude": 45.77576039180925,
+    "telephone": "0478317734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMarie-Thérèse Eyquem",
+    "resultStructId": "87706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 chemin de pommier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.994376943045927,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12898739",
+    "mail": "petites.pommes@meyzieu.fr",
+    "distance": 175615,
+    "latitude": 45.7758060348979,
+    "telephone": "0478310844",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petites Pommes",
+    "resultStructId": "87702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 chemin de pommier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.994689275651547,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12961433",
+    "mail": "prunelle@creche-attitude.fr",
+    "distance": 175729,
+    "latitude": 45.783496361842545,
+    "telephone": "0967158934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Prunelle de mes Yeux",
+    "resultStructId": "107902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "215 rue gustave eiffel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.026524891952941,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12898696",
+    "mail": "ritournelle@meyzieu.fr",
+    "distance": 176143,
+    "latitude": 45.77688486066143,
+    "telephone": "0478318762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ritournelle",
+    "resultStructId": "87704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue jules romain",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.017232253286689,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12961347",
+    "mail": "cranc@adapeidurhone.fr",
+    "distance": 176154,
+    "latitude": 45.776791969321536,
+    "telephone": "0478040853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lapasserelle du sourire",
+    "resultStructId": "11167",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des freres goncourt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.017279336894644,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12924711",
+    "mail": "meyzieu.2@lpcr.fr",
+    "distance": 176417,
+    "latitude": 45.77038669437555,
+    "telephone": "0983037242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES MALICIEUX DESBOIS 1",
+    "resultStructId": "10315",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue joseph desbois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.003235290660554,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "54603631",
+    "mail": "",
+    "distance": 176640,
+    "latitude": 45.76650403100032,
+    "telephone": "0471109099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes BIBouchons Fusier",
+    "resultStructId": "589901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue fusier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.996851603439274,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "38097748",
+    "mail": "",
+    "distance": 176685,
+    "latitude": 45.76590850283968,
+    "telephone": "0437479418",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes BiBouchons Gambetta",
+    "resultStructId": "705305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue gambetta",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.996258180385128,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "27763254",
+    "mail": "lacrecheenchantee@gmail.com",
+    "distance": 176705,
+    "latitude": 45.76763221438681,
+    "telephone": "0650891784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA CRECHE ENCHANTEE 2",
+    "resultStructId": "41403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du commerce",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.003318579355386,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "52756653",
+    "mail": "mabelle.mesyeuxdenfant@gmail.com",
+    "distance": 176812,
+    "latitude": 45.76679868021313,
+    "telephone": "0957177117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMes Yeux d'Enfant",
+    "resultStructId": "495601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 b rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0040738148451185,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12898653",
+    "mail": "cledeschamps@meyzieu.fr",
+    "distance": 176984,
+    "latitude": 45.76546544363031,
+    "telephone": "0478310551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Clé des Champs",
+    "resultStructId": "87705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 bis rue gambetta - espace germainetillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.005277519230237,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12904759",
+    "mail": "creche.familiale@meyzieu.fr",
+    "distance": 177058,
+    "latitude": 45.76403717996787,
+    "telephone": "0472452060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les Majomousses",
+    "resultStructId": "87703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue louis saulnier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.002640371411754,
+    "ville": "meyzieu",
+    "cp": "69330"
+  },
+  {
+    "resultId": "12937267",
+    "mail": "eaje.cassin@meyzieu.fr",
+    "distance": 177837,
+    "latitude": 45.75900240189049,
+    "telephone": "0478041063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheRené Cassin",
+    "resultStructId": "10607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de marseille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.01178087816989,
+    "ville": "meyzieu",
+    "cp": "69330"
+  }
+]

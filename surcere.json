@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12686001",
+    "mail": "crechegagnac@orange.fr",
+    "distance": 179796,
+    "latitude": 44.94061226713146,
+    "telephone": "0565109144",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE\"POMME D'API\"",
+    "resultStructId": "177101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place jean leymarie 46130 gagnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.876948487215526,
+    "ville": "surcere",
+    "cp": ""
+  },
+  {
+    "resultId": "12928839",
+    "mail": "",
+    "distance": 222197,
+    "latitude": 44.901106418003074,
+    "telephone": "0471640979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"L'îlotCâlin\"",
+    "resultStructId": "156605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de l'eglise 15130 arpajon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4605591134625855,
+    "ville": "surcere",
+    "cp": ""
+  },
+  {
+    "resultId": "12928839",
+    "mail": "",
+    "distance": 184565,
+    "latitude": 44.901106418003074,
+    "telephone": "0471640979",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"L'îlotCâlin\"",
+    "resultStructId": "156605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de l'eglise 15130 arpajon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4605591134625855,
+    "ville": "surcere",
+    "cp": ""
+  }
+]

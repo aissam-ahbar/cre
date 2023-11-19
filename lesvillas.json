@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "43313537",
+    "mail": "afabre@achilleetcamille.com",
+    "distance": 114195,
+    "latitude": 48.27135508095992,
+    "telephone": "0325785229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane d'Achille & Camille",
+    "resultStructId": "236703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de la cooperative10800 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.09119340864411,
+    "ville": "lesvillas",
+    "cp": ""
+  },
+  {
+    "resultId": "13011356",
+    "mail": "multi.accueil@saintjulienlesvillas.fr",
+    "distance": 114434,
+    "latitude": 48.27354183574371,
+    "telephone": "0325717949",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS LUTINS - accueil collectif",
+    "resultStructId": "173601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 alleedu chateau des cours 10800 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.092533464257546,
+    "ville": "lesvillas",
+    "cp": ""
+  },
+  {
+    "resultId": "13011356",
+    "mail": "multi.accueil@saintjulienlesvillas.fr",
+    "distance": 60813,
+    "latitude": 48.27354183574371,
+    "telephone": "0325717949",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS LUTINS - accueil collectif",
+    "resultStructId": "173601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 alleedu chateau des cours 10800 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.092533464257546,
+    "ville": "lesvillas",
+    "cp": ""
+  },
+  {
+    "resultId": "43313537",
+    "mail": "afabre@achilleetcamille.com",
+    "distance": 61071,
+    "latitude": 48.27135508095992,
+    "telephone": "0325785229",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaCabane d'Achille & Camille",
+    "resultStructId": "236703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue de la cooperative10800 st julien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.09119340864411,
+    "ville": "lesvillas",
+    "cp": ""
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "resultId": "12889408",
+    "mail": "_creche@ch-le-vinatier.fr",
+    "distance": 176492,
+    "latitude": 45.74208839207602,
+    "telephone": "0437915247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilClair de Lune",
+    "resultStructId": "689231",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "95 boulevard pinel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.894020891193317,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889193",
+    "mail": "creche-familiale@ville-bron.fr",
+    "distance": 176611,
+    "latitude": 45.74650482598051,
+    "telephone": "0472371301",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamilliale Les Diablerets",
+    "resultStructId": "97007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.9174300874061725,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889451",
+    "mail": "jardin-d-enfant@ville-bron.fr",
+    "distance": 176697,
+    "latitude": 45.74413631662515,
+    "telephone": "0472141370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "jardind enfants L'arc en ciel",
+    "resultStructId": "9495",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue christian lacouture",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.910935056507402,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "38715743",
+    "mail": "eaje.emerveille@csc-gerardphilipe.fr",
+    "distance": 176997,
+    "latitude": 45.74383316417192,
+    "telephone": "0472150620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Emerveille - Centre Social Gérard Philipe",
+    "resultStructId": "174605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rueguynemer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.921544879319929,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889279",
+    "mail": "eaje.copainsdabord@csc-gerardphilipe.fr",
+    "distance": 177106,
+    "latitude": 45.7420126684593,
+    "telephone": "0472149761",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Copains d'Abord",
+    "resultStructId": "103303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue gerard philippe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.91831354249064,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889365",
+    "mail": "",
+    "distance": 177478,
+    "latitude": 45.73239721149907,
+    "telephone": "0478742537",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Essart'gosses",
+    "resultStructId": "684728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue du parc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.892511767941532,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "27536764",
+    "mail": "creche-petits-ecureuils@leaetleo.com",
+    "distance": 177691,
+    "latitude": 45.73901181044548,
+    "telephone": "0428382500",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Ecureuils",
+    "resultStructId": "682705",
+    "omegaId": "11769",
+    "avip": false,
+    "adresse": "12 c rue du 35eme regimentd'aviation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.928911356480792,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889150",
+    "mail": "creche-collective@ville-bron.fr",
+    "distance": 177842,
+    "latitude": 45.735276868709406,
+    "telephone": "0478264758",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLouise Michel",
+    "resultStructId": "97101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue guy de maupassant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.919414143100919,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889322",
+    "mail": "pomreinette@cslestaillis-bron.fr",
+    "distance": 177872,
+    "latitude": 45.73230991105078,
+    "telephone": "0478261919",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilPom'de Reinette - Centre Social Les Taillis",
+    "resultStructId": "82704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 ruevillard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.908152321721141,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "36742234",
+    "mail": "",
+    "distance": 177993,
+    "latitude": 45.73619042479817,
+    "telephone": "0428387485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLéa et Léo \"Croc Noisette\"",
+    "resultStructId": "682707",
+    "omegaId": "47226",
+    "avip": false,
+    "adresse": "7 rue du 35emeregiment d'aviation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.929135935130355,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889021",
+    "mail": "pomdapi@cslestaillis-bron.fr",
+    "distance": 178006,
+    "latitude": 45.729795451954395,
+    "telephone": "0478262630",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPom d'Api - Centre Social Les Taillis",
+    "resultStructId": "82703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.902847129319969,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "35056109",
+    "mail": "pomcannelle@cslestaillis-bron.fr",
+    "distance": 178502,
+    "latitude": 45.72681962245816,
+    "telephone": "0478762060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePom'cannelle",
+    "resultStructId": "129513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120 rue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.910227176141487,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "32935512",
+    "mail": "micro-creche@ville-bron.fr",
+    "distance": 178572,
+    "latitude": 45.726140875237206,
+    "telephone": "0478011882",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePetite Etoile",
+    "resultStructId": "97102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "160 avenue saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.910173559868937,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889107",
+    "mail": "contact@lespetitslions.fr",
+    "distance": 178788,
+    "latitude": 45.726955908090154,
+    "telephone": "0781595838",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche LES PETITS LIONS BRON Saint Exupéry",
+    "resultStructId": "9487",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue marysebastie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922229598445865,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12889064",
+    "mail": "contact@lespetitslions.fr",
+    "distance": 178811,
+    "latitude": 45.72688115397987,
+    "telephone": "0781595838",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche LES PETITS LIONS Citadelles",
+    "resultStructId": "9486",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue maryse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.922842365272127,
+    "ville": "bron",
+    "cp": "69500"
+  },
+  {
+    "resultId": "12888978",
+    "mail": "crechequal@free.fr",
+    "distance": 179278,
+    "latitude": 45.7199191276052,
+    "telephone": "0478780947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEqual",
+    "resultStructId": "393801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.912190035922395,
+    "ville": "bron",
+    "cp": "69500"
+  }
+]

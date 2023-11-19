@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12749521",
+    "mail": "eaje.vouziers@croix-rouge.fr",
+    "distance": 75167,
+    "latitude": 49.39978562942163,
+    "telephone": "0324308169",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueil- Le petit prince",
+    "resultStructId": "685901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue de l'agriculture",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.697317226850661,
+    "ville": "vouziers",
+    "cp": "08400"
+  }
+]

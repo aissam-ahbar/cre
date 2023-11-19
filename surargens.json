@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "21419961",
+    "mail": "creches@mairie-roquebrune-argens.fr",
+    "distance": 162761,
+    "latitude": 43.443447210602734,
+    "telephone": "0494956225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 4",
+    "resultStructId": "15544",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue ferdinand de bourbon des 2 siciles 83520roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637548553417988,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21420133",
+    "mail": "creche@mairie-roquebrune-argens.fr",
+    "distance": 162973,
+    "latitude": 43.443985989812674,
+    "telephone": "0494453187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 1",
+    "resultStructId": "15545",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean aicard 83520 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.640253765408995,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "57709399",
+    "mail": "puget.coeurdevillage@koalakids.fr",
+    "distance": 166551,
+    "latitude": 43.45389100624822,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'atelierdes kids III",
+    "resultStructId": "678207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "143 boulevard joseph costamagna 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.685909114085569,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21413823",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 167079,
+    "latitude": 43.45452220894382,
+    "telephone": "0422470917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLes Aubrèdes",
+    "resultStructId": "706818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 place du puit 83480 puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.692550326107356,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "60225122",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 167087,
+    "latitude": 43.45923303698378,
+    "telephone": "0422470916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison des Oliviers",
+    "resultStructId": "706821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "409 chemin des aubredes 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.693173777233828,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21413823",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 244545,
+    "latitude": 43.45452220894382,
+    "telephone": "0422470917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLes Aubrèdes",
+    "resultStructId": "706818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 place du puit 83480 puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.692550326107356,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "60225122",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 244810,
+    "latitude": 43.45923303698378,
+    "telephone": "0422470916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison des Oliviers",
+    "resultStructId": "706821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "409 chemin des aubredes 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.693173777233828,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "57709399",
+    "mail": "puget.coeurdevillage@koalakids.fr",
+    "distance": 244941,
+    "latitude": 43.45389100624822,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'atelierdes kids III",
+    "resultStructId": "678207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "143 boulevard joseph costamagna 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.685909114085569,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21420133",
+    "mail": "creche@mairie-roquebrune-argens.fr",
+    "distance": 247323,
+    "latitude": 43.443985989812674,
+    "telephone": "0494453187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 1",
+    "resultStructId": "15545",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean aicard 83520 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.640253765408995,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21419961",
+    "mail": "creches@mairie-roquebrune-argens.fr",
+    "distance": 247468,
+    "latitude": 43.443447210602734,
+    "telephone": "0494956225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 4",
+    "resultStructId": "15544",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue ferdinand de bourbon des 2 siciles 83520roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637548553417988,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21419961",
+    "mail": "creches@mairie-roquebrune-argens.fr",
+    "distance": 73461,
+    "latitude": 43.443447210602734,
+    "telephone": "0494956225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 4",
+    "resultStructId": "15544",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue ferdinand de bourbon des 2 siciles 83520roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.637548553417988,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21420133",
+    "mail": "creche@mairie-roquebrune-argens.fr",
+    "distance": 73551,
+    "latitude": 43.443985989812674,
+    "telephone": "0494453187",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeïPichoun 1",
+    "resultStructId": "15545",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue jean aicard 83520 roquebrune",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.640253765408995,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "60225122",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 75047,
+    "latitude": 43.45923303698378,
+    "telephone": "0422470916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison des Oliviers",
+    "resultStructId": "706821",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "409 chemin des aubredes 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.693173777233828,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "57709399",
+    "mail": "puget.coeurdevillage@koalakids.fr",
+    "distance": 75097,
+    "latitude": 43.45389100624822,
+    "telephone": "0494507890",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'atelierdes kids III",
+    "resultStructId": "678207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "143 boulevard joseph costamagna 83480puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.685909114085569,
+    "ville": "surargens",
+    "cp": ""
+  },
+  {
+    "resultId": "21413823",
+    "mail": "alison.claro@dso.ifac.asso.fr",
+    "distance": 75402,
+    "latitude": 43.45452220894382,
+    "telephone": "0422470917",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLes Aubrèdes",
+    "resultStructId": "706818",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 place du puit 83480 puget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.692550326107356,
+    "ville": "surargens",
+    "cp": ""
+  }
+]

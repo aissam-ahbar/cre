@@ -1,0 +1,458 @@
+[
+  {
+    "resultId": "23045598",
+    "mail": "petiteenfance.basseville@aduges.org",
+    "distance": 66065,
+    "latitude": 51.02706137890078,
+    "telephone": "0328596924",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieAm Stram Gram (Maison de quartier Basse Ville)",
+    "resultStructId": "543701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 ruede la paix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.378325527832433,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12577074",
+    "mail": "petiteenfance.pontloby@nordnet.fr",
+    "distance": 66173,
+    "latitude": 51.019126252631104,
+    "telephone": "0328240571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS - ADUGES",
+    "resultStructId": "2201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1602 rue du banc vert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.343907979901818,
+    "ville": "dunkerque",
+    "cp": "59640"
+  },
+  {
+    "resultId": "12576988",
+    "mail": "",
+    "distance": 66278,
+    "latitude": 51.02683790296667,
+    "telephone": "0328252150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS BOUTS - ADUGES",
+    "resultStructId": "2199",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3692159803345523,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12941567",
+    "mail": "petiteenfance.jeudemail@aduges.org",
+    "distance": 66311,
+    "latitude": 51.02713945694526,
+    "telephone": "0328596918",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJeu de Mail",
+    "resultStructId": "10707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 rue du jeu de mail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.369134609562217,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12576859",
+    "mail": "creche.toutpetits@aduges.org",
+    "distance": 66621,
+    "latitude": 51.03315715571508,
+    "telephone": "0328205245",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDES TOUT PETITS - ADUGES",
+    "resultStructId": "2196",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'esplanade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.38132536317131,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "49589284",
+    "mail": "multiaccueil.toutpetits@aduges.org",
+    "distance": 66621,
+    "latitude": 51.03315715571508,
+    "telephone": "0328596930",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILSOUBISE \"LES TOUT PETITS\"",
+    "resultStructId": "387901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'esplanade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.38132536317131,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12825201",
+    "mail": "pasteur@duges.org",
+    "distance": 66660,
+    "latitude": 51.01803737190858,
+    "telephone": "0328596906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie Les Lutins",
+    "resultStructId": "543601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue de l'egalite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3231059510045498,
+    "ville": "dunkerque",
+    "cp": "59640"
+  },
+  {
+    "resultId": "12576601",
+    "mail": "petiteenfance.rosendael@aduges.org",
+    "distance": 66956,
+    "latitude": 51.041177293586195,
+    "telephone": "0328254545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALIN'OURS- ADUGES",
+    "resultStructId": "2190",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square paul doumer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4020096054925952,
+    "ville": "dunkerque",
+    "cp": "59240"
+  },
+  {
+    "resultId": "12786931",
+    "mail": "halte.garderie@ville-saintpolsurmer.fr",
+    "distance": 66998,
+    "latitude": 51.02914546337823,
+    "telephone": "0328581696",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-GarderieMarcel BROUTIN",
+    "resultStructId": "7111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue colbert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3510786347197734,
+    "ville": "dunkerque",
+    "cp": "59430"
+  },
+  {
+    "resultId": "25100321",
+    "mail": "lesptitscoeurs@sacrecoeur-stpol.com",
+    "distance": 67016,
+    "latitude": 51.027801107123906,
+    "telephone": "0678599460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants \"Les P'tits Cœurs\"",
+    "resultStructId": "29002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "214 boulevard de larepublique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.345408497197438,
+    "ville": "dunkerque",
+    "cp": "59430"
+  },
+  {
+    "resultId": "12576902",
+    "mail": "multiaccueil.tenteverte@aduges.org",
+    "distance": 67142,
+    "latitude": 51.04860486651071,
+    "telephone": "0328596945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS FILOUS",
+    "resultStructId": "596101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 rue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.428602887094084,
+    "ville": "dunkerque",
+    "cp": "59240"
+  },
+  {
+    "resultId": "12792048",
+    "mail": "multiaccueil.bancvert@aduges.org",
+    "distance": 67216,
+    "latitude": 51.03775585213683,
+    "telephone": "0328596914",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Banc Vert \" les Bout'Choux\"",
+    "resultStructId": "7230",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3766550217950977,
+    "ville": "dunkerque",
+    "cp": "59640"
+  },
+  {
+    "resultId": "23051311",
+    "mail": "afmacs@wanadoo.fr",
+    "distance": 67216,
+    "latitude": 51.03775585213683,
+    "telephone": "0328215684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie les P'tits Mousses",
+    "resultStructId": "20416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 rue 38 rue de l'",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3766550217950977,
+    "ville": "dunkerque",
+    "cp": "59430"
+  },
+  {
+    "resultId": "12576945",
+    "mail": "glacis@aduges.org",
+    "distance": 67512,
+    "latitude": 51.043645713773046,
+    "telephone": "0328633715",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ÎLEAUX ENFANTS - ADUGES",
+    "resultStructId": "2198",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de l'adroit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.389483213893545,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "54770815",
+    "mail": "multiaccueil.glacis@aduges.org",
+    "distance": 67520,
+    "latitude": 51.04369840230129,
+    "telephone": "0328596395",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLES GLACIS",
+    "resultStructId": "596202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du jaguar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3893596248035536,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12822492",
+    "mail": "creche.familiale@aduges.org",
+    "distance": 67523,
+    "latitude": 51.04374153196,
+    "telephone": "0328596937",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "7938",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du jaguar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3894470609482434,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12831479",
+    "mail": "creche.glacis@aduges.org",
+    "distance": 67523,
+    "latitude": 51.04374153196,
+    "telephone": "0328596935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective des Glacis",
+    "resultStructId": "8147",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du jaguar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3894470609482434,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12990372",
+    "mail": "multiaccueil.grandlarge@aduges.org",
+    "distance": 67618,
+    "latitude": 51.041969568351405,
+    "telephone": "0328596941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil du Grand Large",
+    "resultStructId": "596303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue degans",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.378077263697828,
+    "ville": "dunkerque",
+    "cp": "59140"
+  },
+  {
+    "resultId": "12577031",
+    "mail": "petiteenfance.meridien@aduges.org",
+    "distance": 67810,
+    "latitude": 51.051183268439814,
+    "telephone": "0328699040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE - LES P'TITS AMIS",
+    "resultStructId": "2200",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue de cambrai",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.410556382217732,
+    "ville": "dunkerque",
+    "cp": "59240"
+  }
+]

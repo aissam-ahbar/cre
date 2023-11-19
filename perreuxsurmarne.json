@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "45682921",
+    "mail": "",
+    "distance": 149632,
+    "latitude": 48.84030465236553,
+    "telephone": "0148715386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BELLEVUE",
+    "resultStructId": "299801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee de bellevue 94170 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5085682670843985,
+    "ville": "perreuxsurmarne",
+    "cp": ""
+  },
+  {
+    "resultId": "45688550",
+    "mail": "",
+    "distance": 150060,
+    "latitude": 48.8512590809297,
+    "telephone": "0143247444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEILLES PETITS JONCS MARINS",
+    "resultStructId": "300102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue gallieni 94170 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5038951763546993,
+    "ville": "perreuxsurmarne",
+    "cp": ""
+  }
+]

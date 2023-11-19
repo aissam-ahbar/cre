@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59147791",
+    "mail": "test@free.fr",
+    "distance": 16032,
+    "latitude": -12.733375790104752,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SDTEST",
+    "resultStructId": "693118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.20366741391287,
+    "ville": "koungou",
+    "cp": "97600"
+  },
+  {
+    "resultId": "58433694",
+    "mail": "testcnaf@free.fr",
+    "distance": 16032,
+    "latitude": -12.733375790104752,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "testcnaf",
+    "resultStructId": "685504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruetest",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.20366741391287,
+    "ville": "koungou",
+    "cp": "97600"
+  },
+  {
+    "resultId": "59147791",
+    "mail": "test@free.fr",
+    "distance": 1425239,
+    "latitude": -12.733375790104752,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SDTEST",
+    "resultStructId": "693118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.20366741391287,
+    "ville": "koungou",
+    "cp": "97600"
+  },
+  {
+    "resultId": "58433694",
+    "mail": "testcnaf@free.fr",
+    "distance": 1425239,
+    "latitude": -12.733375790104752,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "testcnaf",
+    "resultStructId": "685504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruetest",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.20366741391287,
+    "ville": "koungou",
+    "cp": "97600"
+  }
+]

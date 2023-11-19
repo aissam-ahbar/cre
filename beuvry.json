@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "46309465",
+    "mail": "ptitsloups@micro-baby.com",
+    "distance": 5971,
+    "latitude": 50.5218244860107,
+    "telephone": "0674574783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPtits Loups",
+    "resultStructId": "320901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place roger salengro",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6825523332136525,
+    "ville": "beuvry",
+    "cp": "62660"
+  },
+  {
+    "resultId": "13020738",
+    "mail": "contact@babilou.com",
+    "distance": 6046,
+    "latitude": 50.52218339248354,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBeuvry Marais",
+    "resultStructId": "543402",
+    "omegaId": "14732",
+    "avip": false,
+    "adresse": "256 chemin du marais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6812826491748627,
+    "ville": "beuvry",
+    "cp": "62660"
+  }
+]

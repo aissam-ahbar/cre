@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12640542",
+    "mail": "creche@mairie-pierres.fr",
+    "distance": 176632,
+    "latitude": 48.58954053391124,
+    "telephone": "0237230044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pierrots",
+    "resultStructId": "3677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue michel delattre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5609930982438969,
+    "ville": "pierres",
+    "cp": "28130"
+  },
+  {
+    "resultId": "12640542",
+    "mail": "creche@mairie-pierres.fr",
+    "distance": 156956,
+    "latitude": 48.58954053391124,
+    "telephone": "0237230044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Pierrots",
+    "resultStructId": "3677",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue michel delattre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5609930982438969,
+    "ville": "pierres",
+    "cp": "28130"
+  }
+]

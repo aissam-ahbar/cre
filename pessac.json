@@ -1,0 +1,458 @@
+[
+  {
+    "resultId": "12688366",
+    "mail": "voyagesdeleo@liveli.fr",
+    "distance": 58587,
+    "latitude": 44.78208955760887,
+    "telephone": "0532095555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESVOYAGES DE LEO",
+    "resultStructId": "683004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue leonard de vinci",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6548099167650837,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12552650",
+    "mail": "ccas-secretariatspe@mairie-pessac.fr",
+    "distance": 58694,
+    "latitude": 44.79513015706468,
+    "telephone": "0557936785",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Serpentine",
+    "resultStructId": "66002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6292980414797549,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "43255947",
+    "mail": "creche.lesviolettes@people-and-baby.com",
+    "distance": 58742,
+    "latitude": 44.79463884953737,
+    "telephone": "0769658677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESVIOLETTES",
+    "resultStructId": "235513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des violettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6315510647168588,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12845935",
+    "mail": "pessac@lpcr.fr",
+    "distance": 58807,
+    "latitude": 44.7847458800016,
+    "telephone": "0952429885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8483",
+    "omegaId": "2187",
+    "avip": false,
+    "adresse": "8 rue gustave hertz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6542682896500004,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12506210",
+    "mail": "nathalie.baleste@coquelicot-pessac.fr",
+    "distance": 58821,
+    "latitude": 44.79147462280621,
+    "telephone": "0557269293",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil COQUELICOT",
+    "resultStructId": "700203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue paul eluard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6403744176083441,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12607948",
+    "mail": "",
+    "distance": 59017,
+    "latitude": 44.78258124135488,
+    "telephone": "0556795679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHECHANTERELLE HAUT LEVEQUE",
+    "resultStructId": "2919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de magellan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6633507005310594,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12607991",
+    "mail": "",
+    "distance": 59337,
+    "latitude": 44.789467600807036,
+    "telephone": "0556795679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEA PETITS PAS XAVIER ARNOZAN",
+    "resultStructId": "2920",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue de haut leveque",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6564280497731567,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12561809",
+    "mail": "lespetitspetons@free.fr",
+    "distance": 59442,
+    "latitude": 44.79617238788649,
+    "telephone": "0556361422",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PETITS PETONS",
+    "resultStructId": "154605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue ferdinand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6446131537093857,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12554456",
+    "mail": "accueil-famille@mairie-pessac.fr",
+    "distance": 59507,
+    "latitude": 44.80364306250103,
+    "telephone": "0557936800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale de Pessac",
+    "resultStructId": "691603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 boulevard saint martin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6295217659138532,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12649873",
+    "mail": "",
+    "distance": 59734,
+    "latitude": 44.80570454737606,
+    "telephone": "0557876371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheinter entreprises de Pessac",
+    "resultStructId": "3894",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 avenue leonarde de vincieuroparc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.630277120286104,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12552779",
+    "mail": "petitspoucets@mairie-pessac.fr",
+    "distance": 59762,
+    "latitude": 44.796774338037565,
+    "telephone": "0557936783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petits Poucets",
+    "resultStructId": "65903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee des cigales",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6507404891007137,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "54994132",
+    "mail": "",
+    "distance": 59767,
+    "latitude": 44.81168675447501,
+    "telephone": "0972846030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BLABLABABY HAUT BRION",
+    "resultStructId": "605101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "132 bis avenue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6170450090185419,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "54984587",
+    "mail": "",
+    "distance": 59831,
+    "latitude": 44.806900560511615,
+    "telephone": "0556179653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BLABLABABY",
+    "resultStructId": "604601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.629890610318435,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "21409861",
+    "mail": "",
+    "distance": 59832,
+    "latitude": 44.806940291113435,
+    "telephone": "0667068160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BLABLA BABY",
+    "resultStructId": "15502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6298200831205765,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12552822",
+    "mail": "calune@mairie-pessac.fr",
+    "distance": 60269,
+    "latitude": 44.8105120875987,
+    "telephone": "0557936786",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil CALUNE",
+    "resultStructId": "65702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6322131457988737,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "18181802",
+    "mail": "cazalouette@mairie-pessac.fr",
+    "distance": 60609,
+    "latitude": 44.79722956489356,
+    "telephone": "0557936787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL CAZALOUETTE",
+    "resultStructId": "65801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 avenue pierre castaing",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6690055354156711,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "21350522",
+    "mail": "alafontaine@ub4kids.com",
+    "distance": 60627,
+    "latitude": 44.806874180476136,
+    "telephone": "0971403281",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LE CABANON",
+    "resultStructId": "676316",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue du pont de l'orient",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6489441009115724,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "57013056",
+    "mail": "labricotier@ub4kids.com",
+    "distance": 60893,
+    "latitude": 44.81253718781223,
+    "telephone": "0557653667",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Abri-Côtier",
+    "resultStructId": "670901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "53avenue noes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.642638086970883,
+    "ville": "pessac",
+    "cp": "33600"
+  },
+  {
+    "resultId": "12490249",
+    "mail": "ladentdelait@club-internet.fr",
+    "distance": 61562,
+    "latitude": 44.7990634656671,
+    "telephone": "0556368004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LA DENT DE LAIT",
+    "resultStructId": "182",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue des arbousiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6863667525624914,
+    "ville": "pessac",
+    "cp": "33600"
+  }
+]

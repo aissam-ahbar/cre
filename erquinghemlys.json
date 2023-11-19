@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12813376",
+    "mail": "haltegarderie@ville-erquinghem-lys.fr",
+    "distance": 24299,
+    "latitude": 50.6766527808794,
+    "telephone": "0320773255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes Chrysalides",
+    "resultStructId": "466301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120 rue delpierre 59193",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8456065185263792,
+    "ville": "erquinghemlys",
+    "cp": ""
+  },
+  {
+    "resultId": "12997682",
+    "mail": "creche-hapili-sainghin-erquinghem@leaetleo.com",
+    "distance": 24393,
+    "latitude": 50.677515123675455,
+    "telephone": "0320680660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HapiliErquinghem-Lys",
+    "resultStructId": "688128",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 place general de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8458164760542064,
+    "ville": "erquinghemlys",
+    "cp": "59193"
+  }
+]

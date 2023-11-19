@@ -1,0 +1,292 @@
+[
+  {
+    "resultId": "12824298",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 167408,
+    "latitude": 49.37701489613138,
+    "telephone": "0235347591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYBORDS DE SEINE",
+    "resultStructId": "696937",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "rue duclos tellier 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.116301421807231,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "12819310",
+    "mail": "les.ptits.loups76@gmail.com",
+    "distance": 167573,
+    "latitude": 49.37981535341689,
+    "telephone": "0954207203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS",
+    "resultStructId": "689615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue felling - centre commercial 76800st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1082930589080913,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "12819353",
+    "mail": "stopenfants.csf@gmail.com",
+    "distance": 167573,
+    "latitude": 49.37981535341689,
+    "telephone": "0235641910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUT'CHOU",
+    "resultStructId": "689616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du bic auber - immeuble cave antonin76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1082930589080913,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38319963",
+    "mail": "venus@micro-baby.com",
+    "distance": 168034,
+    "latitude": 49.39860530986539,
+    "telephone": "0232940344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VENUS",
+    "resultStructId": "171702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue ernest renan 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0685693212528184,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38865683",
+    "mail": "crecheaf@ser76.com",
+    "distance": 168075,
+    "latitude": 49.39715753011568,
+    "telephone": "0235668610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE MAISON DE LA PETITE ENFANCE ANNE FRANK",
+    "resultStructId": "179603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rueandre bourvil 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0700450616106691,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38849186",
+    "mail": "crecheaf@ser76.com",
+    "distance": 168075,
+    "latitude": 49.39715753011568,
+    "telephone": "0235668610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "maisonde la petite enfance Anne Frank",
+    "resultStructId": "687604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue andre bourvil76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0700450616106691,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38319963",
+    "mail": "venus@micro-baby.com",
+    "distance": 126550,
+    "latitude": 49.39860530986539,
+    "telephone": "0232940344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "VENUS",
+    "resultStructId": "171702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue ernest renan 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0685693212528184,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38865683",
+    "mail": "crecheaf@ser76.com",
+    "distance": 126583,
+    "latitude": 49.39715753011568,
+    "telephone": "0235668610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE MAISON DE LA PETITE ENFANCE ANNE FRANK",
+    "resultStructId": "179603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rueandre bourvil 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0700450616106691,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "38849186",
+    "mail": "crecheaf@ser76.com",
+    "distance": 126583,
+    "latitude": 49.39715753011568,
+    "telephone": "0235668610",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "maisonde la petite enfance Anne Frank",
+    "resultStructId": "687604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue andre bourvil76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0700450616106691,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "12819310",
+    "mail": "les.ptits.loups76@gmail.com",
+    "distance": 128378,
+    "latitude": 49.37981535341689,
+    "telephone": "0954207203",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS LOUPS",
+    "resultStructId": "689615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue felling - centre commercial 76800st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1082930589080913,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "12819353",
+    "mail": "stopenfants.csf@gmail.com",
+    "distance": 128378,
+    "latitude": 49.37981535341689,
+    "telephone": "0235641910",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUT'CHOU",
+    "resultStructId": "689616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du bic auber - immeuble cave antonin76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1082930589080913,
+    "ville": "durouvray",
+    "cp": ""
+  },
+  {
+    "resultId": "12824298",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 128797,
+    "latitude": 49.37701489613138,
+    "telephone": "0235347591",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYBORDS DE SEINE",
+    "resultStructId": "696937",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "rue duclos tellier 76800 st etienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.116301421807231,
+    "ville": "durouvray",
+    "cp": ""
+  }
+]

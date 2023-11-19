@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12720315",
+    "mail": "lespitchounsabbevillois@orange.fr",
+    "distance": 73550,
+    "latitude": 50.10766506683892,
+    "telephone": "0322245429",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LESPITCHOUNS ABBEVILLOIS",
+    "resultStructId": "498901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2/1 rue des bouleaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.856477151671088,
+    "ville": "abbeville",
+    "cp": "80100"
+  },
+  {
+    "resultId": "12746726",
+    "mail": "microcrechelespoussins@yahoo.fr",
+    "distance": 74353,
+    "latitude": 50.10466024994941,
+    "telephone": "0651386783",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPoussins (Micro-crèche PAJE)",
+    "resultStructId": "255701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue du moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8460603669195577,
+    "ville": "abbeville",
+    "cp": "80100"
+  },
+  {
+    "resultId": "13002412",
+    "mail": "multiopaline@ca-baiedesomme.fr",
+    "distance": 74508,
+    "latitude": 50.116303507192306,
+    "telephone": "0322203720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ôPALINE",
+    "resultStructId": "255203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue de la petite cascade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8315963926235994,
+    "ville": "abbeville",
+    "cp": "80100"
+  },
+  {
+    "resultId": "13002369",
+    "mail": "multiindigo@ca-baiedesomme.fr",
+    "distance": 75369,
+    "latitude": 50.10631361827334,
+    "telephone": "0322232104",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "INDIGô",
+    "resultStructId": "255202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "quaidu pont neuf",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8272832883684622,
+    "ville": "abbeville",
+    "cp": "80100"
+  },
+  {
+    "resultId": "32970562",
+    "mail": "lespetitsanges18@gmail.com",
+    "distance": 75593,
+    "latitude": 50.10357005695214,
+    "telephone": "0651386789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS ANGES",
+    "resultStructId": "98029",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8263203958283474,
+    "ville": "abbeville",
+    "cp": "80100"
+  }
+]

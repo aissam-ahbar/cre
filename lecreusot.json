@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12594102",
+    "mail": "elodie.amri@ville-lecreusot.fr",
+    "distance": 52492,
+    "latitude": 46.80766649367421,
+    "telephone": "0385801434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "614901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "alleepierre de coubertin 71200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.413361002865859,
+    "ville": "lecreusot",
+    "cp": ""
+  },
+  {
+    "resultId": "12698858",
+    "mail": "elodie.amri@ville-lecreusot.fr",
+    "distance": 52492,
+    "latitude": 46.80766649367421,
+    "telephone": "0385801434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "615001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee pierre de coubertin 71200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.413361002865859,
+    "ville": "lecreusot",
+    "cp": ""
+  },
+  {
+    "resultId": "59760810",
+    "mail": "sylviabois78@outlook.fr",
+    "distance": 53916,
+    "latitude": 46.79400461558205,
+    "telephone": "0611624313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Le P'tit Epad\"",
+    "resultStructId": "699707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du canada 71200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.4137725526558365,
+    "ville": "lecreusot",
+    "cp": ""
+  }
+]

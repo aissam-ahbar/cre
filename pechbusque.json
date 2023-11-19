@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12488529",
+    "mail": "petite-enfance.nord@sicoval.fr",
+    "distance": 163656,
+    "latitude": 43.52676048998015,
+    "telephone": "0789206834",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Couquinous",
+    "resultStructId": "94203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 grande rue de la mairie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4596992036356047,
+    "ville": "pechbusque",
+    "cp": "31320"
+  },
+  {
+    "resultId": "60368061",
+    "mail": "petite-enfance.ouest@sicoval.fr",
+    "distance": 163693,
+    "latitude": 43.52693626134232,
+    "telephone": "0561754465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BEBESOLEIL",
+    "resultStructId": "710414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 grand rue de la mairie - bp 31320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4604086342040952,
+    "ville": "pechbusque",
+    "cp": "31320"
+  }
+]

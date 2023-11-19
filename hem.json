@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "58818009",
+    "mail": "cre-618@babilou.com",
+    "distance": 38300,
+    "latitude": 50.65276178290511,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouHem Gabert",
+    "resultStructId": "689227",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee gabert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1820594971564344,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "58816440",
+    "mail": "cre-619@babilou.com",
+    "distance": 38507,
+    "latitude": 50.654240724636686,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouHem Droulers",
+    "resultStructId": "689212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 cite droulers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.184081245691478,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12975967",
+    "mail": "hem@rigolocommelavie.fr",
+    "distance": 38986,
+    "latitude": 50.65568541841655,
+    "telephone": "0320807569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE HEM",
+    "resultStructId": "11507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106 rue jules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.190653274270091,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12610098",
+    "mail": "rclv004@rigolocommelavie.fr",
+    "distance": 38986,
+    "latitude": 50.65568541841655,
+    "telephone": "0320807569",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"RIGOLO COMME LA VIE\" (Jules Guesde)",
+    "resultStructId": "691323",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106 ruejules guesde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.190653274270091,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12621622",
+    "mail": "thomas.noguera@ville-hem.fr",
+    "distance": 39009,
+    "latitude": 50.6703989837392,
+    "telephone": "0320829633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Coquin-Coquine",
+    "resultStructId": "703812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2bis rue racine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.176217775113351,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12606572",
+    "mail": "coord.petiteenfance@espacevie-hem.fr",
+    "distance": 39628,
+    "latitude": 50.66846814404552,
+    "telephone": "0320662320",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS TAMBOURS",
+    "resultStructId": "2887",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee saint exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.18875835318765,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "60058439",
+    "mail": "pauline.milhem@ville-hem.fr",
+    "distance": 39869,
+    "latitude": 50.66501827730174,
+    "telephone": "0320024932",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ruche",
+    "resultStructId": "703811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.196294511474038,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "60058588",
+    "mail": "anne-sophie.aubry@ville-hem.fr",
+    "distance": 39869,
+    "latitude": 50.66501827730174,
+    "telephone": "0320024932",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Tipi",
+    "resultStructId": "703810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.196294511474038,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "60058322",
+    "mail": "manon.maillart-cousin@ville-hem.fr",
+    "distance": 39869,
+    "latitude": 50.66501827730174,
+    "telephone": "0320024932",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Oasis",
+    "resultStructId": "703806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "124rue des ecoles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.196294511474038,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12550586",
+    "mail": "",
+    "distance": 39918,
+    "latitude": 50.66721554543642,
+    "telephone": "0320754962",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"FRIMOUSSES\"",
+    "resultStructId": "1585",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "258 avenue laennec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1949236894603277,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12824857",
+    "mail": "multiaccueil@cs3villes.fr",
+    "distance": 40338,
+    "latitude": 50.66989570702641,
+    "telephone": "0320754962",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil 3 villes",
+    "resultStructId": "7993",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "93 avenue schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.199299300548812,
+    "ville": "hem",
+    "cp": "59510"
+  },
+  {
+    "resultId": "12606529",
+    "mail": "",
+    "distance": 40338,
+    "latitude": 50.66989570702641,
+    "telephone": "0320753804",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE \"BOUT'CHOU\"",
+    "resultStructId": "2886",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "111/2 avenue schweitzer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.199299300548812,
+    "ville": "hem",
+    "cp": "59510"
+  }
+]

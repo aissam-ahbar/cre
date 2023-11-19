@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12839649",
+    "mail": "lapisteozetoiles@oclairdelune.fr",
+    "distance": 106242,
+    "latitude": 48.94430831878316,
+    "telephone": "0160613615",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Piste O Z'étoiles",
+    "resultStructId": "8337",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77 rue de conde 77260 la ferte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1291727285259934,
+    "ville": "sousjouarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12758508",
+    "mail": "",
+    "distance": 106579,
+    "latitude": 48.94944020541937,
+    "telephone": "0160220091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "14475",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue pierre marx 77260 la ferte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1261794536822336,
+    "ville": "sousjouarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12758766",
+    "mail": "stephanie.mazouz@lfsj.fr",
+    "distance": 106579,
+    "latitude": 48.94944020541937,
+    "telephone": "0160093276",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil",
+    "resultStructId": "85404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33rue pierre marx 77260 la ferte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1261794536822336,
+    "ville": "sousjouarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12758508",
+    "mail": "",
+    "distance": 171967,
+    "latitude": 48.94944020541937,
+    "telephone": "0160220091",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "14475",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue pierre marx 77260 la ferte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1261794536822336,
+    "ville": "sousjouarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12758766",
+    "mail": "stephanie.mazouz@lfsj.fr",
+    "distance": 171967,
+    "latitude": 48.94944020541937,
+    "telephone": "0160093276",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil",
+    "resultStructId": "85404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33rue pierre marx 77260 la ferte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1261794536822336,
+    "ville": "sousjouarre",
+    "cp": ""
+  }
+]

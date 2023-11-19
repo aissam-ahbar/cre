@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12744232",
+    "mail": "dominique.lurson@cc-paysdopale.fr",
+    "distance": 67333,
+    "latitude": 50.85887330992075,
+    "telephone": "0321007202",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Ardres",
+    "resultStructId": "494901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue fernand buscot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9822844865800981,
+    "ville": "ardres",
+    "cp": "62610"
+  }
+]

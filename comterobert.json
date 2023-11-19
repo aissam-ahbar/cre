@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12758293",
+    "mail": "crechecollective@briecomterobert.fr",
+    "distance": 199653,
+    "latitude": 48.687605103892956,
+    "telephone": "0160625495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTir-Lipopette",
+    "resultStructId": "349202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du tir 77170 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6083243273715935,
+    "ville": "comterobert",
+    "cp": ""
+  },
+  {
+    "resultId": "12758336",
+    "mail": "multiaccueil@briecomterobert.fr",
+    "distance": 200195,
+    "latitude": 48.690804887043555,
+    "telephone": "0160621588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAnne-Marie Guittard",
+    "resultStructId": "341301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du parc 77170 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6163869705433624,
+    "ville": "comterobert",
+    "cp": ""
+  },
+  {
+    "resultId": "12758336",
+    "mail": "multiaccueil@briecomterobert.fr",
+    "distance": 141523,
+    "latitude": 48.690804887043555,
+    "telephone": "0160621588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAnne-Marie Guittard",
+    "resultStructId": "341301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du parc 77170 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6163869705433624,
+    "ville": "comterobert",
+    "cp": ""
+  },
+  {
+    "resultId": "12758293",
+    "mail": "crechecollective@briecomterobert.fr",
+    "distance": 142130,
+    "latitude": 48.687605103892956,
+    "telephone": "0160625495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheTir-Lipopette",
+    "resultStructId": "349202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du tir 77170 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6083243273715935,
+    "ville": "comterobert",
+    "cp": ""
+  }
+]

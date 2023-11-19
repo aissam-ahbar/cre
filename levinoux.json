@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12866016",
+    "mail": "",
+    "distance": 437656,
+    "latitude": 45.21703434163354,
+    "telephone": "0476752178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil l'Arc-en-ciel",
+    "resultStructId": "8950",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2835 rue du petit lac 38950 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693483319923709,
+    "ville": "levinoux",
+    "cp": ""
+  },
+  {
+    "resultId": "12883517",
+    "mail": "multiaccueil@smlv.fr",
+    "distance": 437677,
+    "latitude": 45.21643029639259,
+    "telephone": "0476561155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Martin le Vinoux",
+    "resultStructId": "83502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "454 rue felix faure 38950 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692046808278079,
+    "ville": "levinoux",
+    "cp": ""
+  },
+  {
+    "resultId": "12883517",
+    "mail": "multiaccueil@smlv.fr",
+    "distance": 143104,
+    "latitude": 45.21643029639259,
+    "telephone": "0476561155",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Martin le Vinoux",
+    "resultStructId": "83502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "454 rue felix faure 38950 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692046808278079,
+    "ville": "levinoux",
+    "cp": ""
+  },
+  {
+    "resultId": "12866016",
+    "mail": "",
+    "distance": 143147,
+    "latitude": 45.21703434163354,
+    "telephone": "0476752178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil l'Arc-en-ciel",
+    "resultStructId": "8950",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2835 rue du petit lac 38950 stmartin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.693483319923709,
+    "ville": "levinoux",
+    "cp": ""
+  }
+]

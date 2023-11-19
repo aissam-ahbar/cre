@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "38281523",
+    "mail": "eveilandgo@gmail.com",
+    "distance": 183503,
+    "latitude": 48.96014811716076,
+    "telephone": "0983868307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheEveil and Go 1",
+    "resultStructId": "170808",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue de vernouillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9950816901645725,
+    "ville": "medan",
+    "cp": "78670"
+  },
+  {
+    "resultId": "38281480",
+    "mail": "eveilandgo@gmail.com",
+    "distance": 183595,
+    "latitude": 48.95208348051018,
+    "telephone": "0986701712",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheEveil and Go 2",
+    "resultStructId": "170809",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis rue rue de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9963323981349101,
+    "ville": "medan",
+    "cp": "78670"
+  }
+]

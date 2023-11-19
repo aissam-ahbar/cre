@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "21411671",
+    "mail": "lesartistescalins@gmail.com",
+    "distance": 76123,
+    "latitude": 44.97376334807008,
+    "telephone": "0674385065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES ARTISTES CALINS",
+    "resultStructId": "15510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 chemin du petit feydieu33290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6251232379711545,
+    "ville": "ludonmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "12534934",
+    "mail": "petitsbouchons@medoc-estuaire.fr",
+    "distance": 76285,
+    "latitude": 44.9816572984578,
+    "telephone": "0556588553",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES PETITS BOUCHONS",
+    "resultStructId": "107201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de la longua paloumey33290",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6043305295129506,
+    "ville": "ludonmedoc",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13019612",
+    "mail": "creche@avant-monts.fr",
+    "distance": 115061,
+    "latitude": 43.43810114596714,
+    "telephone": "0467490079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Colombié",
+    "resultStructId": "428101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de l'estacarede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.208897686814468,
+    "ville": "puimisson",
+    "cp": "34480"
+  },
+  {
+    "resultId": "13019612",
+    "mail": "creche@avant-monts.fr",
+    "distance": 58268,
+    "latitude": 43.43810114596714,
+    "telephone": "0467490079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLe Colombié",
+    "resultStructId": "428101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de l'estacarede",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.208897686814468,
+    "ville": "puimisson",
+    "cp": "34480"
+  }
+]

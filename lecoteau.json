@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12551532",
+    "mail": "loupiots.ileauxenfants@hotmail.fr",
+    "distance": 135065,
+    "latitude": 46.03149557534226,
+    "telephone": "0477714837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesp'tits Loupiots",
+    "resultStructId": "206001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue carnot 42120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.0834758186573,
+    "ville": "lecoteau",
+    "cp": ""
+  },
+  {
+    "resultId": "12572473",
+    "mail": "centresociallecoteau@wanadoo.fr",
+    "distance": 135772,
+    "latitude": 46.02502733904304,
+    "telephone": "0477682868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie La Souris Verte",
+    "resultStructId": "2094",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue auguste gelin 42120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.08737346741275,
+    "ville": "lecoteau",
+    "cp": ""
+  },
+  {
+    "resultId": "12551575",
+    "mail": "associationileauxenfants@hotmail.fr",
+    "distance": 135855,
+    "latitude": 46.02414334363368,
+    "telephone": "0477716740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Ileaux enfants",
+    "resultStructId": "1608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 boulevard charles gallet 42120",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.09311592546179,
+    "ville": "lecoteau",
+    "cp": ""
+  }
+]

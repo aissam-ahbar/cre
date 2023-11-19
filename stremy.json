@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12600337",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 73580,
+    "latitude": 46.770105671435886,
+    "telephone": "0385425460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Aquarelle\"",
+    "resultStructId": "668804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue d'ottweiller 71100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82885784991049,
+    "ville": "stremy",
+    "cp": ""
+  },
+  {
+    "resultId": "12600380",
+    "mail": "service.petiteenfance@legrandchalon.fr",
+    "distance": 74437,
+    "latitude": 46.76271876914199,
+    "telephone": "0385909041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche\"Papillon\"",
+    "resultStructId": "668802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue roger gauthier 71100",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.833856167323869,
+    "ville": "stremy",
+    "cp": ""
+  }
+]

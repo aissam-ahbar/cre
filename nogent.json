@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12807356",
+    "mail": "admr.apetitpas@orange.fr",
+    "distance": 123684,
+    "latitude": 48.02155735585518,
+    "telephone": "0325029806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE'LA COURTE ECHELLE\"",
+    "resultStructId": "7586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route de vitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.33555190160151,
+    "ville": "nogent",
+    "cp": "52800"
+  },
+  {
+    "resultId": "12807399",
+    "mail": "admr.apetitpas@orange.fr",
+    "distance": 124448,
+    "latitude": 48.02709165271626,
+    "telephone": "0325025887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE\"A PETITS PAS\"",
+    "resultStructId": "7587",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3418395064401505,
+    "ville": "nogent",
+    "cp": "52800"
+  },
+  {
+    "resultId": "12807399",
+    "mail": "admr.apetitpas@orange.fr",
+    "distance": 97981,
+    "latitude": 48.02709165271626,
+    "telephone": "0325025887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE\"A PETITS PAS\"",
+    "resultStructId": "7587",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.3418395064401505,
+    "ville": "nogent",
+    "cp": "52800"
+  },
+  {
+    "resultId": "12807356",
+    "mail": "admr.apetitpas@orange.fr",
+    "distance": 98198,
+    "latitude": 48.02155735585518,
+    "telephone": "0325029806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICRO-CRECHE'LA COURTE ECHELLE\"",
+    "resultStructId": "7586",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 route de vitry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.33555190160151,
+    "ville": "nogent",
+    "cp": "52800"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12856470",
+    "mail": "colinmaillard.paysdegexagglo@leolagrange.org",
+    "distance": 180715,
+    "latitude": 46.249640889959444,
+    "telephone": "0450202368",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL COLIN MAILLARD",
+    "resultStructId": "675813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue lucie aubrac 01630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.028243180682054,
+    "ville": "stgenispouilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12950941",
+    "mail": "multi-accueil@paysdegexagglo.fr",
+    "distance": 181372,
+    "latitude": 46.24022276677179,
+    "telephone": "0450282328",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PITCHOUNS",
+    "resultStructId": "115512",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de bourdigny 01630",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.028303279945594,
+    "ville": "stgenispouilly",
+    "cp": ""
+  }
+]

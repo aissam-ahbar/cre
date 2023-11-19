@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12564002",
+    "mail": "minipouss4@orange.fr",
+    "distance": 75938,
+    "latitude": 45.01409572039159,
+    "telephone": "0557696446",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES MINI POUSS'",
+    "resultStructId": "1897",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue jean elien jambon 33660camps sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.030094579262820605,
+    "ville": "lisle",
+    "cp": ""
+  },
+  {
+    "resultId": "13050666",
+    "mail": "ase24@orange.fr",
+    "distance": 103420,
+    "latitude": 45.1148583158378,
+    "telephone": "0553540240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ISLEAUX CALINS",
+    "resultStructId": "13244",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue du stade 24110 st leon sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5020394608657521,
+    "ville": "lisle",
+    "cp": ""
+  },
+  {
+    "resultId": "13050150",
+    "mail": "creche.lessourisvertes@agglo-perigueux.fr",
+    "distance": 115889,
+    "latitude": 45.18604265581179,
+    "telephone": "0553041212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESSOURIS VERTES",
+    "resultStructId": "13232",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue des ecoles 24430 marsac sur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6340515925713185,
+    "ville": "lisle",
+    "cp": ""
+  }
+]

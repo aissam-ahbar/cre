@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12908457",
+    "mail": "creche.sources.ecully@ville-ecully.fr",
+    "distance": 168771,
+    "latitude": 45.791135849374925,
+    "telephone": "0478351326",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilmunicipal Les Sources",
+    "resultStructId": "83005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 chemin de montlouis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7858294876773115,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "12908543",
+    "mail": "accueil@csecully.fr",
+    "distance": 168771,
+    "latitude": 45.791135849374925,
+    "telephone": "0478475008",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loustics",
+    "resultStructId": "83201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 chemin de montlouis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7858294876773115,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "12924582",
+    "mail": "contact@babilou.com",
+    "distance": 169172,
+    "latitude": 45.784680143276006,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouEcully Debussy",
+    "resultStructId": "412503",
+    "omegaId": "16035",
+    "avip": false,
+    "adresse": "4 c allee claude debussy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.772551074454585,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "12908500",
+    "mail": "bergamote@ville-ecully.fr",
+    "distance": 169606,
+    "latitude": 45.77995628778638,
+    "telephone": "0478336072",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBergamote",
+    "resultStructId": "83004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue guy de collongue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.769200007375239,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "12908629",
+    "mail": "trottinette@ville-ecully.fr",
+    "distance": 169980,
+    "latitude": 45.77798337429502,
+    "telephone": "0478333661",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTrottinette",
+    "resultStructId": "83006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bis chemin de charriere blanche",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.776837283231704,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "12908586",
+    "mail": "crechelepetitpommier@gmail.com",
+    "distance": 170324,
+    "latitude": 45.775406656605554,
+    "telephone": "0478334004",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Petit Pommier",
+    "resultStructId": "83102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 allee des tullistes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.780051334473344,
+    "ville": "ecully",
+    "cp": "69130"
+  },
+  {
+    "resultId": "29591787",
+    "mail": "valdouest@creche-attitude.fr",
+    "distance": 170928,
+    "latitude": 45.770517788780495,
+    "telephone": "0472193150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Crèche Attitude Val d'Ouest",
+    "resultStructId": "54202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de lavernique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7838488602257385,
+    "ville": "ecully",
+    "cp": "69130"
+  }
+]

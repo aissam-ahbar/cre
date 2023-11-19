@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12618268",
+    "mail": "lestagazous@ville-marcheprime.fr",
+    "distance": 62278,
+    "latitude": 44.69965880116182,
+    "telephone": "0556887426",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESTAGAZOUS",
+    "resultStructId": "93101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 avenue leon de lagrange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8477833256026872,
+    "ville": "marcheprime",
+    "cp": "33380"
+  },
+  {
+    "resultId": "57323743",
+    "mail": "laurec@ub4kids.com",
+    "distance": 62290,
+    "latitude": 44.6902887188136,
+    "telephone": "0556207407",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits pas",
+    "resultStructId": "674529",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 avenue de la cote d'argent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8583317151997206,
+    "ville": "marcheprime",
+    "cp": "33380"
+  },
+  {
+    "resultId": "56779076",
+    "mail": "infos.dmum@gmail.com",
+    "distance": 62319,
+    "latitude": 44.69102356001232,
+    "telephone": "0661660212",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "DESSINE-MOIUN MOUTON",
+    "resultStructId": "663601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "64 a avenue de la cote d'argent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.857991129035812,
+    "ville": "marcheprime",
+    "cp": "33380"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "resultId": "13027145",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 222795,
+    "latitude": 43.77548748697472,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAMinute papillon",
+    "resultStructId": "578002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue saint michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.50531629344988,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13027188",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 222926,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFJonathan le goéland",
+    "resultStructId": "577901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13026930",
+    "mail": "ccas-menton@ville-menton.fr",
+    "distance": 222926,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit prince",
+    "resultStructId": "577805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13027360",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 222926,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MANathalie Masse",
+    "resultStructId": "577806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13024909",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 224337,
+    "latitude": 43.78613617348057,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAChat perché",
+    "resultStructId": "578001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des moulins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.4929354931802745,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "57078998",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 225042,
+    "latitude": 43.793106023571234,
+    "telephone": "0493181430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCL'oiseau bleu",
+    "resultStructId": "671501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77-81 route de sospel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.491260190960328,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "57941185",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 225754,
+    "latitude": 43.79972878218814,
+    "telephone": "0492105330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes P'tits Citrons",
+    "resultStructId": "681001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue des etoiles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.488756000416295,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "57941185",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 115659,
+    "latitude": 43.79972878218814,
+    "telephone": "0492105330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALes P'tits Citrons",
+    "resultStructId": "681001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue des etoiles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.488756000416295,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "57078998",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 115977,
+    "latitude": 43.793106023571234,
+    "telephone": "0493181430",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CCL'oiseau bleu",
+    "resultStructId": "671501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "77-81 route de sospel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.491260190960328,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13024909",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 116240,
+    "latitude": 43.78613617348057,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAChat perché",
+    "resultStructId": "578001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse des moulins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.4929354931802745,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13027188",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 117235,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SAFJonathan le goéland",
+    "resultStructId": "577901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13026930",
+    "mail": "ccas-menton@ville-menton.fr",
+    "distance": 117235,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALe petit prince",
+    "resultStructId": "577805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13027360",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 117235,
+    "latitude": 43.7756918035649,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MANathalie Masse",
+    "resultStructId": "577806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 promenade marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.502941134308237,
+    "ville": "menton",
+    "cp": "06500"
+  },
+  {
+    "resultId": "13027145",
+    "mail": "ccas-enfance@ville-menton.fr",
+    "distance": 117427,
+    "latitude": 43.77548748697472,
+    "telephone": "0492417648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAMinute papillon",
+    "resultStructId": "578002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue saint michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.50531629344988,
+    "ville": "menton",
+    "cp": "06500"
+  }
+]

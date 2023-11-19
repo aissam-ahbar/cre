@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12595908",
+    "mail": "passerelle@ville-saintes.fr",
+    "distance": 157071,
+    "latitude": 45.73045366564489,
+    "telephone": "0546745977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil la passerelle",
+    "resultStructId": "2639",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 bis avenue de bellevue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6426837245777482,
+    "ville": "saintes",
+    "cp": "17100"
+  },
+  {
+    "resultId": "12706555",
+    "mail": "assoboiffbelle@wanadoo.fr",
+    "distance": 157594,
+    "latitude": 45.73425336448357,
+    "telephone": "0546741396",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AssociationBoiffiers - Bellevue",
+    "resultStructId": "689417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 bis cours pierre henri",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6495003420700952,
+    "ville": "saintes",
+    "cp": "17100"
+  },
+  {
+    "resultId": "12595779",
+    "mail": "m.chaumont@ville-saintes.fr",
+    "distance": 157718,
+    "latitude": 45.7351481446363,
+    "telephone": "0546741692",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles calinous",
+    "resultStructId": "2636",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue gustave courbet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6511895825374623,
+    "ville": "saintes",
+    "cp": "17100"
+  },
+  {
+    "resultId": "12595951",
+    "mail": "c.cochain@ville-saintes.fr",
+    "distance": 157718,
+    "latitude": 45.7351481446363,
+    "telephone": "0546936608",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil les lutins",
+    "resultStructId": "2640",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue gustave courbet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6511895825374623,
+    "ville": "saintes",
+    "cp": "17100"
+  },
+  {
+    "resultId": "12595865",
+    "mail": "halte-garderie.stpallais@ville-saintes.fr",
+    "distance": 158436,
+    "latitude": 45.74553024117857,
+    "telephone": "0546925996",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil à petits pas",
+    "resultStructId": "2638",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place saint pallais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6247959900644631,
+    "ville": "saintes",
+    "cp": "17100"
+  },
+  {
+    "resultId": "51696909",
+    "mail": "lesptitsdroles@udaf17.fr",
+    "distance": 159010,
+    "latitude": 45.74650367241865,
+    "telephone": "0554061234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPTITS DROLES",
+    "resultStructId": "676620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 bis boulevard ambroise pare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6547013456298642,
+    "ville": "saintes",
+    "cp": "17100"
+  }
+]

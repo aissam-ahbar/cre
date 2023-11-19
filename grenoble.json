@@ -1,0 +1,2308 @@
+[
+  {
+    "resultId": "12859480",
+    "mail": "eaje.lesfrenes@ccas-grenoble.fr",
+    "distance": 430750,
+    "latitude": 45.16126414788549,
+    "telephone": "0438120709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants - Les Frênes",
+    "resultStructId": "8798",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee desfrenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736312578097647,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12885753",
+    "mail": "aef5@wanadoo.fr",
+    "distance": 430758,
+    "latitude": 45.163146540822574,
+    "telephone": "0476097640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits Arlequins",
+    "resultStructId": "699502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place des saules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.739325881481115,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859523",
+    "mail": "eaje.lesgenets@ccas-grenoble.fr",
+    "distance": 430858,
+    "latitude": 45.16109021814467,
+    "telephone": "0476095935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles genêts",
+    "resultStructId": "8799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733888340670156,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12860899",
+    "mail": "eaje.villeneuve@ccas-grenoble.fr",
+    "distance": 431195,
+    "latitude": 45.16351375293177,
+    "telephone": "0476407677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVilleneuve",
+    "resultStructId": "8831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 galerie de l'arlequin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7312974673416335,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861415",
+    "mail": "eaje.troispommes@ccas-grenoble.fr",
+    "distance": 431490,
+    "latitude": 45.171429972457524,
+    "telephone": "0476250448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants 3 Pom'",
+    "resultStructId": "8843",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue ninon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738786412270871,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861544",
+    "mail": "eaje.chapichapo@ccas-grenoble.fr",
+    "distance": 431507,
+    "latitude": 45.163505642708756,
+    "telephone": "0476097983",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEChapi Chapo",
+    "resultStructId": "8846",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louis lachenal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.725124469355367,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859136",
+    "mail": "eaje.malherbe@ccas-grenoble.fr",
+    "distance": 431795,
+    "latitude": 45.17105920702061,
+    "telephone": "0476255438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Malherbe",
+    "resultStructId": "8790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 avenue marcelinberthelot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.732113358958994,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859609",
+    "mail": "eaje.vignymusset@ccas-grenoble.fr",
+    "distance": 431890,
+    "latitude": 45.1682179056532,
+    "telephone": "0438703880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVigny Musset",
+    "resultStructId": "8801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue guy moquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.725462796809031,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861931",
+    "mail": "secretariat@labaja.fr",
+    "distance": 431898,
+    "latitude": 45.17568449635507,
+    "telephone": "0476443574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loupiots",
+    "resultStructId": "701511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue station ponsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737871910450815,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12823137",
+    "mail": "contact@babilou.com",
+    "distance": 431977,
+    "latitude": 45.17832438995251,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouGrenoble Recoura",
+    "resultStructId": "413202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue albert recoura",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.740764661930298,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "31712991",
+    "mail": "",
+    "distance": 432017,
+    "latitude": 45.17964006018433,
+    "telephone": "0476446178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJECHATELET",
+    "resultStructId": "80519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue leon juhaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742197875277766,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12852815",
+    "mail": "lesptitsgrimpeurs@gmail.com",
+    "distance": 432137,
+    "latitude": 45.17402887491377,
+    "telephone": "0611823479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Grimpeurs\"",
+    "resultStructId": "8643",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.73034262194731,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12898395",
+    "mail": "latrottinette@hotmail.fr",
+    "distance": 432341,
+    "latitude": 45.1794450618986,
+    "telephone": "0438370672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTrottinette",
+    "resultStructId": "83901",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "22 avenue jeanperrot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.735448516400134,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "59825544",
+    "mail": "laetitia.salomon@tilio.net",
+    "distance": 432450,
+    "latitude": 45.187740201721354,
+    "telephone": "0638035739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuPays des Licornes",
+    "resultStructId": "701241",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 bis rue jules flandrin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7473488320072486,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "31744195",
+    "mail": "crechelesalpins@gmail.com",
+    "distance": 432585,
+    "latitude": 45.18652328145068,
+    "telephone": "0612376360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Alpins",
+    "resultStructId": "86919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742578623596998,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859179",
+    "mail": "eaje.lavoielactee@ccas-grenoble.fr",
+    "distance": 432626,
+    "latitude": 45.177247848893835,
+    "telephone": "0476468723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Voie Lactée",
+    "resultStructId": "8791",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726083221638741,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12860856",
+    "mail": "eaje.andreabry@ccas-grenoble.fr",
+    "distance": 432651,
+    "latitude": 45.17032342818199,
+    "telephone": "0476966744",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles petits patapons",
+    "resultStructId": "8830",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 bis cours de la liberation et dugeneral de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713954083941,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12851783",
+    "mail": "contact@lesptitsouistitis.com",
+    "distance": 432884,
+    "latitude": 45.17288706940401,
+    "telephone": "0630421117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Ouistitis",
+    "resultStructId": "8619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 cours de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713647700527868,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12866231",
+    "mail": "grenoble.polytec@lpcr.fr",
+    "distance": 432897,
+    "latitude": 45.18665657231816,
+    "telephone": "0437461775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - GRENOBLE POLYTEC",
+    "resultStructId": "505401",
+    "omegaId": "9955",
+    "avip": false,
+    "adresse": "rue desberges - miniparc polytec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736611476147585,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12860813",
+    "mail": "eaje.lescastors@ccas-grenoble.fr",
+    "distance": 432939,
+    "latitude": 45.17761980362834,
+    "telephone": "0476503647",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Castors",
+    "resultStructId": "8829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 bis rue general mangin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720514555957138,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12852858",
+    "mail": "direction@lesptitskignoux.com",
+    "distance": 432987,
+    "latitude": 45.18412798131789,
+    "telephone": "0620261083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\" Les P'tits Kignoux\"",
+    "resultStructId": "8644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du 4eme regiment du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.730527046914437,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861501",
+    "mail": "eaje.collectifanatolefrance@ccas-grenoble.fr",
+    "distance": 433019,
+    "latitude": 45.172543160228315,
+    "telephone": "0476480601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEAnatole France",
+    "resultStructId": "8845",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.710415801708764,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861759",
+    "mail": "eaje.mutualite@ccas-grenoble.fr",
+    "distance": 433076,
+    "latitude": 45.18922788593522,
+    "telephone": "0476424275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMutualité",
+    "resultStructId": "8851",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737399492691611,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861243",
+    "mail": "cc.la-chrysalide@ccas-grenoble.fr",
+    "distance": 433086,
+    "latitude": 45.18342666868208,
+    "telephone": "0476465460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Chrysalide",
+    "resultStructId": "8839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue henri ding",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.727382898684531,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861286",
+    "mail": "em.capuche@ccas-grenoble.fr",
+    "distance": 433117,
+    "latitude": 45.17965135325915,
+    "telephone": "0476874975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEElisée Chatin",
+    "resultStructId": "8840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue le brix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720412635832611,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861587",
+    "mail": "eaje.laribambelle@ccas-grenoble.fr",
+    "distance": 433123,
+    "latitude": 45.17038372368384,
+    "telephone": "0476967860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Ribambelle",
+    "resultStructId": "8847",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 avenue rhin et danube",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704752790522748,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861630",
+    "mail": "eaje.mariecurie@ccas-grenoble.fr",
+    "distance": 433182,
+    "latitude": 45.18995304995604,
+    "telephone": "0476425813",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMarie Curie",
+    "resultStructId": "8848",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 bis rue joseph chanrion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736528294836704,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861028",
+    "mail": "eaje.eauxclaires@ccas-grenoble.fr",
+    "distance": 433221,
+    "latitude": 45.17630402975666,
+    "telephone": "0476484679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles eaux claires",
+    "resultStructId": "8834",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue andre rivoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.712716651903496,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861888",
+    "mail": "eaje.ilotsmarmots@ccas-grenoble.fr",
+    "distance": 433221,
+    "latitude": 45.18517102374229,
+    "telephone": "0476473656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Ilôt Marmots",
+    "resultStructId": "8854",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7276446631540034,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12859093",
+    "mail": "eaje.millespattes@ccas-grenoble.fr",
+    "distance": 433245,
+    "latitude": 45.170654768264754,
+    "telephone": "0476481908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Mille Pattes",
+    "resultStructId": "8789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue albertthomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.702790424237274,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12918562",
+    "mail": "abracadabra@people-and-baby.com",
+    "distance": 433292,
+    "latitude": 45.18822142004951,
+    "telephone": "0953461797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Abracadabra",
+    "resultStructId": "83803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.731413476595149,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12842753",
+    "mail": "contact@crechebebedou.com",
+    "distance": 433307,
+    "latitude": 45.1867727642466,
+    "telephone": "0684335139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébédou",
+    "resultStructId": "8409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue saint joseph",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.728644127491986,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12852772",
+    "mail": "lesptitseterlous@gmail.com",
+    "distance": 433320,
+    "latitude": 45.18283414024119,
+    "telephone": "0457135869",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Eterlous\"",
+    "resultStructId": "8642",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue sergent bobillot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7217369057611,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12791489",
+    "mail": "contact@lanurserie-microcreche.fr",
+    "distance": 433553,
+    "latitude": 45.19461081551605,
+    "telephone": "0676931805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Nurserie",
+    "resultStructId": "7217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 chemin de ronde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737053388420508,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "13013463",
+    "mail": "creche38000@les-cherubins.com",
+    "distance": 433606,
+    "latitude": 45.18354722378595,
+    "telephone": "0650755219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Cocon des Cherubins",
+    "resultStructId": "12379",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 cours jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.717278195243669,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12885366",
+    "mail": "lesmahouminauds@yahoo.fr",
+    "distance": 433631,
+    "latitude": 45.185834521834494,
+    "telephone": "0476464451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMahou-minauds",
+    "resultStructId": "699541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720632896364088,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12860770",
+    "mail": "eaje.vieuxtemple@ccas-grenoble.fr",
+    "distance": 433641,
+    "latitude": 45.19372307687772,
+    "telephone": "0476517503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVieux Temple",
+    "resultStructId": "8828",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du vieux temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733802723793816,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12859566",
+    "mail": "eaje.jardindeville@ccas-grenoble.fr",
+    "distance": 433806,
+    "latitude": 45.19181069141567,
+    "telephone": "0476275764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEJardin de ville",
+    "resultStructId": "8800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 jardin de ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.727272755014695,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12860727",
+    "mail": "eaje.bizanet@ccas-grenoble.fr",
+    "distance": 433807,
+    "latitude": 45.198209640699424,
+    "telephone": "0476420446",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bizanet",
+    "resultStructId": "8827",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15bis avenue du marechal randon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738122243448134,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12855094",
+    "mail": "eaje.newyork@ccas-grenoble.fr",
+    "distance": 433835,
+    "latitude": 45.18403199279063,
+    "telephone": "0476234494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJENew-York",
+    "resultStructId": "8696",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 b rue de new-york",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7135566896936645,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "13013506",
+    "mail": "r.bernard@les-cherubins.com",
+    "distance": 434161,
+    "latitude": 45.190659523055466,
+    "telephone": "0982995837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLa cachette des Cherubins",
+    "resultStructId": "12380",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 avenue felix viallet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.71826873579292,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12855051",
+    "mail": "dir.api@pomflore.fr",
+    "distance": 434264,
+    "latitude": 45.18388475031355,
+    "telephone": "0476840789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ChezPom Flore et Alexandre",
+    "resultStructId": "699918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue des arts et metiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704841001655014,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "31119548",
+    "mail": "eaje.anthoard@ccas-grenoble.fr",
+    "distance": 434365,
+    "latitude": 45.18913126606002,
+    "telephone": "0476963313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ANTHOARD",
+    "resultStructId": "74101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10rue anthoard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.711647284553779,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "43073988",
+    "mail": "contact@babilou.com",
+    "distance": 434431,
+    "latitude": 45.190791462781036,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouGrenoble Schuman",
+    "resultStructId": "413201",
+    "omegaId": "16679",
+    "avip": false,
+    "adresse": "5 place robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7131400007581075,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861372",
+    "mail": "eaje.armand@ccas-grenoble.fr",
+    "distance": 434480,
+    "latitude": 45.1892401513527,
+    "telephone": "0476701732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants - ZAC Armand",
+    "resultStructId": "8842",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue henridebraye",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.709568476269,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "28514942",
+    "mail": "grenoble.schuman@lpcr.fr",
+    "distance": 434496,
+    "latitude": 45.191478011157116,
+    "telephone": "0456608865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMALICIEUX DE SCHUMAN",
+    "resultStructId": "699508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713009191687653,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12842710",
+    "mail": "contact@crechebebedou.com",
+    "distance": 434518,
+    "latitude": 45.19354507063526,
+    "telephone": "0684335139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébédou",
+    "resultStructId": "8408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 quai claude bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.716063072677994,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12859222",
+    "mail": "eaje.lagoelette@ccas-grenoble.fr",
+    "distance": 434768,
+    "latitude": 45.195491396238786,
+    "telephone": "0476509982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Goëlette",
+    "resultStructId": "8792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 quai de la graille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.714389862290746,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12859480",
+    "mail": "eaje.lesfrenes@ccas-grenoble.fr",
+    "distance": 136402,
+    "latitude": 45.16126414788549,
+    "telephone": "0438120709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants - Les Frênes",
+    "resultStructId": "8798",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 allee desfrenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736312578097647,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859523",
+    "mail": "eaje.lesgenets@ccas-grenoble.fr",
+    "distance": 136419,
+    "latitude": 45.16109021814467,
+    "telephone": "0476095935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles genêts",
+    "resultStructId": "8799",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee des genets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733888340670156,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12885753",
+    "mail": "aef5@wanadoo.fr",
+    "distance": 136562,
+    "latitude": 45.163146540822574,
+    "telephone": "0476097640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetits Arlequins",
+    "resultStructId": "699502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place des saules",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.739325881481115,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12860899",
+    "mail": "eaje.villeneuve@ccas-grenoble.fr",
+    "distance": 136723,
+    "latitude": 45.16351375293177,
+    "telephone": "0476407677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVilleneuve",
+    "resultStructId": "8831",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 galerie de l'arlequin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7312974673416335,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861544",
+    "mail": "eaje.chapichapo@ccas-grenoble.fr",
+    "distance": 136817,
+    "latitude": 45.163505642708756,
+    "telephone": "0476097983",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEChapi Chapo",
+    "resultStructId": "8846",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue louis lachenal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.725124469355367,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859609",
+    "mail": "eaje.vignymusset@ccas-grenoble.fr",
+    "distance": 137325,
+    "latitude": 45.1682179056532,
+    "telephone": "0438703880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVigny Musset",
+    "resultStructId": "8801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue guy moquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.725462796809031,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861415",
+    "mail": "eaje.troispommes@ccas-grenoble.fr",
+    "distance": 137475,
+    "latitude": 45.171429972457524,
+    "telephone": "0476250448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants 3 Pom'",
+    "resultStructId": "8843",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue ninon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738786412270871,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859136",
+    "mail": "eaje.malherbe@ccas-grenoble.fr",
+    "distance": 137534,
+    "latitude": 45.17105920702061,
+    "telephone": "0476255438",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Malherbe",
+    "resultStructId": "8790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 avenue marcelinberthelot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.732113358958994,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12860856",
+    "mail": "eaje.andreabry@ccas-grenoble.fr",
+    "distance": 137735,
+    "latitude": 45.17032342818199,
+    "telephone": "0476966744",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles petits patapons",
+    "resultStructId": "8830",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 bis cours de la liberation et dugeneral de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713954083941,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12852815",
+    "mail": "lesptitsgrimpeurs@gmail.com",
+    "distance": 137885,
+    "latitude": 45.17402887491377,
+    "telephone": "0611823479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Grimpeurs\"",
+    "resultStructId": "8643",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue emile zola",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.73034262194731,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861587",
+    "mail": "eaje.laribambelle@ccas-grenoble.fr",
+    "distance": 137889,
+    "latitude": 45.17038372368384,
+    "telephone": "0476967860",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Ribambelle",
+    "resultStructId": "8847",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 avenue rhin et danube",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704752790522748,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859093",
+    "mail": "eaje.millespattes@ccas-grenoble.fr",
+    "distance": 137951,
+    "latitude": 45.170654768264754,
+    "telephone": "0476481908",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Mille Pattes",
+    "resultStructId": "8789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue albertthomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.702790424237274,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861931",
+    "mail": "secretariat@labaja.fr",
+    "distance": 137953,
+    "latitude": 45.17568449635507,
+    "telephone": "0476443574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loupiots",
+    "resultStructId": "701511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue station ponsard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737871910450815,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12851783",
+    "mail": "contact@lesptitsouistitis.com",
+    "distance": 138019,
+    "latitude": 45.17288706940401,
+    "telephone": "0630421117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les P'tits Ouistitis",
+    "resultStructId": "8619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 cours de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713647700527868,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861501",
+    "mail": "eaje.collectifanatolefrance@ccas-grenoble.fr",
+    "distance": 138033,
+    "latitude": 45.172543160228315,
+    "telephone": "0476480601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEAnatole France",
+    "resultStructId": "8845",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 bis rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.710415801708764,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12823137",
+    "mail": "contact@babilou.com",
+    "distance": 138199,
+    "latitude": 45.17832438995251,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouGrenoble Recoura",
+    "resultStructId": "413202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue albert recoura",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.740764661930298,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859179",
+    "mail": "eaje.lavoielactee@ccas-grenoble.fr",
+    "distance": 138301,
+    "latitude": 45.177247848893835,
+    "telephone": "0476468723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Voie Lactée",
+    "resultStructId": "8791",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue stalingrad",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.726083221638741,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "31712991",
+    "mail": "",
+    "distance": 138322,
+    "latitude": 45.17964006018433,
+    "telephone": "0476446178",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJECHATELET",
+    "resultStructId": "80519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue leon juhaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742197875277766,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12898395",
+    "mail": "latrottinette@hotmail.fr",
+    "distance": 138399,
+    "latitude": 45.1794450618986,
+    "telephone": "0438370672",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaTrottinette",
+    "resultStructId": "83901",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "22 avenue jeanperrot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.735448516400134,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861028",
+    "mail": "eaje.eauxclaires@ccas-grenoble.fr",
+    "distance": 138405,
+    "latitude": 45.17630402975666,
+    "telephone": "0476484679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEles eaux claires",
+    "resultStructId": "8834",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue andre rivoire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.712716651903496,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12860813",
+    "mail": "eaje.lescastors@ccas-grenoble.fr",
+    "distance": 138427,
+    "latitude": 45.17761980362834,
+    "telephone": "0476503647",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes Castors",
+    "resultStructId": "8829",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 bis rue general mangin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720514555957138,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861286",
+    "mail": "em.capuche@ccas-grenoble.fr",
+    "distance": 138650,
+    "latitude": 45.17965135325915,
+    "telephone": "0476874975",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEElisée Chatin",
+    "resultStructId": "8840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue le brix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720412635832611,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861243",
+    "mail": "cc.la-chrysalide@ccas-grenoble.fr",
+    "distance": 138955,
+    "latitude": 45.18342666868208,
+    "telephone": "0476465460",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Chrysalide",
+    "resultStructId": "8839",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue henri ding",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.727382898684531,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12852772",
+    "mail": "lesptitseterlous@gmail.com",
+    "distance": 138976,
+    "latitude": 45.18283414024119,
+    "telephone": "0457135869",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les P'tits Eterlous\"",
+    "resultStructId": "8642",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue sergent bobillot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7217369057611,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12852858",
+    "mail": "direction@lesptitskignoux.com",
+    "distance": 138984,
+    "latitude": 45.18412798131789,
+    "telephone": "0620261083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\" Les P'tits Kignoux\"",
+    "resultStructId": "8644",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue du 4eme regiment du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.730527046914437,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "31744195",
+    "mail": "crechelesalpins@gmail.com",
+    "distance": 139069,
+    "latitude": 45.18652328145068,
+    "telephone": "0612376360",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Alpins",
+    "resultStructId": "86919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 avenue jeanne d'arc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.742578623596998,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "13013463",
+    "mail": "creche38000@les-cherubins.com",
+    "distance": 139123,
+    "latitude": 45.18354722378595,
+    "telephone": "0650755219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Le Cocon des Cherubins",
+    "resultStructId": "12379",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 cours jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.717278195243669,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "59825544",
+    "mail": "laetitia.salomon@tilio.net",
+    "distance": 139133,
+    "latitude": 45.187740201721354,
+    "telephone": "0638035739",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuPays des Licornes",
+    "resultStructId": "701241",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 bis rue jules flandrin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7473488320072486,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12861888",
+    "mail": "eaje.ilotsmarmots@ccas-grenoble.fr",
+    "distance": 139141,
+    "latitude": 45.18517102374229,
+    "telephone": "0476473656",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants Ilôt Marmots",
+    "resultStructId": "8854",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7276446631540034,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12866231",
+    "mail": "grenoble.polytec@lpcr.fr",
+    "distance": 139170,
+    "latitude": 45.18665657231816,
+    "telephone": "0437461775",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES - GRENOBLE POLYTEC",
+    "resultStructId": "505401",
+    "omegaId": "9955",
+    "avip": false,
+    "adresse": "rue desberges - miniparc polytec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736611476147585,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12855094",
+    "mail": "eaje.newyork@ccas-grenoble.fr",
+    "distance": 139234,
+    "latitude": 45.18403199279063,
+    "telephone": "0476234494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJENew-York",
+    "resultStructId": "8696",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 b rue de new-york",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7135566896936645,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12842753",
+    "mail": "contact@crechebebedou.com",
+    "distance": 139301,
+    "latitude": 45.1867727642466,
+    "telephone": "0684335139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébédou",
+    "resultStructId": "8409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue saint joseph",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.728644127491986,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12885366",
+    "mail": "lesmahouminauds@yahoo.fr",
+    "distance": 139320,
+    "latitude": 45.185834521834494,
+    "telephone": "0476464451",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMahou-minauds",
+    "resultStructId": "699541",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.720632896364088,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12855051",
+    "mail": "dir.api@pomflore.fr",
+    "distance": 139357,
+    "latitude": 45.18388475031355,
+    "telephone": "0476840789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ChezPom Flore et Alexandre",
+    "resultStructId": "699918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue des arts et metiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.704841001655014,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12918562",
+    "mail": "abracadabra@people-and-baby.com",
+    "distance": 139418,
+    "latitude": 45.18822142004951,
+    "telephone": "0953461797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Abracadabra",
+    "resultStructId": "83803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.731413476595149,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861759",
+    "mail": "eaje.mutualite@ccas-grenoble.fr",
+    "distance": 139439,
+    "latitude": 45.18922788593522,
+    "telephone": "0476424275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMutualité",
+    "resultStructId": "8851",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737399492691611,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861630",
+    "mail": "eaje.mariecurie@ccas-grenoble.fr",
+    "distance": 139531,
+    "latitude": 45.18995304995604,
+    "telephone": "0476425813",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEMarie Curie",
+    "resultStructId": "8848",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 bis rue joseph chanrion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.736528294836704,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "31119548",
+    "mail": "eaje.anthoard@ccas-grenoble.fr",
+    "distance": 139819,
+    "latitude": 45.18913126606002,
+    "telephone": "0476963313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ANTHOARD",
+    "resultStructId": "74101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10rue anthoard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.711647284553779,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12861372",
+    "mail": "eaje.armand@ccas-grenoble.fr",
+    "distance": 139864,
+    "latitude": 45.1892401513527,
+    "telephone": "0476701732",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'accueil de jeunes enfants - ZAC Armand",
+    "resultStructId": "8842",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue henridebraye",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.709568476269,
+    "ville": "grenoble",
+    "cp": "38100"
+  },
+  {
+    "resultId": "12859566",
+    "mail": "eaje.jardindeville@ccas-grenoble.fr",
+    "distance": 139871,
+    "latitude": 45.19181069141567,
+    "telephone": "0476275764",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEJardin de ville",
+    "resultStructId": "8800",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 jardin de ville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.727272755014695,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "13013506",
+    "mail": "r.bernard@les-cherubins.com",
+    "distance": 139883,
+    "latitude": 45.190659523055466,
+    "telephone": "0982995837",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheLa cachette des Cherubins",
+    "resultStructId": "12380",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 avenue felix viallet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.71826873579292,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "43073988",
+    "mail": "contact@babilou.com",
+    "distance": 139977,
+    "latitude": 45.190791462781036,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouGrenoble Schuman",
+    "resultStructId": "413201",
+    "omegaId": "16679",
+    "avip": false,
+    "adresse": "5 place robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.7131400007581075,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12860770",
+    "mail": "eaje.vieuxtemple@ccas-grenoble.fr",
+    "distance": 139983,
+    "latitude": 45.19372307687772,
+    "telephone": "0476517503",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJEVieux Temple",
+    "resultStructId": "8828",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du vieux temple",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.733802723793816,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12791489",
+    "mail": "contact@lanurserie-microcreche.fr",
+    "distance": 140032,
+    "latitude": 45.19461081551605,
+    "telephone": "0676931805",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche La Nurserie",
+    "resultStructId": "7217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 chemin de ronde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.737053388420508,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "28514942",
+    "mail": "grenoble.schuman@lpcr.fr",
+    "distance": 140054,
+    "latitude": 45.191478011157116,
+    "telephone": "0456608865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESMALICIEUX DE SCHUMAN",
+    "resultStructId": "699508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.713009191687653,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12842710",
+    "mail": "contact@crechebebedou.com",
+    "distance": 140231,
+    "latitude": 45.19354507063526,
+    "telephone": "0684335139",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Bébédou",
+    "resultStructId": "8408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 quai claude bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.716063072677994,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12860727",
+    "mail": "eaje.bizanet@ccas-grenoble.fr",
+    "distance": 140410,
+    "latitude": 45.198209640699424,
+    "telephone": "0476420446",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bizanet",
+    "resultStructId": "8827",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15bis avenue du marechal randon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.738122243448134,
+    "ville": "grenoble",
+    "cp": "38000"
+  },
+  {
+    "resultId": "12859222",
+    "mail": "eaje.lagoelette@ccas-grenoble.fr",
+    "distance": 140470,
+    "latitude": 45.195491396238786,
+    "telephone": "0476509982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELa Goëlette",
+    "resultStructId": "8792",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 quai de la graille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.714389862290746,
+    "ville": "grenoble",
+    "cp": "38000"
+  }
+]

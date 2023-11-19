@@ -1,0 +1,6098 @@
+[
+  {
+    "resultId": "46804746",
+    "mail": "contact@creche-unairdefamille.fr",
+    "distance": 168190,
+    "latitude": 45.804608561708605,
+    "telephone": "0472235841",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheUn Air de Famille",
+    "resultStructId": "329902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place maurice bariod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.823463033031172,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12585287",
+    "mail": "csstrambert@wanadoo.fr",
+    "distance": 168475,
+    "latitude": 45.80228206348025,
+    "telephone": "0478832278",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Centre social de Saint Rambert",
+    "resultStructId": "2392",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue des docteurscordier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825128365954899,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12585459",
+    "mail": "strambert.etablissement@mairie-lyon.fr",
+    "distance": 168816,
+    "latitude": 45.79897973374408,
+    "telephone": "0478837260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Rambert",
+    "resultStructId": "707619",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 bis rue marc boegner",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824715786738068,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12597628",
+    "mail": "marjorie.tendil@garderisettes.fr",
+    "distance": 168938,
+    "latitude": 45.79654798860168,
+    "telephone": "0472189952",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheGarderisettes Lyon 9",
+    "resultStructId": "2679",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue louis bouquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.818844531389451,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12618225",
+    "mail": "direction.eaje@centresocialsauvegarde.com",
+    "distance": 169358,
+    "latitude": 45.7868322303858,
+    "telephone": "0478357747",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilVanille et Chocolat",
+    "resultStructId": "686721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue rosa parks",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7916337838079235,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "13005379",
+    "mail": "lyon.vaise@lpcr.fr",
+    "distance": 169446,
+    "latitude": 45.79184311796274,
+    "telephone": "0437464534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges Lyon Vaise",
+    "resultStructId": "12191",
+    "omegaId": "1705",
+    "avip": false,
+    "adresse": "1 rue desmuriers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.819204457534975,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "60011027",
+    "mail": "cre-665@babilou.com",
+    "distance": 169546,
+    "latitude": 45.7888761238005,
+    "telephone": "0426783116",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Rochecardon",
+    "resultStructId": "703101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 impasse pierre baizet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809806194152869,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12670177",
+    "mail": "",
+    "distance": 169584,
+    "latitude": 45.786380738848024,
+    "telephone": "0000000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Dahlias",
+    "resultStructId": "4366",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "304 avenue andrei sakharov",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.799655411019417,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12599090",
+    "mail": "duchereplateau@wanadoo.fr",
+    "distance": 169816,
+    "latitude": 45.783149936155375,
+    "telephone": "0478665285",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe P'tit Baluchon",
+    "resultStructId": "2713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "235 avenue du plateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794600084702742,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12583180",
+    "mail": "duchere.etablissement@mairie-lyon.fr",
+    "distance": 169825,
+    "latitude": 45.783120230013516,
+    "telephone": "0478353671",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Duchère",
+    "resultStructId": "707617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "236 avenue du plateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.79490036827576,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12865715",
+    "mail": "",
+    "distance": 169844,
+    "latitude": 45.786397333177874,
+    "telephone": "0676779390",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NOSPETITES ETOILES",
+    "resultStructId": "8943",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 rue des docks",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81130690450716,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12583309",
+    "mail": "creche.oursenpeluche@wanadoo.fr",
+    "distance": 170022,
+    "latitude": 45.784545997788165,
+    "telephone": "0472539113",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'Ours en Peluche",
+    "resultStructId": "87503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue emile duport",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.810487403241938,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "13005336",
+    "mail": "lyon9@lpcr.fr",
+    "distance": 170156,
+    "latitude": 45.78305555034052,
+    "telephone": "0474723227",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges Lyon 9",
+    "resultStructId": "12190",
+    "omegaId": "2529",
+    "avip": false,
+    "adresse": "14 rue rhin etdanube",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809382340737292,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12585115",
+    "mail": "jardin.enfants@odyneo.fr",
+    "distance": 170197,
+    "latitude": 45.779413795398995,
+    "telephone": "0478474476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin des Enfants",
+    "resultStructId": "110509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "106 rue jean fournier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7938400753624,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "13046022",
+    "mail": "margotlyon9@creche-attitude.fr",
+    "distance": 170305,
+    "latitude": 45.78117402394242,
+    "telephone": "0478353893",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Crèches de Margot",
+    "resultStructId": "13136",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue de saint cyr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807132058678708,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12580514",
+    "mail": "chaziere.etablissement@mairie-lyon.fr",
+    "distance": 170564,
+    "latitude": 45.78072115588692,
+    "telephone": "0472100825",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChazière",
+    "resultStructId": "706518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 impasse chaziere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.816424224014101,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12585330",
+    "mail": "tissot.etablissement@mairie-lyon.fr",
+    "distance": 170670,
+    "latitude": 45.77695482653509,
+    "telephone": "0478837684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTissot",
+    "resultStructId": "707620",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue tissot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.803345120409695,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12597757",
+    "mail": "contact@babilou.com",
+    "distance": 170709,
+    "latitude": 45.77983742422567,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilou Lyon Hénon",
+    "resultStructId": "539801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "108 bis rue henon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.818696781474589,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12580686",
+    "mail": "centremelba@free.fr",
+    "distance": 170817,
+    "latitude": 45.77822506513615,
+    "telephone": "0478308762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMelba",
+    "resultStructId": "2285",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 rue chaziere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.815901168406016,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12580600",
+    "mail": "centremelba@free.fr",
+    "distance": 170817,
+    "latitude": 45.77822506513615,
+    "telephone": "0478308762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFamilial Melba",
+    "resultStructId": "2283",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 rue chaziere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.815901168406016,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12486766",
+    "mail": "crechesaintbernard@free.fr",
+    "distance": 170817,
+    "latitude": 45.77822506513615,
+    "telephone": "0478308762",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieMelba",
+    "resultStructId": "101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 rue chaziere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.815901168406016,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12580643",
+    "mail": "henon.etablissement@mairie-lyon.fr",
+    "distance": 170828,
+    "latitude": 45.77922336768761,
+    "telephone": "0478291445",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilHénon",
+    "resultStructId": "706520",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue henon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82101544448565,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12585244",
+    "mail": "accueil@csvaise.fr",
+    "distance": 170841,
+    "latitude": 45.77597719614759,
+    "telephone": "0478837134",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabichou",
+    "resultStructId": "99802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue roquette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.80633040499095,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12925614",
+    "mail": "belfort.etablissement@mairie-lyon.fr",
+    "distance": 170922,
+    "latitude": 45.78119724495507,
+    "telephone": "0478292089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBelfort",
+    "resultStructId": "706517",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue belfort",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.834183784639552,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12895342",
+    "mail": "grainedetoile@cs-croixrousse.org",
+    "distance": 170924,
+    "latitude": 45.77774375701924,
+    "telephone": "0478299044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheGraines d'étoiles",
+    "resultStructId": "9632",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue pernon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.818362646797924,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12585201",
+    "mail": "directrice.jardindelacolline@gmail.com",
+    "distance": 170985,
+    "latitude": 45.77919181802469,
+    "telephone": "0478392146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin de la Colline",
+    "resultStructId": "87204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 boulevard des canuts",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82772518847591,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12591049",
+    "mail": "creche.popy@orange.fr",
+    "distance": 171003,
+    "latitude": 45.77810785039553,
+    "telephone": "0478309490",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPopy",
+    "resultStructId": "2526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue henri gorjus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.823492338020699,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12584384",
+    "mail": "citeinternationale.etablissement@mairie-lyon.fr",
+    "distance": 171017,
+    "latitude": 45.784159485590585,
+    "telephone": "0472442485",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCité Internationale",
+    "resultStructId": "706527",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 quai charles de gaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.851467417001027,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "30728207",
+    "mail": "lyon4@lcpr.fr",
+    "distance": 171024,
+    "latitude": 45.77806947029418,
+    "telephone": "0428690275",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Chaperons Rouges Lyon 4",
+    "resultStructId": "113914",
+    "omegaId": "49527",
+    "avip": false,
+    "adresse": "28 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824231525187333,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "34689169",
+    "mail": "contact@babilou.com",
+    "distance": 171052,
+    "latitude": 45.773881054160675,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Jayr",
+    "resultStructId": "412402",
+    "omegaId": "12243",
+    "avip": false,
+    "adresse": "5 quai jayr",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805809294853425,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12583223",
+    "mail": "lasauvagere.etablissement@mairie-lyon.fr",
+    "distance": 171052,
+    "latitude": 45.773881054160675,
+    "telephone": "0437646197",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Sauvagère",
+    "resultStructId": "707618",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 bis quai paul sedaillan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805809294853425,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12580557",
+    "mail": "cuire.etablissement@mairie-lyon.fr",
+    "distance": 171137,
+    "latitude": 45.778164311721866,
+    "telephone": "0478292821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCuire",
+    "resultStructId": "706519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue de cuire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829594051443828,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12586018",
+    "mail": "lachrysalide4@wanadoo.fr",
+    "distance": 171163,
+    "latitude": 45.77329196962999,
+    "telephone": "0437642193",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChrysalide",
+    "resultStructId": "2409",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 avenue st exupery",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807959987777682,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12901835",
+    "mail": "epinette@mfrpds.fr",
+    "distance": 171168,
+    "latitude": 45.773054934731825,
+    "telephone": "0437460647",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueill'Epinette",
+    "resultStructId": "115109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 bis rue saint pierre de vaise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.807041333493266,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12598875",
+    "mail": "contact@lesgonestrotteurs.org",
+    "distance": 171220,
+    "latitude": 45.778872771563854,
+    "telephone": "0478309080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Gones Trotteurs",
+    "resultStructId": "87203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue dumont d'urville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.836367105550544,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12588340",
+    "mail": "crechepirouette@lesenfantsdelacolline.fr",
+    "distance": 171226,
+    "latitude": 45.77965943008044,
+    "telephone": "0478393681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPirouette",
+    "resultStructId": "196303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue eugene pons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.840184847579832,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12635468",
+    "mail": "microcrecheaquarelle@gmail.com",
+    "distance": 171236,
+    "latitude": 45.7766224174689,
+    "telephone": "0427114444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAquarelle",
+    "resultStructId": "3559",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue cabias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826762906590975,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12871907",
+    "mail": "sweetclub@hotmail.fr",
+    "distance": 171256,
+    "latitude": 45.77339416143162,
+    "telephone": "0698466648",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheSWEET CLUB",
+    "resultStructId": "9087",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 quai joseph gillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8125874681902,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "33565801",
+    "mail": "contact@babilou.com",
+    "distance": 171268,
+    "latitude": 45.77174428391719,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Berthet",
+    "resultStructId": "412001",
+    "omegaId": "3408",
+    "avip": false,
+    "adresse": "24 rue du sergent michelberthet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805292269712732,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12653356",
+    "mail": "plemoel@crechesbabyanco.com",
+    "distance": 171429,
+    "latitude": 45.76954635896758,
+    "telephone": "0472291464",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Baby and Co",
+    "resultStructId": "3975",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "69 rue gorge de loup",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.801987494474712,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12757261",
+    "mail": "contact@mescopainsetmoi.fr",
+    "distance": 171468,
+    "latitude": 45.774945033976756,
+    "telephone": "0668978920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchemes copains et moi \"Croix Rousse\"",
+    "resultStructId": "6421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue perrod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829103913835003,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12580729",
+    "mail": "crechestbernard@free.fr",
+    "distance": 171594,
+    "latitude": 45.77498237887082,
+    "telephone": "0478282270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSt Bernard",
+    "resultStructId": "2286",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "171 boulevard de la croix rousse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.834730362630526,
+    "ville": "lyon",
+    "cp": "69004"
+  },
+  {
+    "resultId": "12863780",
+    "mail": "contact@lereveencouleurs.fr",
+    "distance": 171620,
+    "latitude": 45.773100580034814,
+    "telephone": "0478396143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilparental Le rêve en couleurs",
+    "resultStructId": "8898",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de vauzelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.827186786555745,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12584083",
+    "mail": "raymond.etablissement@mairie-lyon.fr",
+    "distance": 171623,
+    "latitude": 45.77372248867661,
+    "telephone": "0478284222",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRaymond",
+    "resultStructId": "706502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue raymond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.830185987222149,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12672929",
+    "mail": "emoens@creche-attitude.fr",
+    "distance": 171641,
+    "latitude": 45.77205280343899,
+    "telephone": "0472089465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POULEROUSSE",
+    "resultStructId": "4430",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15/17 rue rue des chartreux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.823258832215546,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12579998",
+    "mail": "crechelaribambelle@gmail.com",
+    "distance": 171742,
+    "latitude": 45.77333399293204,
+    "telephone": "0478392456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilparental La Ribambelle",
+    "resultStructId": "2269",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue vaucanson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8335479606235365,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12579697",
+    "mail": "crechestbernard@free.fr",
+    "distance": 171742,
+    "latitude": 45.77333399293204,
+    "telephone": "0472100881",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Bernard-Vaucanson",
+    "resultStructId": "2262",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue vaucanson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8335479606235365,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12770677",
+    "mail": "poussesduchampvert@creche-attitude.fr",
+    "distance": 171759,
+    "latitude": 45.763914747588,
+    "telephone": "0478352356",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAttitude Les Pousses du Champvert",
+    "resultStructId": "117801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "213 avenue barthelemybuyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.789639945465874,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12585588",
+    "mail": "barthelemybuyer.etablissement@mairie-lyon.fr",
+    "distance": 171799,
+    "latitude": 45.76408549180134,
+    "telephone": "0478366065",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBarthélémy Buyer",
+    "resultStructId": "707615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "194 rue barthelemy buyer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.792318324374918,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12598832",
+    "mail": "contact@kindertreff.fr",
+    "distance": 171805,
+    "latitude": 45.77243249505382,
+    "telephone": "0478305572",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilKindertreff",
+    "resultStructId": "86102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11-13 montee de la grande cote",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832142463898247,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12583094",
+    "mail": "champvert.etablissement@mairie-lyon.fr",
+    "distance": 171834,
+    "latitude": 45.76447360661129,
+    "telephone": "0437201404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChampvert",
+    "resultStructId": "707616",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue frere benoit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.795816530183915,
+    "ville": "lyon",
+    "cp": "69009"
+  },
+  {
+    "resultId": "12895385",
+    "mail": "pentagones@cs-croixrousse.org",
+    "distance": 171837,
+    "latitude": 45.7722467992045,
+    "telephone": "0478275902",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPent A Gones",
+    "resultStructId": "95122",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue pouteau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8326793785202895,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "60477284",
+    "mail": "lyon1.truffaut@lpcr.fr",
+    "distance": 171853,
+    "latitude": 45.77076591192996,
+    "telephone": "0485919825",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTruffaut",
+    "resultStructId": "711701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue flesselles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826553617998806,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12582234",
+    "mail": "merlinpinpinlyon@gmail.com",
+    "distance": 171910,
+    "latitude": 45.77452371233096,
+    "telephone": "0478890599",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilparental Merlin Pinpin",
+    "resultStructId": "2321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 route barreme",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846145092054918,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12606658",
+    "mail": "",
+    "distance": 171948,
+    "latitude": 45.77391389007934,
+    "telephone": "0645534166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Coccicrèches MCLC2",
+    "resultStructId": "2889",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de crequi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845019491038517,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12586061",
+    "mail": "cscvercoquins@orange.fr",
+    "distance": 171951,
+    "latitude": 45.76320919982426,
+    "telephone": "0478258521",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Vercoquins",
+    "resultStructId": "87303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue de champvert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.795025451965634,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "60359909",
+    "mail": "hello@lespetitesfamilles.fr",
+    "distance": 172010,
+    "latitude": 45.77261353371267,
+    "telephone": "0967400151",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petites Familles Lyon 6",
+    "resultStructId": "709506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 place d'helvetie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.841774840449979,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12583696",
+    "mail": "creche.chardonnet@wanadoo.fr",
+    "distance": 172043,
+    "latitude": 45.770678215182606,
+    "telephone": "0472983259",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChardonnet",
+    "resultStructId": "2355",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place chardonnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.834389771360589,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12782416",
+    "mail": "contact@crechedefrance.com",
+    "distance": 172065,
+    "latitude": 45.7727634263475,
+    "telephone": "0478941182",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcréche coccinelle",
+    "resultStructId": "7006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue duquesne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.844811269301436,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12579955",
+    "mail": "afqsv.farandole@wanadoo.fr",
+    "distance": 172076,
+    "latitude": 45.768759959550316,
+    "telephone": "0478305684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Farandole",
+    "resultStructId": "2268",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de la vieille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826975590222423,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "27543742",
+    "mail": "afqsv.farandole@wanadoo.fr",
+    "distance": 172080,
+    "latitude": 45.76957955764365,
+    "telephone": "0478305684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Farandole",
+    "resultStructId": "86101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue jardin des plantes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.830949650804404,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12579912",
+    "mail": "",
+    "distance": 172085,
+    "latitude": 45.769115811847364,
+    "telephone": "0472070270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilALYSE",
+    "resultStructId": "94028",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 rue bouteille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829004264860829,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12672886",
+    "mail": "contact@creche-tiramisu.com",
+    "distance": 172092,
+    "latitude": 45.76926831927969,
+    "telephone": "0478271366",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TIRAMISU",
+    "resultStructId": "4429",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4place sathonay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.830045373546229,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12785297",
+    "mail": "tourret.etablissement@mairie-lyon.fr",
+    "distance": 172099,
+    "latitude": 45.768928615732136,
+    "telephone": "0478282061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTourret",
+    "resultStructId": "706503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue bouteille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.828784973395068,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12586749",
+    "mail": "lespetitsthou@club.fr",
+    "distance": 172183,
+    "latitude": 45.76994869246476,
+    "telephone": "0472109075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Thou",
+    "resultStructId": "86103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 grande rue des feuillants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.837076394492064,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "13005981",
+    "mail": "lyon.tolozan@crechesetmalices.com",
+    "distance": 172225,
+    "latitude": 45.7696552920495,
+    "telephone": "0427180055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles petits chaperons rouges",
+    "resultStructId": "12205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 place tolozan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.837533919590495,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12591909",
+    "mail": "afqsv.augustins@orange.fr",
+    "distance": 172278,
+    "latitude": 45.76777020098982,
+    "telephone": "0478272675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Augustins",
+    "resultStructId": "86005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue des augustins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8311831566095575,
+    "ville": "lyon",
+    "cp": "69001"
+  },
+  {
+    "resultId": "12757218",
+    "mail": "contact@mescopainsetmoi.fr",
+    "distance": 172345,
+    "latitude": 45.77173016727581,
+    "telephone": "0668978920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MESCOPAINS ET MOI \"Tête d'Or\"",
+    "resultStructId": "6420",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue tete d'or",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.852003843019425,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12581116",
+    "mail": "",
+    "distance": 172427,
+    "latitude": 45.770477989311736,
+    "telephone": "0478242264",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Nid d'Anges",
+    "resultStructId": "94704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue garibaldi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849885930493698,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12613366",
+    "mail": "",
+    "distance": 172445,
+    "latitude": 45.77011337661412,
+    "telephone": "0658026623",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheL'Eveil des Gones Tronchet",
+    "resultStructId": "360403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 rue tronchet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8490059755107735,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "59710172",
+    "mail": "",
+    "distance": 172592,
+    "latitude": 45.77136658140138,
+    "telephone": "0426178424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSixième Sens",
+    "resultStructId": "699203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue antoine barbier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.860774789113418,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12581030",
+    "mail": "bbvl@orange.fr",
+    "distance": 172636,
+    "latitude": 45.76359621462893,
+    "telephone": "0478383601",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Baleine",
+    "resultStructId": "106702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 place du petit college",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82750209375761,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "25611316",
+    "mail": "contact@babilou.com",
+    "distance": 172673,
+    "latitude": 45.7577649650749,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Locard",
+    "resultStructId": "412404",
+    "omegaId": "45205",
+    "avip": false,
+    "adresse": "86-88 rue dr edlmond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8014345876066375,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12582363",
+    "mail": "trion.etablissement@mairie-lyon.fr",
+    "distance": 172673,
+    "latitude": 45.7577649650749,
+    "telephone": "0472390198",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTrion",
+    "resultStructId": "706524",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue des fosses de trion",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8014345876066375,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12582320",
+    "mail": "joliotcurie.etablissement@mairie-lyon.fr",
+    "distance": 172690,
+    "latitude": 45.756132217268764,
+    "telephone": "0478159150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJoliot Curie",
+    "resultStructId": "706523",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue joliot curie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7942444796369665,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "31934676",
+    "mail": "pierrecorneille.etablissement@mairie-lyon.fr",
+    "distance": 172716,
+    "latitude": 45.76634736828512,
+    "telephone": "0478249363",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierre Corneille",
+    "resultStructId": "707208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue pierre corneille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.843544698681642,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "34689604",
+    "mail": "contact@babilou.com",
+    "distance": 172737,
+    "latitude": 45.76430448770475,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Poulaillerie",
+    "resultStructId": "411905",
+    "omegaId": "15111",
+    "avip": false,
+    "adresse": "15 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8351549757532295,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12606701",
+    "mail": "crechecapucine@gmail.fr",
+    "distance": 172744,
+    "latitude": 45.76737699014635,
+    "telephone": "0961345118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Capucine",
+    "resultStructId": "108303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue boileau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849389172920951,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12584427",
+    "mail": "crequi.etablissement@mairie-lyon.fr",
+    "distance": 172770,
+    "latitude": 45.76659740591932,
+    "telephone": "0478521592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCréqui",
+    "resultStructId": "707205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "123 rue de crequi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846993691319647,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12582277",
+    "mail": "eisenhower.etablissement@mairie-lyon.fr",
+    "distance": 172779,
+    "latitude": 45.75260913881828,
+    "telephone": "0478596600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEisenhower",
+    "resultStructId": "706522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42-48 avenue eisenhower",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.780905102763199,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12580901",
+    "mail": "3petitspoints@csc-pdj.fr",
+    "distance": 172783,
+    "latitude": 45.75533758695929,
+    "telephone": "0782752036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes 3 Ptits Points",
+    "resultStructId": "87304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 impasse secret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7946328052614255,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12584470",
+    "mail": "cuvier.etablissement@mairie-lyon.fr",
+    "distance": 172788,
+    "latitude": 45.76773864229984,
+    "telephone": "0437242118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCuvier",
+    "resultStructId": "707206",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "131 rue cuvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.852896689068781,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12599348",
+    "mail": "cadet-bretelle@hotmail.fr",
+    "distance": 172792,
+    "latitude": 45.76836053079834,
+    "telephone": "0478527796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilparental Cadet Bretelle",
+    "resultStructId": "2719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue bossuet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855800915124889,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "27865647",
+    "mail": "cadet-bretelle@hotmail.fr",
+    "distance": 172792,
+    "latitude": 45.76836053079834,
+    "telephone": "0478527796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheParentale Cadet Bretelle",
+    "resultStructId": "95114",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "101 rue bossuet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855800915124889,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12580987",
+    "mail": "bureau@aucocondelouest.fr",
+    "distance": 172815,
+    "latitude": 45.75689207464528,
+    "telephone": "0478259041",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Au Cocon de l'ouest",
+    "resultStructId": "113902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue du point dujour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.803693425420646,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "13005895",
+    "mail": "lyon.cuvier@crechesetmalices.com",
+    "distance": 172845,
+    "latitude": 45.76790092482517,
+    "telephone": "0427180057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles petits chaperons rouges",
+    "resultStructId": "12203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "169 rue cuvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.856015086054458,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12820385",
+    "mail": "secretariat@gardeden.fr",
+    "distance": 172893,
+    "latitude": 45.75839152273654,
+    "telephone": "0426224853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE GARD'EDEN TRION",
+    "resultStructId": "7889",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 ter rue du cardinal",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814367764042234,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12591006",
+    "mail": "leticiabarkat@yahoo.fr",
+    "distance": 172907,
+    "latitude": 45.76776916349784,
+    "telephone": "0437241640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Melidoux",
+    "resultStructId": "2525",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue waldeck rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858003603643571,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12582492",
+    "mail": "hg.pierrotcolombine@croix-rouge.fr",
+    "distance": 172914,
+    "latitude": 45.76572071302456,
+    "telephone": "0478243103",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierrot et Colombine",
+    "resultStructId": "108304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue dussaussoy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849159164920741,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "13005422",
+    "mail": "lyon6@lpcr.fr",
+    "distance": 172920,
+    "latitude": 45.768460128884705,
+    "telephone": "0437464535",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges Lyon 6",
+    "resultStructId": "12192",
+    "omegaId": "1700",
+    "avip": false,
+    "adresse": "158 avenue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.86161178888754,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12612721",
+    "mail": "doremi@people-and-baby.com",
+    "distance": 172930,
+    "latitude": 45.76258665026974,
+    "telephone": "0472409915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDorémi",
+    "resultStructId": "3030",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835616792311238,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12671854",
+    "mail": "cecile.martini@garderisettes.fr",
+    "distance": 173020,
+    "latitude": 45.764820533327104,
+    "telephone": "0478248031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMicroBulles",
+    "resultStructId": "4405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue louis blanc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849607805744885,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12585158",
+    "mail": "frimousse@maison-enfance.com",
+    "distance": 173092,
+    "latitude": 45.766026149719934,
+    "telephone": "0478245137",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFrimousse",
+    "resultStructId": "2389",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue waldeck rousseau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8580571463759625,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "31965644",
+    "mail": "eajec.savoielamartine@croix-rouge.fr",
+    "distance": 173098,
+    "latitude": 45.76023335019381,
+    "telephone": "0437231740",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSavoie Lamartine",
+    "resultStructId": "86501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de savoie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832065124395903,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12582019",
+    "mail": "celestine69@wanadoo.fr",
+    "distance": 173107,
+    "latitude": 45.760096382582475,
+    "telephone": "0478378990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCélestine",
+    "resultStructId": "107003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place des celestins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.831828643994505,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "27800963",
+    "mail": "rondinpicotin@famillesenmouvement.fr",
+    "distance": 173131,
+    "latitude": 45.76472365264416,
+    "telephone": "0472149046",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheRondin Picotin",
+    "resultStructId": "709505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue juliette recamier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8538753165615836,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12770376",
+    "mail": "margotlyon5_1@creche-attitude.fr",
+    "distance": 173142,
+    "latitude": 45.75083887561608,
+    "telephone": "0478347793",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAttitude Margot Lyon 5-1",
+    "resultStructId": "117903",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue jean fauconnet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.789043538918953,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12770548",
+    "mail": "jardinjuliette@creche-attitude.fr",
+    "distance": 173142,
+    "latitude": 45.76433495929574,
+    "telephone": "0437243934",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin de Juliette",
+    "resultStructId": "6730",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "70 rue robert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85258835118137,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12701438",
+    "mail": "margotlyon5_2@creche-attitude.fr",
+    "distance": 173156,
+    "latitude": 45.75068009094334,
+    "telephone": "0478251355",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAttitude Margot Lyon 5-2",
+    "resultStructId": "117901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 rue pierre valdo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.78888588531802,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12585029",
+    "mail": "massena.etablissement@mairie-lyon.fr",
+    "distance": 173174,
+    "latitude": 45.764636499797284,
+    "telephone": "0478245101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMasséna",
+    "resultStructId": "707207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rue massena",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855320948663413,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12584771",
+    "mail": "grolee.etablissement@mairie-lyon.fr",
+    "distance": 173212,
+    "latitude": 45.7603056618586,
+    "telephone": "0478422050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGrolée",
+    "resultStructId": "706505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 quai jules courmont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.837345733043346,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12586104",
+    "mail": "centre.soc.st.just@free.fr",
+    "distance": 173216,
+    "latitude": 45.75667830921371,
+    "telephone": "0478253578",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJustin Justine",
+    "resultStructId": "2411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue des farges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.820650111309559,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "34688551",
+    "mail": "contact@babilou.com",
+    "distance": 173300,
+    "latitude": 45.764203846148945,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Jules Favre",
+    "resultStructId": "411901",
+    "omegaId": "5851",
+    "avip": false,
+    "adresse": "23 boulevard jules favre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858671781096972,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12597671",
+    "mail": "contact@babilou.com",
+    "distance": 173301,
+    "latitude": 45.76227398325814,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilou Lyon Lafayette Microsphère",
+    "resultStructId": "539701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 cours",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8501110214486935,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12597714",
+    "mail": "contact@babilou.com",
+    "distance": 173301,
+    "latitude": 45.76227398325814,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilou Lyon Lafayette Microgourmand",
+    "resultStructId": "539702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 c courslafayette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8501110214486935,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12718552",
+    "mail": "allix@agds.fr",
+    "distance": 173308,
+    "latitude": 45.75242130423773,
+    "telephone": "0472320318",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAllix",
+    "resultStructId": "87301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue commandant charcot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.804414471727817,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12718595",
+    "mail": "jardindenfantsdu5@agds.fr",
+    "distance": 173308,
+    "latitude": 45.75242130423773,
+    "telephone": "0427851915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants du 5ème",
+    "resultStructId": "362706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue commandant charcot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.804414471727817,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "30915193",
+    "mail": "69.mac.lionceaux@mnhsae.fr",
+    "distance": 173360,
+    "latitude": 45.76504236875238,
+    "telephone": "0472378946",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lionceaux",
+    "resultStructId": "183907",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 rue sainte genevieve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864900767872914,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "34190354",
+    "mail": "",
+    "distance": 173364,
+    "latitude": 45.75970000472188,
+    "telephone": "0478059432",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheCocon d'Etoiles Augagneur",
+    "resultStructId": "116212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 quai augagneur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.841137642940098,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12675294",
+    "mail": "oceane@slea.asso.fr",
+    "distance": 173367,
+    "latitude": 45.76566093993194,
+    "telephone": "0472741386",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilOcéane",
+    "resultStructId": "85107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue notre-dame",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867903059943598,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12584943",
+    "mail": "charmettes.etablissement@mairie-lyon.fr",
+    "distance": 173371,
+    "latitude": 45.76540115763188,
+    "telephone": "0478245122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCharmettes",
+    "resultStructId": "706526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "100 rue des charmettes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.866909801891243,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12676971",
+    "mail": "crechicrecha@gmail.com",
+    "distance": 173432,
+    "latitude": 45.759614918007735,
+    "telephone": "0613493831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheCRECHI CRECHA",
+    "resultStructId": "79214",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue sevigne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.843658613256887,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12698084",
+    "mail": "micro-creche@cocondetoiles.fr",
+    "distance": 173456,
+    "latitude": 45.760076667519826,
+    "telephone": "0967361620",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcréche Cocon d'étoiles",
+    "resultStructId": "5015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "197 rue vendome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846767066331866,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12584298",
+    "mail": "dunoir.etablissement@mairie-lyon.fr",
+    "distance": 173459,
+    "latitude": 45.76084521917711,
+    "telephone": "0478950867",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accuelDunoir",
+    "resultStructId": "706508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "192 rue andre philip",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850389142027955,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12726215",
+    "mail": "bienvenue@bottinesetbottillons.fr",
+    "distance": 173503,
+    "latitude": 45.7641980017535,
+    "telephone": "0967215780",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcréche Bottines et bottillons",
+    "resultStructId": "5699",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "133 rue des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867134126814523,
+    "ville": "lyon",
+    "cp": "69006"
+  },
+  {
+    "resultId": "12812688",
+    "mail": "chatperche@people-and-baby.com",
+    "distance": 173521,
+    "latitude": 45.758417464390455,
+    "telephone": "0478272757",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "crècheChat Perché",
+    "resultStructId": "7710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue mazenod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.84203894560203,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12585373",
+    "mail": "couffin.couffine.direction@gmail.com",
+    "distance": 173523,
+    "latitude": 45.755668366634566,
+    "telephone": "0478372969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCouffin Couffine",
+    "resultStructId": "523002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue saint francois de sales",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82944978568881,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12580944",
+    "mail": "lechantoiseau@alfa3a.org",
+    "distance": 173524,
+    "latitude": 45.747587332071255,
+    "telephone": "0478366279",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Chantoiseau",
+    "resultStructId": "113901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128 rue du commandant charcot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.790651308188834,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12675638",
+    "mail": "pomcannelle@slea.asso.fr",
+    "distance": 173570,
+    "latitude": 45.754873722765865,
+    "telephone": "0478954580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MINI MÔMES",
+    "resultStructId": "4493",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 impasse catelin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.827786167698911,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12675251",
+    "mail": "lucioles@slea.asso.fr",
+    "distance": 173574,
+    "latitude": 45.763003759239254,
+    "telephone": "0472114206",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Lucioles",
+    "resultStructId": "85106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue saint antoine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864825840129181,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12598746",
+    "mail": "descouleursfelix@orange.fr",
+    "distance": 173670,
+    "latitude": 45.75480419469095,
+    "telephone": "0478183367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDes Couleurs dans le Passage",
+    "resultStructId": "2705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue sala",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8318554153607005,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12592597",
+    "mail": "crecheptitsmalins@gmail.com",
+    "distance": 173693,
+    "latitude": 45.75242358416645,
+    "telephone": "0478382734",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Malins",
+    "resultStructId": "87401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue de la quarantaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8217254278517645,
+    "ville": "lyon",
+    "cp": "69005"
+  },
+  {
+    "resultId": "12785254",
+    "mail": "georgesand.etablissement@mairie-lyon.fr",
+    "distance": 173695,
+    "latitude": 45.7573411163505,
+    "telephone": "0437423757",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGeorge Sand",
+    "resultStructId": "706510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "162 rue pierre corneille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.844587279034915,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12804776",
+    "mail": "contact@enfance-recreation.fr",
+    "distance": 173709,
+    "latitude": 45.758350760491105,
+    "telephone": "0670022865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MIcrocrèche Enfance Ré-Création",
+    "resultStructId": "7526",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "108 rue chaponnay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8497793589397356,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12584126",
+    "mail": "",
+    "distance": 173718,
+    "latitude": 45.75328185997101,
+    "telephone": "0478421294",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPerrache",
+    "resultStructId": "2365",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cours de verdun, centre d'echanges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826872975296094,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12901878",
+    "mail": "mirabilis-villette@mfrpds.fr",
+    "distance": 173722,
+    "latitude": 45.76116409846511,
+    "telephone": "0437567960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMirabilis Villette",
+    "resultStructId": "115108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 rue maurice flandin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.862873017694995,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12738126",
+    "mail": "saxe@halppy-kids.fr",
+    "distance": 173770,
+    "latitude": 45.7570568685756,
+    "telephone": "0472618328",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheHALPPYKIDS SAXE",
+    "resultStructId": "197501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "127 avenue de saxe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846508839220594,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12580041",
+    "mail": "lejardindainay@free.fr",
+    "distance": 173783,
+    "latitude": 45.75266227245242,
+    "telephone": "0472409700",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin d'Ainay",
+    "resultStructId": "95115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue d'enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826803063640271,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12584341",
+    "mail": "boileau.etablissement@mairie-lyon.fr",
+    "distance": 173802,
+    "latitude": 45.75773646736283,
+    "telephone": "0472103721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBoileau",
+    "resultStructId": "706506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "238 rue andre philip",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850946870462303,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12770419",
+    "mail": "margotlyon7_1@creche-attitude.fr",
+    "distance": 173817,
+    "latitude": 45.75529711574024,
+    "telephone": "0950662857",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Crèches de Margot",
+    "resultStructId": "6727",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place raspail",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.840493642853272,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "23371878",
+    "mail": "lyon3@lpcr.fr",
+    "distance": 173820,
+    "latitude": 45.76119003882997,
+    "telephone": "0478184404",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES - LES MINUSCULES DELYON",
+    "resultStructId": "21803",
+    "omegaId": "19935",
+    "avip": false,
+    "adresse": "42 rue d'aubigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8671043808520835,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "50159789",
+    "mail": "contact@lespetitesfamilles.fr",
+    "distance": 173829,
+    "latitude": 45.75231441466379,
+    "telephone": "0786911721",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Petites Familles",
+    "resultStructId": "405701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue henri iv",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.82722184650307,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12847870",
+    "mail": "couffin.couffine.direction@gmail.com",
+    "distance": 173835,
+    "latitude": 45.75190138312416,
+    "telephone": "0478825475",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePetit Couffin",
+    "resultStructId": "523101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue vaubecour",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825560559406627,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "13040604",
+    "mail": "contact@bulledeveil.fr",
+    "distance": 173864,
+    "latitude": 45.75173968468577,
+    "telephone": "0469679189",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBulle d'Eveil",
+    "resultStructId": "86108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue d'enghien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826054952684904,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "34689314",
+    "mail": "contact@babilou.com",
+    "distance": 173898,
+    "latitude": 45.760173884566875,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBabilou Lyon Petites Sœurs",
+    "resultStructId": "411902",
+    "omegaId": "14880",
+    "avip": false,
+    "adresse": "1 rue des petites",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.865876145192918,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12585674",
+    "mail": "hg.rondeenfantine@croix-rouge.fr",
+    "distance": 173918,
+    "latitude": 45.75757072257895,
+    "telephone": "0478608373",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Ronde Enfantine",
+    "resultStructId": "2401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue desaix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855147991249332,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "29792161",
+    "mail": "eaje.larondedescolibris@croix-rouge.fr",
+    "distance": 173932,
+    "latitude": 45.75797541695951,
+    "telephone": "0478953419",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil La Ronde des Colibris",
+    "resultStructId": "58401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue desaix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.857538079331384,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "46671472",
+    "mail": "creche.lesoursons@croix-rouge.fr",
+    "distance": 173940,
+    "latitude": 45.756134407920754,
+    "telephone": "0482833323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Oursons",
+    "resultStructId": "326601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "278 rue duguesclin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849602297695227,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "46674214",
+    "mail": "creche.lesoursons@croix-rouge.fr",
+    "distance": 173984,
+    "latitude": 45.75547961009229,
+    "telephone": "0482533323",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilOursons et Compagnie",
+    "resultStructId": "326701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "230 rue de crequi",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.848503184375924,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12586792",
+    "mail": "contact@eveilmatins.fr",
+    "distance": 174025,
+    "latitude": 45.751090024306876,
+    "telephone": "0478426935",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEveil Mâtins",
+    "resultStructId": "86109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue de conde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.830122713048572,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "46804635",
+    "mail": "lyon3@liveli.fr",
+    "distance": 174076,
+    "latitude": 45.758235727822004,
+    "telephone": "0437695267",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLiveli Crèches Lyon 3",
+    "resultStructId": "329901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue gabillot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864720683203625,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12584255",
+    "mail": "francoisgillet.etablissement@mairie-lyon.fr",
+    "distance": 174163,
+    "latitude": 45.759447547452304,
+    "telephone": "0472688185",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilFrançois Gillet",
+    "resultStructId": "706509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue francois gillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87366500868806,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12614140",
+    "mail": "mtplyon7@orange.fr",
+    "distance": 174182,
+    "latitude": 45.75215272361416,
+    "telephone": "0478610658",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Maison des Tout-Petits",
+    "resultStructId": "83302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue jangot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.841875342808611,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "13005938",
+    "mail": "lyon.lac@crechesetmalices.com",
+    "distance": 174210,
+    "latitude": 45.75484861796317,
+    "telephone": "0427180056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles petits chaperons rouges",
+    "resultStructId": "12204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue du lac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855298771157778,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "28331607",
+    "mail": "secretariat@friponnerie.fr",
+    "distance": 174233,
+    "latitude": 45.757776183169725,
+    "telephone": "0472687084",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilArc en Ciel",
+    "resultStructId": "99406",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 rue antoine charial",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8692609631289825,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "27751169",
+    "mail": "lacrecheenchantee@gmail.com",
+    "distance": 174286,
+    "latitude": 45.75685367994364,
+    "telephone": "0650891784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LACRECHE ENCHANTEE DES FEES",
+    "resultStructId": "41305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "125 rue baraban",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867404815072727,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12599262",
+    "mail": "",
+    "distance": 174316,
+    "latitude": 45.756708402455075,
+    "telephone": "0472133387",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJacques Prévert",
+    "resultStructId": "96703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "261 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868007170812138,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12585631",
+    "mail": "nicolasetpimprenelle@free.fr",
+    "distance": 174334,
+    "latitude": 45.75182997235078,
+    "telephone": "0478611787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental Nicolas et Pimprenelle",
+    "resultStructId": "2400",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "92 grande rue de laguillotiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846950004000872,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12580084",
+    "mail": "ema.arlequin@croix-rouge.fr",
+    "distance": 174345,
+    "latitude": 45.7565662376894,
+    "telephone": "0472916533",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilArlequin",
+    "resultStructId": "86505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "258 rue paul bert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868584242483473,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12677616",
+    "mail": "mes_anges_mn@yahoo.fr",
+    "distance": 174388,
+    "latitude": 45.74613014736172,
+    "telephone": "0472419010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE MES'ANGES",
+    "resultStructId": "4539",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue seguin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822845363337629,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12613581",
+    "mail": "creche@unesourisverte.org",
+    "distance": 174452,
+    "latitude": 45.75460391184173,
+    "telephone": "0472121220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilUne Souris Verte",
+    "resultStructId": "109003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue kimmerling",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864401960164411,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12675208",
+    "mail": "canaillous.lyon@slea.asso.fr",
+    "distance": 174467,
+    "latitude": 45.748555653863654,
+    "telephone": "0472730021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Canaillous",
+    "resultStructId": "85104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue jaboulay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.837679674806451,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "30402534",
+    "mail": "lyon3.sky@lpcr.fr",
+    "distance": 174476,
+    "latitude": 45.75369692248004,
+    "telephone": "0637779654",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes Petits Chaperons Rouges Lyon Sky 6",
+    "resultStructId": "79209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14-16-18-20 ruedu general mouton duvernet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.861378283082386,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "60608467",
+    "mail": "",
+    "distance": 174478,
+    "latitude": 45.75465867395927,
+    "telephone": "0628320080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheles Marsupiaux Félix Faure",
+    "resultStructId": "713101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "155 avenue felix faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.865706595748876,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12879776",
+    "mail": "ptitslyons@les-cherubins.com",
+    "distance": 174486,
+    "latitude": 45.7521724414765,
+    "telephone": "0668650072",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes p'tits Lyons des Chérubins",
+    "resultStructId": "9270",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place bir hakem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.854963566282204,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12581976",
+    "mail": "unionfamilialeperrache@gmail.com",
+    "distance": 174494,
+    "latitude": 45.74543579169383,
+    "telephone": "0478372595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Cocon de Blandine",
+    "resultStructId": "102204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue marc antoine petit",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824274656832871,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12660803",
+    "mail": "mpbouillet@april.com",
+    "distance": 174522,
+    "latitude": 45.75268199013475,
+    "telephone": "0426293619",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'Entreprise La P'tite Hirondelle",
+    "resultStructId": "96702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue philomene",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858774024070766,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12599047",
+    "mail": "lesptitsdelaguill@gmail.com",
+    "distance": 174531,
+    "latitude": 45.75069980932596,
+    "telephone": "0478725154",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilParental Les P'tits de la Guill",
+    "resultStructId": "107002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue rachais",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850242882042978,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12987706",
+    "mail": "lyonguillotiere@creche-attitude.fr",
+    "distance": 174533,
+    "latitude": 45.750526197776,
+    "telephone": "0437706906",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crécheattitude Lyon Guillotière",
+    "resultStructId": "11780",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "116 rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.84952645167719,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12581417",
+    "mail": "contact@septimousses.fr",
+    "distance": 174567,
+    "latitude": 45.74728103305107,
+    "telephone": "0478617494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Associative Les Septimousses",
+    "resultStructId": "698716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 rue demarseille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.836133603246031,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12679938",
+    "mail": "lesroseaux@mfrpds.fr",
+    "distance": 174573,
+    "latitude": 45.74359762759634,
+    "telephone": "0472151050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Roseaux",
+    "resultStructId": "115111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue casimir perir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.819075062598361,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12865758",
+    "mail": "crechelespetitesmerveilles@yahoo.fr",
+    "distance": 174578,
+    "latitude": 45.74901749488981,
+    "telephone": "0951990088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Merveilles",
+    "resultStructId": "119203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue creuzet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.844611971353089,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12586620",
+    "mail": "secretariat@friponnerie.fr",
+    "distance": 174579,
+    "latitude": 45.751653548041624,
+    "telephone": "0472687084",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAu Diapason",
+    "resultStructId": "99701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue diapason",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.856599594216403,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12598789",
+    "mail": "descouleursfelix@orange.fr",
+    "distance": 174586,
+    "latitude": 45.755152871925915,
+    "telephone": "0478183367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDes Couleurs sur l'Avenue",
+    "resultStructId": "2706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "212 avenue felix faure",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872388751079548,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12901792",
+    "mail": "graindorge@mfrpds.fr",
+    "distance": 174614,
+    "latitude": 45.75004682410778,
+    "telephone": "0437288970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGrain d'Orge",
+    "resultStructId": "115110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "134-136 grande rue de la guillotiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850836876773421,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "60211100",
+    "mail": "confluence.etablissement@mairie-lyon.fr",
+    "distance": 174618,
+    "latitude": 45.744495819129014,
+    "telephone": "0426996219",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilConfluence",
+    "resultStructId": "706504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "130 rue delandine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825323131853354,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12673316",
+    "mail": "lescarillons@mfrpds.fr",
+    "distance": 174623,
+    "latitude": 45.75466410054554,
+    "telephone": "0478184055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes carillons",
+    "resultStructId": "115112",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue carry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.871798293725114,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "13046237",
+    "mail": "lyon@creche-la-maison-bleue.fr",
+    "distance": 174623,
+    "latitude": 45.75196488468147,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheJeunes Pousses",
+    "resultStructId": "13141",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 boulevard vivier merle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.859846366016726,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "35274019",
+    "mail": "contact@babilou.com",
+    "distance": 174626,
+    "latitude": 45.74824000508458,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Université",
+    "resultStructId": "411906",
+    "omegaId": "54005",
+    "avip": false,
+    "adresse": "50 rue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.843086617727564,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12577590",
+    "mail": "",
+    "distance": 174652,
+    "latitude": 45.74389966774977,
+    "telephone": "0478420038",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilQuivogne",
+    "resultStructId": "2213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue quivogne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.824026278046497,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12829759",
+    "mail": "contact@lescoquelicots.fr",
+    "distance": 174666,
+    "latitude": 45.743371355895306,
+    "telephone": "0983251963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche LES COQUELICOTS",
+    "resultStructId": "8107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 cours bayard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.822135922133437,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12586663",
+    "mail": "secretariat@friponnerie.fr",
+    "distance": 174674,
+    "latitude": 45.75404768212765,
+    "telephone": "0472687084",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPain d'Epices",
+    "resultStructId": "99801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 rue de la metallurgie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.871182552302606,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12582750",
+    "mail": "stlazare.etablissement@mairie-lyon.fr",
+    "distance": 174692,
+    "latitude": 45.74852229674361,
+    "telephone": "0478695830",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Lazare",
+    "resultStructId": "707603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue saint lazare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.847218269969211,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12584169",
+    "mail": "renoir.etablissement@mairie-lyon.fr",
+    "distance": 174703,
+    "latitude": 45.752214789245514,
+    "telephone": "0472121400",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRenoir",
+    "resultStructId": "706511",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue jean renoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.864330865610819,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12771365",
+    "mail": "bada@montchatons.com",
+    "distance": 174711,
+    "latitude": 45.75080877920954,
+    "telephone": "0472352209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMontchat Bada",
+    "resultStructId": "86509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue abbe boisard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858402199540267,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12931247",
+    "mail": "contact@minimoov.fr",
+    "distance": 174739,
+    "latitude": 45.74884313737838,
+    "telephone": "0983629186",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche MINI'MOOV",
+    "resultStructId": "10467",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue pauline kergomard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850723279336385,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12606615",
+    "mail": "",
+    "distance": 174744,
+    "latitude": 45.752454717479026,
+    "telephone": "0645534166",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Coccicrèches MCLC1",
+    "resultStructId": "2888",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue du dauphine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8670850459764985,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12582535",
+    "mail": "stlazareannexe.etablissement@mairie-lyon.fr",
+    "distance": 174759,
+    "latitude": 45.74792657664359,
+    "telephone": "0472713027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Lazare Annexe",
+    "resultStructId": "707604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du repos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.847407153998976,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12582707",
+    "mail": "servant.creche@mairie-lyon.fr",
+    "distance": 174759,
+    "latitude": 45.74661057312089,
+    "telephone": "0478726639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilServant",
+    "resultStructId": "707605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 rue raoul servant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.841388148735498,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "23342666",
+    "mail": "lyonynfluences@creche-attitude.fr",
+    "distance": 174827,
+    "latitude": 45.7416992003535,
+    "telephone": "0472640112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheattitude Ynfluences",
+    "resultStructId": "21611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue smith",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.821404171457412,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "12728408",
+    "mail": "creche.lesptitspas@croix-rouge.fr",
+    "distance": 174840,
+    "latitude": 45.74879747222587,
+    "telephone": "0478586064",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Pas",
+    "resultStructId": "5750",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue victorien sardou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8548252475568585,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "59536026",
+    "mail": "llesteven@igesa.fr",
+    "distance": 174853,
+    "latitude": 45.743819472404205,
+    "telephone": "0660939461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilNadaud",
+    "resultStructId": "706817",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue gustave nadaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8325246812919636,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "31965710",
+    "mail": "lyon2@creche-la-maison-bleue.fr",
+    "distance": 174868,
+    "latitude": 45.740809647171545,
+    "telephone": "0146540574",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSerpentine",
+    "resultStructId": "86503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "112 cours charlemagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.818979875518553,
+    "ville": "lyon",
+    "cp": "69002"
+  },
+  {
+    "resultId": "58452158",
+    "mail": "auniddelacigogne@gmail.com",
+    "distance": 174903,
+    "latitude": 45.747074499039186,
+    "telephone": "0437663529",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheAu Nid de la Cigogne",
+    "resultStructId": "687429",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 rue du repos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849706482424313,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12584814",
+    "mail": "brechan.etablissement@mairie-lyon.fr",
+    "distance": 174932,
+    "latitude": 45.75069132840566,
+    "telephone": "0478538638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBréchan",
+    "resultStructId": "706507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 passage roger brechan",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8671611515056545,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12674176",
+    "mail": "chevreul.etablissement@mairie-lyon.fr",
+    "distance": 174936,
+    "latitude": 45.745958787017386,
+    "telephone": "0478589945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChevreul",
+    "resultStructId": "707209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78 rue chevreul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.846050758446643,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12584212",
+    "mail": "montbrillant.etablissement@mairie-lyon.fr",
+    "distance": 174994,
+    "latitude": 45.75051594093946,
+    "telephone": "0472689025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMontbrillant",
+    "resultStructId": "706513",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de montbrillant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8689845516670145,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "13040518",
+    "mail": "carpillons@slea.asso.fr",
+    "distance": 175011,
+    "latitude": 45.74494174563105,
+    "telephone": "0478699577",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Carpillons",
+    "resultStructId": "85105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue camille roy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.84462684433431,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "40980716",
+    "mail": "blandan@agds.f",
+    "distance": 175015,
+    "latitude": 45.74715434043642,
+    "telephone": "0428386305",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBlandan",
+    "resultStructId": "210401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue victorien sardou",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8548406833343165,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12901921",
+    "mail": "myrtille@mfrpds.fr",
+    "distance": 175150,
+    "latitude": 45.75367305413988,
+    "telephone": "0437561988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMyrtille",
+    "resultStructId": "115107",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 bis cours richard vitton",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.889117880355795,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "27763301",
+    "mail": "lacrecheenchantee@gmail.com",
+    "distance": 175153,
+    "latitude": 45.74467084877006,
+    "telephone": "0650891784",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LA CRECHE ENCHANTEE",
+    "resultStructId": "41404",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 route de vienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.849502207578222,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12584857",
+    "mail": "pauldiday.etablissement@mairie-lyon.fr",
+    "distance": 175157,
+    "latitude": 45.750421501306306,
+    "telephone": "0472351881",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilDiday",
+    "resultStructId": "706514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue paul diday",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.875317372129553,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12582105",
+    "mail": "acacias@montchatons.com",
+    "distance": 175179,
+    "latitude": 45.751595431676506,
+    "telephone": "0472359424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Montchatons Acacias",
+    "resultStructId": "86508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 avenue des acacias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.881354184158958,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12991103",
+    "mail": "",
+    "distance": 175231,
+    "latitude": 45.74438418237991,
+    "telephone": "0628320080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Marsupiaux Lyon 7",
+    "resultStructId": "152901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue du repos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.851537394191765,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12582664",
+    "mail": "ltcolonelgirard.etablissement@mairie-lyon.fr",
+    "distance": 175341,
+    "latitude": 45.73826028529846,
+    "telephone": "0478698193",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLieutenant-Colonel Girard",
+    "resultStructId": "707602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue lieutenant colonelgirard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8279595353122335,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12751198",
+    "mail": "montchat@papouilles.fr",
+    "distance": 175359,
+    "latitude": 45.75262387484053,
+    "telephone": "0632019546",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crècheLes Papouilles de Montchat",
+    "resultStructId": "6280",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place saint charles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.893103839322753,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12673445",
+    "mail": "cocondeveil@gmail.com",
+    "distance": 175401,
+    "latitude": 45.74887012131459,
+    "telephone": "0661103557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Cocon d'éveil 3ème",
+    "resultStructId": "4442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue bonnefond",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.878636890490066,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12672757",
+    "mail": "",
+    "distance": 175419,
+    "latitude": 45.75155060731042,
+    "telephone": "0628320080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Marsupiaux Félix Faure",
+    "resultStructId": "153002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "114 cours du docteur",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8909671548663285,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12675165",
+    "mail": "chocolatine@slea.asso.fr",
+    "distance": 175424,
+    "latitude": 45.73772983607643,
+    "telephone": "0478586920",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilChocolatine",
+    "resultStructId": "85101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "102 boulevard yves farge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829142583586175,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12585502",
+    "mail": "drlong.etablissement@mairie-lyon.fr",
+    "distance": 175432,
+    "latitude": 45.75113153637834,
+    "telephone": "0472687361",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilDocteur Long",
+    "resultStructId": "85514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 cours du docteur long",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8896815663440325,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "23597766",
+    "mail": "mc.leroilyon@gmail.com",
+    "distance": 175444,
+    "latitude": 45.75032619668136,
+    "telephone": "0981010909",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Roi Lyon",
+    "resultStructId": "22701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "79 cours docteur long",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.886727792273742,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12586706",
+    "mail": "me.8@orange.fr",
+    "distance": 175451,
+    "latitude": 45.74579283066456,
+    "telephone": "0478001129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMonplaisir",
+    "resultStructId": "89414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du 1er film",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867196593335648,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12598961",
+    "mail": "creche.lesptitsbouts@gmail.com",
+    "distance": 175522,
+    "latitude": 45.736592121064355,
+    "telephone": "0478611047",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilparental Les P'tits Bouts",
+    "resultStructId": "2710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "120 boulevard yves farge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.828147581142558,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "23377682",
+    "mail": "contact@crechicrecha.com",
+    "distance": 175552,
+    "latitude": 45.74871011956722,
+    "telephone": "0613493831",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHALE NIDO DE MONTCHAT",
+    "resultStructId": "40104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 avenue du chateau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884164421698018,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12606056",
+    "mail": "gribouillelyonmassimi@orange.fr",
+    "distance": 175565,
+    "latitude": 45.73818242428964,
+    "telephone": "0437272595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGribouille Massimi",
+    "resultStructId": "86605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue pre gaudry",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.83747888955998,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "60363587",
+    "mail": "contactupycreche@gmail.com",
+    "distance": 175566,
+    "latitude": 45.74909310272153,
+    "telephone": "0749002709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheUPY BLEUET Montchat",
+    "resultStructId": "709601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue louise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.886412449783507,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "59896575",
+    "mail": "contact@lbbe.fr",
+    "distance": 175617,
+    "latitude": 45.7442161559064,
+    "telephone": "0667057988",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Explorateurs de Montplaisir",
+    "resultStructId": "701003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11-13 rue leo etmaurice trouilhet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8671611515056545,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12582191",
+    "mail": "botte@montchatons.com",
+    "distance": 175619,
+    "latitude": 45.748310720892356,
+    "telephone": "0472687720",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMontchat Botté",
+    "resultStructId": "109002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue ferdinand buisson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885200337102449,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12772827",
+    "mail": "berthelot@agds.fr",
+    "distance": 175719,
+    "latitude": 45.741001118186816,
+    "telephone": "0481090925",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheBERTHELOT",
+    "resultStructId": "6783",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de l'egalite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.857077035317126,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12586147",
+    "mail": "stmaurice.etablissement@mairie-lyon.fr",
+    "distance": 175726,
+    "latitude": 45.74346366288094,
+    "telephone": "0437905260",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Maurice",
+    "resultStructId": "707612",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue saint maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868383692233744,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "31993138",
+    "mail": "creche.lesptitspas@croix-rouge.fr",
+    "distance": 175739,
+    "latitude": 45.74526557463649,
+    "telephone": "0953076525",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes P'tits Pas",
+    "resultStructId": "87201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue professeur rochaix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.876859569234277,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "60255760",
+    "mail": "debeauvoir.etablissement@mairie-lyon.fr",
+    "distance": 175745,
+    "latitude": 45.73562023575001,
+    "telephone": "0437372069",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSimone de Beauvoir",
+    "resultStructId": "707606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue simone de beauvoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.833406533937998,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12585545",
+    "mail": "rochaix.etablissement@mairie-lyon.fr",
+    "distance": 175746,
+    "latitude": 45.74516272583189,
+    "telephone": "0472687570",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilRochaix",
+    "resultStructId": "706515",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "62 rue professeur rochaix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.876702025922561,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12785340",
+    "mail": "rochaix2.etablissement@mairie-lyon.fr",
+    "distance": 175746,
+    "latitude": 45.74516272583189,
+    "telephone": "0472360183",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-AccueilRochaix 2",
+    "resultStructId": "706516",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "60 rue professeur rochaix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.876702025922561,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "13005723",
+    "mail": "lyon.bonlait@lpcr.fr",
+    "distance": 175755,
+    "latitude": 45.73556338251657,
+    "telephone": "0427182640",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLCPR Lyon Bon Lait",
+    "resultStructId": "85109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue simone de beauvoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.833605965250294,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12675122",
+    "mail": "pomcannelle@slea.asso.fr",
+    "distance": 175784,
+    "latitude": 45.74326556177813,
+    "telephone": "0478758296",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPom'Canelle",
+    "resultStructId": "85108",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 bisq rue antoine lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.869928169834991,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "34689755",
+    "mail": "contact@babilou.com",
+    "distance": 175788,
+    "latitude": 45.74457319732492,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Thomas",
+    "resultStructId": "411907",
+    "omegaId": "23580",
+    "avip": false,
+    "adresse": "139 cours albert thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.875857253254002,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "12718638",
+    "mail": "lumiere@agds.fr",
+    "distance": 175825,
+    "latitude": 45.74318244946082,
+    "telephone": "0478766855",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLumière",
+    "resultStructId": "89243",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "144 avenue des freres lumiere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.871300048854244,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12671510",
+    "mail": "creche.coccinelles@croix-rouge.fr",
+    "distance": 175847,
+    "latitude": 45.74361942436315,
+    "telephone": "0478741771",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Coccinelles",
+    "resultStructId": "89301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "86 rue feuillat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.874128889882286,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12582965",
+    "mail": "stmathieu.etablissement@mairie-lyon.fr",
+    "distance": 175903,
+    "latitude": 45.74173963717364,
+    "telephone": "0437535916",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSaint Mathieu",
+    "resultStructId": "707611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue saint mathieu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.868148702653406,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "13005766",
+    "mail": "chambovet1@lpcr.fr",
+    "distance": 175933,
+    "latitude": 45.74787689629704,
+    "telephone": "0428679813",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheles petits chaperons rouges",
+    "resultStructId": "12200",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue chambovet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8961200799141675,
+    "ville": "lyon",
+    "cp": "69003"
+  },
+  {
+    "resultId": "40025560",
+    "mail": "gerland@halppy-kids.fr",
+    "distance": 175946,
+    "latitude": 45.73295467894144,
+    "telephone": "0967577218",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBisou Papillon Gerland",
+    "resultStructId": "705302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 place merieux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8297659430679065,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12674219",
+    "mail": "weill.etablissement@mairie-lyon.fr",
+    "distance": 176035,
+    "latitude": 45.73862359291704,
+    "telephone": "0437905270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilWeill",
+    "resultStructId": "707614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue audibert et lavirotte",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.859803597999741,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12582621",
+    "mail": "debourg.etablissement@mairie-lyon.fr",
+    "distance": 176038,
+    "latitude": 45.73180754819861,
+    "telephone": "0437000209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilDebourg",
+    "resultStructId": "707601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 rue du rhone",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.828408692611362,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "60216357",
+    "mail": "chaudoudoux@entraide-lyon.com",
+    "distance": 176177,
+    "latitude": 45.730626414524785,
+    "telephone": "0437371136",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Micro-crècheChaudoudoux",
+    "resultStructId": "706603",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "11 rue jacques monod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829004706227602,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12611302",
+    "mail": "les.bebes.bilingues@free.fr",
+    "distance": 176250,
+    "latitude": 45.731374528879,
+    "telephone": "0478950142",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Les Bébés Bilingues",
+    "resultStructId": "97006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "83 avenue debourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.835784856999023,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12785211",
+    "mail": "pierredelore.etablissement@mairie-lyon.fr",
+    "distance": 176253,
+    "latitude": 45.735720179997344,
+    "telephone": "0478725434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierre Delore",
+    "resultStructId": "707609",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "58 rue pierre delore",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855967913647255,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "13039658",
+    "mail": "baby.nursery@orange.fr",
+    "distance": 176297,
+    "latitude": 45.74153312382261,
+    "telephone": "0962567717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBaby Nursery",
+    "resultStructId": "109102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue rockefeller",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8836416486705945,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12581374",
+    "mail": "csgerland@wanadoo.fr",
+    "distance": 176342,
+    "latitude": 45.72920782876241,
+    "telephone": "0478694267",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilL'île des enfants",
+    "resultStructId": "2301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 place des pavillons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.829654214140142,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12583610",
+    "mail": "lydie.baratier@creche-leonceaux.com",
+    "distance": 176346,
+    "latitude": 45.73987855940724,
+    "telephone": "0437900120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Léonceaux",
+    "resultStructId": "113909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 rue gabriel sarrazin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87842420685862,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "33607636",
+    "mail": "souris7@unesourisverte.org",
+    "distance": 176385,
+    "latitude": 45.729165262178,
+    "telephone": "0437665213",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheSouris 7",
+    "resultStructId": "109004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue chappet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.831342297508612,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12991146",
+    "mail": "",
+    "distance": 176390,
+    "latitude": 45.737447286240936,
+    "telephone": "0628320080",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MIcro-crècheles Marsupiaux LYON 8",
+    "resultStructId": "153001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 boulevard jean xxiii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.869517341262595,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12598918",
+    "mail": "contact@babilou.com",
+    "distance": 176409,
+    "latitude": 45.727933056326,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Vercors",
+    "resultStructId": "412405",
+    "omegaId": "4140",
+    "avip": false,
+    "adresse": "5 rue du vercors",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.826574881519226,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "34125074",
+    "mail": "lescopainsdabord@alfa3a.org",
+    "distance": 176462,
+    "latitude": 45.73333663326814,
+    "telephone": "0478758545",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Copains d'Abord",
+    "resultStructId": "115103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "177 route de vienne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.854065238216516,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12581589",
+    "mail": "eaje@cs-laennec.fr",
+    "distance": 176470,
+    "latitude": 45.739665567474034,
+    "telephone": "0437905895",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMini Home",
+    "resultStructId": "99302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 rue laennec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.882630848858221,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "23598863",
+    "mail": "lyon8@lpcr.fr",
+    "distance": 176483,
+    "latitude": 45.73621426168081,
+    "telephone": "0426836387",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES - LYON 8",
+    "resultStructId": "22704",
+    "omegaId": "32889",
+    "avip": false,
+    "adresse": "8 rue josephchapelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867958089974111,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12583008",
+    "mail": "delaprade.etablissement@mairie-lyon.fr",
+    "distance": 176670,
+    "latitude": 45.73851397725414,
+    "telephone": "0478748809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilVictor De Laprade",
+    "resultStructId": "707608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue victor de laprade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885865613097432,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12718681",
+    "mail": "barbusse@agds.fr",
+    "distance": 176821,
+    "latitude": 45.73010898688796,
+    "telephone": "0478789960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBarbusse",
+    "resultStructId": "89240",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46-48 rue henri barbusse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.854807399979395,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12987405",
+    "mail": "creche.pierreetleloup@gsante.fr",
+    "distance": 176857,
+    "latitude": 45.73446195727229,
+    "telephone": "0437538090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierre et le Loup",
+    "resultStructId": "106801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "55 avenue jean mermoz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.875877952473758,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "34728764",
+    "mail": "contact@babilou.com",
+    "distance": 176931,
+    "latitude": 45.72663423162124,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Vallée",
+    "resultStructId": "412403",
+    "omegaId": "11209",
+    "avip": false,
+    "adresse": "14 espace henry vallee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.84356254599154,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "12660889",
+    "mail": "andree-roux@mfrpds.fr",
+    "distance": 176999,
+    "latitude": 45.733057374998914,
+    "telephone": "0437904005",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilAndrée Roux",
+    "resultStructId": "115113",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue professeur morat",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.87560428961931,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12588211",
+    "mail": "gdm@csetats-unis.org",
+    "distance": 177038,
+    "latitude": 45.730410061823285,
+    "telephone": "0478745029",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraines de Malice",
+    "resultStructId": "104707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 place du 8-mai-1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.865416297483614,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12582879",
+    "mail": "ranvier.etablissement@mairie-lyon.fr",
+    "distance": 177049,
+    "latitude": 45.73483677342838,
+    "telephone": "0478740787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilRanvier",
+    "resultStructId": "707610",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 passage ranvier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885469516910504,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12585932",
+    "mail": "lesptitsgonesdu8eme@free.fr",
+    "distance": 177339,
+    "latitude": 45.72965127921585,
+    "telephone": "0478014343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieLes P'tits Gones du 8ème",
+    "resultStructId": "89412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 avenue paul santy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.874734360006182,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12585975",
+    "mail": "lesptitsgonesdu8eme@free.fr",
+    "distance": 177339,
+    "latitude": 45.72965127921585,
+    "telephone": "0478014343",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale Les P'tits Gones du 8ème",
+    "resultStructId": "89246",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "104 avenue paul",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.874734360006182,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "59257255",
+    "mail": "gerland@liveli.fr",
+    "distance": 177340,
+    "latitude": 45.7226266509187,
+    "telephone": "0779575541",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'Entreprise les Ptits Loups de Gerland",
+    "resultStructId": "694509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rueprofesseur jean bernard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.842816927772926,
+    "ville": "lyon",
+    "cp": "69007"
+  },
+  {
+    "resultId": "34689407",
+    "mail": "contact@babilou.com",
+    "distance": 177384,
+    "latitude": 45.732252910668144,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBabilou Lyon Pinel",
+    "resultStructId": "412401",
+    "omegaId": "5461",
+    "avip": false,
+    "adresse": "202 boulevard pinel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888046965915102,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "35414566",
+    "mail": "contact@lespetitslions.fr",
+    "distance": 177491,
+    "latitude": 45.72873078178854,
+    "telephone": "0781595838",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Petits Lions \"Paul Santy\"",
+    "resultStructId": "137104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "99 rue paul santy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.877005603429618,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12583051",
+    "mail": "viviani.etablissement@mairie-lyon.fr",
+    "distance": 177556,
+    "latitude": 45.72590122848903,
+    "telephone": "0478741802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilViviani",
+    "resultStructId": "707613",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 ter avenue viviani",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.867116533230906,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12585717",
+    "mail": "eaje@centresocialmermoz.fr",
+    "distance": 177657,
+    "latitude": 45.72883525970857,
+    "telephone": "0478742678",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Loustics",
+    "resultStructId": "89411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue joseph chalier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.884400165592381,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "35073669",
+    "mail": "contact.lyon8@babymontessori.fr",
+    "distance": 178148,
+    "latitude": 45.723936393589916,
+    "telephone": "0478095941",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBaby Montessori Lyon 8",
+    "resultStructId": "129801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "204 avenue paul santy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.883300133015874,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "12771322",
+    "mail": "babylives69@gmail.com",
+    "distance": 178200,
+    "latitude": 45.7229460394448,
+    "telephone": "0478776238",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcréche BABY LIVES",
+    "resultStructId": "6748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue jules cambon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8810820086026325,
+    "ville": "lyon",
+    "cp": "69008"
+  },
+  {
+    "resultId": "41782394",
+    "mail": "contact@creche-badaboum.fr",
+    "distance": 116978,
+    "latitude": 46.58678990937889,
+    "telephone": "0766434876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBadaboum",
+    "resultStructId": "222502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse henri poincarre 85310 rives de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3084463748257207,
+    "ville": "lyon",
+    "cp": ""
+  },
+  {
+    "resultId": "41782394",
+    "mail": "contact@creche-badaboum.fr",
+    "distance": 116978,
+    "latitude": 46.58678990937889,
+    "telephone": "0766434876",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheBadaboum",
+    "resultStructId": "222502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse henri poincarre 85310 rives de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3084463748257207,
+    "ville": "lyon",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12484272",
+    "mail": "creche.municipale@ville-vierzon.fr",
+    "distance": 156369,
+    "latitude": 47.22579828703691,
+    "telephone": "0248751969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "462301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0824000719451043,
+    "ville": "vierzon",
+    "cp": "18100"
+  },
+  {
+    "resultId": "12484272",
+    "mail": "creche.municipale@ville-vierzon.fr",
+    "distance": 39134,
+    "latitude": 47.22579828703691,
+    "telephone": "0248751969",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "462301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue hector berlioz",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0824000719451043,
+    "ville": "vierzon",
+    "cp": "18100"
+  }
+]

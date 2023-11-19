@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12959799",
+    "mail": "petiteenfance@larochesuryon.fr",
+    "distance": 103185,
+    "latitude": 46.71468817925741,
+    "telephone": "0251474866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chapi-Chapo",
+    "resultStructId": "689819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedu stade - la maison du temps libre 85280",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3121013978391578,
+    "ville": "laferriere",
+    "cp": ""
+  },
+  {
+    "resultId": "31912763",
+    "mail": "contact@mairie-ozoir-la-ferriere.fr",
+    "distance": 137052,
+    "latitude": 48.764943559705166,
+    "telephone": "0160025173",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective",
+    "resultStructId": "109704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee andre boyer 77330 ozoir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6756671070660376,
+    "ville": "laferriere",
+    "cp": ""
+  },
+  {
+    "resultId": "12959799",
+    "mail": "petiteenfance@larochesuryon.fr",
+    "distance": 103185,
+    "latitude": 46.71468817925741,
+    "telephone": "0251474866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Chapi-Chapo",
+    "resultStructId": "689819",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruedu stade - la maison du temps libre 85280",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3121013978391578,
+    "ville": "laferriere",
+    "cp": ""
+  }
+]

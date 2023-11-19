@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13004648",
+    "mail": "titou@meuserognon.fr",
+    "distance": 143341,
+    "latitude": 48.32321622506735,
+    "telephone": "0325565571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TITOU",
+    "resultStructId": "702707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruede la croix de chauffour 52270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.205518450050096,
+    "ville": "doulaincourtsaucourt",
+    "cp": ""
+  },
+  {
+    "resultId": "13004648",
+    "mail": "titou@meuserognon.fr",
+    "distance": 66555,
+    "latitude": 48.32321622506735,
+    "telephone": "0325565571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TITOU",
+    "resultStructId": "702707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruede la croix de chauffour 52270",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.205518450050096,
+    "ville": "doulaincourtsaucourt",
+    "cp": ""
+  }
+]

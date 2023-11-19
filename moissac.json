@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12535708",
+    "mail": "creche.de.moissac@orange.fr",
+    "distance": 109565,
+    "latitude": 44.12833986126119,
+    "telephone": "0563322420",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- Les Grapillous",
+    "resultStructId": "1239",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "route de laujol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1037473263105788,
+    "ville": "moissac",
+    "cp": "82200"
+  },
+  {
+    "resultId": "12729397",
+    "mail": "",
+    "distance": 109856,
+    "latitude": 44.10292559902044,
+    "telephone": "0563000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche-HalteGarderie Bulle de bébés - Centre social du Sarlac",
+    "resultStructId": "674602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14avenue du docteur rouanet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0986481243763697,
+    "ville": "moissac",
+    "cp": "82200"
+  },
+  {
+    "resultId": "60280794",
+    "mail": "bebecrechemoissac@gmail.com",
+    "distance": 111211,
+    "latitude": 44.119211408433834,
+    "telephone": "0581781478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BEBECRECHE MOISSAC",
+    "resultStructId": "708020",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "912 route de la megere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.1219135801056992,
+    "ville": "moissac",
+    "cp": "82200"
+  }
+]

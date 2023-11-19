@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12896116",
+    "mail": "maisonenfance@issoudun.fr",
+    "distance": 166821,
+    "latitude": 46.947555075412176,
+    "telephone": "0254212522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMaison de l'Enfance François Habert",
+    "resultStructId": "678806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue francoishabert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9933248459644006,
+    "ville": "issoudun",
+    "cp": "36100"
+  },
+  {
+    "resultId": "50944502",
+    "mail": "loustalet36@gmail.com",
+    "distance": 167797,
+    "latitude": 46.93934257872684,
+    "telephone": "0608876063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchel'Oustalet",
+    "resultStructId": "638201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des bouvreuils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9828053440546927,
+    "ville": "issoudun",
+    "cp": "36100"
+  },
+  {
+    "resultId": "50944502",
+    "mail": "loustalet36@gmail.com",
+    "distance": 23906,
+    "latitude": 46.93934257872684,
+    "telephone": "0608876063",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchel'Oustalet",
+    "resultStructId": "638201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue des bouvreuils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9828053440546927,
+    "ville": "issoudun",
+    "cp": "36100"
+  },
+  {
+    "resultId": "12896116",
+    "mail": "maisonenfance@issoudun.fr",
+    "distance": 24421,
+    "latitude": 46.947555075412176,
+    "telephone": "0254212522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMaison de l'Enfance François Habert",
+    "resultStructId": "678806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue francoishabert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9933248459644006,
+    "ville": "issoudun",
+    "cp": "36100"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "57279902",
+    "mail": "microcrechelespetitsexplorateurs@outlook.fr",
+    "distance": 69634,
+    "latitude": 50.98216160597688,
+    "telephone": "0361171641",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES PETITS EXPLORATEURS",
+    "resultStructId": "673912",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 bis rue du pont depierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1422026433154,
+    "ville": "gravelines",
+    "cp": "59820"
+  },
+  {
+    "resultId": "12793080",
+    "mail": "lescalinous@atoutsville.fr",
+    "distance": 69959,
+    "latitude": 50.98414097134793,
+    "telephone": "0328655252",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES CALINOUS",
+    "resultStructId": "596702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 b avenue de picardie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.138645079542175,
+    "ville": "gravelines",
+    "cp": "59820"
+  },
+  {
+    "resultId": "12615043",
+    "mail": "",
+    "distance": 70715,
+    "latitude": 50.993449433240635,
+    "telephone": "0328234225",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesmoussaillons",
+    "resultStructId": "3084",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60bis avenue leon jouhaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.140712909347162,
+    "ville": "gravelines",
+    "cp": "59820"
+  },
+  {
+    "resultId": "12789984",
+    "mail": "lesptitesfrimousses@atoutsville.fr",
+    "distance": 71349,
+    "latitude": 50.994292247575544,
+    "telephone": "0328653209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITES FRIMOUSSES",
+    "resultStructId": "596703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "145 boulevard del'europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1270556009992063,
+    "ville": "gravelines",
+    "cp": "59820"
+  }
+]

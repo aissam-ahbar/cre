@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "16761866",
+    "mail": "creche.cadalen@gaillac-graulhet.fr",
+    "distance": 185556,
+    "latitude": 43.850303421617056,
+    "telephone": "0563788472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCALINOUS",
+    "resultStructId": "687927",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.981157116713031,
+    "ville": "cadalen",
+    "cp": "81600"
+  },
+  {
+    "resultId": "16761866",
+    "mail": "creche.cadalen@gaillac-graulhet.fr",
+    "distance": 156462,
+    "latitude": 43.850303421617056,
+    "telephone": "0563788472",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCALINOUS",
+    "resultStructId": "687927",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu-dit le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.981157116713031,
+    "ville": "cadalen",
+    "cp": "81600"
+  }
+]

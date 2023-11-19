@@ -1,0 +1,290 @@
+[
+  {
+    "resultId": "12953392",
+    "mail": "creche.mosaique@mutualite64.fr",
+    "distance": 113876,
+    "latitude": 43.32528515065314,
+    "telephone": "0559051990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Mosaïque",
+    "resultStructId": "10982",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue thomas edison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.32957772393446355,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "13075649",
+    "mail": "creche4cdm@ville-pau.fr",
+    "distance": 114350,
+    "latitude": 43.32171174984421,
+    "telephone": "0559987894",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedes 4 coins du monde",
+    "resultStructId": "319301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue parc en ciel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34338518269091056,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12952962",
+    "mail": "crecheduhameau@agglo-pau.fr",
+    "distance": 114506,
+    "latitude": 43.32031747858535,
+    "telephone": "0559111045",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueildu Hameau",
+    "resultStructId": "311701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue monseigneur campo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34362759682809657,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "13035530",
+    "mail": "creche.pau@gmail.com",
+    "distance": 114643,
+    "latitude": 43.319028065575395,
+    "telephone": "0559844793",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crècheparentale",
+    "resultStructId": "374801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue des planetes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34264559387119264,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "25972365",
+    "mail": "claudie.bournet@pepiniere-pau.com",
+    "distance": 115842,
+    "latitude": 43.309527089172406,
+    "telephone": "0559927228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceCourte Echelle",
+    "resultStructId": "33101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3650850296244258,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12953736",
+    "mail": "coralie.fornies@pepiniere-pau.com",
+    "distance": 115844,
+    "latitude": 43.30950829525033,
+    "telephone": "0564641170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLa Pépinière",
+    "resultStructId": "674813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 a 8 avenue robert schuman",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3650900158321689,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12803228",
+    "mail": "joyeuxbearn@orange.fr",
+    "distance": 116049,
+    "latitude": 43.30696256015656,
+    "telephone": "0559027089",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ASSOCIATIONCENTRE JOYEUX BEARN MULTI ACCUEIL",
+    "resultStructId": "22319",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 avenue de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3537522676094395,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12803357",
+    "mail": "creche.familiale@orange.fr",
+    "distance": 116125,
+    "latitude": 43.30669848055557,
+    "telephone": "0559300993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrecheFamiliale Association au Service de l'Enfance.",
+    "resultStructId": "28303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 ruepasteur cadier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.3607619036584223,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12802798",
+    "mail": "crechestvincent@agglo-pau.fr",
+    "distance": 116751,
+    "latitude": 43.30152038966432,
+    "telephone": "0559307887",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilSt Vincent de Paul",
+    "resultStructId": "321101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue louis lacaze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.36821732191939016,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12802755",
+    "mail": "crechestbasils@agglo-pau.fr",
+    "distance": 116894,
+    "latitude": 43.29897780709943,
+    "telephone": "0564641105",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheSt Basil's",
+    "resultStructId": "315401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "61 avenue trespoey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34729401180309355,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12803142",
+    "mail": "aje@apetitspas-pau.fr",
+    "distance": 117333,
+    "latitude": 43.29654086278116,
+    "telephone": "0559829675",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceMulti accueil A Petits Pas",
+    "resultStructId": "694310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du hedas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.37240598312797857,
+    "ville": "pau",
+    "cp": "64000"
+  },
+  {
+    "resultId": "12953306",
+    "mail": "crecherivegauche@agglo-pau.fr",
+    "distance": 117950,
+    "latitude": 43.2914013847376,
+    "telephone": "0559061726",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Rive Gauche",
+    "resultStructId": "322201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue du 14 juillet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.37871318483456673,
+    "ville": "pau",
+    "cp": "64000"
+  }
+]

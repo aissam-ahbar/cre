@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12910951",
+    "mail": "lepetitpoucet@info82.com",
+    "distance": 142840,
+    "latitude": 44.070699117683084,
+    "telephone": "0563303950",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Poucet",
+    "resultStructId": "9995",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des hirondelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5129244101338748,
+    "ville": "negrepelisse",
+    "cp": "82800"
+  },
+  {
+    "resultId": "12910908",
+    "mail": "jardin.eveil@info82.com",
+    "distance": 143055,
+    "latitude": 44.07844011099158,
+    "telephone": "0563649714",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'éveil",
+    "resultStructId": "9994",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du 19 mars 1962",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5181451193905562,
+    "ville": "negrepelisse",
+    "cp": "82800"
+  }
+]

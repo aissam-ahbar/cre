@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12887860",
+    "mail": "manege.enchante@agglo-villefranche.fr",
+    "distance": 144637,
+    "latitude": 46.000617792384084,
+    "telephone": "0474035249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Manège Enchanté",
+    "resultStructId": "83606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1254 route de montmelas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7039124729308135,
+    "ville": "gleize",
+    "cp": "69400"
+  },
+  {
+    "resultId": "12887903",
+    "mail": "espace.3.pommes@agglo-villefranche.fr",
+    "distance": 145153,
+    "latitude": 45.99636001748244,
+    "telephone": "0474651562",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilEspace 3 Pommes",
+    "resultStructId": "83605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "410 rue joseph viollet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.706741787178646,
+    "ville": "gleize",
+    "cp": "69400"
+  }
+]

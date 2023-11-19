@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12867865",
+    "mail": "multiaccueil.lespitchous@le-gresivaudan.fr",
+    "distance": 429117,
+    "latitude": 45.21617558511769,
+    "telephone": "0476523339",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespitchous",
+    "resultStructId": "699617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue anatole france 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.864225511138564,
+    "ville": "leversoud",
+    "cp": ""
+  },
+  {
+    "resultId": "35336778",
+    "mail": "lespetitsgrimpeurs@gmail.com",
+    "distance": 429296,
+    "latitude": 45.21955094864541,
+    "telephone": "0611823479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Grimpeurs du Versoud",
+    "resultStructId": "137303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "499 avenue pasteur 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.866585487670026,
+    "ville": "leversoud",
+    "cp": ""
+  },
+  {
+    "resultId": "12882270",
+    "mail": "multiaccueil-lespetitsloups.leversoud@le-gresivaudan.fr",
+    "distance": 429349,
+    "latitude": 45.21716649430116,
+    "telephone": "0476773968",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes petits loups",
+    "resultStructId": "9328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "187 rue les deymes 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8612444141220035,
+    "ville": "leversoud",
+    "cp": ""
+  },
+  {
+    "resultId": "12867865",
+    "mail": "multiaccueil.lespitchous@le-gresivaudan.fr",
+    "distance": 140916,
+    "latitude": 45.21617558511769,
+    "telephone": "0476523339",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespitchous",
+    "resultStructId": "699617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "181 rue anatole france 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.864225511138564,
+    "ville": "leversoud",
+    "cp": ""
+  },
+  {
+    "resultId": "12882270",
+    "mail": "multiaccueil-lespetitsloups.leversoud@le-gresivaudan.fr",
+    "distance": 141052,
+    "latitude": 45.21716649430116,
+    "telephone": "0476773968",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJELes petits loups",
+    "resultStructId": "9328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "187 rue les deymes 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.8612444141220035,
+    "ville": "leversoud",
+    "cp": ""
+  },
+  {
+    "resultId": "35336778",
+    "mail": "lespetitsgrimpeurs@gmail.com",
+    "distance": 141269,
+    "latitude": 45.21955094864541,
+    "telephone": "0611823479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Grimpeurs du Versoud",
+    "resultStructId": "137303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "499 avenue pasteur 38420",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.866585487670026,
+    "ville": "leversoud",
+    "cp": ""
+  }
+]

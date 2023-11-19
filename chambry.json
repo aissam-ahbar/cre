@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "56170511",
+    "mail": "chambry@liveli.fr",
+    "distance": 115681,
+    "latitude": 49.5905324362848,
+    "telephone": "0323299302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Liveli",
+    "resultStructId": "646001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue georges sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.647374858243569,
+    "ville": "chambry",
+    "cp": "02000"
+  },
+  {
+    "resultId": "56170511",
+    "mail": "chambry@liveli.fr",
+    "distance": 118462,
+    "latitude": 49.5905324362848,
+    "telephone": "0323299302",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Liveli",
+    "resultStructId": "646001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue georges sand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.647374858243569,
+    "ville": "chambry",
+    "cp": "02000"
+  }
+]

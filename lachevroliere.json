@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "42635116",
+    "mail": "contact@ptitsmousses.fr",
+    "distance": 74906,
+    "latitude": 47.08959282585165,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Mousses d'Armor",
+    "resultStructId": "701019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zac de beausoleil 44118",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6026652029014943,
+    "ville": "lachevroliere",
+    "cp": ""
+  },
+  {
+    "resultId": "43658502",
+    "mail": "c.vaillant@mairie-lachevroliere.fr",
+    "distance": 75010,
+    "latitude": 47.092355829518674,
+    "telephone": "0240567122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil",
+    "resultStructId": "673601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue alfred lemaitre 44118",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6099161423957167,
+    "ville": "lachevroliere",
+    "cp": ""
+  },
+  {
+    "resultId": "42635116",
+    "mail": "contact@ptitsmousses.fr",
+    "distance": 74906,
+    "latitude": 47.08959282585165,
+    "telephone": "0806700200",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Mousses d'Armor",
+    "resultStructId": "701019",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "zac de beausoleil 44118",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6026652029014943,
+    "ville": "lachevroliere",
+    "cp": ""
+  },
+  {
+    "resultId": "43658502",
+    "mail": "c.vaillant@mairie-lachevroliere.fr",
+    "distance": 75010,
+    "latitude": 47.092355829518674,
+    "telephone": "0240567122",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil",
+    "resultStructId": "673601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue alfred lemaitre 44118",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6099161423957167,
+    "ville": "lachevroliere",
+    "cp": ""
+  }
+]

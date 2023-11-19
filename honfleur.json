@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12818880",
+    "mail": "creche123soleil.honfleur@gmail.com",
+    "distance": 75678,
+    "latitude": 49.39555863475238,
+    "telephone": "0231818800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL 1.2.3. SOLEIL",
+    "resultStructId": "679605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jacques cartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.24129940943247072,
+    "ville": "honfleur",
+    "cp": "14600"
+  },
+  {
+    "resultId": "12819912",
+    "mail": "contact@lespetitsmoussaillons-honfleur.fr",
+    "distance": 77225,
+    "latitude": 49.42024022967499,
+    "telephone": "0231891799",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LES PETITS MOUSSAILLONS",
+    "resultStructId": "200611",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin le bouloir",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.23454187466757576,
+    "ville": "honfleur",
+    "cp": "14600"
+  }
+]

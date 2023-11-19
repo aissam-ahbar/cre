@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13021727",
+    "mail": "jdenfantsdirection.3pommes@gmail.com",
+    "distance": 63624,
+    "latitude": 50.87825684005522,
+    "telephone": "0781877558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JARDIND'ENFANTS Ô COMME 3 POMMES",
+    "resultStructId": "679102",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "164 place du general degaulle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0810266560787714,
+    "ville": "audruicq",
+    "cp": "62370"
+  },
+  {
+    "resultId": "12987276",
+    "mail": "haltegarderie.audruicq@wanadoo.fr",
+    "distance": 64315,
+    "latitude": 50.87912668460097,
+    "telephone": "0321357551",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Pas à Pas\"",
+    "resultStructId": "140704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "103 route de nortkerque",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0685598747342353,
+    "ville": "audruicq",
+    "cp": "62370"
+  }
+]

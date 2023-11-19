@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "60367899",
+    "mail": "petite-enfance.ouest@sicoval.fr",
+    "distance": 169456,
+    "latitude": 43.48628514357271,
+    "telephone": "0561754465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BOISSOLEIL",
+    "resultStructId": "710415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse de la tuilerie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5085046992287812,
+    "ville": "pompertuzat",
+    "cp": "31450"
+  },
+  {
+    "resultId": "52851384",
+    "mail": "calins.doudou.pompertuzat@gmail.com",
+    "distance": 169671,
+    "latitude": 43.489264606592116,
+    "telephone": "0536893684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINSDOUDOU POMPERTUZAT",
+    "resultStructId": "641501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du lauragais - lieu ditcondamine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5146296578278176,
+    "ville": "pompertuzat",
+    "cp": "31450"
+  },
+  {
+    "resultId": "52851384",
+    "mail": "calins.doudou.pompertuzat@gmail.com",
+    "distance": 192382,
+    "latitude": 43.489264606592116,
+    "telephone": "0536893684",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CALINSDOUDOU POMPERTUZAT",
+    "resultStructId": "641501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue du lauragais - lieu ditcondamine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5146296578278176,
+    "ville": "pompertuzat",
+    "cp": "31450"
+  }
+]

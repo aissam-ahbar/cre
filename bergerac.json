@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12871735",
+    "mail": "creche.cabrioles@la-cab.fr",
+    "distance": 79102,
+    "latitude": 44.84466910676236,
+    "telephone": "0553571163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESCABRIOLES",
+    "resultStructId": "9083",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue alphonse daudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.47697097074460876,
+    "ville": "bergerac",
+    "cp": "24100"
+  },
+  {
+    "resultId": "12871821",
+    "mail": "creche.familiale@la-cab.fr",
+    "distance": 79102,
+    "latitude": 44.84466910676236,
+    "telephone": "0553614344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE",
+    "resultStructId": "9085",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue alphonse daudet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.47697097074460876,
+    "ville": "bergerac",
+    "cp": "24100"
+  },
+  {
+    "resultId": "12871864",
+    "mail": "creche.bellegarde@la-cab.fr",
+    "distance": 79989,
+    "latitude": 44.85288091635244,
+    "telephone": "0553576746",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BELLEGARDE",
+    "resultStructId": "9086",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "placebellegarde",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.48139405944078095,
+    "ville": "bergerac",
+    "cp": "24100"
+  },
+  {
+    "resultId": "12871606",
+    "mail": "creche-pous@la-cab.fr",
+    "distance": 80225,
+    "latitude": 44.85174951566537,
+    "telephone": "0553572295",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "POUS",
+    "resultStructId": "9080",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3rue du perigord",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.4871348573083815,
+    "ville": "bergerac",
+    "cp": "24100"
+  }
+]

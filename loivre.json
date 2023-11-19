@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12784222",
+    "mail": "ptitesmains@orange.fr",
+    "distance": 79408,
+    "latitude": 49.343425178141466,
+    "telephone": "0326040263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Enfantill'âges Loivre",
+    "resultStructId": "7048",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de courcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9832878829408758,
+    "ville": "loivre",
+    "cp": "51220"
+  },
+  {
+    "resultId": "58003203",
+    "mail": "loivre@bullesetreves.com",
+    "distance": 79418,
+    "latitude": 49.34343307136039,
+    "telephone": "0326040263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bulleset Rêves",
+    "resultStructId": "681717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de courcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9830485501020787,
+    "ville": "loivre",
+    "cp": "51220"
+  },
+  {
+    "resultId": "58003203",
+    "mail": "loivre@bullesetreves.com",
+    "distance": 154849,
+    "latitude": 49.34343307136039,
+    "telephone": "0326040263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Bulleset Rêves",
+    "resultStructId": "681717",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de courcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9830485501020787,
+    "ville": "loivre",
+    "cp": "51220"
+  },
+  {
+    "resultId": "12784222",
+    "mail": "ptitesmains@orange.fr",
+    "distance": 154859,
+    "latitude": 49.343425178141466,
+    "telephone": "0326040263",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Enfantill'âges Loivre",
+    "resultStructId": "7048",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de courcy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9832878829408758,
+    "ville": "loivre",
+    "cp": "51220"
+  }
+]

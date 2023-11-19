@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13061373",
+    "mail": "creche@mairie-fenouillet.fr",
+    "distance": 149970,
+    "latitude": 43.6817198109188,
+    "telephone": "0562758987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits lutins",
+    "resultStructId": "523501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue du marechal leclerc",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3940225904826613,
+    "ville": "fenouillet",
+    "cp": "31150"
+  },
+  {
+    "resultId": "33206867",
+    "mail": "berlingots@liveli.fr",
+    "distance": 150901,
+    "latitude": 43.680169829730524,
+    "telephone": "0531618710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Berlingots",
+    "resultStructId": "632301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19rue des usines",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.406164895099809,
+    "ville": "fenouillet",
+    "cp": "31150"
+  }
+]

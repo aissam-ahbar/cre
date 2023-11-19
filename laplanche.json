@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12534160",
+    "mail": "afr.laplanche@orange.fr",
+    "distance": 74910,
+    "latitude": 47.01654250333894,
+    "telephone": "0240319682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCabrioles",
+    "resultStructId": "1203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue paul joyau 44140",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4369157947065745,
+    "ville": "laplanche",
+    "cp": ""
+  },
+  {
+    "resultId": "12534160",
+    "mail": "afr.laplanche@orange.fr",
+    "distance": 74910,
+    "latitude": 47.01654250333894,
+    "telephone": "0240319682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCabrioles",
+    "resultStructId": "1203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue paul joyau 44140",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4369157947065745,
+    "ville": "laplanche",
+    "cp": ""
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12670564",
+    "mail": "",
+    "distance": 155346,
+    "latitude": 48.87676456488841,
+    "telephone": "0171292188",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Anatole France\"",
+    "resultStructId": "116011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4346045055523384,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670478",
+    "mail": "",
+    "distance": 155828,
+    "latitude": 48.87374870726902,
+    "telephone": "0143628312",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Girardot\"",
+    "resultStructId": "108411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 ruegirardot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4275853248469974,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "51563832",
+    "mail": "creche.toffoletti@groupe-sos.org",
+    "distance": 155904,
+    "latitude": 48.865176064216854,
+    "telephone": "0602060461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRESCENDOGuy Toffoletti",
+    "resultStructId": "700913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue charles delescluze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.42543242894255,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670521",
+    "mail": "corinne.harge@ville-bagnolet.fr",
+    "distance": 155961,
+    "latitude": 48.87156084615197,
+    "telephone": "0149936679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil NEMO",
+    "resultStructId": "701224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue raymond lefebvre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4254691969309636,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "59933876",
+    "mail": "",
+    "distance": 156008,
+    "latitude": 48.8584182278965,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBagnolet Hugo",
+    "resultStructId": "701617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4231951521946504,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670607",
+    "mail": "leticia.marin-marin@ville-bagnolet.fr",
+    "distance": 156197,
+    "latitude": 48.86976963012583,
+    "telephone": "0143606960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Lénine",
+    "resultStructId": "701221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue lenine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4219919460522843,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12662308",
+    "mail": "rania.kebbiche@ville-bagnolet.fr",
+    "distance": 156254,
+    "latitude": 48.86233603432958,
+    "telephone": "0143606160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil municipale",
+    "resultStructId": "701226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue desire vienot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202845534052684,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670435",
+    "mail": "fabienne.langlais@ville-bagnolet.fr",
+    "distance": 156258,
+    "latitude": 48.86357087093906,
+    "telephone": "0143636313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux Municipale La Coccinelle",
+    "resultStructId": "701220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des blancs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4203833126156704,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12861716",
+    "mail": "aminata.tounkara@croix-rouge.fr",
+    "distance": 156336,
+    "latitude": 48.85975387817824,
+    "telephone": "0148978081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDES COUTURES MULTI ACCUEIL",
+    "resultStructId": "700919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du lieutenant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.418856768613338,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12861716",
+    "mail": "aminata.tounkara@croix-rouge.fr",
+    "distance": 7208,
+    "latitude": 48.85975387817824,
+    "telephone": "0148978081",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDES COUTURES MULTI ACCUEIL",
+    "resultStructId": "700919",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du lieutenant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.418856768613338,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12662308",
+    "mail": "rania.kebbiche@ville-bagnolet.fr",
+    "distance": 7328,
+    "latitude": 48.86233603432958,
+    "telephone": "0143606160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchemulti-accueil municipale",
+    "resultStructId": "701226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue desire vienot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4202845534052684,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670435",
+    "mail": "fabienne.langlais@ville-bagnolet.fr",
+    "distance": 7347,
+    "latitude": 48.86357087093906,
+    "telephone": "0143636313",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltejeux Municipale La Coccinelle",
+    "resultStructId": "701220",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des blancs",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4203833126156704,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "59933876",
+    "mail": "",
+    "distance": 7521,
+    "latitude": 48.8584182278965,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabilouBagnolet Hugo",
+    "resultStructId": "701617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "109 rue victor hugo",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4231951521946504,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670607",
+    "mail": "leticia.marin-marin@ville-bagnolet.fr",
+    "distance": 7560,
+    "latitude": 48.86976963012583,
+    "telephone": "0143606960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Lénine",
+    "resultStructId": "701221",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue lenine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4219919460522843,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "51563832",
+    "mail": "creche.toffoletti@groupe-sos.org",
+    "distance": 7733,
+    "latitude": 48.865176064216854,
+    "telephone": "0602060461",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRESCENDOGuy Toffoletti",
+    "resultStructId": "700913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue charles delescluze",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.42543242894255,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670521",
+    "mail": "corinne.harge@ville-bagnolet.fr",
+    "distance": 7848,
+    "latitude": 48.87156084615197,
+    "telephone": "0149936679",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil NEMO",
+    "resultStructId": "701224",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue raymond lefebvre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4254691969309636,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670478",
+    "mail": "",
+    "distance": 8051,
+    "latitude": 48.87374870726902,
+    "telephone": "0143628312",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Girardot\"",
+    "resultStructId": "108411",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 ruegirardot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4275853248469974,
+    "ville": "bagnolet",
+    "cp": "93170"
+  },
+  {
+    "resultId": "12670564",
+    "mail": "",
+    "distance": 8629,
+    "latitude": 48.87676456488841,
+    "telephone": "0171292188",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil collectif départemental \"Anatole France\"",
+    "resultStructId": "116011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "76rue anatole france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4346045055523384,
+    "ville": "bagnolet",
+    "cp": "93170"
+  }
+]

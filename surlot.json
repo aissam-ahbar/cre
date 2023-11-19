@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12536439",
+    "mail": "lenuagerose@wanadoo.fr",
+    "distance": 58745,
+    "latitude": 44.39617037794063,
+    "telephone": "0553849738",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte-garderie \"Le Nuage Rose\"",
+    "resultStructId": "675716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 chemin descaillabenes 47260 castelmoron",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.49868770231533815,
+    "ville": "surlot",
+    "cp": ""
+  },
+  {
+    "resultId": "12805206",
+    "mail": "creche.saintelivrade@grand-villeneuvois.fr",
+    "distance": 65583,
+    "latitude": 44.39478407624327,
+    "telephone": "0553011555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEDE SAINTE LIVRADE SUR LOT",
+    "resultStructId": "7536",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jacques bordeneuve 47110ste livrade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.5852022945336927,
+    "ville": "surlot",
+    "cp": ""
+  },
+  {
+    "resultId": "12805550",
+    "mail": "maisondelapetiteenfance@grand-villeneuvois.fr",
+    "distance": 74688,
+    "latitude": 44.406097963203564,
+    "telephone": "0553701523",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MAISONDE LA PETITE ENFANCE DE VILLENEUVE SUR LOT",
+    "resultStructId": "644401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevarddanton 47300 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6989190683367663,
+    "ville": "surlot",
+    "cp": ""
+  },
+  {
+    "resultId": "12805378",
+    "mail": "",
+    "distance": 74688,
+    "latitude": 44.406097963203564,
+    "telephone": "0553700947",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte-garderie \"Saint-Etienne\" de VILLENEUVE SURLOT",
+    "resultStructId": "7540",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard danton 47300 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6989190683367663,
+    "ville": "surlot",
+    "cp": ""
+  },
+  {
+    "resultId": "12805292",
+    "mail": "creche.darfeuille@grand-villeneuvois.fr",
+    "distance": 75572,
+    "latitude": 44.406710783842165,
+    "telephone": "0553700907",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHalte-garderie \"Darfeuille\" de VILLENEUVE SUR LOT",
+    "resultStructId": "7538",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12rue darfeuille 47300 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.7100035062937269,
+    "ville": "surlot",
+    "cp": ""
+  }
+]

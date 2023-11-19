@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "58375687",
+    "mail": "j.yvrai@lesbambinsdabord.fr",
+    "distance": 452748,
+    "latitude": 45.53058081998617,
+    "telephone": "0769836331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBAMBINS D ABORD",
+    "resultStructId": "683847",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue des tenettes 73190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.958156794708201,
+    "ville": "stbaldoph",
+    "cp": ""
+  },
+  {
+    "resultId": "12515111",
+    "mail": "lespetitscouardans@wanadoo.fr",
+    "distance": 452992,
+    "latitude": 45.53246242210935,
+    "telephone": "0479282422",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS COUARDANS",
+    "resultStructId": "703217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 chemin du pre rond 73190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.956529714955732,
+    "ville": "stbaldoph",
+    "cp": ""
+  },
+  {
+    "resultId": "58375687",
+    "mail": "j.yvrai@lesbambinsdabord.fr",
+    "distance": 175194,
+    "latitude": 45.53058081998617,
+    "telephone": "0769836331",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBAMBINS D ABORD",
+    "resultStructId": "683847",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue des tenettes 73190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.958156794708201,
+    "ville": "stbaldoph",
+    "cp": ""
+  },
+  {
+    "resultId": "12515111",
+    "mail": "lespetitscouardans@wanadoo.fr",
+    "distance": 175409,
+    "latitude": 45.53246242210935,
+    "telephone": "0479282422",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS COUARDANS",
+    "resultStructId": "703217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "117 chemin du pre rond 73190",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.956529714955732,
+    "ville": "stbaldoph",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12701051",
+    "mail": "admr.brindemalice@fede54.admr.org",
+    "distance": 132200,
+    "latitude": 48.593227305500164,
+    "telephone": "0383202010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil ADMR Brin de Malice",
+    "resultStructId": "5084",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de la republique 54110rosieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.332186676720639,
+    "ville": "auxsalines",
+    "cp": ""
+  },
+  {
+    "resultId": "13023189",
+    "mail": "",
+    "distance": 132270,
+    "latitude": 48.593187340111335,
+    "telephone": "0383202010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "structuremulti-accueil \"Chat Perché\"",
+    "resultStructId": "12605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de la moselle 54110rosieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.333131733989465,
+    "ville": "auxsalines",
+    "cp": ""
+  }
+]

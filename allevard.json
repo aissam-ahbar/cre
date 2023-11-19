@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59797907",
+    "mail": "multiaccueil.allevard@le-gresivaudan.fr",
+    "distance": 435105,
+    "latitude": 45.39179412371496,
+    "telephone": "0476450728",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLE PRE EN BULLE",
+    "resultStructId": "700002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue des templiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.070013777144284,
+    "ville": "allevard",
+    "cp": "38580"
+  },
+  {
+    "resultId": "12883818",
+    "mail": "multiaccueil.allevard@le-gresivaudan.fr",
+    "distance": 435128,
+    "latitude": 45.39564016763808,
+    "telephone": "0476450728",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFlocons",
+    "resultStructId": "50504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis avenue de savoie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.077286675688154,
+    "ville": "allevard",
+    "cp": "38580"
+  },
+  {
+    "resultId": "59797907",
+    "mail": "multiaccueil.allevard@le-gresivaudan.fr",
+    "distance": 159570,
+    "latitude": 45.39179412371496,
+    "telephone": "0476450728",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLE PRE EN BULLE",
+    "resultStructId": "700002",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue des templiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.070013777144284,
+    "ville": "allevard",
+    "cp": "38580"
+  },
+  {
+    "resultId": "12883818",
+    "mail": "multiaccueil.allevard@le-gresivaudan.fr",
+    "distance": 160001,
+    "latitude": 45.39564016763808,
+    "telephone": "0476450728",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesFlocons",
+    "resultStructId": "50504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 bis avenue de savoie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.077286675688154,
+    "ville": "allevard",
+    "cp": "38580"
+  }
+]

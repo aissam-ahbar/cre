@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "34732383",
+    "mail": "creche.lafarandole@wanadoo.fr",
+    "distance": 108154,
+    "latitude": 48.46404380197893,
+    "telephone": "0383251118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLa Farandole",
+    "resultStructId": "125906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue labbe lenfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.958462000640612,
+    "ville": "favieres",
+    "cp": "54115"
+  },
+  {
+    "resultId": "12605239",
+    "mail": "creche.lafarandole@wanadoo.fr",
+    "distance": 108155,
+    "latitude": 48.46404299424476,
+    "telephone": "0383251118",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Farandole\"",
+    "resultStructId": "117305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue de l'abbe lenfant",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.958462920601434,
+    "ville": "favieres",
+    "cp": "54115"
+  }
+]

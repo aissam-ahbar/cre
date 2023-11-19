@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "13032993",
+    "mail": "crecherioz@cc-pays-riolais.fr",
+    "distance": 146200,
+    "latitude": 47.42292511058846,
+    "telephone": "0384919506",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHEDE RIOZ \"Les Petits Pas\"",
+    "resultStructId": "634803",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.07567649464104,
+    "ville": "rioz",
+    "cp": "70190"
+  }
+]

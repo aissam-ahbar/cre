@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12819396",
+    "mail": "centresocialagies@gmail.com",
+    "distance": 83965,
+    "latitude": 49.50404951352684,
+    "telephone": "0235470506",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Le P'tit Monde d'AGIES\"",
+    "resultStructId": "201608",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis avenue jacqueseberhard 76700 gonfreville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.23299559051178495,
+    "ville": "lorcher",
+    "cp": ""
+  },
+  {
+    "resultId": "38324994",
+    "mail": "jupiter@micro-baby.com",
+    "distance": 84254,
+    "latitude": 49.509734295821474,
+    "telephone": "0970975234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JUPITER",
+    "resultStructId": "172006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5rue du camp philip morris 76700 gonfreville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.22892259951385743,
+    "ville": "lorcher",
+    "cp": ""
+  }
+]

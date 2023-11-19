@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "13056342",
+    "mail": "contact@babilou.com",
+    "distance": 149185,
+    "latitude": 48.75144678839494,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilBabilou Boissy Paris",
+    "resultStructId": "623303",
+    "omegaId": "17225",
+    "avip": false,
+    "adresse": "5 bis rue de paris 94470boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5099821584066055,
+    "ville": "stleger",
+    "cp": ""
+  },
+  {
+    "resultId": "18185836",
+    "mail": "",
+    "distance": 149354,
+    "latitude": 48.75290960036912,
+    "telephone": "0145866521",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MINILIONSBOISSY SAINT-LEGER",
+    "resultStructId": "14773",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 bis rue de paris 94470 boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5076843860748936,
+    "ville": "stleger",
+    "cp": ""
+  },
+  {
+    "resultId": "57318726",
+    "mail": "boissysaintleger1@creche-la-maison-bleue.fr",
+    "distance": 149532,
+    "latitude": 48.751370301470025,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Train des Roses\"",
+    "resultStructId": "682005",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 boulevard de la gare 94470boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5052481594558635,
+    "ville": "stleger",
+    "cp": ""
+  },
+  {
+    "resultId": "12543405",
+    "mail": "",
+    "distance": 149862,
+    "latitude": 48.754667611483846,
+    "telephone": "0145695853",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "14470",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gaston rouleau 94470 boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500758799378133,
+    "ville": "stleger",
+    "cp": ""
+  },
+  {
+    "resultId": "12543362",
+    "mail": "",
+    "distance": 149862,
+    "latitude": 48.754667611483846,
+    "telephone": "0145690268",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale",
+    "resultStructId": "14472",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gaston roulleau 94470 boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500758799378133,
+    "ville": "stleger",
+    "cp": ""
+  },
+  {
+    "resultId": "13054751",
+    "mail": "",
+    "distance": 149862,
+    "latitude": 48.754667611483846,
+    "telephone": "0145690269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil",
+    "resultStructId": "14757",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gaston rouleau 94470 boissy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.500758799378133,
+    "ville": "stleger",
+    "cp": ""
+  }
+]

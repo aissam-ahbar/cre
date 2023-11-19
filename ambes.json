@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "40916350",
+    "mail": "multiaccueil@mairie-ambes.fr",
+    "distance": 76698,
+    "latitude": 45.005389433051505,
+    "telephone": "0556770707",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil d'Ambès",
+    "resultStructId": "208502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue leon blum",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5275184407370718,
+    "ville": "ambes",
+    "cp": "33810"
+  }
+]

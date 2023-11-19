@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12806023",
+    "mail": "creche@taissy.fr",
+    "distance": 62833,
+    "latitude": 49.21172085609837,
+    "telephone": "0326827797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Ville de Taissy",
+    "resultStructId": "694607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de longjumeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.091170341215087,
+    "ville": "taissy",
+    "cp": "51500"
+  },
+  {
+    "resultId": "12806023",
+    "mail": "creche@taissy.fr",
+    "distance": 171348,
+    "latitude": 49.21172085609837,
+    "telephone": "0326827797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Ville de Taissy",
+    "resultStructId": "694607",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue de longjumeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.091170341215087,
+    "ville": "taissy",
+    "cp": "51500"
+  }
+]

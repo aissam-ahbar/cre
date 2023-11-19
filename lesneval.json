@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12873025",
+    "mail": "ribambelle@lehavremetro.fr",
+    "distance": 97472,
+    "latitude": 49.64108925671092,
+    "telephone": "0235274596",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILLA RIBAMBELLE",
+    "resultStructId": "701109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 bis rue le pre de la forge 76280criquetot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.2676645956733199,
+    "ville": "lesneval",
+    "cp": ""
+  },
+  {
+    "resultId": "54947449",
+    "mail": "micro.creche@lesbouillesaboujou.fr",
+    "distance": 97659,
+    "latitude": 49.644571298106634,
+    "telephone": "0277246631",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESBOUILLES A BOUJOU",
+    "resultStructId": "634801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 route etretat 76280 criquetot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.26466118010030204,
+    "ville": "lesneval",
+    "cp": ""
+  }
+]

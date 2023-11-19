@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "18399510",
+    "mail": "petit.a.petit@wanadoo.fr",
+    "distance": 52690,
+    "latitude": 44.78680075339914,
+    "telephone": "0556206470",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL PETIT A PETIT",
+    "resultStructId": "204205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue des arpeges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.48561146981810854,
+    "ville": "latresne",
+    "cp": "33360"
+  },
+  {
+    "resultId": "18399693",
+    "mail": "m-a.latresne@cdc-portesentredeuxmers.fr",
+    "distance": 53094,
+    "latitude": 44.784902100505256,
+    "telephone": "0556208097",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL IL ETAIT UNE FOIS",
+    "resultStructId": "239701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 chemin du port de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.5051694201491236,
+    "ville": "latresne",
+    "cp": "33360"
+  }
+]

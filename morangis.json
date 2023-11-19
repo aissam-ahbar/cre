@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12690000",
+    "mail": "",
+    "distance": 194275,
+    "latitude": 48.696279216532304,
+    "telephone": "0164542828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin des Petits Pas",
+    "resultStructId": "4827",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue des oiseaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3243317608929464,
+    "ville": "morangis",
+    "cp": "91420"
+  },
+  {
+    "resultId": "12689957",
+    "mail": "mpe@morangis91.com",
+    "distance": 195385,
+    "latitude": 48.7053015568916,
+    "telephone": "0164542828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Bois des Sables",
+    "resultStructId": "505801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee lavoisier - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3318930291337545,
+    "ville": "morangis",
+    "cp": "91420"
+  },
+  {
+    "resultId": "12689914",
+    "mail": "mpe@morangis91.com",
+    "distance": 195385,
+    "latitude": 48.7053015568916,
+    "telephone": "0164542828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Bois des Sables",
+    "resultStructId": "510101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee lavoisier - maison de lapetite enfance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3318930291337545,
+    "ville": "morangis",
+    "cp": "91420"
+  },
+  {
+    "resultId": "32439371",
+    "mail": "",
+    "distance": 195621,
+    "latitude": 48.70627669597301,
+    "telephone": "0164542828",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NelsonMandela",
+    "resultStructId": "92208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue de wissous",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.338924616678471,
+    "ville": "morangis",
+    "cp": "91420"
+  }
+]

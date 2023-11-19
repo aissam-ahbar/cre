@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13020257",
+    "mail": "microcrechelilotcalins@gmail.com",
+    "distance": 25178,
+    "latitude": 50.68684075094996,
+    "telephone": "0359513247",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchel'îlot câlins",
+    "resultStructId": "12537",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "392 rue de l'epinette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8382676269497917,
+    "ville": "nieppe",
+    "cp": "59850"
+  },
+  {
+    "resultId": "13027790",
+    "mail": "multiaccueil@ville-nieppe.fr",
+    "distance": 26813,
+    "latitude": 50.70289069139731,
+    "telephone": "0320572495",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes p'tits quinquins",
+    "resultStructId": "596301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "226 rue du docteur vanuxeem",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.835872549888746,
+    "ville": "nieppe",
+    "cp": "59850"
+  }
+]

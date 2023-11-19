@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12590404",
+    "mail": "crsully@levesinet.fr",
+    "distance": 192301,
+    "latitude": 48.89711512855471,
+    "telephone": "0139765557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - SULLY",
+    "resultStructId": "688429",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de sully 78110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1138700388505445,
+    "ville": "levesinet",
+    "cp": ""
+  },
+  {
+    "resultId": "12590447",
+    "mail": "cr404moineaux@levesinet.fr",
+    "distance": 192625,
+    "latitude": 48.89637691827485,
+    "telephone": "0134800160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES MOINEAUX",
+    "resultStructId": "688426",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "49 boulevard d'angleterre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.118270888016503,
+    "ville": "levesinet",
+    "cp": "78110"
+  },
+  {
+    "resultId": "12590791",
+    "mail": "crprincesse@levesinet.fr",
+    "distance": 193738,
+    "latitude": 48.88151555155217,
+    "telephone": "0139764992",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LA PRINCESSE",
+    "resultStructId": "688428",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "31 ter rue de l'ecluse 78110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1325814560039484,
+    "ville": "levesinet",
+    "cp": ""
+  },
+  {
+    "resultId": "12590361",
+    "mail": "crerables@levesinet.fr",
+    "distance": 193764,
+    "latitude": 48.88136554607538,
+    "telephone": "0130530504",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES ERABLES",
+    "resultStructId": "688425",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 avenue de l'ecluse 78110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.132932312613223,
+    "ville": "levesinet",
+    "cp": ""
+  },
+  {
+    "resultId": "12590705",
+    "mail": "crpetitspages@levesinet.fr",
+    "distance": 193874,
+    "latitude": 48.90178564473851,
+    "telephone": "0130713207",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES PETITS PAGES",
+    "resultStructId": "688427",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue des pages 78110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.135654167858247,
+    "ville": "levesinet",
+    "cp": ""
+  },
+  {
+    "resultId": "12590619",
+    "mail": "crcharmettes@levesinet.fr",
+    "distance": 193893,
+    "latitude": 48.90301455250051,
+    "telephone": "0130714143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - LES CHARMETTES",
+    "resultStructId": "688424",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 avenue des pages 78110",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1359769067122563,
+    "ville": "levesinet",
+    "cp": ""
+  }
+]

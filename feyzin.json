@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12908887",
+    "mail": "jardin.enfants@ville-feyzin.fr",
+    "distance": 182115,
+    "latitude": 45.68111997275335,
+    "telephone": "0472893543",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'Enfants Municipal",
+    "resultStructId": "564203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 chemin de beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858744657612394,
+    "ville": "feyzin",
+    "cp": "69320"
+  },
+  {
+    "resultId": "13040174",
+    "mail": "creche@ville-feyzin.fr",
+    "distance": 182115,
+    "latitude": 45.68111997275335,
+    "telephone": "0472893544",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal",
+    "resultStructId": "564301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 chemin de beauregard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858744657612394,
+    "ville": "feyzin",
+    "cp": "69320"
+  },
+  {
+    "resultId": "12908844",
+    "mail": "zebulons@csfeyzin.com",
+    "distance": 183934,
+    "latitude": 45.66354350403898,
+    "telephone": "0478703695",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Zébulons",
+    "resultStructId": "104301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des maures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.856450767965923,
+    "ville": "feyzin",
+    "cp": "69320"
+  }
+]

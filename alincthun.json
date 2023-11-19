@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "58957324",
+    "mail": "contact@ocoeurdes5sens.com",
+    "distance": 70947,
+    "latitude": 50.73963603854352,
+    "telephone": "0788876049",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ocœur des 5 sens",
+    "resultStructId": "703303",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 zone d'activites les pichottes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.80543282917392,
+    "ville": "alincthun",
+    "cp": "62142"
+  },
+  {
+    "resultId": "12854621",
+    "mail": "celine.guilbert@cc-desvressamer.fr",
+    "distance": 71314,
+    "latitude": 50.74145954860284,
+    "telephone": "0321995592",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Petits Pas\"",
+    "resultStructId": "698412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 les pichottes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.801009366850821,
+    "ville": "alincthun",
+    "cp": "62142"
+  }
+]

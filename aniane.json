@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12810409",
+    "mail": "multiaccueil.aniane@cc-vallee-herault.fr",
+    "distance": 84540,
+    "latitude": 43.68440940462018,
+    "telephone": "0467678763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pitchounets",
+    "resultStructId": "111502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 boulevard felix guiraud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5900616900575546,
+    "ville": "aniane",
+    "cp": "34150"
+  },
+  {
+    "resultId": "12810409",
+    "mail": "multiaccueil.aniane@cc-vallee-herault.fr",
+    "distance": 26470,
+    "latitude": 43.68440940462018,
+    "telephone": "0467678763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Pitchounets",
+    "resultStructId": "111502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "50 boulevard felix guiraud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5900616900575546,
+    "ville": "aniane",
+    "cp": "34150"
+  }
+]

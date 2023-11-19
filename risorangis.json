@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "12515627",
+    "mail": "",
+    "distance": 190399,
+    "latitude": 48.64475494934708,
+    "telephone": "0169028424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesConfettis",
+    "resultStructId": "772",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ferme du temple 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.40716119140893,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "37678093",
+    "mail": "",
+    "distance": 191695,
+    "latitude": 48.6560587786469,
+    "telephone": "0169026821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "160209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du docteur crespin 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41155045010608,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "12517347",
+    "mail": "mj.berenguer@ville-ris-orangis.fr",
+    "distance": 191696,
+    "latitude": 48.65605895566035,
+    "telephone": "0169068482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du docteur crespin 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4115513846613497,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "37678035",
+    "mail": "",
+    "distance": 191865,
+    "latitude": 48.657006858952585,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mentheet Grenadine",
+    "resultStructId": "160208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue de seine 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.414767475957201,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "37678035",
+    "mail": "",
+    "distance": 156514,
+    "latitude": 48.657006858952585,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Mentheet Grenadine",
+    "resultStructId": "160208",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue de seine 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.414767475957201,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "12517347",
+    "mail": "mj.berenguer@ville-ris-orangis.fr",
+    "distance": 156757,
+    "latitude": 48.65605895566035,
+    "telephone": "0169068482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole",
+    "resultStructId": "812",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du docteur crespin 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4115513846613497,
+    "ville": "risorangis",
+    "cp": ""
+  },
+  {
+    "resultId": "37678093",
+    "mail": "",
+    "distance": 156757,
+    "latitude": 48.6560587786469,
+    "telephone": "0169026821",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pommed'Api",
+    "resultStructId": "160209",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du docteur crespin 91130",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.41155045010608,
+    "ville": "risorangis",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12799530",
+    "mail": "pommedamour@bourganeuf.fr",
+    "distance": 117297,
+    "latitude": 45.94962819340283,
+    "telephone": "0555642871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Pomme d'Amour\"",
+    "resultStructId": "15678",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee du verger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7602896534526966,
+    "ville": "bourganeuf",
+    "cp": "23400"
+  },
+  {
+    "resultId": "12799530",
+    "mail": "pommedamour@bourganeuf.fr",
+    "distance": 237232,
+    "latitude": 45.94962819340283,
+    "telephone": "0555642871",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Pomme d'Amour\"",
+    "resultStructId": "15678",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee du verger",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7602896534526966,
+    "ville": "bourganeuf",
+    "cp": "23400"
+  }
+]

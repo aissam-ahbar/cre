@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12700578",
+    "mail": "tpsecretariat@cias-sud.re",
+    "distance": 1457751,
+    "latitude": -21.34891844666994,
+    "telephone": "0262976787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti-accueil Tom Pouce",
+    "resultStructId": "508601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des cryptomerias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.561191029273026,
+    "ville": "petiteile",
+    "cp": "97429"
+  },
+  {
+    "resultId": "12673187",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 1458078,
+    "latitude": -21.365681347292377,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Copains de Julien\"",
+    "resultStructId": "66302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue des mascarins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.55077235964579,
+    "ville": "petiteile",
+    "cp": "97429"
+  },
+  {
+    "resultId": "12629147",
+    "mail": "caztibabas@cias-sud.re",
+    "distance": 1458622,
+    "latitude": -21.355823341245863,
+    "telephone": "0262577453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Caz Ti Babas",
+    "resultStructId": "508501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "159 rue des platanes - piton desgoyaves 97429",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.56602785073073,
+    "ville": "petiteile",
+    "cp": ""
+  },
+  {
+    "resultId": "12700578",
+    "mail": "tpsecretariat@cias-sud.re",
+    "distance": 49954,
+    "latitude": -21.34891844666994,
+    "telephone": "0262976787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CentreMulti-accueil Tom Pouce",
+    "resultStructId": "508601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue des cryptomerias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.561191029273026,
+    "ville": "petiteile",
+    "cp": "97429"
+  },
+  {
+    "resultId": "12629147",
+    "mail": "caztibabas@cias-sud.re",
+    "distance": 50749,
+    "latitude": -21.355823341245863,
+    "telephone": "0262577453",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Caz Ti Babas",
+    "resultStructId": "508501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "159 rue des platanes - piton desgoyaves 97429",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.56602785073073,
+    "ville": "petiteile",
+    "cp": ""
+  },
+  {
+    "resultId": "12673187",
+    "mail": "contes-et-fleurettes@orange.fr",
+    "distance": 51773,
+    "latitude": -21.365681347292377,
+    "telephone": "0692868717",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"Les Copains de Julien\"",
+    "resultStructId": "66302",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "60 rue des mascarins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 55.55077235964579,
+    "ville": "petiteile",
+    "cp": "97429"
+  }
+]

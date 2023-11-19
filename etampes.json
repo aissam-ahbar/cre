@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12679508",
+    "mail": "portail.famille@caese.fr",
+    "distance": 162968,
+    "latitude": 48.43588282507838,
+    "telephone": "0164592727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grandecrèche Le Petit Prince",
+    "resultStructId": "687928",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 mail antoine de saint",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1406662873882514,
+    "ville": "etampes",
+    "cp": "91150"
+  },
+  {
+    "resultId": "29768079",
+    "mail": "contact.luze.e@free.fr",
+    "distance": 163151,
+    "latitude": 48.43451176619704,
+    "telephone": "0973602735",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MCLes P'tits Zelfes",
+    "resultStructId": "57805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue charles de gaulle - site duchse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1612690446915215,
+    "ville": "etampes",
+    "cp": "91150"
+  },
+  {
+    "resultId": "37620127",
+    "mail": "portail.famille@caese.fr",
+    "distance": 163360,
+    "latitude": 48.43721545151497,
+    "telephone": "0164592727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grandecrèche familiale Serge-LEVREZ",
+    "resultStructId": "687931",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue jean-baptisteeynard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1561200823971425,
+    "ville": "etampes",
+    "cp": "91150"
+  },
+  {
+    "resultId": "12679422",
+    "mail": "portail.famille@caese.fr",
+    "distance": 163360,
+    "latitude": 48.43721545151497,
+    "telephone": "0164592727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Trèsgrande crèche Serge-LEVREZ",
+    "resultStructId": "688036",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue jean-baptiste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1561200823971425,
+    "ville": "etampes",
+    "cp": "91150"
+  },
+  {
+    "resultId": "12652281",
+    "mail": "portail.famille@caese.fr",
+    "distance": 164424,
+    "latitude": 48.44541783077878,
+    "telephone": "0164592727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheMandarine",
+    "resultStructId": "687934",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue jean-etienne guettard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1667902872530904,
+    "ville": "etampes",
+    "cp": "91150"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12904544",
+    "mail": "multi-accueil@ville-isle-adam.fr",
+    "distance": 154424,
+    "latitude": 49.1216432889237,
+    "telephone": "0134088654",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Jean de La Fontaine",
+    "resultStructId": "316803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 allee des sablieres95290 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2257621354835004,
+    "ville": "isleadam",
+    "cp": ""
+  },
+  {
+    "resultId": "12935332",
+    "mail": "creche@ville-isle-adam.fr",
+    "distance": 155262,
+    "latitude": 49.114517471479665,
+    "telephone": "0134697749",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale l'Isle Adam",
+    "resultStructId": "677601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee du dr. jean cailleux95290 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2217391798808372,
+    "ville": "isleadam",
+    "cp": ""
+  },
+  {
+    "resultId": "12904458",
+    "mail": "halte@ville-isle-adam.fr",
+    "distance": 155275,
+    "latitude": 49.11444259793305,
+    "telephone": "0134695476",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie",
+    "resultStructId": "181007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "allee du docteur jean cailleux 95290 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2214434573602477,
+    "ville": "isleadam",
+    "cp": ""
+  },
+  {
+    "resultId": "12778890",
+    "mail": "lajoiedeschouchous@hotmail.fr",
+    "distance": 155600,
+    "latitude": 49.11119995119536,
+    "telephone": "0661879217",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\"La joie des chouchous\"",
+    "resultStructId": "6924",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 avenue de paris 95290 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.223022962014845,
+    "ville": "isleadam",
+    "cp": ""
+  },
+  {
+    "resultId": "12928237",
+    "mail": "isleadam.martel@lpcr.fr",
+    "distance": 155836,
+    "latitude": 49.11021499608221,
+    "telephone": "0173248691",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEET MALICE",
+    "resultStructId": "10397",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue martel 95290 l",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2152429339786144,
+    "ville": "isleadam",
+    "cp": ""
+  }
+]

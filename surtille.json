@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12788307",
+    "mail": "jthomassin@fede21.admr.org",
+    "distance": 78709,
+    "latitude": 47.51593402685163,
+    "telephone": "0380755242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil BRIN D'EVEIL (ADMR)",
+    "resultStructId": "199732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue charles de gaulle21120 is",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1193004311018955,
+    "ville": "surtille",
+    "cp": ""
+  },
+  {
+    "resultId": "12787963",
+    "mail": "familles.rurales.arc.sur.tille@orange.fr",
+    "distance": 79924,
+    "latitude": 47.317324096857256,
+    "telephone": "0380726270",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil (Famille Rurales)",
+    "resultStructId": "202412",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue de la mairie 21560remilly",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.207558692254525,
+    "ville": "surtille",
+    "cp": ""
+  },
+  {
+    "resultId": "12788307",
+    "mail": "jthomassin@fede21.admr.org",
+    "distance": 141717,
+    "latitude": 47.51593402685163,
+    "telephone": "0380755242",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil BRIN D'EVEIL (ADMR)",
+    "resultStructId": "199732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "21 rue charles de gaulle21120 is",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.1193004311018955,
+    "ville": "surtille",
+    "cp": ""
+  }
+]

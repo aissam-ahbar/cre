@@ -1,0 +1,506 @@
+[
+  {
+    "resultId": "13052343",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 164061,
+    "latitude": 48.499583590166914,
+    "telephone": "0296787600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu petit enfant le Chat Perché",
+    "resultStructId": "220811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de l'etablette22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.746492327804796,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052171",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 164782,
+    "latitude": 48.514796547406235,
+    "telephone": "0296776550",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant Le Cerf Volant",
+    "resultStructId": "691414",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue mathurin meheust22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7417032996485315,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052257",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 165896,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu Petit Enfant Le Carrousel Centre Ville",
+    "resultStructId": "691416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 ruemarechal foch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052128",
+    "mail": "contactbalancelle@saint-brieuc.fr",
+    "distance": 165896,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale La Balancelle SAINT BRIEUC",
+    "resultStructId": "220702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue marechalfoch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052300",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 167147,
+    "latitude": 48.51156762958119,
+    "telephone": "0296782538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Carrousel Ville Hellio",
+    "resultStructId": "691417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de touraine 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851343138315396,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13070317",
+    "mail": "bonjour@lenfantaisie.fr",
+    "distance": 167477,
+    "latitude": 48.51861608442946,
+    "telephone": "0296011000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'Enfantaisie à Saint-Brieuc",
+    "resultStructId": "176906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue theoduleribot 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7829304748335963,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052214",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 167680,
+    "latitude": 48.51968927174635,
+    "telephone": "0296786667",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant La Marelle",
+    "resultStructId": "691415",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue de l'hirondelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851581093522726,
+    "ville": "stbrieuc",
+    "cp": "22000"
+  },
+  {
+    "resultId": "13052171",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 169561,
+    "latitude": 48.514796547406235,
+    "telephone": "0296776550",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant Le Cerf Volant",
+    "resultStructId": "691414",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue mathurin meheust22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7417032996485315,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052343",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 170389,
+    "latitude": 48.499583590166914,
+    "telephone": "0296787600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu petit enfant le Chat Perché",
+    "resultStructId": "220811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de l'etablette22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.746492327804796,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052257",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 170825,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu Petit Enfant Le Carrousel Centre Ville",
+    "resultStructId": "691416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 ruemarechal foch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052128",
+    "mail": "contactbalancelle@saint-brieuc.fr",
+    "distance": 170825,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale La Balancelle SAINT BRIEUC",
+    "resultStructId": "220702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue marechalfoch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13070317",
+    "mail": "bonjour@lenfantaisie.fr",
+    "distance": 172353,
+    "latitude": 48.51861608442946,
+    "telephone": "0296011000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'Enfantaisie à Saint-Brieuc",
+    "resultStructId": "176906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue theoduleribot 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7829304748335963,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052214",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 172478,
+    "latitude": 48.51968927174635,
+    "telephone": "0296786667",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant La Marelle",
+    "resultStructId": "691415",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue de l'hirondelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851581093522726,
+    "ville": "stbrieuc",
+    "cp": "22000"
+  },
+  {
+    "resultId": "13052300",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 172730,
+    "latitude": 48.51156762958119,
+    "telephone": "0296782538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Carrousel Ville Hellio",
+    "resultStructId": "691417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de touraine 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851343138315396,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052343",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 164061,
+    "latitude": 48.499583590166914,
+    "telephone": "0296787600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu petit enfant le Chat Perché",
+    "resultStructId": "220811",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue de l'etablette22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.746492327804796,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052171",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 164782,
+    "latitude": 48.514796547406235,
+    "telephone": "0296776550",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant Le Cerf Volant",
+    "resultStructId": "691414",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue mathurin meheust22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7417032996485315,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052257",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 165896,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625677",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisondu Petit Enfant Le Carrousel Centre Ville",
+    "resultStructId": "691416",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 ruemarechal foch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052128",
+    "mail": "contactbalancelle@saint-brieuc.fr",
+    "distance": 165896,
+    "latitude": 48.515391611405185,
+    "telephone": "0296625498",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale La Balancelle SAINT BRIEUC",
+    "resultStructId": "220702",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue marechalfoch 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7598763229533123,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052300",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 167147,
+    "latitude": 48.51156762958119,
+    "telephone": "0296782538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Carrousel Ville Hellio",
+    "resultStructId": "691417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de touraine 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851343138315396,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13070317",
+    "mail": "bonjour@lenfantaisie.fr",
+    "distance": 167477,
+    "latitude": 48.51861608442946,
+    "telephone": "0296011000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche l'Enfantaisie à Saint-Brieuc",
+    "resultStructId": "176906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "72 rue theoduleribot 22000",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7829304748335963,
+    "ville": "stbrieuc",
+    "cp": ""
+  },
+  {
+    "resultId": "13052214",
+    "mail": "petiteenfance@saint-brieuc.fr",
+    "distance": 167680,
+    "latitude": 48.51968927174635,
+    "telephone": "0296786667",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Maisondu petit enfant La Marelle",
+    "resultStructId": "691415",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "4 rue de l'hirondelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.7851581093522726,
+    "ville": "stbrieuc",
+    "cp": "22000"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12826491",
+    "mail": "bisounours26750@gmail.com",
+    "distance": 174102,
+    "latitude": 45.08236660292708,
+    "telephone": "0983732626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Bisounours",
+    "resultStructId": "138909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue des artisans 26750chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.127163456076424,
+    "ville": "stjean",
+    "cp": ""
+  },
+  {
+    "resultId": "12491195",
+    "mail": "lapitchounelle@leolagrange.org",
+    "distance": 157989,
+    "latitude": 43.67114916170562,
+    "telephone": "0561745034",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LaPitchounelle",
+    "resultStructId": "501901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "20 avenue de lestang 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5003657865165791,
+    "ville": "stjean",
+    "cp": ""
+  },
+  {
+    "resultId": "13063953",
+    "mail": "aupaysdesfees@leolagrange.org",
+    "distance": 158741,
+    "latitude": 43.664526439527734,
+    "telephone": "0562795605",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "AuPays des Fées",
+    "resultStructId": "674310",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "place francois mitterrand 31240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5059777029158994,
+    "ville": "stjean",
+    "cp": ""
+  },
+  {
+    "resultId": "12826491",
+    "mail": "bisounours26750@gmail.com",
+    "distance": 191821,
+    "latitude": 45.08236660292708,
+    "telephone": "0983732626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Bisounours",
+    "resultStructId": "138909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue des artisans 26750chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.127163456076424,
+    "ville": "stjean",
+    "cp": ""
+  },
+  {
+    "resultId": "12826491",
+    "mail": "bisounours26750@gmail.com",
+    "distance": 145469,
+    "latitude": 45.08236660292708,
+    "telephone": "0983732626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Bisounours",
+    "resultStructId": "138909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 rue des artisans 26750chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.127163456076424,
+    "ville": "stjean",
+    "cp": ""
+  }
+]

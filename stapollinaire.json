@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12792607",
+    "mail": "dsantier@ville-st-apollinaire.fr",
+    "distance": 70398,
+    "latitude": 47.33046183497163,
+    "telephone": "0380781344",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__MULTI ACCUEIL LA FLEURIEE",
+    "resultStructId": "204735",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "159 cours de gray 21850",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.078245153996695,
+    "ville": "stapollinaire",
+    "cp": ""
+  },
+  {
+    "resultId": "12649443",
+    "mail": "saintapocassin@creche-attitude.fr",
+    "distance": 70684,
+    "latitude": 47.326890322417356,
+    "telephone": "0380523162",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Microcrèche SAINT APO CASSIN (Crèche Attitude)",
+    "resultStructId": "199756",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 rue reneecassin 21850",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.082740100715111,
+    "ville": "stapollinaire",
+    "cp": ""
+  },
+  {
+    "resultId": "31378930",
+    "mail": "saintapomirande@creche-attitude.fr",
+    "distance": 70766,
+    "latitude": 47.32762205922056,
+    "telephone": "0380731317",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche SAINT APO MIRANDE (Crèche Attitude)",
+    "resultStructId": "199757",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "394 rue demirande 21850",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.083690535616505,
+    "ville": "stapollinaire",
+    "cp": ""
+  },
+  {
+    "resultId": "12792650",
+    "mail": "multiaccueil@ville-st-apollinaire.fr",
+    "distance": 71529,
+    "latitude": 47.33655304092715,
+    "telephone": "0380608145",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Multi-accueil Val Sully",
+    "resultStructId": "204743",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place des etats de bourgogne21850",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.092178852490932,
+    "ville": "stapollinaire",
+    "cp": ""
+  }
+]

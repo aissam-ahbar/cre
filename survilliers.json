@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12627384",
+    "mail": "",
+    "distance": 152317,
+    "latitude": 49.09890120110548,
+    "telephone": "0134681927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarcassins",
+    "resultStructId": "3371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.536280667066573,
+    "ville": "survilliers",
+    "cp": "95470"
+  },
+  {
+    "resultId": "12627384",
+    "mail": "",
+    "distance": 153402,
+    "latitude": 49.09890120110548,
+    "telephone": "0134681927",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMarcassins",
+    "resultStructId": "3371",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 rue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.536280667066573,
+    "ville": "survilliers",
+    "cp": "95470"
+  }
+]

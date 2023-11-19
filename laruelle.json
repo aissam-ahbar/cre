@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12863479",
+    "mail": "cfranchi@ville-saintjeandelaruelle.fr",
+    "distance": 100839,
+    "latitude": 47.90138085521498,
+    "telephone": "0238725088",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EAJE- MA MAISON DE LA PETITE ENFANCE - CCAS ST JEAN DE LARUELLE",
+    "resultStructId": "171601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "39 chemin de chaingy 45140 st jean de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.86636347366651,
+    "ville": "laruelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12731719",
+    "mail": "lecoquelicot@ville-saintjeandelaruelle.fr",
+    "distance": 101728,
+    "latitude": 47.90841369714098,
+    "telephone": "0238438664",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL- LE COQUELICOT - CCAS ST JEAN DE LA RUELLE",
+    "resultStructId": "171604",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54rue paul doumer 45140 st jean de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8771861019047773,
+    "ville": "laruelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12731676",
+    "mail": "crechefamiliale@ville-saintjeandelaruelle.fr",
+    "distance": 103414,
+    "latitude": 47.923743865015524,
+    "telephone": "0238793393",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE - CCAS SAINT JEAN DE LA RUELLE",
+    "resultStructId": "713202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue desturquoises 45140 st jean de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8771250378985596,
+    "ville": "laruelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12731762",
+    "mail": "fallonneau@ville-saintjeandelaruelle.fr",
+    "distance": 103492,
+    "latitude": 47.92386152135432,
+    "telephone": "0238439378",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL LE BLEUET - CCAS DE ST JEAN DE LA RUELLE",
+    "resultStructId": "171603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 ruedes agates 45140 st jean de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8831446584460767,
+    "ville": "laruelle",
+    "cp": ""
+  }
+]

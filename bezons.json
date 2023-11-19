@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12525345",
+    "mail": "courrier@mairie-bezons.fr",
+    "distance": 10438,
+    "latitude": 48.923711180306114,
+    "telephone": "0139471571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HalteGarderie La Galipette",
+    "resultStructId": "998",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "126 bis rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2195174003412927,
+    "ville": "bezons",
+    "cp": "95870"
+  },
+  {
+    "resultId": "12563013",
+    "mail": "courrier@mairie-bezons.fr",
+    "distance": 10438,
+    "latitude": 48.923711180306114,
+    "telephone": "0130760555",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Le Colombier",
+    "resultStructId": "1874",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "126 bis rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2195174003412927,
+    "ville": "bezons",
+    "cp": "95870"
+  }
+]

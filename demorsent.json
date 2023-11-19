@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "29135541",
+    "mail": "helios@people-and-baby.com",
+    "distance": 117294,
+    "latitude": 49.00778535531589,
+    "telephone": "0984573061",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SOLH",
+    "resultStructId": "49502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22rue du general de gaulle 27180 st sebastien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0851908178473832,
+    "ville": "demorsent",
+    "cp": ""
+  },
+  {
+    "resultId": "12614183",
+    "mail": "ma.saintsebastien@epn-agglo.fr",
+    "distance": 117465,
+    "latitude": 49.00715076955073,
+    "telephone": "0232337370",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "71802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "placepierre mendes france 27180 st sebastien",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0875934420780102,
+    "ville": "demorsent",
+    "cp": ""
+  }
+]

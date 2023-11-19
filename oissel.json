@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12993769",
+    "mail": "halte123@ville-oissel.fr",
+    "distance": 169317,
+    "latitude": 49.36372738708214,
+    "telephone": "0232911518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Soleil",
+    "resultStructId": "161202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue alsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0995556904540509,
+    "ville": "oissel",
+    "cp": "76350"
+  },
+  {
+    "resultId": "12993769",
+    "mail": "halte123@ville-oissel.fr",
+    "distance": 127121,
+    "latitude": 49.36372738708214,
+    "telephone": "0232911518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Soleil",
+    "resultStructId": "161202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue alsace lorraine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0995556904540509,
+    "ville": "oissel",
+    "cp": "76350"
+  }
+]

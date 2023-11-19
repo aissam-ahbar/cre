@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "57842970",
+    "mail": "microstarsdelimay@micro-stars.fr",
+    "distance": 164254,
+    "latitude": 49.007016669464235,
+    "telephone": "0130923557",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS DE LIMAY",
+    "resultStructId": "679713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue edouard",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7298724067202569,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "25663752",
+    "mail": "cre-452@babilou.com",
+    "distance": 164452,
+    "latitude": 48.99491697317988,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - BABILOU LIMAY CLEMENCEAU",
+    "resultStructId": "689806",
+    "omegaId": "32659",
+    "avip": false,
+    "adresse": "32 rue georgesclemenceau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.733209227839648,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "12619214",
+    "mail": "",
+    "distance": 164630,
+    "latitude": 48.99211135328748,
+    "telephone": "0134972750",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LES LOUPIOTS",
+    "resultStructId": "682824",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 avenue president wilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7357599058793973,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "12714338",
+    "mail": "les-minis-explorateurs@hotmail.fr",
+    "distance": 165420,
+    "latitude": 48.98590427275933,
+    "telephone": "0610146609",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - LES MINIS EXPLORATEURS",
+    "resultStructId": "709026",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "175 avenue du presidentwilson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.746835648947628,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "12599434",
+    "mail": "m.gorski@ville-limay.fr",
+    "distance": 165462,
+    "latitude": 48.995824496401056,
+    "telephone": "0134782870",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "CRECHEFAMILIALE - LES PETITES ETOILES",
+    "resultStructId": "682822",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue des hautesmeunieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7470156093224443,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "12619257",
+    "mail": "",
+    "distance": 165462,
+    "latitude": 48.995824496401056,
+    "telephone": "0134782870",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LES LUCIOLES",
+    "resultStructId": "682823",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "13 rue des hautes meunieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7470156093224443,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "57842768",
+    "mail": "limay@micro-stars.fr",
+    "distance": 165791,
+    "latitude": 48.99634265547048,
+    "telephone": "0982237777",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS LIMAY LIBELLULES",
+    "resultStructId": "679710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue descarrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.751507182313723,
+    "ville": "limay",
+    "cp": "78520"
+  },
+  {
+    "resultId": "12782330",
+    "mail": "limay@micro-stars.fr",
+    "distance": 165791,
+    "latitude": 48.99634265547048,
+    "telephone": "0982237778",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - MICROSTARS LIMAY COCCINELLES",
+    "resultStructId": "679716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue descarrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.751507182313723,
+    "ville": "limay",
+    "cp": "78520"
+  }
+]

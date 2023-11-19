@@ -1,0 +1,1346 @@
+[
+  {
+    "resultId": "12847311",
+    "mail": "mapetiteenfance-fontainedouche@ville-dijon.fr",
+    "distance": 64590,
+    "latitude": 47.319793106220374,
+    "telephone": "0380488565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__FONTAINE D'OUCHE",
+    "resultStructId": "691338",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee docteur huot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.002564068044099,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847268",
+    "mail": "mapetiteenfance-hgfontainedouche@ville-dijon.fr",
+    "distance": 64697,
+    "latitude": 47.317049067017464,
+    "telephone": "0380488489",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTI-ACCUEILLE RUISSEAU - FONTAINE D'OUCHE",
+    "resultStructId": "492001",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 allee du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.004478353869498,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847096",
+    "mail": "mapetiteenfance-bourroches@ville-dijon.fr",
+    "distance": 65659,
+    "latitude": 47.31284031700526,
+    "telephone": "0380419570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil BOURROCHES (Mairie)",
+    "resultStructId": "204704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 bis rue de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.018033385737882,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12846924",
+    "mail": "mapetiteenfance-tarnier@ville-dijon.fr",
+    "distance": 65716,
+    "latitude": 47.3041799315777,
+    "telephone": "0380540056",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil TARNIER - DIJON (Ville)",
+    "resultStructId": "199725",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.020108172878986,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12833973",
+    "mail": "funny.creche@gmail.com",
+    "distance": 65963,
+    "latitude": 47.314379968039646,
+    "telephone": "0769212835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche FUNNY CRECHE",
+    "resultStructId": "199775",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue de l'esperance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.021843440948292,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834274",
+    "mail": "resp.structure.jj@ageaccsf.fr",
+    "distance": 66444,
+    "latitude": 47.31372554402772,
+    "telephone": "0380591174",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil JEAN JAURES (Léo Lagrange)",
+    "resultStructId": "199738",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 a avenue jeanjaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.028363755941965,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12874358",
+    "mail": "arquebuse21@yahoo.com",
+    "distance": 66641,
+    "latitude": 47.32107398794288,
+    "telephone": "0380637176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche LA COMPAGNIE DES P’TITS LOUPS ARQUEBUSE",
+    "resultStructId": "180408",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29bis rue de l'arquebuse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.029742481306731,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "38845932",
+    "mail": "chezlesptitsloups@yahoo.fr",
+    "distance": 66742,
+    "latitude": 47.323648928032526,
+    "telephone": "0380791156",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LA COMPAGNIE DES P’TITS LOUPS - Foch",
+    "resultStructId": "199759",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10avenue foch",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.030624449096705,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12846881",
+    "mail": "mapetiteenfance-petitciteaux@ville-dijon.fr",
+    "distance": 66967,
+    "latitude": 47.314432628342445,
+    "telephone": "0380304324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil PETIT CITEAUX (Mairie)",
+    "resultStructId": "204713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue louis jouvet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.035229511097952,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847182",
+    "mail": "petiteenfance@ville-dijon.fr",
+    "distance": 67037,
+    "latitude": 47.3332698853364,
+    "telephone": "0380568415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil DARIUS-MILHAUD (Mairie)",
+    "resultStructId": "204706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee darius",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.032666692579337,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12846967",
+    "mail": "mapetiteenfance-tivoli@ville-dijon.fr",
+    "distance": 67223,
+    "latitude": 47.31771251451128,
+    "telephone": "0380488434",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil TIVOLI (Ville)",
+    "resultStructId": "199726",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de tivoli",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.038110122098569,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12789210",
+    "mail": "emilie.tromp@leolagrange.org",
+    "distance": 67303,
+    "latitude": 47.300944298888524,
+    "telephone": "0380104852",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "_Multiaccueil LE TEMPO (Léo Lagrange)",
+    "resultStructId": "691336",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "21 rue maurice",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.041667685871794,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12846838",
+    "mail": "mapetiteenfance-montchapet@ville-dijon.fr",
+    "distance": 67446,
+    "latitude": 47.32953734630796,
+    "telephone": "0380740856",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil MONTCHAPET (Mairie)",
+    "resultStructId": "204712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue de jouvence",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.038910186968457,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12788608",
+    "mail": "creche.princesdeconde@leolagrange.org",
+    "distance": 67489,
+    "latitude": 47.311624910407566,
+    "telephone": "0380362075",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Crèche Princes de Condé",
+    "resultStructId": "204752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 rue des princes de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0426415377862694,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "13026758",
+    "mail": "multi-accueil.fevret@croix-rouge.fr",
+    "distance": 67491,
+    "latitude": 47.31656811279014,
+    "telephone": "0380404747",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "_MultiAccueil LA VERRIERE ENCHANTEE - DIJON (Croix Rouge)",
+    "resultStructId": "488201",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "8rue fevret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.041874417211458,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847139",
+    "mail": "mapetiteenfance-centreville@ville-dijon.fr",
+    "distance": 67509,
+    "latitude": 47.32218247438728,
+    "telephone": "0380639993",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil CENTRE VILLE (Mairie)",
+    "resultStructId": "204707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue des forges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.041141068813036,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12718896",
+    "mail": "lejardindehaya@gmail.com",
+    "distance": 67544,
+    "latitude": 47.331874990321204,
+    "telephone": "0380736143",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LE JARDIN DE 'HAYA (Association)",
+    "resultStructId": "199765",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue jeanjean cornu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.039754972305229,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834360",
+    "mail": "roosevelt@people-and-baby.com",
+    "distance": 67588,
+    "latitude": 47.321769554317484,
+    "telephone": "0380280083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil ROOSEVELT (People And Baby)",
+    "resultStructId": "199776",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 avenue franklinroosevelt",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042273812138959,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12870832",
+    "mail": "dijonvalmy@creche-attitude.fr",
+    "distance": 67588,
+    "latitude": 47.321769554317484,
+    "telephone": "0380416146",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Multi-accueilCRECHE ATTITUDE DIJON VALMY",
+    "resultStructId": "199704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "bat. b impasse aux charmesd'asnieres - zac valmy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042273812138959,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "32735159",
+    "mail": "dijon@lpcr.fr",
+    "distance": 67588,
+    "latitude": 47.321769554317484,
+    "telephone": "0345600170",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Les Petits Chaperons Rouges",
+    "resultStructId": "204747",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 ter rue du 26emedragons",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042273812138959,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12874530",
+    "mail": "baby.creche@orange.fr",
+    "distance": 67588,
+    "latitude": 47.321769554317484,
+    "telephone": "0380300561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche BABYCRECHE VALMY (Microbaby)",
+    "resultStructId": "199708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8e rue jeannebarret - route de langres - parc valmy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042273812138959,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12873541",
+    "mail": "dijonbenigne@creche-attitude.fr",
+    "distance": 67588,
+    "latitude": 47.321769554317484,
+    "telephone": "0345181362",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche DIJON BENIGNE (Crèche Attitude)",
+    "resultStructId": "199758",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 place stbenigne - residence saint philibert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042273812138959,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834059",
+    "mail": "lesparadisdejulesetjuliette@gmail.com",
+    "distance": 67738,
+    "latitude": 47.32993754540051,
+    "telephone": "0982607117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES PARADIS DE JULES ET JULIETTE Etage",
+    "resultStructId": "199705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 a ruede la sabliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042747416139004,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834102",
+    "mail": "lesparadisdejulesetjuliettte1@gmail.com",
+    "distance": 67738,
+    "latitude": 47.32993754540051,
+    "telephone": "0380271633",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES PARADIS DE JULES ET JULIETTE RDC",
+    "resultStructId": "199750",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 a rue dela sabliere",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.042747416139004,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847225",
+    "mail": "mapetiteenfance-delaunay@ville-dijon.fr",
+    "distance": 67762,
+    "latitude": 47.3494745193401,
+    "telephone": "0380713522",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil DELAUNAY (Mairie)",
+    "resultStructId": "204708",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11-13 rue robert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.038709214951126,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "38852268",
+    "mail": "creche@min-athena.fr",
+    "distance": 67846,
+    "latitude": 47.331532263303586,
+    "telephone": "0665309079",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche MIN'ATHENA DRAPEAU",
+    "resultStructId": "199709",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "24 avenue du drapeau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.04387330082199,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834188",
+    "mail": "lesptitsjulesaunidlycee2@gmail.com",
+    "distance": 67899,
+    "latitude": 47.323268844928194,
+    "telephone": "0981863303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES P'TITS JULES AU NID Lycée Etage (Les Paradis deJ&J)",
+    "resultStructId": "199703",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du lycee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.046160765343037,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834145",
+    "mail": "lycee@lesptitsjulesaunid.com",
+    "distance": 67899,
+    "latitude": 47.323268844928194,
+    "telephone": "0981863303",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES P'TITS JULES AU NID Lycée RDC (Les Paradis deJ&J)",
+    "resultStructId": "199751",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du lycee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.046160765343037,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847010",
+    "mail": "mapetiteenfance-voltaire@ville-dijon.fr",
+    "distance": 67981,
+    "latitude": 47.314149055099406,
+    "telephone": "0380666385",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil VOLTAIRE (Ville)",
+    "resultStructId": "199727",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue alfred de musset",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0488141052036015,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12795789",
+    "mail": "laurence.chanel@leolagrange.org",
+    "distance": 68092,
+    "latitude": 47.338740965915655,
+    "telephone": "0380103031",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__Maison de la petite enfance JUNOT",
+    "resultStructId": "204746",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue du 27emeregiment d'infanterie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0456488786469285,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12795703",
+    "mail": "creche.eng-dijon@justice.fr",
+    "distance": 68205,
+    "latitude": 47.32980549011577,
+    "telephone": "0380605819",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multiaccueil LES GRIBOUILLES (E.N. des Greffes)",
+    "resultStructId": "199721",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 boulevardde la marne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0490208396434095,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12874315",
+    "mail": "baby.creche@orange.fr",
+    "distance": 68256,
+    "latitude": 47.32099635467566,
+    "telephone": "0380665294",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche BABYCRECHE CARNOT (Microbaby)",
+    "resultStructId": "199754",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "52 boulevardcarnot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.051338050127019,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834231",
+    "mail": "mulhouse1.lesptitsjulesaunid@gmail.com",
+    "distance": 68267,
+    "latitude": 47.32524484395123,
+    "telephone": "0983245459",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LES P'TITS JULES AU NID Mulhouse (Les Paradis deJ&J)",
+    "resultStructId": "199749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41 rue de mulhouse",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.050723796000106,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12735718",
+    "mail": "optitspas@yahoo.fr",
+    "distance": 68328,
+    "latitude": 47.35797251462731,
+    "telephone": "0953684794",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche O PTITS PAS (Crèche Attitude)",
+    "resultStructId": "199710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 allee andrebourland",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.044152612525994,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12873455",
+    "mail": "directionhappyfee@creche-dijon.fr",
+    "distance": 68457,
+    "latitude": 47.35319730781777,
+    "telephone": "0380676201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche POMME D'HAPPY",
+    "resultStructId": "199770",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 b avenue albert camus",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047134945616955,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12873412",
+    "mail": "directionhappyfee@creche-dijon.fr",
+    "distance": 68457,
+    "latitude": 47.35319730781777,
+    "telephone": "0380676201",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche LA FEE DES SOURIRES",
+    "resultStructId": "199771",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 b avenue albert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.047134945616955,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847397",
+    "mail": "mapetiteenfance-mansart@ville-dijon.fr",
+    "distance": 68624,
+    "latitude": 47.30902928498313,
+    "telephone": "0380653234",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil MANSART (Mairie)",
+    "resultStructId": "204711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 boulevard mansart",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.058164350393821,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12677702",
+    "mail": "micro-creche-maia@live.fr",
+    "distance": 68624,
+    "latitude": 47.32144299645842,
+    "telephone": "0345183538",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche MAIA (Baby'Gold)",
+    "resultStructId": "199768",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 boulevard de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.056179205534047,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "59466983",
+    "mail": "crdijon@igesa.fr",
+    "distance": 68663,
+    "latitude": 47.33985685141389,
+    "telephone": "0380706549",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAMALADIÈRE",
+    "resultStructId": "706840",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 boulevard joffre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.053064393165487,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12837671",
+    "mail": "cgenne@sepanouirensemble.com",
+    "distance": 68834,
+    "latitude": 47.36252191741527,
+    "telephone": "0380787342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Jardind'enfants LE DIABOLO MENTHE - Valmy 2 (CDG LaCalypso)",
+    "resultStructId": "199715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue francoise giroud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.04974812842806,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12837757",
+    "mail": "cgenne@sepanouirensemble.com",
+    "distance": 68834,
+    "latitude": 47.36252191741527,
+    "telephone": "0380787342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil LA CHOUROSERAIE - Valmy 1(CDG La Calypso)",
+    "resultStructId": "199716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26avenue francoise giroud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.04974812842806,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12619386",
+    "mail": "senfance@adefo.asso.fr",
+    "distance": 68951,
+    "latitude": 47.34448947797449,
+    "telephone": "0380789589",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multi-accueilCoccinelle et Coquelicot",
+    "resultStructId": "489602",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "31 b rue auguste blanqui",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.0558890173097435,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12835822",
+    "mail": "florie.skowronek@pepcbfc.org",
+    "distance": 69347,
+    "latitude": 47.331862811613846,
+    "telephone": "0380718183",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Galipetteet Trottinette",
+    "resultStructId": "490102",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "5 rue jean xxiii",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.063900808647142,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12787791",
+    "mail": "la.ptite.fac@u-bourgogne.fr",
+    "distance": 69473,
+    "latitude": 47.315290855297576,
+    "telephone": "0380395083",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil LA P’TITE FAC (Association)",
+    "resultStructId": "199719",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue claudeladrey",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.068536710350644,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "38852829",
+    "mail": "alice.badet@free.fr",
+    "distance": 69566,
+    "latitude": 47.344419284357315,
+    "telephone": "0380465535",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche MAVIMAX II",
+    "resultStructId": "199706",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue ernest chaput",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.064157072693277,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12873928",
+    "mail": "alice.badet@free.fr",
+    "distance": 69747,
+    "latitude": 47.33872503206189,
+    "telephone": "0380465535",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche MAVIMAX I",
+    "resultStructId": "199752",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 impasse de reggio",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.067848546647269,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12788049",
+    "mail": "maisondesfees@creche-attitude.fr",
+    "distance": 69748,
+    "latitude": 47.34229303550746,
+    "telephone": "0380710152",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Multi-accueilLA MAISON DES FEES (Crèche Attitude SAS)",
+    "resultStructId": "199707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue christianeperceret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.067079137779566,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847354",
+    "mail": "mapetiteenfance-gresilles@ville-dijon.fr",
+    "distance": 69872,
+    "latitude": 47.330109787194864,
+    "telephone": "0380715504",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "_MultiAccueil GRESILLES (Mairie)",
+    "resultStructId": "488801",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "2 rue castelnau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.071267449339487,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12834575",
+    "mail": "",
+    "distance": 69885,
+    "latitude": 47.320601038677374,
+    "telephone": "0380293420",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAFARANDOLE",
+    "resultStructId": "8219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "13 rue gaffarel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.073168661632835,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847483",
+    "mail": "lasourisverte@crechesdefrance.com",
+    "distance": 70156,
+    "latitude": 47.32019079028272,
+    "telephone": "0373550455",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil LA CAPUCINE",
+    "resultStructId": "199720",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de cromois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.076846220958789,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847440",
+    "mail": "lasourisverte@crechesdefrance.com",
+    "distance": 70156,
+    "latitude": 47.32019079028272,
+    "telephone": "0373550457",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__LA SOURIS VERTE",
+    "resultStructId": "204748",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de cromois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.076846220958789,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12847526",
+    "mail": "lapetitehirondelle@crechesdefrance.com",
+    "distance": 70156,
+    "latitude": 47.32019079028272,
+    "telephone": "0373550456",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "__LA PETITE HIRONDELLE",
+    "resultStructId": "204749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue du cromois",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.076846220958789,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "38860913",
+    "mail": "crechchouette@hotmail.com",
+    "distance": 70264,
+    "latitude": 47.310482546754315,
+    "telephone": "0698322752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche CRECH CHOUETTE Chez les Grands",
+    "resultStructId": "199773",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 n rue pierrede coubertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07980344900109,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12873971",
+    "mail": "crechchouette@hotmail.com",
+    "distance": 70264,
+    "latitude": 47.310482546754315,
+    "telephone": "0698322752",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": ".Microcrèche CRECH CHOUETTE Chez les Petits",
+    "resultStructId": "199772",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 k rue pierrede coubertin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.07980344900109,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12837671",
+    "mail": "cgenne@sepanouirensemble.com",
+    "distance": 156765,
+    "latitude": 47.36252191741527,
+    "telephone": "0380787342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_Jardind'enfants LE DIABOLO MENTHE - Valmy 2 (CDG LaCalypso)",
+    "resultStructId": "199715",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26 avenue francoise giroud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.04974812842806,
+    "ville": "dijon",
+    "cp": "21000"
+  },
+  {
+    "resultId": "12837757",
+    "mail": "cgenne@sepanouirensemble.com",
+    "distance": 156765,
+    "latitude": 47.36252191741527,
+    "telephone": "0380787342",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "_MultiAccueil LA CHOUROSERAIE - Valmy 1(CDG La Calypso)",
+    "resultStructId": "199716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26avenue francoise giroud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.04974812842806,
+    "ville": "dijon",
+    "cp": "21000"
+  }
+]

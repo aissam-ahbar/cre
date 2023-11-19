@@ -1,0 +1,434 @@
+[
+  {
+    "resultId": "12950640",
+    "mail": "cma@mond-arverne.fr",
+    "distance": 5205,
+    "latitude": 45.643416387813424,
+    "telephone": "0473690809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Vic le Comte",
+    "resultStructId": "10918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean mouly (espace montcervier)63270 vic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2431680270277647,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12776783",
+    "mail": "pouce.doudou2@liveli.fr",
+    "distance": 119389,
+    "latitude": 46.53872681663007,
+    "telephone": "0549305324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIVELICRECHES POUCE DOUDOU",
+    "resultStructId": "546201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 route de poitiers 86240fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.26846116983299045,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "13011270",
+    "mail": "hg.beville@orange.fr",
+    "distance": 159502,
+    "latitude": 48.43744083584328,
+    "telephone": "0237313653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie La Farandole de la Cdc des Portes Euréliennesd'Idf",
+    "resultStructId": "12328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pinceloup 28700 beville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7097102738711172,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12950640",
+    "mail": "cma@mond-arverne.fr",
+    "distance": 192948,
+    "latitude": 45.643416387813424,
+    "telephone": "0473690809",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Vic le Comte",
+    "resultStructId": "10918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean mouly (espace montcervier)63270 vic",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.2431680270277647,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "41738805",
+    "mail": "microcreche.flc@gmail.com",
+    "distance": 197200,
+    "latitude": 46.464026642578226,
+    "telephone": "0648727240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Sourires",
+    "resultStructId": "222111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue georges pompidou 85200fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7833094135622041,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12958380",
+    "mail": "structure.multiaccueil@ville-fontenaylecomte.fr",
+    "distance": 198799,
+    "latitude": 46.46800998917809,
+    "telephone": "0251534150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lafarandole\"",
+    "resultStructId": "676518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue pierre brissot 85200 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8072542015442583,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12958380",
+    "mail": "structure.multiaccueil@ville-fontenaylecomte.fr",
+    "distance": 128182,
+    "latitude": 46.46800998917809,
+    "telephone": "0251534150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lafarandole\"",
+    "resultStructId": "676518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue pierre brissot 85200 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8072542015442583,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "41738805",
+    "mail": "microcreche.flc@gmail.com",
+    "distance": 128820,
+    "latitude": 46.464026642578226,
+    "telephone": "0648727240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Sourires",
+    "resultStructId": "222111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue georges pompidou 85200fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7833094135622041,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12776783",
+    "mail": "pouce.doudou2@liveli.fr",
+    "distance": 152483,
+    "latitude": 46.53872681663007,
+    "telephone": "0549305324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIVELICRECHES POUCE DOUDOU",
+    "resultStructId": "546201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 route de poitiers 86240fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.26846116983299045,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12943029",
+    "mail": "villeneuve.comte@lpcr.fr",
+    "distance": 126313,
+    "latitude": 48.81121500000006,
+    "telephone": "0173097802",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petits Chaperons Rouges - Villeneuve leComte",
+    "resultStructId": "110015",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "promenade du lac 77174 villeneuve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.824928355000054,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12916197",
+    "mail": "creches.petitspetons@gmail.com",
+    "distance": 25535,
+    "latitude": 50.2786343687459,
+    "telephone": "0981007072",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "PetitsPetons",
+    "resultStructId": "652501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue de la poste 62810 avesnes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.528397607670849,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "13011270",
+    "mail": "hg.beville@orange.fr",
+    "distance": 172396,
+    "latitude": 48.43744083584328,
+    "telephone": "0237313653",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie La Farandole de la Cdc des Portes Euréliennesd'Idf",
+    "resultStructId": "12328",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue pinceloup 28700 beville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7097102738711172,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "41738805",
+    "mail": "microcreche.flc@gmail.com",
+    "distance": 239204,
+    "latitude": 46.464026642578226,
+    "telephone": "0648727240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Sourires",
+    "resultStructId": "222111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue georges pompidou 85200fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7833094135622041,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12958380",
+    "mail": "structure.multiaccueil@ville-fontenaylecomte.fr",
+    "distance": 239979,
+    "latitude": 46.46800998917809,
+    "telephone": "0251534150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lafarandole\"",
+    "resultStructId": "676518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue pierre brissot 85200 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8072542015442583,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12776783",
+    "mail": "pouce.doudou2@liveli.fr",
+    "distance": 246854,
+    "latitude": 46.53872681663007,
+    "telephone": "0549305324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIVELICRECHES POUCE DOUDOU",
+    "resultStructId": "546201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 route de poitiers 86240fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.26846116983299045,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12958380",
+    "mail": "structure.multiaccueil@ville-fontenaylecomte.fr",
+    "distance": 128182,
+    "latitude": 46.46800998917809,
+    "telephone": "0251534150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lafarandole\"",
+    "resultStructId": "676518",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue pierre brissot 85200 fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.8072542015442583,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "41738805",
+    "mail": "microcreche.flc@gmail.com",
+    "distance": 128820,
+    "latitude": 46.464026642578226,
+    "telephone": "0648727240",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Sourires",
+    "resultStructId": "222111",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "80 avenue georges pompidou 85200fontenay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.7833094135622041,
+    "ville": "lecomte",
+    "cp": ""
+  },
+  {
+    "resultId": "12776783",
+    "mail": "pouce.doudou2@liveli.fr",
+    "distance": 152483,
+    "latitude": 46.53872681663007,
+    "telephone": "0549305324",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIVELICRECHES POUCE DOUDOU",
+    "resultStructId": "546201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "47 route de poitiers 86240fontaine",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.26846116983299045,
+    "ville": "lecomte",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12803529",
+    "mail": "familles.ruralestheze@wanadoo.fr",
+    "distance": 97274,
+    "latitude": 43.476085809059114,
+    "telephone": "0559043070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin des Coccinelles",
+    "resultStructId": "7497",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin fanget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34831356727047347,
+    "ville": "theze",
+    "cp": "64450"
+  },
+  {
+    "resultId": "12953693",
+    "mail": "familles.ruralestheze@wanadoo.fr",
+    "distance": 97274,
+    "latitude": 43.476085809059114,
+    "telephone": "0559043070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Farandole",
+    "resultStructId": "10989",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "cheminfanget",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.34831356727047347,
+    "ville": "theze",
+    "cp": "64450"
+  }
+]

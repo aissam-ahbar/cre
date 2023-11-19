@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12785082",
+    "mail": "lilozenfantsduquercy@yahoo.fr",
+    "distance": 100712,
+    "latitude": 44.3313668238582,
+    "telephone": "0563042915",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePetit à petit",
+    "resultStructId": "704813",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "321 impasse vignoble 82150 montaigu",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.028973293644892,
+    "ville": "dequercy",
+    "cp": ""
+  },
+  {
+    "resultId": "12699675",
+    "mail": "severine.zabalo@famillesrurales.org",
+    "distance": 151188,
+    "latitude": 43.96633892704122,
+    "telephone": "0563275481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Campde poutou",
+    "resultStructId": "708401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 boulevard francoise et albert archippe82230 monclar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5821227889864444,
+    "ville": "dequercy",
+    "cp": ""
+  },
+  {
+    "resultId": "12699675",
+    "mail": "severine.zabalo@famillesrurales.org",
+    "distance": 190266,
+    "latitude": 43.96633892704122,
+    "telephone": "0563275481",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Campde poutou",
+    "resultStructId": "708401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 boulevard francoise et albert archippe82230 monclar",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5821227889864444,
+    "ville": "dequercy",
+    "cp": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12784652",
+    "mail": "bambins@carrieres-sous-poissy.fr",
+    "distance": 185178,
+    "latitude": 48.93987652730935,
+    "telephone": "0130740060",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL- LES BAMBINS",
+    "resultStructId": "682814",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "152 rue des ecoles 78955",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0178931553163664,
+    "ville": "carrieressouspoissy",
+    "cp": ""
+  },
+  {
+    "resultId": "12784609",
+    "mail": "vtixier@seay.fr",
+    "distance": 186949,
+    "latitude": 48.950502310615896,
+    "telephone": "0139746744",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MULTIACCUEIL - LES CHATONS",
+    "resultStructId": "689708",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "68 route d'andresy 78955",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.0422651442594426,
+    "ville": "carrieressouspoissy",
+    "cp": ""
+  }
+]

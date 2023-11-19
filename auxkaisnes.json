@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13044904",
+    "mail": "apetitspas@orange.fr",
+    "distance": 155548,
+    "latitude": 49.774098617067715,
+    "telephone": "0971505974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APETITS PAS",
+    "resultStructId": "13110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d'haubenizel 02590 aubigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.115695239507908,
+    "ville": "auxkaisnes",
+    "cp": ""
+  },
+  {
+    "resultId": "13044904",
+    "mail": "apetitspas@orange.fr",
+    "distance": 82740,
+    "latitude": 49.774098617067715,
+    "telephone": "0971505974",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APETITS PAS",
+    "resultStructId": "13110",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue d'haubenizel 02590 aubigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.115695239507908,
+    "ville": "auxkaisnes",
+    "cp": ""
+  }
+]

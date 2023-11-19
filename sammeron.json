@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13015011",
+    "mail": "",
+    "distance": 109427,
+    "latitude": 48.94820688096372,
+    "telephone": "0160322706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Petite Ôurse",
+    "resultStructId": "12415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue george jacquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0858314032092315,
+    "ville": "sammeron",
+    "cp": "77260"
+  },
+  {
+    "resultId": "13015011",
+    "mail": "",
+    "distance": 171633,
+    "latitude": 48.94820688096372,
+    "telephone": "0160322706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLa Petite Ôurse",
+    "resultStructId": "12415",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue george jacquet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0858314032092315,
+    "ville": "sammeron",
+    "cp": "77260"
+  }
+]

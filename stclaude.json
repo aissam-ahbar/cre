@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12751284",
+    "mail": "creche@lavans-les-saint-claude.fr",
+    "distance": 156411,
+    "latitude": 46.383910654001774,
+    "telephone": "0384420588",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaRainette",
+    "resultStructId": "677007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin chemin vert 39170 lavans les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.778516069271397,
+    "ville": "stclaude",
+    "cp": ""
+  },
+  {
+    "resultId": "13042883",
+    "mail": "petite.enfance@mairie-saint-claude.fr",
+    "distance": 161288,
+    "latitude": 46.389131679508914,
+    "telephone": "0384458179",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance - SAINT CLAUDE",
+    "resultStructId": "191101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "parc du truchet39200",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.864543429611484,
+    "ville": "stclaude",
+    "cp": ""
+  }
+]

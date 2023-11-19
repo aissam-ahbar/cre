@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12585072",
+    "mail": "hgsquare@ville-loos.fr",
+    "distance": 26008,
+    "latitude": 50.61480039610371,
+    "telephone": "0320383307",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE DU SQUARE",
+    "resultStructId": "687212",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square eugene thomas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0123393355484955,
+    "ville": "loos",
+    "cp": "59120"
+  },
+  {
+    "resultId": "12602186",
+    "mail": "creche@ville-loos.fr",
+    "distance": 26168,
+    "latitude": 50.61512047190218,
+    "telephone": "0320187986",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEMUNICIPALE",
+    "resultStructId": "687210",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean perrin - cite des enfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0147990957070734,
+    "ville": "loos",
+    "cp": "59120"
+  },
+  {
+    "resultId": "12591522",
+    "mail": "hgcite@ville-loos.fr",
+    "distance": 26168,
+    "latitude": 50.61512047190218,
+    "telephone": "0320187985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "HALTEGARDERIE DE LA CITE",
+    "resultStructId": "687211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean perrin - cite des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0147990957070734,
+    "ville": "loos",
+    "cp": "59120"
+  },
+  {
+    "resultId": "12941739",
+    "mail": "contact@kidilys.fr",
+    "distance": 26389,
+    "latitude": 50.60204384950088,
+    "telephone": "0320966854",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "KIDILYS",
+    "resultStructId": "10711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "351rue rue ambroise pare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.032934128945787,
+    "ville": "loos",
+    "cp": "59120"
+  },
+  {
+    "resultId": "12976698",
+    "mail": "loos@rigolocommelavie.fr",
+    "distance": 26769,
+    "latitude": 50.60318707637293,
+    "telephone": "0320963090",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "RIGOLOCOMME LA VIE LOOS",
+    "resultStructId": "691326",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "977 rue eugene avinee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0381710255779697,
+    "ville": "loos",
+    "cp": "59120"
+  }
+]

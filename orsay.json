@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12519712",
+    "mail": "",
+    "distance": 190834,
+    "latitude": 48.68562950259113,
+    "telephone": "0160923960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lepetit prince",
+    "resultStructId": "867",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue de montjay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1863616151238334,
+    "ville": "orsay",
+    "cp": "91400"
+  },
+  {
+    "resultId": "12516100",
+    "mail": "",
+    "distance": 192152,
+    "latitude": 48.69773995273777,
+    "telephone": "0169283832",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesTrot' Menus",
+    "resultStructId": "783",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 ter rue archange",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.186256952439023,
+    "ville": "orsay",
+    "cp": "91400"
+  },
+  {
+    "resultId": "12519583",
+    "mail": "crecheparc@mairie-orsay.fr",
+    "distance": 192314,
+    "latitude": 48.698898460563285,
+    "telephone": "0160928010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ParcOrsay",
+    "resultStructId": "864",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue st laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1886773233580845,
+    "ville": "orsay",
+    "cp": "91400"
+  },
+  {
+    "resultId": "12519970",
+    "mail": "",
+    "distance": 192325,
+    "latitude": 48.69905050589133,
+    "telephone": "0160928015",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "APetits Pas",
+    "resultStructId": "160211",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue saint laurent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.188312655715607,
+    "ville": "orsay",
+    "cp": "91400"
+  },
+  {
+    "resultId": "12519669",
+    "mail": "crechefarandole@mairie-orsay.fr",
+    "distance": 193225,
+    "latitude": 48.70710312630376,
+    "telephone": "0169077424",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFarandole Orsay",
+    "resultStructId": "866",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1898706637082586,
+    "ville": "orsay",
+    "cp": "91400"
+  }
+]

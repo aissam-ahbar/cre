@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12657097",
+    "mail": "multi-accueil.joeuf@orange.fr",
+    "distance": 120441,
+    "latitude": 49.22916093056289,
+    "telephone": "0382200133",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Joeuf",
+    "resultStructId": "4062",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.009987354341289,
+    "ville": "joeuf",
+    "cp": "54240"
+  }
+]

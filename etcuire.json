@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "35139076",
+    "mail": "damien@lamaisondepilou.fr",
+    "distance": 168605,
+    "latitude": 45.80803919452485,
+    "telephone": "0624709027",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLa Maison de Pilou Caluire",
+    "resultStructId": "131902",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 avenue general de gaulle69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.856087039165681,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890182",
+    "mail": "tompouce@ville-caluire.fr",
+    "distance": 168694,
+    "latitude": 45.80700989830835,
+    "telephone": "0437929231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilTom Pouce",
+    "resultStructId": "97806",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 avenue general de gaulle 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855271436993458,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889666",
+    "mail": "creche69300@les-cherubins.com",
+    "distance": 169080,
+    "latitude": 45.802297616226255,
+    "telephone": "0954737598",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Les Chérubins de Caluire",
+    "resultStructId": "9500",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "128 rue jean moulin 69300caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.850681634988968,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "13040862",
+    "mail": "mosaique@ville-caluire.fr",
+    "distance": 169431,
+    "latitude": 45.80080878789625,
+    "telephone": "0472266886",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMosaïque",
+    "resultStructId": "445301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 chemin de crepieux 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.858671781096972,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890268",
+    "mail": "jardingrenadine@ville-caluire.fr",
+    "distance": 169455,
+    "latitude": 45.794411817088644,
+    "telephone": "0472077474",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJardin Grenadine",
+    "resultStructId": "97802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 montee des forts 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.831364606980441,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890139",
+    "mail": "petitsmousses@ville-caluire.fr",
+    "distance": 169751,
+    "latitude": 45.79024604711281,
+    "telephone": "0472458448",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Muti-accueilLes Petits Mousses",
+    "resultStructId": "97805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 rue lucien maitre 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.825094158098093,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889795",
+    "mail": "contact@lilotdenfance.fr",
+    "distance": 169786,
+    "latitude": 45.79652413859507,
+    "telephone": "0478230517",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'îlot d'enfance 3",
+    "resultStructId": "9503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 chemin des petites brosses69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8546497463784615,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890053",
+    "mail": "lesgalipettes@ville-caluire.fr",
+    "distance": 170105,
+    "latitude": 45.79141585414131,
+    "telephone": "0478086494",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galipettes",
+    "resultStructId": "97801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue paul painleve 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845435934512677,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890096",
+    "mail": "bouledegones@ville-caluire.fr",
+    "distance": 170344,
+    "latitude": 45.786162937810865,
+    "telephone": "0478290418",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBoules de Gônes",
+    "resultStructId": "97104",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue nuzilly 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.831971424614218,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "13005293",
+    "mail": "caluire@lpcr.fr",
+    "distance": 170524,
+    "latitude": 45.78610362124626,
+    "telephone": "0437464540",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLES PETITS CHAPERONS ROUGES CALUIRE",
+    "resultStructId": "12189",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "43 rue margnolles69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8393608844168545,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889709",
+    "mail": "bilboquai@ville-caluire.fr",
+    "distance": 170568,
+    "latitude": 45.78923469196616,
+    "telephone": "0478235338",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilBilbo'quai",
+    "resultStructId": "97103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "94 grande rue de saint-clair 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855142604854325,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12890225",
+    "mail": "galetsdurhone@ville-caluire.fr",
+    "distance": 170608,
+    "latitude": 45.789036749433976,
+    "telephone": "0472270937",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Galets du Rhône",
+    "resultStructId": "97105",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "251 chemin de wette fays 69300caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.855914800915747,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889838",
+    "mail": "contact@babilou.com",
+    "distance": 170672,
+    "latitude": 45.784476020729116,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Babilou Caluire Oratoire",
+    "resultStructId": "539901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 b rue de l'oratoire69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.838351727622944,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889752",
+    "mail": "contact@lilotdenfance.fr",
+    "distance": 170714,
+    "latitude": 45.78969017275639,
+    "telephone": "0478695829",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche L'îlot d'enfance",
+    "resultStructId": "9502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de poumeyrol 69300caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.863163040828787,
+    "ville": "etcuire",
+    "cp": ""
+  },
+  {
+    "resultId": "12889924",
+    "mail": "orangebleue@ville-caluire.fr",
+    "distance": 170770,
+    "latitude": 45.78405229796707,
+    "telephone": "0478290742",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilOrange Bleue",
+    "resultStructId": "97804",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de l'oratoire 69300 caluire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.84058734263496,
+    "ville": "etcuire",
+    "cp": ""
+  }
+]

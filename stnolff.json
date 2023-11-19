@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12813032",
+    "mail": "multiaccueil.sej@saint-nolff.fr",
+    "distance": 125481,
+    "latitude": 47.70256284870863,
+    "telephone": "0297455865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro_crècheSaint Nolff",
+    "resultStructId": "685913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du calvaire 56250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.6503010957580226,
+    "ville": "stnolff",
+    "cp": ""
+  },
+  {
+    "resultId": "45926138",
+    "mail": "direction.saintnolff@leptitclub.com",
+    "distance": 126118,
+    "latitude": 47.69622570760992,
+    "telephone": "0297634040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe ptit club St Nolff",
+    "resultStructId": "696805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 route de la ferme de talhouet56250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.6594374160465835,
+    "ville": "stnolff",
+    "cp": ""
+  },
+  {
+    "resultId": "12813032",
+    "mail": "multiaccueil.sej@saint-nolff.fr",
+    "distance": 125481,
+    "latitude": 47.70256284870863,
+    "telephone": "0297455865",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro_crècheSaint Nolff",
+    "resultStructId": "685913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place du calvaire 56250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.6503010957580226,
+    "ville": "stnolff",
+    "cp": ""
+  },
+  {
+    "resultId": "45926138",
+    "mail": "direction.saintnolff@leptitclub.com",
+    "distance": 126118,
+    "latitude": 47.69622570760992,
+    "telephone": "0297634040",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe ptit club St Nolff",
+    "resultStructId": "696805",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 route de la ferme de talhouet56250",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.6594374160465835,
+    "ville": "stnolff",
+    "cp": ""
+  }
+]

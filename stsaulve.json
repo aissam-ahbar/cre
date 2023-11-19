@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12942384",
+    "mail": "saintsaulve@la-maison-bleue.fr",
+    "distance": 60304,
+    "latitude": 50.37077243593076,
+    "telephone": "0327215796",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheEGLANTINE",
+    "resultStructId": "704010",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue charles giraud parc serbat 59880",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5549595347189307,
+    "ville": "stsaulve",
+    "cp": ""
+  },
+  {
+    "resultId": "12497739",
+    "mail": "multi-accueil@ville-saint-saulve.fr",
+    "distance": 60767,
+    "latitude": 50.364644553425755,
+    "telephone": "0327286340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACLES LUTINS",
+    "resultStructId": "459301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue schuman 59880",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.5596627664685103,
+    "ville": "stsaulve",
+    "cp": ""
+  },
+  {
+    "resultId": "12957649",
+    "mail": "multi-accueil@ville-saint-saulve.fr",
+    "distance": 60797,
+    "latitude": 50.364465468938164,
+    "telephone": "0327286340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la petite enfance - Multi accueil",
+    "resultStructId": "11081",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue robertschuman 59880",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.560032847876044,
+    "ville": "stsaulve",
+    "cp": ""
+  },
+  {
+    "resultId": "12589673",
+    "mail": "mairie@ville-saint-saulve.fr",
+    "distance": 60797,
+    "latitude": 50.364465468938164,
+    "telephone": "0327286340",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchounes",
+    "resultStructId": "2494",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 avenue robert schuman 59880",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.560032847876044,
+    "ville": "stsaulve",
+    "cp": ""
+  }
+]

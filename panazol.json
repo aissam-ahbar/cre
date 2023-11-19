@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12821030",
+    "mail": "lesptitsloups@mairie-panazol.fr",
+    "distance": 132813,
+    "latitude": 45.83719939851439,
+    "telephone": "0555063536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-acueilLes P'tits Loups",
+    "resultStructId": "708034",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place francois mitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3057002374454691,
+    "ville": "panazol",
+    "cp": "87350"
+  },
+  {
+    "resultId": "12821073",
+    "mail": "pommedapi@mairie-panazol.fr",
+    "distance": 132813,
+    "latitude": 45.83719939851439,
+    "telephone": "0555586763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPomme d'Api",
+    "resultStructId": "708035",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jules ferry - quartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3057002374454691,
+    "ville": "panazol",
+    "cp": "87350"
+  },
+  {
+    "resultId": "12988007",
+    "mail": "luciole.2@hotmail.fr",
+    "distance": 133183,
+    "latitude": 45.83340232986048,
+    "telephone": "0555904790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDessine-moi une Luciole",
+    "resultStructId": "11787",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee jacqueline auriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3082513936591313,
+    "ville": "panazol",
+    "cp": "87350"
+  },
+  {
+    "resultId": "12988007",
+    "mail": "luciole.2@hotmail.fr",
+    "distance": 204999,
+    "latitude": 45.83340232986048,
+    "telephone": "0555904790",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheDessine-moi une Luciole",
+    "resultStructId": "11787",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee jacqueline auriol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3082513936591313,
+    "ville": "panazol",
+    "cp": "87350"
+  },
+  {
+    "resultId": "12821030",
+    "mail": "lesptitsloups@mairie-panazol.fr",
+    "distance": 205219,
+    "latitude": 45.83719939851439,
+    "telephone": "0555063536",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-acueilLes P'tits Loups",
+    "resultStructId": "708034",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place francois mitterrand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3057002374454691,
+    "ville": "panazol",
+    "cp": "87350"
+  },
+  {
+    "resultId": "12821073",
+    "mail": "pommedapi@mairie-panazol.fr",
+    "distance": 205219,
+    "latitude": 45.83719939851439,
+    "telephone": "0555586763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPomme d'Api",
+    "resultStructId": "708035",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jules ferry - quartier",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.3057002374454691,
+    "ville": "panazol",
+    "cp": "87350"
+  }
+]

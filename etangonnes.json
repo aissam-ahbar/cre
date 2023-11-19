@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12884076",
+    "mail": "garderielescanailloux@orange.fr",
+    "distance": 426975,
+    "latitude": 45.13597485585007,
+    "telephone": "0476720626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCanailloux",
+    "resultStructId": "54505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 chemin de la lechere 38320 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.768467901892573,
+    "ville": "etangonnes",
+    "cp": ""
+  },
+  {
+    "resultId": "12884076",
+    "mail": "garderielescanailloux@orange.fr",
+    "distance": 133174,
+    "latitude": 45.13597485585007,
+    "telephone": "0476720626",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCanailloux",
+    "resultStructId": "54505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "51 chemin de la lechere 38320 brie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.768467901892573,
+    "ville": "etangonnes",
+    "cp": ""
+  }
+]

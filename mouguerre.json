@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12956015",
+    "mail": "creche.agerria@nive-adour.com",
+    "distance": 136272,
+    "latitude": 43.469143223210075,
+    "telephone": "0559557465",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheAGERRIA",
+    "resultStructId": "11043",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le bourg",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4239060762523121,
+    "ville": "mouguerre",
+    "cp": "64990"
+  },
+  {
+    "resultId": "36939971",
+    "mail": "jeremy.gatounes@creches-kokoon.fr",
+    "distance": 136590,
+    "latitude": 43.47103856030195,
+    "telephone": "0633570651",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche KOKOON PLATANES",
+    "resultStructId": "149701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "489 avenue des platanes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4322986844092904,
+    "ville": "mouguerre",
+    "cp": "64990"
+  }
+]

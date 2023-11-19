@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12809162",
+    "mail": "gdelerue@neuville-en-ferrain.fr",
+    "distance": 43277,
+    "latitude": 50.74858106545169,
+    "telephone": "0320116733",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPlanet'Mômes",
+    "resultStructId": "422201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue edouard branly 59960 neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1528861887373183,
+    "ville": "enferrain",
+    "cp": ""
+  },
+  {
+    "resultId": "12924539",
+    "mail": "contact@neuville-en-ferrain.fr",
+    "distance": 43277,
+    "latitude": 50.74858106545169,
+    "telephone": "0320116710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Les Diablotins",
+    "resultStructId": "422001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 bis rue edouard branly 59960neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.1528861887373183,
+    "ville": "enferrain",
+    "cp": ""
+  },
+  {
+    "resultId": "12824814",
+    "mail": "schastain@neuville-en-ferrain.fr",
+    "distance": 44766,
+    "latitude": 50.75134517955943,
+    "telephone": "0320262271",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MACP'TITS LOUPS",
+    "resultStructId": "422101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "118 rue du chemin vert 59960 neuville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.178139335479156,
+    "ville": "enferrain",
+    "cp": ""
+  }
+]

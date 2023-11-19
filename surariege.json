@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "50032142",
+    "mail": "creche-familiale@agglo-pfv.fr",
+    "distance": 215586,
+    "latitude": 42.948302699517406,
+    "telephone": "0561029341",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHEFAMILIALE DE FERRIERES",
+    "resultStructId": "403904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean durroux 09000ferrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6181505570768961,
+    "ville": "surariege",
+    "cp": ""
+  },
+  {
+    "resultId": "12648626",
+    "mail": "multi-accueil.ferrieres@agglo-pfv.fr",
+    "distance": 215586,
+    "latitude": 42.948302699517406,
+    "telephone": "0561029032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL DE FERRIERES",
+    "resultStructId": "403901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean durroux 09000ferrieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6181505570768961,
+    "ville": "surariege",
+    "cp": ""
+  },
+  {
+    "resultId": "12644885",
+    "mail": "mairie@mairie-tarascon.com",
+    "distance": 222981,
+    "latitude": 42.85035715948702,
+    "telephone": "0534098879",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilde TARASCON",
+    "resultStructId": "3778",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue jean moulin 09400 tarascon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.6056544286123478,
+    "ville": "surariege",
+    "cp": ""
+  }
+]

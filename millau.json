@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "39845637",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 138014,
+    "latitude": 44.10519833368997,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Récréa bulles",
+    "resultStructId": "194507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.081175399697334,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39843401",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 138238,
+    "latitude": 44.098359136941234,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECOCON",
+    "resultStructId": "194403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0735468469318628,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39843462",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 138628,
+    "latitude": 44.102453013075845,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'EAUVIVE",
+    "resultStructId": "194405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.070839964338686,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39845540",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 138628,
+    "latitude": 44.102453013075845,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX TRESORS",
+    "resultStructId": "194505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.070839964338686,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39843401",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 86301,
+    "latitude": 44.098359136941234,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LECOCON",
+    "resultStructId": "194403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0735468469318628,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39845637",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 86326,
+    "latitude": 44.10519833368997,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Récréa bulles",
+    "resultStructId": "194507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.081175399697334,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39843462",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 86759,
+    "latitude": 44.102453013075845,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'EAUVIVE",
+    "resultStructId": "194405",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.070839964338686,
+    "ville": "millau",
+    "cp": "12100"
+  },
+  {
+    "resultId": "39845540",
+    "mail": "relais.petite.enfance@ccas-millau.fr",
+    "distance": 86759,
+    "latitude": 44.102453013075845,
+    "telephone": "0565592580",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'ILEAUX TRESORS",
+    "resultStructId": "194505",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "16 rue mathieu prevot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.070839964338686,
+    "ville": "millau",
+    "cp": "12100"
+  }
+]

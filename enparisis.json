@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12654732",
+    "mail": "petite-enfance@ville-cormeilles95.fr",
+    "distance": 170844,
+    "latitude": 48.97419711556555,
+    "telephone": "0139971403",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"Les Oisillons\"",
+    "resultStructId": "4007",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis avenue maurice berteaux95240 cormeilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.199127789011114,
+    "ville": "enparisis",
+    "cp": ""
+  },
+  {
+    "resultId": "12655850",
+    "mail": "petite-enfance@ville-cormeilles95.fr",
+    "distance": 171608,
+    "latitude": 48.96587516786982,
+    "telephone": "0139977823",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multiaccueil \" pain d'épice\"",
+    "resultStructId": "4033",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 rue du noyer de l'image95240 cormeilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2081487126251127,
+    "ville": "enparisis",
+    "cp": ""
+  },
+  {
+    "resultId": "12652711",
+    "mail": "petite-enfance@ville-cormeilles95.fr",
+    "distance": 171688,
+    "latitude": 48.96739976761428,
+    "telephone": "0139787976",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL « P'TITS DOUDOUS »",
+    "resultStructId": "3960",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du general sarrail 95240cormeilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.192368614716708,
+    "ville": "enparisis",
+    "cp": ""
+  },
+  {
+    "resultId": "12722861",
+    "mail": "contact@chocolatvanille.fr",
+    "distance": 171776,
+    "latitude": 48.96707268730289,
+    "telephone": "0967048129",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicrocrècheCHOCOLAT VANILLE",
+    "resultStructId": "5621",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 bis boulevard de lorraine 95240cormeilles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1890763883082873,
+    "ville": "enparisis",
+    "cp": ""
+  }
+]

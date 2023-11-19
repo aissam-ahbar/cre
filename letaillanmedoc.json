@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12845892",
+    "mail": "letaillan.soulac@crechesetmalices.com",
+    "distance": 70529,
+    "latitude": 44.90190742668098,
+    "telephone": "0540248599",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8482",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 route de soulac 33320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6695086335061268,
+    "ville": "letaillanmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "21410258",
+    "mail": "letaillanmedoc1@creche-la-maison-bleue.fr",
+    "distance": 70529,
+    "latitude": 44.90190742668098,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL NOS MILLESIMES",
+    "resultStructId": "15503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45 avenue de soulac 33320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6695086335061268,
+    "ville": "letaillanmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "39391937",
+    "mail": "calinsdoudouletaillanmedoc@gmail.com",
+    "distance": 71054,
+    "latitude": 44.903141014519356,
+    "telephone": "0981724070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CâlinsDoudou - Le Taillan Médoc",
+    "resultStructId": "690215",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 allee de l'enclos 33320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6799894964810952,
+    "ville": "letaillanmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "12518035",
+    "mail": "creche.lespetitsloriots@123pousse.fr",
+    "distance": 71805,
+    "latitude": 44.903134693884034,
+    "telephone": "0689723172",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil LES P'TITS LORIOTS",
+    "resultStructId": "676213",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 avenue bossuet 33320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6989433395939626,
+    "ville": "letaillanmedoc",
+    "cp": ""
+  },
+  {
+    "resultId": "22977883",
+    "mail": "micro-creche@ludibulles.com",
+    "distance": 72292,
+    "latitude": 44.91032725617681,
+    "telephone": "0767012176",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE BULLE D'EVEIL",
+    "resultStructId": "20011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "138 avenue de la boetie 33320",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.6938482672726451,
+    "ville": "letaillanmedoc",
+    "cp": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "26440361",
+    "mail": "creche@mairie-marmagne.fr",
+    "distance": 47974,
+    "latitude": 46.8364738418654,
+    "telephone": "0385579609",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche\" Oursons et Cie \"",
+    "resultStructId": "699705",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue rose letang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.3560158540642995,
+    "ville": "marmagne",
+    "cp": "71710"
+  },
+  {
+    "resultId": "12656624",
+    "mail": "marmignons@lpcr.fr",
+    "distance": 142118,
+    "latitude": 47.10080685306633,
+    "telephone": "0236248135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Marmignons",
+    "resultStructId": "684318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse impasse du tennis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285221923682317,
+    "ville": "marmagne",
+    "cp": "18500"
+  },
+  {
+    "resultId": "12656624",
+    "mail": "marmignons@lpcr.fr",
+    "distance": 46980,
+    "latitude": 47.10080685306633,
+    "telephone": "0236248135",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Marmignons",
+    "resultStructId": "684318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "impasse impasse du tennis",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.285221923682317,
+    "ville": "marmagne",
+    "cp": "18500"
+  }
+]

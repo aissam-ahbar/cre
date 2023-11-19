@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12866575",
+    "mail": "multi-accueil.les.ptits.loups@orange.fr",
+    "distance": 120169,
+    "latitude": 49.546669628399,
+    "telephone": "0344828256",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES PETITS LOUPS\" A SONGEONS",
+    "resultStructId": "110003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 place dupetit pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8540104464432734,
+    "ville": "songeons",
+    "cp": "60380"
+  },
+  {
+    "resultId": "12866575",
+    "mail": "multi-accueil.les.ptits.loups@orange.fr",
+    "distance": 185319,
+    "latitude": 49.546669628399,
+    "telephone": "0344828256",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES PETITS LOUPS\" A SONGEONS",
+    "resultStructId": "110003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "17 place dupetit pont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8540104464432734,
+    "ville": "songeons",
+    "cp": "60380"
+  }
+]

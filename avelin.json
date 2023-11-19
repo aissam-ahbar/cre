@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12736019",
+    "mail": "avelin@creche-la-maison-bleue.fr",
+    "distance": 26016,
+    "latitude": 50.5412677470345,
+    "telephone": "0185530690",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Primevères\"",
+    "resultStructId": "708205",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "75 rue de seclin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0712017331568138,
+    "ville": "avelin",
+    "cp": "59710"
+  },
+  {
+    "resultId": "12566711",
+    "mail": "lesptitspoucets@innovenfance.org",
+    "distance": 26814,
+    "latitude": 50.53920606960483,
+    "telephone": "0320322787",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITS POUCETS",
+    "resultStructId": "711606",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue du chateau d'has",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0839159501425675,
+    "ville": "avelin",
+    "cp": "59710"
+  }
+]

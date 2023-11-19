@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "23117131",
+    "mail": "francas.creche@outlook.fr",
+    "distance": 156250,
+    "latitude": 50.09391929306089,
+    "telephone": "0972306071",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des FRANCAS",
+    "resultStructId": "697605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue jules hiroux 59177 sains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.016815660431218,
+    "ville": "dunord",
+    "cp": ""
+  },
+  {
+    "resultId": "12633877",
+    "mail": "sivom.mortagne.nord@orange.fr",
+    "distance": 51512,
+    "latitude": 50.50235574954168,
+    "telephone": "0327277561",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Les4 Châtons",
+    "resultStructId": "3522",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "66 quai des mouettes 59158 mortagne",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.4458318843827342,
+    "ville": "dunord",
+    "cp": ""
+  },
+  {
+    "resultId": "23117131",
+    "mail": "francas.creche@outlook.fr",
+    "distance": 101399,
+    "latitude": 50.09391929306089,
+    "telephone": "0972306071",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil des FRANCAS",
+    "resultStructId": "697605",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 rue jules hiroux 59177 sains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.016815660431218,
+    "ville": "dunord",
+    "cp": ""
+  }
+]

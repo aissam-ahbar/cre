@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12501351",
+    "mail": "creche.stlaurent@wanadoo.fr",
+    "distance": 158195,
+    "latitude": 42.769720260842725,
+    "telephone": "0468342235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "440",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de leucate 66250 st laurent de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0022194111844565,
+    "ville": "lasalanque",
+    "cp": ""
+  },
+  {
+    "resultId": "12501351",
+    "mail": "creche.stlaurent@wanadoo.fr",
+    "distance": 117276,
+    "latitude": 42.769720260842725,
+    "telephone": "0468342235",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LePetit Prince",
+    "resultStructId": "440",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de leucate 66250 st laurent de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0022194111844565,
+    "ville": "lasalanque",
+    "cp": ""
+  }
+]

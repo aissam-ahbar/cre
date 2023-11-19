@@ -1,0 +1,75 @@
+[
+  {
+    "resultId": "12567657",
+    "mail": "creche-ste-elisabeth@orange.fr",
+    "distance": 139316,
+    "latitude": 43.101506410761246,
+    "telephone": "0562943478",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEILSAINTE ELISABETH",
+    "resultStructId": "684820",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de labastide",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.051851937305675035,
+    "ville": "lourdes",
+    "cp": "65100"
+  },
+  {
+    "resultId": "12573634",
+    "mail": "fborde@ch-lourdes.fr",
+    "distance": 140228,
+    "latitude": 43.09345808436733,
+    "telephone": "0562941346",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA-MULTI-ACCUEIL HOSPITALIER DE LOURDES-SAINT VINCENT DEPAUL",
+    "resultStructId": "684815",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "25 rue des pyrenees",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.04930869564505024,
+    "ville": "lourdes",
+    "cp": "65100"
+  },
+  {
+    "resultId": "12550199",
+    "mail": "lasourisverte6@orange.fr",
+    "distance": 141387,
+    "latitude": 43.083144993616514,
+    "telephone": "0562421797",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MA-MULTI-ACCUEIL LA SOURISVERTE",
+    "resultStructId": "709105",
+    "omegaId": "0",
+    "avip": false,
+    "allNonRenseigne": false,
+    "adresse": "28 rue du pibeste",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.04711793835493298,
+    "ville": "lourdes",
+    "cp": "65100"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12682389",
+    "mail": "lesptitsloups91580@sfr.fr",
+    "distance": 169658,
+    "latitude": 48.48995896812427,
+    "telephone": "0160805517",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilLes P'tits Loups - Etréchy",
+    "resultStructId": "4650",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 ter rue des vrigneaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.1913866436617986,
+    "ville": "etrechy",
+    "cp": "91580"
+  },
+  {
+    "resultId": "12760787",
+    "mail": "crechediablotins91@gmail.com",
+    "distance": 169964,
+    "latitude": 48.49304054727453,
+    "telephone": "0160804859",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDiablotins",
+    "resultStructId": "6503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue cite",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.189701421553848,
+    "ville": "etrechy",
+    "cp": "91580"
+  }
+]

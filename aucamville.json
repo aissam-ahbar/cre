@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "59288227",
+    "mail": "m.c.grandir-a-petits-pas@orange.fr",
+    "distance": 131301,
+    "latitude": 43.800753087729866,
+    "telephone": "0563282562",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "grandirà petits pas",
+    "resultStructId": "694915",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 chemin marguestaud",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.219803100350733,
+    "ville": "aucamville",
+    "cp": "82600"
+  },
+  {
+    "resultId": "12726430",
+    "mail": "creche.lutins@ville-aucamville.fr",
+    "distance": 152886,
+    "latitude": 43.66786044629882,
+    "telephone": "0562107683",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Les Lutins",
+    "resultStructId": "696931",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "53 bis chemin de l'oustalet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4248255600927215,
+    "ville": "aucamville",
+    "cp": "31140"
+  },
+  {
+    "resultId": "13042453",
+    "mail": "halte.galopins@ville-aucamville.fr",
+    "distance": 152996,
+    "latitude": 43.66906320969982,
+    "telephone": "0561454611",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "HalteGarderie Les Galopins",
+    "resultStructId": "696930",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "3 rue du general maurel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4273688017533461,
+    "ville": "aucamville",
+    "cp": "31140"
+  },
+  {
+    "resultId": "39256008",
+    "mail": "contact@babilou.com",
+    "distance": 153120,
+    "latitude": 43.66710090708459,
+    "telephone": "0532092990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "EVANCIABABILOU TERRE D'ENFANCE",
+    "resultStructId": "676820",
+    "omegaId": "47520",
+    "avip": false,
+    "adresse": "14 rue andre restes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4275755330930102,
+    "ville": "aucamville",
+    "cp": "31140"
+  },
+  {
+    "resultId": "12726387",
+    "mail": "creche.bambins@ville-aucamville.fr",
+    "distance": 153162,
+    "latitude": 43.669108538619795,
+    "telephone": "0561705842",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Bambins",
+    "resultStructId": "603101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue des ecoles - impasse desecureuils",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.4297968921987834,
+    "ville": "aucamville",
+    "cp": "31140"
+  }
+]

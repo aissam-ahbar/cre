@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "31999854",
+    "mail": "monenfant91@gmail.com",
+    "distance": 179015,
+    "latitude": 48.57439430271561,
+    "telephone": "0679149236",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MinhibouxEgly",
+    "resultStructId": "87502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 impasse des meuniers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.203901942613242,
+    "ville": "egly",
+    "cp": "91520"
+  },
+  {
+    "resultId": "12524528",
+    "mail": "saf.egly@coeuressonne.fr",
+    "distance": 179960,
+    "latitude": 48.578083482469,
+    "telephone": "0169722507",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"Lesp'tits Loups\"",
+    "resultStructId": "55514",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue theophile le tiec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2365224134768336,
+    "ville": "egly",
+    "cp": "91520"
+  },
+  {
+    "resultId": "12524571",
+    "mail": "haltegarderie.egly@coeuressonne.fr",
+    "distance": 179960,
+    "latitude": 48.578083482469,
+    "telephone": "0164906330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "haltegarderie \"Les Lucioles\"",
+    "resultStructId": "55515",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue theophile le tiec",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2365224134768336,
+    "ville": "egly",
+    "cp": "91520"
+  }
+]

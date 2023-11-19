@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12678433",
+    "mail": "creche-ruelle@orange.fr",
+    "distance": 184425,
+    "latitude": 45.68259357472289,
+    "telephone": "0545655383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti Accueil",
+    "resultStructId": "4558",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "357 rue emile roux 16600 ruelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.22806388473545222,
+    "ville": "surtouvre",
+    "cp": ""
+  },
+  {
+    "resultId": "12557165",
+    "mail": "lilozenfants@gmail.com",
+    "distance": 185672,
+    "latitude": 45.66477995381634,
+    "telephone": "0545687044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lilozenfants",
+    "resultStructId": "80801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue plantiers des geais 16600 magnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.235559867270328,
+    "ville": "surtouvre",
+    "cp": ""
+  },
+  {
+    "resultId": "12557165",
+    "mail": "lilozenfants@gmail.com",
+    "distance": 151145,
+    "latitude": 45.66477995381634,
+    "telephone": "0545687044",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lilozenfants",
+    "resultStructId": "80801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1rue plantiers des geais 16600 magnac",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.235559867270328,
+    "ville": "surtouvre",
+    "cp": ""
+  },
+  {
+    "resultId": "12678433",
+    "mail": "creche-ruelle@orange.fr",
+    "distance": 152922,
+    "latitude": 45.68259357472289,
+    "telephone": "0545655383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "StructureMulti Accueil",
+    "resultStructId": "4558",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "357 rue emile roux 16600 ruelle",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.22806388473545222,
+    "ville": "surtouvre",
+    "cp": ""
+  }
+]

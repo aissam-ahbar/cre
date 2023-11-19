@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "34054304",
+    "mail": "coralie.dantonel@assistalliance.fr",
+    "distance": 72505,
+    "latitude": 44.19285664059396,
+    "telephone": "0553686036",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLove&Baby Bon Encontre",
+    "resultStructId": "118204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "lieu dit \"le petit colayrac\"47240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6475239564371267,
+    "ville": "bonencontre",
+    "cp": ""
+  },
+  {
+    "resultId": "12505608",
+    "mail": "multi-accueil@ville-bon-encontre.fr",
+    "distance": 74281,
+    "latitude": 44.18596860280165,
+    "telephone": "0553682706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMunicipal \"Mini Mômes\"",
+    "resultStructId": "117011",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "residence mascaron rue de larepublique 47240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6680658525911178,
+    "ville": "bonencontre",
+    "cp": ""
+  },
+  {
+    "resultId": "12690430",
+    "mail": "creche.hista@outlook.com",
+    "distance": 74662,
+    "latitude": 44.18606098103659,
+    "telephone": "0553980982",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheHistoires d'Enfants",
+    "resultStructId": "673401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la republique 47240",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 0.6730344015570601,
+    "ville": "bonencontre",
+    "cp": ""
+  }
+]

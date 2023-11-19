@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "60097912",
+    "mail": "",
+    "distance": 168746,
+    "latitude": 48.977033185952784,
+    "telephone": "0183849410",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites Canailles DEUIL-LA-BARRE",
+    "resultStructId": "704516",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue haute 95170deuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.328189570387684,
+    "ville": "labarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12961218",
+    "mail": "sviltart@mairie-deuillabarre.fr",
+    "distance": 170003,
+    "latitude": 48.9654665471468,
+    "telephone": "0130101300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil 2",
+    "resultStructId": "32419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du camp 95170 deuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3292161363119357,
+    "ville": "labarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12961175",
+    "mail": "ltacito@mairie-deuillabarre.fr",
+    "distance": 170003,
+    "latitude": 48.9654665471468,
+    "telephone": "0130101300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "mulitiaccueil 1",
+    "resultStructId": "32421",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du camp 95170 deuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3292161363119357,
+    "ville": "labarre",
+    "cp": ""
+  },
+  {
+    "resultId": "12961132",
+    "mail": "sdudouit@mairie-deuillabarre.fr",
+    "distance": 170003,
+    "latitude": 48.9654665471468,
+    "telephone": "0130101300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective",
+    "resultStructId": "11162",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue du camp 95170 deuil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3292161363119357,
+    "ville": "labarre",
+    "cp": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12530634",
+    "mail": "pleyronnas@ville-valenton.fr",
+    "distance": 152235,
+    "latitude": 48.743918151663394,
+    "telephone": "0143827336",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Croizat\"",
+    "resultStructId": "1121",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee fernande flagon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4683994136174765,
+    "ville": "valenton",
+    "cp": "94460"
+  },
+  {
+    "resultId": "12540180",
+    "mail": "",
+    "distance": 152404,
+    "latitude": 48.74507184105652,
+    "telephone": "0143890335",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchedépartementale Marie Verdure",
+    "resultStructId": "15414",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue f.ferrer",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.466087699747383,
+    "ville": "valenton",
+    "cp": "94460"
+  },
+  {
+    "resultId": "12515369",
+    "mail": "",
+    "distance": 152894,
+    "latitude": 48.74830920890474,
+    "telephone": "0143860142",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieBrin de Malice",
+    "resultStructId": "14797",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue charles gounod",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.4593915045725585,
+    "ville": "valenton",
+    "cp": "94460"
+  },
+  {
+    "resultId": "13059610",
+    "mail": "",
+    "distance": 153909,
+    "latitude": 48.76658006471171,
+    "telephone": "0156741390",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Simone Flageul",
+    "resultStructId": "15123",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "32 rue jean jaures",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.445683389263111,
+    "ville": "valenton",
+    "cp": "94460"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59507876",
+    "mail": "sasu.les.5.sens@gmail.com",
+    "distance": 67320,
+    "latitude": 44.92929932916209,
+    "telephone": "0556448654",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE LES 5 SENS",
+    "resultStructId": "697802",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue de la vierge 33440 ambares",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.47131131276143734,
+    "ville": "etlagrave",
+    "cp": ""
+  },
+  {
+    "resultId": "40914188",
+    "mail": "co.rathonie@ville-ambaresetlagrave.fr",
+    "distance": 67547,
+    "latitude": 44.92778768661719,
+    "telephone": "0557775280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "ServiceAccueil Familial",
+    "resultStructId": "208413",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue massina 33440 ambares",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4885144501608848,
+    "ville": "etlagrave",
+    "cp": ""
+  },
+  {
+    "resultId": "12568087",
+    "mail": "christelle.savarit@ville-ambaresetlagrave.fr",
+    "distance": 67584,
+    "latitude": 44.9278445117884,
+    "telephone": "0557775280",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale MAISON PETITE ENFANCE",
+    "resultStructId": "1992",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du parc des sports33440 ambares",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4898370711761283,
+    "ville": "etlagrave",
+    "cp": ""
+  },
+  {
+    "resultId": "39161567",
+    "mail": "c.alins@ville-ambaresetlagrave.fr",
+    "distance": 69521,
+    "latitude": 44.946117304825954,
+    "telephone": "0556389983",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL La Souris Verte",
+    "resultStructId": "208403",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "38 avenue chemin de la vie33440 ambares",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.4895836896898082,
+    "ville": "etlagrave",
+    "cp": ""
+  }
+]

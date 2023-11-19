@@ -1,0 +1,170 @@
+[
+  {
+    "resultId": "59918401",
+    "mail": "pomcannelle@mairie-villemomble.fr",
+    "distance": 148976,
+    "latitude": 48.88410245290499,
+    "telephone": "0158667057",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Pom Cannelle",
+    "resultStructId": "701452",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "15 impasse des chenes",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5231966041110803,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "12483842",
+    "mail": "cadet-rousselle@mairie-villemomble.fr",
+    "distance": 149107,
+    "latitude": 48.87578886405168,
+    "telephone": "0145284866",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil CADET ROUSSELLE",
+    "resultStructId": "466801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue benoni eustache",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5201487099372635,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "12665232",
+    "mail": "jardin-enfants@mairie-villemomble.fr",
+    "distance": 149445,
+    "latitude": 48.88595657185667,
+    "telephone": "0172598885",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "\"LeJardin D'enfant \" Villemomble",
+    "resultStructId": "701461",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "57 boulevard general degaule",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5170329488696135,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "33707815",
+    "mail": "lucioles@mairie-villemomble.fr",
+    "distance": 150029,
+    "latitude": 48.887984020947215,
+    "telephone": "0149357371",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Lucioles",
+    "resultStructId": "466901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue saint-charles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.509317346112863,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "12601455",
+    "mail": "st-charles@mairie-villemomble.fr",
+    "distance": 150029,
+    "latitude": 48.887984020947215,
+    "telephone": "0148542158",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"Saint-Charles\"",
+    "resultStructId": "701458",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue saint-charles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.509317346112863,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "12667941",
+    "mail": "minipouss@mairie-villemomble.fr",
+    "distance": 150503,
+    "latitude": 48.88313576625111,
+    "telephone": "0145282547",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Minipouss",
+    "resultStructId": "163603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du docteur calmette",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5020510539039953,
+    "ville": "villemomble",
+    "cp": "93250"
+  },
+  {
+    "resultId": "12483928",
+    "mail": "financiers@mairie-villemomble.fr",
+    "distance": 151484,
+    "latitude": 48.88748999856322,
+    "telephone": "0149352534",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"Les Diablotins\"",
+    "resultStructId": "35",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue decauville",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.489235940169614,
+    "ville": "villemomble",
+    "cp": "93250"
+  }
+]

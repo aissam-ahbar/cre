@@ -1,0 +1,2498 @@
+[
+  {
+    "resultId": "12550715",
+    "mail": "ypascal@ch-avignon.fr",
+    "distance": 42845,
+    "latitude": 43.9209306073541,
+    "telephone": "0432753810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Centre Hospitalier Henri Duffaut\"",
+    "resultStructId": "1588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue raoulfollereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805910826570952,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35281639",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 43343,
+    "latitude": 43.93189854253649,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Courtine",
+    "resultStructId": "135201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue du mourelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.779532829915137,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35942731",
+    "mail": "contact@nursea.fr",
+    "distance": 43561,
+    "latitude": 43.93419267507729,
+    "telephone": "0981614231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNURSEA Courtine",
+    "resultStructId": "141711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des bouleaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.778332806102527,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551833",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 43790,
+    "latitude": 43.93192198682023,
+    "telephone": "0490894806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Enfants\"",
+    "resultStructId": "1614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean philippe rameau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.797934952570844,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35283276",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 44007,
+    "latitude": 43.93111556328552,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori St Ruf",
+    "resultStructId": "135203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue de tarascon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809482552321071,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047081",
+    "mail": "",
+    "distance": 44717,
+    "latitude": 43.93155759362972,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL« Les Petits Troubadours »",
+    "resultStructId": "703601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du roi soleil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832851439733583,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551962",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 44724,
+    "latitude": 43.934118400540235,
+    "telephone": "0490885224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Croix des Oiseaux\"",
+    "resultStructId": "1617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8240122286538085,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12553682",
+    "mail": "petite-enfance@ccasavignon.org",
+    "distance": 45120,
+    "latitude": 43.931786290190836,
+    "telephone": "0490870253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Dorémi\"",
+    "resultStructId": "1657",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue paul claudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845241098458694,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12794843",
+    "mail": "lespetitslutins.84@people-and-baby.com",
+    "distance": 45223,
+    "latitude": 43.91783291443479,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Lutins\"",
+    "resultStructId": "7295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794886",
+    "mail": "lespetitsloups.84@people-and-baby.com",
+    "distance": 45223,
+    "latitude": 43.91783291443479,
+    "telephone": "0951717518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Les Petits Loups\"",
+    "resultStructId": "38901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12552908",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 45649,
+    "latitude": 43.94690241339656,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite livrée\"",
+    "resultStructId": "703507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue college de la croix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808906044719095,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12744275",
+    "mail": "pjardin@labourguette.org",
+    "distance": 45733,
+    "latitude": 43.92414722627891,
+    "telephone": "0486194117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Le Petit Jardin''",
+    "resultStructId": "6119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885773077322449,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12551876",
+    "mail": "creche.courtine@wanadoo.fr",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0490821098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Trésors\"",
+    "resultStructId": "1615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "610 rue du grand gigognan (zoneindustrielle la courtine)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685915",
+    "mail": "atoutpetitpas@hotmail.fr",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0490314479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AtoutPetit Pas",
+    "resultStructId": "4732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "430 allee de la chartreuse - montfavet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12684969",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0490857727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chapy-Chapo\"",
+    "resultStructId": "4710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean boccace a saint jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12557638",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0490855349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue erevan - residence deslavandes (zac pont des deux eaux)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35274533",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Agroparc",
+    "resultStructId": "135204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "940 route de l'aerodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550543",
+    "mail": "raphaelle_coquenas@ccasavignon.org",
+    "distance": 45813,
+    "latitude": 43.94932817669659,
+    "telephone": "0490826220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bambins\"",
+    "resultStructId": "374601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marie madeleine - maison pourtous monfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "59873043",
+    "mail": "xbourlat@hotmail.com",
+    "distance": 45928,
+    "latitude": 43.94786613789859,
+    "telephone": "0987063491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES CONFIDENCES",
+    "resultStructId": "700732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 a rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8156701751708635,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12762077",
+    "mail": "creche-mpp@hotmail.fr",
+    "distance": 46128,
+    "latitude": 43.94887969225341,
+    "telephone": "0983993965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche''Les p'tits explorateurs''",
+    "resultStructId": "6533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard limbert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8191538893988275,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12555574",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 46266,
+    "latitude": 43.95131355744442,
+    "telephone": "0490858985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue des infirmieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814767847237052,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685227",
+    "mail": "galipette@espelido.fr",
+    "distance": 46344,
+    "latitude": 43.93498772793636,
+    "telephone": "0490235415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Galipette - Espelido\"",
+    "resultStructId": "4716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 boulevard de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872582099835408,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "60047248",
+    "mail": "",
+    "distance": 46385,
+    "latitude": 43.95256139431017,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Persil",
+    "resultStructId": "703602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue du persil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81431377961853,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685098",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 47093,
+    "latitude": 43.949380382645735,
+    "telephone": "0490149710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche Familiale Avignon\"",
+    "resultStructId": "4713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685055",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 47093,
+    "latitude": 43.949380382645735,
+    "telephone": "0490146010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Farfantello\"",
+    "resultStructId": "4712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de massillargues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685184",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 47100,
+    "latitude": 43.93614562003404,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pirouette\"",
+    "resultStructId": "703508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vertes rives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8907032817404446,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794843",
+    "mail": "lespetitslutins.84@people-and-baby.com",
+    "distance": 395053,
+    "latitude": 43.91783291443479,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Lutins\"",
+    "resultStructId": "7295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794886",
+    "mail": "lespetitsloups.84@people-and-baby.com",
+    "distance": 395053,
+    "latitude": 43.91783291443479,
+    "telephone": "0951717518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Les Petits Loups\"",
+    "resultStructId": "38901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12744275",
+    "mail": "pjardin@labourguette.org",
+    "distance": 395601,
+    "latitude": 43.92414722627891,
+    "telephone": "0486194117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Le Petit Jardin''",
+    "resultStructId": "6119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885773077322449,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685184",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 395892,
+    "latitude": 43.93614562003404,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pirouette\"",
+    "resultStructId": "703508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vertes rives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8907032817404446,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685227",
+    "mail": "galipette@espelido.fr",
+    "distance": 397105,
+    "latitude": 43.93498772793636,
+    "telephone": "0490235415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Galipette - Espelido\"",
+    "resultStructId": "4716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 boulevard de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872582099835408,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12553682",
+    "mail": "petite-enfance@ccasavignon.org",
+    "distance": 398861,
+    "latitude": 43.931786290190836,
+    "telephone": "0490870253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Dorémi\"",
+    "resultStructId": "1657",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue paul claudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845241098458694,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685098",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 399408,
+    "latitude": 43.949380382645735,
+    "telephone": "0490149710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche Familiale Avignon\"",
+    "resultStructId": "4713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685055",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 399408,
+    "latitude": 43.949380382645735,
+    "telephone": "0490146010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Farfantello\"",
+    "resultStructId": "4712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de massillargues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047081",
+    "mail": "",
+    "distance": 399722,
+    "latitude": 43.93155759362972,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL« Les Petits Troubadours »",
+    "resultStructId": "703601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du roi soleil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832851439733583,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551962",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 400481,
+    "latitude": 43.934118400540235,
+    "telephone": "0490885224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Croix des Oiseaux\"",
+    "resultStructId": "1617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8240122286538085,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550715",
+    "mail": "ypascal@ch-avignon.fr",
+    "distance": 401070,
+    "latitude": 43.9209306073541,
+    "telephone": "0432753810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Centre Hospitalier Henri Duffaut\"",
+    "resultStructId": "1588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue raoulfollereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805910826570952,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35283276",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 401349,
+    "latitude": 43.93111556328552,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori St Ruf",
+    "resultStructId": "135203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue de tarascon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809482552321071,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12762077",
+    "mail": "creche-mpp@hotmail.fr",
+    "distance": 401602,
+    "latitude": 43.94887969225341,
+    "telephone": "0983993965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche''Les p'tits explorateurs''",
+    "resultStructId": "6533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard limbert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8191538893988275,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "59873043",
+    "mail": "xbourlat@hotmail.com",
+    "distance": 401793,
+    "latitude": 43.94786613789859,
+    "telephone": "0987063491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES CONFIDENCES",
+    "resultStructId": "700732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 a rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8156701751708635,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12555574",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 402039,
+    "latitude": 43.95131355744442,
+    "telephone": "0490858985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue des infirmieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814767847237052,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047248",
+    "mail": "",
+    "distance": 402137,
+    "latitude": 43.95256139431017,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Persil",
+    "resultStructId": "703602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue du persil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81431377961853,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551833",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 402207,
+    "latitude": 43.93192198682023,
+    "telephone": "0490894806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Enfants\"",
+    "resultStructId": "1614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean philippe rameau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.797934952570844,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12552908",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 402219,
+    "latitude": 43.94690241339656,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite livrée\"",
+    "resultStructId": "703507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue college de la croix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808906044719095,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12684969",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0490857727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chapy-Chapo\"",
+    "resultStructId": "4710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean boccace a saint jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35274533",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Agroparc",
+    "resultStructId": "135204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "940 route de l'aerodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550543",
+    "mail": "raphaelle_coquenas@ccasavignon.org",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0490826220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bambins\"",
+    "resultStructId": "374601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marie madeleine - maison pourtous monfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12557638",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0490855349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue erevan - residence deslavandes (zac pont des deux eaux)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551876",
+    "mail": "creche.courtine@wanadoo.fr",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0490821098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Trésors\"",
+    "resultStructId": "1615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "610 rue du grand gigognan (zoneindustrielle la courtine)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685915",
+    "mail": "atoutpetitpas@hotmail.fr",
+    "distance": 402600,
+    "latitude": 43.94932817669659,
+    "telephone": "0490314479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AtoutPetit Pas",
+    "resultStructId": "4732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "430 allee de la chartreuse - montfavet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "35281639",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 403507,
+    "latitude": 43.93189854253649,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Courtine",
+    "resultStructId": "135201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue du mourelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.779532829915137,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35942731",
+    "mail": "contact@nursea.fr",
+    "distance": 403712,
+    "latitude": 43.93419267507729,
+    "telephone": "0981614231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNURSEA Courtine",
+    "resultStructId": "141711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des bouleaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.778332806102527,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35281639",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 79990,
+    "latitude": 43.93189854253649,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Courtine",
+    "resultStructId": "135201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue du mourelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.779532829915137,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35942731",
+    "mail": "contact@nursea.fr",
+    "distance": 80022,
+    "latitude": 43.93419267507729,
+    "telephone": "0981614231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNURSEA Courtine",
+    "resultStructId": "141711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des bouleaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.778332806102527,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551833",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 81304,
+    "latitude": 43.93192198682023,
+    "telephone": "0490894806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Enfants\"",
+    "resultStructId": "1614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean philippe rameau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.797934952570844,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550715",
+    "mail": "ypascal@ch-avignon.fr",
+    "distance": 81334,
+    "latitude": 43.9209306073541,
+    "telephone": "0432753810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Centre Hospitalier Henri Duffaut\"",
+    "resultStructId": "1588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue raoulfollereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805910826570952,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35283276",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 82090,
+    "latitude": 43.93111556328552,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori St Ruf",
+    "resultStructId": "135203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue de tarascon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809482552321071,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551876",
+    "mail": "creche.courtine@wanadoo.fr",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0490821098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Trésors\"",
+    "resultStructId": "1615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "610 rue du grand gigognan (zoneindustrielle la courtine)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685915",
+    "mail": "atoutpetitpas@hotmail.fr",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0490314479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AtoutPetit Pas",
+    "resultStructId": "4732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "430 allee de la chartreuse - montfavet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12684969",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0490857727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chapy-Chapo\"",
+    "resultStructId": "4710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean boccace a saint jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12557638",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0490855349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue erevan - residence deslavandes (zac pont des deux eaux)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35274533",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Agroparc",
+    "resultStructId": "135204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "940 route de l'aerodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550543",
+    "mail": "raphaelle_coquenas@ccasavignon.org",
+    "distance": 82717,
+    "latitude": 43.94932817669659,
+    "telephone": "0490826220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bambins\"",
+    "resultStructId": "374601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marie madeleine - maison pourtous monfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12552908",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 82846,
+    "latitude": 43.94690241339656,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite livrée\"",
+    "resultStructId": "703507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue college de la croix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808906044719095,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551962",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 83281,
+    "latitude": 43.934118400540235,
+    "telephone": "0490885224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Croix des Oiseaux\"",
+    "resultStructId": "1617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8240122286538085,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "59873043",
+    "mail": "xbourlat@hotmail.com",
+    "distance": 83376,
+    "latitude": 43.94786613789859,
+    "telephone": "0987063491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES CONFIDENCES",
+    "resultStructId": "700732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 a rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8156701751708635,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12555574",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 83490,
+    "latitude": 43.95131355744442,
+    "telephone": "0490858985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue des infirmieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814767847237052,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047248",
+    "mail": "",
+    "distance": 83522,
+    "latitude": 43.95256139431017,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Persil",
+    "resultStructId": "703602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue du persil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81431377961853,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12762077",
+    "mail": "creche-mpp@hotmail.fr",
+    "distance": 83676,
+    "latitude": 43.94887969225341,
+    "telephone": "0983993965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche''Les p'tits explorateurs''",
+    "resultStructId": "6533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard limbert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8191538893988275,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047081",
+    "mail": "",
+    "distance": 83791,
+    "latitude": 43.93155759362972,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL« Les Petits Troubadours »",
+    "resultStructId": "703601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du roi soleil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832851439733583,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12553682",
+    "mail": "petite-enfance@ccasavignon.org",
+    "distance": 84696,
+    "latitude": 43.931786290190836,
+    "telephone": "0490870253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Dorémi\"",
+    "resultStructId": "1657",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue paul claudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845241098458694,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685098",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 85950,
+    "latitude": 43.949380382645735,
+    "telephone": "0490149710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche Familiale Avignon\"",
+    "resultStructId": "4713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685055",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 85950,
+    "latitude": 43.949380382645735,
+    "telephone": "0490146010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Farfantello\"",
+    "resultStructId": "4712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de massillargues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685227",
+    "mail": "galipette@espelido.fr",
+    "distance": 86826,
+    "latitude": 43.93498772793636,
+    "telephone": "0490235415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Galipette - Espelido\"",
+    "resultStructId": "4716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 boulevard de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872582099835408,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794843",
+    "mail": "lespetitslutins.84@people-and-baby.com",
+    "distance": 87220,
+    "latitude": 43.91783291443479,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Lutins\"",
+    "resultStructId": "7295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794886",
+    "mail": "lespetitsloups.84@people-and-baby.com",
+    "distance": 87220,
+    "latitude": 43.91783291443479,
+    "telephone": "0951717518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Les Petits Loups\"",
+    "resultStructId": "38901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12744275",
+    "mail": "pjardin@labourguette.org",
+    "distance": 87283,
+    "latitude": 43.92414722627891,
+    "telephone": "0486194117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Le Petit Jardin''",
+    "resultStructId": "6119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885773077322449,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685184",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 88196,
+    "latitude": 43.93614562003404,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pirouette\"",
+    "resultStructId": "703508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vertes rives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8907032817404446,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685184",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 93820,
+    "latitude": 43.93614562003404,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pirouette\"",
+    "resultStructId": "703508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue des vertes rives",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8907032817404446,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794843",
+    "mail": "lespetitslutins.84@people-and-baby.com",
+    "distance": 94058,
+    "latitude": 43.91783291443479,
+    "telephone": "0158051870",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petits Lutins\"",
+    "resultStructId": "7295",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12794886",
+    "mail": "lespetitsloups.84@people-and-baby.com",
+    "distance": 94058,
+    "latitude": 43.91783291443479,
+    "telephone": "0951717518",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Les Petits Loups\"",
+    "resultStructId": "38901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "250 avenue felicien florent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.888807843392694,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12744275",
+    "mail": "pjardin@labourguette.org",
+    "distance": 94266,
+    "latitude": 43.92414722627891,
+    "telephone": "0486194117",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil''Le Petit Jardin''",
+    "resultStructId": "6119",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin de la foret",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.885773077322449,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685227",
+    "mail": "galipette@espelido.fr",
+    "distance": 95275,
+    "latitude": 43.93498772793636,
+    "telephone": "0490235415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Galipette - Espelido\"",
+    "resultStructId": "4716",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "98 boulevard de la",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.872582099835408,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12685098",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 96987,
+    "latitude": 43.949380382645735,
+    "telephone": "0490149710",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Crèche Familiale Avignon\"",
+    "resultStructId": "4713",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685055",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 96987,
+    "latitude": 43.949380382645735,
+    "telephone": "0490146010",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Farfantello\"",
+    "resultStructId": "4712",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1930 chemin de massillargues",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.85070322681347,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12553682",
+    "mail": "petite-enfance@ccasavignon.org",
+    "distance": 97475,
+    "latitude": 43.931786290190836,
+    "telephone": "0490870253",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Dorémi\"",
+    "resultStructId": "1657",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "27 avenue paul claudel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.845241098458694,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047081",
+    "mail": "",
+    "distance": 98467,
+    "latitude": 43.93155759362972,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTI-ACCUEIL« Les Petits Troubadours »",
+    "resultStructId": "703601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 avenue du roi soleil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.832851439733583,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551962",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 99165,
+    "latitude": 43.934118400540235,
+    "telephone": "0490885224",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La Croix des Oiseaux\"",
+    "resultStructId": "1617",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place de verdun",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8240122286538085,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12762077",
+    "mail": "creche-mpp@hotmail.fr",
+    "distance": 99513,
+    "latitude": 43.94887969225341,
+    "telephone": "0983993965",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèche''Les p'tits explorateurs''",
+    "resultStructId": "6533",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 boulevard limbert",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8191538893988275,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "59873043",
+    "mail": "xbourlat@hotmail.com",
+    "distance": 99794,
+    "latitude": 43.94786613789859,
+    "telephone": "0987063491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESP'TITES CONFIDENCES",
+    "resultStructId": "700732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 a rue buffon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.8156701751708635,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12555574",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 99860,
+    "latitude": 43.95131355744442,
+    "telephone": "0490858985",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1701",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "87 rue des infirmieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.814767847237052,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "60047248",
+    "mail": "",
+    "distance": 99895,
+    "latitude": 43.95256139431017,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "1,2,3Persil",
+    "resultStructId": "703602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "29 rue du persil",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.81431377961853,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12552908",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 100338,
+    "latitude": 43.94690241339656,
+    "telephone": "0432743100",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"La petite livrée\"",
+    "resultStructId": "703507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue college de la croix",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.808906044719095,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35283276",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 100339,
+    "latitude": 43.93111556328552,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori St Ruf",
+    "resultStructId": "135203",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "110 avenue de tarascon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.809482552321071,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551876",
+    "mail": "creche.courtine@wanadoo.fr",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0490821098",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Trésors\"",
+    "resultStructId": "1615",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "610 rue du grand gigognan (zoneindustrielle la courtine)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12685915",
+    "mail": "atoutpetitpas@hotmail.fr",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0490314479",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AtoutPetit Pas",
+    "resultStructId": "4732",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "430 allee de la chartreuse - montfavet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84140"
+  },
+  {
+    "resultId": "12684969",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0490857727",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Chapy-Chapo\"",
+    "resultStructId": "4710",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue jean boccace a saint jean",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12557638",
+    "mail": "clubdespetits@wanadoo.fr",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0490855349",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Le Club des Petits\"",
+    "resultStructId": "1749",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue erevan - residence deslavandes (zac pont des deux eaux)",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35274533",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Agroparc",
+    "resultStructId": "135204",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "940 route de l'aerodrome",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550543",
+    "mail": "raphaelle_coquenas@ccasavignon.org",
+    "distance": 100621,
+    "latitude": 43.94932817669659,
+    "telephone": "0490826220",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Bambins\"",
+    "resultStructId": "374601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue marie madeleine - maison pourtous monfleury",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805311493587231,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12550715",
+    "mail": "ypascal@ch-avignon.fr",
+    "distance": 100672,
+    "latitude": 43.9209306073541,
+    "telephone": "0432753810",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Centre Hospitalier Henri Duffaut\"",
+    "resultStructId": "1588",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "305 avenue raoulfollereau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.805910826570952,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "12551833",
+    "mail": "petite_enfance@ccasavignon.org",
+    "distance": 101260,
+    "latitude": 43.93192198682023,
+    "telephone": "0490894806",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"L'Île aux Enfants\"",
+    "resultStructId": "1614",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "place jean philippe rameau",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.797934952570844,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35281639",
+    "mail": "contact.lesangles@babymontessori.fr",
+    "distance": 102733,
+    "latitude": 43.93189854253649,
+    "telephone": "0769796099",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "BabyMontessori Courtine",
+    "resultStructId": "135201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "115 rue du mourelet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.779532829915137,
+    "ville": "avignon",
+    "cp": "84000"
+  },
+  {
+    "resultId": "35942731",
+    "mail": "contact@nursea.fr",
+    "distance": 102821,
+    "latitude": 43.93419267507729,
+    "telephone": "0981614231",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheNURSEA Courtine",
+    "resultStructId": "141711",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 allee des bouleaux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.778332806102527,
+    "ville": "avignon",
+    "cp": "84000"
+  }
+]

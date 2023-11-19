@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12833242",
+    "mail": "creche.laclairefontaine@toulouges.fr",
+    "distance": 175839,
+    "latitude": 42.670121084652166,
+    "telephone": "0468959729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaClaire Fontaine",
+    "resultStructId": "690004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du calvaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.833322643531172,
+    "ville": "toulouges",
+    "cp": "66350"
+  },
+  {
+    "resultId": "12833242",
+    "mail": "creche.laclairefontaine@toulouges.fr",
+    "distance": 134549,
+    "latitude": 42.670121084652166,
+    "telephone": "0468959729",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaClaire Fontaine",
+    "resultStructId": "690004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "chemin du calvaire",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.833322643531172,
+    "ville": "toulouges",
+    "cp": "66350"
+  }
+]

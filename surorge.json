@@ -1,0 +1,890 @@
+[
+  {
+    "resultId": "31989302",
+    "mail": "limousin@berceaudesrois.fr",
+    "distance": 182968,
+    "latitude": 48.594640422408624,
+    "telephone": "0185460980",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue du limousin 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3041669729548797,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757304",
+    "mail": "",
+    "distance": 184176,
+    "latitude": 48.60565585258307,
+    "telephone": "0160852788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Grainede Malice",
+    "resultStructId": "6422",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue edouard branly 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.305466799020044,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757046",
+    "mail": "",
+    "distance": 184551,
+    "latitude": 48.608038464903856,
+    "telephone": "0160857565",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Clairde Lune",
+    "resultStructId": "158001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue normandie-niemen 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.311726992700133,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12783491",
+    "mail": "",
+    "distance": 184813,
+    "latitude": 48.611479589356044,
+    "telephone": "0169884069",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Jardind'enfants Orme Fourmi",
+    "resultStructId": "158003",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "34 rue du guet saint pierre 91220bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3060296529006212,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757132",
+    "mail": "",
+    "distance": 184813,
+    "latitude": 48.611479589356044,
+    "telephone": "0160841228",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "JardinEducatif Auriol",
+    "resultStructId": "6418",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue croix louis - ecole jacquelineauriol 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3060296529006212,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757175",
+    "mail": "",
+    "distance": 184813,
+    "latitude": 48.611479589356044,
+    "telephone": "0160857571",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lesPetits pas",
+    "resultStructId": "6419",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 avenue de normandi-niemen - maison emiliemallet 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3060296529006212,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757089",
+    "mail": "",
+    "distance": 185091,
+    "latitude": 48.61423336560543,
+    "telephone": "0169847055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaFontaine",
+    "resultStructId": "6417",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee des cedres 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.305074276716394,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "32011327",
+    "mail": "cedres@berceaudesrois.fr",
+    "distance": 185185,
+    "latitude": 48.61504492634972,
+    "telephone": "0160841150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 allee des cedres 91220 bretigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.305458669780205,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12516315",
+    "mail": "",
+    "distance": 186772,
+    "latitude": 48.63031000464065,
+    "telephone": "0160153776",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Sucred'Orge",
+    "resultStructId": "788",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "19 bis rue gustave charpentier - maison de lapetite enfance 91240 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3025034367672563,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12516401",
+    "mail": "",
+    "distance": 186772,
+    "latitude": 48.63031000464065,
+    "telephone": "0169041660",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue gustave charpentier - maison de la petiteenfance 91240 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3025034367672563,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "32001651",
+    "mail": "contact-saintmichelsurorge@oursonetcie.fr",
+    "distance": 187585,
+    "latitude": 48.63683597884093,
+    "telephone": "0698187120",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Oursonset Cie",
+    "resultStructId": "87519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue gambetta 91240 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3084854429678363,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12516573",
+    "mail": "",
+    "distance": 187755,
+    "latitude": 48.637046428685075,
+    "telephone": "0169254030",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "FrançoiseDolto",
+    "resultStructId": "794",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 avenue saint saens 91240 st michel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.316365792151518,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12760916",
+    "mail": "",
+    "distance": 188252,
+    "latitude": 48.64489887533101,
+    "telephone": "0953823763",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin des Bisounours",
+    "resultStructId": "6506",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "voie des osiers 91310 longpont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2975525571671054,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12523023",
+    "mail": "resppetiteenfance@vso91.fr",
+    "distance": 189648,
+    "latitude": 48.65742151101236,
+    "telephone": "0630665491",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil - Le petit Prince - Villiers sur Orge",
+    "resultStructId": "168115",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rueantoine de st exupery 91700 villiers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3001288504288158,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12512402",
+    "mail": "",
+    "distance": 190274,
+    "latitude": 48.65430551517608,
+    "telephone": "0169460963",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'Epargne",
+    "resultStructId": "697",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20rue de l'epargne 91390 morsang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.351070979792908,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12511198",
+    "mail": "",
+    "distance": 190274,
+    "latitude": 48.65430551517608,
+    "telephone": "0169460957",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Epargne",
+    "resultStructId": "669",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20rue de l'epargne 91390 morsang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.351070979792908,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12801121",
+    "mail": "",
+    "distance": 190303,
+    "latitude": 48.654506619888394,
+    "telephone": "0169460956",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "E.Cotton",
+    "resultStructId": "7441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 avenue henri barbusse 91390 morsang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3514407437626277,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12618827",
+    "mail": "multiaccueil@villemoisson.fr",
+    "distance": 190532,
+    "latitude": 48.66111472103305,
+    "telephone": "0169515600",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Les Lucioles\"",
+    "resultStructId": "461301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 avenue des gardes messiers91360 villemoisson",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.326431745114083,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12512832",
+    "mail": "",
+    "distance": 191167,
+    "latitude": 48.663374386182106,
+    "telephone": "0169263903",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "707",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue clement durand 91390 morsang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3469839086401456,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12512316",
+    "mail": "",
+    "distance": 191167,
+    "latitude": 48.663374386182106,
+    "telephone": "0169515205",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesEcureuils",
+    "resultStructId": "695",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue clement durand 91390 morsang",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3469839086401456,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12776654",
+    "mail": "saf@ville-epinay-sur-orge.fr",
+    "distance": 191722,
+    "latitude": 48.672627733879764,
+    "telephone": "0169100788",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Castors",
+    "resultStructId": "6872",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue de la division leclerc maison del'enfance 91360 epinay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3239252369267986,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12757476",
+    "mail": "info@creche-pevo.net",
+    "distance": 192123,
+    "latitude": 48.67500422977406,
+    "telephone": "0169341048",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "P.E.V.O.(Parents Enfants du Val d'Orge",
+    "resultStructId": "134601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "71 rue de petit vaux91360 epinay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.331637921682244,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12836252",
+    "mail": "c-stamm@savigny.org",
+    "distance": 192167,
+    "latitude": 48.67407213912435,
+    "telephone": "0169968112",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesMoussaillons",
+    "resultStructId": "641101",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue henri ouzilleau 91600 savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3392777507856257,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12824642",
+    "mail": "contacts.lpso@gmail.com",
+    "distance": 192673,
+    "latitude": 48.678513769358524,
+    "telephone": "0169248383",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Sucres D'Orge",
+    "resultStructId": "7988",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 a 11 rue henri dunant 91600savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.340785577165854,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12836295",
+    "mail": "c-bergeron@savigny.org",
+    "distance": 192709,
+    "latitude": 48.67618233131876,
+    "telephone": "0169249333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesLutins",
+    "resultStructId": "641201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "37 rue charles rossignol 91600 savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3556609315363737,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "32000442",
+    "mail": "babillesetgribouillages@gmail.com",
+    "distance": 192827,
+    "latitude": 48.677230793107775,
+    "telephone": "0166442848",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Babilleset Gribouillages",
+    "resultStructId": "87507",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 grand rue - 91600 savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3559561808610168,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12836424",
+    "mail": "l-dib@savigny.org",
+    "distance": 192894,
+    "latitude": 48.67964044311544,
+    "telephone": "0169445330",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil",
+    "resultStructId": "641301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14rue des pres-saint-martin 91600 savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.346054360676516,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "40326105",
+    "mail": "contact@creche-savigny-sur-orge.fr",
+    "distance": 192902,
+    "latitude": 48.68038069619081,
+    "telephone": "0952315025",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetits Nakamas",
+    "resultStructId": "199219",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des coquelicots 91600 savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3422741920114523,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "31989120",
+    "mail": "juvisy@berceaudesrois.fr",
+    "distance": 194084,
+    "latitude": 48.68527717624171,
+    "telephone": "0952702333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeBerceau des Rois",
+    "resultStructId": "87001",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "33 rue blazy 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3760168579305434,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12854234",
+    "mail": "savigny@lpcr.fr",
+    "distance": 194208,
+    "latitude": 48.69376504105407,
+    "telephone": "0169840716",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LESPETITS CHAPERONS ROUGES",
+    "resultStructId": "8676",
+    "omegaId": "12192",
+    "avip": false,
+    "adresse": "24 avenue du garigliano 91600savigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.335308021033301,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "32000692",
+    "mail": "gazouillesetpatouilles@gmail.com",
+    "distance": 194211,
+    "latitude": 48.68592066887438,
+    "telephone": "0669427409",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Gazouilleset Patouilles",
+    "resultStructId": "87509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 rue pasteur 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3789460987324214,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930129",
+    "mail": "service.petite.enfance@mairie-juvisy.fr",
+    "distance": 194471,
+    "latitude": 48.68735245653847,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "10441",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41-45 rue monttessuy 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3842761277145677,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930258",
+    "mail": "service.petite.enfance@mairie-juvisy.fr",
+    "distance": 194472,
+    "latitude": 48.68735690122616,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilColombine",
+    "resultStructId": "10444",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41-45 rue rue monttessuy 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.384290442458781,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930301",
+    "mail": "service.petite.enfance@mairie-juvisy.fr",
+    "distance": 194472,
+    "latitude": 48.68735690122616,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilPierrot",
+    "resultStructId": "10445",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "41-45 rue montessuy 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.384290442458781,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930172",
+    "mail": "service.petite.enfance@mairie-juvisy.fr",
+    "distance": 194531,
+    "latitude": 48.68973876094314,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crèchePeter Pan",
+    "resultStructId": "10442",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue montenard 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.374455194902444,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930215",
+    "mail": "service.petite.enfance@mairie-juvisy.fr",
+    "distance": 194531,
+    "latitude": 48.68973876094314,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheFée Clochette",
+    "resultStructId": "10443",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis rue montenard 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.374455194902444,
+    "ville": "surorge",
+    "cp": ""
+  },
+  {
+    "resultId": "12930086",
+    "mail": "",
+    "distance": 194734,
+    "latitude": 48.69475848214632,
+    "telephone": "0169123249",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilJanusz Korczak",
+    "resultStructId": "10440",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 rue albert sarrault 91260 juvisy",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.357365044250029,
+    "ville": "surorge",
+    "cp": ""
+  }
+]

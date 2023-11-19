@@ -1,0 +1,244 @@
+[
+  {
+    "resultId": "38324519",
+    "mail": "neranei@micro-baby.com",
+    "distance": 165954,
+    "latitude": 49.42729680219589,
+    "telephone": "0950064415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NERANEI",
+    "resultStructId": "172004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78avenue jean jaures 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0646636763683779,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12845548",
+    "mail": "creche-haltegarderie@petit-quevilly.fr",
+    "distance": 166147,
+    "latitude": 49.428597095520736,
+    "telephone": "0235625070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brinde Malice",
+    "resultStructId": "513201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee paul gauguin 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.058896278767703,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "54867149",
+    "mail": "contact@lemon-baby.fr",
+    "distance": 166331,
+    "latitude": 49.430286404251405,
+    "telephone": "0235896067",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONBABY",
+    "resultStructId": "599601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place jacqueline auriol 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0526968303308744,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12845634",
+    "mail": "creche-haltegarderie@petit-quevilly.fr",
+    "distance": 166789,
+    "latitude": 49.42005678384221,
+    "telephone": "0235620111",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "513202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruemartial spinneweber 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0595008144332945,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12824427",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 167260,
+    "latitude": 49.416198215331605,
+    "telephone": "0235670960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYALLIANCE SEINEOUEST",
+    "resultStructId": "696939",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "110 boulevardstanislas girardin 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.0562295305736316,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12824427",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 126538,
+    "latitude": 49.416198215331605,
+    "telephone": "0235670960",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYALLIANCE SEINEOUEST",
+    "resultStructId": "696939",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "110 boulevardstanislas girardin 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.0562295305736316,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12845634",
+    "mail": "creche-haltegarderie@petit-quevilly.fr",
+    "distance": 126933,
+    "latitude": 49.42005678384221,
+    "telephone": "0235620111",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Ribambelle",
+    "resultStructId": "513202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "ruemartial spinneweber 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0595008144332945,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "54867149",
+    "mail": "contact@lemon-baby.fr",
+    "distance": 126971,
+    "latitude": 49.430286404251405,
+    "telephone": "0235896067",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEMONBABY",
+    "resultStructId": "599601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 place jacqueline auriol 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0526968303308744,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "12845548",
+    "mail": "creche-haltegarderie@petit-quevilly.fr",
+    "distance": 127296,
+    "latitude": 49.428597095520736,
+    "telephone": "0235625070",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Brinde Malice",
+    "resultStructId": "513201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee paul gauguin 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.058896278767703,
+    "ville": "petitquevilly",
+    "cp": ""
+  },
+  {
+    "resultId": "38324519",
+    "mail": "neranei@micro-baby.com",
+    "distance": 127612,
+    "latitude": 49.42729680219589,
+    "telephone": "0950064415",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "NERANEI",
+    "resultStructId": "172004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "78avenue jean jaures 76140 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.0646636763683779,
+    "ville": "petitquevilly",
+    "cp": ""
+  }
+]

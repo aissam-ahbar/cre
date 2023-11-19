@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "53475195",
+    "mail": "groslay1@creche-la-maison-bleue.fr",
+    "distance": 167504,
+    "latitude": 48.98664701604553,
+    "telephone": "0146545800",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Les Petites Pivoines\"",
+    "resultStructId": "532301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 place de la liberation",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.344081001963493,
+    "ville": "groslay",
+    "cp": "95410"
+  },
+  {
+    "resultId": "12764528",
+    "mail": "lejardindeslutins95@orange.fr",
+    "distance": 167679,
+    "latitude": 48.98372978730715,
+    "telephone": "0139599232",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLe Jardin des Lutins",
+    "resultStructId": "6590",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 allee de la pommeraie",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.356899680388346,
+    "ville": "groslay",
+    "cp": "95410"
+  },
+  {
+    "resultId": "12624503",
+    "mail": "creche@mairie-groslay.fr",
+    "distance": 167773,
+    "latitude": 48.98406390695373,
+    "telephone": "0139834035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue jules vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.345330419602274,
+    "ville": "groslay",
+    "cp": "95410"
+  },
+  {
+    "resultId": "12624546",
+    "mail": "creche@mairie-groslay.fr",
+    "distance": 167773,
+    "latitude": 48.98406390695373,
+    "telephone": "0139834035",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie",
+    "resultStructId": "3305",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1arue jules vincent",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.345330419602274,
+    "ville": "groslay",
+    "cp": "95410"
+  }
+]

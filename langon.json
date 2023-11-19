@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12489776",
+    "mail": "multiaccueil.langon@orange.fr",
+    "distance": 22404,
+    "latitude": 44.54858061588415,
+    "telephone": "0556622446",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de Langon LES PETITS FRIPONS",
+    "resultStructId": "171",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee garros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.2477943201249871,
+    "ville": "langon",
+    "cp": "33210"
+  },
+  {
+    "resultId": "12567915",
+    "mail": "cdc.paysdelangon.icostadoat@orange.fr",
+    "distance": 22490,
+    "latitude": 44.549293564119765,
+    "telephone": "0556635290",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale LES PETITOUS",
+    "resultStructId": "1988",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 allee garros",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.24971465122646525,
+    "ville": "langon",
+    "cp": "33210"
+  },
+  {
+    "resultId": "56960675",
+    "mail": "langon@lesdoudous.net",
+    "distance": 22496,
+    "latitude": 44.5490762836186,
+    "telephone": "0557361163",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesDoudous",
+    "resultStructId": "677904",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 bis avenue comberlin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -0.25659478919257656,
+    "ville": "langon",
+    "cp": "33210"
+  }
+]

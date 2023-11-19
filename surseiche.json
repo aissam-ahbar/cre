@@ -1,0 +1,362 @@
+[
+  {
+    "resultId": "12819740",
+    "mail": "contact@berlingot-vern.fr",
+    "distance": 66491,
+    "latitude": 48.04685686398803,
+    "telephone": "0299004970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieAssociative Berlingot - Vern sur Seiche",
+    "resultStructId": "199202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue laennec35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5956530997149887,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "34280892",
+    "mail": "contact@babilou.com",
+    "distance": 66621,
+    "latitude": 48.04455563913952,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise - Babilou Vern Prélong",
+    "resultStructId": "420502",
+    "omegaId": "12986",
+    "avip": false,
+    "adresse": "rue pre long -hall d1 35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6017147446409514,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "58736293",
+    "mail": "contact@ressourcea.fr",
+    "distance": 69086,
+    "latitude": 48.03327237664609,
+    "telephone": "0223502055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Crèches du Castel - Noyal Chatillon sur Seiche",
+    "resultStructId": "688226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26rue paul valery 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6638685602207623,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "12717864",
+    "mail": "info@creche-menthalo.fr",
+    "distance": 69320,
+    "latitude": 48.04303730564774,
+    "telephone": "0299655978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMenthalo - Association - Noyal Châtillon sur Seiche",
+    "resultStructId": "694704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45avenue de bretagne 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6547013314317731,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "60610987",
+    "mail": "noyalchatillonsurseiche@lesptitsbabadins.com",
+    "distance": 69385,
+    "latitude": 48.03625759558734,
+    "telephone": "0749729718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion NoyalChâtillon/Seiche",
+    "resultStructId": "713217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de saint erblon 35230 noyalchatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6652474239199788,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "12819740",
+    "mail": "contact@berlingot-vern.fr",
+    "distance": 126289,
+    "latitude": 48.04685686398803,
+    "telephone": "0299004970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieAssociative Berlingot - Vern sur Seiche",
+    "resultStructId": "199202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue laennec35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5956530997149887,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "34280892",
+    "mail": "contact@babilou.com",
+    "distance": 126770,
+    "latitude": 48.04455563913952,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise - Babilou Vern Prélong",
+    "resultStructId": "420502",
+    "omegaId": "12986",
+    "avip": false,
+    "adresse": "rue pre long -hall d1 35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6017147446409514,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "12717864",
+    "mail": "info@creche-menthalo.fr",
+    "distance": 129397,
+    "latitude": 48.04303730564774,
+    "telephone": "0299655978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMenthalo - Association - Noyal Châtillon sur Seiche",
+    "resultStructId": "694704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45avenue de bretagne 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6547013314317731,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "60610987",
+    "mail": "noyalchatillonsurseiche@lesptitsbabadins.com",
+    "distance": 130478,
+    "latitude": 48.03625759558734,
+    "telephone": "0749729718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion NoyalChâtillon/Seiche",
+    "resultStructId": "713217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de saint erblon 35230 noyalchatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6652474239199788,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "58736293",
+    "mail": "contact@ressourcea.fr",
+    "distance": 130667,
+    "latitude": 48.03327237664609,
+    "telephone": "0223502055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Crèches du Castel - Noyal Chatillon sur Seiche",
+    "resultStructId": "688226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26rue paul valery 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6638685602207623,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "12819740",
+    "mail": "contact@berlingot-vern.fr",
+    "distance": 66491,
+    "latitude": 48.04685686398803,
+    "telephone": "0299004970",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderieAssociative Berlingot - Vern sur Seiche",
+    "resultStructId": "199202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "18 rue laennec35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.5956530997149887,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "34280892",
+    "mail": "contact@babilou.com",
+    "distance": 66621,
+    "latitude": 48.04455563913952,
+    "telephone": "0809103000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèched'entreprise - Babilou Vern Prélong",
+    "resultStructId": "420502",
+    "omegaId": "12986",
+    "avip": false,
+    "adresse": "rue pre long -hall d1 35770 vern",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6017147446409514,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "58736293",
+    "mail": "contact@ressourcea.fr",
+    "distance": 69086,
+    "latitude": 48.03327237664609,
+    "telephone": "0223502055",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Crèches du Castel - Noyal Chatillon sur Seiche",
+    "resultStructId": "688226",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "26rue paul valery 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6638685602207623,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "12717864",
+    "mail": "info@creche-menthalo.fr",
+    "distance": 69320,
+    "latitude": 48.04303730564774,
+    "telephone": "0299655978",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMenthalo - Association - Noyal Châtillon sur Seiche",
+    "resultStructId": "694704",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "45avenue de bretagne 35230 noyal chatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6547013314317731,
+    "ville": "surseiche",
+    "cp": ""
+  },
+  {
+    "resultId": "60610987",
+    "mail": "noyalchatillonsurseiche@lesptitsbabadins.com",
+    "distance": 69385,
+    "latitude": 48.03625759558734,
+    "telephone": "0749729718",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes P'tits Babadins - Crèches Expansion NoyalChâtillon/Seiche",
+    "resultStructId": "713217",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue de saint erblon 35230 noyalchatillon",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.6652474239199788,
+    "ville": "surseiche",
+    "cp": ""
+  }
+]

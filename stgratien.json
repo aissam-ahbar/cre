@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12626868",
+    "mail": "",
+    "distance": 169874,
+    "latitude": 48.97111553658677,
+    "telephone": "0139897406",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Les Souris Vertes",
+    "resultStructId": "3359",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 avenue catinat 95210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2898294190588078,
+    "ville": "stgratien",
+    "cp": ""
+  },
+  {
+    "resultId": "12626954",
+    "mail": "haltegarderie@mairie-saintgratien.fr",
+    "distance": 170007,
+    "latitude": 48.97068677667097,
+    "telephone": "0134282964",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Haltegarderie des Raguenets",
+    "resultStructId": "3361",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "square georgette agutte - centrecamille claudel 95210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.283289793866112,
+    "ville": "stgratien",
+    "cp": ""
+  },
+  {
+    "resultId": "12626911",
+    "mail": "creche.familiale@mairie-saintgratien.fr",
+    "distance": 170630,
+    "latitude": 48.964908094631035,
+    "telephone": "0139340638",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Le Petit Prince",
+    "resultStructId": "3360",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7/9 boulevard de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.2839322723240807,
+    "ville": "stgratien",
+    "cp": "95210"
+  },
+  {
+    "resultId": "12645401",
+    "mail": "miniclub@mairie-saintgratien.fr",
+    "distance": 170840,
+    "latitude": 48.963320577355034,
+    "telephone": "0134121462",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective \"Les Petits Soleils\"",
+    "resultStructId": "3790",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 ter rue pierre curie95210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.281237653499794,
+    "ville": "stgratien",
+    "cp": ""
+  },
+  {
+    "resultId": "12645358",
+    "mail": "k.bris@mairie-saintgratien.fr",
+    "distance": 171032,
+    "latitude": 48.961808375187374,
+    "telephone": "0139899928",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchecollective Sylvette Giraudon",
+    "resultStructId": "3789",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "46 rue d'argenteuil 95210",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.279196724784635,
+    "ville": "stgratien",
+    "cp": ""
+  }
+]

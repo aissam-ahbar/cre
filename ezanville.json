@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12623858",
+    "mail": "creche.ezanville@orange.fr",
+    "distance": 162298,
+    "latitude": 49.03269441197734,
+    "telephone": "0139918284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "multi-accueil",
+    "resultStructId": "512501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6bis rue grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3571143184397756,
+    "ville": "ezanville",
+    "cp": "95460"
+  },
+  {
+    "resultId": "12623815",
+    "mail": "creche.ezanville@orange.fr",
+    "distance": 162721,
+    "latitude": 49.02824885645765,
+    "telephone": "0139918284",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale",
+    "resultStructId": "3288",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 bis rue de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3628104647332164,
+    "ville": "ezanville",
+    "cp": "95460"
+  }
+]

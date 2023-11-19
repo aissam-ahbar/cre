@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "50273755",
+    "mail": "les-fabulettes@seyssinet-pariset.fr",
+    "distance": 434115,
+    "latitude": 45.17473026409917,
+    "telephone": "0476701497",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Anne Sylvestre \"Les Fabulettes\"",
+    "resultStructId": "691012",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue georgesmaeder 38170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692470798948369,
+    "ville": "seyssinetpariset",
+    "cp": ""
+  },
+  {
+    "resultId": "13041421",
+    "mail": "ile-aux-enfants@seyssinet-pariset.fr",
+    "distance": 434188,
+    "latitude": 45.17855293733503,
+    "telephone": "0476961287",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ile aux Enfants",
+    "resultStructId": "691013",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "83 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.69740164797873,
+    "ville": "seyssinetpariset",
+    "cp": "38170"
+  },
+  {
+    "resultId": "13041292",
+    "mail": "creche-familiale@seyssinet-pariset.fr",
+    "distance": 434188,
+    "latitude": 45.17855293733503,
+    "telephone": "0438123861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Mille et une Pattes",
+    "resultStructId": "517901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de l'industrie38170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.69740164797873,
+    "ville": "seyssinetpariset",
+    "cp": ""
+  },
+  {
+    "resultId": "50273755",
+    "mail": "les-fabulettes@seyssinet-pariset.fr",
+    "distance": 138564,
+    "latitude": 45.17473026409917,
+    "telephone": "0476701497",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Anne Sylvestre \"Les Fabulettes\"",
+    "resultStructId": "691012",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "17 rue georgesmaeder 38170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.692470798948369,
+    "ville": "seyssinetpariset",
+    "cp": ""
+  },
+  {
+    "resultId": "13041292",
+    "mail": "creche-familiale@seyssinet-pariset.fr",
+    "distance": 138898,
+    "latitude": 45.17855293733503,
+    "telephone": "0438123861",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchefamiliale Mille et une Pattes",
+    "resultStructId": "517901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "84 rue de l'industrie38170",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.69740164797873,
+    "ville": "seyssinetpariset",
+    "cp": ""
+  },
+  {
+    "resultId": "13041421",
+    "mail": "ile-aux-enfants@seyssinet-pariset.fr",
+    "distance": 138898,
+    "latitude": 45.17855293733503,
+    "telephone": "0476961287",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "Multiaccueil Ile aux Enfants",
+    "resultStructId": "691013",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "83 avenue de la republique",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.69740164797873,
+    "ville": "seyssinetpariset",
+    "cp": "38170"
+  }
+]

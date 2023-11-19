@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "60216151",
+    "mail": "lespthiboux69390@gmail.com",
+    "distance": 185381,
+    "latitude": 45.63398647326821,
+    "telephone": "0624419447",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheLes Pt'Hiboux",
+    "resultStructId": "706602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 ninon vallin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.774950373722289,
+    "ville": "millery",
+    "cp": "69390"
+  },
+  {
+    "resultId": "12890827",
+    "mail": "lesmarmousets69@free.fr",
+    "distance": 185787,
+    "latitude": 45.63204868833018,
+    "telephone": "0478464269",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Marmousets",
+    "resultStructId": "97004",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "20 rue du clos binet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7849149045384225,
+    "ville": "millery",
+    "cp": "69390"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13019526",
+    "mail": "crechelacarousette@cdcmc.fr",
+    "distance": 134088,
+    "latitude": 43.56692765766552,
+    "telephone": "0467976125",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilCollectif La Carousette",
+    "resultStructId": "210803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "173 avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.961615764405881,
+    "ville": "mons",
+    "cp": "34390"
+  },
+  {
+    "resultId": "13019526",
+    "mail": "crechelacarousette@cdcmc.fr",
+    "distance": 75411,
+    "latitude": 43.56692765766552,
+    "telephone": "0467976125",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-AccueilCollectif La Carousette",
+    "resultStructId": "210803",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "173 avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.961615764405881,
+    "ville": "mons",
+    "cp": "34390"
+  }
+]

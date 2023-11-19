@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "60259258",
+    "mail": "conctat@lespetitesbulles.fr",
+    "distance": 20540,
+    "latitude": 50.4787354319713,
+    "telephone": "0664553482",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPetites bulles",
+    "resultStructId": "707637",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue jean baptiste delobel",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.009274038316965,
+    "ville": "libercourt",
+    "cp": "62820"
+  },
+  {
+    "resultId": "12998499",
+    "mail": "responsableenfance@libercourt.com",
+    "distance": 20959,
+    "latitude": 50.481829387915795,
+    "telephone": "0321456195",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "L'IlotCâlin",
+    "resultStructId": "215310",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue galilee",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.015025669720051,
+    "ville": "libercourt",
+    "cp": "62820"
+  },
+  {
+    "resultId": "12680325",
+    "mail": "servicepetiteenfance@libercourt.com",
+    "distance": 20980,
+    "latitude": 50.48346208853416,
+    "telephone": "0321081050",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-garderie\"Etienne Pruvost\"",
+    "resultStructId": "4602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue cyprien quinet",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0151977609537153,
+    "ville": "libercourt",
+    "cp": "62820"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12515799",
+    "mail": "",
+    "distance": 90027,
+    "latitude": 50.26817759705999,
+    "telephone": "0327653570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SourisVerte Sous le Bois",
+    "resultStructId": "776",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "258 rue d'haumont",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9470617625833406,
+    "ville": "maubeuge",
+    "cp": "59600"
+  },
+  {
+    "resultId": "12515670",
+    "mail": "creche.pirouette@ville-maubeuge.fr",
+    "distance": 90525,
+    "latitude": 50.2893108662527,
+    "telephone": "0327648977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Pirouettes",
+    "resultStructId": "773",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevardcorneille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9627622005376435,
+    "ville": "maubeuge",
+    "cp": "59600"
+  },
+  {
+    "resultId": "12515756",
+    "mail": "sourisverte@ville-maubeuge.fr",
+    "distance": 90525,
+    "latitude": 50.2893108662527,
+    "telephone": "0327653570",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "SourisVerte",
+    "resultStructId": "775",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard corneille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9627622005376435,
+    "ville": "maubeuge",
+    "cp": "59600"
+  },
+  {
+    "resultId": "23119620",
+    "mail": "compt-aps@orange.fr",
+    "distance": 91061,
+    "latitude": 50.280278561328544,
+    "telephone": "0327654333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lahalte garderie p'tits loups",
+    "resultStructId": "20603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "48 boulevard de l'europe -immeuble europe",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9670409088479244,
+    "ville": "maubeuge",
+    "cp": "59600"
+  },
+  {
+    "resultId": "12515885",
+    "mail": "promotionsante@wanadoo.fr",
+    "distance": 91516,
+    "latitude": 50.273162668443426,
+    "telephone": "0327654333",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesP'tits Loups",
+    "resultStructId": "778",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "23 avenue de la gare",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.9708049898029363,
+    "ville": "maubeuge",
+    "cp": "59600"
+  },
+  {
+    "resultId": "12514939",
+    "mail": "",
+    "distance": 91843,
+    "latitude": 50.27323414439741,
+    "telephone": "0327648054",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Frimouses",
+    "resultStructId": "756",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenuedes provinces francaises",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.975585019422605,
+    "ville": "maubeuge",
+    "cp": "59600"
+  }
+]

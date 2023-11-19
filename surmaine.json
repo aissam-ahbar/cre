@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "59886196",
+    "mail": "contact@laissezmoiletemps.fr",
+    "distance": 67379,
+    "latitude": 47.08304399744668,
+    "telephone": "0636186380",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAISSEZMOI LE TEMPS",
+    "resultStructId": "700905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des meuniers 44140 aigrefeuille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4088722741036823,
+    "ville": "surmaine",
+    "cp": ""
+  },
+  {
+    "resultId": "43122965",
+    "mail": "lesptitsloups@filomaine.fr",
+    "distance": 67770,
+    "latitude": 47.074819716977245,
+    "telephone": "0228020564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les P'tits Loups",
+    "resultStructId": "234109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue de la vendee 44140aigrefeuille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3971478804493254,
+    "ville": "surmaine",
+    "cp": ""
+  },
+  {
+    "resultId": "59886196",
+    "mail": "contact@laissezmoiletemps.fr",
+    "distance": 67379,
+    "latitude": 47.08304399744668,
+    "telephone": "0636186380",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LAISSEZMOI LE TEMPS",
+    "resultStructId": "700905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 rue des meuniers 44140 aigrefeuille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.4088722741036823,
+    "ville": "surmaine",
+    "cp": ""
+  },
+  {
+    "resultId": "43122965",
+    "mail": "lesptitsloups@filomaine.fr",
+    "distance": 67770,
+    "latitude": 47.074819716977245,
+    "telephone": "0228020564",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les P'tits Loups",
+    "resultStructId": "234109",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "36 avenue de la vendee 44140aigrefeuille",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.3971478804493254,
+    "ville": "surmaine",
+    "cp": ""
+  }
+]

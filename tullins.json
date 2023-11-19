@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12892934",
+    "mail": "floreal@ville-tullins.fr",
+    "distance": 454851,
+    "latitude": 45.29654830103867,
+    "telephone": "0476063868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Floréal",
+    "resultStructId": "129503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.487487412124358,
+    "ville": "tullins",
+    "cp": "38210"
+  },
+  {
+    "resultId": "12887473",
+    "mail": "mpe@ville-tullins.fr",
+    "distance": 455459,
+    "latitude": 45.30196817061175,
+    "telephone": "0476078687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance Tullins",
+    "resultStructId": "129502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le clos des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4845043909973406,
+    "ville": "tullins",
+    "cp": "38210"
+  },
+  {
+    "resultId": "12892934",
+    "mail": "floreal@ville-tullins.fr",
+    "distance": 155766,
+    "latitude": 45.29654830103867,
+    "telephone": "0476063868",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Floréal",
+    "resultStructId": "129503",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.487487412124358,
+    "ville": "tullins",
+    "cp": "38210"
+  },
+  {
+    "resultId": "12887473",
+    "mail": "mpe@ville-tullins.fr",
+    "distance": 156411,
+    "latitude": 45.30196817061175,
+    "telephone": "0476078687",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Maisonde la Petite Enfance Tullins",
+    "resultStructId": "129502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "le clos des",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.4845043909973406,
+    "ville": "tullins",
+    "cp": "38210"
+  }
+]

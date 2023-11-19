@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12821761",
+    "mail": "lejardinamalices87@couzeix.fr",
+    "distance": 129739,
+    "latitude": 45.876910093909615,
+    "telephone": "0555396315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin à Malices",
+    "resultStructId": "7921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2393503665177459,
+    "ville": "couzeix",
+    "cp": "87270"
+  },
+  {
+    "resultId": "12907081",
+    "mail": "manegeenchante.couzeix@orange.fr",
+    "distance": 130012,
+    "latitude": 45.874922619491564,
+    "telephone": "0555396558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Manège Enchanté",
+    "resultStructId": "9905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2363845383310383,
+    "ville": "couzeix",
+    "cp": "87270"
+  },
+  {
+    "resultId": "12907081",
+    "mail": "manegeenchante.couzeix@orange.fr",
+    "distance": 205488,
+    "latitude": 45.874922619491564,
+    "telephone": "0555396558",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Manège Enchanté",
+    "resultStructId": "9905",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 rue francoise dolto",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2363845383310383,
+    "ville": "couzeix",
+    "cp": "87270"
+  },
+  {
+    "resultId": "12821761",
+    "mail": "lejardinamalices87@couzeix.fr",
+    "distance": 205800,
+    "latitude": 45.876910093909615,
+    "telephone": "0555396315",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLe Jardin à Malices",
+    "resultStructId": "7921",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 place du 8 mai 1945",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.2393503665177459,
+    "ville": "couzeix",
+    "cp": "87270"
+  }
+]

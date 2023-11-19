@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "36051420",
+    "mail": "crechebbdeole44@orange.fr",
+    "distance": 111999,
+    "latitude": 47.32728528781827,
+    "telephone": "0240622706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE\"LES BEBES D\"EOLE\"",
+    "resultStructId": "143801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue des salamandres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.408039134063656,
+    "ville": "guerande",
+    "cp": "44350"
+  },
+  {
+    "resultId": "12897750",
+    "mail": "multi-accueil@ville-guerande.fr",
+    "distance": 113472,
+    "latitude": 47.334166005228575,
+    "telephone": "0240620444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCastellous",
+    "resultStructId": "9688",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee des magnolias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.4315199790060276,
+    "ville": "guerande",
+    "cp": "44350"
+  },
+  {
+    "resultId": "36051420",
+    "mail": "crechebbdeole44@orange.fr",
+    "distance": 111999,
+    "latitude": 47.32728528781827,
+    "telephone": "0240622706",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CRECHE\"LES BEBES D\"EOLE\"",
+    "resultStructId": "143801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "28 rue des salamandres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.408039134063656,
+    "ville": "guerande",
+    "cp": "44350"
+  },
+  {
+    "resultId": "12897750",
+    "mail": "multi-accueil@ville-guerande.fr",
+    "distance": 113472,
+    "latitude": 47.334166005228575,
+    "telephone": "0240620444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesCastellous",
+    "resultStructId": "9688",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 allee des magnolias",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -2.4315199790060276,
+    "ville": "guerande",
+    "cp": "44350"
+  }
+]

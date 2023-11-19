@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57329489",
+    "mail": "",
+    "distance": 15110,
+    "latitude": -12.780693755236536,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TEST",
+    "resultStructId": "674601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "test",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.232410607620274,
+    "ville": "mamoudzou",
+    "cp": "97600"
+  },
+  {
+    "resultId": "57329489",
+    "mail": "",
+    "distance": 1419438,
+    "latitude": -12.780693755236536,
+    "telephone": "0123456789",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "TEST",
+    "resultStructId": "674601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "test",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 45.232410607620274,
+    "ville": "mamoudzou",
+    "cp": "97600"
+  }
+]

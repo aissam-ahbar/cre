@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "13024436",
+    "mail": "geraldine.leduc@gmail.com",
+    "distance": 16390,
+    "latitude": 50.562792331902834,
+    "telephone": "0651661021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Beforeschool",
+    "resultStructId": "12634",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "11 rue de l'egalite 59184 sainghin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.903476725810727,
+    "ville": "enweppes",
+    "cp": ""
+  },
+  {
+    "resultId": "13024479",
+    "mail": "geraldine.leduc@gmail.com",
+    "distance": 16433,
+    "latitude": 50.555021823578784,
+    "telephone": "0651661021",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Beforeschool",
+    "resultStructId": "12635",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "90 rue jean jaures 59184 sainghin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9128928102211042,
+    "ville": "enweppes",
+    "cp": ""
+  },
+  {
+    "resultId": "12710511",
+    "mail": "contact@minidoux.fr",
+    "distance": 23697,
+    "latitude": 50.634980486637936,
+    "telephone": "0000000000",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeJardin du Bourg",
+    "resultStructId": "5304",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "83 bis rue du bourg 59320 ennetieres",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9378868551613024,
+    "ville": "enweppes",
+    "cp": ""
+  }
+]

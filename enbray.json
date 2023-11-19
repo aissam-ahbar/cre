@@ -1,0 +1,100 @@
+[
+  {
+    "resultId": "12825717",
+    "mail": "cbouolay@cc-paysdebray.fr",
+    "distance": 129590,
+    "latitude": 49.434755437579355,
+    "telephone": "0344790848",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES P'TITS POTIERS\" DE LA COMMUNAUTE DE COMMUNES DU PAYSDE",
+    "resultStructId": "687502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin des sables 60650 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8974833045302906,
+    "ville": "enbray",
+    "cp": ""
+  },
+  {
+    "resultId": "12824599",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 131811,
+    "latitude": 49.47705585840715,
+    "telephone": "0235900639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYPAYS DE BRAY",
+    "resultStructId": "696942",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1a ruede hailsham 76220 gournay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.720443939434301,
+    "ville": "enbray",
+    "cp": ""
+  },
+  {
+    "resultId": "12824599",
+    "mail": "accueil@crechesliberty.com",
+    "distance": 173591,
+    "latitude": 49.47705585840715,
+    "telephone": "0235900639",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LIBERTYPAYS DE BRAY",
+    "resultStructId": "696942",
+    "omegaId": "0",
+    "avip": false,
+    "dateProchaineDispo": "2023-11-22",
+    "adresse": "1a ruede hailsham 76220 gournay",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": true,
+    "longitude": 1.720443939434301,
+    "ville": "enbray",
+    "cp": ""
+  },
+  {
+    "resultId": "12825717",
+    "mail": "cbouolay@cc-paysdebray.fr",
+    "distance": 184273,
+    "latitude": 49.434755437579355,
+    "telephone": "0344790848",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL \"LES P'TITS POTIERS\" DE LA COMMUNAUTE DE COMMUNES DU PAYSDE",
+    "resultStructId": "687502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 chemin des sables 60650 st aubin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.8974833045302906,
+    "ville": "enbray",
+    "cp": ""
+  }
+]

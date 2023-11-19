@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12963755",
+    "mail": "ccpu.multi-accueil@orange.fr",
+    "distance": 175694,
+    "latitude": 45.424839806128745,
+    "telephone": "0555981255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil du Jeune Enfant : Multi-accueil \" l'île auxrêves\"",
+    "resultStructId": "123306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les buges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5738375963637385,
+    "ville": "uzerche",
+    "cp": "19140"
+  },
+  {
+    "resultId": "12963755",
+    "mail": "ccpu.multi-accueil@orange.fr",
+    "distance": 186312,
+    "latitude": 45.424839806128745,
+    "telephone": "0555981255",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Etablissementd'Accueil du Jeune Enfant : Multi-accueil \" l'île auxrêves\"",
+    "resultStructId": "123306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "les buges",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.5738375963637385,
+    "ville": "uzerche",
+    "cp": "19140"
+  }
+]

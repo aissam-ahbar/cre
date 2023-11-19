@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12891343",
+    "mail": "",
+    "distance": 155230,
+    "latitude": 45.88698032036171,
+    "telephone": "0472542682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLe Petit Chessillon \"côté cour\" et \"côté jardin\"",
+    "resultStructId": "40201",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10rue des terrets",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.6226462010900375,
+    "ville": "chessy",
+    "cp": "69380"
+  },
+  {
+    "resultId": "27568254",
+    "mail": "",
+    "distance": 155422,
+    "latitude": 45.88479862062867,
+    "telephone": "0472542682",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LEPETIT CHESSILLON jardin passerelle de Chessy",
+    "resultStructId": "40301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "avenue dustade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.620122053221275,
+    "ville": "chessy",
+    "cp": "69380"
+  },
+  {
+    "resultId": "12759970",
+    "mail": "petitspas@chessy77.fr",
+    "distance": 130363,
+    "latitude": 48.85760801387536,
+    "telephone": "0160422816",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Petits Pas",
+    "resultStructId": "6484",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "3 rue du bois de paris",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7749403466173197,
+    "ville": "chessy",
+    "cp": "77700"
+  },
+  {
+    "resultId": "38969059",
+    "mail": "",
+    "distance": 131070,
+    "latitude": 48.86096862751525,
+    "telephone": "0158834835",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheLes Petites Canailles Chessy",
+    "resultStructId": "181508",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "boulevard du grand",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7657213622142494,
+    "ville": "chessy",
+    "cp": "77700"
+  },
+  {
+    "resultId": "12759282",
+    "mail": "troisours@chessy77.fr",
+    "distance": 131442,
+    "latitude": 48.880055989901,
+    "telephone": "0160434880",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueil\"Les 3 Ours\"",
+    "resultStructId": "14978",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue gedalge",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.763715321286457,
+    "ville": "chessy",
+    "cp": "77700"
+  }
+]

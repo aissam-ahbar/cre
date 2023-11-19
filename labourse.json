@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "12997983",
+    "mail": "multi-accueil@ville-labourse.fr",
+    "distance": 3511,
+    "latitude": 50.49568235914616,
+    "telephone": "0321521174",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil \"L'Ile aux Enfants\"",
+    "resultStructId": "676006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1a rue charles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6839131170284976,
+    "ville": "labourse",
+    "cp": "62113"
+  }
+]

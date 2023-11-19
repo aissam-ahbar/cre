@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12948748",
+    "mail": "maisondesenfants.fourchambault@orange.fr",
+    "distance": 84912,
+    "latitude": 47.01780860033098,
+    "telephone": "0386608358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BARBOTINE",
+    "resultStructId": "119602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue leopold lucas, maison desenfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0818328656153113,
+    "ville": "fourchambault",
+    "cp": "58600"
+  },
+  {
+    "resultId": "12948748",
+    "mail": "maisondesenfants.fourchambault@orange.fr",
+    "distance": 106153,
+    "latitude": 47.01780860033098,
+    "telephone": "0386608358",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL BARBOTINE",
+    "resultStructId": "119602",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "35 rue leopold lucas, maison desenfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 3.0818328656153113,
+    "ville": "fourchambault",
+    "cp": "58600"
+  }
+]

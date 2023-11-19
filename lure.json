@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12611732",
+    "mail": "sylvie-demougin@pays-de-lure.fr",
+    "distance": 182868,
+    "latitude": 47.683184218714025,
+    "telephone": "0384302326",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Croque Soleil",
+    "resultStructId": "628902",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "1 bis rue henry marsot",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.498268446909504,
+    "ville": "lure",
+    "cp": "70200"
+  },
+  {
+    "resultId": "24384540",
+    "mail": "paule-rothe@pays-de-lure.fr",
+    "distance": 183531,
+    "latitude": 47.67192949731682,
+    "telephone": "0384830330",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "MultiAccueil Roland Genevois",
+    "resultStructId": "628901",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "avenue du marechal juin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 6.511679836598259,
+    "ville": "lure",
+    "cp": "70200"
+  }
+]

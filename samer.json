@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12854750",
+    "mail": "christelle.beyaert@cc-desvressamer.fr",
+    "distance": 71232,
+    "latitude": 50.63976586974459,
+    "telephone": "0321914444",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LaMaison de Jackie",
+    "resultStructId": "676339",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "10 allee jean bardol",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7453657456173044,
+    "ville": "samer",
+    "cp": "62830"
+  },
+  {
+    "resultId": "12854707",
+    "mail": "lecoindesfaons@cc-desvressamer.fr",
+    "distance": 71288,
+    "latitude": 50.64031742260732,
+    "telephone": "0321327938",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeCoin des Faons",
+    "resultStructId": "215202",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "30 rue jean moulin",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7447704964710105,
+    "ville": "samer",
+    "cp": "62830"
+  }
+]

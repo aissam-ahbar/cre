@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "13059911",
+    "mail": "creche.jam@terres-du-lauragais.fr",
+    "distance": 184349,
+    "latitude": 43.52505469562729,
+    "telephone": "0582958140",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeJardin aux Malices",
+    "resultStructId": "673612",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 bis rue des sports",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7621164175134871,
+    "ville": "caraman",
+    "cp": "31460"
+  },
+  {
+    "resultId": "13059911",
+    "mail": "creche.jam@terres-du-lauragais.fr",
+    "distance": 172195,
+    "latitude": 43.52505469562729,
+    "telephone": "0582958140",
+    "statusCompte": 2,
+    "type": "EAJEAVIP",
+    "nom": "LeJardin aux Malices",
+    "resultStructId": "673612",
+    "omegaId": "0",
+    "avip": true,
+    "adresse": "14 bis rue des sports",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.7621164175134871,
+    "ville": "caraman",
+    "cp": "31460"
+  }
+]

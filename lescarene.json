@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12811699",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 236098,
+    "latitude": 43.84141649117848,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa petite loco",
+    "resultStructId": "579301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "plateau de la gare 06440",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.351187002527983,
+    "ville": "lescarene",
+    "cp": ""
+  },
+  {
+    "resultId": "12811699",
+    "mail": "guichetunique@ccpp06.fr",
+    "distance": 104064,
+    "latitude": 43.84141649117848,
+    "telephone": "0492007595",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MALa petite loco",
+    "resultStructId": "579301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "plateau de la gare 06440",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 7.351187002527983,
+    "ville": "lescarene",
+    "cp": ""
+  }
+]

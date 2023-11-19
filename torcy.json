@@ -1,0 +1,194 @@
+[
+  {
+    "resultId": "12599692",
+    "mail": "petiteenfance@torcy71.fr",
+    "distance": 55325,
+    "latitude": 46.78535962832185,
+    "telephone": "0385739480",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilMaison de la Petite Enfance Torcy",
+    "resultStructId": "706913",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "190 avenue deconselve",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.4320337741863485,
+    "ville": "torcy",
+    "cp": "71210"
+  },
+  {
+    "resultId": "12760486",
+    "mail": "crechecolmpe@mairie-torcy.org",
+    "distance": 139184,
+    "latitude": 48.84038884443122,
+    "telephone": "0160064209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCourte Echelle",
+    "resultStructId": "475801",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue pierre mendes france",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6517002099364073,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "52151843",
+    "mail": "crechecolmpe@mairie-torcy.org",
+    "distance": 139184,
+    "latitude": 48.84038884443122,
+    "telephone": "0160064209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrèchePetit d'Om et Pirouette",
+    "resultStructId": "476601",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue pierre",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6517002099364073,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "12760701",
+    "mail": "crechefampe@mairie-torcy.org",
+    "distance": 139184,
+    "latitude": 48.84038884443122,
+    "telephone": "0160064209",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèchesmulti-accueil collectif et familial",
+    "resultStructId": "476103",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue pierre mendesfrance",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.6517002099364073,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "12786114",
+    "mail": "microcrechelesptitesbouilles@yahoo.fr",
+    "distance": 139264,
+    "latitude": 48.85250708633417,
+    "telephone": "0160172160",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-CrècheLes P'tites Bouilles",
+    "resultStructId": "7092",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 grande rue",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.652077573470102,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "12760529",
+    "mail": "crechecollectivecve@mairie-torcy.fr",
+    "distance": 140350,
+    "latitude": 48.851621026054616,
+    "telephone": "0160052652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheConfettis et Brin de Malice",
+    "resultStructId": "475401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des enfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.637066903094953,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "12760658",
+    "mail": "cve.1000pattes@mairie-torcy.org",
+    "distance": 140350,
+    "latitude": 48.851621026054616,
+    "telephone": "0160052652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Crèche1001 pattes",
+    "resultStructId": "476301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des enfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.637066903094953,
+    "ville": "torcy",
+    "cp": "77200"
+  },
+  {
+    "resultId": "12760615",
+    "mail": "cjegou@mairie-torcy.org",
+    "distance": 140350,
+    "latitude": 48.851621026054616,
+    "telephone": "0160052652",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilCollectif et familial CVE",
+    "resultStructId": "476501",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 allee des enfants",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.637066903094953,
+    "ville": "torcy",
+    "cp": "77200"
+  }
+]

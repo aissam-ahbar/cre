@@ -1,0 +1,122 @@
+[
+  {
+    "resultId": "12663813",
+    "mail": "service.petiteenfance@ville-blanc-mesnil.fr",
+    "distance": 152868,
+    "latitude": 48.92547801536219,
+    "telephone": "0145917017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Robert Fregossy",
+    "resultStructId": "4218",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 rue maurice thorez 93150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.476839310322751,
+    "ville": "leblancmesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "34230475",
+    "mail": "grainesdegenie@crechesdefrance.com",
+    "distance": 153467,
+    "latitude": 48.94400586870897,
+    "telephone": "0185782681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraines de Genie",
+    "resultStructId": "117306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue albert einstein 93150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.472380917438771,
+    "ville": "leblancmesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "12663899",
+    "mail": "petiteenfance@blancmesnil.fr",
+    "distance": 154965,
+    "latitude": 48.94937417762134,
+    "telephone": "0145917017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Tilleuls",
+    "resultStructId": "170207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 square maurice audin 93150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.452841302622045,
+    "ville": "leblancmesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "12663899",
+    "mail": "petiteenfance@blancmesnil.fr",
+    "distance": 170544,
+    "latitude": 48.94937417762134,
+    "telephone": "0145917017",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil Les Tilleuls",
+    "resultStructId": "170207",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 square maurice audin 93150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.452841302622045,
+    "ville": "leblancmesnil",
+    "cp": ""
+  },
+  {
+    "resultId": "34230475",
+    "mail": "grainesdegenie@crechesdefrance.com",
+    "distance": 170985,
+    "latitude": 48.94400586870897,
+    "telephone": "0185782681",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilGraines de Genie",
+    "resultStructId": "117306",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "22 avenue albert einstein 93150",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.472380917438771,
+    "ville": "leblancmesnil",
+    "cp": ""
+  }
+]

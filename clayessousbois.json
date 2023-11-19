@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "37008520",
+    "mail": "catherine.dumilieu@bulapi.fr",
+    "distance": 182632,
+    "latitude": 48.82726741422907,
+    "telephone": "0177046987",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MICROCRECHE - OKLAVI",
+    "resultStructId": "681810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 bis rue des dames 78340 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9754120959289818,
+    "ville": "clayessousbois",
+    "cp": ""
+  },
+  {
+    "resultId": "12647164",
+    "mail": "pandolfi.aude@lesclayessousbois.fr",
+    "distance": 183088,
+    "latitude": 48.82465361281333,
+    "telephone": "0130793990",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MULTIACCUEIL - WINNICOTT",
+    "resultStructId": "683833",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "6 rue jean jaures 78340 les",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.981348712378906,
+    "ville": "clayessousbois",
+    "cp": ""
+  }
+]

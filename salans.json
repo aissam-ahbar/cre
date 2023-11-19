@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": "42085081",
+    "mail": "microcrechesalans@jura-nord.com",
+    "distance": 123986,
+    "latitude": 47.166654558843106,
+    "telephone": "0384813755",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "micro-crèchesalans",
+    "resultStructId": "580301",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de l'eglise",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 5.790630045788443,
+    "ville": "salans",
+    "cp": "39700"
+  }
+]

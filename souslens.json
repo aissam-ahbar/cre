@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "57377326",
+    "mail": "montipideveil@gmail.com",
+    "distance": 9891,
+    "latitude": 50.440441722783916,
+    "telephone": "0962538501",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Montipi d'éveil",
+    "resultStructId": "679728",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 bis route de lille 62218 loison",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.848889187908505,
+    "ville": "souslens",
+    "cp": ""
+  },
+  {
+    "resultId": "13020566",
+    "mail": "imerlier@noyelles.net",
+    "distance": 12163,
+    "latitude": 50.426921122748865,
+    "telephone": "0321433568",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MultiAccueil \"Françoise Dolto\"",
+    "resultStructId": "672321",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "210 rue victor hugo 62221noyelles",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8746264960588648,
+    "ville": "souslens",
+    "cp": ""
+  }
+]

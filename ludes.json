@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12969818",
+    "mail": "mmmhure@wanadoo.fr",
+    "distance": 57972,
+    "latitude": 49.154042314644315,
+    "telephone": "0326611367",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Petits Bouchons Ludes",
+    "resultStructId": "11364",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "1 impasse du",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.079791867438861,
+    "ville": "ludes",
+    "cp": "51500"
+  },
+  {
+    "resultId": "12805808",
+    "mail": "asspremierspas@orange.fr",
+    "distance": 58546,
+    "latitude": 49.16087805759019,
+    "telephone": "0326611457",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Premiers Pas Ludes",
+    "resultStructId": "7550",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue de puisieulx",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.080819698593571,
+    "ville": "ludes",
+    "cp": "51500"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12866102",
+    "mail": "",
+    "distance": 171471,
+    "latitude": 48.95416428783309,
+    "telephone": "0149717977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueildu Centre \"Les 3 souhaits\"",
+    "resultStructId": "8952",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "73 rue de paris 93800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.310271665529485,
+    "ville": "epinaysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12865844",
+    "mail": "",
+    "distance": 171533,
+    "latitude": 48.95364912023528,
+    "telephone": "0148229001",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-Accueildu centre \"Les 3 amis\"",
+    "resultStructId": "115118",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "8 rue de l'eglise 93800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3098332872704526,
+    "ville": "epinaysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12866059",
+    "mail": "",
+    "distance": 171562,
+    "latitude": 48.95505650176334,
+    "telephone": "0148415272",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Halte-jeux\"Le Petit Prince\"",
+    "resultStructId": "115914",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "67 rue felix merlin 93800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.295240351148721,
+    "ville": "epinaysurseine",
+    "cp": ""
+  },
+  {
+    "resultId": "12865930",
+    "mail": "",
+    "distance": 171652,
+    "latitude": 48.95261357393813,
+    "telephone": "0149719945",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheFamiliale \"La Souris verte\"",
+    "resultStructId": "115918",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "7 rue mulot 93800",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.3093462973379957,
+    "ville": "epinaysurseine",
+    "cp": ""
+  }
+]

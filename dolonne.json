@@ -1,0 +1,242 @@
+[
+  {
+    "resultId": "12958466",
+    "mail": "papotsdile@microcreche-des-papots.fr",
+    "distance": 131810,
+    "latitude": 46.56243373012536,
+    "telephone": "0251908977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPapots d'Ile",
+    "resultStructId": "11100",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue georges clemenceau 85340 l ile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7814409681770937,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "60372145",
+    "mail": "elodielarrivoire@gmail.com",
+    "distance": 133510,
+    "latitude": 46.54142493019307,
+    "telephone": "0663514334",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuP'tit Cocon",
+    "resultStructId": "709910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de la violette 85340 les sables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7701929121345044,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "41699956",
+    "mail": "sophie.ropert@domimomes-services.fr",
+    "distance": 136089,
+    "latitude": 46.51911664432843,
+    "telephone": "0650096076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lesfilles d'olonne \"structure BABY MOMES\"",
+    "resultStructId": "221603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue desfreres lumieres 85340 les sables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7806687925797406,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12959111",
+    "mail": "ile.enfants@lsoagglo.fr",
+    "distance": 137044,
+    "latitude": 46.50220825309686,
+    "telephone": "0251201818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ile aux enfants\"",
+    "resultStructId": "703106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 rue des grands riaux 85180 lessables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.758380477067387,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12959025",
+    "mail": "",
+    "distance": 137741,
+    "latitude": 46.50390109930011,
+    "telephone": "0240609002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ile Vertime\"",
+    "resultStructId": "702120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la petite garliere 85100 lessables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.784606739468244,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12958466",
+    "mail": "papotsdile@microcreche-des-papots.fr",
+    "distance": 131810,
+    "latitude": 46.56243373012536,
+    "telephone": "0251908977",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPapots d'Ile",
+    "resultStructId": "11100",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "4 rue georges clemenceau 85340 l ile",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7814409681770937,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "60372145",
+    "mail": "elodielarrivoire@gmail.com",
+    "distance": 133510,
+    "latitude": 46.54142493019307,
+    "telephone": "0663514334",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "AuP'tit Cocon",
+    "resultStructId": "709910",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "5 rue de la violette 85340 les sables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7701929121345044,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "41699956",
+    "mail": "sophie.ropert@domimomes-services.fr",
+    "distance": 136089,
+    "latitude": 46.51911664432843,
+    "telephone": "0650096076",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "lesfilles d'olonne \"structure BABY MOMES\"",
+    "resultStructId": "221603",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 rue desfreres lumieres 85340 les sables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.7806687925797406,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12959111",
+    "mail": "ile.enfants@lsoagglo.fr",
+    "distance": 137044,
+    "latitude": 46.50220825309686,
+    "telephone": "0251201818",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ile aux enfants\"",
+    "resultStructId": "703106",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "105 rue des grands riaux 85180 lessables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.758380477067387,
+    "ville": "dolonne",
+    "cp": ""
+  },
+  {
+    "resultId": "12959025",
+    "mail": "",
+    "distance": 137741,
+    "latitude": 46.50390109930011,
+    "telephone": "0240609002",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Ile Vertime\"",
+    "resultStructId": "702120",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "40 rue de la petite garliere 85100 lessables",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": -1.784606739468244,
+    "ville": "dolonne",
+    "cp": ""
+  }
+]

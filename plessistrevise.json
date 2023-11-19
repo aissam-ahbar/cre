@@ -1,0 +1,98 @@
+[
+  {
+    "resultId": "12503587",
+    "mail": "aurelie.bacoco@leplessistrevise.fr",
+    "distance": 143534,
+    "latitude": 48.80315077766743,
+    "telephone": "0149622529",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil de l'Espace Germaine Poinso Chapuis",
+    "resultStructId": "692510",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "12 avenuede l'eden 94420 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.588853882678299,
+    "ville": "plessistrevise",
+    "cp": ""
+  },
+  {
+    "resultId": "57318549",
+    "mail": "",
+    "distance": 144195,
+    "latitude": 48.80735458597339,
+    "telephone": "0101010101",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "CrècheCollective Michele BOULAY Le Plessis Trévise",
+    "resultStructId": "674519",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "63 avenuedu general de gaulle 94420 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.580104300511157,
+    "ville": "plessistrevise",
+    "cp": ""
+  },
+  {
+    "resultId": "12510768",
+    "mail": "melanie.dutartre@leplessistrevise.fr",
+    "distance": 144649,
+    "latitude": 48.808705732665366,
+    "telephone": "0145946300",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Espaceau Bon Petit Diable",
+    "resultStructId": "692509",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "42 avenue ardouin 94420 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.5739870735323307,
+    "ville": "plessistrevise",
+    "cp": ""
+  },
+  {
+    "resultId": "12510854",
+    "mail": "dir.moussaillons@leplessistrevise.fr",
+    "distance": 144734,
+    "latitude": 48.80896416258143,
+    "telephone": "0156862723",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multiaccueil Les Mousaillons",
+    "resultStructId": "619901",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "14 residence des chenes avenuedu general leclerc 94420 le",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.57284072976289,
+    "ville": "plessistrevise",
+    "cp": ""
+  }
+]

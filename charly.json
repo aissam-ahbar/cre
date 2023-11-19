@@ -1,0 +1,74 @@
+[
+  {
+    "resultId": "12890741",
+    "mail": "creche@mairie-charly.fr",
+    "distance": 183834,
+    "latitude": 45.65212297802336,
+    "telephone": "0472304886",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueilLes Tiloulous",
+    "resultStructId": "687909",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "170 allee des peupliers",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.794936062895558,
+    "ville": "charly",
+    "cp": "69390"
+  },
+  {
+    "resultId": "12890698",
+    "mail": "filobebes@yahoo.fr",
+    "distance": 184073,
+    "latitude": 45.64961118707449,
+    "telephone": "0973143032",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Microcrèche Fil-O-Bébés",
+    "resultStructId": "447401",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "56 rue des gobins",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.7934101178991835,
+    "ville": "charly",
+    "cp": "69390"
+  },
+  {
+    "resultId": "54117180",
+    "mail": "contact@upy-creche.fr",
+    "distance": 184095,
+    "latitude": 45.6492285865145,
+    "telephone": "0749002709",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-crècheUP'Y Charly",
+    "resultStructId": "567502",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "62 route du bas privas",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 4.792493955991028,
+    "ville": "charly",
+    "cp": "69390"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "resultId": "12733095",
+    "mail": "micro-creche.ambrault@orange.fr",
+    "distance": 173874,
+    "latitude": 46.78432960168364,
+    "telephone": "0254031261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Graine de bébé\"",
+    "resultStructId": "698311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9617217219605305,
+    "ville": "ambrault",
+    "cp": "36120"
+  },
+  {
+    "resultId": "12733095",
+    "mail": "micro-creche.ambrault@orange.fr",
+    "distance": 32310,
+    "latitude": 46.78432960168364,
+    "telephone": "0254031261",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "MicroCrèche \"Graine de bébé\"",
+    "resultStructId": "698311",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "9 rue du stade",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 1.9617217219605305,
+    "ville": "ambrault",
+    "cp": "36120"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "resultId": "12968141",
+    "mail": "lesfrimousses@micro-baby.com",
+    "distance": 3250,
+    "latitude": 50.460455956454275,
+    "telephone": "0321542150",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lesfrimousses",
+    "resultStructId": "685318",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue de buffon 62114 sains",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.67796698828044,
+    "ville": "engohelle",
+    "cp": ""
+  },
+  {
+    "resultId": "13003057",
+    "mail": "microcrecheloos@free.fr",
+    "distance": 5189,
+    "latitude": 50.46049320140812,
+    "telephone": "0628346803",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Micro-Crèche\" Max, Lise et leurs Amis - Loos en Gohelle",
+    "resultStructId": "12137",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 ter ruejean baptiste roussel 62750 loos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.7895749737336573,
+    "ville": "engohelle",
+    "cp": ""
+  },
+  {
+    "resultId": "59781074",
+    "mail": "lpg-loos@les-petites-graines.fr",
+    "distance": 5212,
+    "latitude": 50.46047299913184,
+    "telephone": "0361485685",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Lespetites graines - Loos en gohelle",
+    "resultStructId": "699906",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "54 rue jean baptisteroussel 62750 loos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.789896392312783,
+    "ville": "engohelle",
+    "cp": ""
+  },
+  {
+    "resultId": "12998413",
+    "mail": "valerie.bassery@loos-en-gohelle.fr",
+    "distance": 5462,
+    "latitude": 50.45782275748633,
+    "telephone": "0608810996",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "Multi-accueil\"Pomme d'Api\"",
+    "resultStructId": "191504",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue decrombecque - salle duvauchelle62750 loos",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.792296789457823,
+    "ville": "engohelle",
+    "cp": ""
+  },
+  {
+    "resultId": "13012560",
+    "mail": "montigny.gohelle@lpcr.fr",
+    "distance": 15417,
+    "latitude": 50.42925333334829,
+    "telephone": "0121764666",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LesPitchounes Montigny en Gohelle",
+    "resultStructId": "677810",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "rue hrastnik 62640montigny",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.9255399497779924,
+    "ville": "engohelle",
+    "cp": ""
+  },
+  {
+    "resultId": "60067181",
+    "mail": "lecheminmerveilleux@orange.fr",
+    "distance": 16120,
+    "latitude": 50.36278067213738,
+    "telephone": "0321211198",
+    "statusCompte": 2,
+    "type": "EAJE",
+    "nom": "LeChemin Merveilleux",
+    "resultStructId": "704006",
+    "omegaId": "0",
+    "avip": false,
+    "adresse": "2 rue des acacias 62580 arleux",
+    "details": {
+      "dispo": {
+        "allNonRenseigne": true
+      }
+    },
+    "derniereModifDate": "19/11/2023",
+    "dispo": false,
+    "longitude": 2.8661369004497694,
+    "ville": "engohelle",
+    "cp": ""
+  }
+]
